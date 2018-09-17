@@ -37,6 +37,7 @@ public class Demo {
 		System.out.println (" Verb group = " + word.getSynset().getLexicalFile().getName()) ;
 		System.out.println (" Verb group = " + word.getSynset().getLexicalFile().getNumber()) ;		
 		System.out.println (" Verb group = " + word.getSynset().getLexicalFile().getDescription()) ;
+		//crud
 		
 //		String text = "Who is running? When is the election? Trump is the worst. Obama is the best candidate.";
 //		Ta ta = new Ta();
