@@ -1,0 +1,13 @@
+be
+become
+come
+do
+go
+have
+hear
+make
+put
+suppose
+take
+try
+
