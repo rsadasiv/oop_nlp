@@ -36,7 +36,7 @@ public class GmailHandler {
 
 	private static final String APPLICATION_NAME = "oop-nlp";
 	private static final JsonFactory JSON_FACTORY = JacksonFactory.getDefaultInstance();
-	private static final String TOKENS_DIRECTORY_PATH = "tokens";
+	private static final String TOKENS_DIRECTORY_PATH = "src/main/resources/tokens";
 
 	/**
 	 * Global instance of the scopes required by this quickstart. If modifying these
