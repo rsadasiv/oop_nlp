@@ -4,6 +4,7 @@ import java.util.Properties;
 
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
+import edu.stanford.nlp.paragraphs.ParagraphAnnotator;
 
 public class Ta {
 
@@ -14,8 +15,18 @@ public class Ta {
 		// set up pipeline properties
 		Properties props = new Properties();
 		// set the list of annotators to run
-		props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,parse,sentiment");
+	    // adding our own annotator property
+	    props.put("customAnnotatorClass.paragraphs",
+	            "com.outofprintmagazine.nlp.annotators.ParagraphAnnotator");
+	    props.put("customAnnotatorClass.gender",
+	            "com.outofprintmagazine.nlp.annotators.GenderAnnotator");	    
+	    props.put("paragraphs.paragraphBreak", "two");
+
+	    // configure pipeline
+	//    edu.stanford.nlp.paragraphs.ParagraphAnnotator x = new edu.stanford.nlp.paragraphs.ParagraphAnnotator(props, verbose)
+		props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,parse,sentiment,paragraphs,gender");
 		props.setProperty("ner.applyFineGrained", "false");
+
 		
 		// build pipeline
 		pipeline = new StanfordCoreNLP(props);		

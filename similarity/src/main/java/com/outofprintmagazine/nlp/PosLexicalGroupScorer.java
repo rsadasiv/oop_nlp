@@ -30,7 +30,7 @@ public class PosLexicalGroupScorer {
 
 	public PosLexicalGroupScorer() throws IOException {
 		super();
-		dict = new Dictionary(new URL("file", null, "c:/users/rsada/eclipse-workspace/NLP/src/main/resources/wn3.1.dict/dict"));
+		dict = new Dictionary(new URL("file", null, "C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\wn3.1.dict\\dict"));
 		dict.open();
 	}
 	

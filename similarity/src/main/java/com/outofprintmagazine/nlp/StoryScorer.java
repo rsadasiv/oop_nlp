@@ -27,224 +27,139 @@ public class StoryScorer {
 		super();
 	}
 
-	public void score(Story story) throws IOException {
+	public Analysis score(Story story) throws IOException {
+		Analysis analysis = new Analysis();
 		Ta ta = new Ta();
 		CoreDocument document = ta.annotate(story.getBody());
-		
+		CountScorer countScorer = new CountScorer();		
 		MentionTypeScorer mentionTypeScorer = new MentionTypeScorer();
 		SentenceQuestionScorer sentenceQuestionScorer = new SentenceQuestionScorer();
 		PosScorer posScorer = new PosScorer();
 		PosLexicalGroupScorer posLexicalGroupScorer = new PosLexicalGroupScorer();		
 		SentimentScorer sentimentScorer = new SentimentScorer();
+
+		analysis.setCountScores( 
+				countScorer.score(
+					document, 
+					null,
+					null,
+					null)
+				);
 		
-		ArrayList<Score> peopleScores = 
+		analysis.setPeopleScores( 
 				mentionTypeScorer.score(
 					document, 
 					Arrays.asList("PERSON"),
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/Pronouns.txt").toPath(), Charset.defaultCharset()),
-					null);
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Pronouns.txt").toPath(), Charset.defaultCharset()),
+					null)
+				);
+
+		analysis.setMaleScores( 
+				mentionTypeScorer.score(
+					document, 
+					Arrays.asList("PERSON"),
+					null,
+					Arrays.asList("MALE"))
+				);
+	
+		analysis.setFemaleScores( 
+				mentionTypeScorer.score(
+					document, 
+					Arrays.asList("PERSON"),
+					null,
+					Arrays.asList("FEMALE"))
+				);
 		
-		ArrayList<Score> locationScores = 
+		analysis.setLocationScores(
 				mentionTypeScorer.score(
 					document, 
 					Arrays.asList("LOCATION"), 
 					null,
-					null);
+					null)
+				);
 
-		ArrayList<Score> questionScores = 
+		analysis.setQuestionScores( 
 				sentenceQuestionScorer.score(
 					document,
 					Arrays.asList("?"),
 					null,
-					null);
+					null)
+				);
 		
-		ArrayList<Score> topicScores = 
+		analysis.setTopicScores( 
 				posScorer.score(
 					document, 
 					Arrays.asList("NN","NNS","NNP","NNPS"),
 					null, 
-					null);
+					null)
+				);
 		
-		ArrayList<Score> topicLexicalGroupScores = 
+		analysis.setTopicLexicalGroupScores( 
 				posLexicalGroupScorer.score(
 					document, 
 					Arrays.asList("NN","NNS","NNP","NNPS"),
 					null, 
-					null);
+					null)
+				);
 		
-		ArrayList<Score> actionScores = 
+		analysis.setActionScores( 
 				posScorer.score(
 					document, 
 					Arrays.asList("VB","VBD","VBG","VBN","VBP","VBZ"), 
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/StativeVerbs.txt").toPath(), Charset.defaultCharset()), 
-					null);
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\StativeVerbs.txt").toPath(), Charset.defaultCharset()), 
+					null)
+				);
 
-		ArrayList<Score> actionLexicalGroupScores = 
+		analysis.setActionLexicalGroupScores( 
 				posLexicalGroupScorer.score(
 					document, 
 					Arrays.asList("VB","VBD","VBG","VBN","VBP","VBZ"),
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/StativeVerbs.txt").toPath(), Charset.defaultCharset()),
-					null);		
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\StativeVerbs.txt").toPath(), Charset.defaultCharset()),
+					null)
+				);		
 		
-		ArrayList<Score> sentimentScores = 
+		analysis.setSentimentScores( 
 				sentimentScorer.score(
 					document, 
 					null,
 					null, 
-					null);		
+					null)
+				);		
 		
-		ArrayList<Score> adjectiveScores = 
+		analysis.setAdjectiveScores( 
 				posScorer.score(
 					document, 
 					Arrays.asList("JJ","JJR","JJS"), 
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/Adjectives.txt").toPath(), Charset.defaultCharset()), 
-					null);
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Adjectives.txt").toPath(), Charset.defaultCharset()), 
+					null)
+				);
 
-		ArrayList<Score> adverbScores = 
+		analysis.setAdverbScores(
 				posScorer.score(
 					document, 
 					Arrays.asList("RB","RBR","RBS"), 
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/Adverbs.txt").toPath(), Charset.defaultCharset()), 
-					null);
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Adverbs.txt").toPath(), Charset.defaultCharset()), 
+					null)
+				);
 		
 		
-		ArrayList<Score> colorScores = 
+		analysis.setColorScores(
 				posScorer.score(
 					document, 
 					Arrays.asList("JJ","JJR","JJS"), 
 					null, 
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/Colors.txt").toPath(), Charset.defaultCharset()));		
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Colors.txt").toPath(), Charset.defaultCharset()))
+				);		
 		
-		ArrayList<Score> flavorScores = 
+		analysis.setFlavorScores(
 				posScorer.score(
 					document, 
 					Arrays.asList("JJ","JJR","JJS"), 
 					null, 
-					Files.readAllLines(new File("c:/users/rsada/eclipse-workspace/NLP/src/main/resources/Flavors.txt").toPath(), Charset.defaultCharset()));	
+					Files.readAllLines(new File("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Flavors.txt").toPath(), Charset.defaultCharset()))
+				);	
 
-		
-		System.out.println("People:");
-		for (int i=0;i<peopleScores.size() && i < 10; i++) {
-			Score score = peopleScores.get(i);
-			if (score.getScore() > 1) {
-				System.out.println(score);
-			}
-		}
-		System.out.println();
-		
-		System.out.println("Places:");
-		for (int i=0;i<locationScores.size() && i < 20; i++) {
-			Score score = locationScores.get(i);
-			boolean shouldAdd = true;
-			for (Score person : peopleScores) {
-				if (person.getName().equals(score.getName())) {
-					shouldAdd = false;
-					break;
-				}
-			}
-			if (shouldAdd) {
-				if (score.getScore() > 1) {
-					System.out.println(score);
-				}
-			}
-		}
-		System.out.println();
-		
-		System.out.println("Topics:");
-		for (int i=0;i<topicScores.size() && i < 20; i++) {
-			Score score = topicScores.get(i);
-			if (!Character.isUpperCase(score.getName().charAt(0))) {
-				if (score.getScore() > 1) {
-					System.out.println(score);
-				}
-			}
-		}
-		System.out.println();
-		
-		System.out.println("TopicLexicalGroups:");
-		for (int i=0;i<topicLexicalGroupScores.size() && i < 20; i++) {
-			Score score = topicLexicalGroupScores.get(i);
-			if (!Character.isUpperCase(score.getName().charAt(0))) {
-				if (score.getScore() > 1) {
-					System.out.println(score);
-				}
-			}
-		}
-		System.out.println();
-		
-		System.out.println("Adjectives:");
-		for (int i=0;i<adjectiveScores.size() && i < 20; i++) {
-			Score score = adjectiveScores.get(i);
-			if (score.getScore() > 1) {
-				System.out.println(score);
-			}
-		}
-		System.out.println();
-		
-		System.out.println("Actions:");
-		for (int i=0;i<actionScores.size() && i < 20; i++) {
-			Score score = actionScores.get(i);
-			if (score.getScore() > 1) {
-				System.out.println(score);
-			}
-		}
-		System.out.println();
-		
-		System.out.println("ActionLexicalGroups:");
-		for (int i=0;i<actionLexicalGroupScores.size() && i < 20; i++) {
-			Score score = actionLexicalGroupScores.get(i);
-			if (score.getScore() > 1) {
-				System.out.println(score);
-			}
-		}
-		System.out.println();		
-		
-		System.out.println("Adverbs:");
-		for (int i=0;i<adverbScores.size() && i < 20; i++) {
-			Score score = adverbScores.get(i);
-			if (score.getScore() > 1) {
-				System.out.println(score);
-			}
-		}
-		System.out.println();
-		
-		System.out.println("Colors:");
-		for (int i=0;i<colorScores.size() && i < 10; i++) {
-			Score score = colorScores.get(i);
-			System.out.println(score);
-		}
-		System.out.println();
-		
-		System.out.println("Flavors:");
-		for (int i=0;i<flavorScores.size() && i < 10; i++) {
-			Score score = flavorScores.get(i);
-			System.out.println(score);
-		}
-		System.out.println();
-		
-		
-		System.out.println("Questions:");
-		for (int i=0;i<questionScores.size() && i < 1; i++) {
-			Score score = questionScores.get(i);
-			System.out.println(score.getName());
-		}
-		System.out.println();
-		
-		System.out.println("Sentiment:");
-		double documentSentimentSum = 0.00;
-		for (int i=0;i<sentimentScores.size(); i++) {
-			int score = sentimentScores.get(i).getScore();
-			documentSentimentSum += score;
-		}
-		if (sentimentScores.size() == 0) {
-			System.out.println(0);
-		}
-		else {
-			DecimalFormat df = new DecimalFormat("0.00"); 
-			df.setRoundingMode(RoundingMode.CEILING);
-			System.out.println(df.format(documentSentimentSum/sentimentScores.size()));	
-		}
-		System.out.println();
+		return analysis;
 	}
 	
 	public static void main(String[] args) throws IOException, TikaException, ParseException {
@@ -286,7 +201,7 @@ public class StoryScorer {
 				for (Story story : issue.getStories()) {
 					System.out.println("Story:");
 					System.out.println(story);
-					me.score(story);
+					System.out.println(me.score(story));
 					System.out.println("-----------------------------------------");
 				}
 			}

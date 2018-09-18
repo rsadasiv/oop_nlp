@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.ListIterator;
 import java.util.Map.Entry;
 
+import edu.stanford.nlp.ling.CoreAnnotations.GenderAnnotation;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.pipeline.CoreSentence;
@@ -30,7 +31,16 @@ public class MentionTypeScorer {
 			for (CoreEntityMention mention : entityMentions) {
 				if (mentionTypes.contains(mention.entityType())) {
 					if (stopWords == null || !stopWords.contains(mention.canonicalEntityMention().get().text())) {
-						rawScores.add(mention.canonicalEntityMention().get().text());
+						if (matchWords != null) {
+							if (mention.coreMap().containsKey(GenderAnnotation.class)) {
+								if (matchWords.contains(mention.coreMap().get(GenderAnnotation.class))) {
+									rawScores.add(mention.canonicalEntityMention().get().text());
+								}
+							}
+						}
+						else {
+							rawScores.add(mention.canonicalEntityMention().get().text());
+						}
 					}
 				}
 			}

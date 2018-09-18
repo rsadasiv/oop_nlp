@@ -15,6 +15,8 @@ public class Story {
 	private String bio = new String();
 	private ArrayList<String> credits;
 	private String url = new String();
+	private int fileSize = 0;
+
 	
 	public String getAuthor() {
 		return author;
