@@ -1,0 +1,128 @@
+-- select offset_start, offset_end, score_value, error_bar from analysis where document_id = ? and analysis_name = 'sentiment' order by offset_start
+
+-- select score_name, score_value from analysis where document_id = ? and analysis_name = 'people' order by score_value desc
+-- select offset_start, offset_end, score_name, error_bar from analysis where document_id = ? and analysis_name = 'people' amd score_name in (?) order by offset_start
+
+-- select score_name, score_value from analysis where document_id = ? and analysis_name = 'places' order by score_value desc
+-- select offset_start, offset_end, score_name, error_bar from analysis where document_id = ? and analysis_name = 'place' amd score_name in (?) order by offset_start
+
+
+-- luminosity
+-- sentiment
+-- people
+
+-- slideshow
+-- places
+
+-- swirl
+-- uncommon
+-- adjectives
+
+-- flash
+-- action
+
+-- fade
+-- question
+
+-- text to speech - Polly
+-- choose voice based on gender
+-- timing
+
+--categorization
+-- male/female
+-- number of adjectives/number of adverbs
+-- topic, topic_group, action_group, lemmas
+
+genre?
+marriage
+death
+crazy
+violent
+domestic
+nature
+
+-----
+cli re-upload Submissions to s3, set content type and encoding appropriately
+aws s3 sync . s3://oop-nlp/Submissions/ --content-type 'text/plain; charset=utf-8' --sse --acl public-read
+
+upload wiki, blogger, Dickens to S3
+
+//Make wordnet, dictionaries part of ta, share across scorers
+
+//new scorers:
+//words not in wordnet
+//sentences without verbs
+//lemmas
+
+TODO, int is a problem, ScorerImpl:68
+every counting measure divided by number of tokens, scaled to 100
+
+Hand score for genre
+
+-----
+
+Pass 1
+Run TopicLexicalGroupScores
+Calculate TopTopicGroup
+
+Run ActionLexicalGroupScores
+Calculate TopActionGroup
+
+Run LocationScores
+Calculate Locations
+
+Run PeopleScores
+Calculate TopCharacters
+
+Run MaleScores
+Run FemaleScores
+Run UncommonScores
+Run ReadabilityScores
+Run AdjectiveScores
+
+Output
+sum(MaleScores)/(sum(MaleScores)+sum(FemaleScores))*100 = Male
+sum(FemaleScores)/(sum(MaleScores)+sum(FemaleScores))*100 = Female
+sum(ReadabilityScores)/count(ReadabilityScores) = Simplicity
+count(UncommonScores)/count(sentences)*100 = Style
+count(AdjectiveScores)/count(sentences)*100 = Flamboyance
+
+
+Pass 2
+Run Character scores filtered to top 3
+Run Location
+Run Topic
+Run Action
+Run SentimentScores
+Run VaderSentimentScores
+Run QuestionScores
+Run AdjectiveScores
+Run UncommonScores
+
+Output
+each character score - leitmotif/ring tone
+Location/Topic to flickr?
+sentiment
+vader sentiment
+TopicScores
+ActionScores
+Question Scores
+AdjectiveScores
+UncommonScores
+
+
+The count is given by the getTagCount() method, for which the documentation states
+
+Returns the tag count for the sense entry. 
+A tag count is a non-negative integer that represents the number of times the sense is tagged in various semantic concordance texts. 
+A count of 0 indicates that the sense has not been semantically tagged.
+
+IIndexWord indexWord = dict.getIndexWord(lemma, POS.NOUN); // or verbs, etc.
+
+List<IWordID> wrdIDs = indexWord.getWordIDs();
+for (IWordID id : wrdIDs) {
+    IWord word  = dict.getWord(id);
+    int   count = dict.getSenseEntry(word.getSenseKey()).getTagCount();
+    System.out.println("Synset: "    + word.getSynset().getGloss());
+    System.out.println("Frequency: " + count);
+}
