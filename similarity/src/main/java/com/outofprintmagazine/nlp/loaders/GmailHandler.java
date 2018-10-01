@@ -84,16 +84,16 @@ public class GmailHandler {
 			List<Message> messages = Arrays.asList();
 			if (nextPage.equals("")) {
 				ListMessagesResponse listMessagesResponse = service.users().messages().list(user)
-						.setLabelIds(Arrays.asList("Label_5")).execute();
+						.setLabelIds(Arrays.asList("Label_5x")).execute();
 				messages = listMessagesResponse.getMessages();
 				nextPage = listMessagesResponse.getNextPageToken();
 			} else {
 				ListMessagesResponse listMessagesResponse = service.users().messages().list(user)
-						.setLabelIds(Arrays.asList("Label_5")).setPageToken(nextPage).execute();
+						.setLabelIds(Arrays.asList("Label_5x")).setPageToken(nextPage).execute();
 				messages = listMessagesResponse.getMessages();
 				nextPage = listMessagesResponse.getNextPageToken();
 			}
-			if (messages.isEmpty()) {
+			if (messages == null || messages.isEmpty()) {
 				System.out.println("No Messages found.");
 				break;
 			} 
