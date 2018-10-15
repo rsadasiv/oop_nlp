@@ -15,19 +15,34 @@ import java.io.PrintWriter;
 import java.io.Reader;
 import java.io.Writer;
 import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
+import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Set;
 import java.util.regex.*;
 
+import org.apache.http.HttpHost;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.protocol.HttpClientContext;
+import org.apache.http.client.utils.URIUtils;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.impl.client.LaxRedirectStrategy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import edu.mit.jverbnet.data.FrameType;
 import edu.mit.jverbnet.data.IFrame;
@@ -67,7 +82,7 @@ public class MatchTest {
 	    return titleCase.toString();
 	}
 	
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException, URISyntaxException {
 
 		
 //			List<String> stopWords = Files.readAllLines(
@@ -97,81 +112,42 @@ public class MatchTest {
 //			fout.close();
 //		api.php?action=query&titles=picture&prop=categories
 //		#mw-normal-catlinks > ul > li:nth-child(1) > a
+		//String topic = "Photography";
+//		String topic = "picture";
+//		ObjectMapper objectMapper = new ObjectMapper();
+//		JsonNode rootNode = objectMapper.readValue(new URL("https://en.wikipedia.org/w/api.php?action=query&redirects&format=json&utf-8=1&formatversion=2&titles="+topic), JsonNode.class);
+//		System.out.println(rootNode);
+//		JsonNode pagesNode = rootNode.get("query").get("pages");
+//		if (pagesNode.isArray()) {
+//			for (final JsonNode pageNode : pagesNode) {
+//				if (pageNode.get("missing") == null || !pageNode.get("missing").asBoolean()) {
+//					System.out.println(pageNode.get("title").asText());
+//					JsonNode categoryRootNode = objectMapper.readValue(new URL("https://en.wikipedia.org/w/api.php?format=json&action=query&prop=categories&utf8=1&titles="+pageNode.get("title").asText()), JsonNode.class);
+//					System.out.println(categoryRootNode);
+//					JsonNode pageCategoriesNode = categoryRootNode.get("query").get("pages");
+//					Iterator<Entry<String, JsonNode>> fieldsIter = pageCategoriesNode.fields();
+//					while (fieldsIter.hasNext()) {
+//						JsonNode categoriesNode = fieldsIter.next().getValue().get("categories");
+//						if (categoriesNode.isArray()) {
+//							for (final JsonNode categoryNode : categoriesNode) {
+//								String categoryName = categoryNode.get("title").asText().substring("Category:".length());
+//								if (!categoryName.startsWith("All") && !categoryName.startsWith("Articles")) {
+//									System.out.println(categoryName);
+//								}
+//							}
+//						}
+//					}
+//				}
+//		    }
+//		}
+		
+		
 //for each topic
 //	https://en.wikipedia.org/wiki/%topic%
 //	until you dont get a redirect
 //	https://en.wikipedia.org/wiki/%title%
 //			
 //https://en.wikipedia.org/w/api.php?format=json&action=query&prop=categories&utf8=1&titles=%title1|title2|title3%
-//{
-//"continue": {
-//"clcontinue": "25080|Photographs",
-//"continue": "||"
-//},
-//"query": {
-//"pages": {
-//"8376": {
-//"pageid": 8376,
-//"ns": 0,
-//"title": "Day",
-//"categories": [
-//{
-//"ns": 14,
-//"title": "Category:All articles containing potentially dated statements"
-//},
-//{
-//"ns": 14,
-//"title": "Category:All articles with unsourced statements"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Articles containing potentially dated statements from October 2015"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Articles with unsourced statements from October 2015"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Day"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Orders of magnitude (time)"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Units of time"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Wikipedia articles with GND identifiers"
-//}
-//]
-//},
-//"25080": {
-//"pageid": 25080,
-//"ns": 0,
-//"title": "Photograph",
-//"categories": [
-//{
-//"ns": 14,
-//"title": "Category:Art media"
-//},
-//{
-//"ns": 14,
-//"title": "Category:Commons category without a link on Wikidata"
-//}
-//]
-//},
-//"30012": {
-//"pageid": 30012,
-//"ns": 0,
-//"title": "Time"
-//}
-//}
-//}
-//}
 //https://en.wikipedia.org/w/api.php?format=json&action=query&prop=categories&utf8=1&titles=%title1|title2|title3%&clcontinue=25080|Photographs
 		
 //		PrintWriter fout = new PrintWriter(new BufferedWriter(new FileWriter("C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\FemaleIndianNames.txt", true)));	
@@ -277,48 +253,48 @@ end return (best-sense)
 //	    }
 //	        
 //		
-		
-		String lemma = "hit";
-		POS wnPos = POS.NOUN;
-		
-		IDictionary wordnet = new Dictionary(new URL("file", null, "C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\wn3.1.dict\\dict"));
-		wordnet.open();
-
-		IIndexWord idxWord = wordnet.getIndexWord (lemma, wnPos);
-		if (idxWord != null && idxWord.getWordIDs().size() > 0) {
-			for (IWordID wordID : idxWord.getWordIDs()) {
-				IWord word = wordnet.getWord(wordID);
-				System.out.println("Lemma: " + word.getLemma());
-				System.out.println("SenseKey: " + word.getSenseKey());
-				System.out.println("SenseNumber: " + wordnet.getSenseEntry(word.getSenseKey()).getSenseNumber());
-				System.out.println("SenseCount: " + wordnet.getSenseEntry(word.getSenseKey()).getTagCount());
-				String gloss = word.getSynset().getGloss();
-				String[] glossSplit = gloss.split(";");
-				System.out.println("Gloss: " + glossSplit[0]);
-				if (glossSplit.length > 0) {
-					StringBuffer examples = new StringBuffer();
-					for (int i=1;i<glossSplit.length;i++) {
-						examples.append(glossSplit[i]);
-						examples.append(" ");
-					}
-					System.out.println("Examples: " + examples.toString());
-				}
-				ISynset synset = word.getSynset();
-		        for (IWord w : synset.getWords()) {
-		            System.out.println("synset syn: " + w.getLemma());
-		        }
-				Map<IPointer, List<IWordID>> synsetMap = word.getRelatedMap();
-				for (IPointer ptr : synsetMap.keySet()) {
-					System.out.println("ptr: " + ptr.getName());
-					for (IWordID synId : synsetMap.get(ptr)) {
-						IWord syn = wordnet.getWord(synId);
-						System.out.println(syn.getLemma());
-					}
-				}
-				System.out.println("---------------------------------------");
-			}
-
-		}
+//		
+//		String lemma = "hit";
+//		POS wnPos = POS.NOUN;
+//		
+//		IDictionary wordnet = new Dictionary(new URL("file", null, "C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\wn3.1.dict\\dict"));
+//		wordnet.open();
+//
+//		IIndexWord idxWord = wordnet.getIndexWord (lemma, wnPos);
+//		if (idxWord != null && idxWord.getWordIDs().size() > 0) {
+//			for (IWordID wordID : idxWord.getWordIDs()) {
+//				IWord word = wordnet.getWord(wordID);
+//				System.out.println("Lemma: " + word.getLemma());
+//				System.out.println("SenseKey: " + word.getSenseKey());
+//				System.out.println("SenseNumber: " + wordnet.getSenseEntry(word.getSenseKey()).getSenseNumber());
+//				System.out.println("SenseCount: " + wordnet.getSenseEntry(word.getSenseKey()).getTagCount());
+//				String gloss = word.getSynset().getGloss();
+//				String[] glossSplit = gloss.split(";");
+//				System.out.println("Gloss: " + glossSplit[0]);
+//				if (glossSplit.length > 0) {
+//					StringBuffer examples = new StringBuffer();
+//					for (int i=1;i<glossSplit.length;i++) {
+//						examples.append(glossSplit[i]);
+//						examples.append(" ");
+//					}
+//					System.out.println("Examples: " + examples.toString());
+//				}
+//				ISynset synset = word.getSynset();
+//		        for (IWord w : synset.getWords()) {
+//		            System.out.println("synset syn: " + w.getLemma());
+//		        }
+//				Map<IPointer, List<IWordID>> synsetMap = word.getRelatedMap();
+//				for (IPointer ptr : synsetMap.keySet()) {
+//					System.out.println("ptr: " + ptr.getName());
+//					for (IWordID synId : synsetMap.get(ptr)) {
+//						IWord syn = wordnet.getWord(synId);
+//						System.out.println(syn.getLemma());
+//					}
+//				}
+//				System.out.println("---------------------------------------");
+//			}
+//
+//		}
 //
 //		String x = "This is a test; of nothing";
 //		String[] split = x.split(";");

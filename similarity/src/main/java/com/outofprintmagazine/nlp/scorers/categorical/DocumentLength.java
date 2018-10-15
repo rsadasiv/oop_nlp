@@ -24,9 +24,9 @@ public class DocumentLength extends ScorerImpl implements DocumentCategoricalSco
 	@Override
 	public List<Score> scoreDocument(CoreDocument document) {
 		ArrayList<Score> retval = new ArrayList<Score>();
-		int tokenCount = 0;
-		int sentenceCount = 0;
-		int paragraphCount = 0;
+		double tokenCount = 0;
+		double sentenceCount = 0;
+		double paragraphCount = 0;
 		
 		for (CoreSentence sentence : document.sentences()) {
 			sentenceCount++;

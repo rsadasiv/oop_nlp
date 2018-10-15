@@ -20,7 +20,7 @@ public class Analyses {
 	 * Create table if not exists
 	 */
 	private HashMap<String, List<Score>> categoricalScores = new HashMap<String, List<Score>>();
-	private HashMap<String, List<Integer>> descriptiveScores = new HashMap<String, List<Integer>>();
+	private HashMap<String, List<Double>> descriptiveScores = new HashMap<String, List<Double>>();
 	private HashMap<String, Score> scalarScores = new HashMap<String, Score>();
 	private String corpus = "default";
 	private String id;
@@ -78,19 +78,19 @@ public class Analyses {
 		return getCategoricalScores().get(analysisName);
 	}
 	
-	public void setDescriptiveScores(HashMap<String, List<Integer>> descriptiveScores) {
+	public void setDescriptiveScores(HashMap<String, List<Double>> descriptiveScores) {
 		this.descriptiveScores = descriptiveScores;
 	}
 
-	public HashMap<String, List<Integer>> getDescriptiveScores() {
+	public HashMap<String, List<Double>> getDescriptiveScores() {
 		return descriptiveScores;
 	}
 	
-	public void putDescriptiveScore(String analysisName, List<Integer> scores) {
+	public void putDescriptiveScore(String analysisName, List<Double> scores) {
 		getDescriptiveScores().put(analysisName, scores);
 	}
 	
-	public List<Integer> getDescriptiveScore(String analysisName) {
+	public List<Double> getDescriptiveScore(String analysisName) {
 		return getDescriptiveScores().get(analysisName);
 	}
 
@@ -121,9 +121,9 @@ public class Analyses {
 		Collections.sort(sortedKeys);
 		for (String analysisName : sortedKeys) {
 			ps.print(String.format("%s,", analysisName));
-			List<Integer> scores = getDescriptiveScore(analysisName);
+			List<Double> scores = getDescriptiveScore(analysisName);
 			for (int i=0;i<scores.size();i++) {
-				Integer score = scores.get(i);
+				Double score = scores.get(i);
 				ps.print(score.toString());
 				if (i < scores.size()) {
 					ps.print(",");

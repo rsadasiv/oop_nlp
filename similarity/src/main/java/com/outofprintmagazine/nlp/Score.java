@@ -6,18 +6,18 @@ public class Score {
 		super();
 	}
 	
-	public Score(String name, Integer score) {
+	public Score(String name, Double score) {
 		this.name = name;
-		this.score = score.intValue();
+		this.score = score.doubleValue();
 	}
 	
-	public Score(String name, int score) {
+	public Score(String name, double score) {
 		this.name = name;
 		this.score = score;
 	}
 
 	private String name;
-	private int score;
+	private double score;
 	
 	public String getName() {
 		return name;
@@ -25,10 +25,10 @@ public class Score {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public int getScore() {
+	public double getScore() {
 		return score;
 	}
-	public void setScore(int score) {
+	public void setScore(double score) {
 		this.score = score;
 	}
 

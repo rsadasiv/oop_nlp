@@ -50,8 +50,13 @@ public class Ta {
 
 	    // configure pipeline
 	//    edu.stanford.nlp.paragraphs.ParagraphAnnotator x = new edu.stanford.nlp.paragraphs.ParagraphAnnotator(props, verbose)
-		props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,parse,sentiment,paragraphs,gender");
-		props.setProperty("ner.applyFineGrained", "false");
+		props.setProperty("annotators","tokenize,ssplit,pos,lemma,ner,parse,sentiment,paragraphs,gender,coref");
+		props.setProperty("ner.applyFineGrained", "true");
+		//props.setProperty("dcoref.maxdist", "2");
+		props.setProperty("coref.algorithm", "statistical");
+		props.setProperty("coref.maxMentionDistance", "15");
+		props.setProperty("coref.maxMentionDistanceWithStringMatch", "300");
+		props.setProperty("coref.statisical.pairwiseScoreThresholds", ".5");
 		
 		return props;
 	}

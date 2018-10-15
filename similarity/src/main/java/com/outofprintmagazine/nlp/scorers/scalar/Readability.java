@@ -33,7 +33,7 @@ public class Readability extends DocumentScalarScorerImpl implements DocumentSca
 	}
 
 	@Override
-	public Score scoreDocument(CoreDocument document) {
+	public Score scoreDocumentScalar(CoreDocument document) {
 		int wordCount = 0;
 		int syllableCount = 0;
 		int sentenceCount = 0;
@@ -47,6 +47,6 @@ public class Readability extends DocumentScalarScorerImpl implements DocumentSca
 			}
 		}
 		double fk = 206.835 - (1.015*wordCount/sentenceCount) - (84.6*syllableCount/wordCount);
-		return new Score(getAnalysisName(), new Integer(new Double(fk).intValue()));
+		return new Score(getAnalysisName(), new Double(fk));
 	}
 }

@@ -7,12 +7,13 @@ import java.util.List;
 import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
+import com.outofprintmagazine.nlp.scorers.categorical.DocumentRankedCategoricalScorer;
 
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class People extends ScorerImpl implements DocumentCategoricalScorer{
+public class People extends ScorerImpl implements DocumentCategoricalScorer, DocumentRankedCategoricalScorer {
 	
 	private String exclude = "C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\Pronouns.txt";
 	
@@ -25,6 +26,7 @@ public class People extends ScorerImpl implements DocumentCategoricalScorer{
 		if (getTa().getList(exclude) == null) {
 			getTa().setList(exclude);
 		}
+		setAnalysisName("People");
 	}
 
 
@@ -49,6 +51,9 @@ public class People extends ScorerImpl implements DocumentCategoricalScorer{
 		return(rawScoresToScoreList(consolidateSubstrings(rawScores), document));
 	}
 
-
+	@Override
+	public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+		return super.scoreDocumentRanked(scoreDocument(document));
+	}
 
 }

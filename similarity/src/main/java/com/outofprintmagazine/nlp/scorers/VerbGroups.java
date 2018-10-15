@@ -10,6 +10,7 @@ import java.util.Map.Entry;
 import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
+import com.outofprintmagazine.nlp.scorers.categorical.DocumentRankedCategoricalScorer;
 import com.outofprintmagazine.nlp.scorers.descriptive.SentenceDescriptiveScorer;
 
 import edu.mit.jwi.item.ISenseKey;
@@ -17,7 +18,7 @@ import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class VerbGroups extends PosLexicalGroupScorerImpl implements DocumentCategoricalScorer, SentenceDescriptiveScorer {
+public class VerbGroups extends PosLexicalGroupScorerImpl implements DocumentCategoricalScorer, SentenceDescriptiveScorer, DocumentRankedCategoricalScorer {
 		
 
 //		public ActionGroups() throws IOException {
@@ -61,20 +62,24 @@ public class VerbGroups extends PosLexicalGroupScorerImpl implements DocumentCat
 		}
 
 		@Override
-		public List<Integer> scoreSentence(CoreSentence sentence) {
-			ArrayList<Integer> retval = new ArrayList<Integer>();
+		public List<Double> scoreSentence(CoreSentence sentence) {
+			ArrayList<Double> retval = new ArrayList<Double>();
 			List<CoreLabel> tokens = sentence.tokens();
 			for (int i = 0; i < tokens.size(); i++) {
 				String score = scoreToken(tokens.get(i), sentence);
 				if (score != null) {
-					retval.add(new Integer(1));
+					retval.add(new Double(1));
 				}
 				else {
-					retval.add(new Integer(0));
+					retval.add(new Double(0));
 				}
 			}
 			return retval;
 		}
-	
+
+		@Override
+		public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+			return scoreDocumentRanked(scoreDocument(document));
+		}
 	
 }

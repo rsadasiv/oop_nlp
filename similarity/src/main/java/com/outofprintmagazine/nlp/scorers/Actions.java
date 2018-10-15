@@ -49,17 +49,17 @@ public class Actions extends PosScorerImpl implements DocumentCategoricalScorer,
 	}
 	
 	@Override
-	public List<Integer> scoreSentence(CoreSentence sentence) {
-		ArrayList<Integer> retval = new ArrayList<Integer>();
+	public List<Double> scoreSentence(CoreSentence sentence) {
+		ArrayList<Double> retval = new ArrayList<Double>();
 		List<CoreLabel> tokens = sentence.tokens();
 		for (int i = 0; i < tokens.size(); i++) {
 
 			String score = scoreLemma(tokens.get(i));
 			if (score != null) {
-				retval.add(new Integer(1));
+				retval.add(new Double(1));
 			}
 			else {
-				retval.add(new Integer(0));
+				retval.add(new Double(0));
 			}
 		}
 		return retval;

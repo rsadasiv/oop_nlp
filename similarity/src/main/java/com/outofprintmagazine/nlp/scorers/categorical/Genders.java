@@ -13,7 +13,7 @@ import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class Genders extends ScorerImpl implements DocumentCategoricalScorer{
+public class Genders extends ScorerImpl implements DocumentCategoricalScorer,  DocumentRankedCategoricalScorer {
 	
 //	public Genders() {
 //		super();
@@ -41,7 +41,11 @@ public class Genders extends ScorerImpl implements DocumentCategoricalScorer{
 		}
 		return(rawScoresToScoreList(rawScores, document));
 	}
-
+	
+	@Override
+	public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+		return super.scoreDocumentRanked(scoreDocument(document));
+	}
 
 
 }

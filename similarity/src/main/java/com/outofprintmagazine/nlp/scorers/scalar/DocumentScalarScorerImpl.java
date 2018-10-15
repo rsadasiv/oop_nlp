@@ -15,7 +15,7 @@ public class DocumentScalarScorerImpl extends ScorerImpl implements DocumentScal
 
 	
 	DocumentCategoricalScorer scorer = null;
-	String analysisName = null;
+
 	List<String> scoreNames = new ArrayList<String>();
 	
 	public DocumentScalarScorerImpl() {
@@ -35,14 +35,6 @@ public class DocumentScalarScorerImpl extends ScorerImpl implements DocumentScal
 		this.scorer = scorer;
 	}
 
-	public String getAnalysisName() {
-		return analysisName;
-	}
-
-	public void setAnalysisName(String analysisName) {
-		this.analysisName = analysisName;
-	}
-
 	public List<String> getScoreNames() {
 		return scoreNames;
 	}
@@ -52,17 +44,18 @@ public class DocumentScalarScorerImpl extends ScorerImpl implements DocumentScal
 	}
 
 	@Override
-	public Score scoreDocument(CoreDocument document) throws IOException {
-		return scoreDocument(scorer.scoreDocument(document));
+	public Score scoreDocumentScalar(CoreDocument document) throws IOException {
+		return scoreDocumentScalar(scorer.scoreDocument(document));
 	}
 
 	@Override
-	public Score scoreDocument(List<Score> scores) throws IOException {
+	public Score scoreDocumentScalar(List<Score> scores) throws IOException {
 		return scoreListToScalar(scores, getScoreNames());
 	}
-	
+
+	@Override
 	protected Score scoreListToScalar(List<Score> scores, List<String> scoreNames) {
-		int total = 0;
+		double total = 0;
 		for (Score score : scores) {
 			if (scoreNames.size() == 0 || scoreNames.contains(score.getName())) {
 				total += score.getScore();

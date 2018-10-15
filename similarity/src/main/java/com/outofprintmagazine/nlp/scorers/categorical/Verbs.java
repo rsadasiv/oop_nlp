@@ -13,7 +13,7 @@ import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class Verbs extends PosScorerImpl implements DocumentCategoricalScorer {
+public class Verbs extends PosScorerImpl implements DocumentCategoricalScorer, DocumentRankedCategoricalScorer {
 	
 	
 //	public Verbs() {
@@ -49,4 +49,8 @@ public class Verbs extends PosScorerImpl implements DocumentCategoricalScorer {
 		return(rawScoresToScoreList(rawScores, document));
 	}
 
+	@Override
+	public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+		return super.scoreDocumentRanked(scoreDocument(document));
+	}
 }

@@ -9,8 +9,8 @@ import edu.stanford.nlp.pipeline.CoreDocument;
 
 public interface DocumentScalarScorer {
 	
-	public Score scoreDocument(CoreDocument document) throws IOException;
+	public Score scoreDocumentScalar(CoreDocument document) throws IOException;
 	
-	public Score scoreDocument(List<Score> scores) throws IOException;
+	public Score scoreDocumentScalar(List<Score> scores) throws IOException;
 
 }

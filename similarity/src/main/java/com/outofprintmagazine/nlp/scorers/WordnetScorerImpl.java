@@ -18,8 +18,8 @@ public abstract class WordnetScorerImpl extends ScorerImpl {
 	}
 	
 	
-	public Integer scoreToken(CoreLabel token) {
-		Integer score = new Integer(0);
+	public Double scoreToken(CoreLabel token) {
+		Double score = new Double(0);
 
 		POS wnPos = null;
 		if (token.tag().startsWith("N")) {
@@ -39,7 +39,7 @@ public abstract class WordnetScorerImpl extends ScorerImpl {
 			if (wnPos != null) {
 				IIndexWord idxWord = getTa().getWordnet().getIndexWord(token.lemma(), wnPos);
 				if (idxWord == null || idxWord.getWordIDs().size() == 0) {
-					score = new Integer(1);
+					score = new Double(1);
 				}
 			}
 			
@@ -47,7 +47,7 @@ public abstract class WordnetScorerImpl extends ScorerImpl {
 		catch (Throwable e) {
 			System.err.println(token.toString());
 			e.printStackTrace();
-			score = new Integer(1);
+			score = new Double(1);
 		}
 		return score;
 	}

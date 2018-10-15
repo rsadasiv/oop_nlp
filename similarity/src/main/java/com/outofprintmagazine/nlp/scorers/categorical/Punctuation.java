@@ -14,12 +14,12 @@ import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class Punctuation extends PosScorerImpl implements DocumentCategoricalScorer {
+public class Punctuation extends PosScorerImpl implements DocumentCategoricalScorer, DocumentRankedCategoricalScorer {
 	
 	HashMap<String,String> scoreLabelMap = new HashMap<String,String>();
 	
 	public Punctuation(Ta ta) throws IOException {
-		this(ta, Arrays.asList("``", "''","?", "??", "!", ":", ";", ","));
+		this(ta, Arrays.asList("``", "''","?", "??", "!", ":", ";", ",", "--", "-"));
 	}
 	
 	public Punctuation(Ta ta, List<String> tags) throws IOException {
@@ -35,7 +35,9 @@ public class Punctuation extends PosScorerImpl implements DocumentCategoricalSco
 		scoreLabelMap.put("!", "Exclamation");
 		scoreLabelMap.put(":", "Colon");
 		scoreLabelMap.put(";", "Semicolon");
-		scoreLabelMap.put(",", "Comma");		
+		scoreLabelMap.put(",", "Comma");
+		scoreLabelMap.put("--", "Hyphen");
+		scoreLabelMap.put("-", "Hyphen");
 	}
 	
 	@Override
@@ -48,9 +50,19 @@ public class Punctuation extends PosScorerImpl implements DocumentCategoricalSco
 				if (score != null) {
 					rawScores.add(scoreLabelMap.get(score));
 				}
+				else {
+					if (getTags().contains(tokens.get(i).lemma())) {
+						rawScores.add(scoreLabelMap.get(tokens.get(i).lemma()));
+					}
+				}
 			}
 		}
 		return(rawScoresToScoreList(rawScores, document));
 	}
-		
+	
+	@Override
+	public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+		return super.scoreDocumentRanked(scoreDocument(document));
+	}
+	
 }

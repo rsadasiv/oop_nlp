@@ -47,11 +47,11 @@ public class Lemmas extends PosScorerImpl implements DocumentCategoricalScorer, 
 	}
 	
 	@Override
-	public List<Integer> scoreSentence(CoreSentence sentence) {
-		ArrayList<Integer> retval = new ArrayList<Integer>();
+	public List<Double> scoreSentence(CoreSentence sentence) {
+		ArrayList<Double> retval = new ArrayList<Double>();
 		List<CoreLabel> tokens = sentence.tokens();
 		for (int i = 0; i < tokens.size(); i++) {
-			retval.add(new Integer(1));
+			retval.add(new Double(1));
 		}
 		return retval;
 	}

@@ -1,5 +1,6 @@
 package com.outofprintmagazine.nlp.scorers;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -14,6 +15,7 @@ import edu.stanford.nlp.pipeline.CoreDocument;
 public abstract class ScorerImpl {
 
 	private Ta ta;
+	private String analysisName = null;
 	
 	public ScorerImpl() {
 		super();
@@ -30,6 +32,14 @@ public abstract class ScorerImpl {
 
 	public void setTa(Ta ta) {
 		this.ta = ta;
+	}
+	
+	public String getAnalysisName() {
+		return analysisName;
+	}
+
+	public void setAnalysisName(String analysisName) {
+		this.analysisName = analysisName;
 	}
 	
 	public ArrayList<String> consolidateSubstrings(ArrayList<String> rawScores) {
@@ -49,57 +59,55 @@ public abstract class ScorerImpl {
 		return rawScores;
 	}
 	
-	public HashMap<String, Integer> consolidateMentions(ArrayList<String> rawScores) {
+	public HashMap<String, Double> consolidateMentions(ArrayList<String> rawScores) {
 		//Consolidate mentions
-		HashMap<String, Integer> scoreMap = new HashMap<String, Integer>();
+		HashMap<String, Double> scoreMap = new HashMap<String, Double>();
 		for (String rawScore : rawScores) {
-			Integer existingScore = scoreMap.get(rawScore);
+			Double existingScore = scoreMap.get(rawScore);
 			if (existingScore == null) {
-				scoreMap.put(rawScore, new Integer(1));
+				scoreMap.put(rawScore, new Double(1));
 			}
 			else {
-				scoreMap.put(rawScore, new Integer(existingScore.intValue()+1));
+				scoreMap.put(rawScore, new Double(existingScore.doubleValue()+1));
 			}
 		}
 		return scoreMap;
 	}
 	
-	public HashMap<String, Integer> normalizeScores(HashMap<String, Integer> scoreMap, CoreDocument document) {
-		//TODO switch to BigDecimal? int is too small (int)1/5000*100 == 0 
-		//for (String key : scoreMap.keySet()) {
-			//System.err.println(key + " : " + scoreMap.get(key).intValue() + " " + document.tokens().size());
-			//scoreMap.put(key, new Integer((int)(scoreMap.get(key).intValue()/document.tokens().size()*100)));
-		//}
+	public HashMap<String, Double> normalizeScores(HashMap<String, Double> scoreMap, CoreDocument document) {
+		for (String key : scoreMap.keySet()) {
+			scoreMap.put(key, new Double((scoreMap.get(key).doubleValue()/document.sentences().size())));
+		}
 		return scoreMap;
 	}
 	
-	public List<Entry<String, Integer>> sortByScore(HashMap<String, Integer> scoreMap) {
+	public List<Entry<String, Double>> sortByScore(HashMap<String, Double> scoreMap) {
 		//Sort by score
-	    List<Entry<String, Integer>> list = new ArrayList<>(scoreMap.entrySet());
+	    List<Entry<String, Double>> list = new ArrayList<>(scoreMap.entrySet());
 	    list.sort(Entry.comparingByValue());
 	    return list;
 	}
 	
-	public List<Score> sortDescending(HashMap<String, Integer> scoreMap) {
+	public List<Score> sortDescending(HashMap<String, Double> scoreMap) {
 	    //Return in descending order
 		ArrayList<Score> retval = new ArrayList<Score>();
-		List<Entry<String, Integer>> list = sortByScore(scoreMap);
-	    ListIterator<Entry<String, Integer>> li = list.listIterator(list.size());
+		List<Entry<String, Double>> list = sortByScore(scoreMap);
+	    ListIterator<Entry<String, Double>> li = list.listIterator(list.size());
 	    while (li.hasPrevious()) {
-	    	Entry<String, Integer> entry = li.previous();
+	    	Entry<String, Double> entry = li.previous();
 	    	Score tmp = new Score(entry.getKey(), entry.getValue());
 	    	retval.add(tmp);
 	    }
 	    return retval;
 	}
 	
-	public List<Score> sortAscending(HashMap<String, Integer> scoreMap) {
+	public List<Score> sortAscending(HashMap<String, Double> scoreMap) {
 	    //Return in descending order
 		ArrayList<Score> retval = new ArrayList<Score>();
-		List<Entry<String, Integer>> list = sortByScore(scoreMap);
-	    ListIterator<Entry<String, Integer>> li = list.listIterator();
+		List<Entry<String, Double>> list = sortByScore(scoreMap);
+	    ListIterator<Entry<String, Double>> li = list.listIterator();
 	    while (li.hasNext()) {
-	    	Entry<String, Integer> entry = li.next();
+	    	Entry<String, Double> entry = li.next();
 	    	Score tmp = new Score(entry.getKey(), entry.getValue());
 	    	retval.add(tmp);
 	    }
@@ -108,6 +116,30 @@ public abstract class ScorerImpl {
 	
 	public List<Score> rawScoresToScoreList(ArrayList<String> rawScores, CoreDocument document) {
 		return(sortDescending(normalizeScores(consolidateMentions(rawScores),document)));
+	}
+	
+	public Score scoreDocumentScalar(List<Score> scores) throws IOException {
+		return scoreListToScalar(scores, new ArrayList<String>());
+	}
+	
+	protected Score scoreListToScalar(List<Score> scores, List<String> scoreNames) {
+		double total = 0;
+		for (Score score : scores) {
+			if (scoreNames.size() == 0 || scoreNames.contains(score.getName())) {
+				total += score.getScore();
+			}
+		}
+		return new Score(getAnalysisName(), (total/(double)scores.size()));
+	}
+	
+	public List<Score> scoreDocumentRanked(List<Score> allScores) throws IOException {
+		int topCount = (int) Math.sqrt(allScores.size());
+		if (topCount < 15) topCount = 15;
+		ArrayList<Score> rankedScores = new ArrayList<Score>();
+		for (int i=0;i<topCount&&i<allScores.size();i++) {
+			rankedScores.add(allScores.get(i));
+		}
+		return rankedScores;
 	}
 	
 }

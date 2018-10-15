@@ -12,12 +12,13 @@ import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
 import com.outofprintmagazine.nlp.scorers.descriptive.SentenceDescriptiveScorer;
+import com.outofprintmagazine.nlp.scorers.scalar.DocumentScalarScorer;
 
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class WordlessWords extends WordnetScorerImpl implements DocumentCategoricalScorer, SentenceDescriptiveScorer {
+public class WordlessWords extends WordnetScorerImpl implements DocumentCategoricalScorer, SentenceDescriptiveScorer, DocumentScalarScorer {
 
 //		public ActionGroups() throws IOException {
 //			super();
@@ -25,12 +26,13 @@ public class WordlessWords extends WordnetScorerImpl implements DocumentCategori
 
 	public WordlessWords(Ta ta) throws IOException {
 		super(ta);
+		setAnalysisName("WordlessWords");
 	}
 
 	@Override
 	public List<Score> scoreDocument(CoreDocument document) throws IOException {
 		ArrayList<String> rawScores = new ArrayList<String>();
-		Integer noScore = new Integer(1);
+		Double noScore = new Double(1);
 		for (CoreSentence sentence : document.sentences()) {
 			List<CoreLabel> tokens = sentence.tokens();
 			for (int i = 0; i < tokens.size(); i++) {
@@ -42,7 +44,7 @@ public class WordlessWords extends WordnetScorerImpl implements DocumentCategori
 					//pass
 				}
 				else {
-					Integer score = scoreToken(tokens.get(i));
+					Double score = scoreToken(tokens.get(i));
 					if (score.equals(noScore)) {
 						rawScores.add(tokens.get(i).originalText());
 					}
@@ -53,8 +55,8 @@ public class WordlessWords extends WordnetScorerImpl implements DocumentCategori
 	}
 	
 	@Override
-	public List<Integer> scoreSentence(CoreSentence sentence) throws IOException {
-		ArrayList<Integer> retval = new ArrayList<Integer>();
+	public List<Double> scoreSentence(CoreSentence sentence) throws IOException {
+		ArrayList<Double> retval = new ArrayList<Double>();
 		List<CoreLabel> tokens = sentence.tokens();
 		for (int i = 0; i < tokens.size(); i++) {
 			retval.add(scoreToken(tokens.get(i)));
@@ -62,4 +64,14 @@ public class WordlessWords extends WordnetScorerImpl implements DocumentCategori
 		return retval;
 	}
 
+	@Override
+	public Score scoreDocumentScalar(CoreDocument document) throws IOException {
+		return scoreDocumentScalar(scoreDocument(document));
+	}
+
+	@Override
+	public Score scoreDocumentScalar(List<Score> scores) throws IOException {
+		return super.scoreDocumentScalar(scores);
+	}
+	
 }

@@ -30,19 +30,19 @@ public class VaderSentiments extends ScorerImpl implements SentenceDescriptiveSc
 	}
 
 	@Override
-	public List<Integer> scoreSentence(CoreSentence sentence) {
-		ArrayList<Integer> retval = new ArrayList<Integer>();
+	public List<Double> scoreSentence(CoreSentence sentence) {
+		ArrayList<Double> retval = new ArrayList<Double>();
 		List<CoreLabel> tokens = sentence.tokens();
 		for (int i = 0; i < tokens.size(); i++) {
 			try {
 				getSentimentAnalyzer().setInputString(sentence.text());
 				getSentimentAnalyzer().analyze();
-				retval.add(new Integer(new Float(getSentimentAnalyzer().getPolarity().get("compound")*100).intValue()));
+				retval.add(new Double(getSentimentAnalyzer().getPolarity().get("compound")));
 			}
 			catch (Exception e) {
 				//TODO logging
 				e.printStackTrace();
-				retval.add(new Integer(50));
+				retval.add(new Double(.5));
 			}
 		}
 		return retval;

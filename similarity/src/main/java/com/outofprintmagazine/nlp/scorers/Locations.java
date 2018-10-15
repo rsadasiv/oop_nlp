@@ -10,12 +10,13 @@ import java.util.Map.Entry;
 import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
+import com.outofprintmagazine.nlp.scorers.categorical.DocumentRankedCategoricalScorer;
 
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
 import edu.stanford.nlp.pipeline.CoreSentence;
 
-public class Locations extends ScorerImpl implements DocumentCategoricalScorer {
+public class Locations extends ScorerImpl implements DocumentCategoricalScorer, DocumentRankedCategoricalScorer {
 		
 //	public Locations() {
 //		super();
@@ -23,6 +24,7 @@ public class Locations extends ScorerImpl implements DocumentCategoricalScorer {
 	
 	public Locations(Ta ta) throws IOException {
 		super(ta);
+		setAnalysisName("Locations");
 	}
 
 	@Override
@@ -39,4 +41,8 @@ public class Locations extends ScorerImpl implements DocumentCategoricalScorer {
 		return(rawScoresToScoreList(rawScores, document));
 	}
 
+	@Override
+	public List<Score> scoreDocumentRanked(CoreDocument document) throws IOException {
+		return super.scoreDocumentRanked(scoreDocument(document));
+	}
 }

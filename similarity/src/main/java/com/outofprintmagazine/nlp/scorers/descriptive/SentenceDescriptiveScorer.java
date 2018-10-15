@@ -7,6 +7,6 @@ import edu.stanford.nlp.pipeline.CoreSentence;
 
 public interface SentenceDescriptiveScorer {
 	
-	public List<Integer> scoreSentence(CoreSentence sentence) throws IOException;
+	public List<Double> scoreSentence(CoreSentence sentence) throws IOException;
 
 }
