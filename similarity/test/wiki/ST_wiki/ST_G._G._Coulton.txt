@@ -1,0 +1,9 @@
+George_NNP Gordon_NNP Coulton_NNP FBA_NNP -LRB-_-LRB- 15_CD October_NNP 1858_CD ''_'' 4_CD March_NNP 1947_CD -RRB-_-RRB- was_VBD a_DT British_JJ historian_NN ,_, known_VBN for_IN numerous_JJ works_NNS on_IN medieval_JJ history_NN ._.
+He_PRP was_VBD known_VBN also_RB as_IN a_DT keen_JJ controversialist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN in_IN King_NNP 's_POS Lynn_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Lynn_NNP Grammar_NNP School_NNP ,_, and_CC Felsted_NNP School_NNP ,_, and_CC St_NNP Catharine_NNP 's_POS College_NNP ,_, Cambridge_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP taught_VBD for_IN a_DT short_JJ period_NN ,_, and_CC was_VBD ordained_VBN in_IN 1883_CD ._.
+He_PRP did_VBD not_RB however_RB pursue_VB a_DT life_NN in_IN the_DT Church_NNP of_IN England_NNP ,_, due_JJ to_TO the_DT absence_NN of_IN vocation_NN ,_, and_CC took_VBD further_JJ teaching_NN jobs_NNS ,_, beginning_VBG as_IN an_DT independent_JJ scholar_NN to_TO study_VB the_DT history_NN of_IN the_DT Middle_NNP Ages_NNPS ._.
+A_DT fierce_JJ anti-Catholic_JJ ,_, he_PRP was_VBD often_RB ,_, especially_RB during_IN the_DT 1930s_CD ,_, embroiled_VBN in_IN embittered_JJ journalistic_JJ controversy_NN with_IN Hilaire_NNP Belloc_NNP ,_, who_WP detested_VBD him_PRP ._.
+In_IN 1911_CD Coulton_NNP found_VBD a_DT lecturing_JJ position_NN at_IN the_DT University_NNP of_IN Cambridge_NNP ._.
+He_PRP became_VBD a_DT Fellow_NNP of_IN St_NNP John_NNP 's_POS College_NNP ,_, Cambridge_NNP in_IN 1919_CD ,_, a_DT Fellow_NNP of_IN the_DT British_JJ Academy_NNP in_IN 1929_CD ._.

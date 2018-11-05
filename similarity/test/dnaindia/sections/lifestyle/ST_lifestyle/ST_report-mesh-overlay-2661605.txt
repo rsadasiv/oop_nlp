@@ -1,0 +1,3 @@
+New_NNP York_NNP Fashion_NNP Week_NNP Spring_NNP Summer_NNP 2019_CD collections_NNS are_VBP being_VBG showcased_VBN and_CC one_CD trend_NN which_WDT has_VBZ emerged_VBN is_VBZ of_IN perforated_JJ overlays_NNS on_IN dresses_NNS ._.
+From_IN Area_NNP to_TO Cushnie_NNP ,_, from_IN Dion_NNP Lee_NNP to_TO Pyer_NNP Moss_NNP ''_'' designers_NNS put_VBD the_DT focus_NN back_RB on_IN the_DT latticed_JJ pieces_NNS ._.
+Some_DT of_IN these_DT overlays_NNS had_VBD tassel_NN accents_NNS which_WDT added_VBD to_TO the_DT drama_NN of_IN the_DT line-ups_NNS as_IN models_NNS swished_VBN down_IN the_DT runway_NN ._.

@@ -1,0 +1,10 @@
+Indian_NNP National_NNP Army_NNP -LRB-_-LRB- INA_NNP -RRB-_-RRB- veteran_NN Lalti_NNP Ram_NNP presented_VBD a_DT cap_NN of_IN the_DT pre-Independence_JJ force_NN to_TO Prime_NNP Minister_NNP Narendra_NNP Modi_NNP on_IN Sunday_NNP at_IN an_DT event_NN to_TO mark_VB the_DT 75th_JJ anniversary_NN of_IN the_DT proclamation_NN of_IN the_DT `_`` Azad_NNP Hind_NNP Sarkar_NNP '_POS by_IN freedom_NN fighter_NN Subhas_NNP Chandra_NNP Bose_NNP ._.
+Lalti_NNP Ram_NNP ,_, who_WP is_VBZ among_IN the_DT few_JJ INA_NNP members_NNS who_WP are_VBP still_RB alive_JJ ,_, presented_VBD the_DT cap_NN to_TO Modi_NNP before_IN he_PRP hoisted_VBD the_DT national_JJ tricolor_NN at_IN the_DT historic_JJ Red_NNP Fort_NNP here_RB ._.
+``_`` Netaji_NNP had_VBD promised_VBN an_DT India_NNP where_WRB everyone_NN has_VBZ equal_JJ rights_NNS and_CC equal_JJ opportunities_NNS ._.
+He_PRP had_VBD promised_VBN a_DT prosperous_JJ nation_NN which_WDT was_VBD proud_JJ of_IN its_PRP$ traditions_NNS ,_, development_NN in_IN all_DT areas_NNS ._.
+He_PRP had_VBD promised_VBN to_TO uproot_VB `_`` divide_NN and_CC rule_NN '_'' ._.
+Even_RB after_IN so_RB many_JJ years_NNS ,_, those_DT dreams_NNS remain_VBP unfulfilled_JJ ,_, ''_'' Modi_NNP said_VBD ._.
+``_`` We_PRP have_VBP reached_VBN `_`` Swaraj_NNP '_'' after_IN lakhs_NNS of_IN sacrifices_NNS ._.
+It_PRP is_VBZ our_PRP$ responsibility_NN to_TO maintain_VB this_DT `_`` Swaraj_NN '_'' with_IN `_`` Suraaj_NNP '_'' ,_, ''_'' he_PRP added_VBD ._.
+Union_NNP Minister_NNP Mahesh_NNP Sharma_NNP ,_, survivors_NNS of_IN the_DT INA_NNP ,_, Indian_NNP armed_JJ forces_NNS veterans_NNS and_CC followers_NNS of_IN Netaji_NNP Subhas_NNP Chandra_NNP Bose_NNP attended_VBD the_DT event_NN at_IN the_DT Red_NNP Fort_NNP ._.
+Bose_NNP had_VBD established_VBN the_DT provincial_JJ Azad_NNP Hind_NNP Government_NNP in_IN Singapore_NNP on_IN October_NNP 21_CD ,_, 1943_CD ._.

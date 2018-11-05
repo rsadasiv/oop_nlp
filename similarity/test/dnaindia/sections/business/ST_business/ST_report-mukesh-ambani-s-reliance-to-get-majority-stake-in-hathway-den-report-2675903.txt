@@ -1,0 +1,16 @@
+Mukesh_NNP Ambani_NNP 's_POS Reliance_NNP Group_NNP is_VBZ reportedly_RB set_VBN to_TO take_VB controlling_VBG stake_NN in_IN Hathway_NNP and_CC DEN_NNP ._.
+According_VBG to_TO a_DT report_NN in_IN the_DT Economic_NNP Times_NNP ,_, Reliance_NNP Industries_NNPS may_MD soon_RB buy_VB controlling_VBG stakes_NNS in_IN two_CD of_IN India_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ largest_JJS cable_NN TV_NN and_CC broadband_NN service_NN providers_NNS ,_, Hathway_NNP Cable_NNP &_CC Datacom_NNP and_CC DEN_NNP Networks_NNP ._.
+The_DT move_NN would_MD ramp_NN up_IN coverage_NN of_IN its_PRP$ ambitious_JJ high-speed_JJ broadband_NN network_NN ._.
+Citing_VBG sources_NNS known_VBN of_IN the_DT development_NN ,_, the_DT report_NN said_VBD that_IN Reliance_NNP would_MD own_VB 25_CD %_NN each_DT in_IN the_DT two_CD companies_NNS giving_VBG it_PRP the_DT ability_NN to_TO control_VB developments_NNS and_CC get_VB a_DT seat_NN on_IN the_DT board_NN ._.
+Promoter_NN stakes_NNS in_IN both_DT firms_NNS are_VBP likely_JJ to_TO drop_VB as_IN a_DT result_NN with_IN the_DT acquisition_NN also_RB triggering_VBG open_JJ offers_NNS ,_, they_PRP added_VBD ._.
+According_VBG to_TO the_DT newspaper_NN ,_, the_DT deal_NN 's_POS announcement_NN would_MD happen_VB in_IN another_DT few_JJ days_NNS ._.
+Raheja_NNP Group_NNP owns_VBZ Hathway_NNP Cable_NNP while_IN Sameer_NNP Manchanda_NNP owns_VBZ DEN_NNP Networks_NNP ._.
+oeBoth_NNP Hathway_NNP and_CC DEN_NNP will_MD issue_VB fresh_JJ shares_NNS ._.
+The_DT fine_JJ print_NN of_IN the_DT deal_NN is_VBZ being_VBG worked_VBN out_RP ,_, ''_'' said_VBD a_DT highly_RB placed_VBN source_NN ._.
+He_PRP said_VBD RIL_NNP will_MD own_VB over_RP 25_CD per_IN cent_NN ._.
+oeIt_NNP will_MD be_VB a_DT significant_JJ stake_NN ,_, but_CC less_JJR than_IN 50_CD per_IN cent_NN ,_, ''_'' the_DT source_NN told_VBD the_DT publication_NN ._.
+Meanwhile_RB ,_, Reliance_NNP Industrial_NNP Infrastructure_NNP Ltd_NNP -LRB-_-LRB- RIIL_NNP -RRB-_-RRB- on_IN Monday_NNP posted_VBD a_DT 21.6_CD per_IN cent_NN decline_NN in_IN standalone_NN profit_NN at_IN Rs_NNP 2.10_CD crore_NN for_IN the_DT quarter_NN ended_VBD September_NNP 30_CD ,_, 2018_CD ._.
+The_DT company_NN had_VBD posted_VBN standalone_JJ profit_NN of_IN Rs_NNS 2.68_CD crore_NN in_IN the_DT corresponding_JJ quarter_NN of_IN previous_JJ fiscal_JJ ,_, RIIL_NNP said_VBD in_IN a_DT BSE_NNP filing_NN ._.
+However_RB ,_, the_DT company_NN 's_POS total_JJ income_NN during_IN the_DT July-September_NNP quarter_NN increased_VBD to_TO Rs_NNS 25.17_CD crore_NN ,_, over_IN Rs_NNS 23.79_CD crore_NN in_IN the_DT year-ago_JJ period_NN ._.
+RIIL_NNP continues_VBZ to_TO provide_VB infrastructure_NN support_NN services_NNS namely_RB transportation_NN of_IN petroleum_NN products_NNS and_CC water_NN through_IN pipelines_NNS ,_, construction_NN machinery_NN on_IN hire_NN ,_, and_CC other_JJ support_NN services_NNS to_TO Reliance_NNP Industries_NNP Group_NNP ,_, with_IN a_DT substantial_JJ portion_NN provided_VBN to_TO Reliance_NNP Industries_NNP Limited_NNP ._.
+RIIL_NNP presently_RB does_VBZ not_RB have_VB any_DT expansion_NN plans_VBZ on_IN the_DT anvil_NN ,_, the_DT company_NN said_VBD in_IN a_DT release_NN ._.

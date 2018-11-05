@@ -1,0 +1,18 @@
+Elinor_NNP M._NNP Brent-Dyer_NNP -LRB-_-LRB- 6_CD April_NNP 1894_CD ''_'' 20_CD September_NNP 1969_CD -RRB-_-RRB- was_VBD a_DT children_NNS 's_POS author_NN who_WP wrote_VBD more_JJR than_IN 100_CD books_NNS during_IN her_PRP$ lifetime_NN ,_, the_DT most_RBS famous_JJ being_VBG the_DT Chalet_NNP School_NNP series_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Brent-Dyer_NNP was_VBD born_VBN Gladys_NNP Eleanor_NNP May_NNP Dyer_NNP on_IN 6_CD April_NNP 1894_CD ,_, in_IN South_NNP Shields_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP was_VBD the_DT only_JJ daughter_NN of_IN Charles_NNP Morris_NNP Brent-Dyer_NNP ,_, a_DT surveyor_NN ,_, and_CC Eleanor_NNP Watson_NNP Rutherford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Her_PRP$ father_NN left_VBD the_DT family_NN when_WRB she_PRP was_VBD three_CD years_NNS old_JJ ,_, and_CC her_PRP$ mother_NN remarried_VBD in_IN 1913_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1912_CD ,_, her_PRP$ younger_JJR brother_NN Henzell_NNP died_VBD of_IN meningitis_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brent-Dyer_NNP was_VBD educated_VBN privately_RB at_IN a_DT small_JJ school_NN in_IN South_NNP Shields_NNP until_IN 1912_CD ,_, and_CC shortly_RB afterwards_RB trained_VBN to_TO teach_VB at_IN City_NNP of_IN Leeds_NNP Training_NNP College_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP taught_VBD a_DT variety_NN of_IN subjects_NNS at_IN both_DT state_NN and_CC private_JJ schools_NNS ,_, and_CC ran_VBD a_DT Girl_NNP Guide_NNP group_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN the_DT 1920s_CD ,_, she_PRP briefly_RB studied_VBD music_NN under_IN Edgar_NNP Bainton_NNP at_IN the_DT Newcastle_NNP Conservatoire_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Brent-Dyer_NNP 's_POS first_JJ book_NN ,_, Gerry_NNP Goes_VBZ to_TO School_NNP ,_, was_VBD published_VBN in_IN 1922_CD and_CC became_VBD the_DT first_JJ of_IN the_DT La_NNP Rochelle_NNP series_NN ._.
+She_PRP was_VBD inspired_VBN to_TO write_VB her_PRP$ popular_JJ Chalet_NNP School_NNP series_NN after_IN holidaying_VBG in_IN the_DT Austrian_JJ Tyrol_NNP at_IN Pertisau-am-Achensee_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT first_JJ book_NN in_IN the_DT series_NN ,_, The_DT School_NNP at_IN the_DT Chalet_NNP ,_, was_VBD published_VBN in_IN 1923_CD ._.
+Although_IN she_PRP was_VBD raised_VBN as_IN an_DT Anglican_JJ ,_, she_PRP converted_VBD to_TO Roman_NNP Catholicism_NNP in_IN 1930_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1933_CD ,_, Brent-Dyer_NNP and_CC her_PRP$ mother_NN moved_VBD to_TO Hereford_NNP ,_, where_WRB Brent-Dyer_NNP was_VBD employed_VBN as_IN a_DT governess_NN in_IN Peterchurch_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1938_CD ,_, she_PRP opened_VBD her_PRP$ own_JJ school_NN ,_, the_DT Margaret_NNP Roper_NNP School_NNP ,_, but_CC it_PRP closed_VBD in_IN 1948_CD ._.
+She_PRP then_RB dedicated_VBD all_DT of_IN her_PRP$ time_NN to_TO writing_VBG ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Following_VBG her_PRP$ mother_NN 's_POS death_NN in_IN 1957_CD ,_, Brent-Dyer_NNP moved_VBD to_TO Redhill_NNP to_TO live_VB with_IN Phyllis_NNP Matthewman_NNP ,_, who_WP was_VBD also_RB a_DT children_NNS 's_POS novelist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP died_VBD there_RB in_IN 1969_CD ,_, and_CC her_PRP$ final_JJ book_NN was_VBD published_VBN posthumously_RB the_DT same_JJ year_NN ._.
+-LRB-_-LRB- in_IN reading_VBG order_NN -RRB-_-RRB- A_DT loosely_RB connected_JJ series_NN of_IN adventure_NN books_NNS

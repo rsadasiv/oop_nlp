@@ -1,0 +1,24 @@
+Osbern_NNP Bokenam_NNP -LRB-_-LRB- 1393_CD ?_.
+``_`` 1464_CD ?_. -RRB-_-RRB-
+was_VBD an_DT English_JJ Augustinian_JJ friar_NN and_CC poet_NN ._.
+Osbern_NNP Bokenam_NNP was_VBD born_VBN ,_, according_VBG to_TO his_PRP$ own_JJ account_NN ,_, on_IN 6_CD October_NNP 1393_CD ._.
+He_PRP may_MD have_VB been_VBN a_DT native_NN of_IN Bokeham_NNP ,_, now_RB Bookham_NNP ,_, in_IN Surrey_NNP ,_, or_CC of_IN Buckenham_NNP in_IN Norfolk_NNP and_CC derived_VBD his_PRP$ name_NN from_IN either_DT place_NN ._.
+In_IN a_DT concluding_VBG note_NN to_TO his_PRP$ Lives_NNS of_IN the_DT Saints_NNP ,_, he_PRP is_VBZ described_VBN as_IN a_DT ``_`` Suffolke_NNP man_NN ,_, frere_JJ Austyn_NNP of_IN Stoke_NNP Clare_NNP ''_'' -LRB-_-LRB- friar_NN at_IN Clare_NNP Priory_NNP in_IN Suffolk_NNP -RRB-_-RRB- ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP traveled_VBD in_IN Italy_NNP on_IN at_IN least_JJS two_CD occasions_NNS ,_, possibly_RB living_VBG for_IN a_DT time_NN in_IN Venice_NNP and_CC Rome_NNP ,_, and_CC in_IN 1445_CD was_VBD a_DT pilgrim_NN to_TO Santiago_NNP de_IN Compostela_NNP in_IN Spain_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bokenam_NNP wrote_VBD a_DT series_NN of_IN thirteen_CD legends_NNS of_IN holy_JJ maidens_NNS and_CC women_NNS ._.
+These_DT are_VBP written_VBN chiefly_RB in_IN seven_CD and_CC eight-lined_JJ stanzas_NNS ,_, and_CC nine_CD of_IN them_PRP are_VBP preceded_VBN by_IN prologues_NNS ._.
+Bokenam_NNP was_VBD a_DT follower_NN of_IN Chaucer_NNP and_CC Lydgate_NNP ,_, and_CC doubtless_JJ had_VBD in_IN mind_NN Chaucer_NNP 's_POS Legend_NNP of_IN Good_NNP Women_NNP ._.
+His_PRP$ chief_NN ,_, but_CC by_IN no_DT means_VBZ his_PRP$ only_RB ,_, source_NN was_VBD the_DT Legenda_NNP Aurea_NNP of_IN Jacobus_NNP de_IN Voragine_NNP ,_, archbishop_NN of_IN Genoa_NNP ,_, whom_WP he_PRP cites_VBZ as_IN ``_`` Januence_NNP ''_'' ._.
+The_DT first_JJ of_IN the_DT legends_NNS ,_, Vita_NNP S_NNP -LRB-_-LRB- an_DT -RRB-_-RRB- c_NN -LRB-_-LRB- t_NN -RRB-_-RRB- ae_NN Margaretae_NNP ,_, virginis_VBZ et_FW martyris_FW ,_, was_VBD written_VBN for_IN his_PRP$ friend_NN ,_, Thomas_NNP Burgh_NNP ,_, a_DT Cambridge_NNP monk_NN ._.
+Others_NNS are_VBP dedicated_VBN to_TO pious_JJ ladies_NNS who_WP desired_VBD the_DT history_NN of_IN their_PRP$ name-saints_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT Arundel_NNP MS._NNP 327_CD -LRB-_-LRB- in_IN the_DT British_JJ Museum_NNP -RRB-_-RRB- is_VBZ a_DT unique_JJ copy_NN of_IN Bokenam_NNP 's_POS work_NN ;_: it_PRP was_VBD finished_VBN ,_, according_VBG to_TO the_DT concluding_VBG note_NN ,_, in_IN 1447_CD ,_, and_CC presented_VBN by_IN the_DT scribe_NN ,_, Thomas_NNP Burgh_NNP ,_, to_TO an_DT unnamed_JJ convent_NN ``_`` that_IN the_DT nuns_NNS may_MD remember_VB him_PRP and_CC his_PRP$ sister_NN ,_, Dame_NNP Betrice_NNP Burgh_NNP ._. ''_''
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT poems_NNS were_VBD edited_VBN -LRB-_-LRB- 1835_CD -RRB-_-RRB- for_IN the_DT Roxburghe_NNP Club_NNP with_IN the_DT title_NN Lyvys_NNP of_IN Seyntys_NNP ..._: ,_, and_CC by_IN Dr._NNP Carl_NNP Horstmann_NNP as_IN Osbern_NNP Bokenams_NNP Legenden_NNP -LRB-_-LRB- Heilbronn_NNP ,_, 1883_CD -RRB-_-RRB- ,_, in_IN Eugen_NNP Kölbing_NNP 's_POS Altengl_NNP ._.
+Bibliothek_NNP ,_, vol_NN ._.
+i._FW Both_DT editions_NNS include_VBP a_DT dialogue_NN written_VBN in_IN Latin_NNP and_CC English_NNP taken_VBN from_IN William_NNP Dugdale_NNP 's_POS Monasticon_NNP Anglicanum_NNP -LRB-_-LRB- ed_VBN ._.
+1846_CD ,_, vol_NN ._.
+vi_FW ,_, p._VB 1600_CD -RRB-_-RRB- ;_: this_DT is_VBZ a_DT dialogue_NN between_IN a_DT ``_`` Secular_JJ asking_NN and_CC a_DT Frere_NNP answerynge_NN at_IN the_DT grave_NN of_IN Dame_NNP Johan_NNP of_IN Acres_NNP shewith_VBP the_DT lyneal_JJ descent_NN of_IN the_DT lordis_NNS of_IN the_DT honore_NN of_IN Clare_NNP fro_NN ..._: MCCXLVIII_NNP to_TO ..._: MCCCLVI_NNP ''_'' ._.
+Bokenam_NNP wrote_VBD ,_, as_IN he_PRP tells_VBZ us_PRP ,_, plainly_RB ,_, in_IN the_DT Suffolk_NNP speech_NN ._.
+He_PRP explains_VBZ his_PRP$ lack_NN of_IN decoration_NN on_IN the_DT plea_NN that_IN the_DT finest_JJS flowers_NNS had_VBD been_VBN already_RB plucked_VBN by_IN Chaucer_NNP ,_, Gower_NNP and_CC Lydgate_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 2004_CD a_DT manuscript_NN copy_NN of_IN Bokenam_NNP 's_POS version_NN of_IN the_DT Legenda_NNP Aurea_NNP was_VBD discovered_VBN in_IN the_DT library_NN of_IN Abbotsford_NNP House_NNP ,_, Scotland_NNP ._.
+It_PRP had_VBD been_VBN purchased_VBN in_IN 1809_CD by_IN Sir_NNP Walter_NNP Scott_NNP and_CC subsequently_RB forgotten_VBN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

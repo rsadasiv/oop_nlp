@@ -1,0 +1,7 @@
+Joseph_NNP Connolly_NNP -LRB-_-LRB- born_VBN 23_CD March_NNP 1950_CD -RRB-_-RRB- is_VBZ a_DT British_JJ journalist_NN ,_, novelist_NN ,_, non-fiction_JJ writer_NN and_CC bibliophile_NN ._.
+For_IN many_JJ years_NNS Connolly_NNP was_VBD the_DT proprietor_NN of_IN The_DT Flask_NNP Bookshop_NNP in_IN Hampstead_NNP ,_, London_NNP ._.
+Having_VBG started_VBN writing_VBG fiction_NN rather_RB late_RB in_IN life_NN ,_, he_PRP is_VBZ best_RB known_VBN today_NN for_IN his_PRP$ comic_JJ novels_NNS ,_, especially_RB in_IN France_NNP ,_, where_WRB they_PRP have_VBP been_VBN translated_VBN by_IN Alain_NNP Defossé_NNP ._.
+He_PRP also_RB contributes_VBZ to_TO The_DT Times_NNP and_CC various_JJ other_JJ publications_NNS ._.
+Connolly_NNP lives_VBZ in_IN Hampstead_NNP ._.
+His_PRP$ novels_NNS are_VBP published_VBN by_IN Faber_NNP and_CC Faber_NNP except_IN England_NNP 's_POS Lane_NNP ,_, Boys_NNPS and_CC Girls_NNPS ,_, Style_NNP and_CC This_DT is_VBZ 64_CD which_WDT are_VBP published_VBN by_IN Quercus_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

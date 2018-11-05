@@ -1,0 +1,1237 @@
+So_RB
+what_WP
+'s_VPRT [CONT]
+up_RB
+._.
+This_DEMP
+is_VPRT [BEMA]
+the_DT
+first_JJ
+posting_VBG
+in_PIN
+the_DT
+first_JJ
+blog_NN
+created_VBN [WZPAST]
+by_PIN
+the_DT
+First_NN
+Lady_NN
+of_PIN
+Lame_NN
+,_,
+me_FPP1
+!_.
+So_RB
+listen_VB
+up_RP
+._.
+I_FPP1
+hate_VPRT
+all_QUAN
+of_PIN
+you_SPP2
+._.
+Except_PIN
+for_PIN
+maybe_HDG
+a_DT
+few_QUAN
+people_NN
+._.
+I_FPP1
+am_VPRT [BEMA]
+so_EMPH
+mad_PRED
+at_PIN
+everything_QUPR
+._.
+Die_VB
+,_,
+penguin_NN
+,_,
+die_VB
+._.
+Bloody_JJ
+fruitcake_NN
+black_JJ
+suit-and-tie_NN
+carrot_NN
+fool_NN
+._.
+Jenny_NN
+'s_POS
+the_DT
+name_NN
+,_,
+nonsense_NN
+is_VPRT [BEMA]
+my_FPP1
+game_NN
+._.
+Go_VB
+ahead_PLACE
+,_,
+ask_VB [SUAV]
+me_FPP1
+a_DT
+question_NOMZ
+._.
+I_FPP1
+'ll_PRMD [CONT]
+answer_VB
+it_PIT
+with_PIN
+the_DT
+lamest_JJ
+answer_NN
+possible_JJ
+._.
+I_FPP1
+hope_VPRT [PRIV] [THATD]
+you_SPP2
+hate_VPRT
+me_FPP1
+now_TIME
+._.
+Everybody_QUPR
+else_RB
+does_VPRT
+!_.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+._.
+I_FPP1
+need_VPRT
+to_TO
+sleep_VB
+._.
+Goodnight_NN
+._.
+So_EMPH
+hey_JJ
+everybody_QUPR
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+your_SPP2
+favorite_JJ
+freak_NN
+,_,
+me_FPP1
+!_.
+Well_DPAR
+,_,
+maybe_HDG
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+not_XX0
+your_SPP2
+favorite_JJ
+but_CC
+we_FPP1
+'ll_PRMD [CONT] [SPAU]
+just_EMPH
+pretend_VB [PRIV]
+for_PIN
+now_TIME
+._.
+As_OSUB
+long_NULL
+as_NULL
+your_SPP2
+in_PIN
+my_FPP1
+friggin_NN
+blog_NN
+you_SPP2
+'re_VPRT [CONT]
+going_VBG
+to_TO
+be_VB [BEMA]
+my_FPP1
+best_JJ
+friend_NN
+._.
+Ugh_NN
+,_,
+I_FPP1
+dunno_VPRT
+,_,
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+tired_PRED
+and_CC
+also_RB
+very_AMP
+bored_VBN
+._.
+I_FPP1
+need_VPRT
+some_QUAN
+friends_NN
+,_,
+dammit_NN
+!_.
+Well_DPAR
+,_,
+in_PIN
+my_FPP1
+continuing_VBG
+research_NN
+of_PIN
+my_FPP1
+stupid_JJ
+,_,
+pointless_JJ
+love_NN
+life_NN
+,_,
+I_FPP1
+have_VPRT [PEAS]
+realized_VBN [PRIV]
+the_DT
+following_VBG
+things_NN
+:_:
+1_LS
+._.
+I_FPP1
+am_VPRT [BEMA]
+incredibly_RB
+repulsive_PRED
+and_PHC
+hideous_PRED
+._.
+2_LS
+._.
+Guys_NN
+are_VPRT [BEMA]
+afraid_PRED
+of_PIN
+me_FPP1
+and_CC
+do_VPRT
+n't_XX0 [CONT]
+like_VB
+me_FPP1
+,_,
+so_IN
+they_TPP3
+wouldnt_VPRT
+even_RB
+think_VB [PRIV]
+about_IN
+dating_VBG
+me_FPP1
+3_LS
+._.
+No_SYNE
+girl_NN
+would_PRMD [SPAU]
+EVER_RB
+have_VB
+a_DT
+reason_NN
+to_TO
+be_VB [BEMA]
+jealous_PRED
+of_PIN
+me_FPP1
+4_LS
+._.
+Nobody_INPR
+wants_VPRT
+to_TO
+go_VB
+out_PIN
+with_PIN
+a_DT
+freaky_JJ
+,_,
+pale_JJ
+,_,
+extremely_AMP
+demented_JJ
+weirdo_NN
+girl_NN
+5_CD
+._.
+Every_QUAN
+guy_NN
+I_FPP1
+have_VPRT [SPAU] [PEAS]
+ever_RB
+liked_VBN
+never_RB
+liked_VBD
+me_FPP1
+back_RB
+..._:
+at_PIN
+all_QUAN
+6_CD
+._.
+My_FPP1
+sister_NN
+is_VPRT [BEMA]
+12_CD
+and_CC
+has_VPRT [PEAS]
+had_VBN
+more_EMPH
+boyfriends_NN
+than_PIN
+I_FPP1
+,_,
+a_DT
+15-year-old_JJ
+,_,
+have_VPRT [PEAS]
+had_VBN
+Well_UH
+,_,
+that_DEMP
+'s_VPRT [CONT] [BEMA]
+all_QUAN
+I_FPP1
+can_POMD
+think_VB [PRIV]
+of_PIN
+for_PIN
+now_TIME
+,_,
+maybe_HDG
+some_QUAN
+more_EMPH
+later_TIME
+if_COND
+I_FPP1
+'m_VPRT [CONT]
+feeling_VBG [PRIV]
+especially_RB
+depressed_JJ
+._.
+Goodbye_NN
+,_,
+dipshits_VPRT
+._.
+I_FPP1
+just_EMPH
+want_VPRT
+everybody_QUPR
+who_WP
+reads_VPRT
+this_DEMP
+-LRB-_-LRB-
+who_WP
+is_VPRT
+nobody_INPR
+so_RB
+whatever_WDT
+-RRB-_-RRB-
+to_TO
+know_VB [PRIV]
+that_THVC
+I_FPP1
+am_VPRT
+going_VBG
+to_TO
+take_VB
+this_DEMO
+lame_JJ
+ass_NN
+blog_NN
+down_IN
+if_COND
+people_NN
+do_VPRT
+n't_XX0 [CONT]
+start_VB
+commenting_VBG [PUBV]
+!_.
+Now_DPAR
+,_,
+I_FPP1
+realize_VPRT [PRIV] [THATD]
+that_DEMP
+this_DEMP
+is_VPRT [BEMA]
+a_DT
+very_AMP
+non-threatening_JJ
+threat_NN
+,_,
+however_CONJ
+,_,
+I_FPP1
+have_VPRT
+nothing_INPR
+to_TO
+back_VB
+that_DEMO
+up_RP
+so_IN
+I_FPP1
+'m_VPRT [CONT] [SPAU]
+just_EMPH
+going_VBG
+to_TO
+sit_VB
+here_RB
+on_PIN
+eating_VBG
+fruit_NN
+pies_NN
+and_CC
+wallowing_VBG
+in_PIN
+my_FPP1
+own_JJ
+self-pity_NOMZ
+while_OSUB
+you_SPP2
+all_QUAN
+enjoy_VPRT
+being_VBG [BEMA]
+the_DT
+twig-like_JJ
+,_,
+bitchy_JJ
+I-can-get-any-guy-I-want_JJ
+bitches_NN
+that_DEMO
+you_SPP2
+all_QUAN
+are_VPRT
+._.
+I_FPP1
+hate_VPRT
+you_SPP2
+._.
+Get_VB
+away_PLACE
+from_PIN
+me_FPP1
+._.
+Well_DPAR
+you_SPP2
+knew_VBD [PRIV] [THATD]
+it_PIT
+would_PRMD
+happen_VB
+eventually_TIME
+..._:
+I_FPP1
+'ve_VPRT [CONT]
+got_VBN
+my_FPP1
+very_AMP
+own_JJ
+club_NN
+!_.
+So_RB
+far_PLACE
+I_FPP1
+'ve_VPRT [CONT]
+only_DWNT
+got_VBN
+2_CD
+members_NN
+including_VBG [WZPRES]
+myself_FPP1
+,_,
+but_CC
+there_EX
+'s_VPRT [CONT]
+always_RB
+room_NN
+for_PIN
+more_EMPH
+people_NN
+._.
+There_EX
+are_VPRT
+only_DWNT
+a_DT
+few_QUAN
+qualities_NOMZ
+a_DT
+member_NN
+of_PIN
+my_FPP1
+club_NN
+must_NEMD
+have_VB
+:_:
+1_LS
+._.
+You_SPP2
+must_NEMD
+at_PIN
+least_JJ
+hate_VB
+your_SPP2
+father_NN
+,_,
+but_CC
+both_DT
+parents_NN
+is_VPRT [BEMA]
+also_RB
+acceptable_PRED
+2_CD
+._.
+You_SPP2
+must_NEMD
+have_VB
+an_DT
+idea_NN
+for_PIN
+what_WP
+the_DT
+club_NN
+should_NEMD [SPAU]
+officially_RB
+be_VB [PASS]
+called_VBN
+3_CD
+._.
+You_SPP2
+must_NEMD
+be_VB [BEMA]
+at_PIN
+least_JJ
+this_DEMO
+tall_JJ
+to_TO
+ride_VB
+BATMAN_NN
+4_CD
+._.
+You_SPP2
+must_NEMD
+be_VB [BEMA]
+on_PIN
+my_FPP1
+list_NN
+of_PIN
+people_NN
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+hate_VB
+;_:
+I_FPP1
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+yet_RB
+made_VBN
+one_CD
+in_PIN
+writing_VBG [PUBV]
+Okay_UH
+,_,
+so_RB
+if_COND
+you_SPP2
+want_VPRT
+to_TO
+join_VB
+my_FPP1
+club_NN
+,_,
+send_VB
+me_FPP1
+an_DT
+email_NN
+telling_VBG [WZPRES]
+me_FPP1
+._.
+Cfreak123@aol.com_NN
+is_VPRT [BEMA]
+my_FPP1
+email_NN
+address_NN
+._.
+You_SPP2
+blow_VPRT
+._.
+Do_VPRT
+n't_XX0 [CONT]
+think_VB [PRIV]
+being_VBG [BEMA]
+in_PIN
+my_FPP1
+club_NN
+makes_VPRT
+you_SPP2
+cool_VPRT
+._.
+It_PIT
+totally_AMP
+does_VPRT
+not_XX0
+._.
+But_CC
+at_PIN
+least_JJ
+now_TIME
+I_FPP1
+might_POMD
+wave_NN
+to_PIN
+you_SPP2
+every_QUAN
+once_TIME
+in_PIN
+a_DT
+while_OSUB
+because_CAUS
+I_FPP1
+hate_VPRT
+you_SPP2
+less_JJ
+than_PIN
+I_FPP1
+hate_VPRT
+most_EMPH
+people_NN
+._.
+Good_JJ
+day_NN
+to_PIN
+you_SPP2
+._.
+No_DT
+,_,
+screw_VB
+that_DEMP
+._.
+BAD_JJ
+day_NN
+to_PIN
+you_SPP2
+._.
+Hello_UH
+people_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+posted_VBN
+in_PIN
+a_DT
+little_JJ
+while_OSUB
+so_IN
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+to_TO
+now_TIME
+._.
+I_FPP1
+mean_VPRT [PRIV]
+,_,
+it_PIT
+'s_VPRT [CONT]
+not_XX0
+like_IN
+anybody_QUPR
+even_RB
+reads_VPRT
+this_DEMP
+,_,
+but_CC
+I_FPP1
+still_RB
+like_IN
+to_TO
+pretend_VB [PRIV]
+sometimes_RB
+that_DEMO
+people_NN
+care_VPRT
+._.
+Anyway_RB
+,_,
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+have_VB
+anything_QUPR
+to_TO
+say_VB [PUBV]
+because_CAUS
+nothing_INPR
+really_EMPH
+happened_VBD
+._.
+Oh_UH
+,_,
+and_ANDC
+by_PIN
+the_DT
+way_NN
+--_:
+Saint_NN
+Edward_NN
+'s_POS
+Central_NN
+Catholic_NN
+High_NN
+School_NN
+blows_NN
+ass_VPRT
+._.
+That_DEMP
+is_VPRT [BEMA]
+all_QUAN
+._.
+Hey_NN
+dorkwads_NN
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+me_FPP1
+._.
+Anyway_RB
+,_,
+goodbye_NN
+._.
+Hey_NN
+,_,
+so_RB
+,_,
+yeah_VPRT
+I_FPP1
+have_VPRT
+a_DT
+new_JJ
+member_NN
+in_PIN
+my_FPP1
+club_NN
+!_.
+But_CC
+that_DEMP
+'s_VPRT [CONT]
+not_XX0
+really_EMPH
+important_PRED
+because_CAUS
+I_FPP1
+almost_DWNT
+forced_VBD
+her_TPP3
+to_TO
+join_VB
+._.
+Anyway_RB
+,_,
+if_COND
+you_SPP2
+want_VPRT
+to_TO
+join_VB
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+very_AMP
+easy_PRED
+to_TO
+be_VB [BEMA]
+in_PIN
+my_FPP1
+club_NN
+,_,
+all_QUAN
+you_SPP2
+gotta_VPRT
+do_EMPH
+is_VPRT
+tell_VB
+me_FPP1
+you_SPP2
+want_VPRT
+to_TO
+be_VB [BEMA]
+in_PIN
+and_CC
+you_SPP2
+'re_VPRT [CONT] [BEMA]
+in_PIN [STPR]
+._.
+Send_VB
+me_FPP1
+a_DT
+damn_NN
+email_NN
+:_:
+Cfreak123@aol.com_JJ
+If_COND
+you_SPP2
+'re_VPRT [CONT] [BEMA]
+still_RB
+skeptical_PRED
+about_IN
+joining_VBG
+my_FPP1
+FREE_NN
+free_JJ
+club_NN
+,_,
+here_RB
+are_VPRT [BEMA]
+some_QUAN
+reasons_NN
+why_RB
+you_SPP2
+should_NEMD
+join_VB
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+free_PRED
+It_PIT
+might_POMD
+be_VB
+fun_NN
+ME_FPP1
+!_.
+C'mon_VB [CONT]
+,_,
+you_SPP2
+like_VPRT
+me_FPP1
+,_,
+do_VPRT
+n't_XX0 [CONT]
+you_SPP2
+?_.
+DO_NN
+N'T_XX0 [CONT]
+YOU_SPP2
+?_.
+..._:
+It_PIT
+'s_VPRT [CONT] [BEMA]
+totally_AMP
+free_PRED
+The_DT
+club_NN
+will_PRMD
+get_VB
+better_JJ
+with_PIN
+time_NN
+and_CC
+more_EMPH
+people_NN
+in_PIN
+it_PIT
+You_SPP2
+will_PRMD
+be_VB [BEMA]
+able_PRED
+to_TO
+say_VB [PUBV] [THATD]
+you_SPP2
+joined_VBD
+a_DT
+club_NN
+and_CC
+did_VBD
+n't_XX0 [CONT]
+even_RB
+have_VB
+to_TO
+do_VB [PROD]
+anything_QUPR
+except_PIN
+email_NN
+somebody_QUPR
+It_PIT
+'s_VPRT [CONT] [BEMA]
+fuckin_JJ
+free_JJ
+!_.
+You_SPP2
+will_PRMD
+break_VB
+my_FPP1
+fragile_JJ
+heart_NN
+if_COND
+you_SPP2
+do_VPRT
+n't_XX0 [CONT]
+join_VB
+..._:
+So_CC
+there_EX
+you_SPP2
+go_VPRT
+._.
+I_FPP1
+know_VPRT [PRIV] [THATD]
+you_SPP2
+want_VPRT
+to_TO
+join_VB
+._.
+C'mon_VB [CONT]
+,_,
+maybe_HDG
+we_FPP1
+'ll_PRMD [CONT]
+all_QUAN
+get_VB
+free_JJ
+candy_NN
+and_CC
+little_JJ
+flags_NN
+and_CC
+a_DT
+parade_NN
+!_.
+Or_CC
+maybe_HDG
+not_XX0
+._.
+But_CC
+so_RB
+what_WP
+._.
+Well_DPAR
+,_,
+later_TIME
+._.
+Hi_FW
+people_NN
+._.
+It_PIT
+'s_VPRT [CONT] [PASS]
+been_VBN [BEMA]
+a_DT
+little_JJ
+while_OSUB
+since_OSUB
+I_FPP1
+last_JJ
+posted_VBD
+._.
+Like_IN
+anyone_QUPR
+cares_VPRT
+._.
+Like_IN
+anybody_QUPR
+is_VPRT [SPAU]
+even_RB
+reading_VBG
+this_DEMP
+._.
+Well_DPAR
+what_WP
+if_COND
+I_FPP1
+told_VBD
+you_SPP2
+that_DEMO
+I_FPP1
+have_VPRT
+a_DT
+boyfriend_NN
+?_.
+Ooh_NN
+,_,
+what_WP
+would_PRMD
+you_SPP2
+say_VB [PUBV]
+?_.
+Nothing_INPR
+,_,
+because_CAUS
+you_SPP2
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+anything_QUPR
+._.
+Idiot_NN
+._.
+What_WP
+a_DT
+lame_JJ
+remark_NN
+._.
+Oh_UH
+well_UH
+,_,
+I_FPP1
+am_VPRT [BEMA]
+lame_PRED
+._.
+DUDE_NN
+._.
+I_FPP1
+have_VPRT
+a_DT
+boyfriend_NN
+!_.
+No_SYNE
+lie_NN
+,_,
+no_SYNE
+joke_NN
+,_,
+I_FPP1
+am_VPRT
+totally_AMP
+fuckin_FW
+telling_VBG
+the_DT
+truth_NN
+._.
+And_ANDC
+it_PIT
+rocks_NN
+!_.
+Finally_RB
+,_,
+after_IN
+all_QUAN
+this_DEMO
+shitty_JJ
+time_NN
+of_PIN
+being_VBG
+alone_RB
+..._:
+I_FPP1
+am_VPRT [BEMA]
+unalone_PRED
+!_.
+Happy_JJ
+,_,
+happy_JJ
+,_,
+happy_JJ
+me_FPP1
+._.
+But_CC
+I_FPP1
+wo_PRMD
+n't_XX0 [CONT]
+tell_VB
+you_SPP2
+his_TPP3
+name_NN
+,_,
+because_CAUS
+then_RB
+the_DT
+magic_NN
+would_PRMD
+be_VB [PASS]
+spoiled_VBN
+._.
+So_IN
+you_SPP2
+will_PRMD [SPAU]
+never_RB
+know_VB [PRIV]
+!_.
+Ha_NN
+ha_NN
+ha_NN
+ha_NN
+._.
+Just_EMPH
+know_VB [PRIV] [THATD]
+that_DEMP
+this_DEMO
+dorkwad_NN
+is_VPRT
+UNAVAILABLE_NN
+._.
+Sorry_JJ
+you_SPP2
+idiots_NN
+,_,
+you_SPP2
+were_VBD
+n't_XX0 [CONT]
+fast_RB
+enough_RB
+._.
+AH_NN
+HA_NN
+HA_NN
+HA_NN
+!_.
+I_FPP1
+'m_VPRT [CONT]
+nuts_NN
+._.
+Deal_NN
+with_PIN
+it_PIT
+._.
+Yeah_UH
+so_IN
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+to_PIN
+California_NN
+on_PIN
+Saturday_NN
+._.
+I_FPP1
+wo_PRMD
+n't_XX0 [CONT]
+be_VB [BEMA]
+here_RB
+for_PIN
+a_DT
+WHOLE_JJ
+WEEK_NN
+._.
+Whee_NN
+,_,
+going_VBG
+to_TO
+see_VB [PRIV]
+grandma_NN
+._.
+How_RB
+great_JJ
+._.
+I_FPP1
+know_VPRT [PRIV] [THATD]
+you_SPP2
+'ll_PRMD [CONT]
+miss_VB
+me_FPP1
+._.
+But_CC
+it_PIT
+'s_VPRT [CONT] [BEMA]
+so_EMPH
+close_PRED
+to_TO
+being_VBG
+school_NN
+time_NN
+again_TIME
+,_,
+that_DEMP
+going_VBG
+is_VPRT [BEMA]
+really_EMPH
+gonna_PRED
+be_VB [BEMA]
+shitful_PRED
+._.
+I_FPP1
+mean_VPRT [PRIV] [THATD]
+I_FPP1
+want_VPRT
+to_TO
+go_VB
+,_,
+but_CC
+I_FPP1
+also_RB
+want_VPRT
+to_TO [SPIN]
+just_EMPH
+stay_VB
+home_NN
+and_CC
+not_XX0
+do_VB [PROD]
+anything_QUPR
+until_IN
+school_NN
+starts_NN
+._.
+Oh_UH
+yeah_NN
+,_,
+school_NN
+blows_NN
+._.
+Anyway_RB
+,_,
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+to_TO
+miss_VB
+you_SPP2
+all_QUAN
+._.
+WHAT_WDT
+THE_DT
+FUCK_NN
+????_CD
+I_FPP1
+did_VBD
+not_XX0
+just_EMPH
+say_VB [PUBV] [THATD]
+that_DEMP
+._.
+I_FPP1
+wo_PRMD
+n't_XX0 [CONT]
+miss_VB
+you_SPP2
+at_PIN
+all_QUAN
+,_,
+except_PIN
+for_PIN
+like_IN
+2_CD
+people_NN
+._.
+Goodbye_NN
+,_,
+assbags_NN
+._.
+Ha_NN
+ha_NN
+,_,
+Ashley_NN
+I_FPP1
+stole_VBD
+your_SPP2
+word_NN
+._.
+BITCH_NN
+._.
+So_IN
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+in_PIN
+California_NN
+right_RB
+now_TIME
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+great_PRED
+._.
+Well_DPAR
+,_,
+bye_NN
+._.

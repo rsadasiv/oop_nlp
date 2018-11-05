@@ -1,0 +1,202 @@
+tOdAy_NNP iS_NNP pHylliS_NNP 's_POS biRthDay_NNP ._. ._.
+mE_NNP and_CC my_PRP$ uSuAl_NNP grOup_NNP oF_NNP fRiEnds_NNP dEciDed_VBD tO_NNP gO_NNP tO_NNP tAMpiNes_NNPS mAll_NNP aNd_NNP cElEbrAte_NNP bOth_NNP pHyllis_NNP And_CC cliNtOn_NNP biRthdAy_NNP -LRB-_-LRB- cliNt_NNP biRthdAy_NNP wAs_NNP oN_NNP fRi_NNP -RRB-_-RRB- ._. ._.
+wE_NNP hAd_NNP a_DT gAme_NNP oF_NNP bAsketbAll_NNP bEfoRe_NNP wE_NNP go_VB ._. ._.
+i_FW aLLey_NNP hoOp_NNP tWicE_NNP todAy_NNP ._. ._.
+mAn_VB it_PRP wAs_VBZ fUn_NNP ._. ._.
+aNd_NNP cliNtOn_NNP diD_NNP a_DT dUnk_NNP ._. ._.
+coOL_NNP ._. ._.
+aFtEr_NNP tHAt_NNP wE_NNP dEciDe_NNP to_TO gO_VB mEEt_NNP tHE_NNP giRls_NNP ._. ._.
+wE_NNP wEre_NNP wAlkin_NNP hAlf_NNP wAy_NNP tO_NNP kFc_NNP wHen_NNP pHyllis_NNP pHoNE_NNP rAng_NNP ._. ._.
+it_PRP wAs_VBZ xiAo_NNP pinG_NNP ._. ._.
+wE_NNP tHought_NNP sHE_NNP wAs_NNP cOmin_NNP bUt_NNP aCtuAlly_NNP nOt_NNP ._. ._.
+sHE_NNP 's_POS gOt_NNP tUitiOn_NNP at_IN 4_CD ._. ._.
+sO_NNP sHe_NNP 's_POS nOt_NNP gOin_NNP ._. ._.
+sHe_NNP wAs_NNP wAitiN_NNP fOR_NNP 203_CD estHEr_NNP ._. ._.
+sO_JJ wE_NNP Ask_NNP hEr_NNP tO_NNP meet_VBP uS_JJ At_IN kFc_NNP wHilE_NNP wE_NNP gUys_NNP gO_NNP anD_NNP chAnge_NNP ._. ._.
+wEe_NNP cHew_NNP lEft_NNP hiS_NNP wALlet_NNP iN_NNP thE_NNP tOilet_NNP ._. ._.
+lUCkiLy_NNP i_FW fOund_NNP it_PRP ._. ._.
+aFtEr_NNP wE_NNP chAnge_NNP we_PRP mEt_VBP eSther_NNP and_CC stElla_NNP ..._: stElla_NNP wAve_NNP gOod_NNP byE_NNP tO_NNP mE_NNP anD_NNP wEe_NNP chEW_NNP ._. ._.
+thOugh_NNP wE_NNP dUnNo_NNP hEr_NNP ._. ._.
+sHE_NNP stiLL_NNP wAve_NNP gOodbyE_NNP tO_NNP us_PRP ._. ._.
+mE_NNP and_CC wEe_NNP cHew_NNP wEre_NNP bOth_NNP puZzle_NNP ._. ._.
+-LRB-_-LRB- -_: __SYM -_: -RRB-_-RRB- ?_.
+aFtEr_NNP tHAt_NNP wE_NNP dEcidE_NNP tO_NNP tAke_NNP a_DT tAxi_NNP tO_NNP tAmpiNEs_NNPS mALL_NNP aS_NNPS it_PRP wAs_VBZ rAthEr_NNP lAte_NNP ._. ._.
+wE_NNP dEciDed_VBD to_TO cElebrAte_NNP pHylliS_NNP biRthdAy_NNP at_IN sEoUl_NNP gArden_NNP ._. ._.
+mAn_VB it_PRP wAs_VBZ eX_NN !_.
+tHe_NN 7_CD oF_NNP uS_NNP sPend_VBD a_DT tOtAl_NNP oF_NNP s_VBZ $_$ 100.40_CD ._. ._.
+siAo_NN ._. ._.
+bUt_NNP wAs_NNP aLL_NNP wOrTh_NNP it_PRP aFter_NNP i_FW eNtEr_NNP tHE_NNP rEstAurant_NNP ._. ._.
+tHere_NNP wAS_NNP a_DT widE_NNP vAriEty_NNP oF_NNP fOod_NNP ._. ._.
+u_NN mAy_NNP rEfiLL_NNP tHE_NNP dRiNk_NNP As_IN mAny_NNP tiME_NNP as_IN u_NNP wANt_NNP ._. ._.
+wE_NNP wEre_NNP aLL_NNP fUll_NNP aftEr_NNP tHat_NNP ._. ._.
+aftER_NNP oUr_NNP LunCh_NNP wE_NNP dEciDE_NNP tO_NNP pLAy_NNP oUR_NNP uSuAl_NNP gAme_NNP ._. ._.
+YEs_NNS ._. ._.
+sEcrEt_NNP nO._NNP ._. ._.
+wE_NNP aLL_NNP kAnA_NNP aNd_NNP wAi_NNP kAi_NNP wAs_NNP tHE_NNP soLE_NNP suRviVoR_NNP ._. ._.
+aFtER_NNP tHE_NNP gAme_NNP All_NNP oF_NNP uS_NNP fElt_NNP siCk_NNP ._. ._.
+wE_NNP wErE_NNP hAvin_NNP tuMMyache_NNP ._. ._.
+bUt_NNP wAsnt_NNP vEry_NNP sErioUS_NNP ._. ._.
+wEll_NNP ._. ._.
+eXcept_NNP tHE_NNP biRthDAy_NNP giRl_NNP ._. ._.
+sHE_NNP viSitEd_NNP tHE_NNP tOilEt_NNP qUitE_NNP a_DT nO_NNP ._.
+oF_NNP tiMEs_NNP ._. ._.
+tHis_NNP wAs_NNP bAd_NNP ._. ._.
+i_FW gOt_FW hOmE_FW at_IN aRound_JJ 7_CD .15_CD ._. ._.
+tHe_NNP giRls_NNP aND_NNP i_FW wEnt_NNP tO_NNP bUy_NNP tiBits_VBZ fOR_NNP tHE_NNP tOmORroW_NNP mOViE_NNP ._. ._.
+hm_NN ._. ._.
+sO_NNP siAn_NNP ._. ._.
+oH_NNP yEAh_NNP ._. ._.
+kAh_NNP jun_NN ,_, wEe_NNP cHEw_NNP ,_, cLiNt_NNP aNd_NNP mE_NNP dEcide_NNP tO_NNP cReatE_NNP a_DT Blog_NNP tHiS_NNP sAtuRdAy_NNP at_IN kAH_NNP juN_NNP hOuse_NNP aFtEr_NNP tHE_NNP 2.4_CD km_NN rUn_NN ._. ._.
+hM_NNP ._. ._.
+Ok_NNP ._. ._.
+gUEss_NNP i_FW shAll_NNP stOP_NNP hEre_NNP ..._: tHankS_NNP For_IN ReADin_NNP ._. ._.
+\*_SYM ~_NN hiGhLiGht_NNP oF_NNP tHE_NNP dAy_NNP :_: diD_NNP aN_NNP aLLey_NNP hoOp_NNP tWicE_NNP ._. ._.
+mUahAhA_NNP ..._: ._. ._.
+tHEre_NNP wAs_NNP a_DT HeAvy_NNP dOWnpOur_NNP tOday_NNP ._. ._.
+gReAt_NNP wEatHEr_NNP fOR_NNP a_DT sLEep_NNP ._. ._.
+tOdAy_NNP tHEre_NNP wAs_NNP n't_RB aNytHing_VBG sPEciAL_NNP ._. ._.
+aFter_NNP sChOol_NNP wE_NNP hAd_NNP a_DT pW_NNP couRse_NNP ._. ._.
+dAMn_NNP siAn_NNP ._. ._.
+plAy_NNP pOOl_NNP aLL_NNP dAy_NNP ._. ._.
+aftEr_NNP tHE_NNP cOurSE_NNP i_FW gOt_NNP baNd_NNP ._. ._.
+i_FW 'Ve_FW actUAlly_NNP pLaNNed_NNP tO_NNP gO_NNP ._. ._.
+bUt_NNP tOmorroW_NNP gOnnA_NNP bE_NNP pHylliS_NNP b_NN `_`` dAe_NN ._. ._.
+sO_NNP wE_NNP pLAn_NNP tO_NNP bUy_NNP hER_NNP pReSent_NNP tOdAy_NNP ._. ._.
+bUt_NNP aS_NNP i_FW mEntiOn_NNP eArliEr_NNP ,_, i_FW 'vE_FW gOt_FW bAnd_FW lA_FW ._. ._.
+sO_JJ dUnno_NNP whiCh_NNP oNE_NNP tO_NNP go_VB ._. ._.
+So_RB lOng_JJ hAbeN_NNP gO_NNP bAnd_NNP ._. ._.
+qUitE_NNP miSS_NNP tHE_NNP dAys_NNP i_FW hAVe_NNP iN_NNP tHere_NNP ._. ._.
+sO_NNP i_FW dEciDe_NNP tO_NNP fLip_NNP a_DT cOin_NNP tO_NNP dEtErmiNE_NNP wHethEr_NNP i_FW sHouLd_NNP gO_NNP fOR_NNP bANd_NNP oR_NNP eAst_NNP pOint_NNP ._. ._.
+i_FW hAd_FW 3_CD fLips_NNS ._. ._.
+aLthOugh_IN it_PRP hAs_VBZ dEteRmine_NNP mE_NNP tO_NNP gO_NNP bAnd_NNP ._. ._.
+i_FW dUnno_NNP wHy_NNP tHAt_NNP i_FW lAter_NNP dEcidE_NNP tO_NNP gO_NNP eAst_NNP pOint_NNP ._. ._.
+sO_NN ._. ._.
+mE_NNP ,_, cLint_NNP ,_, wAi_NNP kAi_NNP ,_, PhylIiS_NNP aNd_NNP jiA_NNP wEn_NNP aLL_NNP wEnt_NNP tO_NNP eAst_NNP pOint_NNP lOr_NNP ._. ._.
+siAn_NN ._. ._.
+wHOLE_NNP dAY_NNP tHere_NNP wE_NNP mEt_NNP viShAAl_NNP ._. ._.
+oUr_NNP buDgEt_NNP wEre_NNP limitEd_NNP ._. ._.
+sO_NNP tHErE_NNP wEre_NNP liMitEd_NNP tHingS_NNP wE_NNP coUld_NNP buy_VB ._. ._.
+wE_VB aLL_NNP dEciDed_NNP tO_NNP diScuSs_VBZ it_PRP At_IN a_DT fOod_NNP cOurt_NNP ._. ._.
+i_FW oRDerEd_NNP a_DT plAtE_NNP oF_NNP fRies_NNP ._. ._.
+We_PRP all_DT deciDed_VBN tHAt_NNP wE_NNP shAll_NNP buy_VB pHyllis_NNP pReSent_NNP tml_NN ._. ._.
+aND_NNP cElebrAte_NNP hEr_NNP b_NN `_`` dAe_NN at_IN eithEr_NNP oNE_NNP oF_NNP thEse_NNP pLAcEs_NNPS :_: sWeNsEn_NNP ,_, sEouL_NNP gArdEn_NNP oR_NNP sAkAe_NNP sUshi_NNP ._. ._.
+cA_NNP n't_RB wAit_VBD tiL_NNP toMorRow_NNP ._. ._.
+OK_UH ._. ._.
+gUEss_NNP shAll_NNP stOp_NNP hEre_NNP ._. ._.
+thANks_NNS fOR_NNP rEadin_NNP !_.
+\*_SYM ~_NN hiGhLiGht_NNP oF_NNP tHE_NNP niGHt_NNP :_: nOthiN_NNP ._. ._.
+tOday_NNP ,_, mE_NNP ,_, wEE_NNP chEW_NNP ,_, xiAO_NNP piNg_NNP ,_, wAi_NNP kAi_NNP ,_, cLintOn_NNP ,_, kAh_NNP jUn_NNP ,_, pHylliS_NNP aNd_NNP jiA_NNP wEn_NNP wEnt_NNP tO_NNP lOng_NNP jOhn_NNP siLvEr_NNP aFtEr_NNP sChoOl_NNP ._. ._.
+We_PRP hAd_VBP a_DT gReAt_NNP tiME_NNP theRe_NNP i_FW bOught_NNP a_DT cOmbO_NNP 1_CD ._. ._.
+so_RB dId_JJ tHE_NNP othErS_NNP ._. ._.
+wE_NNP lAtEr_NNP hAD_NNP ``_`` seCret_NNP no._NNP ''_'' agAIn_NNP ._. ._.
+aND_NNP wE_NNP goT_NNP a_DT nEw_NNP cOmER_NNP tOO_NNP ._. ._.
+xiAo_NNP piNg_NNP ._. ._.
+hAha_NNP ._. ._.
+wEE_NNP chEw_NNP waS_NNP tHE_NNP onE_NNP mAkin_NNP thE_NNP sEcRet_NNP recipE_NNP ._. ._.
+tHEre_NNP wAs_NNP A_NNP lOt_NNP oF_NNP chiLLi_NNP ,_, mYoniSe_NNP ,_, pEpsi_NNP ._. ._.
+etC_FW ._. ._.
+wHilE_NNP mixin_NN ._. ._.
+tHErE_NNP cAme_NNP viVek_NNP gAng_NNP ._. ._.
+xiANg_NNP yiNg_NNP and_CC viVek_NNP appEaL_NNP tO_NNP tAstE_NNP tHE_NNP ``_`` seCrEt_NNP rEciPE_NNP ''_'' -LRB-_-LRB- eWww_NNP ..._: -RRB-_-RRB- i_FW wAs_FW sHOcK_NNP tHAt_NNP tHEy_NNP sAY_NNP iT_NNP wAs_NNP tAsty_NNP ._. ._.
+-LRB-_-LRB- '_'' __NN '_'' -RRB-_-RRB- ?_.
+aND_NNP tHE_NNP gAme_NNP staRts_NNPS ._. ._.
+aNd_NNP afTeR_NNP 3_CD nO._NNP ,_, xIAo_NNP piNg_NNP WAs_VBD tHE_NNP fiRSt_NNP oNE_NNP tO_NNP kEna_NNP ..._: wE_NNP plAYed_VBD 8_CD timEs_NNS aNd_JJ tHiS_NNP wAs_NNP tHE_NNP rEsult_NNP :_: 4_CD timEs_NNS --_: xiAo_NNP piNg_NNP ,_, 2_CD tiMEs_NNS --_: pHyllis_NNP aND_NNP tHE_NNP otHers_NNP aLL_NNP oNE_NNP ._. ._.
+whiLE_NNP wE_NNP wEre_NNP plAyin_NNP ._. ._.
+We_PRP alSo_VBP mEt_NNP ``_`` fiFi_NNP ''_'' and_CC tHe_VB 3_CD tiME_NNP bAbE_NNP oF_NNP tHE_NNP yeAR_NNP ._. ._.
+siAn_NN ._. ._.
+sHE_NNP coME_NNP iN_NNP giVE_NNP a_DT stUpid_JJ fAce_NNP ._. ._.
+-LRB-_-LRB- fEEl_NNP liKe_NNP slAppin_NNP hEr_NNP -RRB-_-RRB- ._. ._.
+lAter_NNP We_PRP rEtuEn_VBP tO_NNP sChoOl_NNP fOR_NNP coMManDo_NNP tRAininG_NNP ._. ._.
+wE_NNP PLAy_NNP a_DT gAme_NNP oF_NNP soCCeR_NNP ._. ._.
+lAter_NNP pRocEEd_NNP tO_NNP oUR_NNP trAInin_NNP ._. ._.
+wE_NNP wERe_NNP aSk_NNP tO_NNP sHOut_NNP tHE_NNP coMMand_NNP ._. ._.
+wEE_NNP chEw_NNP and_CC sAdiQ_NNP was_VBD tHE_NNP loudeSt_NNP ._. ._.
+so_RB thEy_JJ wEre_NNP eXpEcted_NNP tO_NNP bE_NNP thE_NNP oNE_NNP shoUtin_NNP tHE_NNP coMMand_NNP evErydAY_NNP ._. ._.
+All_DT oF_NNP uS_NNP aRe_NNP hAvin_NNP a_DT liTTle_NNP sOrE_NNP thROat_NNP afTer_NNP tHE_NNP tRAinin_NNP ._. ._.
+-LRB-_-LRB- eRhem_NNP ._. ._. -RRB-_-RRB-
+mAN_NNP ._. ._.
+mY_NNP tHroat_NNP stiLL_NNP hUrts_VBZ uP_NNP tILL_NNP nOW_NNP ._. ._.
+-LRB-_-LRB- eR_NNP hEm_NNP -RRB-_-RRB- i_FW aLSo_FW lEarn_NNP hOW_NNP to_TO pLAy_NNP yAHoo_NNP pOOl_NNP ._. ._.
+goT_NN to_TO KNOW_VB a_DT fRiend_NNP cAlleD_NNP niKita_NNP tHrough_NNP tHE_NNP poOl_NNP gAme_NNP ._. ._.
+oKay_NNP ._. ._.
+gUEss_NNP i_FW shALL_NNP wRitE_NNP tiL_NNP hEre_NNP fOr_NNP tHe_NNP dAY_NNP ._. ._.
+thAnks_VBZ fOR_NNP reAdin_NNP !_.
+\*_SYM ~_NN hiGhliGht_NNP oF_NNP tHE_NNP dAY_NNP :_: gOt_NNP tO_NNP knOW_NNP A_NNP fRiEnd_NNP cAlled_VBD niKitA_NNP ._. ._.
+aNd_NNP gOt_NNP soRe_NNP tHRoAt_NNP aH_NNP !!!!_NNP -LRB-_-LRB- \*_SYM --_: \*_SYM -RRB-_-RRB- tOday_NNP wAs_NNP a_DT greAt_NNP moNdAy_NNP ._. ._.
+mE_NNP ,_, WeE_NNP chEw_NNP ,_, cLintOn_NNP ,_, wAi_NNP kAi_NNP ,_, kAH_NNP jUn_NNP ,_, jiA_NNP wEn_NNP aNd_NNP pHylliS_NNP wEnt_NNP tO_NNP piZZa_NNP hUt_NNP tO_NNP hAVe_NNP ouR_NNP lUnch_NNP ._. ._.
+i_FW SPenT_VBD a_DT totAl_NNP oF_NNP $_$ 11.90_CD thErE_NNP !!_CD wE_NNP lAteR_NNP deCiDe_NNP tO_NNP plAy_NNP thE_NNP gAmE_NNP caLLed_NNP seCret_NNP coDe_NNP ._. ._.
+All_DT oF_NNP uS_NNP kEna_NNP thE_NNP ``_`` seCret_NNP reCipE_NNP ''_'' -LRB-_-LRB- u_JJ dun_NN wanna_NNS know_VBP wad_NN we_PRP put_VBD inside_RB -RRB-_-RRB- mAdE_VB by_IN mE_NNP and_CC Wee_NNP cHEw_NNP ._. ._.
+thE_NNP tAstE_NNP iS_NNP alrighT_NNP ._. ._.
+exCepT_NNP iS_NNP a_DT biT_NNP hoT_NNP !!!_NNP lAtEr_NNP wE_NNP pRoceeD_NNP back_RB tO_NNPS scHool_NNP ._. ._.
+wE_NNP mEt_NNP sAmAnthA_NNP anD_NNP gang_NN ._. ._.
+wE_NNP went_VBD bAck_NNP tO_NNP schOol_NNP togEthEr_NNP ._. ._.
+Me_PRP and_CC my_PRP$ prEfEct_NNP gANg_NNP wEnt_NNP tO_NNP thE_NNP pRefEct_NNP rOom_NNP anD_NNP wE_NNP hAd_NNP a_DT gAme_NNP oF_NNP stRip_NNP pOker_NNP ._. ._.
+mE_VB latEr_NNP dEciDe_NNP tO_NNP plAy_NNP strEss_NNP ._. ._.
+hAd_NN 4_CD gAMes_NNS with_IN pHylliS_NNP ._. ._.
+mAn_VB it_PRP was_VBD hArd_NNP tO_NNP beat_VBD hEr_NNP ._. ._.
+lAter_NN at_IN 4.30_CD we_PRP Change_NNP intO_NNP ouR_NNP PE_NNP shoRTs_NNPS and_CC gET_NNP rEAdy_NNP fOR_NNP thE_NNP pFt_NNP ._. ._.
+waS_NNP n't_RB rEally_NNP satiSfIEd_NNP witH_NNP mY_NNP rESult_NNP ._. ._.
+bUt_NNP i_FW DiD_NNP wEll_NNP ._. ._.
+fAilEd_NNP nTh_NNP At_IN All_DT ._. ._.
+-LRB-_-LRB- pHeW_NNP ~_CD __CD ~_NN ''_'' -RRB-_-RRB- aFtEr_NNP tHAt_NNP wE_NNP wEnt_NNP hoME_NNP ._. ._.
+mAn_NNP i_FW wAs_NNP rEally_NNP tiREd_NNP -LRB-_-LRB- \*_SYM --_: \*_SYM -RRB-_-RRB- hA_NN ._. ._.
+mE_NNP awaiTs_NNP aNothEr_NNP grEAt_NNP dAy_NNP toMoRroW_NNP ._. ._.
+oK_NNP think_VB thAt_NNP 'S_POS aLL_NNP ._. ._.
+thAnks_VBZ foR_NNP rEAdiNg_NNP ._. ._.
+-LRB-_-LRB- ^_SYM -_: ^_NN -RRB-_-RRB- hightlight_NN of_IN the_DT day_NN ~_VB pAss_NNP mY_NNP pFt_NNP ._. ._.
+-LRB-_-LRB- \*_SYM --_: \*_SYM -RRB-_-RRB- today_NN i_FW saw_VBD mr_NN lee_NN bringing_VBG his_PRP$ dog_NN for_IN a_DT walk_NN ._. ._.
+his_PRP$ dog_NN was_VBD cute_JJ ,_, no_DT doubt_NN ._. ._.
+there_EX were_VBD many_JJ people_NNS followin_VBP him_PRP ._. ._.
+after_IN school_NN me_PRP and_CC clint_NN and_CC banana_NN went_VBD to_TO old_JJ pyss_NN to_TO have_VB our_PRP$ lunch_NN ._. ._.
+banana_NN mention_NN that_IN he_PRP is_VBZ going_VBG to_TO gentin_VB ,_, and_CC were_VBD invitin_JJ me_PRP ,_, wee_NN chew_VBP and_CC clinton_VBP ._. ._.
+all_DT our_PRP$ parents_NNS has_VBZ actually_RB agreed_VBN to_TO let_VB us_PRP go_VB -LRB-_-LRB- yes_UH man_UH !_. -RRB-_-RRB-
+coz_NN i_FW dun_FW actually_RB think_VB my_PRP$ parent_NN will_MD allow_VB ._. ._.
+later_RB we_PRP went_VBD to_TO the_DT banana_NN 's_POS house_NN ._. ._.
+me_PRP and_CC clint_NN later_RB got_VBD some_DT ideas_NNS on_IN our_PRP$ mind_NN ._. ._.
+and_CC we_PRP decide_VBP to_TO play_VB a_DT prank_NN on_IN others_NNS ._. ._.
+it_PRP was_VBD very_RB funny_JJ and_CC we_PRP were_VBD all_DT laughing_VBG none_NN stop_NN ._. ._.
+sorry_JJ xp_NN -LRB-_-LRB- the_DT pranks_NNS they_PRP play_VBP on_IN ur_NN sis_NN got_VBD nth_NN to_TO do_VB with_IN me_PRP -RRB-_-RRB- haha_NN ._. ._.
+then_RB we_PRP also_RB fool_VBP vivek_NN ,_, banana_NN 's_POS fren_NNS and_CC that_IN 3_CD time_NN babe_NN of_IN the_DT year_NN -LRB-_-LRB- that_DT was_VBD cool_JJ ._. ._.
+way_NN cool_NN ._. ._.
+muAhahahaha_NNP -RRB-_-RRB- hA_NNP ._. ._.
+lookin_JJ forward_RB to_TO the_DT day_NN we_PRP going_VBG Genting_NNP ._. ._.
+guess_NN shall_MD stop_VB here_RB ._. ._.
+that_DT 's_VBZ all_DT for_IN tonight_NN ._. ._.
+~_RB highlight_NN of_IN the_DT day_NN :_: play_VB a_DT trick_NN on_IN 3_CD times_NNS babe_NN of_IN the_DT year_NN ~_RB today_NN we_PRP got_VBD maths_NNS trial_NN ._. ._.
+so_RB tirin_NN ._. ._.
+me_PRP ,_, wee_NN chew_VBP ,_, phyllis_NNS ,_, wai_FW kai_FW and_CC clint_NN ._. ._.
+we_PRP had_VBD a_DT busy_JJ day_NN and_CC our_PRP$ brain_NN work_NN like_IN siao_NN ._. ._.
+the_DT maths_NNS questions_NNS are_VBP tricky_JJ ._. ._.
+we_PRP answer_VBP the_DT question_NN with_IN little_JJ confidence_NN ._. ._.
+after_IN the_DT trial_NN we_PRP were_VBD all_DT hungry_JJ and_CC decide_VB to_TO go_VB long_RB john_JJ silver_NN ._. ._.
+had_VBD lot_NN of_IN fun_NN there_RB ._. ._.
+then_RB we_PRP all_DT talk_VBP about_IN school_NN life_NN and_CC cy_NN ._. ._.
+haha_NN ..._: then_RB after_IN i_FW went_VBD home_NN got_VBD the_DT results_NNS that_IN we_PRP had_VBD actually_RB won_VBN the_DT trial_NN !!_NN MUAHAHAHAHAHA_NNP ._. ._.
+that_DT 's_VBZ so_RB cool_JJ ._. ._.
+hm_NN ._. ._.
+wonder_VB what_WP 's_VBZ the_DT prize_NN ._. ._.
+ok_FW la_FW guess_NN shall_MD stop_VB here_RB ._. ._.
+\*_SYM ~_NN hiGhLigHt_NNP oF_NNP tHE_NNP dAy_NNP :_: wOn_NNP tHE_NNP mAThs_NNP triAL_NNP \*_SYM __SYM \*_SYM today_NN was_VBD bored_VBN at_IN school_NN ._. ._.
+mr_NN liew_NN and_CC miss_VBP jew_NN did_VBD n't_RB come_VB to_TO school_NN today_NN ._. ._.
+had_VBD 3_CD lessons_NNS free_JJ -LRB-_-LRB- so_RB shiok_JJ -RRB-_-RRB- ._. ._.
+me_PRP ,_, xp_NN ,_, and_CC wee_NN chew_VBP went_VBD helpin_NN mr_NN ng_NN to_TO paste_VB poster_NN around_IN the_DT school_NN ._. ._.
+kind_NN of_IN fun_NN ._. ._.
+then_RB after_IN sch_NN liao_NN went_VBD to_TO play_VB soccer_NN at_IN the_DT field_NN ._. ._.
+sux_NN ._. ._.
+mr_NN chan_NN go_VB and_CC confiscate_VB our_PRP$ soccer_NN ball_NN ..._: sian_JJ !!_NN then_RB we_PRP had_VBD prefects_NNS general_JJ meetings_NNS ._. ._.
+got_VBD a_DT new_JJ t-shirt_NN ._. ._.
+then_RB have_VBP the_DT life_NN sci_NN thingy_NN ._. ._.
+quite_RB fun_NN and_CC interestin_NN lesson_NN today_NN ._. ._.
+really_RB enjoy_VB ._. ._.
+after_IN that_DT we_PRP went_VBD home_NN ._. ._.
+haiz_NN ._. ._.
+nth_RB much_JJ liao_NN ._. ._.
+guess_NN i_FW shall_MD end_VB here_RB ~_CD ~_CD __SYM -_: \*_SYM awaits_VBZ another_DT day_NN at_IN school_NN ~_NN today_NN was_VBD no_DT diff_NN from_IN the_DT past_JJ five_CD days_NNS ._. ._.
+i_FW was_VBD still_RB sick_JJ ,_, no_DT doubt_NN ..._: i_FW am_VBP itchin_NN all_DT over_IN ._. ._.
+and_CC i_FW dun_FW like_IN the_DT feelings_NNS of_IN this_DT ._. ._.
+yesterday_NN we_PRP went_VBD to_TO kah_VB jun_NN house_NN ._. ._.
+me_PRP clint_VBP and_CC wee_VBP chew_VBP ._. ._.
+then_RB we_PRP go_VBP century_NN square_NN to_TO watch_VB spiderman_NN 2_CD -LRB-_-LRB- reccomended_VBN -RRB-_-RRB- ._. ._.
+the_DT movie_NN was_VBD nice_JJ and_CC i_FW enjoy_VB every_DT part_NN of_IN it_PRP ._. ._.
+we_PRP all_DT thinks_VBZ that_IN the_DT next_JJ spiderman_NN movie_NN is_VBZ going_VBG to_TO feature_VB hobgoblin_NN ._. ._.
+i_FW ca_MD n't_RB wait_VB till_IN the_DT next_JJ episode_NN aww_NN ~_NN

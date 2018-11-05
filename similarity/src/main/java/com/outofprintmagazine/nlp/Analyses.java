@@ -12,6 +12,8 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
+import com.outofprintmagazine.nlp.scores.Score;
+
 public class Analyses {
 	
 	/*

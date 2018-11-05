@@ -1,0 +1,149 @@
+A_DT
+54-year-old_JJ
+nun_NN
+'s_POS
+body_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+found_VBN [PRIV]
+in_PIN
+a_DT
+well_RB
+inside_PLACE
+a_DT
+convent_NN
+in_PIN
+Kerala_NN
+'s_POS
+Kollam_NN
+._.
+The_DT
+incident_NN
+came_VBD
+to_TO
+notice_VB [PRIV]
+after_IN
+workers_NN
+at_PIN
+the_DT
+Mount_NN
+Tabor_NN
+Convent_NN
+saw_VBD [PRIV]
+blood_NN
+stains_NN
+near_PLACE
+the_DT
+well_NN
+._.
+According_VBG [PRESP]
+to_PIN
+reports_NN
+,_,
+the_DT
+nun_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Susan_NN
+Mathew_NN
+._.
+Mathew_NN
+was_VBD [BEMA]
+a_DT
+teacher_NN
+at_PIN
+St._NN
+Stephens_NN
+School_NN
+in_PIN
+Kollam_NN
+'s_POS
+Pathanapuram_NN
+,_,
+where_RB
+she_TPP3
+had_VBD [PEAS]
+been_VBN
+teaching_VBG
+for_PIN
+12_CD
+years_NN
+._.
+Police_NN
+are_VPRT [BEMA]
+on_PIN
+the_DT
+spot_NN
+and_CC
+the_DT
+matter_NN
+is_VPRT
+being_VBG [PASS]
+investigated_VBN
+._.
+Both_DT
+the_DT
+school_NN
+and_CC
+the_DT
+Convent_NN
+,_,
+is_VPRT [BYPA]
+run_VBN
+by_PIN
+the_DT
+Kottayam-headquartered_JJ
+Malankara_NN
+Syrian_JJ
+Orthodox_NN
+Church_NN
+._.
+Congress_NN
+leader_NN
+Bindu_NN
+Krishna_NN
+termed_VBD
+the_DT
+death_NN
+shocking_JJ
+._.
+``_``
+Blood_NN
+stains_NN
+were_VBD [PASS]
+found_VBN [PRIV]
+inside_PLACE
+her_TPP3
+room_NN
+and_CC
+her_TPP3
+hair_NN
+was_VBD [SPAU] [PASS]
+also_RB
+found_VBN [PRIV]
+cut_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+reports_NN
+,_,
+''_''
+she_TPP3
+claimed_VBD [PUBV]
+._.
+An_DT
+impartial_JJ
+probe_NN
+is_VPRT [BEMA]
+essential_PRED
+,_,
+she_TPP3
+said_VBD [PUBV]
+._.
+-LRB-_-LRB-
+With_PIN
+agency_NN
+inputs_NN
+-RRB-_-RRB-

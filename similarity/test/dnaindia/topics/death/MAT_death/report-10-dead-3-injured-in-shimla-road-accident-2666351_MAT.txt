@@ -1,0 +1,97 @@
+Ten_CD
+people_NN
+,_,
+including_VBG [PRESP]
+four_CD
+women_NN
+,_,
+died_VBD
+and_CC
+three_CD
+others_NN
+were_VBD [PASS]
+injured_VBN
+after_IN
+a_DT
+vehicle_NN
+veered_VBD
+off_PIN
+a_DT
+road_NN
+in_PIN
+Himachal_NN
+Pradesh_NN
+'s_POS
+Shimla_NN
+district_NN
+Saturday_NN
+,_,
+a_DT
+police_NN
+official_NN
+said_VBD [PUBV]
+._.
+The_DT
+accident_NN
+happened_VBD
+at_PIN
+Snail_NN
+,_,
+three_CD
+kilometres_NN
+from_PIN
+Kuddu_NN
+on_PIN
+Tiyuni_NN
+Road_NN
+._.
+The_DT
+three_CD
+injured_VBN
+,_,
+including_VBG [PRESP]
+a_DT
+child_NN
+,_,
+have_VPRT [PEAS]
+been_VBN [PASS]
+admitted_VBN [PUBV]
+to_PIN
+Rohru_NN
+hospital_NN
+,_,
+Shimla_NN
+Superintendent_NN
+of_PIN
+Police_NN
+Omapati_NN
+Jamwal_NN
+said_VBD [PUBV]
+._.
+A_DT
+police_NN
+team_NN
+led_VBN [WZPAST]
+by_PIN
+Jubbal_NN
+Station_NOMZ
+House_NN
+Officer_NN
+and_PHC
+Swara_NN
+police_NN
+post_NN
+in-charge_NN
+is_VPRT [BEMA]
+at_PIN
+the_DT
+accident_NN
+site_NN
+,_,
+he_TPP3
+added_VBD [PUBV]
+._.
+More_EMPH
+details_NN
+awaited_VBD
+._.

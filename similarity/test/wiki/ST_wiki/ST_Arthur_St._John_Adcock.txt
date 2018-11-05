@@ -1,0 +1,18 @@
+Arthur_NNP St_NNP John_NNP Adcock_NNP -LRB-_-LRB- 17_CD January_NNP 1864_CD ''_'' 9_CD June_NNP 1930_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN and_CC poet_NN ,_, known_VBN as_IN A._NN St_NNP John_NNP Adcock_NNP or_CC St_NNP John_NNP Adcock_NNP ._.
+He_PRP is_VBZ remembered_VBN for_IN his_PRP$ discovery_NN of_IN the_DT then-unknown_JJ poet_NN W._NNP H._NNP Davies_NNP ._.
+Adcock_NNP was_VBD born_VBN in_IN London_NNP ._.
+He_PRP was_VBD a_DT Fleet_NNP Street_NNP journalist_NN for_IN half_PDT a_DT century_NN ,_, as_IN an_DT assiduous_JJ freelance_NN writer_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP worked_VBD initially_RB as_IN a_DT law_NN office_NN clerk_NN ,_, becoming_VBG full-time_JJ as_IN a_DT writer_NN in_IN 1893_CD ._.
+He_PRP built_VBD up_RP a_DT literary_JJ career_NN by_IN unrelenting_JJ efforts_NNS in_IN circulating_VBG his_PRP$ manuscripts_NNS ,_, initially_RB also_RB working_VBG part-time_RB as_IN an_DT assistant_JJ editor_NN on_IN a_DT trade_NN journal_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD a_DT founder_NN member_NN in_IN 1901_CD of_IN Paul_NNP Henry_NNP 's_POS literary_JJ and_CC performing_VBG club_NN ,_, with_IN Robert_NNP Lynd_NNP ,_, Frank_NNP Rutter_NNP and_CC others_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT acting_VBG editor_NN of_IN The_DT Bookman_NNP from_IN 1908_CD ,_, Adcock_NNP ,_, according_VBG to_TO A._NNP E._NNP Waite_NNP who_WP knew_VBD him_PRP ,_, did_VBD all_PDT the_DT work_NN of_IN the_DT Bookman_NNP ,_, nominally_RB under_IN its_PRP$ founder_NN William_NNP Robertson_NNP Nicoll_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 1923_CD he_PRP became_VBD also_RB its_PRP$ titular_JJ editor_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- As_IN an_DT influential_JJ critic_NN ,_, he_PRP has_VBZ been_VBN classed_VBN with_IN conservatives_NNS such_JJ as_IN Hilaire_NNP Belloc_NNP ,_, Edmund_NNP Gosse_NNP ,_, Henry_NNP Newbolt_NNP ,_, E._NNP B._NNP Osborn_NNP and_CC Arthur_NNP Waugh_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Adcock_NNP 's_POS papers_NNS are_VBP held_VBN by_IN the_DT Bodleian_NNP Library_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Adcock_NNP is_VBZ considered_VBN one_CD of_IN the_DT ``_`` Cockney_JJ school_NN novelists_NNS ''_'' -LRB-_-LRB- not_RB the_DT earlier_JJR Cockney_NNP School_NNP poets_VBZ -RRB-_-RRB- ,_, a_DT group_NN influenced_VBN by_IN Charles_NNP Dickens_NNP and_CC including_VBG also_RB Henry_NNP Nevinson_NNP ,_, Edwin_NNP Pugh_NNP ,_, and_CC William_NNP Pett_NNP Ridge_NNP ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- East_NNP End_NNP Idylls_NNP -LRB-_-LRB- 1897_CD -RRB-_-RRB- ,_, about_IN the_DT London_NNP slums_NNS ,_, began_VBD an_DT early_JJ trilogy_NN ,_, and_CC had_VBD an_DT introduction_NN by_IN the_DT Christian_NNP Socialist_NNP James_NNP Granville_NNP Adderley_NNP ,_, a_DT friend_NN ._.
+It_PRP drew_VBD on_IN Arthur_NNP Morrison_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- -LRB-_-LRB- 10_CD -RRB-_-RRB- Adcock_NNP published_VBN :_: He_PRP was_VBD the_DT last_JJ editor_NN of_IN The_DT Odd_NNP Volume_NN -LRB-_-LRB- 1917_CD -RRB-_-RRB- ,_, an_DT annual_JJ that_DT folded_VBD during_IN World_NNP War_NNP I._NNP -LRB-_-LRB- 13_CD -RRB-_-RRB- Adcock_NNP married_JJ Marion_NNP Taylor_NNP in_IN 1887_CD ,_, and_CC they_PRP settled_VBD in_IN Hampstead_NNP ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- Their_PRP$ daughter_NN Marion_NNP St_NNP John_NNP Webb_NNP -LRB-_-LRB- died_VBD 2_CD May_NNP 1930_CD -RRB-_-RRB- was_VBD also_RB an_DT author_NN ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- Almey_NNP St._NNP John_NNP Adcock_NNP was_VBD also_RB a_DT daughter_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB-

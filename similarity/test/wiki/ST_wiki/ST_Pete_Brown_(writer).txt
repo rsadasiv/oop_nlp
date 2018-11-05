@@ -1,0 +1,13 @@
+Pete_NNP Brown_NNP is_VBZ an_DT English_JJ writer_NN who_WP has_VBZ written_VBN extensively_RB on_IN the_DT subject_NN of_IN beer_NN and_CC drinking_NN cultures_NNS around_IN the_DT world_NN ._.
+He_PRP has_VBZ written_VBN four_CD books_NNS ;_: Man_NN Walks_VBZ Into_NNP a_DT Pub_NNP ,_, Three_CD Sheets_NNS to_TO the_DT Wind_NNP ,_, Hops_VBZ and_CC Glory_NNP and_CC Shakespeare_NNP 's_POS Local_JJ ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Brown_NNP ,_, who_WP was_VBD born_VBN in_IN Barnsley_NNP ,_, South_NNP Yorkshire_NNP ,_, lives_VBZ in_IN London_NNP ._.
+Brown_NNP attended_VBD the_DT University_NNP of_IN St_NNP Andrews_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP spent_VBD the_DT early_JJ part_NN of_IN his_PRP$ career_NN copywriting_NN ,_, including_VBG writing_VBG advertising_NN for_IN Stella_NNP Artois_NNP and_CC Heineken_NNP ,_, before_IN writing_VBG his_PRP$ debut_NN book_NN Man_NN Walks_VBZ Into_NNP a_DT Pub_NN in_IN 2004_CD ,_, a_DT history_NN of_IN drink_NN and_CC drinking_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- His_PRP$ second_JJ effort_NN ,_, Three_CD Sheets_NNS to_TO the_DT Wind_NNP ,_, was_VBD published_VBN in_IN 2007_CD and_CC explores_VBZ the_DT differences_NNS and_CC similarities_NNS in_IN drinking_NN cultures_NNS around_IN the_DT world_NN ._.
+Brown_NNP traveled_VBD 45,000_CD miles_NNS and_CC visited_VBD 13_CD countries_NNS researching_VBG the_DT book_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN Brown_NNP 's_POS third_JJ book_NN ,_, Hops_VBZ and_CC Glory_NNP ,_, he_PRP retraces_VBZ the_DT historical_JJ journey_NN of_IN India_NNP Pale_NNP Ale_NNP ,_, from_IN Burton-on-Trent_NNP in_IN England_NNP to_TO Kolkata_NNP ,_, India_NNP ,_, taking_VBG a_DT specially_RB brewed_VBN barrel_NN of_IN the_DT beer_NN along_IN with_IN him_PRP ._.
+The_DT books_NNS working_VBG title_NN was_VBD Pale_NNP and_CC Interesting_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Brown_NNP has_VBZ also_RB appeared_VBN on_IN television_NN as_IN an_DT authority_NN on_IN beer_NN ,_, as_RB well_RB giving_VBG talks_NNS and_CC lectures_VBZ on_IN the_DT subject_NN ,_, including_VBG at_IN the_DT 2009_CD Latitude_NNP Festival_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Brown_NNP was_VBD named_VBN the_DT British_JJ Guild_NNP of_IN Beer_NNP Writers_NNPS '_POS Beer_NNP Writer_NNP of_IN the_DT Year_NN in_IN 2009_CD ,_, 2012_CD and_CC 2016_CD ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP is_VBZ currently_RB Chair_NNP of_IN the_DT British_JJ Guild_NNP of_IN Beer_NNP writers_NNS ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB-

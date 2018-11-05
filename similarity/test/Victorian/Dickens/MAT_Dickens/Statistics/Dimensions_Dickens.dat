@@ -1,0 +1,72 @@
+Filename	Dimension1	Dimension2	Dimension3	Dimension4	Dimension5	Dimension6	Closest Text Type
+BOOK_1_CHAPTER_10	2.8	4.29	2.94	1.26	-0.95	1.09	Involved persuasion
+BOOK_1_CHAPTER_11	-1.99	6.64	-0.0799999999999998	-2.28	-0.59	-0.66	Imaginative narrative
+BOOK_1_CHAPTER_12	-2.77555756156289e-016	6.06	0.95	1.7	-0.69	0.57	Imaginative narrative
+BOOK_1_CHAPTER_13	1.25	5.8	1.18	0.52	0.34	0.48	Imaginative narrative
+BOOK_1_CHAPTER_14	9	8.56	-1.39	2	-2.18	0.07	Imaginative narrative
+BOOK_1_CHAPTER_15	3.33	5.37	-0.84	2.7	-0.0300000000000001	0.11	Imaginative narrative
+BOOK_1_CHAPTER_16	3.66	6.62	0.88	1.49	-1.13	-0.3	Imaginative narrative
+BOOK_1_CHAPTER_17	-2.56	7.75	0.4	-0.29	-0.71	1.59	Imaginative narrative
+BOOK_1_CHAPTER_18	1.15	4.1	0.0199999999999998	1.48	-0.25	-0.17	Imaginative narrative
+BOOK_1_CHAPTER_19	0.61	8.81	0.83	0.76	-1.8	-0.33	Imaginative narrative
+BOOK_1_CHAPTER_1	-7.75	5.06	0.18	-2.55	-1.35	-1.04	General narrative exposition
+BOOK_1_CHAPTER_20	2.08	5.32	0.43	0.32	-0.55	0.22	Imaginative narrative
+BOOK_1_CHAPTER_21	-0.86	4.59	3.81	-0.96	-1.09	0.73	Involved persuasion
+BOOK_1_CHAPTER_22	2.71	3.8	0.97	3.68	-0.13	1.07	Involved persuasion
+BOOK_1_CHAPTER_23	5.77	4.77	1.62	2.35	-0.35	0.77	Imaginative narrative
+BOOK_1_CHAPTER_24	5.09	6.82	-1.52	1.18	-0.74	0.46	Imaginative narrative
+BOOK_1_CHAPTER_25	-2.89	5.82	1.71	1.43	0.01	0.43	General narrative exposition
+BOOK_1_CHAPTER_26	3.98	6.58	2.78	2.05	-0.24	0.41	Imaginative narrative
+BOOK_1_CHAPTER_27	4.55	7.21	0.0600000000000002	2.9	-1.7	1.07	Imaginative narrative
+BOOK_1_CHAPTER_28	2.38	5.24	-0.46	2	0.47	1.01	Imaginative narrative
+BOOK_1_CHAPTER_29	2.07	6.58	-0.25	2	0.15	-0.89	Imaginative narrative
+BOOK_1_CHAPTER_2	8.09	4.34	1.02	1.15	-1.27	-0.11	Imaginative narrative
+BOOK_1_CHAPTER_30	-0.93	7.07	0.99	0.35	0.59	0	Imaginative narrative
+BOOK_1_CHAPTER_31	4.51	6.34	1.3	1.77	-0.62	0.74	Imaginative narrative
+BOOK_1_CHAPTER_32	8.14	6.59	-0.5	0.58	-1.54	0.78	Imaginative narrative
+BOOK_1_CHAPTER_33	3.56	6.92	2.13	1.98	-0.8	1.76	Imaginative narrative
+BOOK_1_CHAPTER_34	0.87	3.56	4.76	0.31	-1.06	1.26	Involved persuasion
+BOOK_1_CHAPTER_35	2.8	6.65	1.28	2.52	-0.92	0.04	Imaginative narrative
+BOOK_1_CHAPTER_36	0.69	6.32	3.03	1.91	-1.08	1.41	Imaginative narrative
+BOOK_1_CHAPTER_3	-1.11	5.64	1.12	-0.02	-1.19	-1.24	Imaginative narrative
+BOOK_1_CHAPTER_4	-3.39	9.41	0.57	-2.81	-1.31	-0.49	General narrative exposition
+BOOK_1_CHAPTER_5	2.1	7.26	1.97	3.45	-0.72	1.03	Imaginative narrative
+BOOK_1_CHAPTER_6	0.63	5.07	-0.85	1.65	-0.81	-0.61	Imaginative narrative
+BOOK_1_CHAPTER_7	-0.54	5.37	1.6	-0.14	-0.62	0.03	Imaginative narrative
+BOOK_1_CHAPTER_8	-0.240000000000001	6.69	0.76	0.94	-0.87	0.34	Imaginative narrative
+BOOK_1_CHAPTER_9	0.279999999999999	7.21	-0.15	0.12	-0.32	0.29	Imaginative narrative
+BOOK_2_CHAPTER_10	-5.04	7.72	0.83	-0.9	-0.46	0.2	General narrative exposition
+BOOK_2_CHAPTER_11	19.14	5.31	-2.55	4.77	-1.02	1.62	Informational interaction
+BOOK_2_CHAPTER_12	-6.65	4.94	1.54	1.08	-0.07	0.93	General narrative exposition
+BOOK_2_CHAPTER_13	0.18	6.12	1.83	2.17	0.53	0.4	Imaginative narrative
+BOOK_2_CHAPTER_14	7.2	5.95	-0.0799999999999997	2.21	0.14	1.86	Imaginative narrative
+BOOK_2_CHAPTER_15	2.88	4.71	2.59	3.7	0.23	1.21	Involved persuasion
+BOOK_2_CHAPTER_16	-2.8	5.12	2.79	1.09	0.34	-0.28	General narrative exposition
+BOOK_2_CHAPTER_17	-0.39	7.22	2.03	1.31	-0.09	0.69	Imaginative narrative
+BOOK_2_CHAPTER_18	-1.82	7.81	1.06	-0.36	-0.0499999999999999	-0.62	Imaginative narrative
+BOOK_2_CHAPTER_19	-0.46	6.27	-0.84	0.22	0.89	0.4	Imaginative narrative
+BOOK_2_CHAPTER_1	-3.52	5.45	1.17	-0.85	0.08	-0.34	General narrative exposition
+BOOK_2_CHAPTER_20	4.92	8.52	0.72	2.59	-0.83	-0.03	Imaginative narrative
+BOOK_2_CHAPTER_21	8.86	6.93	1.91	2.18	0.63	2.11	Imaginative narrative
+BOOK_2_CHAPTER_22	2.03	7.62	0.82	-0.62	-0.61	-0.21	Imaginative narrative
+BOOK_2_CHAPTER_23	3.56	6.73	1.14	2.88	0.29	0.29	Imaginative narrative
+BOOK_2_CHAPTER_24	4.16	6.24	-0.52	3.98	-0.11	-0.08	Imaginative narrative
+BOOK_2_CHAPTER_25	-3.25	8.03	1.82	0.13	1.16	-0.78	General narrative exposition
+BOOK_2_CHAPTER_26	3.22	5.45	1.58	2.76	-0.13	0.57	Imaginative narrative
+BOOK_2_CHAPTER_27	6.61	7.71	-0.13	1.47	-0.73	1.83	Imaginative narrative
+BOOK_2_CHAPTER_28	6.26	5.29	0.75	0.4	-0.88	1.11	Imaginative narrative
+BOOK_2_CHAPTER_29	6.34	5.58	-0.75	3.69	-0.0499999999999999	-0.73	Imaginative narrative
+BOOK_2_CHAPTER_2	-3.68	6.73	2.46	2.21	0.14	0.17	General narrative exposition
+BOOK_2_CHAPTER_30	4.93	6.13	0.44	2.14	-0.92	0.28	Imaginative narrative
+BOOK_2_CHAPTER_31	1.43	6.4	2.8	-0.6	-0.26	0.67	Imaginative narrative
+BOOK_2_CHAPTER_32	0.96	3.75	1.83	-0.29	-1.21	0.57	Imaginative narrative
+BOOK_2_CHAPTER_33	4.38	6.65	-0.57	2.75	-0.57	1.24	Imaginative narrative
+BOOK_2_CHAPTER_34	1.74	3.88	-0.79	2.59	-0.77	-0.07	Imaginative narrative
+BOOK_2_CHAPTER_3	-1.85	5.15	0.86	1.61	-0.32	1.24	Imaginative narrative
+BOOK_2_CHAPTER_4	22.23	1.27	-0.0899999999999999	5.97	0.18	4.22	Informational interaction
+BOOK_2_CHAPTER_5	0.2	6.58	2.33	2.62	-0.24	0.89	Imaginative narrative
+BOOK_2_CHAPTER_6	-1.74	5.99	-0.05	1.68	0.57	0.71	Imaginative narrative
+BOOK_2_CHAPTER_7	2.49	4.27	1.47	0.83	-1.28	1.16	Imaginative narrative
+BOOK_2_CHAPTER_8	3.82	5.96	2.2	2.77	0.6	1.19	Imaginative narrative
+BOOK_2_CHAPTER_9	4	5.86	-1.52	1.06	-1.1	0.43	Imaginative narrative
+CORPUS	2.15	6.05	0.89	1.38	-0.46	0.50	Imaginative narrative

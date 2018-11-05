@@ -1,0 +1,15 @@
+Walter_NNP Ernest_NNP Allen_NNP -LRB-_-LRB- 23_CD February_NNP 1911_CD ''_'' 28_CD February_NNP 1995_CD -RRB-_-RRB- was_VBD an_DT English_JJ literary_JJ critic_NN and_CC novelist_NN and_CC one_CD of_IN the_DT Birmingham_NNP Group_NNP of_IN authors_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP is_VBZ best_RB known_VBN for_IN his_PRP$ classic_JJ study_NN The_DT English_NNP Novel_NNP :_: a_DT Short_JJ Critical_JJ History_NN -LRB-_-LRB- 1951_CD -RRB-_-RRB- ._.
+He_PRP was_VBD born_VBN in_IN Aston_NNP ,_, Birmingham_NNP ;_: he_PRP drew_VBD on_IN his_PRP$ working-class_JJ roots_NNS for_IN All_DT in_IN a_DT Lifetime_NNP -LRB-_-LRB- 1959_CD -RRB-_-RRB- ,_, generally_RB considered_VBN his_PRP$ best_JJS novel_NN ._.
+He_PRP was_VBD educated_VBN at_IN King_NNP Edward_NNP 's_POS Grammar_NNP School_NNP and_CC the_DT University_NNP of_IN Birmingham_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- graduating_NN in_IN 1932_CD ``_`` his_PRP$ friends_NNS at_IN that_DT period_NN included_VBD Henry_NNP Reed_NNP and_CC Louis_NNP MacNeice_NNP ._.
+He_PRP taught_VBD and_CC took_VBD numerous_JJ temporary_JJ academic_JJ positions_NNS ._.
+In_IN 1935_CD ,_, he_PRP was_VBD a_DT Visiting_VBG Lecturer_NN in_IN English_NNP in_IN University_NNP of_IN Iowa_NNP ,_, Iowa_NNP city_NN ;_: from_IN 1955-56_CD he_PRP was_VBD Visiting_VBG Professor_NNP of_IN English_NNP at_IN Coe_NNP College_NNP ,_, Cedar_NNP Rapids_NNP ,_, Iowa_NNP ;_: from_IN 1963-64_CD he_PRP was_VBD Visiting_VBG Professor_NNP of_IN English_NNP ,_, Vassar_NNP College_NNP ,_, Poughkeepsie_NNP ,_, New_NNP York_NNP ,_, and_CC in_IN 1967_CD he_PRP was_VBD at_IN University_NNP of_IN Kansas_NNP ,_, Lawrence_NNP ,_, and_CC University_NNP of_IN Washington_NNP ,_, Seattle_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP also_RB worked_VBD in_IN journalism_NN ,_, being_VBG at_IN one_CD time_NN literary_JJ editor_NN of_IN the_DT New_NNP Statesman_NNP ;_: -LRB-_-LRB- 4_LS -RRB-_-RRB- and_CC was_VBD a_DT broadcaster_NN ._.
+In_IN 1967_CD he_PRP took_VBD a_DT position_NN as_IN Professor_NNP of_IN English_NNP Studies_NNP at_IN the_DT University_NNP of_IN Ulster_NNP ._.
+Allen_NNP published_VBD many_JJ novels_NNS early_RB in_IN his_PRP$ career_NN mostly_RB dealing_VBG with_IN life_NN of_IN the_DT working_VBG class_NN in_IN England_NNP ._.
+As_IN I_PRP Walked_VBD down_IN New_NNP Grub_NNP Street_NNP which_WDT accounts_VBZ his_PRP$ meetings_NNS with_IN prominent_JJ literary_JJ figures_NNS was_VBD published_VBN in_IN 1982_CD ._.
+After_IN a_DT significant_JJ break_NN from_IN fiction-writing_JJ for_IN 27_CD years_NNS he_PRP published_VBD Get_VB Out_IN Early_RB in_IN 1986_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD known_VBN as_IN an_DT editor_NN of_IN George_NNP Gissing_NNP ._.
+He_PRP wrote_VBD some_DT poetry_NN ,_, which_WDT appeared_VBD in_IN John_NNP Lehmann_NNP 's_POS publications_NNS in_IN the_DT 1940s_NNS ._.
+He_PRP left_VBD much_JJ writing_NN in_IN manuscript_NN ._.
+He_PRP died_VBD in_IN London_NNP ._.

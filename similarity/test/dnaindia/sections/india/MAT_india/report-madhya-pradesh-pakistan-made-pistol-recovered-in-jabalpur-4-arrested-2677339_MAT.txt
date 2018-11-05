@@ -1,0 +1,159 @@
+A_DT
+pistol_NN
+manufactured_VBN [WZPAST]
+in_PIN
+Pakistan_NN
+was_VBD [BEMA]
+among_PIN
+six_CD
+firearms_NN
+seized_VBD
+Saturday_NN
+from_PIN
+four_CD
+persons_NN
+,_,
+including_VBG [PRESP]
+a_DT
+minor_JJ
+,_,
+in_PIN
+Madhya_NN
+Pradesh_NN
+'s_POS
+Jabalpur_NN
+district_NN
+,_,
+a_DT
+senior_JJ
+police_NN
+official_NN
+said_VBD [PUBV]
+._.
+Crime_NN
+Branch_NN
+Additional_JJ
+Superintendent_NN
+of_PIN
+Police_NN
+Shivesh_NN
+Singh_NN
+said_VBD [PUBV]
+that_THVC
+Ritesh_NN
+Mali_NN
+-LRB-_-LRB-
+26_CD
+-RRB-_-RRB-
+,_,
+Kartik_NN
+Ben_NN
+-LRB-_-LRB-
+25_CD
+-RRB-_-RRB-
+and_ANDC
+Mohiti_NN
+Gupta_NN
+-LRB-_-LRB-
+19_CD
+-RRB-_-RRB-
+and_ANDC
+the_DT
+17-year-old_JJ
+minor_JJ
+were_VBD [PASS]
+nabbed_VBN
+from_PIN
+Azad_NN
+Nagar_NN
+in_PIN
+the_DT
+district_NN
+'s_POS
+Gorakhpur_NN
+area_NN
+following_VBG [WZPRES]
+a_DT
+tip-off_PIN [STPR]
+._.
+``_``
+We_FPP1
+seized_VBD
+four_CD
+pistols_NN
+,_,
+one_CD
+of_PIN
+which_WDT [PIRE]
+has_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+in_PIN
+Attock_NN
+in_PIN
+Pakistan_NN
+,_,
+two_CD
+country-made_JJ
+firearms_NN
+and_CC
+six_CD
+live_JJ
+bullets_NN
+from_PIN
+the_DT
+accused_VBN
+,_,
+''_''
+he_TPP3
+informed_VBD
+._.
+Police_NN
+said_VBD [PUBV]
+that_THVC
+preliminary_JJ
+investigations_NOMZ
+have_VPRT [PEAS]
+revealed_VBN [PRIV]
+that_THVC
+the_DT
+weapons_NN
+were_VBD [PASS]
+brought_VBN
+from_PIN
+Sagar_NN
+and_PHC
+Damoh_NN
+districts_NN
+in_PIN
+MP_NN
+._.
+They_TPP3
+were_VBD [PASS]
+charged_VBN
+under_IN
+relevant_JJ
+sections_NOMZ
+of_PIN
+the_DT
+Arms_NN
+Act_NN
+and_CC
+produced_VBN
+in_PIN
+a_DT
+court_NN
+which_WDT [WHSUB]
+remanded_VBD
+them_TPP3
+in_PIN
+police_NN
+custody_NN
+for_PIN
+two_CD
+days_NN
+,_,
+the_DT
+ASP_NN
+said_VBD [PUBV]
+._.

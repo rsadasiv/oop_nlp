@@ -1,0 +1,19 @@
+Verily_NNP Anderson_NNP -LRB-_-LRB- 12_CD January_NNP 1915_CD ''_'' 16_CD July_NNP 2010_CD -RRB-_-RRB- was_VBD a_DT British_JJ author_NN ,_, best_JJS known_VBN for_IN writing_VBG the_DT screenplay_NN of_IN the_DT 1960_CD film_NN No_DT Kidding_NN ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- based_VBN on_IN her_PRP$ 1958_CD book_NN Beware_VB of_IN Children_NNP ,_, for_IN writing_VBG Brownie_NNP books_NNS and_CC writing_VBG genealogical_JJ books_NNS about_IN the_DT Gurney_NNP ,_, Barclay_NNP and_CC Buxton_NNP families_NNS ._.
+Born_VBN as_IN Verily_NNP Bruce_NNP on_IN 12_CD January_NNP 1915_CD -LRB-_-LRB- 2_LS -RRB-_-RRB- in_IN Edgbaston_NNP ,_, Birmingham_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- she_PRP was_VBD the_DT daughter_NN of_IN Francis_NNP Rosslyn_NNP Courtenay_NNP Bruce_NNP and_CC Rachel_NNP Gurney_NNP ,_, the_DT fourth_JJ of_IN her_PRP$ parents_NNS '_POS five_CD children_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Verily_RB Bruce_NNP was_VBD educated_VBN at_IN Edgbaston_NNP High_NNP School_NNP for_IN Girls_NNP ,_, Birmingham_NNP ,_, between_IN the_DT ages_NNS of_IN 4_CD and_CC 7_CD ,_, then_RB she_PRP attended_VBD Normanhurst_NNP School_NNP in_IN Battle_NNP ,_, Sussex_NNP ._.
+At_IN 16_CD ,_, she_PRP went_VBD to_TO Royal_NNP College_NNP of_IN Music_NNP in_IN London_NNP ._.
+She_PRP was_VBD in_IN the_DT First_NNP Aid_NNP Nursing_NNP Yeomanry_NNP between_IN 1938_CD and_CC 1941_CD ._.
+On_IN 2_CD August_NNP 1940_CD she_PRP married_VBD Captain_NNP Donald_NNP Clive_NNP Anderson_NNP ,_, son_NN of_IN Frank_NNP Anderson_NNP ,_, thereafter_RB using_VBG the_DT name_NN Verily_NNP Anderson_NNP for_IN her_PRP$ writing_NN ._.
+She_PRP was_VBD with_IN the_DT BBC_NNP in_IN TV_NN and_CC radio_NN between_IN 1946_CD and_CC 2002_CD ,_, working_VBG on_IN Woman_NNP 's_POS Hour_NNP and_CC writing_VBG TV_NN plays_NNS ._.
+On_IN 10_CD August_NNP 1971_CD ,_, she_PRP married_VBD Paul_NNP Edward_NNP Paget_NNP -LRB-_-LRB- 1901_CD ``_`` 1985_CD -RRB-_-RRB- ._.
+She_PRP last_JJ resided_VBD in_IN Northrepps_NNP ,_, Norfolk_NNP ,_, where_WRB she_PRP died_VBD at_IN home_NN on_IN 16_CD July_NNP 2010_CD ,_, just_RB after_IN completing_VBG a_DT book_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- She_PRP is_VBZ buried_VBN with_IN her_PRP$ husband_NN Paul_NNP Paget_NNP in_IN neighbouring_VBG Sidestrand_NNP ._.
+Children_NNS of_IN Verily_NNP Bruce_NNP and_CC Captain_NNP Donald_NNP Clive_NNP Anderson_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- 1_CD ._.
+Marian_NNP O'Hare_NNP ,_, designer_NN 2_CD ._.
+Rachel_NNP Anderson_NNP is_VBZ also_RB a_DT writer_NN mostly_RB of_IN children_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ literature_NN 3_CD ._.
+Eddie_NNP Anderson_NNP is_VBZ a_DT television_NN producer_NN ._.
+4_LS ._.
+Janie_NNP Anderson_NNP -LRB-_-LRB- now_RB Janie_NNP Hampton_NNP -RRB-_-RRB- is_VBZ a_DT writer_NN and_CC radio_NN presenter_NN 5_CD ._.
+Alexandra_NNP Walker_NNP -LRB-_-LRB- née_NN Anderson_NNP -RRB-_-RRB- is_VBZ a_DT literacy_NN tutor_NN to_TO young_JJ people_NNS ._.
+Verily_NNP Anderson_NNP was_VBD the_DT author_NN two_CD books_NNS about_IN the_DT Gurney_NNP ,_, Barclay_NNP and_CC Buxton_NNP families_NNS :_:

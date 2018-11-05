@@ -1,0 +1,13 @@
+Eustace_NNP Budgell_NNP -LRB-_-LRB- 19_CD August_NNP 1686_CD ''_'' 4_CD May_NNP 1737_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN and_CC politician_NN ._.
+Born_VBN in_IN St_NNP Thomas_NNP near_IN Exeter_NNP ,_, he_PRP was_VBD the_DT son_NN of_IN Gilbert_NNP Budgell_NNP ,_, D.D._NNP by_IN his_PRP$ first_JJ wife_NN Mary_NNP ,_, only_RB daughter_NN of_IN Bishop_NNP William_NNP Gulston_NNP of_IN Bristol_NNP ,_, whose_WP$ sister_NN was_VBD wife_NN of_IN Lancelot_NNP ,_, and_CC mother_NN of_IN Joseph_NNP Addison_NNP ._.
+He_PRP matriculated_VBD 31_CD March_NNP 1705_CD at_IN Trinity_NNP College_NNP ,_, Oxford_NNP ._.
+He_PRP afterwards_RB entered_VBD the_DT Inner_NNP Temple_NNP ,_, and_CC was_VBD called_VBN to_TO the_DT bar_NN but_CC under_IN the_DT influence_NN of_IN Addison_NNP chose_VBD an_DT alternative_JJ career_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Addison_NNP took_VBD him_PRP to_TO Ireland_NNP and_CC got_VBD him_PRP appointed_VBN to_TO a_DT lucrative_JJ office_NN ._.
+However_RB ,_, when_WRB he_PRP lampooned_VBD the_DT Viceroy_NNP ,_, he_PRP lost_VBD his_PRP$ position_NN ._.
+Budgell_NNP assisted_VBD Addison_NNP with_IN his_PRP$ magazine_NN ,_, The_DT Spectator_NNP ,_, writing_VBG 37_CD numbers_NNS signed_VBN X._NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN these_DT he_PRP imitates_VBZ Addison_NNP 's_POS style_NN with_IN some_DT success_NN ._.
+Between_IN 1715_CD and_CC 1727_CD ,_, he_PRP represented_VBD Mullingar_NNP in_IN the_DT Irish_NNP House_NNP of_IN Commons_NNPS ._.
+Budgell_NNP ,_, who_WP was_VBD vain_JJ and_CC vindictive_JJ ,_, fell_VBD on_IN evil_JJ days_NNS ;_: he_PRP lost_VBD a_DT fortune_NN in_IN the_DT South_NNP Sea_NNP Bubble_NNP and_CC was_VBD accused_VBN of_IN forging_VBG the_DT will_NN of_IN Dr_NNP Matthew_NNP Tindal_NNP at_IN the_DT expense_NN of_IN his_PRP$ nephew_NN ,_, Nicolas_NNP Tindal_NNP ._.
+Disliked_VBN by_IN many_JJ ,_, Budgell_NNP was_VBD criticized_VBN by_IN Alexander_NNP Pope_NNP in_IN the_DT Epistle_NNP to_TO Dr_NNP Arbuthnot_NNP and_CC in_IN The_DT Dunciad_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP committed_VBD suicide_NN by_IN throwing_VBG himself_PRP out_IN of_IN a_DT boat_NN at_IN London_NNP Bridge_NNP ._.
+His_PRP$ suicide_NN note_NN famously_RB said_VBD :_: ``_`` What_WP Cato_NNP did_VBD ,_, and_CC Addison_NNP approved_VBD ,_, can_MD not_RB be_VB wrong_JJ ._. ''_''
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

@@ -1,0 +1,28 @@
+Susan_NNP Elizabeth_NNP Arnold_NNP -LRB-_-LRB- born_VBN 15_CD December_NNP 1944_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ an_DT English_JJ writer_NN of_IN children_NNS 's_POS fiction_NN ._.
+Her_PRP$ best-known_JJ works_NNS form_VBP a_DT trilogy_NN set_NN among_IN Gypsies_NNP in_IN the_DT New_NNP Forest_NNP of_IN Southern_NNP England_NNP ._.
+She_PRP was_VBD born_VBN in_IN Leicester_NNP ._.
+Her_PRP$ family_NN moved_VBD several_JJ times_NNS during_IN her_PRP$ childhood_NN ._.
+She_PRP was_VBD the_DT eldest_JJS of_IN five_CD sisters_NNS ,_, including_VBG triplets_NNS ._.
+Having_VBG left_VBN school_NN at_IN 15_CD ,_, she_PRP later_RB took_VBD a_DT City_NNP and_CC Guilds_NNP course_NN for_IN science_NN technicians_NNS ,_, and_CC eventually_RB gained_VBD an_DT Open_NNP University_NNP degree_NN in_IN science_NN and_CC technology_NN ._.
+In_IN 2011_CD she_PRP was_VBD living_VBG lives_NNS with_IN her_PRP$ husband_NN in_IN Southampton_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Her_PRP$ own_JJ favorite_JJ children_NNS 's_POS book_NN is_VBZ Lewis_NNP Carroll_NNP 's_POS Alice_NNP in_IN Wonderland_NNP ,_, which_WDT was_VBD ''_'' the_DT first_JJ book_NN I_PRP became_VBD truly_RB aware_JJ of_IN ,_, from_IN the_DT age_NN of_IN about_IN two_CD ._.
+My_PRP$ father_NN used_VBD to_TO read_VB it_PRP to_TO me_PRP at_IN bedtime_NN ._. ''_''
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Having_VBG worked_VBN for_IN many_JJ years_NNS as_IN a_DT school_NN science_NN technician_NN and_CC a_DT quality_NN control_NN manager_NN ,_, Elizabeth_NNP Arnold_NNP came_VBD to_TO write_VB The_DT Parsley_NNP Parcel_NNP ,_, -LRB-_-LRB- 4_LS -RRB-_-RRB- her_PRP$ first_JJ novel_NN ,_, out_IN of_IN a_DT love_NN of_IN folklore_NN ,_, and_CC originally_RB with_IN adults_NNS in_IN mind_NN rather_RB than_IN children_NNS ._.
+Set_NNP among_IN Gypsies_NNP in_IN the_DT New_NNP Forest_NNP ,_, it_PRP was_VBD shortlisted_VBN for_IN the_DT Beefeater_NNP -LRB-_-LRB- Whitbread_NNP -RRB-_-RRB- Children_NNP 's_POS Book_NNP Award_NNP in_IN 1995_CD ,_, appeared_VBD in_IN paperback_NN in_IN 1996_CD ,_, and_CC was_VBD reissued_VBN in_IN 1998_CD ._.
+An_DT audio_JJ version_NN read_VBN by_IN Nerys_NNP Hughes_NNP also_RB appeared_VBD in_IN 1998_CD ,_, and_CC it_PRP formed_VBD the_DT basis_NN for_IN the_DT seven-part_JJ Gypsy_NNP Girl_NNP ITV_NNP series_NN in_IN 2001_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- The_DT main_JJ character_NN is_VBZ Freya_NNP ,_, a_DT Romany_NNP girl_NN with_IN benign_JJ magic_JJ powers_NNS ,_, played_VBN on_IN TV_NN by_IN Gemma_NNP Gregory_NNP ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- with_IN Eleanor_NNP Bron_NNP as_IN her_PRP$ great-grandmother_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- The_DT Freya_NNP or_CC Gypsy_NNP Girl_NNP Trilogy_NNP was_VBD completed_VBN with_IN Gold_NNP and_CC Silver_NNP Water_NNP ,_, -LRB-_-LRB- 7_CD -RRB-_-RRB- and_CC A_DT Riot_NN of_IN Red_NNP Ribbons_NNP ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- Arnold_NNP has_VBZ written_VBN about_IN how_WRB she_PRP came_VBD to_TO name_VB her_PRP$ character_NN :_: ``_`` Freya_NNP was_VBD a_DT Romany_NNP child_NN ,_, and_CC in_IN ancient_JJ Romany_NNP culture_NN a_DT child_NN had_VBD three_CD names_NNS ._.
+A_DT formal_JJ name_NN ;_: a_DT pet_NN or_CC nickname_NN ,_, and_CC a_DT secret_JJ name_NN ._.
+The_DT secret_JJ name_NN is_VBZ whispered_VBN by_IN a_DT mother_NN to_TO her_PRP$ child_NN only_RB twice_RB ;_: at_IN the_DT moment_NN of_IN birth_NN and_CC once_RB more_JJR when_WRB the_DT child_NN is_VBZ old_JJ enough_RB to_TO remember_VB ..._: I_PRP chose_VBD Freya_NNP as_IN my_PRP$ heroine_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ formal_JJ name_NN ._.
+Freya_NNP ,_, named_VBN after_IN the_DT goddess_NN Freya_NNP born_VBN on_IN Friday_NNP ._.
+This_DT was_VBD important_JJ because_IN in_IN The_DT Parsley_NNP Parcel_NNP ,_, special_JJ magic_NN would_MD be_VB worked_VBN on_IN Good_JJ Friday_NNP ._.
+Her_PRP$ pet_NN name_NN was_VBD Chime_NNP ._.
+Why_WRB ?_.
+Because_IN she_PRP was_VBD a_DT Chime-Child_NNP ,_, a_DT gypsy_NN girl_NN born_VBN with_IN special_JJ powers_NNS to_TO work_VB special_JJ enchantments_NNS ._.
+Her_PRP$ secret_JJ name_NN ?_.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ a_DT secret_NN ,_, of_IN course_NN ,_, that_IN she_PRP and_CC I_PRP will_MD share_VB forever_RB ._. ''_''
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Other_JJ chapter_NN books_NNS by_IN Elizabeth_NNP Arnold_NNP have_VBP included_VBN The_DT Gold-Spectre_NNP ,_, -LRB-_-LRB- 10_CD -RRB-_-RRB- and_CC Spin_VB of_IN the_DT Sunwheel_NNP ,_, which_WDT was_VBD nominated_VBN for_IN the_DT Carnegie_NNP Medal_NNP in_IN 1999_CD -LRB-_-LRB- 11_CD -RRB-_-RRB- ''_'' a_DT young-adult_JJ fantasy_NN novel_NN from_IN Mammoth_NNP Books_NNPS of_IN London_NNP -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- her_PRP$ regular_JJ publisher_NN -RRB-_-RRB- ._.
+Scraggy_NNP Flies_NNP High_NNP ,_, -LRB-_-LRB- 13_CD -RRB-_-RRB- Thief_NN in_IN the_DT Garden_NNP ,_, -LRB-_-LRB- 14_CD -RRB-_-RRB- and_CC The_DT Triple_NNP Trouble_NN Gang_NN -LRB-_-LRB- 15_CD -RRB-_-RRB- are_VBP storybooks_NNS for_IN younger_JJR children_NNS ._.
+She_PRP contributed_VBD to_TO a_DT book_NN of_IN children_NNS 's_POS stories_NNS sold_VBD in_IN aid_NN of_IN tsunami_NN victims_NNS ,_, -LRB-_-LRB- 16_CD -RRB-_-RRB- edited_VBD a_DT book_NN of_IN children_NNS 's_POS stories_NNS written_VBN by_IN children_NNS ,_, -LRB-_-LRB- 17_CD -RRB-_-RRB- and_CC provided_VBD a_DT story_NN for_IN the_DT anthology_NN Hipp-O-Dee-Doo-Day_NNP ,_, sold_VBN in_IN aid_NN of_IN Children_NNP 's_POS Hospices_NNPS UK_NNP ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB-

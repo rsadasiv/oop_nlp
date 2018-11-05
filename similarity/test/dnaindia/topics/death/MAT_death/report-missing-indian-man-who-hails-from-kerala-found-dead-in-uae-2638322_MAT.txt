@@ -1,0 +1,229 @@
+An_DT
+Indian_JJ
+man_NN
+working_VBG [WZPRES]
+with_PIN
+a_DT
+bank_NN
+in_PIN
+UAE_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+found_VBN [PRIV]
+dead_JJ
+,_,
+a_DT
+week_NN
+after_IN
+he_TPP3
+went_VBD
+missing_VBG
+,_,
+a_DT
+media_NN
+report_NN
+said_VBD [PUBV]
+today_TIME
+._.
+Jabar_NN
+KP_NN
+,_,
+who_WP
+hails_VPRT
+from_PIN
+Kerala_NN
+,_,
+stayed_VBD
+in_PIN
+Abu_NN
+Dhabi_NN
+city_NOMZ
+,_,
+but_CC
+his_TPP3
+body_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+from_PIN
+Mussafah_NN
+industrial_JJ
+area_NN
+at_PIN
+city_NOMZ
+'s_POS
+outskirts_NN
+,_,
+Khaleej_NN
+Times_NN
+reported_VBD [PUBV]
+._.
+Jabar_NN
+'s_POS
+body_NN
+was_VBD [SPAU] [PASS]
+initially_TIME
+kept_VBN
+in_PIN
+the_DT
+mortuary_JJ
+as_IN
+an_DT
+unidentified_JJ
+corpse_NN
+._.
+Later_TIME
+social_JJ
+workers_NN
+and_PHC
+community_NOMZ
+groups_NN
+stepped_VBD
+in_PIN
+to_TO
+locate_VB
+a_DT
+relative_JJ
+._.
+On_PIN
+Monday_NN
+his_TPP3
+brother_NN
+reached_VBD
+the_DT
+mortuary_JJ
+and_CC
+identified_VBD
+him_TPP3
+,_,
+said_VBD [PUBV]
+the_DT
+report_NN
+._.
+``_``
+We_FPP1
+hail_NN
+from_PIN
+Kannur_NN
+district_NN
+of_PIN
+Kerala_NN
+._.
+Jabar_NN
+was_VBD
+staying_VBG
+in_PIN
+Abu_NN
+Dhabi_NN
+for_PIN
+nine_CD
+years_NN
+and_CC
+he_TPP3
+went_VBD
+missing_VBG
+last_JJ
+week_NN
+,_,
+said_VBD [PUBV]
+Muneer_NN
+,_,
+Jabar_NN
+'s_POS
+brother_NN
+who_WP [WHSUB]
+works_VPRT
+with_PIN
+the_DT
+same_JJ
+bank_NN
+._.
+``_``
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+about_IN
+the_DT
+day_NN
+that_TOBJ
+the_DT
+body_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+on_PIN [STPR]
+,_,
+but_CC
+the_DT
+location_NOMZ
+is_VPRT
+Mussafah_NN
+._.
+Nor_SYNE
+do_VPRT
+I_FPP1
+know_VPRT [PRIV]
+the_DT
+reason_NN
+behind_PLACE
+my_FPP1
+brother_NN
+'s_POS
+death_NN
+._.
+He_TPP3
+never_RB
+had_VBD
+problem_NN
+with_PIN
+anyone_QUPR
+._.
+I_FPP1
+came_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+the_DT
+news_NN
+through_PIN
+social_JJ
+workers_NN
+and_CC
+identified_VBD
+the_DT
+body_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+lost_VBN
+my_FPP1
+brother_NN
+,_,
+''_''
+he_TPP3
+added_VBD [PUBV]
+._.
+Jabar_NN
+is_VPRT [BYPA]
+survived_VBN
+by_PIN
+his_TPP3
+wife_NN
+and_CC
+two_CD
+children_NN
+._.
+The_DT
+cause_NN
+of_PIN
+death_NN
+will_PRMD
+be_VB [PASS]
+known_VBN [PRIV]
+following_VBG
+a_DT
+autopsy_NN
+,_,
+the_DT
+report_NN
+said_VBD [PUBV]
+._.

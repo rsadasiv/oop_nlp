@@ -1,0 +1,5 @@
+John_NNP Codrington_NNP Warwick_NNP Bampfylde_NNP or_CC Bampfield_NNP -LRB-_-LRB- 27_CD August_NNP 1754_CD ''_'' 1796\/7_CD -RRB-_-RRB- was_VBD an_DT 18th-century_JJ English_NNP poet_NN ._.
+He_PRP came_VBD from_IN a_DT prominent_JJ Devon_NNP family_NN ,_, his_PRP$ father_NN being_VBG Sir_NNP Richard_NNP Bampfylde_NNP ,_, 4th_JJ Baronet_NNP ,_, and_CC was_VBD educated_VBN at_IN Trinity_NNP Hall_NNP ,_, Cambridge_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP had_VBD financial_JJ problems_NNS ,_, he_PRP had_VBD made_VBN romantic_JJ advances_NNS to_TO Mary_NNP Palmer_NNP ,_, niece_NN of_IN Joshua_NNP Reynolds_NNP ,_, which_WDT she_PRP had_VBD refused_VBN ,_, and_CC he_PRP spent_VBD the_DT latter_JJ part_NN of_IN his_PRP$ life_NN in_IN a_DT psychiatric_JJ hospital_NN in_IN London_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP died_VBD of_IN tuberculosis_NN ._.
+His_PRP$ only_JJ published_JJ work_NN was_VBD Sixteen_NNP Sonnets_NNPS -LRB-_-LRB- 1778_CD -RRB-_-RRB- ,_, which_WDT attracted_VBD the_DT attention_NN of_IN Robert_NNP Southey_NNP ._.

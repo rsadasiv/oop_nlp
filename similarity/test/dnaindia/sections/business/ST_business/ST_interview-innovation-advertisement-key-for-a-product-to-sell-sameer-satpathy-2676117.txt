@@ -1,0 +1,13 @@
+Sameer_NNP Satpathy_NNP ,_, ITC_NNP 's_POS chief_JJ executive_NN officer_NN -LRB-_-LRB- personal_JJ care_NN -RRB-_-RRB- ,_, spoke_VBD to_TO Swati_NNP Khandelwal_NNP about_IN competition_NN in_IN the_DT industry_NN ,_, the_DT significance_NN of_IN innovation_NN and_CC advertisement_NN ,_, and_CC the_DT areas_NNS that_WDT have_VBP potential_JJ to_TO grow_VB ._.
+You_PRP will_MD have_VB a_DT good_JJ business_NN if_IN you_PRP walk_VBP ahead_RB of_IN the_DT time_NN and_CC above_IN the_DT circumstances_NNS ,_, and_CC that_DT is_VBZ the_DT reason_NN we_PRP always_RB try_VBP to_TO do_VB better_JJR ._.
+No_DT ,_, male_JJ segment_NN can_MD never_RB outpace_VB women_NNS 's_POS ._.
+Consumers_NNS will_MD buy_VB the_DT product_NN if_IN we_PRP add_VBP some_DT value_NN to_TO it_PRP and_CC pack_VB it_PRP in_IN a_DT way_NN that_IN pleases_VBZ them_PRP ._.
+Besides_IN ,_, innovation_NN and_CC advertisement_NN are_VBP two_CD things_NNS that_WDT make_VBP a_DT consumer_NN buy_VB a_DT product_NN ._.
+Competition_NN is_VBZ a_DT good_JJ thing_NN not_RB only_RB for_IN us_PRP but_CC also_RB for_IN the_DT economy_NN ._.
+It_PRP increases_VBZ efficiency_NN and_CC makes_VBZ us_PRP think_VB before_IN investing_VBG ._.
+We_PRP have_VBP a_DT simple_JJ philosophy_NN and_CC that_DT is_VBZ we_PRP do_VBP not_RB invest_VB ;_: it_PRP is_VBZ the_DT brand_NN that_WDT invests_VBZ ._.
+As_IN in_IN ,_, the_DT brand_NN can_MD earn_VB for_IN itself_PRP if_IN it_PRP has_VBZ the_DT potential_JJ to_TO grow_VB ._.
+In_IN addition_NN ,_, we_PRP do_VBP n't_RB go_VB for_IN selection_NN as_IN every_DT team_NN is_VBZ engaged_VBN in_IN playing_VBG its_PRP$ own_JJ game_NN and_CC thinks_VBZ on_IN the_DT ways_NNS to_TO grow_VB them_PRP ._.
+So_IN it_PRP is_VBZ about_IN innovation_NN and_CC ambition_NN ._.
+There_EX are_VBP various_JJ vectors_NNS such_JJ as_IN soap_NN ,_, shampoo_NN and_CC floor_NN cleaners_NNS ._.
+Every_DT vector_NN comes_VBZ with_IN a_DT challenge_NN and_CC an_DT opportunity_NN in_IN itself_PRP ._.

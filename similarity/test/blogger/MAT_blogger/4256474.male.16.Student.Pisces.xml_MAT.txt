@@ -1,0 +1,1236 @@
+The_DT
+human_JJ
+being_NN
+-_:
+Homo_NN
+Sapiens_NN
+._.
+That_DEMP
+is_VPRT [BEMA]
+our_FPP1
+species_NN
+._.
+We_FPP1
+are_VPRT [BEMA]
+all_QUAN
+part_NN
+of_PIN
+it_PIT
+,_,
+and_ANDC
+we_FPP1
+all_QUAN
+share_NN
+similar_JJ
+attributes_NN
+._.
+Yet_RB
+every_QUAN
+human_JJ
+being_NN
+is_VPRT [BEMA]
+unique_PRED
+,_,
+every_QUAN
+single_JJ
+one_CD
+is_VPRT [BEMA]
+hugely_RB
+different_PRED
+from_PIN
+the_DT
+next_JJ
+._.
+I_FPP1
+'m_VPRT [CONT]
+not_XX0
+just_EMPH
+talking_VBG
+about_IN
+out_PIN
+phenotypes_NN
+-LRB-_-LRB-
+what_WP
+we_FPP1
+can_POMD
+see_VB [PRIV]
+,_,
+our_FPP1
+physical_JJ
+attributes_NN
+-RRB-_-RRB-
+,_,
+or_CC
+our_FPP1
+genotypes_NN
+-LRB-_-LRB-
+what_WP [WHQU]
+'s_VPRT [CONT] [BEMA]
+in_PIN
+our_FPP1
+genetic_JJ
+code_NN
+ie_NN
+XY_NN
+or_CC
+XX_NN
+for_PIN
+male_NN
+or_CC
+female_NN
+-RRB-_-RRB-
+._.
+I_FPP1
+mean_VPRT [PRIV]
+that_THVC
+no_SYNE
+matter_NN
+how_RB
+much_QUAN
+we_FPP1
+all_QUAN
+think_VPRT [PRIV]
+the_DT
+same_JJ
+,_,
+wear_VB
+the_DT
+same_JJ
+clothes_NN
+,_,
+eat_VPRT
+the_DT
+same_JJ
+food_NN
+or_CC
+breathe_VB
+the_DT
+same_JJ
+air_NN
+,_,
+we_FPP1
+can_POMD [SPAU]
+never_RB
+be_VB
+exactly_RB
+like_IN
+another_DT
+human_JJ
+being_NN
+._.
+Twins_NN
+may_POMD
+look_VB
+the_DT
+same_JJ
+,_,
+but_CC
+usually_RB
+have_VPRT [SPAU]
+quite_RB
+contrasting_VBG
+personalities_NOMZ
+-LRB-_-LRB-
+Anyone_QUPR
+ever_RB
+read_VBD
+any_QUAN
+Sweet_NN
+Valley_NN
+Twins_NN
+books_NN
+?_.
+Or_CC
+am_VPRT [BEMA]
+I_FPP1
+the_DT
+only_DWNT
+loser_NN
+in_PIN
+the_DT
+world_NN
+..._:
+guess_VB [PRIV]
+so_RB
+..._:
+-RRB-_-RRB-
+Human_JJ
+beings_NN
+are_VPRT [BEMA]
+special_PRED
+,_,
+even_RB
+the_DT
+simplest_JJ
+of_PIN
+thought_NN
+processes_NN
+involves_VPRT
+complex_JJ
+reactions_NOMZ
+in_PIN
+our_FPP1
+brain_NN
+that_TSUB
+can_POMD
+produce_VB
+all_QUAN
+sorts_NN
+of_PIN
+effects_NN
+._.
+And_ANDC
+we_FPP1
+do_VPRT
+it_PIT
+so_RB
+easily_RB
+,_,
+without_PIN
+even_RB
+thinking_VBG [PRIV]
+,_,
+we_FPP1
+think_VPRT [PRIV]
+!_.
+And_ANDC
+try_VB
+thinking_VBG [PRIV]
+about_IN
+not_XX0
+thinking_VBG [PRIV]
+,_,
+its_PIT
+impossible_JJ
+!_.
+No_SYNE
+matter_NN
+how_RB
+much_QUAN
+you_SPP2
+tell_VPRT
+yourself_SPP2
+to_TO
+clear_VB
+your_SPP2
+mind_NN
+,_,
+you_SPP2
+end_VPRT
+up_RP
+thinking_VBG [PRIV]
+about_IN
+not_XX0
+thinking_VBG [PRIV]
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+scary_JJ
+thing_NN
+..._:
+Humans_NN
+have_VPRT
+an_DT
+incredible_JJ
+capacity_NOMZ
+to_TO
+think_VB [PRIV]
+,_,
+to_TO
+invent_VB
+,_,
+to_TO
+create_VB
+,_,
+to_TO
+speculate_VB
+,_,
+and_ANDC
+its_PIT
+all_QUAN
+there_EX
+at_PIN
+our_FPP1
+disposal_NN
+._.
+The_DT
+World_NN
+really_EMPH
+is_VPRT [BEMA]
+our_FPP1
+oyster_NN
+._.
+Ever_RB
+looked_VBD
+inside_PLACE
+a_DT
+computer_NN
+?_.
+We_FPP1
+created_VBD
+that_DEMP
+,_,
+a_DT
+human_JJ
+being_VBG [PASS]
+worked_VBD
+such_JJ
+complexity_NOMZ
+out_PIN [STPR]
+,_,
+its_PIT
+genius_NN
+,_,
+its_PIT
+amazing_JJ
+,_,
+and_ANDC
+it_PIT
+makes_VPRT
+me_FPP1
+feel_VB [PRIV]
+proud_JJ
+to_TO
+be_VB [BEMA]
+alive_PRED
+._.
+Sometimes_RB
+I_FPP1
+feel_VPRT [PRIV]
+like_IN
+I_FPP1
+should_NEMD
+be_VB
+doing_VBG
+more_EMPH
+with_PIN
+this_DEMO
+immense_JJ
+capacity_NOMZ
+to_TO
+learn_VB [PRIV]
+._.
+Studying_VBG
+does_EMPH
+tend_VB
+to_TO
+be_VB [BEMA]
+tedious_PRED
+,_,
+but_CC
+its_PIT
+something_QUPR
+that_DEMP
+enhances_VPRT
+our_FPP1
+capacity_NOMZ
+to_TO
+use_VB
+our_FPP1
+mind_NN
+,_,
+and_ANDC
+it_PIT
+'s_VPRT [CONT] [PASS]
+been_VBN [BEMA]
+essential_PRED
+to_PIN
+all_QUAN
+the_DT
+inventions_NOMZ
+we_FPP1
+have_VPRT
+now_TIME
+._.
+Imagine_VB [PRIV]
+if_COND
+the_DT
+inventor_NN
+of_PIN
+the_DT
+Toilet_NN
+,_,
+Thomas_NN
+Crapper_NN
+-LRB-_-LRB-
+that_DEMP
+'s_VPRT [CONT]
+where_RB
+the_DT
+word_NN
+crap_NN
+comes_VPRT
+from_PIN [STPR]
+,_,
+I_FPP1
+promise_VPRT [PUBV]
+!_.
+-RRB-_-RRB-
+,_,
+had_VBD [PEAS]
+decided_VBN [SUAV] [PRIV] [THATD]
+he_TPP3
+just_EMPH
+could_POMD
+n't_XX0 [CONT]
+be_VB [PASS]
+bothered_VBN
+to_TO
+study_VB
+-LRB-_-LRB-
+what_WP
+he_TPP3
+studied_VBD
+,_,
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+,_,
+but_CC
+I_FPP1
+doubt_VPRT [PRIV] [THATD]
+it_PIT
+was_VBD [PASS]
+called_VBN
+making_VBG
+toilets_NN
+for_PIN
+dummies_NN
+-RRB-_-RRB-
+,_,
+and_ANDC
+then_RB
+did_VBD
+n't_XX0 [CONT]
+invent_VB
+the_DT
+toilet_NN
+,_,
+the_DT
+world_NN
+would_PRMD
+n't_XX0 [CONT]
+be_VB
+what_WP
+it_PIT
+is_VPRT
+today_TIME
+!_.
+Sure_RB
+,_,
+someone_QUPR
+else_RB
+might_POMD
+have_VB [PEAS]
+invented_VBN
+it_PIT
+,_,
+but_CC
+you_SPP2
+never_RB
+know_VPRT [PRIV]
+._.
+It_PIT
+feels_VPRT [PRIV]
+like_IN
+such_EMPH
+a_NULL
+waste_NN
+,_,
+that_THVC
+humans_NN
+only_DWNT
+use_VPRT
+a_DT
+third_JJ
+of_PIN
+their_TPP3
+brains_NN
+capacity_NOMZ
+,_,
+and_ANDC
+even_RB
+then_RB
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+use_VB
+that_DEMO
+space_NN
+much_QUAN
+at_PIN
+all_QUAN
+._.
+Think_VB [PRIV]
+of_PIN
+things_NN
+we_FPP1
+could_POMD
+do_VB
+if_COND
+we_FPP1
+used_VBD
+our_FPP1
+whole_JJ
+brain_NN
+._.
+Who_WP
+knows_VPRT [PRIV]
+,_,
+even_RB
+telepathy_JJ
+might_POMD
+be_VB [BEMA]
+possible_PRED
+._.
+Think_VB [PRIV]
+about_IN
+how_RB
+complex_JJ
+the_DT
+gene_NN
+code_NN
+is_VPRT
+,_,
+and_ANDC
+how_RB
+hard_JJ
+it_PIT
+was_VBD
+to_TO
+decode_VB
+,_,
+it_PIT
+is_VPRT [BEMA]
+absurd_PRED
+to_TO
+think_VB [PRIV]
+that_THVC
+the_DT
+human_JJ
+mind_NN
+is_VPRT [BEMA]
+capable_PRED
+of_PIN
+understanding_VBG [PRIV]
+something_QUPR
+we_FPP1
+can_POMD
+not_XX0
+even_RB
+see_VB [PRIV]
+with_PIN
+the_DT
+naked_JJ
+eye_NN
+._.
+We_FPP1
+still_RB
+do_VPRT
+n't_XX0 [CONT]
+understand_VB [PRIV]
+so_RB
+much_QUAN
+,_,
+and_ANDC
+there_EX
+are_VPRT
+so_RB
+many_QUAN
+discoveries_NN
+still_RB
+to_TO
+be_VB [PASS]
+made_VBN
+._.
+Yet_CC
+it_PIT
+all_QUAN
+hangs_VPRT
+in_PIN
+the_DT
+balance_NN
+._.
+So_RB
+many_QUAN
+things_NN
+could_POMD
+happen_VB
+that_DEMP
+could_POMD
+lead_VB
+to_PIN
+the_DT
+end_NN
+of_PIN
+the_DT
+human_JJ
+race_NN
+,_,
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+frightening_PRED
+to_TO [SPIN]
+even_RB
+think_VB [PRIV]
+about_RB
+._.
+Ever_RB
+taken_VBN
+the_DT
+tube_NN
+in_PIN
+London_NN
+,_,
+and_ANDC
+thought_VBD [PRIV]
+that_THVC
+at_PIN
+any_QUAN
+time_NN
+terrorists_NN
+could_POMD
+attempt_VB
+a_DT
+bomb_NN
+attack_NN
+?_.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+scary_PRED
+,_,
+and_ANDC
+sad_JJ
+,_,
+because_CAUS
+for_PIN
+innocent_JJ
+people_NN
+,_,
+who_WP
+have_VPRT
+nothing_INPR
+to_TO
+do_VB
+with_PIN
+angering_VBG
+these_DEMO
+terrorists_NN
+,_,
+death_NN
+is_VPRT [BEMA]
+unfair_PRED
+._.
+What_WP
+about_IN
+a_DT
+possible_JJ
+nuclear_JJ
+war_NN
+?_.
+There_EX
+are_VPRT
+world_NN
+leaders_NN
+out_PIN
+there_EX
+who_WP
+with_PIN
+a_DT
+simple_JJ
+command_NN
+could_POMD
+initiate_VB
+the_DT
+launch_NN
+of_PIN
+a_DT
+nuclear_JJ
+missile_NN
+,_,
+causing_VBG [PRESP]
+a_DT
+war_NN
+that_TSUB
+would_PRMD
+end_VB
+up_RP
+destroying_VBG
+the_DT
+world_NN
+._.
+And_ANDC
+those_DEMP
+are_VPRT [BEMA]
+just_EMPH
+the_DT
+human_JJ
+possibilities_NOMZ
+._.
+Think_VB [PRIV]
+about_IN
+all_QUAN
+the_DT
+things_NN
+that_TSUB
+could_POMD
+happen_VB
+in_PIN
+space_NN
+that_TSUB
+might_POMD
+unbalance_VB
+the_DT
+earth_NN
+'s_POS
+orbit_NN
+,_,
+and_ANDC
+send_VB
+it_PIT
+spinning_JJ
+to_PIN
+an_DT
+untimely_JJ
+end_NN
+?_.
+That_DEMP
+would_PRMD
+be_VB [BEMA]
+the_DT
+end_NN
+of_PIN
+us_FPP1
+._.
+And_ANDC
+it_PIT
+is_VPRT [BEMA]
+possible_PRED
+,_,
+because_CAUS
+as_IN
+you_SPP2
+read_VPRT
+this_DEMP
+,_,
+out_PIN
+galaxy_NN
+is_VPRT [BEMA]
+spinning_PRED
+around_PLACE
+in_PIN
+an_DT
+unpredictable_JJ
+path_NN
+around_PLACE
+the_DT
+universe_NN
+._.
+One_CD
+day_NN
+it_PIT
+may_POMD
+be_VB [PASS]
+sucked_VBN
+into_PIN
+a_DT
+black_JJ
+hole_NN
+,_,
+or_CC
+crash_NN
+into_PIN
+another_DT
+galaxy_NN
+,_,
+or_CC
+get_VB
+caught_VBN
+up_RP
+in_PIN
+a_DT
+supernova_NN
+,_,
+and_ANDC
+we_FPP1
+will_PRMD
+have_VB
+no_SYNE
+say_NN
+in_PIN
+what_WP
+happens_VPRT
+!_.
+That_DEMP
+'s_VPRT [CONT]
+why_RB
+,_,
+you_SPP2
+'ve_VPRT [CONT]
+got_VBN
+to_TO
+be_VB [PASS]
+amazed_VBN
+at_PIN
+how_RB
+lucky_JJ
+we_FPP1
+are_VPRT
+to_TO
+be_VB [BEMA]
+alive_PRED
+,_,
+at_PIN
+what_WP
+a_DT
+gift_NN
+it_PIT
+is_VPRT
+,_,
+to_TO
+think_VB [PRIV]
+how_RB [WHCL]
+complex_JJ
+the_DT
+human_JJ
+body_NN
+is_VPRT
+,_,
+and_ANDC
+how_RB
+we_FPP1
+might_POMD
+not_XX0
+even_RB
+have_VB [PEAS]
+evolved_VBN
+if_COND
+that_DEMO
+fishy_JJ
+thing_NN
+that_TSUB
+climbed_VBD
+out_PIN
+of_PIN
+the_DT
+water_NN
+billions_NN
+of_PIN
+years_NN
+ago_RB
+had_VBD [PEAS]
+decided_VBN [SUAV] [PRIV] [THATD]
+it_PIT
+liked_VBD
+the_DT
+water_NN
+and_CC
+could_POMD
+n't_XX0 [CONT]
+be_VB [PASS]
+bothered_VBN
+to_PIN
+venture_NN
+on_PIN
+to_TO
+land_VB
+._.
+Okay_UH
+,_,
+Okay_UH
+,_,
+so_RB
+there_RB
+so_IN
+it_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+big_JJ
+if_COND
+,_,
+but_CC
+that_DEMP
+'s_VPRT [CONT] [BEMA]
+the_DT
+beauty_NN
+of_PIN
+it_PIT
+,_,
+anything_QUPR
+COULD_POMD
+have_VPRT [PEAS]
+happened_VBN
+,_,
+and_ANDC
+what_WP
+happened_VBD
+?_.
+WE_FPP1
+did_VBD [PROD]
+!_.
+For_PIN
+me_FPP1
+,_,
+life_NN
+is_VPRT [BEMA]
+a_DT
+beautiful_JJ
+thing_NN
+,_,
+and_ANDC
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+to_TO
+cherish_VB
+and_PHC
+nurture_VB
+mine_NN
+._.
+As_IN
+for_PIN
+the_DT
+capacity_NOMZ
+to_TO
+learn_VB [PRIV]
+and_PHC
+enhance_VB
+my_FPP1
+mind_NN
+,_,
+well_DPAR
+,_,
+its_PIT
+great_JJ
+,_,
+but_CC
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+on_PIN
+holiday_NN
+at_PIN
+the_DT
+moment_NOMZ
+,_,
+so_RB
+studying_VBG
+can_POMD
+wait_VB
+..._:
+PS_NN
+-_:
+To_PIN
+those_DEMP
+who_WP
+dont_VPRT
+agree_VPRT [SUAV] [PUBV]
+that_THVC
+human_JJ
+'s_POS
+are_VPRT [BEMA]
+indeed_RB
+special_PRED
+,_,
+i_FPP1
+say_VPRT [PUBV]
+that_THVC
+our_FPP1
+innate_NN
+ability_NOMZ
+to_TO
+find_VB [PRIV]
+ways_NN
+to_TO
+survive_VB
+and_CC
+further_JJ
+dominate_VB
+all_QUAN
+the_DT
+other_JJ
+species_NN
+on_PIN
+this_DEMO
+earth_NN
+muct_NN
+clearly_RB
+desmonstrate_VB
+our_FPP1
+superiority_NOMZ
+._.
+Just_EMPH
+by_PIN
+comparing_VBG
+our_FPP1
+gene_NN
+codes_NN
+with_PIN
+those_DEMO
+of_PIN
+other_JJ
+species_NN
+it_PIT
+is_VPRT [BEMA]
+evident_PRED
+that_THAC
+there_EX
+is_VPRT
+something_QUPR
+about_IN
+us_FPP1
+that_DEMP
+makes_VPRT
+us_FPP1
+superior_JJ
+._.
+Humans_NN
+manged_VBD
+to_TO
+build_VB
+vastly_RB
+complicated_VBN
+societies_NN
+before_IN
+they_TPP3
+could_POMD
+talk_VB
+,_,
+think_VB [PRIV]
+of_PIN
+neanderthals_NN
+._.
+They_TPP3
+could_POMD
+communicate_VB
+,_,
+but_CC
+not_XX0
+exactly_RB
+talk_VB
+in_PIN
+the_DT
+way_NN
+we_FPP1
+can_POMD
+,_,
+and_ANDC
+who_WP
+says_VPRT [PUBV]
+bees_NN
+cant_JJ
+communicate_VPRT
+._.
+I_FPP1
+agree_VPRT [SUAV] [PUBV]
+that_THVC
+all_QUAN
+living_VBG
+speices_NN
+are_VPRT
+something_QUPR
+amazing_JJ
+,_,
+but_CC
+to_TO
+be_VB [BEMA]
+human_PRED
+is_VPRT
+to_TO
+be_VB [BEMA]
+top_PRED
+of_PIN
+the_DT
+chain_NN
+._.
+Simply_RB
+being_VBG [BEMA]
+alive_PRED
+,_,
+with_PIN
+all_QUAN
+the_DT
+mechanisms_NN
+we_FPP1
+have_VPRT
+working_VBG
+all_QUAN
+the_DT
+time_NN
+is_VPRT [BEMA]
+a_DT
+magnificent_JJ
+feat_NN
+._.
+The_DT
+examples_NN
+of_PIN
+a_DT
+rabbit_NN
+digging_GER
+a_DT
+hole_NN
+and_PHC
+bees_NN
+creating_VBG [WZPRES]
+a_DT
+community_NOMZ
+are_VPRT [BEMA]
+comparable_PRED
+,_,
+but_CC
+once_TIME
+compared_VBN
+seem_VPRT [SMP]
+dull_JJ
+and_PHC
+simplistic_JJ
+in_CONJ
+contrast_NULL
+._.
+Think_VB [PRIV]
+of_PIN
+what_WP
+we_FPP1
+have_VPRT [PEAS]
+achieved_VBN
+in_PIN
+order_NN
+to_TO
+be_VB [BEMA]
+superior_PRED
+to_PIN
+nimals_NN
+._.
+We_FPP1
+envied_VBD
+birds_NN
+power_NN
+of_PIN
+flight_NN
+,_,
+we_FPP1
+invented_VBD
+the_DT
+aeroplane_NN
+,_,
+the_DT
+parchute_NN
+,_,
+the_DT
+hanglider_NN
+and_CC
+even_RB
+the_DT
+space_NN
+rocket_NN
+!_.
+We_FPP1
+envied_VBD
+how_RB
+fish_NN
+could_POMD
+swim_VB
+deep_JJ
+underwater_JJ
+,_,
+so_IN
+we_FPP1
+built_VBD
+the_DT
+sumbmarine_NN
+and_CC
+learned_VBD [PRIV]
+to_TO
+scuba_VB
+dive_NN
+._.
+And_ANDC
+we_FPP1
+are_VPRT [SPAU]
+still_RB
+learning_VBG [PRIV]
+,_,
+tahts_VPRT
+what_WP
+makes_VPRT
+us_FPP1
+so_EMPH
+amazing_JJ
+,_,
+humans_NN
+can_POMD
+adapt_VB
+quickly_RB
+,_,
+and_ANDC
+learn_VB [PRIV]
+and_PHC
+improve_VB
+themselves_TPP3
+in_PIN
+a_DT
+way_NN
+that_TOBJ
+animals_NN
+can_POMD [SPAU]
+only_DWNT
+do_VB [PROD]
+with_PIN
+much_QUAN
+difficulty_NN
+and_CC
+on_PIN
+a_DT
+much_QUAN
+smaller_JJ
+scale_NN
+._.
+Humans_NN
+rule_VPRT [SUAV]
+the_DT
+world_NN
+and_CC
+being_VBG [BEMA]
+one_CD
+makes_VPRT
+me_FPP1
+feel_VB [PRIV]
+special_JJ
+._.
+Be_VB [BEMA]
+proud_PRED
+to_TO
+be_VB [BEMA]
+alive_PRED
+._.
+Be_VB [BEMA]
+proud_PRED
+to_TO
+be_VB [BEMA]
+human_PRED
+._.
+Thats_NN
+me_FPP1
+,_,
+i_FPP1
+hope_VPRT [PRIV]
+the_DT
+picture_NN
+somehow_RB
+links_VPRT
+the_DT
+reader_NN
+to_PIN
+my_FPP1
+mind_NN
+in_PIN
+order_NN
+to_TO
+see_VB [PRIV]
+things_NN
+more_EMPH
+clearly_RB
+..._:

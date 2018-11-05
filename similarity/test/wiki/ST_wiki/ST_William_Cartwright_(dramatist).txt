@@ -1,0 +1,22 @@
+William_NNP Cartwright_NNP -LRB-_-LRB- 1_CD September_NNP 1611_CD ''_'' 29_CD November_NNP 1643_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ,_, dramatist_NN and_CC churchman_NN ._.
+Cartwright_NNP was_VBD born_VBN at_IN Northway_NNP ,_, Gloucestershire_NNP ,_, the_DT son_NN of_IN William_NNP Cartwright_NNP of_IN Heckhampton_NNP ,_, Gloucestershire_NNP ._.
+He_PRP was_VBD educated_VBN at_IN the_DT free_JJ school_NN of_IN Cirencester_NNP and_CC at_IN Westminster_NNP School_NNP ._.
+He_PRP matriculated_VBD from_IN Christ_NNP Church_NNP ,_, Oxford_NNP on_IN 24_CD February_NNP 1632_CD aged_VBN 20_CD ,_, and_CC was_VBD awarded_VBN BA_NNP on_IN 5_CD June_NNP 1632_CD ._.
+He_PRP was_VBD awarded_VBN MA_NNP on_IN 15_CD April_NNP 1635_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Anthony_NNP Wood_NNP gives_VBZ an_DT account_NN of_IN his_PRP$ origin_NN as_IN son_NN of_IN a_DT country_NN gentleman_NN turned_VBD innkeeper_NN which_WDT is_VBZ contradicted_VBN by_IN statements_NNS made_VBN in_IN David_NNP Lloyd_NNP 's_POS Memoirs_NNPS ._.
+Cartwright_NNP became_VBD reader_NN in_IN metaphysics_NNS at_IN Oxford_NNP University_NNP and_CC was_VBD ,_, according_VBG to_TO Wood_NNP ,_, the_DT most_RBS florid_JJ and_CC seraphical_JJ preacher_NN in_IN the_DT university_NN ._.
+In_IN 1642_CD he_PRP was_VBD made_VBN succentor_NN of_IN Salisbury_NNP Cathedral_NNP ,_, and_CC in_IN 1643_CD he_PRP was_VBD chosen_VBN junior_JJ proctor_NN of_IN the_DT university_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Cartwright_NNP was_VBD a_DT successor_NN to_TO Ben_NNP Jonson_NNP and_CC is_VBZ often_RB counted_VBN among_IN the_DT Sons_NNPS of_IN Ben_NNP ,_, the_DT group_NN of_IN dramatists_NNS who_WP practiced_VBD Jonson_NNP 's_POS style_NN of_IN comedy_NN ._.
+The_DT collected_VBN edition_NN of_IN his_PRP$ poems_NNS -LRB-_-LRB- 1651_CD -RRB-_-RRB- contains_VBZ commendatory_JJ verses_NNS by_IN Henry_NNP Lawes_NNP ,_, who_WP set_VBD some_DT of_IN his_PRP$ songs_NNS to_TO music_NN ,_, by_IN Izaak_NNP Walton_NNP ,_, Alexander_NNP Brome_NNP ,_, Henry_NNP Vaughan_NNP and_CC others_NNS ._.
+Cartwright_NNP and_CC Lawes_NNP maintained_VBD an_DT important_JJ working_NN relationship_NN ,_, for_IN perhaps_RB a_DT decade_NN prior_RB to_TO Cartwright_NNP 's_POS death_NN in_IN 1643_CD ;_: in_IN one_CD view_NN ,_, Lawes_NNP made_VBD a_DT significant_JJ contribution_NN to_TO Cartwright_NNP 's_POS conception_NN of_IN drama_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Though_IN Cartwright_NNP has_VBZ been_VBN listed_VBN among_IN the_DT 17th_JJ century_NN dramatists_NNS known_VBN as_IN the_DT Sons_NNPS of_IN Ben_NNP ,_, as_IN they_PRP were_VBD to_TO have_VB been_VBN influenced_VBN by_IN Ben_NNP Jonson_NNP ,_, Cartwright_NNP 's_POS play_NN The_DT Ordinary_NNP has_VBZ been_VBN described_VBN as_IN a_DT second-rate_JJ Jonsonian_JJ comedy_NN ,_, nothing_NN more_JJR than_IN a_DT pale_JJ copy_NN of_IN an_DT original_JJ ._.
+Some_DT would_MD perhaps_RB argue_VB that_IN bad_JJ replication_NN does_VBZ not_RB qualify_VB Cartwright_NNP as_IN a_DT true_JJ Son_NNP of_IN Ben_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Cartwright_NNP was_VBD nominated_VBN one_CD of_IN the_DT council_NN of_IN war_NN at_IN Oxford_NNP in_IN 1642_CD ._.
+He_PRP died_VBD of_IN camp_NN fever_NN -LRB-_-LRB- epidemic_JJ typhus_NN -RRB-_-RRB- at_IN Oxford_NNP aged_VBN 32_CD and_CC was_VBD buried_VBN in_IN Christ_NNP Church_NNP Cathedral_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- It_PRP is_VBZ said_VBD that_IN King_NNP Charles_NNP I_PRP of_IN England_NNP wore_VBD mourning_VBG on_IN the_DT day_NN of_IN his_PRP$ funeral_JJ ._.
+His_PRP$ plays_NNS are_VBP ,_, with_IN the_DT exception_NN of_IN The_DT Ordinary_NNP ,_, far-fetched_JJ in_IN plot_NN ,_, and_CC stilted_VBD and_CC artificial_JJ in_IN treatment_NN ._.
+They_PRP are_VBP :_: In_IN The_DT Ordinary_NNP -LRB-_-LRB- 1635_CD ?_. -RRB-_-RRB-
+he_PRP produced_VBD a_DT comedy_NN of_IN real_JJ life_NN ,_, in_IN imitation_NN of_IN Jonson_NNP ,_, representing_VBG pot-house_NN society_NN ._.
+It_PRP is_VBZ reprinted_VBN in_IN Robert_NNP Dodsley_NNP 's_POS Old_NNP Plays_NNP -LRB-_-LRB- ed_VBN ._.
+William_NNP Hazlitt_NNP ,_, vol_NN ._.
+xii_FW ._. -RRB-_-RRB- ._.

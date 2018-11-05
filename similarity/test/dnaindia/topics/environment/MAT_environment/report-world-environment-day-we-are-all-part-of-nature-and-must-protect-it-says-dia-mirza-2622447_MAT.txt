@@ -1,0 +1,299 @@
+On_PIN
+the_DT
+eve_NN
+of_PIN
+World_NN
+Environment_NOMZ
+Day_NN
+,_,
+Zee_NN
+Business_NOMZ
+'s_POS
+Anil_NN
+Singhvi_NN
+,_,
+interviewed_VBD
+actress_NN
+Dia_NN
+Mirza_NN
+,_,
+brand_NN
+ambassador_NN
+for_PIN
+the_DT
+Wildlife_NN
+Trust_NN
+of_PIN
+India_NN
+and_PHC
+UN_NN
+Environment_NOMZ
+'s_POS
+Goodwill_NN
+Ambassador_NN
+for_PIN
+India_NN
+,_,
+asking_VBG [SUAV] [PRESP]
+her_TPP3
+about_IN
+her_TPP3
+involvment_NOMZ
+in_PIN
+spreading_VBG
+awareness_NOMZ
+on_PIN
+environment-related_JJ
+issues_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+been_VBN [SPAU] [PASS]
+directly_RB
+associated_VBN
+with_PIN
+environment-related_JJ
+issues_NN
+for_PIN
+the_DT
+past_JJ
+10_CD
+years_NN
+._.
+I_FPP1
+consider_VPRT [PRIV]
+myself_FPP1
+to_TO
+be_VB [BEMA]
+a_DT
+part_NN
+of_PIN
+nature_NN
+and_PHC
+hope_NN
+that_TOBJ
+people_NN
+will_PRMD [SPAU]
+also_RB
+realize_VB [PRIV]
+the_DT
+same_JJ
+to_TO [SPIN]
+then_RB
+start_VB
+protecting_VBG
+the_DT
+things_NN
+that_TSUB
+are_VPRT [PASS]
+provided_VBN
+to_TO
+use_VB
+free-of-cost_JJ
+by_PIN
+Mother_NN
+Nature_NN
+._.
+Rumi_NN
+has_VPRT [PEAS]
+said_VBN [PUBV]
+,_,
+``_``
+You_SPP2
+are_VPRT [BEMA]
+not_XX0
+a_DT
+drop_NN
+in_PIN
+the_DT
+ocean_NN
+._.
+You_SPP2
+are_VPRT [BEMA]
+the_DT
+entire_JJ
+ocean_NN
+in_PIN
+a_DT
+drop_NN
+''_''
+._.
+There_EX
+are_VPRT
+people_NN
+like_IN
+Aditya_NN
+Singh_NN
+a_DT
+14-year-old_JJ
+boy_NN
+who_WP [WHSUB]
+has_VPRT [PEAS]
+started_VBN
+a_DT
+movement_NOMZ
+in_PIN
+Delhi_NN
+in_PIN
+which_WDT [PIRE]
+he_TPP3
+goes_VPRT
+to_PIN
+institutions_NOMZ
+and_PHC
+industrialists_NN
+and_CC
+asks_VPRT [SUAV]
+them_TPP3
+to_TO
+curb_VB
+their_TPP3
+plastic_NN
+intake_NN
+._.
+Similarly_CONJ
+,_,
+Rajeshwari_NN
+Singh_NN
+,_,
+a_DT
+32-year-old_JJ
+woman_NN
+,_,
+has_VPRT [PEAS]
+walked_VBN
+from_PIN
+Gujarat_NN
+to_PIN
+Delhi_NN
+with_PIN
+an_DT
+aim_NN
+to_TO
+raise_VB
+awareness_NOMZ
+about_IN
+plastic_JJ
+pollution_NOMZ
+and_CC
+to_TO
+inspire_VB
+people_NN
+to_TO
+stop_VB
+use_NN
+of_PIN
+single-use_JJ
+plastic_NN
+items_NN
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+use_VB
+plastic_JJ
+brushes_NN
+and_CC
+have_VPRT [PEAS]
+replaced_VBN
+them_TPP3
+with_PIN
+bamboo_NN
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+use_VB
+plastic_JJ
+earbuds_NN
+and_CC
+have_VPRT [PEAS]
+replaced_VBN
+them_TPP3
+with_PIN
+earbuds_NN
+made_VBN [WZPAST]
+of_PIN
+bamboo_NN
+and_PHC
+cotton_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+replaced_VBN
+regular_JJ
+sanitary_JJ
+napkins_NN
+,_,
+which_WDT [SERE]
+are_VPRT [SPAU] [PASS]
+mostly_RB
+made_VBN
+of_PIN
+plastics_NN
+,_,
+with_PIN
+bio-degradable_JJ
+napkins_NN
+._.
+I_FPP1
+carry_VPRT
+my_FPP1
+personal_JJ
+metallic_JJ
+water_NN
+bottle_NN
+,_,
+so_OSUB
+that_NULL
+I_FPP1
+can_POMD
+refill_VB
+them_TPP3
+wherever_RB
+I_FPP1
+get_VPRT
+a_DT
+filter_NN
+._.
+This_DEMP
+has_VPRT [PEAS]
+helped_VBN
+me_FPP1
+to_TO
+say_VB [PUBV]
+no_DT
+to_TO
+packaged_VBN
+plastic_JJ
+water_NN
+bottles_NN
+._.
+Apart_RB
+from_PIN
+this_DEMP
+,_,
+whenever_RB
+I_FPP1
+go_VPRT
+to_PIN
+the_DT
+restaurant_NN
+and_PHC
+order_NN
+a_DT
+drink_NN
+,_,
+I_FPP1
+always_RB
+ask_VB [SUAV]
+the_DT
+waiter_NN
+to_TO
+not_XX0
+give_VB
+me_FPP1
+a_DT
+plastic_NN
+straw_NN
+._.

@@ -1,0 +1,4 @@
+Alison_NNP Brackenbury_NNP -LRB-_-LRB- born_VBN 1953_CD Gainsborough_NNP ,_, Lincolnshire_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- -RRB-_-RRB- is_VBZ a_DT British_JJ poet_NN ._.
+After_IN studying_VBG English_NNP at_IN St_NNP Hugh_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ College_NNP ,_, Oxford_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- she_PRP now_RB lives_VBZ in_IN Gloucestershire_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Her_PRP$ work_NN has_VBZ appeared_VBN in_IN the_DT Kenyon_NNP Review_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- Ploughshares_NNPS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Stand_VB ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB-

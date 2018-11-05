@@ -1,0 +1,26 @@
+Eliza_NNP Cook_NNP -LRB-_-LRB- 24_CD December_NNP 1818_CD ''_'' 23_CD September_NNP 1889_CD -RRB-_-RRB- was_VBD an_DT English_JJ author_NN and_CC poet_NN associated_VBN with_IN the_DT Chartist_NNP movement_NN ._.
+She_PRP was_VBD a_DT proponent_NN of_IN political_JJ freedom_NN for_IN women_NNS ,_, and_CC believed_VBD in_IN the_DT ideology_NN of_IN self-improvement_NN through_IN education_NN ,_, something_NN she_PRP called_VBD ``_`` levelling_VBG up_RP ._. ''_''
+This_DT made_VBD her_PRP$ hugely_RB popular_JJ with_IN the_DT working_VBG class_NN public_NN in_IN both_DT England_NNP and_CC America_NNP ._.
+Eliza_NNP Cook_NNP was_VBD the_DT youngest_JJS of_IN the_DT eleven_JJ children_NNS of_IN a_DT brazier_NN -LRB-_-LRB- a_DT brass-worker_NN -RRB-_-RRB- living_NN in_IN London_NNP Road_NNP ,_, Southwark_NNP ,_, where_WRB she_PRP was_VBD born_VBN ._.
+When_WRB she_PRP was_VBD about_IN nine_CD years_NNS old_JJ her_PRP$ father_NN retired_VBN from_IN business_NN ,_, and_CC the_DT family_NN went_VBD to_TO live_VB at_IN a_DT small_JJ farm_NN in_IN St._NNP Leonard_NNP 's_POS Forest_NN ,_, near_IN Horsham_NNP ._.
+Her_PRP$ mother_NN encouraged_VBD Eliza_NNP 's_POS fondness_NN for_IN imaginative_JJ literature_NN ,_, but_CC the_DT child_NN was_VBD almost_RB entirely_RB self-educated_JJ ._.
+She_PRP began_VBD to_TO write_VB verses_NNS before_IN she_PRP was_VBD fifteen_VBN ;_: indeed_RB ,_, some_DT of_IN her_PRP most_RBS popular_JJ poems_NNS ,_, such_JJ as_IN `_`` I_PRP 'm_VBP afloat_RB '_'' and_CC the_DT `_`` Star_NN of_IN Glengarry_NNP ,_, '_'' were_VBD composed_VBN in_IN her_PRP$ girlhood_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Her_PRP$ first_JJ volume_NN ,_, Lays_VBZ of_IN a_DT Wild_NNP Harp_NNP ,_, appeared_VBD in_IN 1835_CD ,_, when_WRB she_PRP was_VBD only_RB seventeen_JJ ._.
+Encouraged_VBN by_IN its_PRP$ favourable_JJ reception_NN ,_, she_PRP began_VBD to_TO send_VB verses_NNS anonymously_RB to_TO the_DT Weekly_NNP Dispatch_NNP ,_, the_DT Metropolitan_NNP Magazine_NNP ,_, the_DT New_NNP Monthly_JJ Magazine_NN ,_, and_CC The_DT Literary_NNP Gazette_NNP ;_: -LRB-_-LRB- 1_CD -RRB-_-RRB- William_NNP Jerdan_NNP sang_VBD her_PRP$ praises_VBZ in_IN the_DT last_JJ of_IN these_DT ._.
+After_IN a_DT time_NN she_PRP confined_VBD herself_PRP to_TO the_DT radical_JJ Weekly_NNP Dispatch_NNP ,_, where_WRB her_PRP$ first_JJ contribution_NN had_VBD appeared_VBN under_IN the_DT signature_NN `_`` C._NNP '_'' on_IN 27_CD Nov_NNP 1836_CD ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC she_PRP became_VBD a_DT staple_NN of_IN its_PRP$ pages_NNS for_IN the_DT next_JJ ten_CD years_NNS ._.
+Its_PRP$ editor_NN was_VBD William_NNP Johnson_NNP Fox_NNP and_CC its_PRP$ owner_NN was_VBD James_NNP Harmer_NNP ,_, a_DT London_NNP alderman_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP lived_VBD for_IN a_DT time_NN at_IN Harmer_NNP 's_POS residence_NN ,_, Ingress_NNP Abbey_NNP ,_, in_IN Greenhithe_NNP ,_, Kent_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC wrote_VBD certain_JJ of_IN her_PRP$ works_NNS there_RB ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Her_PRP$ poem_NN The_NNP Old_NNP Armchair_NNP -LRB-_-LRB- 1838_CD -RRB-_-RRB- made_VBN hers_NNS a_DT household_NN name_NN for_IN a_DT generation_NN ,_, both_DT in_IN England_NNP and_CC the_DT United_NNP States_NNPS ._.
+In_IN that_DT year_NN ,_, she_PRP published_VBD Melaia_NNP and_CC other_JJ Poems_NNS ._.
+Her_PRP$ work_NN for_IN the_DT Dispatch_NNP and_CC New_NNP Monthly_JJ was_VBD pirated_VBN by_IN George_NNP Julian_NNP Harney_NNP ,_, the_DT Chartist_NNP ,_, for_IN the_DT Northern_NNP Star_NNP ._.
+Familiar_NN with_IN the_DT London_NNP Chartist_NNP movement_NN in_IN its_PRP$ various_JJ sects_NNS ,_, she_PRP followed_VBD many_JJ of_IN the_DT older_JJR radicals_NNS in_IN disagreeing_VBG with_IN the_DT O'Brienites_NNS and_CC O'Connorites_NNS in_IN their_PRP$ disregard_NN for_IN the_DT repeal_NN of_IN the_DT Corn_NNP Laws_NNP ._.
+She_PRP also_RB preferred_VBD the_DT older_JJR Radicals_NNS '_POS path_NN of_IN Friendly_NNP Societies_NNPS and_CC self-education_NN ._.
+From_IN 1849_CD to_TO 1854_CD she_PRP wrote_VBD ,_, edited_VBN ,_, and_CC published_VBN Eliza_NNP Cook_NNP 's_POS Journal_NNP ,_, a_DT weekly_JJ periodical_JJ she_PRP described_VBD as_IN one_CD of_IN ``_`` utility_NN and_CC amusement_NN ._. ''_''
+Cook_NNP also_RB published_VBD Jottings_NNP from_IN my_PRP$ Journal_NNP -LRB-_-LRB- 1860_CD -RRB-_-RRB- ,_, and_CC New_NNP Echoes_NNP -LRB-_-LRB- 1864_CD -RRB-_-RRB- ._.
+Her_PRP$ works_NNS became_VBD a_DT staple_NN of_IN anthologies_NNS throughout_IN the_DT century_NN ._.
+Cook_NNP was_VBD a_DT proponent_NN of_IN political_JJ and_CC sexual_JJ freedom_NN for_IN women_NNS ,_, and_CC believed_VBD in_IN the_DT ideology_NN of_IN self-improvement_NN through_IN education_NN ,_, something_NN she_PRP called_VBD ``_`` levelling_VBG up_RP ._. ''_''
+This_DT made_VBD her_PRP a_DT great_JJ favorite_JJ with_IN the_DT working-class_JJ public_NN ._.
+She_PRP was_VBD a_DT close_JJ friend_NN and_CC lover_NN of_IN the_DT American_JJ actress_NN Charlotte_NNP Cushman_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- In_IN 1863_CD she_PRP was_VBD given_VBN a_DT Civil_JJ List_NN pension_NN income_NN of_IN #_# 100_CD a_DT year_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- She_PRP died_VBD in_IN Wimbledon_NNP ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB-

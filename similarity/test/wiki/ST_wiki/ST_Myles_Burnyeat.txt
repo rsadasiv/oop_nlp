@@ -1,0 +1,11 @@
+Myles_NNP Fredric_NNP Burnyeat_NNP CBE_NNP FBA_NNP -LRB-_-LRB- born_VBN 1_CD January_NNP 1939_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ an_DT English_JJ scholar_NN of_IN ancient_JJ philosophy_NN ._.
+Educated_VBN at_IN Bryanston_NNP School_NNP and_CC King_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, Burnyeat_NNP was_VBD subsequently_RB a_DT student_NN of_IN Bernard_NNP Williams_NNP at_IN University_NNP College_NNP London_NNP ._.
+He_PRP became_VBD an_DT assistant_JJ lecturer_NN in_IN philosophy_NN at_IN University_NNP College_NNP London_NNP in_IN 1964_CD ,_, and_CC a_DT lecturer_NN in_IN 1965_CD ._.
+In_IN 1978_CD ,_, he_PRP was_VBD appointed_VBN a_DT lecturer_NN in_IN classics_NNS at_IN the_DT University_NNP of_IN Cambridge_NNP ,_, and_CC became_VBD a_DT fellow_NN of_IN the_DT new_JJ Robinson_NNP College_NNP ,_, Cambridge_NNP ,_, where_WRB he_PRP remained_VBD until_IN 1996_CD ._.
+In_IN 1984_CD ,_, he_PRP was_VBD elected_VBN a_DT Fellow_NNP of_IN the_DT British_JJ Academy_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC appointed_VBN as_IN the_DT fifth_JJ Laurence_NNP Professor_NNP of_IN Ancient_NNP Philosophy_NNP at_IN Cambridge_NNP ,_, a_DT position_NN he_PRP held_VBD until_IN 1996_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- From_IN 1996_CD ,_, he_PRP was_VBD Senior_NNP Research_NNP Fellow_NNP in_IN Philosophy_NNP at_IN All_DT Souls_NNP College_NNP ,_, Oxford_NNP ,_, before_IN returning_VBG in_IN 2006_CD to_TO Robinson_NNP College_NNP ,_, Cambridge_NNP ._.
+He_PRP was_VBD president_NN of_IN the_DT Aristotelian_NNP Society_NNP from_IN 2005_CD to_TO 2006_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 2007_CD ,_, he_PRP was_VBD made_VBN CBE_NNP and_CC a_DT Festschrift_NNP in_IN his_PRP$ honor_NN -LRB-_-LRB- Maieusis_NNPS :_: Essays_NNS in_IN Ancient_NNP Philosophy_NNP in_IN Honour_NNP of_IN Myles_NNP Burnyeat_NNP -RRB-_-RRB- was_VBD published_VBN ._.
+From_IN 1984_CD to_TO 2000_CD he_PRP was_VBD married_VBN to_TO the_DT classicist_NN and_CC poet_NN Ruth_NNP Padel_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- From_IN winter_NN 2002_CD until_IN her_PRP$ death_NN in_IN spring_NN 2003_CD he_PRP was_VBD married_VBN to_TO the_DT scholar_NN of_IN ancient_JJ philosophy_NN Heda_NNP Segvic_NNP ,_, whose_WP$ essays_NNS he_PRP prepared_VBD for_IN publication_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

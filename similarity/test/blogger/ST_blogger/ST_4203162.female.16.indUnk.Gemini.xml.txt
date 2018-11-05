@@ -1,0 +1,40 @@
+-_: -LRB-_-LRB- basic_JJ -RRB-_-RRB- -_: -LRB-_-LRB- x_LS -RRB-_-RRB- name_NN :_: Sara_NNP Marie_NNP Cox_NNP -LRB-_-LRB- x_LS -RRB-_-RRB- nicknames_NNS :_: Cox_NNP ,_, The_DT Coxinator_NNP ,_, Bear_NNP ,_, Mom_NN ,_, VICKI_NNP -LRB-_-LRB- x_LS -RRB-_-RRB- gender_NN :_: female_NN -LRB-_-LRB- x_LS -RRB-_-RRB- birthday_NN :_: may_MD 26_CD -LRB-_-LRB- x_LS -RRB-_-RRB- height_NN :_: 5_CD '_'' 6_CD ''_'' -LRB-_-LRB- x_LS -RRB-_-RRB- hair_NN color_NN :_: blondish_VB \/_NN light_JJ brownish_NN -LRB-_-LRB- x_LS -RRB-_-RRB- eye_NN color_NN :_: bluish_JJ greyish_NN -LRB-_-LRB- x_LS -RRB-_-RRB- do_VBP you_PRP wear_VB glasses_NNS or_CC contacts_NNS :_: yes_UH -LRB-_-LRB- x_LS -RRB-_-RRB- do_VBP you_PRP have_VBP braces_NNS :_: no_DT -LRB-_-LRB- x_LS -RRB-_-RRB- is_VBZ your_PRP$ hair_NN long_RB or_CC short_RB :_: medium_NN -LRB-_-LRB- x_LS -RRB-_-RRB- where_WRB were_VBD you_PRP born_VBN :_: dayton_NN -LRB-_-LRB- x_LS -RRB-_-RRB- zodiac_NN sign_NN :_: gemini_NNS -LRB-_-LRB- x_LS -RRB-_-RRB- how_WRB many_JJ languages_NNS do_VBP you_PRP know_VB :_: uhhh_VB 1_CD and_CC i_FW can_MD kinda_VB speak_VB spanish_JJ -LRB-_-LRB- x_LS -RRB-_-RRB- bad_JJ habit_NN :_: being_VBG a_DT bitch_NN -LRB-_-LRB- x_LS -RRB-_-RRB- piercings_NNS you_PRP have_VBP :_: three_CD in_IN each_DT ear_NN -LRB-_-LRB- x_LS -RRB-_-RRB- piercings_NNS you_PRP want_VBP :_: nose_NN or_CC eyebrow_NN -LRB-_-LRB- x_LS -RRB-_-RRB- tattoos_NNS you_PRP have_VBP :_: nada_NN -LRB-_-LRB- x_LS -RRB-_-RRB- tattoos_NNS you_PRP want_VBP :_: butterfly_NN on_IN my_PRP$ back_NN -LRB-_-LRB- x_LS -RRB-_-RRB- today_NN 's_POS date_NN :_: August_NNP 12_CD -LRB-_-LRB- x_LS -RRB-_-RRB- the_DT time_NN :_: 11:16_CD a.m_RB -_: -LRB-_-LRB- family_NN -RRB-_-RRB- -_: -LRB-_-LRB- x_LS -RRB-_-RRB- mother_NN 's_POS name_NN :_: Kelly_NNP -LRB-_-LRB- x_LS -RRB-_-RRB- father_NN 's_POS name_NN :_: Chris_NNP -LRB-_-LRB- x_LS -RRB-_-RRB- brothers_NNS name_NN :_: Ben_NNP ,_, Keith_NNP ,_, Kevin_NNP ,_, Steve_NNP and_CC Mike_NNP -LRB-_-LRB- x_LS -RRB-_-RRB- sisters_NNS name_NN :_: Laura_NNP and_CC Amelia_NNP Hmm_NNP ,_, so_RB i_FW decided_VBD to_TO start_VB one_CD of_IN these_DT things_NNS because_IN i_FW am_VBP really_RB bored_VBN ._.
+I_PRP 'm_VBP talking_VBG about_IN so_RB bored_VBN that_IN cleaning_VBG my_PRP$ room_NN sounds_VBZ like_IN an_DT effing_NN rave_VB right_RB now_RB ..._: however_RB ,_, my_PRP$ room_NN is_VBZ already_RB clean_JJ ,_, so_RB this_DT is_VBZ my_PRP$ other_JJ choice_NN ._.
+anyways_NNS ..._: today_NN is_VBZ like_IN the_DT epitomy_NN of_IN boring_JJ days_NNS ._.
+of_IN course_NN ,_, i_FW thought_VBD that_DT was_VBD yesterday_NN too_RB ,_, and_CC maybe_RB the_DT day_NN before_IN that_DT -LRB-_-LRB- and_CC so_RB on_IN and_CC so_IN forth_RB -RRB-_-RRB- ._.
+Either_DT way_NN ,_, everyday_JJ turns_VBZ out_RP to_TO be_VB the_DT same_JJ :_: BORING_NN ._.
+i_FW ca_MD n't_RB wait_VB till_IN vacation_NN in_IN a_DT few_JJ days_NNS ._. ._.
+matt_NN is_VBZ coming_VBG with_IN me_PRP so_IN that_IN should_MD n't_RB be_VB too_RB boring_JJ ._.
+and_CC i_FW get_VB to_TO see_VB my_PRP$ sister_NN ,_, yay_NN !_.
+Laura_NNP is_VBZ leaving_VBG tomorrow_NN to_TO go_VB see_VB her_PRP$ ``_`` friend_NN ''_'' Ramzi_NNP in_IN pennsylvania_NN ._.
+I_PRP 'm_VBP gonna_NNS miss_VBP her_PRP ,_, and_CC by_IN the_DT time_NN that_WDT i_FW get_VB back_RB we_PRP will_MD only_RB have_VB like_IN two_CD more_JJR days_NNS until_IN school_NN starts_NNS ._.
+I_PRP HATE_VBP SCHOOL_NN ._.
+especially_RB since_IN matt_NN is_VBZ n't_RB going_VBG to_TO go_VB to_TO the_DT same_JJ school_NN as_IN me_PRP ._. ._.
+not_RB like_IN he_PRP was_VBD before_IN we_PRP started_VBD going_VBG out_RP ,_, but_CC yeah_NN ._.
+this_DT summer_NN has_VBZ actually_RB been_VBN pretty_RB good_JJ compared_VBN to_TO other_JJ summers_NNS ._.
+lots_NNS of_IN work_NN ,_, hangin_NN out_RP with_IN laura_NN and_CC brittany_NN and_CC matthew_NN ,_, and_CC well_RB basically_RB thats_VBZ it_PRP ._.
+Soccer_NN started_VBD again_RB Monday_NNP ,_, and_CC i_FW am_VBP so_RB damn_RB out_IN of_IN shape_NN ._.
+i_FW have_VBP n't_RB done_VBN anything_NN physical_JJ since_IN probably_RB last_JJ season_NN ._.
+so_RB jason_JJ carnine_NN is_VBZ moving_VBG ..._: SCORE_NN ._. ._.
+well_RB actually_RB you_PRP know_VBP i_FW might_MD miss_VB him_PRP ._.
+i_FW do_VBP n't_RB know_VB ..._: he_PRP 's_VBZ put_VBN me_PRP thru_VB a_DT lot_NN of_IN shit_NN and_CC treated_VBD me_PRP like_IN i_FW am_VBP nothing_NN ,_, but_CC then_RB again_RB i_FW have_VBP a_DT lot_NN of_IN memories_NNS with_IN him_PRP ._.
+Oh_UH well_UH ,_, he_PRP is_VBZ only_RB moving_VBG like_IN 30_CD mins_NNS away_RB haha_NN ._.
+this_DT summer_NN has_VBZ been_VBN weird_JJ ._.
+I_PRP am_VBP dating_VBG a_DT guy_NN that_WDT did_VBD n't_RB even_RB know_VB i_FW existed_VBD in_IN middle_JJ school_NN ,_, and_CC i_FW 'm_VBP best_JJS friends_NNS with_IN a_DT girl_NN that_WDT used_VBD to_TO hate_VB me_PRP -LRB-_-LRB- brittany_NN -RRB-_-RRB- and_CC a_DT girl_NN that_WDT is_VBZ way_NN too_RB good_JJ for_IN me_PRP -LRB-_-LRB- laura_NN -RRB-_-RRB- lol_NN ._.
+but_CC i_FW love_VBP them_PRP to_TO death_NN ._.
+i_FW wonder_NN if_IN everything_NN will_MD stay_VB the_DT same_JJ when_WRB school_NN starts_VBZ ._.
+probably_RB not_RB ._.
+i_FW just_RB hope_VBP i_FW stay_VB with_IN matt_NN ._.
+and_CC i_FW better_JJR still_RB be_VB friends_NNS with_IN laura_NN ,_, but_CC i_FW am_VBP not_RB counting_VBG on_IN brittany_NN still_RB hanging_VBG out_RP with_IN us_PRP ..._: she_PRP is_VBZ in_IN a_DT completely_RB different_JJ group_NN than_IN us_PRP ._.
+I_PRP miss_VBP eric_JJ ..._: he_PRP is_VBZ still_RB in_IN the_DT hospital_NN from_IN his_PRP$ OD_NNP ,_, and_CC he_PRP is_VBZ not_RB out_RP until_IN Friday_NNP which_WDT is_VBZ when_WRB me_PRP and_CC matt_VB leave_NN for_IN vacation_NN ._.
+i_FW think_VB matt_NN should_MD stay_VB here_RB to_TO take_VB care_NN of_IN eric_JJ ,_, but_CC he_PRP still_RB wants_VBZ to_TO come_VB on_IN vacation_NN ._.
+you_PRP would_MD think_VB that_IN after_IN all_PDT this_DT happened_VBN with_IN eric_JJ that_IN everyone_NN would_MD kind_RB of_IN lay_VBN off_RP the_DT drugs_NNS ..._: but_CC they_PRP have_VBP n't_RB ._.
+i_FW feel_VB bad_JJ because_IN i_FW 've_VBP smoked_VBN twice_RB since_IN that_DT happened_VBD ..._: i_FW mean_VB i_FW have_VBP n't_RB done_VBN any_DT pills_NNS or_CC anything_NN -LRB-_-LRB- not_RB like_IN i_FW ever_RB did_VBD -RRB-_-RRB- but_CC still_RB ,_, i_FW think_VB its_PRP$ kind_NN of_IN disrespectful_JJ ._.
+then_RB again_RB its_PRP$ crazy_JJ what_WP people_NNS do_VBP to_TO have_VB fun_NN -LRB-_-LRB- and_CC yes_RB i_FW know_VBP i_FW am_VBP talking_VBG about_IN myself_PRP too_RB -RRB-_-RRB- ._.
+Laura_NNP 's_POS problem_NN is_VBZ getting_VBG better_JJR i_FW think_VB ._.
+Unless_IN she_PRP is_VBZ lying_VBG to_TO me_PRP ,_, but_CC i_FW do_VBP n't_RB think_VB that_IN she_PRP is_VBZ ._.
+This_DT is_VBZ really_RB good_JJ ,_, and_CC not_RB to_TO sound_VB selfish_JJ ,_, but_CC I_PRP 'm_VBP glad_JJ its_PRP$ gotten_VBN better_RB because_IN if_IN she_PRP did_VBD n't_RB get_VB rid_JJ of_IN her_PRP$ problem_NN then_RB i_FW was_VBD going_VBG to_TO start_VB up_RP my_PRP$ problem_NN again_RB ._.
+I_PRP 'm_VBP glad_JJ i_FW do_VBP n't_RB have_VB to_TO because_IN i_FW would_MD have_VB lost_VBN matt_NN ._.
+I_PRP 'm_VBP a_DT damn_NN hypocrite_NN ..._: at_IN least_JJS i_FW know_VBP it_PRP though_IN ,_, right_RB ?_.
+well_RB i_FW better_JJR get_VB going_VBG and_CC read_VB my_PRP$ stupid_JJ book_NN for_IN English_NNP that_IN I_PRP 've_VBP put_VBN off_RP all_DT damn_JJ summer_NN ._.
+Til_NNP next_JJ time_NN ;_: -RRB-_-RRB- --_: sara_NN --_:

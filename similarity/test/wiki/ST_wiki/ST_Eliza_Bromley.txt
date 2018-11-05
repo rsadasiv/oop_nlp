@@ -1,0 +1,3 @@
+Eliza_NNP Bromley_NNP -LRB-_-LRB- née_NN Eliza_NNP Nugent_NNP -RRB-_-RRB- -LRB-_-LRB- fl_NN ._.
+1784_SYM -_: 1803_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN and_CC translator_NN ._.
+Mrs_NNP Bromley_NNP was_VBD the_DT widow_NN of_IN an_DT army_NN officer_NN ._.

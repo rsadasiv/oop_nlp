@@ -1,0 +1,11 @@
+John_NNP Caius_NNP or_CC Kay_NNP ,_, sometimes_RB called_VBD the_DT elder_JJR ,_, -LRB-_-LRB- fl_NN ._.
+1480_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ poet_NN ._.
+Kay_NNP was_VBD the_DT English_NNP translator_NN of_IN the_DT Siege_NNP of_IN Rhodes_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- an_DT account_NN of_IN the_DT unsuccessful_JJ Ottoman_NNP assault_NN on_IN Rhodes_NNS in_IN 1480_CD ._.
+The_DT original_JJ Latin_NNP text_NN Obsidionis_NNP Rhodiæ_NNP urbis_VBZ descriptio_NN -LRB-_-LRB- 1480_CD -RRB-_-RRB- had_VBD been_VBN written_VBN by_IN Gulielmus_NNP Caoursin_NNP ,_, the_DT vice-chancellor_NN of_IN the_DT order_NN of_IN the_DT knights_NNS of_IN St_NNP John_NNP of_IN Jerusalem_NNP and_CC an_DT eye_NN witness_NN to_TO the_DT siege_NN ._.
+The_DT English_NNP translation_NN was_VBD printed_VBN c._NN 1481-84_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Kay_NNP dedicates_VBZ his_PRP$ translation_NN to_TO Edward_NNP IV_NNP ,_, as_IN whose_WP$ `_`` humble_JJ poete_NN lawreate_NN '_'' he_PRP describes_VBZ himself_PRP ._.
+But_CC the_DT expression_NN does_VBZ not_RB necessarily_RB imply_VB that_IN the_DT writer_NN held_VBD any_DT official_JJ position_NN at_IN court_NN ._.
+The_DT dedication_NN also_RB refers_VBZ to_TO time_NN spent_VBD abroad_RB in_IN Italy_NNP ,_, possibly_RB studying_VBG ,_, but_CC beyond_IN this_DT details_NNS of_IN his_PRP$ biography_NN remain_VBP unclear_JJ and_CC debated_VBD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- ``_`` Caius_NNP ,_, John_NNP -LRB-_-LRB- fl_NN .1480_CD -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

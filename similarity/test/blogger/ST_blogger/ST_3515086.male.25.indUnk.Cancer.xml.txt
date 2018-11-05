@@ -1,0 +1,33 @@
+June_NNP 21_CD ,_, 2004_CD SPAIN_NNP V_NNP PORTUGAL_NNP Good_NNP for_IN Euro_NNP that_WDT Portugal_NNP won_VBD The_DT Iberian_NNP peninsula_NN was_VBD divided_VBN this_DT morning_NN ._.
+The_DT feelings_NNS of_IN relief_NN and_CC joy_NN flooding_NN Luis_NNP Figo_NNP is_VBZ evident_JJ after_IN teammate_NN Nuno_NNP Gomes_NNP scored_VBD Portugal_NNP 's_POS goal_NN ._.
+--_: AP_NNP And_CC little_JJ brother_NN Portugal_NNP pulled_VBD the_DT carpet_NN from_IN under_IN the_DT feet_NNS of_IN their_PRP$ respected_VBN neighbors_NNS Spain_NNP to_TO clinch_VB a_DT quarter-final_JJ place_NN in_IN soccer_NN 's_POS Euro_NNP 2004_CD ._.
+The_DT Portuguese_JJ capital_NN of_IN Lisbon_NNP was_VBD the_DT venue_NN ._.
+And_CC you_PRP can_MD imagine_VB what_WP the_DT pressure_NN was_VBD on_IN the_DT host_NN ._.
+Teetering_VBG on_IN the_DT brink_NN of_IN elimination_NN after_IN they_PRP shockingly_RB lost_VBD the_DT first_JJ game_NN -_: 1-2_CD to_TO Greece_NNP -_: all_PDT sorts_NNS of_IN visions_NNS enveloped_VBD the_DT Portuguese_JJ side_NN ._.
+Coach_VB Luis_NNP Felipe_NNP Scolari_NNP ,_, the_DT man_NN who_WP steered_VBD Brazil_NNP to_TO the_DT last_JJ World_NNP Cup_NNP crown_NN ,_, was_VBD wondering_VBG whether_IN he_PRP would_MD be_VB sacked_VBN ._.
+Skipper_NN Luis_NNP Figo_NNP was_VBD worried_VBN about_IN whether_IN his_PRP$ international_JJ swansong_NN would_MD be_VB soaked_VBN in_IN ignominy_NN ._.
+But_CC the_DT team_NN that_WDT once_RB boasted_VBD the_DT best_JJS striker_NN in_IN the_DT world_NN in_IN Eusebio_NNP in_IN the_DT Sixties_NNP ,_, fought_VBD back_RB in_IN grand_JJ style_NN ._.
+Prior_RB to_TO this_DT game_NN ,_, they_PRP beat_VBP Russia_NNP 2-0_CD ._.
+And_CC boosted_VBN by_IN that_DT success_NN ,_, they_PRP downed_VBD the_DT country_NN that_WDT boasted_VBD the_DT best_JJS league_NN in_IN the_DT world_NN -_: in_IN the_DT Primera_NNP Liga_NNP -_: by_IN the_DT narrowest_JJS of_IN margins_NNS ._.
+It_PRP was_VBD enough_RB to_TO give_VB them_PRP a_DT place_NN in_IN the_DT last_JJ eight_CD ._.
+Nuno_NNP Gomes_NNP was_VBD the_DT toast_NN of_IN Portugal_NNP after_IN scoring_VBG what_WP would_MD be_VB termed_VBN the_DT face-saving_JJ ,_, survival-mattering_JJ wonder_NN goal_NN that_WDT shocked_VBD Spain_NNP ._.
+The_DT Benfica_NNP striker_NN ,_, introduced_VBN at_IN half-time_NN as_IN a_DT substitute_NN for_IN Pauleta_NNP ,_, struck_VBD the_DT decisive_JJ blow_NN in_IN the_DT 57th_JJ minute_NN with_IN a_DT powerful_JJ low_JJ shot_NN from_IN 20_CD metres_NNS ._.
+Spain_NNP needed_VBD only_RB a_DT draw_NN and_CC were_VBD twice_RB denied_VBN an_DT equaliser_NN by_IN the_DT woodwork_NN as_IN they_PRP went_VBD down_RB to_TO their_PRP$ first_JJ ever_RB defeat_VB by_IN the_DT hosts_NNS in_IN a_DT competitive_JJ match_NN ._.
+Joining_VBG Portugal_NNP in_IN the_DT last_JJ eight_CD were_VBD Greece_NNP ,_, who_WP advanced_VBD on_IN the_DT strength_NN of_IN having_VBG scored_VBN more_RBR goals_NNS than_IN the_DT Spanish_JJ ,_, despite_IN going_VBG down_RP 2-1_CD to_TO Russia_NNP in_IN Faro_NNP in_IN their_PRP$ final_JJ Group_NNP A_NNP match_NN ._.
+If_IN the_DT first_JJ half_NN was_VBD played_VBN at_IN a_DT fast_JJ pace_NN ,_, the_DT second_NN was_VBD frenetic_JJ as_IN both_DT sides_NNS played_VBD attacking_VBG soccer_NN in_IN the_DT search_NN for_IN goals_NNS ._.
+And_CC there_EX was_VBD action_NN galore_NN ._.
+Fernando_NNP Torres_NNP headed_VBD Xabi_NNP Alonso_NNP 's_POS corner_NN fractionally_RB over_IN for_IN Spain_NNP and_CC ,_, a_DT minute_NN later_RB ,_, Cristiano_NNP Ronaldo_NNP outjumped_VBD the_DT Spanish_JJ defense_NN only_RB to_TO send_VB his_PRP$ glancing_VBG header_NN wide_JJ of_IN the_DT upright_NN ._.
+Spain_NNP 's_POS goalkeeper_NN Iker_NNP Casillas_NNP ,_, the_DT Real_JJ Madrid_NNP custodian_NN ,_, was_VBD called_VBN upon_IN to_TO make_VB a_DT save_VB from_IN Benfica_NNP full-back_JJ Miguel_NNP after_IN 20_CD minutes_NNS ._.
+Then_RB Raul_NNP ,_, the_DT Real_JJ Madrid_NNP striker_NN ,_, was_VBD centimetres_NNS away_RB from_IN connecting_VBG with_IN an_DT attempt_NN as_IN the_DT ball_NN skidded_VBD across_IN Portugal_NNP 's_POS goalmouth_NN and_CC was_VBD let_VB down_RP by_IN a_DT poor_JJ first_JJ touch_NN on_IN the_DT second_JJ ._.
+But_CC Spain_NNP 's_POS hopes_NNS were_VBD dashed_VBN when_WRB Gomes_NNP twisted_VBD and_CC turned_VBD on_RP the_DT edge_NN of_IN the_DT Spanish_JJ box_NN and_CC struck_VBD a_DT low_JJ shot_NN into_IN the_DT bottom_JJ corner_NN of_IN the_DT net_NN ._.
+The_DT Jose_NNP Alvalade_NNP stadium_NN ,_, home_NN to_TO Benfica_NNP 's_POS arch_NN rivals_NNS Sporting_NNP Lisbon_NNP ,_, erupted_VBD into_IN celebrations_NNS ._.
+And_CC although_IN Costinha_NNP missed_VBD a_DT sitter_NN in_IN the_DT dying_VBG minutes_NNS ,_, no_DT one_NN bothered_VBN as_IN the_DT wild_JJ celebrations_NNS continued_VBN on_IN the_DT pitch_NN and_CC on_IN the_DT stands_NNS ._.
+It_PRP was_VBD a_DT sad_JJ exit_NN for_IN Spain_NNP ,_, whom_WP many_DT expected_VBN to_TO enter_VB the_DT semi-finals_NNS ._.
+But_CC the_DT Nearly_RB Men_NN of_IN world_NN soccer_NN would_MD have_VB to_TO concede_VB that_DT Portugal_NNP deserved_VBD the_DT win_VBP ._.
+The_DT pressure_NN on_IN the_DT host_NN was_VBD high_JJ ._.
+As_IN Figo_NNP admitted_VBD :_: `_`` The_DT pressure_NN was_VBD huge_JJ ._.
+But_CC we_PRP have_VBP to_TO be_VB really_RB proud_JJ at_IN the_DT way_NN we_PRP played_VBD ._. '_''
+And_CC if_IN there_EX was_VBD one_CD cue_NN from_IN Portugal_NNP to_TO world_NN soccer_NN superpowers_NNS Italy_NNP and_CC Germany_NNP ,_, who_WP are_VBP struggling_VBG with_IN two_CD draws_VBZ each_DT ,_, it_PRP is_VBZ that_IN no_DT mission_NN is_VBZ impossible_JJ ._.
+Only_RB Spain_NNP may_MD not_RB agree_VB with_IN that_DT ._.
+But_CC then_RB it_PRP was_VBD good_JJ that_IN the_DT hosts_NNS remained_VBD in_IN the_DT competition_NN ._.
+For_IN Euro_NNP 2004_CD 's_POS sake_NN ._.

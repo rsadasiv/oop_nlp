@@ -1,0 +1,73 @@
+From_IN :_: Sudha_NNP H_NNP Sharma_NNP <sudha.sharma@her-mony.com>_NNP Date_NNP :_: 08_CD November_NNP 2016_CD 19:00_CD Subject_NNP :_: Meenakshi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ New_NNP Avatar_NNP To_TO :_: outofprintmagazine@gmail.com_JJ <sup>_JJ ~_NN </sup>_NNP Meenakshi_NNP ,_, Meenakshi_NNP where_WRB are_VBP you_PRP <sup>_VB TM_NNP </sup>_NNP ??_NNP screamed_VBD Thanu_NNP Iyer_NNP as_IN he_PRP stood_VBD near_IN the_DT puja_NN room_NN with_IN folded_VBN hands_NNS even_RB as_IN he_PRP uttered_VBD <sup>_JJ ~_FW </sup>_FW namasthesthu_FW mahamaye_FW <sup>_FW TM_FW </sup>_FW and_CC quickly_RB showed_VBD the_DT arathi_NN to_TO the_DT Gods_NNS and_CC goddesses_NNS to_TO the_DT ringing_NN of_IN the_DT brass_NN bell_NN ._.
+<sup>_NNP ~_NNP </sup>_NNP Please_VB come_VB and_CC take_VB the_DT arathi_NN and_CC have_VB you_PRP kept_VBD my_PRP$ breakfast_NN ready_JJ <sup>_NN TM_NNP </sup>_NNP he_PRP said_VBD as_IN he_PRP peered_VBD into_IN the_DT kitchen_NN ._.
+Meenu_NNP as_IN she_PRP was_VBD known_VBN ,_, quickly_RB wiped_VBD her_PRP$ wet_JJ hands_NNS in_IN the_DT pallu_NN of_IN her_PRP$ sari_NN and_CC ran_VBD her_PRP$ cupped_JJ palms_NNS over_IN the_DT mangalarathi_NN and_CC touched_VBD her_PRP$ eyes_NNS ._.
+<sup>_NNP ~_NNP </sup>_NNP Wear_VB your_PRP$ shirt_NN ,_, while_IN I_PRP keep_VBP the_DT breakfast_NN on_IN the_DT table_NN <sup>_VBD ~_CD </sup>_NNP Meenu_NNP said_VBD as_IN she_PRP bustled_VBD back_RB into_IN the_DT kitchen_NN ._.
+She_PRP had_VBD made_VBN idlis_NNS and_CC coconut_NN chutney_NN to_TO go_VB with_IN it_PRP ._.
+The_DT idlis_NNS were_VBD like_IN mallipoo_NN ,_, soft_JJ and_CC spongy_JJ and_CC the_DT coconut_NN chutney_NN was_VBD the_DT perfect_JJ accompaniment_NN for_IN it_PRP ._.
+She_PRP made_VBD a_DT small_JJ cup_NN of_IN filter_NN coffee_NN to_TO wash_VB the_DT idlis_NNS down_RB ._.
+<sup>_NNP ~_NNP </sup>_NNP Meenu_NNP have_VBP you_PRP not_RB ironed_VBD my_PRP$ blue_JJ bush_JJ shirt_NN <sup>_NN TM_NNP </sup>_NNP yelled_VBD Thanu_NNP Iyer_NNP even_RB as_IN Meenu_NNP packed_VBD his_PRP$ lunch_NN box_NN ._.
+And_CC before_IN she_PRP could_MD answer_VB him_PRP came_VBD another_DT one_CD <sup>_NN ~_NN </sup>_VB my_PRP$ hanky_NN is_VBZ missing_VBG ,_, where_WRB have_VBP you_PRP kept_VBD it_PRP <sup>_VB TM_NNP </sup>_VB ??_FW <sup>_FW ~_FW </sup>_FW It_PRP <sup>_VBZ TM_NNP </sup>_NNP s_VBZ hanging_VBG in_IN the_DT almirah_NN ,_, please_VB take_VB it_PRP <sup>_VB TM_NNP </sup>_NNP shouted_VBD Meenu_NNP from_IN the_DT kitchen_NN ._.
+From_IN the_DT time_NN they_PRP were_VBD married_VBN Meenu_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ entire_JJ life_NN revolved_VBD around_IN her_PRP$ husband_NN and_CC his_PRP$ likes_NN and_CC dislikes_NN ._.
+Meenu_NNP was_VBD from_IN Palakkad_NNP and_CC was_VBD married_VBN to_TO Thanu_NNP Iyer_NNP for_IN some_DT 15_CD yrs_NNS ._.
+They_PRP were_VBD childless_JJ and_CC lived_VBD in_IN Sreekanteswaram_NNP near_IN East_NNP Fort_NNP in_IN Trivandrum_NNP ._.
+None_NN of_IN the_DT women_NNS on_IN their_PRP$ street_NN worked_VBD ._.
+All_PDT the_DT mamis_NNS would_MD send_VB their_PRP$ husbands_NNS to_TO work_VB and_CC then_RB come_VB out_IN of_IN their_PRP$ homes_NNS and_CC from_IN 9.00_CD AM_VBP to_TO 10.30_CD AM_VBP they_PRP sat_VBD on_IN the_DT bench_NN in_IN front_NN of_IN Parvathy_NNP mami_FW <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN to_TO gossip_NN ._.
+Initially_RB the_DT bored_JJ Meenu_NNP had_VBD joined_VBN the_DT group_NN of_IN gaggling_VBG women_NNS but_CC with_IN years_NNS she_PRP got_VBD bored_VBN of_IN the_DT women_NNS and_CC their_PRP$ wagging_NN tongues_NNS ._.
+Their_PRP$ discussions_NNS were_VBD about_IN some_DT relative_JJ and_CC the_DT gold_NN and_CC saris_NNS they_PRP bought_VBD or_CC their_PRP$ children_NNS and_CC their_PRP$ accomplishments_NNS ._.
+Since_IN she_PRP had_VBD no_DT interest_NN in_IN gold_NN or_CC about_IN children_NNS Meenu_NNP made_VBD excuses_NNS to_TO stay_VB at_IN home_NN and_CC then_RB slowly_RB stopped_VBD joining_VBG them_PRP ._.
+The_DT mamis_NN distanced_VBD her_PRP$ from_IN their_PRP$ group_NN activities_NNS ,_, but_CC Meenu_NNP was_VBD only_RB too_RB happy_JJ ._.
+Thanu_NNP Iyer_NNP was_VBD the_DT typical_JJ Iyer_NNP mama_NN who_WP did_VBD not_RB want_VB his_PRP$ wife_NN to_TO work_VB ._.
+He_PRP married_VBD her_PRP$ when_WRB she_PRP was_VBD just_RB a_DT nubile_JJ 20yr_JJ old_JJ ._.
+He_PRP moulded_VBD her_PRP into_IN the_DT way_NN he_PRP liked_VBD his_PRP$ woman_NN to_TO be_VB and_CC Meenu_NNP became_VBD just_RB that_DT ._.
+She_PRP could_MD not_RB do_VB anything_NN that_IN she_PRP wanted_VBD ,_, if_IN he_PRP wanted_VBD to_TO eat_VB ,_, she_PRP had_VBD to_TO eat_VB with_IN him_PRP ,_, if_IN he_PRP wanted_VBD to_TO sleep_VB ,_, she_PRP had_VBD to_TO sleep_VB around_IN the_DT same_JJ time_NN ._.
+As_IN the_DT years_NNS rolled_VBN by_IN Meenu_NNP was_VBD strangled_VBN by_IN the_DT noose_NN that_WDT was_VBD called_VBN Love_NNP by_IN Thanu_NNP Iyer_NNP and_CC she_PRP resented_VBD him_PRP for_IN it_PRP ._.
+And_CC then_RB one_CD day_NN as_IN Meenu_NNP scanned_VBD the_DT paper_NN she_PRP saw_VBD an_DT advertisement_NN calling_VBG for_IN trainers_NNS in_IN a_DT gym_NN nearby_RB ,_, age_NN was_VBD no_DT bar_NN and_CC the_DT trainers_NNS would_MD undergo_VB training_NN before_IN they_PRP were_VBD put_VBN on_IN the_DT floor_NN to_TO help_VB customers_NNS ._.
+Working_VBG in_IN a_DT gym_NN was_VBD unheard_JJ of_IN and_CC that_IN too_RB in_IN an_DT agraharam_NN like_IN Sreekanteswaram_NNP ._.
+But_CC Meenu_NNP was_VBD determined_VBN ._.
+She_PRP first_RB decided_VBD to_TO go_VB for_IN shopping_NN for_IN the_DT gym_NN had_VBD insisted_VBN that_IN the_DT trainers_NNS had_VBD to_TO be_VB in_IN Track_NNP pants_NNS ,_, T_NNP shirts_NNS and_CC sneakers_NNS ._.
+From_IN the_DT small_JJ savings_NNS that_IN she_PRP had_VBD over_IN the_DT years_NNS ,_, she_PRP took_VBD some_DT seven_CD thousand_CD rupees_NNS and_CC tucked_VBD it_PRP into_IN her_PRP$ purse_NN ._.
+She_PRP quickly_RB locked_VBD the_DT door_NN and_CC walked_VBD down_RP the_DT street_NN and_CC hailed_VBD an_DT auto_NN ._.
+Soon_RB she_PRP was_VBD on_IN her_PRP$ way_NN to_TO the_DT Nike_NNP showroom_NN on_IN MG_NNP Road_NNP ._.
+It_PRP was_VBD a_DT balmy_JJ day_NN and_CC beads_NNS of_IN perspiration_NN appeared_VBD on_IN her_PRP$ forehead_NN as_IN she_PRP mopped_VBD them_PRP with_IN her_PRP$ kerchief_NN ._.
+Soon_RB they_PRP approached_VBD the_DT showroom_NN and_CC Meenu_NNP paid_VBD the_DT auto_NN and_CC got_VBD into_IN the_DT showroom_NN ._.
+A_DT salesman_NN let_VB Meenu_NNP in_IN ._.
+<sup>_JJ ~_NN </sup>_IN I_PRP need_VBP training_NN shoes_NNS ,_, track_NN pants_NNS and_CC T_NNP Shirts_NNPS ._.
+Can_MD you_PRP please_VB show_VB them_PRP <sup>_VB TM_NNP </sup>_NNP asked_VBD Meenu_NNP haltingly_RB ._.
+The_DT sales_NNS man_NN looked_VBD at_IN her_PRP$ sari_NN clad_JJ self_NN and_CC called_VBN out_RP to_TO a_DT sales_NNS girl_NN who_WP came_VBD out_IN of_IN the_DT shadows_NNS and_CC muttered_JJ something_NN to_TO her_PRP ._.
+The_DT girl_NN walked_VBD up_RP to_TO Meenu_NNP and_CC took_VBD her_PRP$ the_DT ladies_NNS section_NN and_CC showed_VBD her_PRP a_DT few_JJ good_JJ shoes_NNS ._.
+Meenu_NNP took_VBD her_PRP$ time_NN and_CC chose_VBD a_DT Pink_NNP one_CD ._.
+Then_RB she_PRP went_VBD to_TO the_DT track_NN pants_NNS section_NN and_CC picked_VBD up_RP two_CD track_NN pants_NNS and_CC two_CD T_NNP shirts_NNS ._.
+She_PRP wore_VBD them_PRP and_CC they_PRP fit_VBP her_PRP$ well_NN ,_, she_PRP wished_VBD she_PRP had_VBD brought_VBN one_CD of_IN the_DT mamis_NNS with_IN her_PRP$ to_TO help_VB her_PRP$ make_VB a_DT good_JJ choice_NN ._.
+But_CC knowing_VBG how_WRB they_PRP would_MD react_VB ,_, she_PRP had_VBD come_VBN on_IN her_PRP$ own_JJ ._.
+Since_IN her_PRP$ bill_NN was_VBD substantial_JJ the_DT showroom_NN gave_VBD her_PRP a_DT sports_NNS bag_NN for_IN free_JJ ._.
+Meenu_NNP proudly_RB stuffed_VBD her_PRP$ gym_NN clothes_NNS and_CC shoes_NNS into_IN the_DT bag_NN and_CC took_VBD another_DT auto_NN to_TO the_DT gym_NN ._.
+The_DT gym_NN manager_NN was_VBD a_DT friendly_JJ enterprising_JJ lady_NN who_WP showed_VBD Meenu_NNP around_IN the_DT gym_NN ._.
+She_PRP gave_VBD her_PRP a_DT registration_NN form_NN and_CC had_VBD her_PRP$ enrolled_VBN for_IN training_NN ._.
+Initially_RB Meenu_NNP would_MD only_RB be_VB paid_VBN a_DT stipend_NN and_CC later_RB after_IN the_DT training_NN she_PRP would_MD be_VB put_VBN on_IN the_DT floor_NN to_TO help_VB the_DT customers_NNS ._.
+Her_PRP$ timings_NNS were_VBD from_IN 9AM_CD to_TO 2PM_CD and_CC Meenu_NNP was_VBD secretly_RB thrilled_VBN that_IN she_PRP could_MD go_VB and_CC come_VB without_IN worrying_VBG about_IN her_PRP$ husband_NN ._.
+So_RB everyday_JJ Meenu_NNP would_MD wait_VB for_IN her_PRP$ husband_NN to_TO leave_VB in_IN the_DT morning_NN and_CC immediately_RB lock_VB the_DT door_NN and_CC leave_VB for_IN the_DT gym_NN ._.
+She_PRP would_MD change_VB her_PRP$ clothes_NNS in_IN the_DT gym_NN and_CC attended_VBD her_PRP$ training_NN sessions_NNS and_CC again_RB when_WRB it_PRP was_VBD time_NN to_TO leave_VB the_DT gym_NN ,_, she_PRP would_MD change_VB and_CC get_VB back_RB ._.
+Her_PRP$ clothes_NNS were_VBD washed_VBN and_CC kept_VBN back_RB in_IN her_PRP$ cupboard_NN before_IN her_PRP$ husband_NN returned_VBD home_NN and_CC her_PRP$ sneakers_NNS were_VBD stashed_VBN in_IN a_DT locker_NN in_IN the_DT gym_NN ._.
+This_DT went_VBD on_IN for_IN a_DT few_JJ months_NNS and_CC none_NN got_VBD a_DT whiff_NN of_IN it_PRP especially_RB Thanu_NNP Iyer_NNP ._.
+After_IN three_CD months_NNS Meenu_NNP was_VBD on_IN the_DT floor_NN as_IN a_DT trainer_NN ._.
+She_PRP was_VBD paid_VBN a_DT decent_JJ salary_NN and_CC she_PRP was_VBD secretly_RB thrilled_VBN ._.
+Thanu_NNP Iyer_NNP noticed_VBD that_IN Meenu_NNP had_VBD become_VBN slimmer_JJR but_CC she_PRP had_VBD also_RB become_VBN stronger_JJR ._.
+She_PRP never_RB complained_VBD of_IN any_DT aches_NNS and_CC pains_NNS and_CC did_VBD not_RB grumble_VB when_WRB he_PRP yelled_VBD at_IN her_PRP ._.
+She_PRP could_MD push_VB herself_PRP from_IN morning_NN to_TO night_NN and_CC never_RB complained_VBD that_IN she_PRP was_VBD tired_VBN ._.
+She_PRP had_VBD a_DT spring_NN in_IN her_PRP$ step_NN and_CC there_EX was_VBD this_DT glow_NN about_IN her_PRP$ which_WDT he_PRP could_MD not_RB lay_VB his_PRP$ finger_NN on_IN ._.
+One_CD fine_JJ day_NN as_IN Meenu_NNP was_VBD in_IN the_DT kitchen_NN fixing_VBG dinner_NN Thanu_NNP Iyer_NNP came_VBD over_IN and_CC told_VBD Meenu_NNP that_IN he_PRP had_VBD put_VBN on_IN weight_NN and_CC was_VBD planning_VBG to_TO join_VB the_DT gym_NN nearby_RB ._.
+Meenu_NNP stopped_VBD washing_VBG the_DT cooker_NN and_CC Thanu_NNP Iyer_NNP thought_VBD he_PRP saw_VBD a_DT strange_JJ light_JJ appear_VBP in_IN her_PRP$ eyes_NNS ._.
+Meenu_NNP was_VBD thrilled_VBN as_IN she_PRP heard_VBD Thanu_NNP Iyer_NNP ._.
+She_PRP knew_VBD what_WP she_PRP had_VBD to_TO do_VB ._.
+Thanu_NNP Iyer_NNP paid_VBD 10k_CD as_IN annual_JJ fee_NN to_TO the_DT gym_NN which_WDT was_VBD also_RB non_JJ refundable_JJ ._.
+Then_RB he_PRP was_VBD led_VBN to_TO the_DT treadmill_NN and_CC he_PRP was_VBD asked_VBN by_IN a_DT male_JJ trainer_NN to_TO walk_VB at_IN a_DT steady_JJ pace_NN to_TO record_VB his_PRP$ heartbeat_NN ._.
+Then_RB he_PRP was_VBD asked_VBN to_TO stretch_VB and_CC touch_VB his_PRP$ toes_NNS and_CC also_RB try_VB and_CC touch_VB his_PRP$ back_NN with_IN his_PRP$ two_CD hands_NNS ._.
+None_NN of_IN it_PRP was_VBD possible_JJ for_IN Thanu_NNP Iyer_NNP ._.
+Then_RB he_PRP was_VBD asked_VBN to_TO do_VB a_DT leg_NN press_NN with_IN weights_NNS that_WDT was_VBD equal_JJ to_TO his_PRP$ weight_NN ,_, ideally_RB a_DT healthy_JJ and_CC strong_JJ man_NN can_MD push_VB twice_RB his_PRP$ weight_NN ,_, but_CC Thanu_NNP Iyer_NNP could_MD hardly_RB push_VB two_CD times_NNS before_IN he_PRP started_VBD wheezing_VBG ._.
+In_IN the_DT meanwhile_RB he_PRP heard_VBD a_DT commotion_NN near_IN the_DT free_JJ weights_NNS section_NN ,_, and_CC he_PRP heard_VBD the_DT trainers_NNS talking_VBG amongst_IN themselves_PRP that_IN a_DT lady_NN trainer_NN was_VBD doing_VBG a_DT dead_JJ lift_NN and_CC he_PRP joined_VBD the_DT crowd_NN to_TO see_VB a_DT woman_NN with_IN her_PRP$ back_JJ towards_IN him_PRP doing_VBG a_DT dead_JJ lift_NN of_IN 50kilos_NNS ._.
+She_PRP repeated_VBD it_PRP three_CD times_NNS amidst_JJ cheers_NNS of_IN encouragement_NN from_IN the_DT fellow_JJ trainers_NNS and_CC the_DT customers_NNS ._.
+Then_RB she_PRP jumped_VBD up_RB and_CC down_RB a_DT stool_NN in_IN quick_JJ succession_NN for_IN a_DT record_NN 10_CD times_NNS ,_, then_RB she_PRP did_VBD jumping_VBG jacks_NNS for_IN a_DT minute_NN ,_, then_RB she_PRP did_VBD ten_VB burpees_NNS and_CC then_RB held_VBD on_IN a_DT plank_NN for_IN a_DT minute_NN ._.
+Then_RB she_PRP got_VBD up_RB and_CC ran_VBD on_IN the_DT tread_VBP mill_NN at_IN a_DT speed_NN of_IN 9_CD for_IN 5_CD minutes_NNS ._.
+And_CC all_DT was_VBD shot_VBN by_IN the_DT Manager_NNP of_IN the_DT gym_NN in_IN her_PRP$ mobile_JJ to_TO upload_VB on_IN you_PRP tube_NN as_IN an_DT encouragement_NN and_CC motivation_NN for_IN all_DT ._.
+The_DT lady_NN was_VBD pioneering_JJ cross_NN fit_NN in_IN her_PRP$ new_JJ gym_NN ._.
+Then_RB slowly_RB she_PRP turned_VBD around_RB and_CC met_VBD Thanu_NNP Iyer_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ gaze_VB ,_, while_IN Thanu_NNP Iyer_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ face_NN went_VBD ashen_RB ,_, Meenu_NNP smiled_VBD a_DT wicked_JJ smile_NN !!!_NN

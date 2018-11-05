@@ -1,0 +1,4 @@
+Robert_NNP Seymour_NNP Conway_NNP -LRB-_-LRB- 1864_CD ''_'' 1933_CD -RRB-_-RRB- was_VBD a_DT British_JJ classical_JJ scholar_NN and_CC comparative_JJ philologist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Born_VBN in_IN Stoke_NNP Newington_NNP ,_, he_PRP was_VBD the_DT elder_JJR brother_NN of_IN Katharine_NNP St_NNP John_NNP Conway_NNP ._.
+He_PRP was_VBD Hulme_NNP Professor_NNP of_IN Latin_NNP Literature_NNP ,_, at_IN Victoria_NNP University_NNP ,_, Manchester_NNP from_IN 1903_CD until_IN his_PRP$ retirement_NN in_IN 1929_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1929_CD he_PRP stood_VBD for_IN parliament_NN at_IN the_DT General_NNP Election_NNP in_IN the_DT constituency_NN of_IN the_DT Combined_VBN English_NNP Universities_NNS for_IN the_DT Liberal_JJ party_NN ,_, finishing_VBG as_IN runner-up_NN ._.

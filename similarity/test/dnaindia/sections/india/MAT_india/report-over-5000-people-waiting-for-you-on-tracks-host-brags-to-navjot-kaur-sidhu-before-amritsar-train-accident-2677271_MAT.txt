@@ -1,0 +1,1373 @@
+Amid_PIN
+the_DT
+allegations_NOMZ
+of_PIN
+negligence_NN
+after_IN
+61_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+after_IN
+a_DT
+train_NN
+mauled_VBD
+into_PIN
+them_TPP3
+during_PIN
+Dussehra_NN
+celebrations_NOMZ
+at_PIN
+an_DT
+event_NN
+where_RB
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+was_VBD [BEMA]
+the_DT
+chief_NN
+guest_NN
+,_,
+a_DT
+video_NN
+has_VPRT [PEAS]
+gone_VBN
+viral_JJ
+which_WDT
+shows_VPRT [PRIV]
+the_DT
+host_NN
+of_PIN
+the_DT
+event_NN
+telling_VBG [WZPRES]
+her_TPP3
+that_DEMO
+she_TPP3
+will_PRMD
+witness_NOMZ
+<sup>_VB
+~_RB
+</sup>_VBN
+over_IN
+5000_CD
+people_NN
+waiting_VBG [WZPRES]
+for_PIN
+you_SPP2
+on_PIN
+the_DT
+tracks_NN
+._.
+In_PIN
+the_DT
+video_NN
+,_,
+the_DT
+host_NN
+says_VPRT [PUBV]
+:_:
+oeLet_NN
+500_CD
+trains_NN
+pass_VB
+by_PIN [STPR]
+,_,
+but_CC
+you_SPP2
+will_PRMD
+still_RB
+witness_NOMZ
+more_EMPH
+than_PIN
+5000_CD
+people_NN
+waiting_VBG [WZPRES]
+for_PIN
+you_SPP2
+on_PIN
+the_DT
+tracks_NN
+._.
+''_''
+The_DT
+video_NN
+led_VBD
+to_PIN
+a_DT
+sharp_JJ
+reaction_NOMZ
+from_PIN
+Omar_NN
+Abdullah_NN
+who_WP [WHSUB]
+hit_VBD
+out_PIN
+at_PIN
+the_DT
+organisers_NN
+saying_VBG [PUBV] [WZPRES]
+:_:
+oeIf_NN
+you_SPP2
+can_POMD
+boast_VB [PUBV]
+about_IN
+people_NN
+standing_VBG [WZPRES]
+on_PIN
+the_DT
+railway_NN
+tracks_VPRT
+to_TO
+attend_VB
+your_SPP2
+event_NN
+you_SPP2
+must_NEMD [SPAU]
+also_RB
+be_VB [PASS]
+held_VBN [PRIV]
+responsible_JJ
+for_PIN
+the_DT
+deaths_NN
+of_PIN
+those_DEMO
+people_NN
+when_RB
+they_TPP3
+get_VPRT
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+on_PIN
+those_DEMO
+very_AMP
+same_JJ
+tracks_NN
+._.
+''_''
+If_COND
+you_SPP2
+can_POMD
+boast_VB [PUBV]
+about_IN
+people_NN
+standing_VBG [WZPRES]
+on_PIN
+the_DT
+railway_NN
+tracks_VPRT
+to_TO
+attend_VB
+your_SPP2
+event_NN
+you_SPP2
+must_NEMD [SPAU]
+also_RB
+be_VB [PASS]
+held_VBN [PRIV]
+responsible_JJ
+for_PIN
+the_DT
+deaths_NN
+of_PIN
+those_DEMO
+people_NN
+when_RB
+they_TPP3
+get_VPRT
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+on_PIN
+those_DEMO
+very_AMP
+same_JJ
+tracks_NN
+._.
+https:\/\/t.co\/QigYkbDCmq_NN
+Navjot_NN
+Kaur_NN
+and_CC
+her_TPP3
+husband_NN
+,_,
+Navjot_NN
+Sidhu_NN
+'s_POS
+problems_NN
+will_PRMD
+increase_VB
+with_PIN
+this_DEMO
+video_NN
+clip_NN
+wherein_IN
+she_TPP3
+is_VPRT
+being_VBG [SPAU] [PASS]
+clearly_RB
+told_VBD
+as_IN
+a_DT
+boast_NN
+that_TOBJ
+5000_CD
+ppl_NN
+are_VPRT
+standing_VBG
+on_PIN
+the_DT
+railway_NN
+lines_NN
+._.
+#AmritsarTrainTragedy_NN
+pic.twitter.com\/tKNXkErxfv_NN
+Former_NN
+minister_NN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+said_VBD [PUBV]
+Saturday_NN
+the_DT
+gateman_NN
+responsible_JJ
+for_PIN
+closing_VBG
+the_DT
+railway_NN
+barrier_NN
+could_POMD
+have_VB [PEAS]
+alerted_VBN
+the_DT
+driver_NN
+to_TO
+slow_VB
+down_RP
+the_DT
+train_NN
+as_IN
+several_QUAN
+people_NN
+were_VBD
+standing_VBG
+on_PIN
+the_DT
+rail_NN
+tracks_NN
+._.
+Sidhu_NN
+was_VBD [BEMA]
+the_DT
+chief_NN
+guest_NN
+of_PIN
+the_DT
+Dussehra_NN
+celebrations_NOMZ
+held_VBD [PRIV]
+near_PLACE
+Joda_NN
+Phatak_NN
+here_RB
+where_RB
+59_CD
+revellers_NN
+were_VBD [PASS]
+mowed_VBN
+down_RP
+by_PIN
+a_DT
+train_NN
+._.
+She_TPP3
+was_VBD [PASS]
+accused_VBN
+of_PIN
+leaving_VBG
+the_DT
+site_NN
+of_PIN
+accident_NN
+without_PIN
+bothering_VBG
+about_IN
+the_DT
+victims_NN
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+several_QUAN
+announcements_NOMZ
+were_VBD [PASS]
+made_VBN
+from_PIN
+the_DT
+stage_NN
+at_PIN
+the_DT
+event_NN
+,_,
+requesting_VBG [SUAV]
+people_NN
+to_TO
+come_VB
+inside_PLACE
+the_DT
+Dhobi_NN
+ghat_NN
+to_TO
+watch_VB
+the_DT
+burning_GER
+effigies_NN
+._.
+The_DT
+railway_NN
+man_NN
+who_WP [WHSUB]
+was_VBD [BEMA]
+responsible_PRED
+for_PIN
+closing_VBG
+the_DT
+barrier_NN
+should_NEMD
+have_VB [PEAS]
+seen_VBN [PRIV]
+that_THVC
+Dusshera_NN
+event_NN
+was_VBD
+being_VBG [PASS]
+held_VBN [PRIV]
+there_RB
+,_,
+she_TPP3
+said_VBD [PUBV]
+._.
+``_``
+Could_POMD
+he_TPP3
+not_XX0
+see_VB [PRIV] [THATD]
+the_DT
+train_NN
+coming_VBG [WZPRES]
+and_CC
+the_DT
+people_NN
+standing_VBG [WZPRES]
+on_PIN
+the_DT
+railway_NN
+track_NN
+?_.
+He_TPP3
+was_VBD [BEMA]
+there_RB
+on_PIN
+the_DT
+spot_NN
+._.
+He_TPP3
+could_POMD
+have_VB [PEAS]
+alerted_VBN
+the_DT
+driver_NN
+to_TO
+slow_VB
+down_RP
+the_DT
+train_NN
+._.
+``_``
+People_NN
+were_VBD [SPAU]
+just_EMPH
+looking_VBG
+at_PIN
+Ravana_NN
+'s_POS
+effigy_NN
+being_VBG [WZPRES] [PASS]
+burnt_VBN
+._.
+They_TPP3
+were_VBD
+not_XX0
+seeing_VBG [PRIV]
+that_THVC
+a_DT
+train_NN
+was_VBD
+coming_VBG
+,_,
+''_''
+Sidhu_NN
+told_VBD
+reporters_NN
+here_RB
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+people_NN
+should_NEMD
+not_XX0
+indulge_VB
+in_PIN
+a_DT
+blame_NN
+game_NN
+over_IN
+the_DT
+tragedy_NN
+._.
+She_TPP3
+said_VBD [PUBV]
+Punjab_NN
+Chief_NN
+Minister_NN
+Amarinder_NN
+Singh_NN
+had_VBD [SPAU] [PEAS]
+already_RB
+ordered_VBN [SUAV]
+a_DT
+probe_NN
+and_CC
+after_IN
+four_CD
+weeks_NN
+,_,
+everyone_QUPR
+would_PRMD
+come_VB
+to_TO
+know_VB [PRIV]
+who_WP
+was_VBD [BEMA]
+at_PIN
+fault_NN
+._.
+Sidhu_NN
+said_VBD [PUBV]
+before_IN
+she_TPP3
+went_VBD
+on_PIN
+the_DT
+dais_NN
+,_,
+four_CD
+to_PIN
+five_CD
+announcements_NOMZ
+were_VBD [PASS]
+made_VBN
+from_PIN
+the_DT
+stage_NN
+,_,
+urging_VBG [SUAV]
+people_NN
+not_XX0
+to_TO
+stand_VB
+on_PIN
+railway_NN
+tracks_NN
+._.
+``_``
+They_TPP3
+were_VBD [PASS]
+told_VBN
+that_DEMO
+there_EX
+was_VBD
+enough_JJ
+space_NN
+at_PIN
+the_DT
+Dhobi_NN
+Ghat_NN
+ground_NN
+and_CC
+they_TPP3
+could_POMD
+come_VB
+there_RB
+but_CC
+the_DT
+people_NN
+did_VBD
+not_XX0
+listen_VB
+to_PIN
+the_DT
+requests_NN
+,_,
+''_''
+said_VBD [PUBV]
+Sidhu_NN
+._.
+To_PIN
+a_DT
+question_NOMZ
+on_PIN
+the_DT
+permissions_NN
+granted_VBN [SUAV] [WZPAST]
+for_PIN
+the_DT
+event_NN
+,_,
+Sidhu_NN
+said_VBD [PUBV] [THATD]
+she_TPP3
+had_VBD [PEAS]
+seen_VBN [PRIV]
+two_CD
+to_PIN
+three_CD
+permissions_NN
+which_WDT [WHSUB]
+were_VBD [BYPA]
+obtained_VBN
+by_PIN
+the_DT
+organiser_NN
+._.
+She_TPP3
+said_VBD [PUBV]
+the_DT
+Dusshera_NN
+event_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+held_VBN [PRIV]
+there_RB
+for_PIN
+the_DT
+last_JJ
+40_CD
+years_NN
+._.
+To_PIN
+a_DT
+query_NN
+,_,
+she_TPP3
+said_VBD [PUBV] [THATD]
+she_TPP3
+was_VBD [BEMA]
+just_EMPH
+15_CD
+minutes_NN
+late_TIME
+in_PIN
+attending_VBG
+the_DT
+function_NOMZ
+._.
+Sidhu_NN
+said_VBD [PUBV]
+when_RB [WHCL]
+she_TPP3
+came_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+the_DT
+incident_NN
+she_TPP3
+immediately_TIME
+went_VBD
+to_PIN
+the_DT
+hospital_NN
+to_TO
+see_VB [PRIV]
+the_DT
+patients_NN
+``_``
+I_FPP1
+even_RB
+arranged_VBD [SUAV]
+doctors_NN
+so_IN
+the_DT
+injured_JJ
+gets_VPRT
+treatment_NOMZ
+._.
+Being_VBG [PRESP] [BEMA]
+a_DT
+doctor_NN
+,_,
+I_FPP1
+provided_VBD
+medical_JJ
+treatment_NOMZ
+to_PIN
+some_QUAN
+of_PIN
+them_TPP3
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+opposition_NOMZ
+Friday_NN
+had_VBD [PEAS]
+targeted_VBN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+,_,
+a_DT
+former_JJ
+MLA_NN
+and_PHC
+wife_NN
+of_PIN
+Cabinet_NN
+minister_NN
+Navjot_NN
+Singh_NN
+Sidhu_NN
+,_,
+claiming_VBG [PUBV] [THATD] [PRESP]
+she_TPP3
+allegedly_RB
+left_VBD
+the_DT
+venue_NN
+without_PIN
+bothering_VBG
+the_DT
+victims_NN
+._.
+Speaking_VBG [PRESP]
+to_PIN
+ANI_NN
+,_,
+BJP_NN
+spokesperson_NN
+Rajesh_NN
+Honey_NN
+said_VBD [PUBV] [THATD]
+the_DT
+celebration_NOMZ
+was_VBD [PASS]
+organized_VBN
+without_PIN
+permission_NN
+._.
+``_``
+The_DT
+Congress_NN
+party_NN
+had_VBD [PEAS]
+organized_VBN
+Dussehra_NN
+celebrations_NOMZ
+without_PIN
+permission_NN
+._.
+Navjot_NN
+Singh_NN
+Sidhu_NN
+'s_POS
+wife_NN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+was_VBD [BEMA]
+the_DT
+chief_NN
+guest_NN
+at_PIN
+the_DT
+celebrations_NOMZ
+._.
+She_TPP3
+continued_VBD
+to_TO
+give_VB
+a_DT
+speech_NN
+and_PHC
+people_NN
+were_VBD
+looking_VBG
+at_PIN
+the_DT
+screen_NN
+._.
+As_IN
+the_DT
+effigy_NN
+was_VBD [PASS]
+lit_VBN
+and_CC
+the_DT
+fireworks_NN
+went_VBD
+off_PIN [STPR]
+,_,
+a_DT
+section_NOMZ
+of_PIN
+the_DT
+crowd_NN
+started_VBD
+retreating_VBG
+towards_PIN
+the_DT
+tracks_NN
+and_CC
+soon_TIME
+after_IN
+people_NN
+were_VBD [PASS]
+struck_VBN
+down_RP
+by_PIN
+the_DT
+train_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+SAD_JJ
+leader_NN
+and_CC
+former_JJ
+minister_NN
+Bikram_NN
+Singh_NN
+Majithia_NN
+had_VBD [PEAS]
+accused_VBN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+of_PIN
+running_VBG
+away_PLACE
+from_PIN
+the_DT
+accident_NN
+site_NN
+._.
+At_PIN
+least_JJ
+59_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+Friday_NN
+evening_GER
+after_IN
+a_DT
+crowd_NN
+of_PIN
+Dussehra_NN
+revellers_NN
+that_TSUB
+had_VBD [PEAS]
+spilled_VBN
+onto_PIN
+railway_NN
+tracks_NN
+while_OSUB
+watching_VBG
+the_DT
+burning_GER
+of_PIN
+a_DT
+Ravana_NN
+effigy_NN
+was_VBD [PASS]
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+near_PLACE
+Joda_NN
+Phatak_NN
+here_RB
+._.
+If_COND
+you_SPP2
+can_POMD
+boast_VB [PUBV]
+about_IN
+people_NN
+standing_VBG [WZPRES]
+on_PIN
+the_DT
+railway_NN
+tracks_VPRT
+to_TO
+attend_VB
+your_SPP2
+event_NN
+you_SPP2
+must_NEMD [SPAU]
+also_RB
+be_VB [PASS]
+held_VBN [PRIV]
+responsible_JJ
+for_PIN
+the_DT
+deaths_NN
+of_PIN
+those_DEMO
+people_NN
+when_RB
+they_TPP3
+get_VPRT
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+on_PIN
+those_DEMO
+very_AMP
+same_JJ
+tracks_NN
+._.
+Former_JJ
+minister_NN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+said_VBD [PUBV]
+Saturday_NN
+the_DT
+gateman_NN
+responsible_JJ
+for_PIN
+closing_VBG
+the_DT
+railway_NN
+barrier_NN
+could_POMD
+have_VB [PEAS]
+alerted_VBN
+the_DT
+driver_NN
+to_TO
+slow_VB
+down_RP
+the_DT
+train_NN
+as_IN
+several_QUAN
+people_NN
+were_VBD
+standing_VBG
+on_PIN
+the_DT
+rail_NN
+tracks_NN
+._.
+Sidhu_NN
+was_VBD [BEMA]
+the_DT
+chief_NN
+guest_NN
+of_PIN
+the_DT
+Dussehra_NN
+celebrations_NOMZ
+held_VBD [PRIV]
+near_PLACE
+Joda_NN
+Phatak_NN
+here_RB
+where_RB
+59_CD
+revellers_NN
+were_VBD [PASS]
+mowed_VBN
+down_RP
+by_PIN
+a_DT
+train_NN
+._.
+She_TPP3
+was_VBD [PASS]
+accused_VBN
+of_PIN
+leaving_VBG
+the_DT
+site_NN
+of_PIN
+accident_NN
+without_PIN
+bothering_VBG
+about_IN
+the_DT
+victims_NN
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+several_QUAN
+announcements_NOMZ
+were_VBD [PASS]
+made_VBN
+from_PIN
+the_DT
+stage_NN
+at_PIN
+the_DT
+event_NN
+,_,
+requesting_VBG [SUAV]
+people_NN
+to_TO
+come_VB
+inside_PLACE
+the_DT
+Dhobi_NN
+ghat_NN
+to_TO
+watch_VB
+the_DT
+burning_GER
+effigies_NN
+._.
+The_DT
+railway_NN
+man_NN
+who_WP [WHSUB]
+was_VBD [BEMA]
+responsible_PRED
+for_PIN
+closing_VBG
+the_DT
+barrier_NN
+should_NEMD
+have_VB [PEAS]
+seen_VBN [PRIV]
+that_THVC
+Dusshera_NN
+event_NN
+was_VBD
+being_VBG [PASS]
+held_VBN [PRIV]
+there_RB
+,_,
+she_TPP3
+said_VBD [PUBV]
+._.
+``_``
+Could_POMD
+he_TPP3
+not_XX0
+see_VB [PRIV] [THATD]
+the_DT
+train_NN
+coming_VBG [WZPRES]
+and_CC
+the_DT
+people_NN
+standing_VBG [WZPRES]
+on_PIN
+the_DT
+railway_NN
+track_NN
+?_.
+He_TPP3
+was_VBD [BEMA]
+there_RB
+on_PIN
+the_DT
+spot_NN
+._.
+He_TPP3
+could_POMD
+have_VB [PEAS]
+alerted_VBN
+the_DT
+driver_NN
+to_TO
+slow_VB
+down_RP
+the_DT
+train_NN
+._.
+``_``
+People_NN
+were_VBD [SPAU]
+just_EMPH
+looking_VBG
+at_PIN
+Ravana_NN
+'s_POS
+effigy_NN
+being_VBG [WZPRES] [PASS]
+burnt_VBN
+._.
+They_TPP3
+were_VBD
+not_XX0
+seeing_VBG [PRIV]
+that_THVC
+a_DT
+train_NN
+was_VBD
+coming_VBG
+,_,
+''_''
+Sidhu_NN
+told_VBD
+reporters_NN
+here_RB
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+people_NN
+should_NEMD
+not_XX0
+indulge_VB
+in_PIN
+a_DT
+blame_NN
+game_NN
+over_IN
+the_DT
+tragedy_NN
+._.
+She_TPP3
+said_VBD [PUBV]
+Punjab_NN
+Chief_NN
+Minister_NN
+Amarinder_NN
+Singh_NN
+had_VBD [SPAU] [PEAS]
+already_RB
+ordered_VBN [SUAV]
+a_DT
+probe_NN
+and_CC
+after_IN
+four_CD
+weeks_NN
+,_,
+everyone_QUPR
+would_PRMD
+come_VB
+to_TO
+know_VB [PRIV]
+who_WP
+was_VBD [BEMA]
+at_PIN
+fault_NN
+._.
+Sidhu_NN
+said_VBD [PUBV]
+before_IN
+she_TPP3
+went_VBD
+on_PIN
+the_DT
+dais_NN
+,_,
+four_CD
+to_PIN
+five_CD
+announcements_NOMZ
+were_VBD [PASS]
+made_VBN
+from_PIN
+the_DT
+stage_NN
+,_,
+urging_VBG [SUAV]
+people_NN
+not_XX0
+to_TO
+stand_VB
+on_PIN
+railway_NN
+tracks_NN
+._.
+``_``
+They_TPP3
+were_VBD [PASS]
+told_VBN
+that_DEMO
+there_EX
+was_VBD
+enough_JJ
+space_NN
+at_PIN
+the_DT
+Dhobi_NN
+Ghat_NN
+ground_NN
+and_CC
+they_TPP3
+could_POMD
+come_VB
+there_RB
+but_CC
+the_DT
+people_NN
+did_VBD
+not_XX0
+listen_VB
+to_PIN
+the_DT
+requests_NN
+,_,
+''_''
+said_VBD [PUBV]
+Sidhu_NN
+._.
+To_PIN
+a_DT
+question_NOMZ
+on_PIN
+the_DT
+permissions_NN
+granted_VBN [SUAV] [WZPAST]
+for_PIN
+the_DT
+event_NN
+,_,
+Sidhu_NN
+said_VBD [PUBV] [THATD]
+she_TPP3
+had_VBD [PEAS]
+seen_VBN [PRIV]
+two_CD
+to_PIN
+three_CD
+permissions_NN
+which_WDT [WHSUB]
+were_VBD [BYPA]
+obtained_VBN
+by_PIN
+the_DT
+organiser_NN
+._.
+She_TPP3
+said_VBD [PUBV]
+the_DT
+Dusshera_NN
+event_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+held_VBN [PRIV]
+there_RB
+for_PIN
+the_DT
+last_JJ
+40_CD
+years_NN
+._.
+To_PIN
+a_DT
+query_NN
+,_,
+she_TPP3
+said_VBD [PUBV] [THATD]
+she_TPP3
+was_VBD [BEMA]
+just_EMPH
+15_CD
+minutes_NN
+late_TIME
+in_PIN
+attending_VBG
+the_DT
+function_NOMZ
+._.
+Sidhu_NN
+said_VBD [PUBV]
+when_RB [WHCL]
+she_TPP3
+came_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+the_DT
+incident_NN
+she_TPP3
+immediately_TIME
+went_VBD
+to_PIN
+the_DT
+hospital_NN
+to_TO
+see_VB [PRIV]
+the_DT
+patients_NN
+``_``
+I_FPP1
+even_RB
+arranged_VBD [SUAV]
+doctors_NN
+so_IN
+the_DT
+injured_JJ
+gets_VPRT
+treatment_NOMZ
+._.
+Being_VBG [PRESP] [BEMA]
+a_DT
+doctor_NN
+,_,
+I_FPP1
+provided_VBD
+medical_JJ
+treatment_NOMZ
+to_PIN
+some_QUAN
+of_PIN
+them_TPP3
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+opposition_NOMZ
+Friday_NN
+had_VBD [PEAS]
+targeted_VBN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+,_,
+a_DT
+former_JJ
+MLA_NN
+and_PHC
+wife_NN
+of_PIN
+Cabinet_NN
+minister_NN
+Navjot_NN
+Singh_NN
+Sidhu_NN
+,_,
+claiming_VBG [PUBV] [THATD] [PRESP]
+she_TPP3
+allegedly_RB
+left_VBD
+the_DT
+venue_NN
+without_PIN
+bothering_VBG
+the_DT
+victims_NN
+._.
+SAD_JJ
+leader_NN
+and_CC
+former_JJ
+minister_NN
+Bikram_NN
+Singh_NN
+Majithia_NN
+had_VBD [PEAS]
+accused_VBN
+Navjot_NN
+Kaur_NN
+Sidhu_NN
+of_PIN
+running_VBG
+away_PLACE
+from_PIN
+the_DT
+accident_NN
+site_NN
+._.
+At_PIN
+least_JJ
+59_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+Friday_NN
+evening_GER
+after_IN
+a_DT
+crowd_NN
+of_PIN
+Dussehra_NN
+revellers_NN
+that_TSUB
+had_VBD [PEAS]
+spilled_VBN
+onto_PIN
+railway_NN
+tracks_NN
+while_OSUB
+watching_VBG
+the_DT
+burning_GER
+of_PIN
+a_DT
+Ravana_NN
+effigy_NN
+was_VBD [PASS]
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+near_PLACE
+Joda_NN
+Phatak_NN
+here_RB
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+on_PIN
+Friday_NN
+evening_GER
+when_RB
+at_PIN
+least_JJ
+300_CD
+people_NN
+were_VBD
+watching_VBG
+the_DT
+`_``
+Ravana_NN
+dahan_NN
+'_''
+at_PIN
+a_DT
+ground_NN
+adjacent_JJ
+to_PIN
+the_DT
+tracks_NN
+._.

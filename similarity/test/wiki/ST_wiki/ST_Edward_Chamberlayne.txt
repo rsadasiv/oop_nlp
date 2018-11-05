@@ -1,0 +1,40 @@
+Edward_NNP Chamberlayne_NNP -LRB-_-LRB- 13_CD December_NNP 1616_CD ''_'' May_NNP 1703_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ,_, known_VBN as_IN the_DT author_NN of_IN The_DT Present_NNP State_NNP of_IN England_NNP ._.
+The_DT grandson_NN of_IN Sir_NNP Thomas_NNP Chamberlayne_NNP ,_, knight_NN ,_, at_IN one_CD time_NN English_JJ ambassador_NN in_IN the_DT Low_NNP Countries_NNP ,_, and_CC son_NN of_IN Thomas_NNP Chamberlayne_NNP ,_, Edward_NNP Chamberlayne_NNP was_VBD born_VBN at_IN Oddington_NNP ,_, Gloucestershire_NNP ,_, England_NNP ,_, on_IN 13_CD December_NNP 1616_CD ._.
+He_PRP was_VBD first_JJ educated_VBN at_IN Gloucester_NNP ,_, then_RB entered_VBD St_NNP Edmund_NNP Hall_NNP ,_, Oxford_NNP ,_, at_IN Michaelmas_NNP 1634_CD ._.
+He_PRP subsequently_RB proceeded_VBD with_IN a_DT Bachelor_NN of_IN Arts_NNS -LRB-_-LRB- B.A._NNP -RRB-_-RRB- on_IN 20_CD April_NNP 1638_CD ,_, and_CC a_DT Master_NNP of_IN Arts_NNS -LRB-_-LRB- M.A._NNP -RRB-_-RRB- on_IN 6_CD March_NNP 1641_CD ._.
+During_IN a_DT part_NN of_IN 1641_CD he_PRP held_VBD the_DT office_NN of_IN rhetoric_NN reader_NN at_IN Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- When_WRB the_DT First_JJ English_NNP Civil_NNP War_NNP broke_VBD out_IN he_PRP began_VBD a_DT long_JJ continental_JJ tour_NN ,_, visiting_VBG France_NNP ,_, Spain_NNP ,_, Italy_NNP ,_, Hungary_NNP ,_, Bohemia_NNP ,_, Sweden_NNP ,_, and_CC the_DT Low_NNP Countries_NNP ._.
+At_IN the_DT Restoration_NNP he_PRP returned_VBD to_TO England_NNP ._.
+In_IN 1669_CD he_PRP became_VBD secretary_NN to_TO Charles_NNP Howard_NNP ,_, 1st_CD Earl_NNP of_IN Carlisle_NNP ,_, and_CC went_VBD to_TO Stockholm_NNP to_TO invest_VB Charles_NNP XI_NNP of_IN Sweden_NNP with_IN the_DT Order_NN of_IN the_DT Garter_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD granted_VBN the_DT degrees_NNS of_IN Doctor_NNP of_IN Laws_NNP -LRB-_-LRB- LL_NNP ._.
+D._NNP -RRB-_-RRB- at_IN Cambridge_NNP -LRB-_-LRB- January_NNP 1670_CD ``_`` 1671_CD -RRB-_-RRB- and_CC of_IN Doctor_NNP of_IN Civil_NNP Law_NNP -LRB-_-LRB- D.C.L._NNP -RRB-_-RRB- at_IN Oxford_NNP -LRB-_-LRB- 22_CD June_NNP 1672_CD -RRB-_-RRB- ._.
+About_IN 1679_CD he_PRP became_VBD tutor_NN to_TO Charles_NNP II_NNP 's_POS illegitimate_JJ son_NN ,_, Henry_NNP Fitzroy_NNP ,_, 1st_CD Duke_NNP of_IN Grafton_NNP ,_, and_CC he_PRP was_VBD subsequently_RB English_JJ tutor_NN to_TO Prince_NNP George_NNP of_IN Denmark_NNP ._.
+He_PRP was_VBD one_CD of_IN the_DT original_JJ Fellows_NNS of_IN the_DT Royal_NNP Society_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN later_RB life_NN he_PRP lived_VBD at_IN Chelsea_NNP ,_, and_CC he_PRP died_VBD there_RB in_IN May_NNP 1703_CD ._.
+He_PRP was_VBD buried_VBN on_IN 27_CD May_NNP in_IN a_DT vault_NN in_IN Chelsea_NNP churchyard_NN ._.
+His_PRP$ friend_NN Walter_NNP Harris_NNP wrote_VBD a_DT long_JJ Latin_NNP epitaph_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ best-known_JJS work_NN is_VBZ a_DT handbook_NN to_TO the_DT social_JJ and_CC political_JJ condition_NN of_IN England_NNP ,_, with_IN lists_NNS of_IN public_JJ officers_NNS and_CC statistics_NNS ,_, entitled_VBN Angliæ_NNP Notitia_NNP ,_, or_CC The_DT Present_NNP State_NNP of_IN England_NNP ;_: the_DT publication_NN was_VBD an_DT adaptation_NN of_IN L'Estat_NNP Nouveau_NNP de_IN la_NNP France_NNP -LRB-_-LRB- Paris_NNP ,_, 1661_CD -RRB-_-RRB- ._.
+The_DT first_JJ edition_NN appeared_VBD anonymously_RB in_IN 1669_CD ,_, and_CC was_VBD dedicated_VBN to_TO the_DT Earl_NNP of_IN Carlisle_NNP ._.
+Two_CD other_JJ editions_NNS ,_, with_IN the_DT author_NN 's_POS name_NN ,_, were_VBD issued_VBN later_RB in_IN the_DT same_JJ year_NN ._.
+With_IN the_DT fifth_JJ edition_NN of_IN 1671_CD is_VBZ bound_VBN up_RP the_DT first_JJ edition_NN of_IN a_DT second_JJ part_NN ,_, containing_VBG additional_JJ information_NN ;_: in_IN the_DT seventh_JJ edition_NN of_IN 1673_CD a_DT portrait_NN of_IN Charles_NNP II_NNP ,_, by_IN William_NNP Faithorne_NNP ,_, makes_VBZ its_PRP$ first_JJ appearance_NN ;_: in_IN the_DT ninth_JJ edition_NN of_IN 1676_CD is_VBZ a_DT new_JJ dedication_NN to_TO the_DT Earl_NNP of_IN Danby_NNP ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- with_IN the_DT eighteenth_NN edition_NN of_IN 1694_CD is_VBZ bound_VBN up_RP a_DT new_JJ third_JJ part_NN ,_, first_JJ issued_VBN separately_RB in_IN 1683_CD ._.
+Thomas_NNP Hearne_NNP states_VBZ that_IN Andrew_NNP Allam_NNP made_VBD major_JJ contributions_NNS ,_, to_TO the_DT sixteenth_NN edition_NN -LRB-_-LRB- 1689_CD -RRB-_-RRB- ,_, and_CC that_IN his_PRP$ information_NN was_VBD inserted_VBN by_IN Chamberlayne_NNP without_IN acknowledgment_NN ._.
+Chamberlayne_NNP issued_VBD the_DT twentieth_NN edition_NN in_IN 1702_CD ,_, and_CC after_IN his_PRP$ death_NN his_PRP$ son_NN John_NNP continued_VBD to_TO edit_VB the_DT publication_NN ._.
+The_DT twenty-first_JJ edition_NN -LRB-_-LRB- 1708_CD -RRB-_-RRB- bears_VBZ the_DT new_JJ title_NN Magnæ_NNP Britanniæ_NNP Notitia_NNP ,_, or_CC the_DT Present_NNP State_NNP of_IN Great_NNP Britain_NNP ._.
+John_NNP Chamberlayne_NNP died_VBD after_IN the_DT issue_NN of_IN the_DT twenty-second_JJ edition_NN in_IN 1723_CD ,_, but_CC fourteen_CD editions_NNS were_VBD subsequently_RB issued_VBN by_IN the_DT booksellers_NNS ,_, the_DT last_JJ being_VBG the_DT thirty-sixth_JJ and_CC bearing_VBG the_DT date_NN 1755_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Charles_NNP Henry_NNP Hull_NNP in_IN 1900_CD complained_VBD that_IN Present_NNP State_NNP of_IN England_NNP ``_`` seldom_RB receives_VBZ nowadays_RB the_DT attention_NN that_IN it_PRP deserves_VBZ ''_'' ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Hull_NNP explains_VBZ that_IN Chamberlayne_NNP 's_POS book_NN was_VBD the_DT direct_JJ impulse_NN to_TO the_DT writing_NN of_IN The_DT Political_NNP Anatomy_NNP of_IN Ireland_NNP and_CC Political_NNP Arithmetick_NNP by_IN William_NNP Petty_NNP ._.
+The_DT Present_NNP State_NNP of_IN England_NNP was_VBD plagiarised_VBN by_IN Guy_NNP Miege_NNP ,_, who_WP brought_VBD out_RP The_DT New_NNP State_NNP of_IN England_NNP in_IN 1691_CD ._.
+Although_IN both_DT Chamberlaynes_NNPS called_VBD attention_NN to_TO Miege_NNP 's_POS theft_NN ,_, Miege_NNP continued_VBD his_PRP$ handbook_NN till_IN 1748_CD ._.
+A_DT French_JJ translation_NN of_IN Chamberlayne_NNP 's_POS second_JJ edition_NN appeared_VBD in_IN 1669_CD ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Chamberlayne_NNP 's_POS other_JJ books_NNS were_VBD :_: In_IN 1653_CD Chamberlayne_NNP published_VBD a_DT volume_NN of_IN translations_NNS from_IN Italian_JJ ,_, Spanish_JJ ,_, and_CC Portuguese_NNP ,_, containing_VBG Rise_NN and_CC Fall_NN of_IN Count_NNP Olivarez_NNP ,_, The_DT Unparallel_NNP 'd_MD Imposture_NNP of_IN Mich._NNP di_NNP Molina_NNP ,_, an_DT ._.
+1641_CD ,_, and_CC The_DT Right_NNP of_IN the_DT Present_NNP King_NNP of_IN Portugal_NNP ,_, Don_NNP John_NNP the_DT Fourth_JJ ._.
+In_IN 1658_CD Chamberlayne_NNP married_JJ Susannah_NNP ,_, daughter_NN of_IN Richard_NNP Clifford_NNP ,_, by_IN whom_WP he_PRP had_VBD nine_CD children_NNS ._.
+John_NNP Chamberlayne_NNP -LRB-_-LRB- 1666_CD ``_`` 1723_CD -RRB-_-RRB- was_VBD a_DT younger_JJR son_NN ._.
+Chamberlayne_NNP 's_POS wife_NN died_VBD on_IN 17_CD December_NNP 1703_CD ,_, and_CC was_VBD buried_VBN beside_IN her_PRP$ husband_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Lee_NNP ,_, Sidney_NNP -LRB-_-LRB- 1887_CD -RRB-_-RRB- ._.
+``_`` Chamberlayne_NNP ,_, Edward_NNP -LRB-_-LRB- 1616-1703_CD -RRB-_-RRB- ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+10_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP pp_NN ._.
+8_CD ``_`` 9_CD ._.

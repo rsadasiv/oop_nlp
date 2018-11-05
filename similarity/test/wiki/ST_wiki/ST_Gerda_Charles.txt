@@ -1,0 +1,18 @@
+Gerda_NNP Charles_NNP was_VBD the_DT pseudonym_NN of_IN Edna_NNP Lipson_NNP -LRB-_-LRB- 14_CD August_NNP 1914_CD ''_'' 4_CD November_NNP 1996_CD -RRB-_-RRB- ,_, an_DT award-winning_JJ Anglo-Jewish_JJ novelist_NN and_CC author_NN ._.
+She_PRP was_VBD born_VBN in_IN Liverpool_NNP and_CC spent_VBD her_PRP$ early_JJ years_NNS there_RB ._.
+Her_PRP$ father_NN died_VBD when_WRB Edna_NNP was_VBD a_DT year_NN old_JJ ,_, throwing_VBG the_DT family_NN into_IN poverty_NN ._.
+At_IN the_DT age_NN of_IN 15_CD ,_, Edna_NNP moved_VBD to_TO London_NNP with_IN her_PRP$ mother_NN ._.
+Together_RB ,_, they_PRP ran_VBD a_DT boarding_VBG house_NN while_IN she_PRP continued_VBD her_PRP$ education_NN through_IN evening_NN classes_NNS ._.
+Lipson_NNP published_VBD her_PRP$ first_JJ novel_NN The_DT True_JJ Voice_NNP in_IN 1959_CD ._.
+A_DT Slanting_VBG Light_NN ,_, her_PRP$ third_JJ novel_NN ,_, won_VBD the_DT James_NNP Tait_NNP Black_NNP Memorial_NNP Prize_NNP in_IN 1963_CD ._.
+She_PRP met_VBD further_JJ success_NN with_IN the_DT publication_NN of_IN The_DT Destiny_NNP Waltz_NNP which_WDT won_VBD the_DT inaugural_JJ Whitbread_NNP Novel_NNP of_IN the_DT Year_NN award_NN in_IN 1971_CD ._.
+Lipson_NNP worked_VBD as_IN a_DT journalist_NN and_CC reviewer_NN for_IN various_JJ newspapers_NNS such_JJ as_IN the_DT New_NNP Statesman_NNP ,_, Daily_NNP Telegraph_NNP ,_, New_NNP York_NNP Times_NNP and_CC Jewish_JJ Chronicle_NNP ._.
+She_PRP also_RB edited_VBD an_DT anthology_NN of_IN modern_JJ Jewish_JJ short_JJ stories_NNS ._.
+Edna_NNP Lipson_NNP never_RB married_VBD and_CC lived_VBD with_IN her_PRP$ mother_NN until_IN the_DT latter_NN 's_POS death_NN in_IN 1981_CD ._.
+Much_JJ of_IN their_PRP$ lives_NNS were_VBD spent_VBN in_IN loneliness_NN and_CC economic_JJ hardship_NN ._.
+Lipson_NNP died_VBD on_IN 4_CD November_NNP 1996_CD ._.
+She_PRP is_VBZ regarded_VBN as_IN one_CD of_IN the_DT chroniclers_NNS of_IN the_DT Anglo-Jewish_JJ experience_NN ,_, alongside_IN writers_NNS such_JJ as_IN Emanuel_NNP Litvinoff_NNP ,_, Bernice_NNP Rubens_NNP ,_, Bernard_NNP Kops_NNP and_CC Arnold_NNP Wesker_NNP ._.
+Her_PRP$ posthumous_JJ papers_NNS reside_VBP in_IN a_DT collection_NN at_IN the_DT University_NNP of_IN Reading_VBG library_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT collection_NN consists_VBZ of_IN miscellaneous_JJ literary_JJ papers_NNS ,_, with_IN periodicals_NNS ,_, press_NN cuttings_NNS and_CC personal_JJ correspondence_NN ._.
+Tel_NNP Aviv_NNP University_NNP also_RB inaugurated_VBD an_DT award_NN called_VBD the_DT Gerda_NNP Charles_NNP Award_NNP ._.
+Novels_NNS Anthologies_NNS edited_VBD

@@ -1,0 +1,14 @@
+Sir_NNP Samuel_NNP Egerton_NNP Brydges_NNP ,_, 1st_CD Baronet_NNP -LRB-_-LRB- 30_CD November_NNP 1762_CD ''_'' 8_CD September_NNP 1837_CD -RRB-_-RRB- was_VBD an_DT English_JJ bibliographer_NN and_CC genealogist_NN ._.
+He_PRP was_VBD also_RB Member_NNP of_IN Parliament_NNP for_IN Maidstone_NNP from_IN 1812_CD to_TO 1818_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Educated_VBN at_IN Maidstone_NNP Grammar_NNP School_NNP and_CC The_NNP King_NNP 's_POS School_NNP ,_, Canterbury_NNP ,_, Brydges_NNP was_VBD admitted_VBN to_TO Queens_NNP '_POS College_NNP ,_, Cambridge_NNP in_IN 1780_CD ,_, though_IN he_PRP did_VBD not_RB take_VB a_DT degree_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD called_VBN to_TO the_DT bar_NN from_IN the_DT Middle_NNP Temple_NNP in_IN 1787_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP wrote_VBD some_DT novels_NNS and_CC poems_NNS ,_, now_RB forgotten_VBN ,_, but_CC rendered_VBD valuable_JJ service_NN through_IN his_PRP$ bibliographical_JJ publications_NNS ,_, Censura_NNP Literaria_NNP ,_, Titles_NNP and_CC Opinions_NNS of_IN Old_NNP English_NNP Books_NNPS -LRB-_-LRB- 10_CD vols_NNS ._.
+1805-9_CD -RRB-_-RRB- ,_, his_PRP$ editions_NNS of_IN Edward_NNP Phillips_NNP 's_POS Theatrum_NNP Poetarum_NNP Anglicanorum_NNP -LRB-_-LRB- 1800_CD -RRB-_-RRB- ,_, Arthur_NNP Collins_NNP 's_POS Peerage_NNP of_IN England_NNP -LRB-_-LRB- 1812_CD -RRB-_-RRB- ,_, and_CC of_IN many_JJ rare_JJ Elizabethan_JJ authors_NNS ._.
+He_PRP was_VBD a_DT founding_JJ member_NN of_IN the_DT Roxburghe_NNP Club_NNP ,_, a_DT publishing_NN club_NN of_IN wealthy_JJ bibliophiles_NNS ._.
+He_PRP was_VBD elected_VBN a_DT Knight_NNP Grand_NNP Commander_NNP of_IN the_DT Equestrian_NNP ,_, Secular_NNP ,_, and_CC Chapterial_NNP Order_NNP of_IN St._NNP Joachim_NNP in_IN 1807_CD ,_, at_IN a_DT Chapter_NN held_VBN in_IN Franconia_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 1789_CD ,_, the_DT Chandos_NNP barony_NN became_VBD dormant_JJ ._.
+Egerton_NNP Brydges_NNP attempted_VBD to_TO claim_VB the_DT title_NN ,_, initially_RB on_IN behalf_NN of_IN his_PRP$ older_JJR brother_NN Rev._NNP Edward_NNP Tymewell_NNP Brydges_NNP ,_, then_RB later_RB on_IN his_PRP$ own_JJ behalf_NN ._.
+The_DT litigation_NN continued_VBD from_IN 1790_CD to_TO 1803_CD ,_, before_IN the_DT claims_NNS were_VBD ultimately_RB rejected_VBN ,_, but_CC he_PRP continued_VBD to_TO style_NN himself_PRP per_IN legem_NN terrae_NN Baron_NNP Chandos_NNP of_IN Sudeley_NNP ._.
+It_PRP seems_VBZ likely_JJ that_IN not_RB only_RB was_VBD the_DT claim_NN groundless_JJ but_CC that_IN the_DT evidence_NN was_VBD forged_VBN ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- He_PRP was_VBD made_VBN a_DT baronet_NN on_IN 27_CD December_NNP 1814_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP died_VBD in_IN Geneva_NNP ._.

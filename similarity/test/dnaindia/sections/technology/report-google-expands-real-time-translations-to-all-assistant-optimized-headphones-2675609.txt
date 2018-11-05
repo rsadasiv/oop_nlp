@@ -1,0 +1,5 @@
+This past week Google updated the Pixel Buds Help page to quietly announce that real-time Google Translate is now available on all headphones that support Google Assistant.
+Previously the capability of Google Translate to follow a live conversation and relay the translation directly to someone via headphones was only supported on Pixel Buds through Pixel phones. However on Friday, as spotted by DroidLife, Google updated the Pixel Buds support page to say, "Google Translate is available on all Assistant-optimized headphones and Android phones."
+This means that if you're an owner of headphones that use Google Assistant, like the Bose QuietComfort 35 II or Sony 1000XM2 over-the-ear wireless headphones, you can utilize this feature. 
+With other companies developing headphones that support Translate, like the LG Tone SE neckbuds which arrived back in August, this was a natural step for Google to expand. Live translations are no longer Pixel or neckbud exclusive.
+

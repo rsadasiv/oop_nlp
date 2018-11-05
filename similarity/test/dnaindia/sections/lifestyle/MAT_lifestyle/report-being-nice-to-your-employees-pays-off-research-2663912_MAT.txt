@@ -1,0 +1,343 @@
+Employees_NN
+perform_VPRT
+better_JJ
+at_PIN
+their_TPP3
+jobs_NN
+when_RB
+their_TPP3
+bosses_NN
+show_VPRT [PRIV]
+compassion_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+a_DT
+study_NN
+which_WDT [WHSUB]
+suggests_VPRT [SUAV] [PUBV]
+that_THVC
+benevolent_JJ
+leaders_NN
+help_VPRT
+businesses_NOMZ
+achieve_VB
+their_TPP3
+goals_NN
+._.
+Researchers_NN
+from_PIN
+Binghamton_NN
+University_NOMZ
+in_PIN
+the_DT
+US_FPP1
+wanted_VBD
+to_TO
+determine_VB [SUAV] [PRIV]
+how_RB [WHCL]
+both_DT
+the_DT
+presence_NN
+and_PHC
+lack_NN
+of_PIN
+benevolence_NN
+affects_VPRT
+the_DT
+job_NN
+performance_NN
+of_PIN
+followers_NN
+._.
+``_``
+Being_VBG [BEMA]
+benevolent_PRED
+is_VPRT [BEMA]
+important_PRED
+because_CAUS
+it_PIT
+can_POMD
+change_VB
+the_DT
+perception_NOMZ
+your_SPP2
+followers_NN
+have_VPRT
+of_PIN
+you_SPP2
+,_,
+''_''
+said_VBD [PUBV]
+Chou-Yu_NN
+Tsai_NN
+,_,
+an_DT
+assistant_JJ
+professor_NN
+at_PIN
+Binghamton_NN
+University_NOMZ
+._.
+``_``
+If_COND
+you_SPP2
+feel_VPRT [PRIV]
+that_THVC
+your_SPP2
+leader_NN
+or_CC
+boss_NN
+actually_RB
+cares_VPRT
+about_IN
+you_SPP2
+,_,
+you_SPP2
+may_POMD
+feel_VB [PRIV]
+more_EMPH
+serious_JJ
+about_IN
+the_DT
+work_NN
+you_SPP2
+do_VPRT [PROD]
+for_PIN
+them_TPP3
+,_,
+''_''
+said_VBD [PUBV]
+Tsai_NN
+._.
+Researchers_NN
+surveyed_VBD
+nearly_DWNT
+1,000_CD
+members_NN
+of_PIN
+the_DT
+Taiwanese_JJ
+military_JJ
+and_CC
+almost_DWNT
+200_CD
+adults_NN
+working_VBG [WZPRES]
+full-time_RB
+in_PIN
+the_DT
+US_FPP1
+,_,
+and_ANDC
+looked_VBD
+at_PIN
+the_DT
+subordinate_JJ
+performance_NN
+that_TSUB
+resulted_VBD
+from_PIN
+three_CD
+different_JJ
+leadership_NN
+styles_NN
+._.
+They_TPP3
+found_VBD [PRIV]
+that_THVC
+authoritarianism-dominant_JJ
+leaders_NN
+--_:
+who_WP
+assert_VPRT [PUBV]
+absolute_JJ
+authority_NOMZ
+and_PHC
+control_NN
+,_,
+focused_VBD
+mostly_RB
+on_PIN
+completing_VBG
+tasks_NN
+at_PIN
+all_QUAN
+costs_NN
+with_PIN
+little_JJ
+consideration_NOMZ
+of_PIN
+the_DT
+well-being_NN [BEMA]
+of_PIN
+subordinates_NN
+--_:
+almost_DWNT
+always_RB
+had_VBD
+negative_JJ
+results_NN
+on_PIN
+job_NN
+performance_NN
+._.
+On_CONJ
+the_NULL
+other_NULL
+hand_NULL
+,_,
+benevolence-dominant_JJ
+leadership_NN
+--_:
+where_RB
+primary_JJ
+concern_NN
+is_VPRT [BEMA]
+the_DT
+personal_JJ
+or_CC
+familial_JJ
+well-being_NN [BEMA]
+of_PIN
+subordinates_NN
+--_:
+almost_DWNT
+always_RB
+had_VBD
+a_DT
+positive_JJ
+impact_NN
+on_PIN
+job_NN
+performance_NN
+._.
+They_TPP3
+also_RB
+found_VBD [PRIV]
+that_THVC
+classical_JJ
+paternalistic_JJ
+leadership_NN
+,_,
+which_WDT [SERE]
+combines_VPRT
+both_DT
+benevolence_NN
+and_PHC
+authoritarianism_NN
+,_,
+had_VBD
+just_EMPH
+as_RB
+strong_JJ
+an_DT
+effect_NN
+on_PIN
+subordinate_JJ
+performance_NN
+as_IN
+benevolent-dominant_JJ
+leadership_NN
+._.
+In_CONJ
+other_NULL
+words_NULL
+,_,
+showing_VBG [PRIV] [PRESP]
+no_SYNE
+compassion_NN
+to_PIN
+your_SPP2
+employees_NN
+does_VPRT
+n't_XX0 [CONT]
+bode_VB
+well_RB
+for_PIN
+their_TPP3
+job_NN
+performance_NN
+,_,
+while_OSUB
+showing_VBG [PRIV] [THATD]
+compassion_NN
+motivated_VBD
+them_TPP3
+to_TO
+be_VB [BEMA]
+better_JJ
+workers_NN
+,_,
+researchers_NN
+said_VBD [PUBV]
+._.
+The_DT
+parent_NN
+and_PHC
+child_NN
+relationship_NN
+is_VPRT [BEMA]
+the_DT
+first_JJ
+leader-follower_NN
+relationship_NN
+that_TOBJ
+people_NN
+experience_NN
+._.
+It_PIT
+can_POMD
+become_VB
+a_DT
+bit_NN
+of_PIN
+a_DT
+prototype_NN
+of_PIN
+what_WP
+we_FPP1
+expect_VPRT [PRIV]
+out_PIN
+of_PIN
+leadership_NN
+going_VBG [WZPRES]
+forward_RB
+,_,
+and_ANDC
+the_DT
+paternalistic_JJ
+leadership_NN
+style_NN
+kind_NULL
+of_HDG
+resembles_VPRT
+that_DEMO
+of_PIN
+a_DT
+parent_NN
+,_,
+''_''
+Tsai_NN
+said_VBD [PUBV]
+._.
+The_DT
+findings_GER
+imply_VPRT [PRIV] [THATD]
+that_DEMP
+showing_VBG [PRIV]
+personal_JJ
+and_PHC
+familial_JJ
+support_NN
+for_PIN
+employees_NN
+is_VPRT [BEMA]
+a_DT
+critical_JJ
+part_NN
+of_PIN
+the_DT
+leader-follower_JJ
+relationship_NN
+._.

@@ -1,0 +1,105 @@
+From_IN :_: Kulpreet_NNP Yadav_NNP <kulpreetyadav@gmail.com>_NNP Date_NNP :_: 07_CD November_NNP 2016_CD 19:00_CD Subject_NNP :_: The_DT Window_NNP at_IN the_DT End_NN of_IN The_NNP Street_NNP To_TO :_: outofprintmagazine@gmail.com_NN Rohan_NNP lived_VBD in_IN a_DT house_NN next_IN to_TO Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ ,_, towards_IN the_DT east_JJ ,_, where_WRB his_PRP$ house_NN was_VBD the_DT last_JJ and_CC beyond_IN it_PRP was_VBD the_DT city_NN park_NN ._.
+A_DT four_CD feet_NNS wall_NN separated_VBD their_PRP$ courtyards_NNS and_CC the_DT only_RB window_NN Anita_NNP could_MD see_VB in_IN his_PRP$ house_NN was_VBD always_RB closed_VBN ._.
+On_IN bright_JJ sunny_JJ days_NNS ,_, the_DT collected_VBN rainwater_NN in_IN Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ courtyard_NN seemed_VBD deep_RB enough_RB for_IN her_PRP$ to_TO imagine_VB tadpoles_NNS in_IN them_PRP these_DT days_NNS ,_, her_PRP$ hand_NN instinctively_RB reaching_VBG her_PRP$ abdomen_NNS each_DT time_NN ._.
+But_CC on_IN the_DT days_NNS when_WRB there_EX was_VBD no_DT sun_NN ,_, the_DT water_NN remained_VBD dark_JJ and_CC pregnant_JJ ,_, with_IN mercury_NN like_IN viscosity_NN that_IN turned_VBD Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ face_NN gloomy_JJ ,_, her_PRP$ palms_NNS rubbing_VBG the_DT tears_NNS into_IN her_PRP$ cheeks_NNS until_IN she_PRP shivered_VBD ._.
+The_DT rain_NN ,_, without_IN her_PRP$ knowing_VBG ,_, swung_VBD her_PRP$ mood_NN ,_, overtaking_VBG her_PRP$ hormones_NNS ._.
+Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN was_VBD one_CD of_IN the_DT oldest_JJS ,_, the_DT decaying_VBG Mangalorean_JJ tiles_NNS on_IN its_PRP$ canopy_JJ an_DT interesting_JJ pattern_NN of_IN black_JJ ,_, red_JJ and_CC gray_JJ ,_, and_CC Anita_NNP often_RB imagined_VBD her_PRP$ name_NN in_IN them_PRP ,_, an_DT exercise_NN which_WDT left_VBD her_PRP guilty_JJ ''_'' <sup>_VB ~_CD </sup>_NNP How_WRB can_MD you_PRP think_VB of_IN another_DT man_NN ,_, someone_NN who_WP is_VBZ forty_JJ ,_, and_CC married_JJ ,_, and_CC insane_JJ ,_, and_CC out_IN of_IN job_NN ,_, and_CC a_DT singer_NN of_IN some_DT sort_NN ,_, a_DT failure_NN ,_, <sup>_VB TM_NNP </sup>_NNP Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ mother_NN had_VBD once_RB said_VBN ,_, and_CC Anita_NNP had_VBD been_VBN worried_VBN ,_, not_RB because_IN she_PRP was_VBD scared_VBN of_IN her_PRP$ mother_NN ,_, but_CC because_IN her_PRP$ mother_NN could_MD read_VB her_PRP$ adult_NN thoughts_NNS ._.
+But_CC Anita_NNP liked_VBD the_DT way_NN Rohan_JJ walked_VBD ,_, looked_VBD at_IN her_PRP ,_, and_CC told_VBD her_PRP stories_NNS about_IN another_DT world_NN ,_, his_PRP$ finger_NN pointed_VBD towards_IN the_DT direction_NN she_PRP knew_VBD was_VBD the_DT sea_NN ,_, a_DT world_NN where_WRB happiness_NN could_MD be_VB shared_VBN and_CC the_DT ways_NNS of_IN the_DT world_NN unimportant_JJ ._.
+<sup>_NNP ~_NNP </sup>_NNP You_PRP know_VBP what_WP Anita_NNP ,_, only_RB a_DT few_JJ have_VBP the_DT courage_NN to_TO conquer_VB their_PRP$ fate_NN ._. '_''
+<sup>_NNP ~_NNP </sup>_NNP And_CC do_VB you_PRP have_VBP that_DT courage_NN ?_.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP had_VBD smiled_VBN when_WRB Anita_NNP had_VBD asked_VBN this_DT question_NN ,_, scratched_VBD his_PRP$ three-day_JJ old_JJ stubble_NN and_CC said_VBD ,_, his_PRP$ voice_NN bordering_VBG on_IN uncertainty_NN ,_, <sup>_VBP ~_CD </sup>_JJ Of_IN course_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_NNP ~_NNP </sup>_NNP People_NNS say_VBP you_PRP are_VBP a_DT failure_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP That_WDT had_VBD sent_VBN him_PRP away_RB ,_, but_CC when_WRB he_PRP was_VBD about_IN ten_CD feet_NNS from_IN her_PRP ,_, he_PRP turned_VBD and_CC said_VBD ,_, <sup>_VB ~_CD </sup>_NNP Failure_NN is_VBZ not_RB a_DT word_NN in_IN my_PRP$ dictionary_JJ ._.
+Indecisiveness_NN is_VBZ ._.
+The_DT day_NN I_PRP decide_VBP to_TO succeed_VB ,_, it_PRP will_MD all_RB be_VB over_RB ._.
+<sup>_JJ TM_NNP </sup>_NNP Anita_NNP wanted_VBD to_TO ask_VB him_PRP what_WP was_VBD stopping_VBG him_PRP but_CC she_PRP didn_VBD <sup>_JJ TM_NNP </sup>_NNP t_NN ,_, just_RB let_VB him_PRP go_VB ,_, watching_VBG his_PRP$ steps_NNS that_WDT looked_VBD unsteady_JJ ,_, and_CC his_PRP$ back_JJ bowed_VBD ,_, as_IN if_IN he_PRP was_VBD walking_VBG uphill_JJ ._.
+Anita_NNP was_VBD not_RB sure_JJ if_IN her_PRP$ mother_NN had_VBD shared_VBN Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ fondness_NN for_IN Rohan_NNP with_IN her_PRP$ father_NN ,_, a_DT semi-retired_JJ shopkeeper_NN ,_, who_WP worked_VBD only_RB four_CD hours_NNS a_DT day_NN ,_, and_CC rarely_RB spoke_VBD of_IN anything_NN other_JJ than_IN money_NN ._.
+Her_PRP$ brother_NN ,_, ten_CD years_NNS older_JJR ,_, was_VBD married_VBN with_IN a_DT child_NN and_CC settled_VBN in_IN a_DT town_NN two_CD hundred_CD kilometers_NNS away_RB ;_: he_PRP loved_VBD his_PRP$ world_NN so_RB much_RB that_IN he_PRP rarely_RB visited_VBD home_NN ._.
+\*_SYM Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ mother_NN had_VBD died_VBN the_DT previous_JJ year_NN ,_, the_DT year_NN in_IN which_WDT there_EX was_VBD no_DT rain_NN ,_, and_CC now_RB with_IN her_PRP$ anniversary_NN just_RB a_DT week_NN away_RB ,_, Anita_NNP recalled_VBD what_WP she_PRP had_VBD said_VBN when_WRB Anita_NNP had_VBD returned_VBN home_NN blamed_VBN by_IN her_PRP$ husband_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ family_NN for_IN his_PRP$ death_NN ._.
+Her_PRP$ mother_NN confronted_VBD her_PRP$ even_RB before_IN Anita_NNP could_MD enter_VB the_DT house_NN ._.
+<sup>_JJ ~_NN </sup>_IN I_PRP always_RB knew_VBD you_PRP would_MD be_VB a_DT boy_NN when_WRB you_PRP were_VBD inside_IN me_PRP ,_, because_IN mothers_NNS know_VBP ,_, don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD ask_VB how_WRB ,_, but_CC when_WRB you_PRP were_VBD born_VBN a_DT girl_NN ,_, I_PRP knew_VBD something_NN was_VBD amiss_JJ ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_NNP ~_NNP </sup>_NNP But_CC Ma_NNP ,_, how_WRB does_VBZ it_PRP make_VB a_DT difference_NN ._.
+Think_VB of_IN me_PRP as_IN your_PRP$ son_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_NNP ~_NNP </sup>_NNP Look_VB ,_, you_PRP should_MD have_VB been_VBN a_DT boy_NN ;_: you_PRP even_RB want_VBP to_TO be_VB one_CD ,_, even_RB now_RB ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_NNP ~_NNP </sup>_NNP No_NNP ,_, that_WDT is_VBZ not_RB what_WP I_PRP meant_VBD ._.
+I_PRP can_MD be_VB your_PRP$ boy_NN even_RB when_WRB I_PRP am_VBP a_DT girl_NN ''_'' <sup>_VB TM_NNP </sup>_NNP <sup>_VBD ~_CD </sup>_IN I_PRP think_VBP you_PRP are_VBP a_DT \*_NN bad_JJ omen_NNS \*_SYM ,_, yes_UH ,_, that_DT is_VBZ what_WP you_PRP are_VBP ._.
+<sup>_JJ TM_NNP </sup>_NNP Her_PRP$ mother_NN repeated_VBN ,_, <sup>_VB ~_CD </sup>_IN you_PRP hear_VBP me_PRP ,_, \*_SYM bad_JJ omen_NNS \*_SYM ._.
+<sup>_JJ TM_NNP </sup>_NNP This_DT was_VBD how_WRB Anita_NNP ,_, the_DT widow_NN ,_, who_WP should_MD have_VB been_VBN a_DT boy_NN ,_, and_CC whose_WP$ husband_NN died_VBD because_IN of_IN her_PRP$ \*_NN bad_JJ omen_NNS \*_SYM ,_, was_VBD welcomed_VBN back_RB home_NN ._.
+Her_PRP$ mother-in-law_NN had_VBD said_VBN the_DT same_JJ words_NNS ,_, <sup>_VBP ~_CD </sup>_JJ \*_SYM Bad_JJ omen_NNS \*_SYM ._.
+<sup>_JJ TM_NNP </sup>_NN For_IN six_CD months_NNS Anita_NNP stared_VBD back_RB in_IN the_DT mirror_NN and_CC observed_VBD the_DT woman_NN as_IN she_PRP shrank_VBD each_DT day_NN ._.
+Her_PRP$ body_NN was_VBD taking_VBG revenge_NN ,_, turning_VBG her_PRP$ more_JJR womanly_RB ,_, as_IN her_PRP$ breasts_NNS enlarged_JJ ,_, the_DT waist_NN narrowed_VBN ,_, and_CC hips_NNS widened_VBD ._.
+Was_VBD her_PRP$ body_NN fighting_VBG with_IN the_DT memory_NN of_IN her_PRP$ mother_NN and_CC the_DT fact_NN that_IN she_PRP had_VBD accused_VBN her_PRP$ of_IN being_VBG a_DT boy_NN ,_, when_WRB she_PRP could_MD be_VB such_JJ a_DT beautiful_JJ woman_NN ?_.
+\*_SYM The_DT window_NN of_IN Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN ,_, like_IN always_RB ,_, was_VBD closed_VBN ._.
+But_CC this_DT afternoon_NN Anita_NNP thought_VBD she_PRP saw_VBD a_DT shadow_NN in_IN it_PRP ._.
+She_PRP angled_VBD her_PRP$ face_NN for_IN a_DT better_JJR view_NN and_CC yes_RB indeed_RB there_EX was_VBD someone_NN watching_VBG her_PRP ._.
+It_PRP had_VBD to_TO be_VB Rohan_JJ ._.
+His_PRP$ wife_NN was_VBD out_IN for_IN her_PRP$ job_NN and_CC Anita_NNP knew_VBD there_EX could_MD be_VB no_DT one_NN else_RB ._.
+The_DT servants_NNS must_MD have_VB retired_VBN to_TO their_PRP$ quarters_NNS at_IN the_DT back_NN of_IN the_DT house_NN for_IN the_DT afternoon_NN nap_NN ._.
+Is_VBZ he_PRP watching_VBG her_PRP$ ?_.
+She_PRP waved_VBD nervously_RB ,_, but_CC the_DT figure_NN didn_NN <sup>_VBD TM_NNP </sup>_NNP t_VBD move_NN ._.
+Anita_NNP pulled_VBD the_DT curtain_NN and_CC got_VBD back_RB inside_RB ,_, blaming_VBG herself_PRP for_IN an_DT errant_JJ fantasy_NN which_WDT was_VBD making_VBG her_PRP$ to_TO hallucinate_VB ._.
+After_IN drinking_VBG a_DT glass_NN of_IN water_NN when_WRB she_PRP returned_VBD to_TO the_DT window_NN ,_, there_EX was_VBD no_DT one_NN ._.
+But_CC something_NN has_VBZ begun_VBN to_TO stir_VB inside_IN her_PRP$ now_RB ``_`` she_PRP thought_VBD of_IN the_DT tadpoles_NNS in_IN the_DT collected_VBN rainwater_NN in_IN the_DT courtyard_NN ``_`` and_CC she_PRP wanted_VBD that_IN movement_NN to_TO stop_VB ._.
+She_PRP walked_VBD out_IN of_IN the_DT house_NN and_CC without_IN looking_VBG left_VBN and_CC right_JJ headed_VBN straight_RB for_IN Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN where_WRB she_PRP paused_VBD at_IN the_DT gate_NN ._.
+It_PRP was_VBD unlatched_JJ and_CC so_IN she_PRP pushed_VBD it_PRP and_CC walked_VBD in_IN ,_, and_CC pressed_VBD the_DT bell_NN ,_, and_CC strained_VBD her_PRP$ senses_NNS to_TO hear_VB it_PRP somewhere_RB inside_RB ,_, and_CC when_WRB she_PRP didn_VBD <sup>_JJ TM_NNP </sup>_NNP t_NN ,_, she_PRP tried_VBD again_RB ._.
+A_DT worry_NN gripped_VBD her_PRP ._.
+\*_SYM Is_VBZ Rohan_NNP well_RB ?_.
+\*_SYM Anita_NNP walked_VBD through_IN the_DT lawn_NN and_CC reached_VBD the_DT back_NN of_IN the_DT house_NN and_CC startled_VBD a_DT few_JJ hens_NNS which_WDT ran_VBD for_IN cover_NN as_IN she_PRP looked_VBD in_IN the_DT direction_NN of_IN the_DT servant_JJ <sup>_NN TM_NNP </sup>_NNP s_VBZ room_NN ._.
+There_EX was_VBD no_DT sign_NN of_IN life_NN ._.
+She_PRP turned_VBD her_PRP$ attention_NN back_RB towards_IN Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN ,_, pushed_VBD the_DT kitchen_NN door_NN ,_, and_CC moved_VBD indoors_NNS ._.
+It_PRP was_VBD the_DT first_JJ time_NN she_PRP had_VBD got_VBN into_IN Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN and_CC the_DT unfamiliarity_NN of_IN the_DT house_NN ,_, together_RB with_IN its_PRP$ silence_NN and_CC the_DT smell_NN ,_, hit_VBD her_PRP with_IN dislike_NN ._.
+As_IN she_PRP moved_VBD further_RBR inside_IN ,_, she_PRP heard_VBD muffled_VBN sounds_NNS ._.
+She_PRP followed_VBD the_DT sounds_NNS and_CC was_VBD soon_RB at_IN the_DT bedroom_NN door_NN which_WDT was_VBD ajar_NN ._.
+There_EX was_VBD Rohan_NNP ,_, a_DT woman_NN on_IN his_PRP$ lap_NN who_WP was_VBD writhing_VBG and_CC turning_VBG ,_, her_PRP$ head_NN thrown_VBN back_RB ,_, back_RB arched_JJ ,_, as_IN he_PRP gyrated_VBD his_PRP$ middle_JJ gently_RB ._.
+His_PRP$ half-open_JJ eyes_NNS met_VBD Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ ,_, and_CC she_PRP saw_VBD his_PRP$ face_NN contort_NN as_IN if_IN in_IN an_DT extended_JJ climax_NN ,_, or_CC maybe_RB ,_, the_DT anticipation_NN of_IN it_PRP ._.
+He_PRP was_VBD all_DT naked_JJ ,_, wild_JJ and_CC newborn_JJ ,_, and_CC Anita_NNP imagined_VBD ,_, this_DT is_VBZ what_WP her_PRP$ mother_NN meant_VBD her_PRP to_TO be_VB ,_, a_DT man_NN ,_, who_WP was_VBD free_JJ ,_, and_CC fearless_JJ ,_, untouched_JJ by_IN failure_NN ,_, even_RB in_IN the_DT face_NN of_IN it_PRP ._.
+How_WRB wrong_JJ her_PRP$ mother_NN was_VBD ,_, because_IN as_IN a_DT woman_NN all_DT Anita_NNP wanted_VBD at_IN that_DT moment_NN was_VBD to_TO be_VB with_IN Rohan_NNP ,_, and_CC match_VB the_DT rhythm_NN of_IN his_PRP$ body_NN and_CC extend_VB the_DT freedom_NN that_IN she_PRP thought_VBD she_PRP could_MD see_VB on_IN his_PRP$ face_NN ._.
+She_PRP closed_VBD her_PRP$ eyes_NNS and_CC imagined_VBN herself_PRP in_IN the_DT lap_NN of_IN Rohan_NNP ._.
+But_CC her_PRP$ eyes_NNS sprung_VBN open_JJ within_IN seconds_NNS :_: \*_SYM Like_IN Rohan_NNP has_VBZ betrayed_VBN his_PRP$ wife_NN ,_, will_MD he_PRP betray_VB me_PRP too_RB ?_.
+\*_SYM She_PRP turned_VBD and_CC left_VBD ._.
+\*_SYM The_DT rains_NNS have_VBP been_VBN incessant_JJ this_DT year_NN ._.
+Someone_NN said_VBD it_PRP was_VBD due_JJ to_TO global_JJ warming_NN ,_, people_NNS running_VBG air-conditioners_NNS and_CC aircraft_NN flying_VBG above_IN them_PRP ,_, things_NNS that_WDT had_VBD weakened_VBN the_DT sky_NN through_IN which_WDT the_DT sun_NN came_VBD in_IN more_JJR harshly_RB ,_, and_CC the_DT impunity_NN with_IN which_WDT it_PRP was_VBD all_DT going_VBG ,_, the_DT world_NN would_MD be_VB bald_JJ in_IN no_DT time_NN ._.
+But_CC it_PRP still_RB might_MD take_VB a_DT few_JJ hundred_CD years_NNS ,_, another_DT said_VBD ,_, and_CC that_WDT brought_VBD Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ fear_NN in_IN check_NN ._.
+She_PRP had_VBD not_RB seen_VBN Rohan_NNP since_IN that_DT day_NN ._.
+She_PRP checked_VBD the_DT window_NN regularly_RB ,_, but_CC no_DT shadow_NN ever_RB crossed_VBD it_PRP and_CC it_PRP remained_VBD shut_VBN ._.
+\*_SYM Who_WP was_VBD that_IN woman_NN with_IN him_PRP ?_.
+\*_SYM On_IN the_DT day_NN of_IN her_PRP$ mother_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ anniversary_NN ,_, there_EX was_VBD a_DT knock_VB on_IN the_DT door_NN ,_, but_CC before_IN Anita_NNP got_VBD up_RP to_TO open_VB it_PRP she_PRP instinctively_RB checked_VBD the_DT window_NN of_IN Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN and_CC got_VBD back_RB inside_IN with_IN a_DT cupped_JJ hand_NN covering_VBG her_PRP$ mouth_NN ._.
+The_DT window_NN was_VBD open_JJ ._.
+She_PRP heard_VBD the_DT knock_VB again_RB ._.
+Why_WRB was_VBD the_DT person_NN at_IN the_DT door_NN not_RB using_VBG the_DT doorbell_NN ?_.
+She_PRP waited_VBD and_CC when_WRB her_PRP$ father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ voice_NN reached_VBD her_PRP ,_, she_PRP opened_VBD the_DT door_NN ,_, <sup>_VBP ~_CD </sup>_JJ Why_WRB were_VBD you_PRP not_RB opening_VBG the_DT door_NN ?_.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP stumbled_VBD past_IN her_PRP ,_, two_CD jute_NN bags_NNS in_IN his_PRP$ hands_NNS ,_, and_CC started_VBD to_TO inspect_VB the_DT rooms_NNS ._.
+One_CD of_IN the_DT mangos_NN slid_VBD out_RP from_IN a_DT bag_NN and_CC rolled_VBD away_RB from_IN Anita_NNP ._.
+<sup>_NNP ~_NNP </sup>_NNP Who_WP was_VBD with_IN you_PRP ?_.
+<sup>_JJ TM_NNP </sup>_NNP This_DT was_VBD for_IN the_DT first_JJ time_NN Anita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ father_NN had_VBD accused_VBN her_PRP$ like_IN this_DT ._.
+So_RB this_DT was_VBD the_DT reason_NN he_PRP was_VBD talking_VBG less_RBR with_IN her_PRP$ ever_RB since_IN her_PRP$ mother_NN had_VBD died_VBN ._.
+<sup>_NNP ~_NNP </sup>_NNP Answer_NNP me_PRP ?_.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP shouted_VBD ._.
+<sup>_JJ ~_NN </sup>_IN I_PRP was_VBD with_IN Rohan_NNP ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_VBD ~_CD </sup>_IN I_PRP knew_VBD it_PRP ._.
+Your_PRP$ mother_NN also_RB knew_VBD it_PRP ,_, and_CC that_DT is_VBZ the_DT reason_NN she_PRP is_VBZ dead_JJ now_RB ._.
+Where_WRB is_VBZ that_IN bastard_NN now_RB ?_.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP threw_VBD the_DT bags_NNS ._.
+Along_IN with_IN mangoes_NNS now_RB tomatoes_NNS and_CC potatoes_NNS also_RB spilled_VBD on_IN the_DT floor_NN ._.
+Anita_NNP pointed_VBD a_DT finger_NN towards_IN the_DT open_JJ window_NN and_CC that_IN sent_VBD her_PRP$ father_NN out_RP ,_, marching_VBG like_IN a_DT medieval_JJ army_NN General_NNP ._.
+She_PRP walked_VBD over_IN and_CC stepped_VBD on_IN a_DT tomato_NN watching_VBG the_DT juice_NN escape_NN around_IN her_PRP$ feet_NNS and_CC through_IN her_PRP$ toe_NN fingers_NNS ._.
+It_PRP felt_VBD good_JJ ._.
+She_PRP did_VBD it_PRP with_IN another_DT tomato_NN and_CC continued_VBD till_IN all_DT the_DT tomatoes_NNS were_VBD smashed_VBN and_CC the_DT floor_NN resembled_VBD a_DT minor_JJ battlefield_NN ._.
+But_CC the_DT war_NN was_VBD incomplete_JJ and_CC there_EX was_VBD a_DT need_NN for_IN more_JJR drama_NN ._.
+Anita_NNP brought_VBD a_DT bottle_NN of_IN tomato_NN ketchup_NN from_IN the_DT kitchen_NN and_CC as_IN she_PRP opened_VBD it_PRP she_PRP swirled_VBD it_PRP around_IN her_PRP ,_, the_DT red_JJ ketchup_NN flying_VBG away_RP like_IN coagulated_VBN blood_NN ._.
+Finally_RB ,_, after_IN removing_VBG her_PRP$ clothes_NNS she_PRP sat_VBD down_RP in_IN it_PRP naked_JJ and_CC tasted_VBD some_DT of_IN the_DT pulp_NN from_IN the_DT floor_NN using_VBG her_PRP$ finger_NN ._.
+It_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD taste_NN of_IN anything_NN or_CC maybe_RB her_PRP$ senses_NNS had_VBD died_VBN ._.
+When_WRB she_PRP stepped_VBD out_IN of_IN the_DT house_NN ten_NN minutes_NNS later_RB ,_, it_PRP had_VBD begun_VBN to_TO rain_VB ,_, and_CC she_PRP couldn_VBZ <sup>_JJ TM_NNP </sup>_NNP t_VBD see_VB Rohan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ window_NN clearly_RB ._.
+She_PRP turned_VBD her_PRP$ face_NN up_IN to_TO take_VB on_RP the_DT rain_NN drops_VBZ ,_, and_CC closed_VBD her_PRP$ eyes_NNS ._.
+The_DT tomato_NN juice_NN and_CC ketchup_NN slid_VBD from_IN her_PRP$ body_NN and_CC mixed_JJ with_IN the_DT collected_VBN rainwater_NN at_IN her_PRP$ feet_NNS ._.
+\*_SYM Where_WRB is_VBZ my_PRP$ father_NN ?_.
+Is_VBZ Rohan_NNP dead_JJ ?_.
+\*_SYM She_PRP got_VBD back_RB in_IN ,_, changed_VBD into_IN new_JJ clothes_NNS ,_, admired_VBN herself_PRP in_IN the_DT mirror_NN ,_, and_CC picked_VBD up_RP her_PRP$ packed_JJ suitcase_NN ._.
+It_PRP was_VBD time_NN to_TO go_VB ._.
+When_WRB she_PRP paused_VBD to_TO look_VB at_IN the_DT window_NN one_CD last_JJ time_NN ,_, she_PRP noticed_VBD someone_NN standing_NN there_RB ._.
+It_PRP was_VBD Rohan_NNP and_CC he_PRP was_VBD smiling_VBG ._.
+He_PRP looked_VBD down_RP for_IN a_DT fraction_NN of_IN a_DT second_JJ and_CC she_PRP heard_VBD a_DT gunshot_NN ._.
+Anita_NNP smiled_VBD and_CC waved_VBD back_RB ._.
+Before_IN leaving_VBG the_DT house_NN ,_, she_PRP dialed_VBD the_DT number_NN ,_, <sup>_VBP ~_CD </sup>_JJ There_EX has_VBZ been_VBN a_DT murder_NN in_IN the_DT house_NN next_JJ door_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP She_PRP gave_VBD the_DT address_NN to_TO the_DT police_NN and_CC walked_VBD away_RB ,_, suitcase_NN in_IN hand_NN ,_, splashing_VBG through_IN the_DT collected_VBN rainwater_NN ._.
+Anita_NNP was_VBD free_JJ at_IN last_JJ ._.

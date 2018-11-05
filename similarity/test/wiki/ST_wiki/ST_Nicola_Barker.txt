@@ -1,0 +1,8 @@
+Nicola_NNP Barker_NNP -LRB-_-LRB- born_VBN 30_CD March_NNP 1966_CD -RRB-_-RRB- is_VBZ an_DT English_JJ novelist_NN and_CC short_JJ story_NN writer_NN ._.
+She_PRP was_VBD born_VBN in_IN Ely_NNP ,_, Cambridgeshire_NNP ,_, England_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- When_WRB she_PRP was_VBD still_RB young_JJ her_PRP$ parents_NNS left_VBD England_NNP and_CC settled_VBN in_IN South_NNP Africa_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Typically_RB she_PRP writes_VBZ about_IN damaged_VBN or_CC eccentric_JJ people_NNS in_IN mundane_JJ situations_NNS ,_, and_CC has_VBZ a_DT fondness_NN for_IN bleak_JJ ,_, isolated_JJ settings_NNS ._.
+Wide_NNP Open_NNP and_CC Behindlings_NNP are_VBP set_VBN respectively_RB on_IN the_DT Isle_NNP of_IN Sheppey_NNP and_CC Canvey_NNP Island_NNP ._.
+Her_PRP$ 2004_CD novel_NN ,_, Clear_NNP ,_, is_VBZ set_VBN in_IN London_NNP during_IN David_NNP Blaine_NNP 's_POS Above_NNP the_DT Below_NNP 44-day_JJ fast_RB in_IN London_NNP in_IN 2003_CD ._.
+Barker_NNP 's_POS novel_NN Darkmans_NNPS won_VBD the_DT 2008_CD Hawthornden_NNP Prize_NNP ._.
+Patrick_NNP Ness_NNP 's_POS review_NN in_IN The_DT Guardian_NNP described_VBD the_DT book_NN as_IN ``_`` phenomenally_RB good_JJ ''_'' despite_IN it_PRP being_VBG a_DT ``_`` 838-page_JJ epic_NN with_IN little_JJ describable_JJ plot_NN ,_, taking_VBG place_NN over_RB just_RB a_DT few_JJ days_NNS and_CC set_VBN in_IN ..._: Ashford_NNP ''_'' -LRB-_-LRB- 4_LS -RRB-_-RRB-

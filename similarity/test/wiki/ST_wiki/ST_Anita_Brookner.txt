@@ -1,0 +1,22 @@
+Anita_NNP Brookner_NNP CBE_NNP -LRB-_-LRB- 16_CD July_NNP 1928_CD ''_'' 10_CD March_NNP 2016_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- -RRB-_-RRB- was_VBD an_DT English_JJ award-winning_JJ novelist_NN and_CC art_NN historian_NN ._.
+She_PRP was_VBD Slade_NNP Professor_NNP of_IN Fine_NNP Art_NNP at_IN the_DT University_NNP of_IN Cambridge_NNP from_IN 1967_CD to_TO 1968_CD and_CC was_VBD the_DT first_JJ woman_NN to_TO hold_VB this_DT visiting_VBG professorship_NN ._.
+She_PRP was_VBD awarded_VBN the_DT 1984_CD Man_NN Booker_NNP Prize_NNP for_IN her_PRP$ novel_NN Hotel_NNP du_NNP Lac_NNP ._.
+Brookner_NNP was_VBD born_VBN in_IN Herne_NNP Hill_NNP ,_, a_DT suburb_NN of_IN London_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP was_VBD the_DT only_JJ child_NN of_IN Newson_NNP Bruckner_NNP ,_, a_DT Jewish_JJ immigrant_JJ from_IN Poland_NNP ,_, and_CC Maude_NNP Schiska_NNP ,_, a_DT singer_NN whose_WP$ father_NN had_VBD emigrated_VBN from_IN Poland_NNP and_CC founded_VBD a_DT tobacco_NN factory_NN ._.
+Maude_RB changed_VBD the_DT family_NN 's_POS surname_NN to_TO Brookner_NNP because_IN of_IN anti-German_JJ sentiment_NN in_IN Britain_NNP ._.
+Anita_NNP Brookner_NNP had_VBD a_DT lonely_JJ childhood_NN ,_, although_IN her_PRP$ grandmother_NN and_CC uncle_NN lived_VBD with_IN the_DT family_NN ,_, and_CC her_PRP$ parents_NNS ,_, secular_JJ Jews_NNPS ,_, opened_VBD their_PRP$ house_NN to_TO Jewish_JJ refugees_NNS escaping_VBG Nazi_JJ persecution_NN during_IN the_DT 1930s_NNS and_CC World_NNP War_NNP II_NNP ._.
+oeI_NNP have_VBP said_VBN that_IN I_PRP am_VBP one_CD of_IN the_DT loneliest_JJS women_NNS in_IN London_NNP ''_'' she_PRP said_VBD in_IN her_PRP$ Paris_NNP Review_NNP interview_NN -LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- She_PRP was_VBD educated_VBN at_IN the_DT private_JJ James_NNP Allen_NNP 's_POS Girls_NNP '_POS School_NNP ._.
+In_IN 1949_CD she_PRP received_VBD a_DT BA_NNP in_IN History_NN from_IN King_NNP 's_POS College_NNP London_NNP ,_, and_CC in_IN 1953_CD a_DT doctorate_NN in_IN Art_NNP History_NN from_IN the_DT Courtauld_NNP Institute_NNP of_IN Art_NNP ,_, University_NNP of_IN London_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Brookner_NNP never_RB married_VBD ,_, but_CC took_VBD care_NN of_IN her_PRP$ parents_NNS as_IN they_PRP aged_VBD ._.
+She_PRP died_VBD on_IN 10_CD March_NNP 2016_CD ,_, at_IN the_DT age_NN of_IN 87_CD ._.
+In_IN 1967_CD ,_, she_PRP became_VBD the_DT first_JJ woman_NN to_TO hold_VB the_DT Slade_NNP Professorship_NNP of_IN Fine_NNP Art_NNP at_IN Cambridge_NNP University_NNP ._.
+She_PRP was_VBD promoted_VBN to_TO Reader_NNP at_IN the_DT Courtauld_NNP Institute_NNP of_IN Art_NNP in_IN 1977_CD ,_, where_WRB she_PRP worked_VBD until_IN her_PRP$ retirement_NN in_IN 1988_CD ._.
+Among_IN her_PRP$ students_NNS at_IN the_DT Courtauld_NNP was_VBD noted_VBN art_NN historian_NN Olivier_NNP Berggruen_NNP ,_, whose_WP$ graduate_NN work_NN she_PRP advised_VBD ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- She_PRP was_VBD a_DT Fellow_NNP of_IN King_NNP 's_POS College_NNP London_NNP and_CC of_IN Murray_NNP Edwards_NNP College_NNP ,_, Cambridge_NNP ._.
+Already_RB a_DT published_VBN author_NN of_IN nonfiction_NN ,_, Brookner_NNP published_VBD her_PRP$ first_JJ novel_NN ,_, A_DT Start_NNP In_NNP Life_NNP -LRB-_-LRB- 1981_CD -RRB-_-RRB- ,_, at_IN the_DT age_NN of_IN 53_CD ._.
+Thereafter_RB ,_, she_PRP published_VBD roughly_RB a_DT novel_NN a_DT year_NN ._.
+Brookner_NNP was_VBD highly_RB regarded_VBN as_IN a_DT stylist_NN ._.
+Her_PRP$ novels_NNS explore_VBP themes_NNS of_IN emotional_JJ loss_NN and_CC difficulties_NNS associated_VBN with_IN fitting_JJ into_IN society_NN ,_, and_CC typically_RB depict_VB intellectual_JJ ,_, middle-class_JJ women_NNS ,_, who_WP suffer_VBP isolation_NN and_CC disappointments_NNS in_IN love_NN ._.
+Many_JJ of_IN Brookner_NNP 's_POS characters_NNS are_VBP the_DT children_NNS of_IN European_JJ immigrants_NNS to_TO Britain_NNP ;_: a_DT number_NN appear_VBP to_TO be_VB of_IN Jewish_JJ descent_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- Hotel_NNP du_NNP Lac_NNP -LRB-_-LRB- 1984_CD -RRB-_-RRB- ,_, her_PRP$ fourth_JJ novel_NN ,_, was_VBD awarded_VBN the_DT Booker_NNP Prize_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB-

@@ -1,0 +1,40 @@
+Ada_NNP Cambridge_NNP -LRB-_-LRB- 21_CD November_NNP 1844_CD ''_'' 19_CD July_NNP 1926_CD -RRB-_-RRB- ,_, later_RB known_VBN as_IN Ada_NNP Cross_NNP ,_, was_VBD an_DT English-born_JJ Australian_JJ writer_NN ._.
+She_PRP wrote_VBD more_JJR than_IN 25_CD works_NNS of_IN fiction_NN ,_, three_CD volumes_NNS of_IN poetry_NN and_CC two_CD autobiographical_JJ works_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Many_JJ of_IN her_PRP$ novels_NNS were_VBD serialised_VBN in_IN Australian_JJ newspapers_NNS but_CC never_RB published_VBN in_IN book_NN form_NN ._.
+While_IN she_PRP was_VBD known_VBN to_TO friends_NNS and_CC family_NN by_IN her_PRP$ married_JJ name_NN ,_, Ada_NNP Cross_NNP ,_, her_PRP$ newspaper_NN readers_NNS knew_VBD her_PRP as_IN A.C._NNP ._.
+She_PRP later_RB reverted_VBD to_TO her_PRP$ maiden_JJ name_NN ,_, Ada_NNP Cambridge_NNP ,_, and_CC that_DT is_VBZ how_WRB she_PRP is_VBZ known_VBN today_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Ada_NNP was_VBD born_VBN at_IN St_NNP Germans_NNPS ,_, Norfolk_NNP ,_, the_DT second_JJ child_NN of_IN Thomasine_NNP and_CC Henry_NNP Cambridge_NNP ,_, a_DT gentleman_NN farmer_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP was_VBD educated_VBN by_IN governesses_NNS ,_, an_DT experience_NN she_PRP abhorred_VBD ._.
+She_PRP wrote_VBD in_IN a_DT book_NN of_IN reminiscences_NNS :_: ``_`` I_PRP can_MD truthfully_RB affirm_VB that_IN I_PRP never_RB learned_VBD anything_NN which_WDT would_MD now_RB be_VB considered_VBN worth_JJ learning_VBG until_IN I_PRP had_VBD done_VBN with_IN them_PRP all_DT and_CC started_VBD foraging_VBG for_IN myself_PRP ._.
+I_PRP did_VBD have_VB a_DT few_JJ months_NNS of_IN boarding-school_NN at_IN the_DT end_NN ,_, and_CC a_DT very_RB good_JJ school_NN for_IN its_PRP$ day_NN it_PRP was_VBD ,_, but_CC it_PRP left_VBD no_DT lasting_JJ impression_NN on_IN my_PRP$ mind_NN ._. ''_''
+-LRB-_-LRB- The_DT Retrospect_NNP ,_, Chapter_NNP IV_NNP -RRB-_-RRB- ._.
+It_PRP was_VBD ,_, in_IN fact_NN ,_, an_DT unmarried_JJ aunt_NN who_WP contributed_VBD most_RBS to_TO her_PRP$ intellectual_JJ development_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- On_IN 25_CD April_NNP 1870_CD she_PRP married_VBD the_DT Rev._NNP George_NNP Frederick_NNP Cross_NNP and_CC a_DT few_JJ weeks_NNS later_RB sailed_VBD for_IN Australia_NNP ._.
+She_PRP arrived_VBD in_IN Melbourne_NNP in_IN August_NNP and_CC was_VBD surprised_VBN to_TO find_VB it_PRP a_DT well-established_JJ city_NN ._.
+Her_PRP$ husband_NN was_VBD sent_VBN to_TO Wangaratta_NNP ,_, then_RB to_TO Yackandandah_NNP -LRB-_-LRB- 1872_CD -RRB-_-RRB- ,_, Ballan_NNP -LRB-_-LRB- 1874_CD -RRB-_-RRB- ,_, Coleraine_NNP -LRB-_-LRB- 1877_CD -RRB-_-RRB- ,_, Bendigo_NNP -LRB-_-LRB- 1884_CD -RRB-_-RRB- and_CC Beechworth_NNP -LRB-_-LRB- 1885_CD -RRB-_-RRB- ,_, where_WRB they_PRP remained_VBD until_IN 1893_CD ._.
+Her_PRP$ Thirty_CD Years_NNS in_IN Australia_NNP -LRB-_-LRB- 1903_CD -RRB-_-RRB- describes_VBZ their_PRP$ experiences_NNS in_IN these_DT parishes_NNS ._.
+She_PRP experienced_VBD her_PRP$ share_NN of_IN tragedy_NN ,_, including_VBG the_DT loss_NN of_IN children_NNS to_TO whooping_JJ cough_NN and_CC scarlet_JJ fever_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Cross_NNP at_IN first_JJ was_VBD the_DT typical_JJ hard-working_JJ wife_NN of_IN a_DT country_NN clergyman_NN ,_, taking_VBG part_NN in_IN all_DT the_DT activities_NNS of_IN the_DT parish_NN and_CC incidentally_RB making_VBG her_PRP$ own_JJ children_NNS 's_POS clothes_NNS ._.
+Her_PRP$ health_NN ,_, however_RB ,_, broke_VBD down_RP ,_, for_IN a_DT number_NN of_IN reasons_NNS ,_, including_VBG a_DT near-fatal_JJ miscarriage_NN and_CC a_DT serious_JJ carriage_NN accident_NN ,_, and_CC her_PRP$ activities_NNS had_VBD to_TO be_VB reduced_VBN ,_, but_CC she_PRP continued_VBD to_TO write_VB ._.
+In_IN 1893_CD Cross_NNP and_CC her_PRP$ husband_NN moved_VBD to_TO their_PRP$ last_JJ parish_NN ,_, Williamstown_NNP ,_, near_IN Melbourne_NNP ,_, and_CC remained_VBD there_EX until_IN 1909_CD ._.
+Her_PRP$ husband_NN went_VBD on_IN the_DT retired_JJ clergy_NNS list_NN at_IN the_DT end_NN of_IN 1909_CD with_IN permission_NN to_TO operate_VB in_IN the_DT diocese_NN until_IN 1912_CD ._.
+In_IN 1913_CD they_PRP both_DT returned_VBD to_TO England_NNP ,_, where_WRB they_PRP stayed_VBD until_IN his_PRP$ death_NN on_IN 27_CD February_NNP 1917_CD ._.
+Ada_NNP returned_VBD to_TO Australia_NNP later_RB that_DT year_NN ,_, and_CC died_VBD in_IN Melbourne_NNP on_IN 19_CD July_NNP 1926_CD ._.
+She_PRP was_VBD survived_VBN by_IN a_DT daughter_NN and_CC a_DT son_NN ,_, Dr_NNP K._NNP Stuart_NNP Cross_NNP ._.
+A_DT street_NN in_IN the_DT Canberra_NNP suburb_NN of_IN Cook_NNP is_VBZ named_VBN after_IN her_PRP ._.
+While_IN Cambridge_NNP began_VBD writing_VBG in_IN the_DT 1870s_CD to_TO make_VB money_NN to_TO help_VB support_VB her_PRP$ children_NNS ,_, her_PRP$ formal_JJ published_VBN career_NN spans_NNS from_IN 1865_CD with_IN Hymns_NNS on_IN the_DT Litany_NNP and_CC The_DT Two_CD Surplices_NNPS ,_, to_TO 1922_CD with_IN an_DT article_NN ``_`` Nightfall_NNP ''_'' in_IN Atlantic_NNP Monthly_JJ ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- According_VBG to_TO Barton_NNP ,_, her_PRP$ early_JJ works_NNS ``_`` contain_VBP the_DT seeds_NNS of_IN her_PRP$ lifelong_JJ insistence_NN on_IN and_CC pursuit_NN of_IN physical_JJ ,_, spiritual_JJ and_CC moral_JJ integrity_NN ,_, as_RB well_RB as_IN the_DT interweaving_NN of_IN poetry_NN and_CC prose_NN which_WDT was_VBD to_TO typify_VB her_PRP$ writing_NN career_NN ._. ''_''
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Cato_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- writes_VBZ that_IN ``_`` some_DT of_IN her_PRP$ ideas_NNS were_VBD considered_VBN daring_JJ and_CC even_RB a_DT little_JJ improper_JJ for_IN a_DT clergyman_NN 's_POS wife_NN ._.
+She_PRP touches_NNS on_IN extramarital_JJ affairs_NNS and_CC the_DT physical_JJ bondage_NN of_IN wives_NNS ._. ''_''
+In_IN 1875_CD her_PRP$ first_JJ novel_NN ,_, Up_IN the_DT Murray_NNP ,_, appeared_VBD in_IN the_DT Australasian_NNP ,_, but_CC was_VBD not_RB published_VBN separately_RB ._.
+It_PRP was_VBD not_RB until_IN 1890_CD ,_, with_IN the_DT publication_NN of_IN A_DT Marked_VBN Man_NN ,_, that_IN her_PRP$ fame_NN as_IN a_DT writer_NN was_VBD established_VBN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- However_RB ,_, despite_IN regular_JJ good_JJ reviews_NNS ,_, there_EX were_VBD many_JJ who_WP discounted_VBD her_PRP$ because_IN she_PRP did_VBD not_RB write_VB in_IN the_DT literary_JJ tradition_NN of_IN the_DT time_NN ,_, one_CD that_WDT was_VBD largely_RB non-urban_JJ and_CC masculine_JJ ,_, that_IN focused_VBN on_IN survival_NN against_IN the_DT harsh_JJ environment_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- She_PRP was_VBD first_JJ president_NN of_IN the_DT Women_NNP Writers_NNPS Club_NNP and_CC an_DT honorary_JJ life-member_NN of_IN the_DT Lyceum_NNP Club_NNP of_IN Melbourne_NNP ._.
+Her_PRP$ many_JJ friends_NNS in_IN the_DT literary_JJ world_NN included_VBD Grace_NNP ``_`` Jennings_NNP ''_'' Carmichael_NNP ,_, Rolf_NNP Boldrewood_NNP ,_, Ethel_NNP Turner_NNP ,_, and_CC George_NNP Robertson_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- The_DT Ada_NNP Cambridge_NNP Prizes_NNPS were_VBD first_JJ awarded_VBN in_IN 2005_CD ._.
+There_EX are_VBP now_RB four_CD such_JJ prizes_NNS :_: the_DT Ada_NNP Cambridge_NNP Biographical_NNP Prose_NNP Prize_NNP ,_, the_DT Ada_NNP Cambridge_NNP Poetry_NNP Prize_NNP ,_, the_DT Young_NNP Adas_NNP Short_NNP Story_NNP Prize_NNP ,_, and_CC the_DT Young_NNP Adas_NNP Graphic_NNP Short_NNP Story_NNP Prize_NNP ._.
+These_DT all_DT carry_VBP a_DT cash_NN component_NN and_CC winners_NNS are_VBP announced_VBN at_IN the_DT Williamstown_NNP Literary_NNP Festival_NNP each_DT year_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cousin_NN ,_, John_NNP William_NNP -LRB-_-LRB- 1910_CD -RRB-_-RRB- ._.
+A_DT Short_JJ Biographical_NNP Dictionary_NNP of_IN English_NNP Literature_NNP ._.
+London_NNP :_: J._NNP M._NNP Dent_NNP &_CC Sons_NNP ._.
+Wikisource_NNP

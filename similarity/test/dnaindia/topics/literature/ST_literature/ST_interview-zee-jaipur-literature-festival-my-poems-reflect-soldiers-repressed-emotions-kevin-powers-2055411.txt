@@ -1,0 +1,67 @@
+Q_NNP Tell_VB us_PRP a_DT little_JJ about_IN your_PRP$ background_NN ._.
+A_DT :_: I_PRP hail_NN from_IN Richmond_NNP ,_, Virginia_NNP ,_, from_IN the_DT east_JJ coast_NN of_IN the_DT USA_NNP ._.
+Q_NNP ;_: How_WRB did_VBD you_PRP develop_VB an_DT interest_NN in_IN reading_NN ?_.
+A_DT :_: My_PRP$ mother_NN passed_VBN on_IN a_DT love_NN of_IN reading_VBG to_TO me_PRP ._.
+I_PRP read_VBP poetry_NN ,_, history_NN ,_, fiction_NN ._.
+Q_NNP :_: How_WRB did_VBD you_PRP take_VB up_RP soldiering_VBG ?_.
+A_DT :_: It_PRP was_VBD an_DT economic_JJ decision_NN ._.
+I_PRP knew_VBD I_PRP wanted_VBD to_TO pursue_VB an_DT education_NN but_CC could_MD n't_RB afford_VB it_PRP ._.
+I_PRP knew_VBD if_IN I_PRP would_MD serve_VB with_IN the_DT army_NN -LRB-_-LRB- for_IN some_DT years_NNS -RRB-_-RRB- ,_, they_PRP would_MD pay_VB for_IN my_PRP$ college_NN education_NN ._.
+That_DT is_VBZ how_WRB my_PRP$ father_NN ,_, too_RB ,_, and_CC his_PRP$ father_NN before_IN him_PRP ,_, had_VBD served_VBN in_IN the_DT army_NN ``_`` it_PRP was_VBD not_RB a_DT career_NN decision_NN ._.
+Q_NNP -RRB-_-RRB- Did_VBD you_PRP ever_RB imagine_VBP you_PRP would_MD see_VB active_JJ service_NN ?_.
+A_DT :_: No._NN ._.
+It_PRP was_VBD in_IN 1998_CD that_IN I_PRP joined_VBD up_RP ._.
+The_DT world_NN was_VBD a_DT different_JJ place_NN ._.
+I_PRP did_VBD n't_RB predict_VB that_IN the_DT US_NNP would_MD be_VB at_IN war_NN for_IN 15_CD years_NNS ._.
+Q_NNP :_: Did_VBD you_PRP support_VBP the_DT Iraq_NNP war_NN ?_.
+A_DT :_: I_PRP was_VBD always_RB skeptical_JJ of_IN the_DT narrative_NN of_IN WMDs_NNS ._.
+But_CC I_PRP felt_VBD an_DT obligation_NN to_TO the_DT soldiers_NNS with_IN the_DT unit_NN ._.
+I_PRP felt_VBD I_PRP had_VBD to_TO go_VB with_IN my_PRP$ friends_NNS ._.
+Immediately_RB after_IN arriving_VBG in_IN Iraq_NNP ,_, I_PRP began_VBD to_TO oppose_VB the_DT war_NN ._.
+It_PRP was_VBD strange_JJ to_TO fight_VB in_IN a_DT war_NN I_PRP did_VBD not_RB believe_VB in_IN ,_, but_CC for_IN me_PRP it_PRP was_VBD a_DT matter_NN of_IN survival_NN ._.
+That_DT feeling_NN of_IN being_VBG conflicted_VBN appears_VBZ in_IN my_PRP$ novel_NN and_CC my_PRP$ poems_NNS ._.
+Q_NNP :_: After_IN the_DT war_NN ,_, you_PRP went_VBD to_TO college_NN ._.
+What_WP did_VBD you_PRP study_VB ?_.
+Any_DT writers_NNS who_WP have_VBP stayed_VBN with_IN you_PRP and_CC who_WP you_PRP studied_VBD in_IN college_NN ?_.
+A_DT :_: English_NNP literature_NN ._.
+There_EX are_VBP many_JJ writers_NNS :_: I_PRP loved_VBD the_DT novel_NN Great_NNP Gatsby_NNP ._.
+Poets_NNS like_IN James_NNP Wright_NNP ._.
+It_PRP was_VBD incredible_JJ to_TO go_VB from_IN stressful_JJ situations_NNS that_WDT occupied_VBD my_PRP$ thoughts_NNS to_TO where_WRB I_PRP could_MD be_VB immersed_VBN in_IN literature_NN ._.
+Some_DT writers_NNS ,_, like_IN Lorca_NNP ,_, I_PRP discovered_VBD in_IN translation_NN ._.
+Q_NNP :_: When_WRB did_VBD you_PRP begin_VB writing_VBG `_`` The_DT Yellow_NNP Birds_NNPS '_POS ?_.
+A_DT :_: I_PRP began_VBD writing_VBG it_PRP two_CD years_NNS after_IN I_PRP returned_VBD -LRB-_-LRB- he_PRP returned_VBD in_IN 2006_CD -RRB-_-RRB- ._.
+I_PRP was_VBD then_RB a_DT customer_NN service_NN representative_NN with_IN a_DT credit_NN card_NN company_NN ._.
+It_PRP was_VBD a_DT way_NN of_IN writing_VBG about_IN my_PRP$ conflict_NN ._.
+Sharing_VBG it_PRP with_IN readers_NNS ._.
+Q_NNP :_: What_WP is_VBZ the_DT novel_NN about_IN ?_.
+A_DT :_: It_PRP 's_VBZ about_IN two_CD soldiers_NNS sent_VBN to_TO Iraq_NNP ,_, and_CC one_CD of_IN them_PRP has_VBZ promised_VBN the_DT mother_NN of_IN the_DT other_JJ soldier_NN that_IN he_PRP will_MD protect_VB him_PRP ._.
+But_CC the_DT other_JJ soldier_NN dies_VBZ ._.
+It_PRP 's_VBZ a_DT novel_NN about_IN the_DT war_NN ,_, but_CC also_RB about_IN the_DT narrator_NN ,_, who_WP must_MD live_VB with_IN his_PRP$ failure_NN ._.
+Q_NNP :_: To_TO what_WP extent_NN is_VBZ this_DT novel_NN autobiographical_NN ?_.
+A_DT :_: The_DT incidents_NNS are_VBP fictionalised_VBN ,_, but_CC the_DT underlying_VBG feeling_NN is_VBZ all_DT mine_NN ._.
+Q_NNP :_: When_WRB did_VBD you_PRP take_VBP to_TO writing_VBG poetry_NN ?_.
+A._NN I_NNP have_VBP been_VBN writing_VBG poems_NNS since_IN I_PRP was_VBD a_DT teenager_NN ,_, obviously_RB not_RB the_DT kinds_NNS that_WDT appear_VBP in_IN the_DT anthology_NN ._.
+It_PRP took_VBD me_PRP a_DT year_NN -LRB-_-LRB- after_IN my_PRP$ return_NN -RRB-_-RRB- to_TO get_VB enough_JJ distance_NN as_IN a_DT soldier_NN to_TO look_VB at_IN it_PRP at_IN a_DT level_NN of_IN remove_VB ,_, to_TO turn_VB my_PRP$ experience_NN into_IN art_NN ._.
+I_PRP was_VBD trying_VBG to_TO give_VB people_NNS who_WP had_VBD questions_NNS about_IN America_NNP 's_POS involvement_NN in_IN Iraq_NNP and_CC the_DT Middle_NNP East_NNP access_NN to_TO that_DT experience_NN they_PRP might_MD not_RB have_VB ._.
+With_IN poetry_NN it_PRP is_VBZ more_RBR visceral_JJ ._.
+Energetic_JJ ._.
+There_EX is_VBZ immediate_JJ response_NN ._.
+A_DT novel_NN is_VBZ more_RBR immersive_JJ ._.
+For_IN me_PRP ,_, my_PRP$ writing_NN was_VBD about_IN being_VBG a_DT responsible_JJ citizen_NN and_CC the_DT role_NN art_NN can_MD play_VB with_IN that_DT ._.
+Q_NNP :_: Your_PRP$ war_NN poems_NNS are_VBP unconventional_JJ in_IN that_DT their_PRP$ tone_NN of_IN voice_NN is_VBZ conversational_JJ ,_, casual_JJ ._.
+A_DT :_: I_PRP wanted_VBD to_TO strike_VB an_DT emotional_JJ note_NN of_IN detachment_NN ._.
+Repressed_VBN emotion_NN ._.
+I_PRP wanted_VBD the_DT language_NN to_TO have_VB a_DT certain_JJ amount_NN of_IN subtlety_NN and_CC hope_NN that_IN I_PRP could_MD communicate_VB the_DT depth_NN of_IN emotion_NN under_IN the_DT surface_NN ._.
+Q_NNP :_: To_TO what_WP extent_NN is_VBZ a_DT poem_NN given_VBN to_TO you_PRP ?_.
+A_DT :_: I_PRP start_VBP with_IN an_DT image_NN that_IN I_PRP do_VBP n't_RB know_VB the_DT significance_NN of_IN ,_, or_CC a_DT line_NN with_IN music_NN to_TO it_PRP ._.
+I_PRP figure_VBP out_RP what_WP is_VBZ the_DT context_NN ,_, and_CC whether_IN it_PRP needs_VBZ a_DT context_NN ._.
+For_IN me_PRP ,_, drafting_VBG is_VBZ finding_VBG the_DT language_NN to_TO communicate_VB the_DT experience_NN the_DT way_NN I_PRP have_VBP felt_VBN it_PRP ._.
+Sometimes_RB I_PRP feel_VBP like_IN a_DT carpenter_NN taking_VBG things_NNS out_RP ._.
+Q_NNP :_: How_WRB has_VBZ writing_VBG about_IN your_PRP$ traumatic_JJ experiences_NNS changed_VBD you_PRP ?_.
+A_DT :_: Writing_VBG gives_VBZ you_PRP a_DT degree_NN of_IN control_NN over_IN your_PRP$ experiences_NNS ._.
+You_PRP choose_VBP the_DT words_NNS ._.
+You_PRP control_VBP what_WP happens_VBZ ._.
+You_PRP get_VBP to_TO shape_VB your_PRP$ own_JJ reality_NN ._.
+If_IN a_DT memory_NN inspires_VBZ a_DT poem_NN ,_, it_PRP can_MD be_VB transfigured_VBN ,_, transmuted_VBN ._.
+One_CD has_VBZ the_DT ability_NN through_IN writing_VBG to_TO alter_VB those_DT events_NNS ._.
+There_EX is_VBZ a_DT therapeutic_JJ element_NN to_TO it_PRP ._.

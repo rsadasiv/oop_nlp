@@ -1,0 +1,5 @@
+Fred_NNP Archer_NNP -LRB-_-LRB- 1915_CD ``_`` 1999_CD -RRB-_-RRB- was_VBD an_DT English_JJ farmer_NN and_CC author_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Archer_NNP 's_POS literary_JJ career_NN began_VBD following_VBG a_DT talk_NN he_PRP gave_VBD to_TO his_PRP$ local_JJ Guild_NNP ,_, as_IN a_DT replacement_NN speaker_NN ._.
+Having_VBG written_VBN and_CC read_VBN out_RP a_DT humorous_JJ story_NN ,_, he_PRP was_VBD encouraged_VBN by_IN the_DT response_NN of_IN his_PRP$ audience_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Archer_NNP 's_POS first_JJ book_NN ,_, The_DT Distant_JJ Scene_NN was_VBD published_VBN in_IN 1967_CD ,_, In_IN the_DT following_VBG three_CD decades_NNS ,_, he_PRP went_VBD on_IN to_TO publish_VB books_NNS at_IN the_DT rate_NN of_IN almost_RB one_CD a_DT year_NN ,_, describing_VBG the_DT rural_JJ England_NNP he_PRP knew_VBD ,_, and_CC the_DT characters_NNS within_IN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

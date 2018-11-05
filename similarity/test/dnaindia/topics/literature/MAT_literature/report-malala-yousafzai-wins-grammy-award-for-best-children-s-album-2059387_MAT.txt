@@ -1,0 +1,120 @@
+Malala_NN
+Yousafzai_NN
+,_,
+who_WP
+recently_TIME
+won_VBD
+an_DT
+Nobel_NN
+Peace_NN
+Prize_NN
+,_,
+has_VPRT [PEAS]
+won_VBN
+a_DT
+Grammy_NN
+award_NN
+for_PIN
+Best_JJ
+Children_NN
+'s_POS
+Album_NN
+titled_VBN
+'_''
+I_FPP1
+Am_VPRT
+Malala_NN
+'_''
+._.
+'_''
+I_FPP1
+Am_VPRT
+Malala_NN
+'_''
+was_VBD [BEMA]
+a_DT
+book_NN
+by_PIN
+Nobel_NN
+Prize_NN
+winner_NN
+which_WDT [WHSUB]
+was_VBD [BYPA]
+narrated_VBN
+by_PIN
+Neela_NN
+Vaswani_NN
+,_,
+the_DT
+Mirror_NN
+reported_VBD [PUBV]
+._.
+Vaswani_NN
+,_,
+a_DT
+professor_NN
+of_PIN
+creative_JJ
+writing_GER
+,_,
+literature_NN
+and_CC
+cultural_JJ
+studies_NN
+,_,
+accepted_VBD [PRIV]
+the_DT
+award_NN
+at_PIN
+the_DT
+Staples_NN
+Center_NN
+in_PIN
+Los_NN
+Angeles_NN
+._.
+Vaswani_NN
+said_VBD [PUBV] [THATD]
+Malala_NN
+is_VPRT [BEMA]
+very_AMP
+busy_PRED
+going_VBG
+to_PIN
+school_NN
+and_CC
+saving_VBG
+the_DT
+children_NN
+of_PIN
+the_DT
+world_NN
+and_PHC
+hope_NN
+that_TOBJ
+she_TPP3
+is_VPRT [BEMA]
+happy_PRED
+after_IN
+winning_VBG
+the_DT
+award_NN
+._.
+The_DT
+57th_JJ
+annual_JJ
+Grammy_NN
+Awards_NN
+were_VBD [PASS]
+held_VBN [PRIV]
+at_PIN
+the_DT
+Nokia_NN
+Theatre_NN
+and_PHC
+Staples_NN
+Center_NN
+in_PIN
+United_NN
+States_NN
+._.

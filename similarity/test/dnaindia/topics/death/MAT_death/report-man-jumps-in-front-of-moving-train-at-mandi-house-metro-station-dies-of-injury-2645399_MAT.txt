@@ -1,0 +1,244 @@
+A_DT
+man_NN
+died_VBD
+of_PIN
+grievous_JJ
+injuries_NN
+after_IN
+he_TPP3
+allegedly_RB
+jumped_VBD
+in_PIN
+front_NN
+of_PIN
+a_DT
+moving_VBG [SUAV]
+train_NN
+at_PIN
+Mandi_NN
+House_NN
+metro_NN
+station_NOMZ
+here_RB
+today_TIME
+,_,
+officials_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+incident_NN
+occurred_VBD
+around_PLACE
+7:35_CD
+pm_NN
+following_VBG [WZPRES]
+which_WDT
+the_DT
+man_NN
+,_,
+identified_VBN
+as_IN
+Vinod_NN
+Kumar_NN
+Pathak_NN
+,_,
+was_VBD [PASS]
+rushed_VBN
+to_PIN
+RML_NN
+Hospital_NN
+where_RB
+he_TPP3
+was_VBD [PASS]
+declared_VBN [PUBV]
+brought_VBN
+dead_JJ
+,_,
+hospital_NN
+sources_NN
+said_VBD [PUBV]
+._.
+The_DT
+victim_NN
+,_,
+in_PIN
+his_TPP3
+50s_CD
+,_,
+hailed_VBD
+from_PIN
+Varanasi_NN
+._.
+Police_NN
+said_VBD [PUBV] [THATD]
+they_TPP3
+were_VBD [SPAU]
+also_RB
+probing_VBG
+if_COND
+the_DT
+man_NN
+slipped_VBD
+off_PIN
+the_DT
+platform_NN
+and_CC
+fell_VBD
+on_PIN
+to_PIN
+the_DT
+tracks_NN
+._.
+He_TPP3
+was_VBD [PASS]
+brought_VBN
+to_PIN
+RML_NN
+Hospital_NN
+around_PLACE
+8:25_CD
+pm_NN
+with_PIN
+grievous_JJ
+injuries_NN
+._.
+His_TPP3
+head_NN
+was_VBD [PASS]
+injured_VBN
+too_RB
+._.
+The_DT
+victim_NN
+was_VBD [PASS]
+declared_VBN [PUBV]
+brought_VBN
+dead_JJ
+._.
+His_TPP3
+body_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+sent_VBN
+for_PIN
+post-mortem_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+train_NN
+was_VBD
+coming_VBG
+from_PIN
+Yamuna_NN
+Bank_NN
+station_NOMZ
+and_CC
+going_VBG
+towards_PIN
+Dwarka_NN
+side_NN
+._.
+A_DT
+PCR_NN
+call_NN
+was_VBD [PASS]
+received_VBN
+around_PLACE
+7:30_CD
+pm_NN
+about_IN
+the_DT
+incident_NN
+,_,
+a_DT
+senior_JJ
+police_NN
+official_NN
+said_VBD [PUBV]
+._.
+``_``
+He_TPP3
+allegedly_RB
+jumped_VBD
+in_PIN
+front_NN
+of_PIN
+an_DT
+approaching_VBG
+train_NN
+at_PIN
+Mandi_NN
+House_NN
+metro_NN
+station_NOMZ
+,_,
+''_''
+a_DT
+senior_JJ
+DMRC_NN
+official_NN
+said_VBD [PUBV]
+._.
+The_DT
+hospital_NN
+sources_NN
+said_VBD [PUBV]
+the_DT
+exact_JJ
+cause_NN
+of_PIN
+the_DT
+injury_NN
+will_PRMD
+be_VB [PASS]
+ascertained_VBN [PRIV]
+only_DWNT
+after_IN
+the_DT
+autopsy_NN
+,_,
+as_IN
+to_PIN
+whether_IN
+he_TPP3
+was_VBD [BYPA]
+hit_VBN
+by_PIN
+the_DT
+train_NN
+or_CC
+he_TPP3
+fatally_RB
+injured_VBD
+himself_TPP3
+during_PIN
+the_DT
+incident_NN
+._.
+``_``
+Services_NN
+on_PIN
+nearby_PLACE
+section_NOMZ
+faced_VBD
+a_DT
+little_JJ
+delay_NN
+due_JJ
+to_PIN
+the_DT
+incident_NN
+,_,
+''_''
+the_DT
+official_NN
+said_VBD [PUBV]
+._.
+Further_JJ
+details_NN
+are_VPRT [PASS]
+awaited_VBN
+._.

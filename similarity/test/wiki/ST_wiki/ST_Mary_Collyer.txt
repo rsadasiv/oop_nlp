@@ -1,0 +1,18 @@
+Mary_NNP Collyer_NNP -LRB-_-LRB- née_FW Mitchell_NNP -RRB-_-RRB- -LRB-_-LRB- c._FW 1716_CD ''_'' 1763_CD -RRB-_-RRB- was_VBD an_DT English_JJ translator_NN and_CC novelist_NN ._.
+Mary_NNP ,_, whose_WP$ maiden_JJ name_NN was_VBD Mitchell_NNP ,_, married_JJ Joseph_NNP Collyer_NNP the_DT elder_JJR ;_: -LRB-_-LRB- 1_CD -RRB-_-RRB- their_PRP$ son_NN ,_, Joseph_NNP Collyer_NNP the_DT younger_JJR ,_, was_VBD an_DT engraver_NN ,_, and_CC illustrated_VBD one_CD edition_NN of_IN his_PRP$ mother_NN 's_POS translation_NN Death_NNP of_IN Abel_NNP ._.
+She_PRP is_VBZ principally_RB known_VBN as_IN the_DT translator_NN of_IN Salomon_NNP Gessner_NNP 's_POS `_`` Death_NNP of_IN Abel_NNP '_POS -LRB-_-LRB- 1761_CD -RRB-_-RRB- ._.
+This_DT work_NN passed_VBN through_IN numerous_JJ editions_NNS in_IN England_NNP ,_, Scotland_NNP ,_, and_CC Ireland_NNP ._.
+It_PRP became_VBD an_DT immediate_JJ and_CC enduring_JJ bestseller_NN on_IN a_DT par_NN with_IN Pilgrim_NNP 's_POS Progress_NNP and_CC Robinson_NNP Crusoe_NNP ._.
+There_EX were_VBD 40_CD editions_NNS and_CC reprints_VBZ between_IN 1762_CD and_CC 1800_CD and_CC reached_VBD a_DT total_NN of_IN 70_CD editions_NNS and_CC reprints_VBZ through_IN 1830_CD in_IN Britain_NNP and_CC North_NNP America_NNP ._.
+The_DT readers_NNS of_IN Gessner_NNP 's_POS version_NN of_IN the_DT biblical_JJ story_NN belonged_VBD to_TO a_DT poorer_JJR and_CC less_JJR educated_VBN public_NN ._.
+While_IN sophisticated_JJ readers_NNS on_IN the_DT Continent_NN found_VBD delight_NN in_IN the_DT Arcadian_JJ pantheism_NN of_IN the_DT idyll_NN ,_, the_DT poorer_JJR masses_NNS of_IN England_NNP and_CC North_NNP America_NNP were_VBD attracted_VBN to_TO the_DT epic_NN 's_POS mixture_NN of_IN sentimental_JJ and_CC pious_JJ feelings_NNS ,_, hymnal_JJ pathos_NNS and_CC cultural_JJ criticism_NN ,_, all_DT of_IN which_WDT was_VBD intensified_VBN in_IN Mary_NNP Collyer_NNP 's_POS translation_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP had_VBD previously_RB published_VBN in_IN 1750_CD ,_, in_IN two_CD volumes_NNS ,_, `_`` Letters_NNS from_IN Felicia_NNP to_TO Charlotte_NNP ,_, '_'' which_WDT recommended_VBD her_PRP to_TO the_DT notice_NN of_IN Mrs._NNP Montague_NNP ,_, Miss_NNP Talbot_NNP ,_, and_CC Mrs._NNP Carter_NNP ._.
+The_DT latter_JJ in_IN 1761_CD spoke_VBD of_IN her_PRP$ to_TO Mrs._NNP Montague_NNP as_IN `_`` writing_VBG for_IN the_DT support_NN of_IN her_PRP$ family_NN ,_, '_'' which_WDT ,_, she_PRP adds_VBZ ,_, `_`` is_VBZ a_DT laudable_JJ employment_NN ._. '_''
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Mrs._NNP Collyer_NNP afterwards_RB translated_VBD part_NN of_IN Friedrich_NNP Gottlieb_NNP Klopstock_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ The_DT Messiah_NNP but_CC dying_VBG in_IN 1763_CD ,_, before_IN it_PRP was_VBD completed_VBN ,_, the_DT remainder_NN was_VBD translated_VBN and_CC published_VBN by_IN her_PRP$ husband_NN about_IN the_DT end_NN of_IN that_DT year_NN in_IN two_CD volumes_NNS ._.
+The_DT third_JJ volume_NN did_VBD not_RB appear_VB till_IN 1772_CD ,_, when_WRB the_DT taste_NN for_IN this_DT species_NNS of_IN poetry_NN ,_, or_CC mixture_NN of_IN poetry_NN and_CC prose_NN ,_, was_VBD beginning_VBG to_TO decline_VB ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cooper_NNP ,_, Thompson_NNP -LRB-_-LRB- 1887_CD -RRB-_-RRB- ._.
+``_`` Collyer_NNP ,_, Mary_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+11_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP p._VBP 386_CD ._.

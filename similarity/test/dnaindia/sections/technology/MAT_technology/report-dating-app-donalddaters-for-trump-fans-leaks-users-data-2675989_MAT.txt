@@ -1,0 +1,183 @@
+New_NN
+dating_VBG [WZPRES]
+app_NN
+DonaldDaters_NN
+was_VBD [PASS]
+supposed_VBN [PRIV]
+to_TO
+help_VB
+lonely_JJ
+conservatives_NN
+find_VPRT [PRIV]
+each_QUAN
+other_JJ
+discreetly_RB
+._.
+But_CC
+the_DT
+app_NN
+leaked_VBD
+its_PIT
+database_NN
+of_PIN
+users_NN
+on_PIN
+launch_NN
+day_NN
+,_,
+a_DT
+report_NN
+said_VBD [PUBV]
+._.
+With_PIN
+the_DT
+slogan_NN
+``_``
+Make_NN
+America_NN
+Date_NN
+Again_TIME
+,_,
+''_''
+the_DT
+app_NN
+targets_VPRT
+the_DT
+``_``
+American-based_JJ
+singles_NN
+community_NOMZ
+connecting_VBG [WZPRES]
+lovers_NN
+,_,
+friends_NN
+,_,
+and_ANDC
+Trump_NN
+supporters_NN
+alike_RB
+,_,
+''_''
+its_PIT
+website_NN
+says_VPRT [PUBV]
+._.
+The_DT
+app_NN
+had_VBD
+just_EMPH
+over_IN
+1,600_CD
+users_NN
+on_PIN
+its_PIT
+first_JJ
+day_NN
+of_PIN
+operations_NOMZ
+,_,
+technology_NN
+news_NN
+site_NN
+TechCrunch_NN
+reported_VBD [PUBV]
+._.
+TechCrunch_NN
+said_VBD [PUBV] [THATD]
+it_PIT
+learned_VBD [PRIV]
+the_DT
+figure_NN
+because_CAUS
+a_DT
+French_JJ
+security_NOMZ
+researcher_NN
+found_VBD [PRIV]
+``_``
+issues_NN
+''_''
+with_PIN
+the_DT
+app_NN
+,_,
+making_VBG [PRESP]
+it_PIT
+possible_JJ
+to_TO
+download_VB
+the_DT
+entire_JJ
+user_NN
+database_NN
+._.
+The_DT
+researcher_NN
+``_``
+shared_VBD
+the_DT
+database_NN
+with_PIN
+TechCrunch_NN
+,_,
+which_WDT [SERE]
+included_VBD
+users_NN
+'_POS
+names_NN
+,_,
+profile_NN
+pictures_NN
+,_,
+device_NN
+type_NN
+,_,
+their_TPP3
+private_JJ
+messages_NN
+--_:
+and_ANDC
+access_NN
+tokens_NN
+,_,
+which_WDT [SERE]
+can_POMD
+be_VB [PASS]
+used_VBN
+to_TO
+take_VB
+over_RP
+accounts_NN
+,_,
+''_''
+it_PIT
+said_VBD [PUBV]
+._.
+TechCrunch_NN
+said_VBD [PUBV] [THATD]
+the_DT
+data_NN
+was_VBD [PASS]
+pulled_VBN
+offline_NN
+after_IN
+it_PIT
+contacted_VBD
+the_DT
+app_NN
+maker_NN
+._.
+DonaldDaters_NN
+'_POS
+website_NN
+says_VPRT [PUBV]
+``_``
+all_QUAN
+your_SPP2
+personal_JJ
+information_NOMZ
+is_VPRT [PASS]
+kept_VBN
+private_JJ
+._.
+''_''

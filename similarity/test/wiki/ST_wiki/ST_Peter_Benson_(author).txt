@@ -1,0 +1,3 @@
+Peter_NNP Benson_NNP is_VBZ the_DT author_NN of_IN novels_NNS ,_, plays_NNS and_CC short_JJ stories_NNS ,_, and_CC has_VBZ been_VBN described_VBN by_IN the_DT London_NNP Evening_NNP Standard_NNP as_IN having_VBG `_`` one_CD of_IN the_DT most_RBS distinctive_JJ voices_NNS in_IN modern_JJ British_JJ fiction_NN '_'' ._.
+He_PRP has_VBZ a_DT daughter_NN ,_, Ella_NNP ,_, with_IN the_DT poet_NN Carol_NNP Ann_NNP Duffy_NNP ._.
+Novels_NNS Plays_NNP Short_NNP Stories_NNP

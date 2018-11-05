@@ -1,0 +1,7 @@
+EasyJet_NNP has_VBZ launched_VBN a_DT new_JJ app_NN that_WDT allows_VBZ people_NNS to_TO book_VB a_DT flight_NN using_VBG Instagram_NNP ._.
+It_PRP 's_VBZ a_DT strategy_NN borrowed_VBN from_IN fashion_NN apps_NNS such_JJ as_IN Like_IN to_TO Know_NNP It_PRP ,_, which_WDT allow_VBP fashionistas_NNS to_TO shop_VB the_DT looks_NNS of_IN their_PRP$ favorite_JJ influencers_NNS straight_RB from_IN Instagram_NNP ._.
+Called_VBN Look_VB &_CC Book_NNP ,_, the_DT EasyJet_NNP app_NN is_VBZ for_IN Instagram_NNP users_NNS who_WP likewise_RB seek_VBP travel_NN inspo_NN on_IN the_DT photo-sharing_JJ site_NN ._.
+Users_NNS will_MD be_VB able_JJ to_TO find_VB out_RP where_WRB an_DT Instagram_NNP photo_NN was_VBD taken_VBN -LRB-_-LRB- in_IN cases_NNS where_WRB they_PRP 're_VBP not_RB geo-tagged_JJ or_CC identified_VBN -RRB-_-RRB- ,_, look_VB up_RP flight_NN information_NN ,_, and_CC book_VB their_PRP$ trip_NN on_IN their_PRP$ smartphone_NN ._.
+After_IN uploading_VBG screenshots_NNS of_IN a_DT destination_NN from_IN Instagram_NNP into_IN Look_VB &_CC Book_NNP ,_, the_DT app_NN will_MD identify_VB the_DT destination_NN ,_, and_CC offer_VB up_RP flight_NN options_NNS ._.
+The_DT feature_NN is_VBZ available_JJ only_RB for_IN European_JJ destinations_NNS ._.
+Earlier_RBR this_DT year_NN ,_, Instagram_NNP also_RB unveiled_VBD ``_`` action_NN buttons_NNS ''_'' allowing_VBG users_NNS to_TO book_NN restaurant_NN reservations_NNS and_CC event_NN tickets_NNS and_CC directly_RB from_IN the_DT app_NN ._.

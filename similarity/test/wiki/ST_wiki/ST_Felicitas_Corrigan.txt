@@ -1,0 +1,11 @@
+Dame_NNP Felicitas_NNP Corrigan_NNP OSB_NNP -LRB-_-LRB- 6_CD March_NNP 1908_CD ''_'' 7_CD October_NNP 2003_CD -RRB-_-RRB- was_VBD an_DT English_JJ Benedictine_NNP nun_NN ,_, author_NN and_CC humanitarian_JJ ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP was_VBD born_VBN Kathleen_NNP Corrigan_NNP into_IN a_DT large_JJ Liverpool_NNP family_NN ,_, and_CC developed_VBD a_DT talent_NN as_IN an_DT organist_NN ._.
+In_IN 1933_CD ,_, she_PRP entered_VBD Stanbrook_NNP Abbey_NNP in_IN Worcestershire_NNP as_IN a_DT nun_NN ,_, and_CC eventually_RB became_VBD director_NN of_IN its_PRP$ choir_NN ._.
+One_CD of_IN her_PRP$ projects_NNS was_VBD to_TO develop_VB an_DT English_JJ language_NN version_NN of_IN the_DT office_NN of_IN Compline_NNP for_IN the_DT abbey_NN ._.
+In_IN the_DT course_NN of_IN her_PRP$ career_NN ,_, Dame_NNP Felicitas_NNP befriended_VBD and\/or_CC corresponded_VBD with_IN several_JJ famous_JJ figures_NNS who_WP converted_VBD to_TO Catholicism_NNP ,_, including_VBG poet_NN Siegfried_NNP Sassoon_NNP ,_, actor_NN Alec_NNP Guinness_NNP ;_: and_CC novelist_NN Rumer_NNP Godden_NNP ._.
+Dame_NNP Felicitas_NNP '_POS biography_NN of_IN Helen_NNP Waddell_NNP was_VBD awarded_VBN the_DT 1986_CD James_NNP Tait_NNP Black_NNP Memorial_NNP Prize_NNP ._.
+Her_PRP$ book_NN ,_, The_DT Nun_NNP ,_, the_DT Infidel_NNP ,_, and_CC the_DT Superman_NNP ,_, inspired_VBN by_IN the_DT life_NN of_IN Laurentia_NNP McLachlan_NNP ,_, was_VBD turned_VBN into_IN a_DT play_NN by_IN Hugh_NNP Whitemore_NNP and_CC later_RB became_VBD a_DT film_NN for_IN television_NN starring_VBG Wendy_NNP Hiller_NNP ._.
+She_PRP also_RB wrote_VBD about_IN other_JJ figures_NNS in_IN whom_WP she_PRP was_VBD interested_JJ ,_, including_VBG Hildegard_NNP of_IN Bingen_NNP and_CC the_DT poet_NN Coventry_NNP Patmore_NNP ._.
+She_PRP also_RB edited_VBD publications_NNS for_IN the_DT Stanbrook_NNP Abbey_NNP Press_NNP ._.
+Other_JJ works_NNS include_VBP :_: Dame_NNP Felicitas_NNP was_VBD Stanbrook_NNP Abbey_NNP 's_POS organist_NN from_IN 1933_CD until_IN 1990_CD ._.
+She_PRP died_VBD at_IN Cheltenham_NNP ._.

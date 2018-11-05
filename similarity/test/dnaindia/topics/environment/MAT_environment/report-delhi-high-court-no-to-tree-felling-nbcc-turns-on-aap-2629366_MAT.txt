@@ -1,0 +1,405 @@
+Even_RB
+as_IN
+the_DT
+Delhi_NN
+High_NN
+Court_NN
+on_PIN
+Monday_NN
+put_VBD
+on_PIN
+hold_VPRT [PRIV]
+the_DT
+chopping_VBG
+of_PIN
+17,000_CD
+tress_NN
+in_PIN
+the_DT
+capital_NN
+for_PIN
+urban_JJ
+development_NOMZ
+,_,
+the_DT
+National_NN
+Buildings_GER
+Construction_NOMZ
+Corporation_NOMZ
+-LRB-_-LRB-
+India_NN
+-RRB-_-RRB-
+Limited_NN
+called_VBD
+out_PIN
+Aam_NN
+Admi_NN
+Party_NN
+'s_POS
+somersault_NN
+over_IN
+the_DT
+tree-felling_JJ
+row_NN
+and_CC
+said_VBD [PUBV] [THATD]
+it_PIT
+was_VBD [BEMA]
+the_DT
+Delhi_NN
+government_NOMZ
+that_TSUB
+gave_VBD
+it_PIT
+the_DT
+go-ahead_PLACE
+._.
+Putting_VBG [PRESP]
+a_DT
+stay_NN
+on_PIN
+the_DT
+decision_NN
+to_TO
+cut_VB
+the_DT
+trees_NN
+,_,
+the_DT
+court_NN
+observed_VBD [PRIV]
+,_,
+``_``
+We_FPP1
+could_POMD
+understand_VB [PRIV]
+if_COND
+it_PIT
+was_VBD [BEMA]
+a_DT
+road-widening_GER
+work_NN
+,_,
+which_WDT [SERE]
+is_VPRT [BEMA]
+inevitable_PRED
+._.
+You_SPP2
+want_VPRT
+to_TO
+cut_VB
+thousands_NN
+of_PIN
+trees_NN
+for_PIN
+housing_GER
+._.
+Can_POMD
+Delhi_NN
+afford_VB
+this_DEMP
+?_.
+''_''
+Addressing_VBG [PRESP]
+a_DT
+press_NN
+conference_NN
+on_PIN
+Monday_NN
+,_,
+Anoop_NN
+Kumar_NN
+Mittal_NN
+,_,
+chairman-cum-managing_JJ
+director_NN
+,_,
+NBCC_NN
+said_VBD [PUBV]
+that_THVC
+in_PIN
+case_NN
+of_PIN
+Delhi_NN
+,_,
+the_DT
+state_NN
+government_NOMZ
+called_VBD
+the_DT
+shots_NN
+._.
+``_``
+The_DT
+environment_NOMZ
+ministry_NN
+cleared_VBD
+the_DT
+decks_NN
+for_PIN
+our_FPP1
+project_NN
+._.
+Had_VBD [PEAS]
+it_PIT
+been_VBN [BEMA]
+a_DT
+Union_NN
+Territory_NN
+,_,
+the_DT
+Centre_NN
+would_PRMD
+have_VB [PEAS]
+taken_VBN
+a_DT
+call_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Not_XX0
+mincing_VBG
+any_QUAN
+words_NN
+,_,
+Mittal_JJ
+detailed_JJ
+,_,
+``_``
+Permissions_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+obtained_VBN
+from_PIN
+Delhi_NN
+government_NOMZ
+and_CC
+other_JJ
+authorities_NOMZ
+for_PIN
+redeveloping_VBG
+Nauroji_NN
+Nagar_NN
+and_PHC
+Netaji_NN
+Nagar_NN
+where_RB
+we_FPP1
+will_PRMD
+plant_VB
+10,000_CD
+trees_NN
+apart_RB
+from_PIN
+paying_VBG
+from_PIN
+green_JJ
+coverage_NN
+,_,
+''_''
+the_DT
+CMD_NN
+said_VBD [PUBV]
+._.
+In_PIN
+the_DT
+last_JJ
+few_QUAN
+days_NN
+,_,
+the_DT
+party_NN
+has_VPRT [PEAS]
+raised_VBN
+its_PIT
+pitch_NN
+against_PIN
+the_DT
+NBCC_NN
+'s_POS
+decision_NN
+to_TO
+cut_VB
+thousands_NN
+of_PIN
+trees_NN
+,_,
+calling_VBG [PRESP]
+it_PIT
+``_``
+callous_JJ
+towards_PIN
+environment_NOMZ
+in_PIN
+their_TPP3
+quest_NN
+to_TO
+achieve_VB
+urban_JJ
+development_NOMZ
+''_''
+._.
+Additionally_RB
+,_,
+the_DT
+party_NN
+has_VPRT [PEAS]
+been_VBN
+drumming_VBG
+support_NN
+for_PIN
+its_PIT
+own_JJ
+Chipko_NN
+Movement_NOMZ
+._.
+Putting_VBG [PRESP]
+forward_RB
+the_DT
+party_NN
+'s_POS
+stance_NN
+,_,
+Greater_NN
+Kailash_NN
+MLA_NN
+Saurabh_NN
+Bhardwaj_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+AAP_NN
+government_NOMZ
+will_PRMD
+oppose_VB
+chopping_VBG
+of_PIN
+trees_NN
+tooth_NN
+and_PHC
+nail_NN
+,_,
+claiming_VBG [PUBV]
+that_THVC
+the_DT
+Delhi_NN
+government_NOMZ
+has_VPRT [PEAS]
+been_VBN [BEMA]
+against_PIN
+the_DT
+measures_NN
+all_QUAN
+along_IN
+._.
+``_``
+Environment_NOMZ
+minister_NN
+Imran_NN
+Hussain_NN
+had_VBD [SPAU] [PEAS]
+even_RB
+given_VBN
+in_PIN
+writing_VBG [PUBV]
+that_THVC
+NBCC_NN
+should_NEMD
+look_VB
+for_PIN
+alternatives_NN
+,_,
+''_''
+Bhardwaj_NN
+said_VBD [PUBV]
+._.
+To_TO
+add_VB [PUBV]
+to_PIN
+the_DT
+mix_NN
+,_,
+however_CONJ
+,_,
+Lt_NN
+Governor_NN
+Anil_NN
+Baijal_NN
+'s_POS
+office_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+proposals_NN
+for_PIN
+redeveloping_VBG
+Nauroji_NN
+Nagar_NN
+and_PHC
+Netaji_NN
+Nagar_NN
+were_VBD [SPAU] [BYPA]
+duly_RB
+endorsed_VBN
+by_PIN
+Hussain_NN
+._.
+In_PIN
+a_DT
+statement_NOMZ
+,_,
+Baijal_NN
+'s_POS
+office_NN
+said_VBD [PUBV] [THATD]
+an_DT
+impression_NN
+is_VPRT
+being_VBG [PASS]
+created_VBN
+in_PIN
+sections_NOMZ
+of_PIN
+media_NN
+that_TOBJ
+the_DT
+permission_NN
+for_PIN
+felling_VBG
+the_DT
+trees_NN
+was_VBD [BYPA]
+granted_VBN [SUAV]
+by_PIN
+the_DT
+L-G_NN
+directly_RB
+despite_PIN
+objections_NOMZ
+from_PIN
+Hussain_NN
+._.
+Baijal_NN
+said_VBD [PUBV] [THATD]
+an_DT
+impression_NN
+is_VPRT
+being_VBG [PASS]
+created_VBN
+that_DEMO
+permission_NN
+for_PIN
+felling_VBG
+trees_NN
+was_VBD [BYPA]
+granted_VBN [SUAV]
+by_PIN
+L-G_NN
+directly_RB
+despite_PIN
+objections_NOMZ
+from_PIN
+environment_NOMZ
+minister_NN

@@ -1,0 +1,5 @@
+Chinese_JJ scientists_NNS have_VBP developed_VBN a_DT new_JJ nanogenerator_NN that_WDT can_MD harvest_VB energy_NN from_IN human_JJ motions_NNS to_TO continuously_RB power_NN wearable_JJ electronic_JJ devices_NNS ,_, state-run_JJ media_NNS reported_VBD ._.
+Scientists_NNS at_IN Zhengzhou_NNP University_NNP have_VBP developed_VBN a_DT washable_JJ and_CC wearable_JJ nanogenerator_NN based_VBN on_IN hydrophobic_JJ nanofiber_NN ._.
+It_PRP has_VBZ a_DT woven_VBN structure_NN and_CC can_MD be_VB attached_VBN to_TO clothes_NNS to_TO convert_VB the_DT mechanical_JJ energy_NN generated_VBN by_IN human_JJ activities_NNS into_IN electrical_JJ energy_NN ,_, according_VBG to_TO state-run_JJ China_NNP Science_NNP Daily_NNP ._.
+This_DT washable_JJ nanogenerator_NN with_IN its_PRP$ woven_VBN structure_NN has_VBZ provided_VBN new_JJ opportunities_NNS for_IN the_DT development_NN of_IN self-powered_JJ wearable_JJ electronics_NNS ,_, state-owned_JJ Xinhua_NNP news_NN agency_NN said_VBD ,_, citing_VBG the_DT report_NN ._.
+The_DT research_NN was_VBD published_VBN in_IN the_DT Journal_NNP of_IN Materials_NNPS Chemistry_NNP A._NN

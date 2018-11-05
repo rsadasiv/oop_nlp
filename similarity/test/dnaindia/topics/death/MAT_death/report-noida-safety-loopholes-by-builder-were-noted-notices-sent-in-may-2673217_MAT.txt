@@ -1,0 +1,329 @@
+The_DT
+shuttering_VBG
+collapse_NN
+which_WDT [WHSUB]
+claimed_VBD [PUBV]
+the_DT
+lives_NN
+of_PIN
+four_CD
+labourers_NN
+at_PIN
+the_DT
+BPTP_NN
+'s_POS
+18-storey_JJ
+building_GER
+in_PIN
+Sector_NN
+94_CD
+on_PIN
+Sunday_NN
+morning_GER
+,_,
+the_DT
+labor_NN
+department_NOMZ
+of_PIN
+the_DT
+district_NN
+on_PIN
+Monday_NN
+claimed_VBD [PUBV]
+that_THVC
+in_PIN
+May_POMD
+they_TPP3
+had_VBD [PEAS]
+inspected_VBN
+the_DT
+site_NN
+and_CC
+found_VBD [PRIV]
+that_THVC
+the_DT
+builder_NN
+did_VBD
+not_XX0
+follow_VB
+the_DT
+safety_NN
+measures_NN
+for_PIN
+the_DT
+labor_NN
+._.
+Due_JJ
+to_PIN
+which_WDT [PIRE]
+,_,
+the_DT
+labor_NN
+department_NOMZ
+had_VBD [PEAS]
+sent_VBN
+the_DT
+builder_NN
+two_CD
+notices_NN
+to_TO
+follow_VB
+the_DT
+safety_NN
+guidelines_NN
+for_PIN
+labourers_NN
+at_PIN
+the_DT
+site_NN
+._.
+According_VBG [PRESP]
+to_PIN
+a_DT
+senior_JJ
+official_NN
+in_PIN
+the_DT
+administration_NOMZ
+,_,
+the_DT
+officers_NN
+of_PIN
+labor_NN
+department_NOMZ
+had_VBD [PEAS]
+visited_VBN
+the_DT
+site_NN
+in_PIN
+May_POMD
+and_CC
+had_VBD [PEAS]
+found_VBN [PRIV]
+loopholes_NN
+towards_PIN
+the_DT
+safety_NN
+of_PIN
+the_DT
+workers_NN
+._.
+``_``
+They_TPP3
+had_VBD [PEAS]
+asked_VBN [SUAV]
+the_DT
+builder_NN
+to_TO
+look_VB
+into_PIN
+the_DT
+safety_NN
+measures_NN
+for_PIN
+the_DT
+workers_NN
+but_CC
+the_DT
+builder_NN
+did_VBD
+not_XX0
+pay_VB
+any_QUAN
+attention_NOMZ
+._.
+After_IN
+which_WDT
+the_DT
+labor_NN
+department_NOMZ
+of_PIN
+the_DT
+district_NN
+served_VBD
+two_CD
+notices_NN
+to_PIN
+the_DT
+builder_NN
+company_NN
+,_,
+''_''
+said_VBD [PUBV]
+the_DT
+officer_NN
+._.
+Following_VBG [PRESP]
+the_DT
+incident_NN
+,_,
+the_DT
+work_NN
+at_PIN
+the_DT
+construction_NOMZ
+site_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+stopped_VBN
+while_OSUB
+the_DT
+site_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+sealed_VBN
+till_IN
+further_JJ
+investigation_NOMZ
+in_PIN
+Sector_NN
+94_CD
+._.
+On_PIN
+Sunday_NN
+morning_GER
+,_,
+four_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+while_OSUB
+five_CD
+others_NN
+were_VBD [PASS]
+injured_VBN
+when_RB
+shuttering_VBG
+at_PIN
+an_DT
+under-construction_JJ
+multi-storey_JJ
+private_JJ
+building_GER
+collapsed_VBD
+in_PIN
+sector_NN
+94_CD
+of_PIN
+Noida_NN
+._.
+Police_NN
+said_VBD [PUBV]
+that_THVC
+prima_NN
+facie_NN
+it_PIT
+appears_VPRT [SMP]
+that_THVC
+the_DT
+shuttering_VBG
+was_VBD [SPAU] [BYPA]
+accidentally_RB
+hit_VBN
+by_PIN
+a_DT
+tractor-trolley_NN
+carrying_VBG [WZPRES]
+construction_NOMZ
+material_NN
+which_WDT [WHSUB]
+led_VBD
+to_PIN
+the_DT
+collapse_NN
+however_CONJ
+the_DT
+cause_NN
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+ascertained_VBN [PRIV]
+._.
+The_DT
+police_NN
+also_RB
+filed_VBD
+an_DT
+FIR_NN
+against_PIN
+construction_NOMZ
+company_NN
+who_WP [WHSUB]
+are_VPRT [BEMA]
+prima_JJ
+facie_NN
+appearing_VBG [SMP] [WZPRES]
+to_TO
+be_VB [BEMA]
+responsible_PRED
+for_PIN
+the_DT
+incident_NN
+under_IN
+sections_NOMZ
+304A_NN
+-LRB-_-LRB-
+Causing_VBG
+death_NN
+by_PIN
+negligence_NN
+-RRB-_-RRB-
+and_ANDC
+288_CD
+-LRB-_-LRB-
+Negligent_JJ
+conduct_NN
+with_PIN
+respect_NN
+to_TO
+pulling_VBG
+down_RP
+or_CC
+repairing_VBG
+building_GER
+-RRB-_-RRB-
+of_PIN
+the_DT
+Indian_JJ
+Penal_NN
+Code_NN
+``_``
+The_DT
+deceased_VBN
+will_PRMD
+be_VB [PASS]
+compensated_VBN
+under_IN
+the_DT
+provisions_NN
+of_PIN
+the_DT
+Minimum_NN
+wages_NN
+act_NN
+._.
+But_CC
+police_NN
+also_RB
+said_VBD [PUBV]
+that_THVC
+whoever_WP
+will_PRMD
+be_VB [PASS]
+found_VBN [PRIV]
+guilty_JJ
+in_PIN
+this_DEMO
+case_NN
+will_PRMD
+face_VB
+action_NOMZ
+,_,
+''_''
+said_VBD [PUBV]
+a_DT
+senior_JJ
+police_NN
+officer_NN
+._.

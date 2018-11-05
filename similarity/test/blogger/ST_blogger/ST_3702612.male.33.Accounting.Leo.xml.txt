@@ -1,0 +1,45 @@
+I_PRP wonder_VBP :_: now_RB that_IN the_DT trend_NN on_IN the_DT horizon_NN -LRB-_-LRB- both_DT IAS_NNP and_CC USGAAP_NNP -RRB-_-RRB- is_VBZ to_TO move_VB towards_IN fair_JJ value_NN in_IN valuating_VBG assets_NNS and_CC liabilities_NNS ,_, how_WRB does_VBZ that_IN influence_NN the_DT traditional_JJ balance_NN between_IN management_NN -LRB-_-LRB- a_DT bit_NN on_IN the_DT optimistic\/entrepreneurial_JJ side_NN -RRB-_-RRB- versus_CC the_DT accountants_NNS -LRB-_-LRB- careful_JJ ,_, conservative_JJ and_CC trust_NN building_NN -RRB-_-RRB- ?_.
+Hello_UH to_TO all_DT of_IN you_PRP International_NNP Accounting_NNP Experts_NNS ,_, If_IN you_PRP are_VBP professionally_RB involved_VBN in_IN the_DT world_NN of_IN IASB_NNP ,_, FASB_NNP ,_, IAS_NNP 32_CD ,_, IAS_NNP 36_CD and_CC IAS_NNP 39_CD ,_, Sarbanes-Oxley_NNP and_CC fair_JJ value_NN accounting_NN ,_, then_RB this_DT discussion_NN group_NN is_VBZ for_IN you_PRP !_.
+Of_IN course_NN you_PRP can_MD read_VB anything_NN that_WDT 's_VBZ here_RB anyway_RB and_CC you_PRP can_MD even_RB make_VB comments_NNS to_TO the_DT discussions_NNS ._.
+Should_MD you_PRP want_VB to_TO become_VB an_DT ACTIVE_JJ member_NN of_IN this_DT accounting_NN community_NN ,_, and_CC be_VB able_JJ to_TO INITIATE_VB new_JJ postings_NNS yourself_PRP ,_, then_RB you_PRP need_VBP to_TO Request_VB a_DT free_JJ Membership_NN ._.
+You_PRP can_MD add_VB new_JJ topics_NNS quick_JJ and_CC easy_JJ using_VBG the_DT Google_NNP toolbar_NN while_IN browsing_VBG over_IN the_DT Internet_NNP ._.
+So_RB Join_VB this_DT forum_NN now_RB !_.
+Anyway_RB ,_, we_PRP hope_VBP this_DT New_NNP International_NNP Accounting_NNP Forum_NNP will_MD become_VB a_DT useful_JJ tool_NN for_IN you_PRP to_TO discuss_VB news_NN ,_, ideas_NNS and_CC questions_NNS you_PRP have_VBP ._.
+Companies_NNS across_IN Europe_NNP have_VBP been_VBN left_VBN with_IN a_DT real_JJ headache_NN over_IN the_DT awkward_JJ compromise_NN the_DT European_JJ Commission_NNP has_VBZ proposed_VBN this_DT week_NN on_IN new_JJ accounting_NN rules_NNS for_IN derivatives_NNS ._.
+While_IN the_DT debate_NN is_VBZ not_RB yet_RB over_IN ,_, it_PRP looks_VBZ like_IN Brussels_NNP will_MD endorse_VB only_RB parts_NNS of_IN the_DT international_JJ accounting_NN standard_NN known_VBN as_IN IAS_NNP 39_CD and_CC set_VBN aside_RB its_PRP$ most_RBS controversial_JJ aspects_NNS ._.
+``_`` It_PRP 's_VBZ a_DT real_JJ mess_NN ,_, ''_'' said_VBD John_NNP Hitchins_NNP ,_, UK_NNP banking_NN leader_NN at_IN PwC_NNP ,_, the_DT accounting_NN and_CC consultancy_NN firm_NN ._.
+``_`` Especially_RB if_IN you_PRP are_VBP SEC_NNP registered_VBD ._. ''_''
+Many_JJ European_JJ companies_NNS with_IN a_DT US_NNP share_NN listing_NN ,_, and_CC therefore_RB registered_VBN with_IN the_DT Securities_NNPS and_CC Exchange_NNP Commission_NNP ,_, had_VBD hoped_VBN Brussels_NNP would_MD back_RB convergence_NN of_IN US_NNP and_CC European_JJ accounting_NN standards_NNS so_IN they_PRP would_MD no_RB longer_RB have_VBP to_TO do_VB things_NNS in_IN duplicate_VBP ._.
+It_PRP is_VBZ not_RB clear_JJ the_DT compromise_NN will_MD be_VB enough_RB to_TO achieve_VB that_DT ._.
+Many_JJ will_MD probably_RB implement_VB anyway_RB ,_, but_CC fear_VBP they_PRP will_MD not_RB after_IN all_DT feel_VBP the_DT benefit_NN ._.
+IAS_NNP 39_CD has_VBZ been_VBN devised_VBN primarily_RB with_IN banks_NNS in_IN mind_NN ,_, but_CC nevertheless_RB applies_VBZ to_TO all_DT of_IN Europe_NNP 's_POS 7,000_CD listed_VBN companies_NNS ._.
+Corporate_JJ treasurers_NNS ,_, the_DT people_NNS at_IN the_DT front_JJ line_NN ,_, see_VBP the_DT deadline_NN of_IN January_NNP 1_CD 2005_CD looming_VBG with_IN some_DT difficult_JJ decisions_NNS to_TO make_VB ._.
+Its_PRP$ official_JJ debut_NN comes_VBZ in_IN accounts_NNS with_IN a_DT 2006_CD closing_NN date_NN ._.
+However_RB IFRS_NNP ,_, the_DT new_JJ international_JJ accounting_NN rules_NNS ,_, are_VBP actually_RB already_RB here_RB ,_, because_IN accounts_NNS for_IN the_DT current_JJ year_NN are_VBP going_VBG to_TO have_VB to_TO be_VB expressed_VBN under_IN IFRS_NNP rules_NNS for_IN comparison_NN with_IN the_DT 2005-06_CD numbers_NNS when_WRB they_PRP are_VBP posted_VBN ._.
+Here_RB 's_VBZ an_DT overview_NN of_IN 10_CD major_JJ changes_NNS due_JJ to_TO IFRS_NNS that_WDT are_VBP coming_VBG up_RB :_: Accountants_NNS :_: are_VBP having_VBG a_DT boom_NN year_NN ._.
+Remarkable_JJ if_IN you_PRP remember_VBP the_DT crisis_NN that_WDT led_VBD to_TO these_DT changes_NNS was_VBD caused_VBN by_IN accountants_NNS to_TO an_DT extent_NN ._.
+Balance_NN sheets_NNS :_: will_MD be_VB smaller_JJR and_CC more_RBR highly_RB geared_VBN ._.
+So_IN that_DT should_MD clean_VB up_RP things_NNS over_IN there_EX a_DT little_JJ bit_NN ._.
+Profit_NN statements_NNS :_: will_MD be_VB more_RBR susceptible_JJ to_TO unexpected_JJ change_NN ._.
+Probably_RB leading_VBG to_TO increased_VBN volatility_NN of_IN stocks_NNS ._.
+Stock_NN trading_NN may_MD increase_VB as_IN a_DT result_NN ._.
+Intangibles_NNPS :_: If_IN they_PRP are_VBP internally_RB generated_VBN ,_, they_PRP have_VBP to_TO be_VB written_VBN off_RP ,_, usually_RB against_IN retained_VBN earnings_NNS ._.
+The_DT change_NN will_MD shrink_VB balance_NN sheets_NNS and_CC boost_VB gearing_VBG ,_, and_CC may_MD force_VB the_DT renegotiation_NN of_IN debt_NN covenants_NNS ._.
+Companies_NNS with_IN strong_JJ brand_NN portfolios_NNS in_IN the_DT food_NN ,_, drink_NN and_CC media_NNS industries_NNS are_VBP likely_JJ to_TO be_VB affected_VBN ,_, as_RB well_RB as_IN companies_NNS that_WDT place_VBP values_NNS on_IN items_NNS such_JJ as_IN research_NN and_CC development_NN ,_, trademarks_NNS ,_, copyrights_NNS and_CC other_JJ intellectual_JJ property_NN ._.
+Property_NN :_: Under_IN IFRS_NNP ,_, changes_NNS in_IN individual_JJ property_NN values_NNS must_MD be_VB calculated_VBN ,_, and_CC they_PRP will_MD all_RB go_VB through_IN the_DT profit_NN and_CC loss_NN statement_NN ._.
+As_IN part_NN of_IN this_DT change_NN ,_, existing_VBG property_NN revaluation_NN reserves_NNS are_VBP to_TO be_VB transferred_VBN to_TO retained_VBN earnings_NNS ,_, providing_VBG a_DT buffer_NN for_IN some_DT companies_NNS against_IN write-downs_NNS on_IN intangible_JJ assets_NNS ._.
+Defined_VBN benefit_NN superannuation_NN plans_NNS :_: Most_JJS companies_NNS have_VBP closed_VBN their_PRP$ defined_VBN benefit_NN plans_VBZ off_RP ,_, in_IN favor_NN of_IN defined_VBN contributions_NNS plans_NNS ._.
+But_CC the_DT defined_VBN plans_NNS are_VBP still_RB slowly_RB running_VBG down_RB ,_, and_CC under_IN the_DT new_JJ accounting_NN rules_NNS ,_, positive_JJ and_CC negative_JJ changes_NNS in_IN their_PRP$ value_NN -_: when_WRB the_DT market_NN soars_VBZ or_CC slumps_VBZ for_IN example_NN -_: will_MD go_VB to_TO the_DT profit_NN and_CC loss_NN statement_NN ._.
+Asset_NNP impairment_NN :_: Companies_NNS already_RB justify_VBP the_DT carrying_VBG values_NNS of_IN their_PRP$ assets_NNS ,_, and_CC write_VB them_PRP down_RP if_IN they_PRP can_MD not_RB ._.
+Under_IN IFRS_NNP ,_, however_RB ,_, they_PRP will_MD have_VB to_TO run_VB much_RB tougher_JJR tests_NNS ,_, and_CC examine_VB smaller_JJR business_NN units_NNS -_: in_IN retailing_NN ,_, individual_JJ stores_NNS ,_, not_RB just_RB a_DT chain_NN ,_, for_IN example_NN ._.
+Employee_NN stock_NN options_NNS :_: One_CD of_IN the_DT lessons_NNS of_IN the_DT '90s_CD boom_NN and_CC the_DT bust_NN that_WDT followed_VBD was_VBD that_IN employee_NN options_NNS have_VBP a_DT cost_NN that_WDT should_MD be_VB accounted_VBN for_IN ._.
+The_DT new_JJ system_NN does_VBZ this_DT ,_, but_CC in_IN a_DT way_NN that_IN creates_VBZ distortions_NNS ._.
+Share_NN options_NNS are_VBP valued_VBN at_IN their_PRP$ creation_NN as_IN if_IN they_PRP will_MD be_VB exercised_VBN ,_, and_CC then_RB written_VBN off_RP against_IN earnings_NNS over_IN their_PRP$ life_NN ._.
+But_CC even_RB if_IN they_PRP are_VBP not_RB exercised_VBN -_: because_IN the_DT company_NN 's_POS stock_NN price_NN is_VBZ too_RB low_JJ ,_, for_IN example_NN -_: the_DT written-off_JJ amount_NN can_MD not_RB be_VB written_VBN back_RB ._.
+Financial_NNP hedging_NN :_: Under_IN the_DT new_JJ rules_NNS ,_, general_JJ hedges_NNS are_VBP out_RB ._.
+Hedges_NNP must_MD be_VB tied_VBN to_TO specific_JJ deals_NNS ,_, and_CC priced_VBN realistically_RB ._.
+Groups_NNS that_WDT run_VBP big_JJ ,_, unallocated_JJ hedge_NN books_NNS ,_, notably_RB banks_NNS ,_, are_VBP going_VBG to_TO have_VB to_TO book_NN changes_NNS in_IN their_PRP$ value_NN through_IN profit_NN and_CC loss_NN statements_NNS ._.
+Banks_NNS in_IN Europe_NNP have_VBP fought_VBN against_IN this_DT provision_NN ._.
+Goodwill_NNP :_: Companies_NNS that_WDT pay_VBP more_JJR than_IN net_JJ tangible_JJ asset_NN value_NN in_IN takeovers_NNS at_IN present_JJ have_VBP to_TO write_VB the_DT goodwill_NN -_: the_DT excess_NN over_IN net_JJ assets_NNS -_: off_RP against_IN earnings_NNS ,_, over_IN a_DT maximum_NN of_IN 20_CD years_NNS ._.
+Under_IN the_DT new_JJ system_NN ,_, they_PRP do_VBP not_RB have_VB to_TO write_VB that_DT goodwill_NN off_RP at_IN all_DT ._.
+Logical_JJ ,_, but_CC philosophically_RB opposed_VBN to_TO rules_NNS on_IN intangibles_NNS ._.

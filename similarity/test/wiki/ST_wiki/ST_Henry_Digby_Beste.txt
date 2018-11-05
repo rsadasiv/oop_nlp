@@ -1,0 +1,24 @@
+Henry_NNP Digby_NNP Beste_NNP -LRB-_-LRB- 1768_CD ``_`` 1836_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN and_CC aristocratic_JJ convert_VBP to_TO Catholicism_NNP ,_, seen_VBN as_IN a_DT precursor_NN to_TO the_DT Oxford_NNP Movement_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN at_IN Lincoln_NNP ,_, England_NNP ,_, 21_CD October_NNP 1768_CD ,_, the_DT son_NN of_IN the_DT Rev._NNP Henry_NNP Beste_NNP ,_, D.D._NNP ,_, prebendary_NN of_IN Lincoln_NNP Cathedral_NNP ._.
+His_PRP$ mother_NN ,_, Magdalen_NNP ,_, daughter_NN and_CC heiress_NN of_IN Kenelm_NNP Digby_NNP ,_, Esq._NNP ,_, of_IN North_NNP Luffenham_NNP in_IN Rutland_NNP ,_, claimed_VBD to_TO be_VB the_DT representative_NN of_IN the_DT extinct_JJ male_NN line_NN of_IN the_DT historic_JJ Sir_NNP Everard_NNP and_CC Sir_NNP Kenelm_NNP Digby_NNP ._.
+His_PRP$ father_NN dying_VBG in_IN 1782_CD ,_, Henry_NNP was_VBD sent_VBN two_CD years_NNS later_RB by_IN his_PRP$ mother_NN to_TO Oxford_NNP ._.
+He_PRP became_VBD a_DT commoner_NN of_IN Magdalen_NNP College_NNP ,_, where_WRB he_PRP took_VBD his_PRP$ B.A._NNP degree_NN in_IN 1788_CD and_CC his_PRP$ M.A._NNP in_IN 1781_CD ._.
+He_PRP was_VBD afterward_RB elected_VBN to_TO a_DT fellowship_NN ,_, which_WDT he_PRP resigned_VBD when_WRB the_DT family_NN estates_VBZ came_VBD to_TO him_PRP on_IN the_DT death_NN of_IN his_PRP$ mother_NN ._.
+In_IN September_NNP ,_, 1791_CD ,_, he_PRP took_VBD deacon_NN 's_POS orders_NNS in_IN the_DT Anglican_JJ church_NN ,_, and_CC a_DT little_JJ later_JJ retired_VBN to_TO Lincoln_NNP ,_, where_WRB he_PRP was_VBD active_JJ as_IN a_DT preacher_NN ._.
+Doubts_NNS about_IN the_DT spiritual_JJ authority_NN of_IN the_DT Established_NNP Church_NNP sprang_VBD up_RP in_IN his_PRP$ mind_NN ,_, which_WDT were_VBD strengthened_VBN by_IN intercourse_NN with_IN the_DT Abbé_NNP Beaumont_NNP ,_, then_RB in_IN charge_NN of_IN the_DT small_JJ Catholic_NNP chapel_NN at_IN Lincoln_NNP ._.
+The_DT result_NN was_VBD that_IN he_PRP was_VBD received_VBN into_IN the_DT Catholic_NNP Church_NNP by_IN Rev._NNP Mr._NNP Hodgson_NNP ,_, Vicar-General_NNP of_IN the_DT London_NNP district_NN ,_, 26_CD May_NNP 1798_CD ._.
+He_PRP died_VBD at_IN Brighton_NNP ,_, 28_CD May_NNP 1836_CD ._.
+In_IN 1800_CD ,_, he_PRP had_VBD married_VBN Sarah_NNP ,_, daughter_NN of_IN Edward_NNP Sealy_NNP ,_, Esq._NNP ,_, and_CC was_VBD the_DT father_NN of_IN the_DT author_NN John_NNP Richard_NNP Digby_NNP Beste_NNP ._.
+His_PRP$ first_JJ works_NNS were_VBD a_DT treatise_NN entitled_VBN ``_`` The_DT Christian_NNP Religion_NNP briefly_NN defended_VBD against_IN the_DT Philosophers_NNPS and_CC Republicans_NNPS of_IN France_NNP -LRB-_-LRB- octavo_NN ,_, 1793_CD -RRB-_-RRB- ,_, and_CC in_IN the_DT same_JJ year_NN a_DT discourse_NN on_IN ``_`` Priestly_NNP Absolution_NNP ''_'' which_WDT was_VBD republished_VBN in_IN 1874_CD ._.
+This_DT latter_JJ work_NN anticipated_VBD some_DT of_IN the_DT Tractarian_JJ arguments_NNS and_CC met_VBD with_IN the_DT commendation_NN of_IN members_NNS of_IN the_DT University_NNP of_IN Oxford_NNP in_IN 1794_CD ._.
+After_IN his_PRP$ conversion_NN Beste_NNP was_VBD an_DT occasional_JJ contributor_NN to_TO Catholic_NNP periodicals_NNS ._.
+He_PRP also_RB traveled_VBD abroad_RB and_CC spent_VBD several_JJ years_NNS in_IN France_NNP and_CC Italy_NNP ._.
+Cardinal_NNP Wiseman_NNP met_VBD him_PRP at_IN Rome_NNP in_IN the_DT Jubilee_NNP of_IN 1825_CD ,_, and_CC mentions_VBZ him_PRP in_IN his_PRP$ ``_`` Last_JJ Four_CD Popes_NNP ''_'' -LRB-_-LRB- Boston_NNP ,_, 1858_CD -RRB-_-RRB- ,_, p._FW 245_CD -RRB-_-RRB- ._.
+In_IN 1826_CD Best_JJS English_JJ Family_NNP 's_POS Residence_NN there_RB during_IN that_DT period_NN ,_, preceded_VBN by_IN some_DT account_NN of_IN the_DT Conversion_NNP of_IN the_DT Author_NN to_TO the_DT Catholic_NNP Faith_NNP ''_'' -LRB-_-LRB- octavo_NN -RRB-_-RRB- ._.
+Two_CD years_NNS later_RB he_PRP wrote_VBD a_DT similar_JJ book_NN on_IN his_PRP$ stay_NN in_IN Italy_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+Ten_CD years_NNS after_IN his_PRP$ death_NN appeared_VBD his_PRP$ last_JJ work_NN ,_, called_VBN ``_`` Poverty_NN and_CC the_DT Baronet_NNP 's_POS Family_NNP ,_, a_DT Catholic_NNP Story_NNP ''_'' -LRB-_-LRB- 12mo_JJ ,_, 1846_CD -RRB-_-RRB- ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Herbermann_NNP ,_, Charles_NNP ,_, ed_VBD ._.
+-LRB-_-LRB- 1913_CD -RRB-_-RRB- ._.
+``_`` Henry_NNP Digby_NNP Beste_NNP ''_'' ._.
+Catholic_NNP Encyclopedia_NNP ._.
+New_NNP York_NNP :_: Robert_NNP Appleton_NNP ._.

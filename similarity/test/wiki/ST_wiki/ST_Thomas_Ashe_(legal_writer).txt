@@ -1,0 +1,7 @@
+Thomas_NNP Ashe_NNP or_CC Ash_NNP -LRB-_-LRB- fl_NN ._.
+1600-1618_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ legal_JJ writer_NN ._.
+Ashe_NNP entered_VBD as_IN a_DT student_NN of_IN Gray_NNP 's_POS Inn_NNP in_IN 1574_CD ,_, was_VBD called_VBN to_TO the_DT bar_NN 24_CD January_NNP 1582-3_JJ ,_, and_CC became_VBD pensioner_NN of_IN his_PRP$ inn_NN 17_CD October_NNP 1597_CD ._.
+He_PRP was_VBD the_DT author_NN of_IN the_DT following_VBG works_NNS :_: '_'' A_DT Generall_NNP Table_NNP '_POS to_TO Coke_NNP 's_POS reports_NNS ,_, issued_VBN in_IN 1652_CD ,_, has_VBZ been_VBN attributed_VBN to_TO Ashe_NNP ._.
+``_`` Ashe_NNP ,_, Thomas_NNP -LRB-_-LRB- fl.1600-1618_JJ -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

@@ -1,0 +1,147 @@
+Singer_NN
+Demi_NN
+Lovato_NN
+,_,
+who_WP
+has_VPRT [PEAS]
+been_VBN
+dealing_VBG
+with_PIN
+bipolar_JJ
+disorder_NN
+for_PIN
+several_QUAN
+years_NN
+,_,
+thinks_VPRT [PRIV] [THATD]
+it_PIT
+is_VPRT [BEMA]
+okay_PRED
+to_TO
+have_VB
+a_DT
+mental_JJ
+illness_NOMZ
+._.
+The_DT
+22-year-old_JJ
+singer_NN
+launched_VBD
+her_TPP3
+own_JJ
+campaign_NN
+aimed_VBN [WZPAST]
+at_PIN
+tackling_VBG
+the_DT
+negative_JJ
+stigma_NN
+against_PIN
+mental_JJ
+illness_NOMZ
+,_,
+reported_VBD [PUBV]
+People_NN
+magazine_NN
+._.
+``_``
+I_FPP1
+just_EMPH
+think_VPRT [PRIV] [THATD]
+mental_JJ
+illness_NOMZ
+is_VPRT
+something_QUPR
+people_NN
+need_VPRT
+to_TO
+learn_VB [PRIV]
+more_EMPH
+about_IN
+._.
+I_FPP1
+want_VPRT
+people_NN
+to_TO
+know_VB [PRIV] [THATD]
+it_PIT
+'s_VPRT [CONT] [BEMA]
+okay_PRED
+to_TO
+ask_VB [SUAV]
+for_PIN
+help_NN
+and_CC
+it_PIT
+'s_VPRT [CONT] [BEMA]
+okay_PRED
+to_TO
+have_VB
+a_DT
+mental_JJ
+illness_NOMZ
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+chart-topping_JJ
+performer_NN
+,_,
+who_WP
+was_VBD [PASS]
+diagnosed_VBN
+as_IN
+bulimic_JJ
+,_,
+bipolar_JJ
+and_CC
+addicted_VBN
+to_PIN
+drugs_NN
+and_PHC
+alcohol_NN
+in_PIN
+2011_CD
+,_,
+explained_VBD [PUBV]
+that_THVC
+her_TPP3
+father_NN
+,_,
+Patrick_NN
+,_,
+suffered_VBD
+from_PIN
+similar_JJ
+illnesses_NOMZ
+before_IN
+he_TPP3
+passed_VBD
+away_PLACE
+in_PIN
+2013_CD
+._.
+``_``
+I_FPP1
+watched_VBD
+him_TPP3
+live_VB
+a_DT
+very_AMP
+unfortunate_JJ
+life_NN
+because_CAUS
+of_PIN
+the_DT
+lack_NN
+of_PIN
+access_NN
+to_PIN
+treatment_NOMZ
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.

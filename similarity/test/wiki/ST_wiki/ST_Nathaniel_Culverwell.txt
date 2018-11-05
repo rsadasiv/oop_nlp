@@ -1,0 +1,4 @@
+Nathaniel_NNP Culverwell_NNP -LRB-_-LRB- alternative_JJ spellings_NNS Nathanael_NNP or_CC Culverwel_NNP ;_: 1619_CD ``_`` 1651_CD -RRB-_-RRB- was_VBD an_DT English_JJ author_NN and_CC theologian_NN ,_, born_VBN in_IN Middlesex_NNP ._.
+He_PRP was_VBD baptized_VBN on_IN 14_CD January_NNP 1619_CD at_IN the_DT church_NN of_IN St._NNP Margaret_NNP Moses_NNP where_WRB his_PRP$ father_NN was_VBD rector_NN ._.
+He_PRP was_VBD the_DT second_NN of_IN six_CD children_NNS of_IN Richard_NNP and_CC Margaret_NNP -LRB-_-LRB- Horton_NNP -RRB-_-RRB- Culverwell_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- A_DT student_NN -LRB-_-LRB- admitted_VBN 1633_CD -RRB-_-RRB- and_CC later_RB a_DT fellow_NN of_IN Emmanuel_NNP College_NNP ,_, Cambridge_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- he_PRP was_VBD associated_VBN with_IN members_NNS of_IN the_DT Cambridge_NNP Platonists_NNP group_NN ._.

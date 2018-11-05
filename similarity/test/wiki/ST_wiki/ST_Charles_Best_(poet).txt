@@ -1,0 +1,4 @@
+Charles_NNP Best_JJS -LRB-_-LRB- 1570_CD ``_`` 1627_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ._.
+He_PRP was_VBD a_DT contributor_NN to_TO Francis_NNP Davison_NNP 's_POS Poetical_NNP Rapsodie_NNP -LRB-_-LRB- 1608_CD -RRB-_-RRB- ._.
+The_DT first_JJ edition_NN of_IN that_DT anthology_NN contains_VBZ two_CD pieces_NNS by_IN Best_JJS ,_, A_DT Sonnet_NNP of_IN the_DT Sun_NNP -LRB-_-LRB- eighteen_JJ lines_NNS -RRB-_-RRB- and_CC A_DT Sonnet_NNP of_IN the_DT Moon_NNP ._.
+To_TO the_DT third_JJ edition_NN -LRB-_-LRB- 1611_CD -RRB-_-RRB- he_PRP contributed_VBD An_DT Epitaph_NNP on_IN Henry_NNP Fourth_JJ ,_, the_DT last_JJ French_JJ King_NNP ,_, An_DT Epitaph_NNP on_IN Queen_NNP Elizabeth_NNP ,_, Union_NNP 's_POS Jewell_NNP ,_, '_'' A_DT Panegyrick_NN to_TO my_PRP$ Sovereign_NNP Lord_NNP the_DT King_NNP ,_, '_'' and_CC a_DT few_JJ other_JJ pieces_NNS ._.

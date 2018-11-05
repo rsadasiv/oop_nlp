@@ -1,0 +1,16 @@
+Lashkar-e-Taiba_NNP ,_, the_DT Pakistan-based_JJ terror_NN group_NN ,_, has_VBZ threatened_VBN to_TO carry_VB out_RP series_NN of_IN attack_NN in_IN Gujarat_NNP ,_, Rajasthan_NNP and_CC Madhya_NNP Pradesh_NNP ._.
+According_VBG to_TO an_DT HT_NNP report_NN ,_, Lashkar_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ area_NN commander_NN Maulvi_NNP Abu_NNP Sheikh_NNP had_VBD written_VBN a_DT warning_NN note_NN from_IN Rawalpindi_NNP ,_, which_WDT was_VBD <sup>_VBN ~_RB </sup>_JJ received_VBN <sup>_NN TM_NNP </sup>_NNP by_IN railway_NN officials_NNS in_IN Jaipur_NNP on_IN September_NNP 29_CD ._.
+The_DT letter_NN said_VBD that_IN attacks_NNS will_MD be_VB carried_VBN out_RP on_IN October_NNP 20_CD and_CC November_NNP 9_CD ._.
+With_IN October_NNP 20_CD passing_VBG off_RP peacefully_RB ,_, the_DT security_NN agencies_NNS are_VBP on_IN high_JJ alert_NN for_IN any_DT untoward_JJ incident_NN on_IN November_NNP 9_CD ._.
+The_DT terror_NN group_NN will_MD be_VB specifically_RB targeting_VBG railways_NNS stations_NNS across_IN Madhya_NNP Pradesh_NNP ._.
+Bhopal_NNP ,_, Gwalior_NNP ,_, Katni_NNP and_CC Jabalpur_NNP have_VBP been_VBN put_VBN on_RP high_JJ alert_NN ._.
+The_DT threat_NN comes_VBZ at_IN a_DT time_NN when_WRB two_CD of_IN these_DT states_NNS are_VBP preparing_VBG for_IN the_DT state_NN Assembly_NN elections_NNS in_IN December_NNP ._.
+Both_DT Rajasthan_NNP and_CC Madhya_NNP Pradesh_NNP is_VBZ witnessing_VBG intense_JJ poll_NN campaigning_NN by_IN various_JJ political_JJ parties_NNS ._.
+Lashkar_NNP is_VBZ the_DT same_JJ group_NN that_WDT carried_VBD out_RP deadly_JJ 26\/11_CD attacks_NNS in_IN Mumbai_NNP in_IN 2008_CD ._.
+A_DT group_NN of_IN 10_CD Lashkar-e-Taiba_NNP -LRB-_-LRB- LET_NNP -RRB-_-RRB- terrorists_NNS from_IN Pakistan_NNP carried_VBD out_RP coordinated_VBN attacks_NNS in_IN Mumbai_NNP from_IN November_NNP 26_CD to_TO 29_CD in_IN 2008_CD ,_, which_WDT claimed_VBD 166_CD lives_NNS and_CC left_VBD more_JJR than_IN 300_CD injured_VBN ._.
+Nine_CD of_IN the_DT attackers_NNS were_VBD killed_VBN by_IN police_NN while_IN lone_JJ survivor_NN Ajmal_NNP Kasab_NNP was_VBD caught_VBN in_IN Mumbai_NNP and_CC hanged_VBN after_IN being_VBG handed_VBN down_RP a_DT death_NN sentence_NN ._.
+Not_RB only_RB is_VBZ the_DT probe_NN going_VBG slow_JJ ,_, the_DT masterminds_NNS Zaki-ur-Rehman_NNP and_CC Hafiz_NNP Saeed_NNP are_VBP currently_RB roaming_VBG freely_RB in_IN Pakistan_NNP ._.
+Hafiz_NNP Saeed_NNP has_VBZ launched_VBN a_DT political_JJ outfit_NN whereas_IN Zaki-ur_NNP Rehman_NNP Lakhvi_NNP is_VBZ reportedly_RB raising_VBG funds_NNS for_IN the_DT outfit_NN 's_POS terror_NN activities_NNS ._.
+He_PRP is_VBZ actively_RB organising_VBG collection_NN of_IN donations_NNS in_IN Punjab_NNP coinciding_VBG with_IN the_DT wheat_NN harvesting_VBG season_NN ,_, said_VBD a_DT report_NN quoting_VBG sources_NNS ._.
+Zakiur_NNP Lakhvi_NNP ,_, Abdul_NNP Wajid_NNP ,_, Mazhar_NNP Iqbal_NNP ,_, Hamad_NNP Sadiq_NNP ,_, Shahid_NNP Riaz_NNP ,_, Jamil_NNP Ahmed_NNP and_CC Younis_NNP Anjum_NNP ''_'' have_VBP been_VBN facing_VBG charges_NNS related_VBN to_TO the_DT attacks_NNS since_IN 2009_CD ._.
+There_EX were_VBD reports_NNS that_IN a_DT mosque_NN in_IN Haryana_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Palwal_NNP was_VBD built_VBN with_IN help_NN of_IN Lashkar_NNP funds_NNS ._.

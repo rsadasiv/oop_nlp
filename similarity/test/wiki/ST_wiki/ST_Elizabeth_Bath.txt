@@ -1,0 +1,12 @@
+Elizabeth_NNP Bath_NNP ,_, née_NN Paddy_NNP ,_, -LRB-_-LRB- 1776_CD ``_`` 1844_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ._.
+She_PRP was_VBD the_DT author_NN of_IN a_DT collection_NN of_IN sixty-six_JJ poems_NNS published_VBN by_IN subscription_NN in_IN 1806_CD in_IN Bristol_NNP ._.
+She_PRP was_VBD a_DT member_NN of_IN the_DT Society_NNP of_IN Friends_NNPS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Elizabeth_NNP Paddy_NNP was_VBD born_VBN on_IN 17_CD February_NNP 1776_CD ._.
+She_PRP was_VBD the_DT daughter_NN of_IN Edward_NNP Paddy_NNP and_CC Mary_NNP -LRB-_-LRB- Rowling_NNP -RRB-_-RRB- of_IN Falmouth_NNP ,_, Cornwall_NNP ._.
+On_IN 7_CD November_NNP 1796_CD ,_, she_PRP married_VBD Henry_NNP Bath_NNP -LRB-_-LRB- 24_CD January_NNP 1776_CD ''_'' 29_CD May_NNP 1844_CD -RRB-_-RRB- a_DT Quaker_NNP and_CC metals_NNS merchant_NN of_IN Swansea_NNP ,_, South_NNP Wales_NNP ,_, also_RB founder_NN of_IN Henry_NNP Bath_NNP &_CC Son_NNP Ltd._NNP ,_, an_DT enterprise_NN currently_RB in_IN existence_NN ._.
+They_PRP lived_VBD at_IN Rosehill_NNP House_NNP ,_, in_IN Mumbles_NNP ,_, Swansea_NNP ._.
+Elizabeth_NNP 's_POS sister_NN ,_, Mary_NNP ,_, became_VBD the_DT wife_NN of_IN Edward_NNP Osler_NNP and_CC thereby_RB the_DT grandmother_NN of_IN Sir_NNP William_NNP Osler_NNP ,_, the_DT world-renowned_JJ physician_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP died_VBD on_IN 3_CD October_NNP 1844_CD ._.
+Elizabeth_NNP Bath_NNP 's_POS book_NN is_VBZ dedicated_VBN to_TO a_DT friend_NN ``_`` whose_WP$ sincerity_NN is_VBZ equaled_VBN only_RB by_IN the_DT stability_NN which_WDT has_VBZ ever_RB marked_VBN her_PRP$ character_NN ._. ''_''
+The_DT poems_NNS take_VBP a_DT variety_NN of_IN forms_NNS ''_'' some_DT are_VBP sonnets_NNS ;_: some_DT are_VBP longer_RBR poems_NNS ''_'' and_CC they_PRP address_VBP religion_NN ,_, loss_NN ,_, friendship_NN ,_, sensibility_NN ,_, and_CC other_JJ likely_JJ topics_NNS ._.
+The_DT list_NN of_IN subscribers_NNS is_VBZ substantial_JJ ._.

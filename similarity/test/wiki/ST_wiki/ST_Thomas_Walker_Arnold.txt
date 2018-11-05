@@ -1,0 +1,15 @@
+Sir_NNP Thomas_NNP Walker_NNP Arnold_NNP ,_, CIE_NNP -LRB-_-LRB- 19_CD April_NNP 1864_CD ``_`` 9_CD June_NNP 1930_CD -RRB-_-RRB- was_VBD a_DT British_JJ orientalist_NN and_CC historian_NN of_IN Islamic_NNP art_NN who_WP taught_VBD at_IN Muhammadan_NNP Anglo-Oriental_NNP College_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- Aligarh_NNP Muslim_NNP University_NNP -LRB-_-LRB- then_RB Aligarh_NNP College_NNP -RRB-_-RRB- ,_, and_CC Government_NNP College_NNP University_NNP ,_, Lahore_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD a_DT friend_NN of_IN Sir_NNP Syed_NNP Ahmed_NNP Khan_NNP ,_, and_CC wrote_VBD his_PRP$ famous_JJ book_NN ``_`` The_DT preaching_NN of_IN Islam_NNP ''_'' at_IN the_DT insistence_NN of_IN Sir_NNP Syed_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP also_RB taught_VBD poet-philosopher_JJ Muhammad_NNP Iqbal_NNP and_CC Syed_NNP Sulaiman_NNP Nadvi_NNP ,_, and_CC was_VBD a_DT very_RB close_JJ friend_NN of_IN Shibli_NNP Nomani_NNP who_WP was_VBD also_RB a_DT teacher_NN at_IN Aligarh_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Arnold_NNP was_VBD born_VBN on_IN 19_CD April_NNP 1864_CD ,_, and_CC educated_VBN at_IN the_DT City_NNP of_IN London_NNP School_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- From_IN 1888_CD he_PRP worked_VBD as_IN a_DT teacher_NN at_IN the_DT Muhammadan_NNP Anglo-Oriental_NNP College_NNP ,_, Aligarh_NNP ._.
+In_IN 1898_CD ,_, he_PRP accepted_VBD a_DT post_NN as_IN Professor_NNP of_IN Philosophy_NNP at_IN the_DT Government_NN College_NNP ,_, Lahore_NNP and_CC later_RB became_VBD Dean_NNP of_IN the_DT Oriental_JJ Faculty_NN at_IN Punjab_NNP University_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- From_IN 1904_CD to_TO 1909_CD he_PRP was_VBD on_IN the_DT staff_NN of_IN the_DT India_NNP Office_NNP as_IN Assistant_NNP Librarian_NNP ._.
+In_IN 1909_CD he_PRP was_VBD appointed_VBN Educational_NNP Adviser_NNP to_TO Indian_JJ students_NNS in_IN Britain_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- From_IN 1917_CD to_TO 1920_CD he_PRP acted_VBD as_IN Adviser_NNP to_TO the_DT Secretary_NNP of_IN State_NNP for_IN India_NNP ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- He_PRP was_VBD Professor_NNP of_IN Arabic_NNP and_CC Islamic_NNP Studies_NNP at_IN the_DT School_NNP of_IN Oriental_JJ Studies_NNPS ,_, University_NNP of_IN London_NNP ,_, from_IN 1921_CD to_TO 1930_CD ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Arnold_NNP became_VBD the_DT first_JJ English_JJ editor_NN for_IN the_DT first_JJ edition_NN of_IN The_DT Encyclopaedia_NNP of_IN Islam_NNP ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- He_PRP was_VBD invested_VBN as_IN a_DT Companion_NN of_IN the_DT Order_NN of_IN the_DT Indian_JJ Empire_NNP in_IN 1912_CD ,_, and_CC in_IN 1921_CD was_VBD invested_VBN as_IN a_DT knight_NN ._.
+-LRB-_-LRB- clarification_NN needed_VBN -RRB-_-RRB- He_PRP married_VBD Celia_NNP Mary_NNP Hickson_NNP in_IN 1892_CD ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- He_PRP died_VBD on_IN 9_CD June_NNP 1930_CD ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB-

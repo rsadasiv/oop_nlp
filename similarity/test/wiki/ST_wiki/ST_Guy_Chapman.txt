@@ -1,0 +1,8 @@
+Major_JJ Guy_NNP Patterson_NNP Chapman_NNP OBE_NNP MC_NNP -LRB-_-LRB- September_NNP 1889_CD ''_'' June_NNP 1972_CD -RRB-_-RRB- was_VBD a_DT British_JJ historian_NN and_CC author_NN ._.
+He_PRP was_VBD educated_VBN at_IN Westminster_NNP School_NNP ,_, Christ_NNP Church_NNP ,_, Oxford_NNP and_CC the_DT London_NNP School_NNP of_IN Economics_NNP ._.
+He_PRP married_VBD Margaret_NNP Storm_NN Jameson_NNP in_IN 1926_CD ._.
+Chapman_NNP served_VBD in_IN the_DT Royal_NNP Fusiliers_NNP ,_, 1914_CD ``_`` 20_CD ,_, particularly_RB in_IN France_NNP and_CC Belgium_NNP ,_, 1915_CD ``_`` 18_CD ._.
+He_PRP was_VBD appointed_VBN an_DT Officer_NNP of_IN the_DT Order_NN of_IN the_DT British_JJ Empire_NNP in_IN the_DT 1919_CD New_NNP Year_NNP Honours_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD awarded_VBN the_DT Military_NNP Cross_NNP in_IN December_NNP 1919_CD :_: From_IN 1920_CD to_TO 1940_CD ,_, Chapman_NNP was_VBD involved_VBN with_IN book_NN publishing_NN ,_, then_RB served_VBD in_IN World_NNP War_NNP Two_CD ._.
+From_IN 1945_CD to_TO 1953_CD he_PRP served_VBD as_IN Professor_NNP of_IN Modern_NNP History_NN at_IN University_NNP of_IN Leeds_NNP ,_, with_IN a_DT stint_NN in_IN 1948-49_CD as_IN a_DT visiting_VBG Professor_NNP at_IN the_DT University_NNP of_IN Pittsburgh_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

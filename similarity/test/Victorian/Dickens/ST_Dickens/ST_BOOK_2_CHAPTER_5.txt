@@ -1,0 +1,362 @@
+CHAPTER_NN 5_CD ._.
+Something_NN Wrong_JJ Somewhere_NNP The_NNP family_NN had_VBD been_VBN a_DT month_NN or_CC two_CD at_IN Venice_NNP ,_, when_WRB Mr_NNP Dorrit_NNP ,_, who_WP was_VBD much_JJ among_IN Counts_NNPS and_CC Marquises_NNPS ,_, and_CC had_VBD but_CC scant_JJ leisure_NN ,_, set_VBD an_DT hour_NN of_IN one_CD day_NN apart_RB ,_, beforehand_RB ,_, for_IN the_DT purpose_NN of_IN holding_VBG some_DT conference_NN with_IN Mrs_NNP General_NNP ._.
+The_DT time_NN he_PRP had_VBD reserved_VBN in_IN his_PRP$ mind_NN arriving_VBG ,_, he_PRP sent_VBD Mr_NNP Tinkler_NNP ,_, his_PRP$ valet_NN ,_, to_TO Mrs_NNP General_NNP 's_POS apartment_NN -LRB-_-LRB- which_WDT would_MD have_VB absorbed_VBN about_IN a_DT third_JJ of_IN the_DT area_NN of_IN the_DT Marshalsea_NNP -RRB-_-RRB- ,_, to_TO present_VB his_PRP$ compliments_NNS to_TO that_DT lady_NN ,_, and_CC represent_VB him_PRP as_IN desiring_VBG the_DT favor_NN of_IN an_DT interview_NN ._.
+It_PRP being_VBG that_IN period_NN of_IN the_DT forenoon_NN when_WRB the_DT various_JJ members_NNS of_IN the_DT family_NN had_VBD coffee_NN in_IN their_PRP$ own_JJ chambers_NNS ,_, some_DT couple_NN of_IN hours_NNS before_IN assembling_VBG at_IN breakfast_NN in_IN a_DT faded_VBN hall_NN which_WDT had_VBD once_RB been_VBN sumptuous_JJ ,_, but_CC was_VBD now_RB the_DT prey_NN of_IN watery_JJ vapors_NNS and_CC a_DT settled_VBN melancholy_JJ ,_, Mrs_NNP General_NNP was_VBD accessible_JJ to_TO the_DT valet_NN ._.
+That_DT envoy_NN found_VBD her_PRP$ on_IN a_DT little_JJ square_NN of_IN carpet_NN ,_, so_RB extremely_RB diminutive_JJ in_IN reference_NN to_TO the_DT size_NN of_IN her_PRP$ stone_NN and_CC marble_NN floor_NN that_IN she_PRP looked_VBD as_IN if_IN she_PRP might_MD have_VB had_VBD it_PRP spread_VBD for_IN the_DT trying_VBG on_IN of_IN a_DT ready-made_JJ pair_NN of_IN shoes_NNS ;_: or_CC as_IN if_IN she_PRP had_VBD come_VBN into_IN possession_NN of_IN the_DT enchanted_JJ piece_NN of_IN carpet_NN ,_, bought_VBD for_IN forty_JJ purses_NNS by_IN one_CD of_IN the_DT three_CD princes_NNS in_IN the_DT Arabian_NNP Nights_NNPS ,_, and_CC had_VBD that_DT moment_NN been_VBN transported_VBN on_IN it_PRP ,_, at_IN a_DT wish_NN ,_, into_IN a_DT palatial_JJ saloon_NN with_IN which_WDT it_PRP had_VBD no_DT connection_NN ._.
+Mrs_NNP General_NNP ,_, replying_VBG to_TO the_DT envoy_NN ,_, as_IN she_PRP set_VBD down_RP her_PRP$ empty_JJ coffee-cup_NN ,_, that_IN she_PRP was_VBD willing_JJ at_IN once_RB to_TO proceed_VB to_TO Mr_NNP Dorrit_NNP 's_POS apartment_NN ,_, and_CC spare_JJ him_PRP the_DT trouble_NN of_IN coming_VBG to_TO her_PRP$ -LRB-_-LRB- which_WDT ,_, in_IN his_PRP$ gallantry_NN ,_, he_PRP had_VBD proposed_VBN -RRB-_-RRB- ,_, the_DT envoy_NN threw_VBD open_RP the_DT door_NN ,_, and_CC escorted_VBD Mrs_NNP General_NNP to_TO the_DT presence_NN ._.
+It_PRP was_VBD quite_RB a_DT walk_NN ,_, by_IN mysterious_JJ staircases_NNS and_CC corridors_NNS ,_, from_IN Mrs_NNP General_NNP 's_POS apartment_NN ,_, --_: hoodwinked_VBN by_IN a_DT narrow_JJ side_NN street_NN with_IN a_DT low_JJ gloomy_JJ bridge_NN in_IN it_PRP ,_, and_CC dungeon-like_JJ opposite_JJ tenements_NNS ,_, their_PRP$ walls_NNS besmeared_VBN with_IN a_DT thousand_CD downward_JJ stains_NNS and_CC streaks_NNS ,_, as_IN if_IN every_DT crazy_JJ aperture_NN in_IN them_PRP had_VBD been_VBN weeping_VBG tears_NNS of_IN rust_NN into_IN the_DT Adriatic_NNP for_IN centuries_NNS --_: to_TO Mr_NNP Dorrit_NNP 's_POS apartment_NN :_: with_IN a_DT whole_JJ English_NNP house-front_NN of_IN window_NN ,_, a_DT prospect_NN of_IN beautiful_JJ church-domes_NNS rising_VBG into_IN the_DT blue_JJ sky_NN sheer_NN out_IN of_IN the_DT water_NN which_WDT reflected_VBD them_PRP ,_, and_CC a_DT hushed_JJ murmur_NN of_IN the_DT Grand_NNP Canal_NNP laving_VBG the_DT doorways_NNS below_IN ,_, where_WRB his_PRP$ gondolas_NNS and_CC gondoliers_NNS attended_VBD his_PRP$ pleasure_NN ,_, drowsily_RB swinging_VBG in_IN a_DT little_JJ forest_NN of_IN piles_NNS ._.
+Mr_NNP Dorrit_NNP ,_, in_IN a_DT resplendent_JJ dressing-gown_NN and_CC cap_NN --_: the_DT dormant_JJ grub_NN that_WDT had_VBD so_RB long_JJ bided_VBD its_PRP$ time_NN among_IN the_DT Collegians_NNPS had_VBD burst_NN into_IN a_DT rare_JJ butterfly_NN --_: rose_VBD to_TO receive_VB Mrs_NNP General_NNP ._.
+A_DT chair_NN to_TO Mrs_NNP General_NNP ._.
+An_DT easier_JJR chair_NN ,_, sir_NN ;_: what_WP are_VBP you_PRP doing_VBG ,_, what_WDT are_VBP you_PRP about_RB ,_, what_WP do_VB you_PRP mean_VB ?_.
+Now_RB ,_, leave_VBP us_PRP !_.
+`_`` Mrs_NNP General_NNP ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, '_'' I_PRP took_VBD the_DT liberty_NN --_: '_'' `_`` By_IN no_DT means_NNS ,_, '_'' Mrs_NNP General_NNP interposed_VBD ._. '_''
+I_PRP was_VBD quite_RB at_IN your_PRP$ disposition_NN ._.
+I_PRP had_VBD had_VBN my_PRP$ coffee_NN ._. '_'' '_''
+--_: I_PRP took_VBD the_DT liberty_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP again_RB ,_, with_IN the_DT magnificent_JJ placidity_NN of_IN one_CD who_WP was_VBD above_IN correction_NN ,_, `_`` to_TO solicit_VB the_DT favor_NN of_IN a_DT little_JJ private_JJ conversation_NN with_IN you_PRP ,_, because_IN I_PRP feel_VBP rather_RB worried_JJ respecting_VBG my_PRP$ --_: ha_NN --_: my_PRP$ younger_JJR daughter_NN ._.
+You_PRP will_MD have_VB observed_VBN a_DT great_JJ difference_NN of_IN temperament_NN ,_, madam_NN ,_, between_IN my_PRP$ two_CD daughters_NNS ?_. '_''
+Said_NNP Mrs_NNP General_NNP in_IN response_NN ,_, crossing_VBG her_PRP$ gloved_JJ hands_NNS -LRB-_-LRB- she_PRP was_VBD never_RB without_IN gloves_NNS ,_, and_CC they_PRP never_RB creased_VBD and_CC always_RB fitted_VBN -RRB-_-RRB- ,_, `_`` There_EX is_VBZ a_DT great_JJ difference_NN ._. '_''
+`_`` May_MD I_PRP ask_VB to_TO be_VB favored_VBN with_IN your_PRP$ view_NN of_IN it_PRP ?_. '_''
+said_VBD Mr_NNP Dorrit_NNP ,_, with_IN a_DT deference_NN not_RB incompatible_JJ with_IN majestic_JJ serenity_NN ._.
+`_`` Fanny_NN ,_, '_'' returned_VBD Mrs_NNP General_NNP ,_, `_`` has_VBZ force_NN of_IN character_NN and_CC self-reliance_NN ._.
+Amy_NNP ,_, none_NN ._. '_''
+None_NN ?_.
+O_NNP Mrs_NNP General_NNP ,_, ask_VB the_DT Marshalsea_NNP stones_NNS and_CC bars_NNS ._.
+O_NNP Mrs_NNP General_NNP ,_, ask_VB the_DT milliner_NN who_WP taught_VBD her_PRP to_TO work_VB ,_, and_CC the_DT dancing-master_NN who_WP taught_VBD her_PRP$ sister_NN to_TO dance_VB ._.
+O_NNP Mrs_NNP General_NNP ,_, Mrs_NNP General_NNP ,_, ask_VB me_PRP ,_, her_PRP$ father_NN ,_, what_WP I_PRP owe_VBP her_PRP$ ;_: and_CC hear_VB my_PRP$ testimony_NN touching_VBG the_DT life_NN of_IN this_DT slighted_VBN little_JJ creature_NN from_IN her_PRP$ childhood_NN up_IN !_.
+No_DT such_JJ adjuration_NN entered_VBD Mr._NNP Dorrit_NNP 's_POS head_NN ._.
+He_PRP looked_VBD at_IN Mrs_NNP General_NNP ,_, seated_VBN in_IN her_PRP$ usual_JJ erect_VB attitude_NN on_IN her_PRP$ coach-box_NN behind_IN the_DT proprieties_NNS ,_, and_CC he_PRP said_VBD in_IN a_DT thoughtful_JJ manner_NN ,_, `_`` True_JJ ,_, madam_NN ._. '_'' '_''
+I_PRP would_MD not_RB ,_, '_'' said_VBD Mrs_NNP General_NNP ,_, `_`` be_VB understood_VBN to_TO say_VB ,_, observe_VB ,_, that_IN there_EX is_VBZ nothing_NN to_TO improve_VB in_IN Fanny_NNP ._.
+But_CC there_EX is_VBZ material_NN there_RB --_: perhaps_RB ,_, indeed_RB ,_, a_DT little_JJ too_RB much_JJ ._. '_''
+`_`` Will_MD you_PRP be_VB kind_RB enough_RB ,_, madam_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, `_`` to_TO be_VB --_: ha_NN --_: more_JJR explicit_JJ ?_.
+I_PRP do_VBP not_RB quite_RB understand_VB my_PRP$ elder_JJR daughter_NN 's_POS having_VBG --_: hum_NN --_: too_RB much_JJ material_NN ._.
+What_WP material_NN ?_. '_''
+`_`` Fanny_NN ,_, '_'' returned_VBD Mrs_NNP General_NNP ,_, `_`` at_IN present_JJ forms_NNS too_RB many_JJ opinions_NNS ._.
+Perfect_NNP breeding_VBG forms_NNS none_NN ,_, and_CC is_VBZ never_RB demonstrative_JJ ._. '_''
+Lest_IN he_PRP himself_PRP should_MD be_VB found_VBN deficient_NN in_IN perfect_JJ breeding_NN ,_, Mr_NNP Dorrit_NNP hastened_VBD to_TO reply_VB ,_, `_`` Unquestionably_RB ,_, madam_NN ,_, you_PRP are_VBP right_RB ._. '_''
+Mrs_NNP General_NNP returned_VBD ,_, in_IN her_PRP$ emotionless_JJ and_CC expressionless_JJ manner_NN ,_, '_'' I_PRP believe_VBP so_RB ._. '_''
+`_`` But_CC you_PRP are_VBP aware_JJ ,_, my_PRP$ dear_RB madam_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, `_`` that_DT my_PRP$ daughters_NNS had_VBD the_DT misfortune_NN to_TO lose_VB their_PRP$ lamented_VBN mother_NN when_WRB they_PRP were_VBD very_RB young_JJ ;_: and_CC that_IN ,_, in_IN consequence_NN of_IN my_PRP$ not_RB having_VBG been_VBN until_IN lately_RB the_DT recognized_VBN heir_NN to_TO my_PRP$ property_NN ,_, they_PRP have_VBP lived_VBN with_IN me_PRP as_IN a_DT comparatively_RB poor_JJ ,_, though_IN always_RB proud_JJ ,_, gentleman_NN ,_, in_IN --_: ha_NN hum_NN --_: retirement_NN !_. '_'' '_''
+I_PRP do_VBP not_RB ,_, '_'' said_VBD Mrs_NNP General_NNP ,_, `_`` lose_VB sight_NN of_IN the_DT circumstance_NN ._. '_''
+`_`` Madam_NNP ,_, '_'' pursued_JJ Mr_NNP Dorrit_NNP ,_, `_`` of_IN my_PRP$ daughter_NN Fanny_NNP ,_, under_IN her_PRP$ present_JJ guidance_NN and_CC with_IN such_PDT an_DT example_NN constantly_RB before_IN her_PRP$ --_: '_'' -LRB-_-LRB- Mrs_NNP General_NNP shut_VBD her_PRP$ eyes_NNS ._. -RRB-_-RRB-
+--_: '_'' I_PRP have_VBP no_DT misgivings_NNS ._.
+There_EX is_VBZ adaptability_NN of_IN character_NN in_IN Fanny_NNP ._.
+But_CC my_PRP$ younger_JJR daughter_NN ,_, Mrs_NNP General_NNP ,_, rather_RB worries_NNS and_CC vexes_NNS my_PRP$ thoughts_NNS ._.
+I_PRP must_MD inform_VB you_PRP that_IN she_PRP has_VBZ always_RB been_VBN my_PRP$ favorite_JJ ._. '_''
+`_`` There_EX is_VBZ no_DT accounting_NN ,_, '_'' said_VBD Mrs_NNP General_NNP ,_, `_`` for_IN these_DT partialities_NNS ._. '_''
+`_`` Ha_NN --_: no_DT ,_, '_'' assented_VBN Mr_NNP Dorrit_NNP ._.
+`_`` No._NN ._.
+Now_RB ,_, madam_NN ,_, I_PRP am_VBP troubled_VBN by_IN noticing_VBG that_IN Amy_NNP is_VBZ not_RB ,_, so_RB to_TO speak_VB ,_, one_CD of_IN ourselves_PRP ._.
+She_PRP does_VBZ not_RB care_VB to_TO go_VB about_RB with_IN us_PRP ;_: she_PRP is_VBZ lost_VBN in_IN the_DT society_NN we_PRP have_VBP here_RB ;_: our_PRP$ tastes_NNS are_VBP evidently_RB not_RB her_PRP$ tastes_NNS ._.
+Which_WDT ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, summing_VBG up_RP with_IN judicial_JJ gravity_NN ,_, `_`` is_VBZ to_TO say_VB ,_, in_IN other_JJ words_NNS ,_, that_IN there_EX is_VBZ something_NN wrong_JJ in_IN --_: ha_NN --_: Amy_NNP ._. '_''
+`_`` May_MD we_PRP incline_VB to_TO the_DT supposition_NN ,_, '_'' said_VBD Mrs_NNP General_NNP ,_, with_IN a_DT little_JJ touch_NN of_IN varnish_NN ,_, `_`` that_DT something_NN is_VBZ referable_JJ to_TO the_DT novelty_NN of_IN the_DT position_NN ?_. '_''
+`_`` Excuse_NN me_PRP ,_, madam_NN ,_, '_'' observed_VBD Mr_NNP Dorrit_NNP ,_, rather_RB quickly_RB ._.
+`_`` The_DT daughter_NN of_IN a_DT gentleman_NN ,_, though_RB --_: ha_NN --_: himself_PRP at_IN one_CD time_NN comparatively_RB far_RB from_IN affluent_JJ --_: comparatively_RB --_: and_CC herself_PRP reared_VBD in_IN --_: hum_NN --_: retirement_NN ,_, need_MD not_RB of_IN necessity_NN find_VBP this_DT position_NN so_RB very_RB novel_JJ ._. '_''
+`_`` True_JJ ,_, '_'' said_VBD Mrs_NNP General_NNP ,_, `_`` true_JJ ._. '_''
+`_`` Therefore_RB ,_, madam_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, '_'' I_PRP took_VBD the_DT liberty_NN '_'' -LRB-_-LRB- he_PRP laid_VBD an_DT emphasis_NN on_IN the_DT phrase_NN and_CC repeated_VBD it_PRP ,_, as_IN though_IN he_PRP stipulated_VBD ,_, with_IN urbane_NN firmness_NN ,_, that_IN he_PRP must_MD not_RB be_VB contradicted_VBN again_RB -RRB-_-RRB- ,_, '_'' I_PRP took_VBD the_DT liberty_NN of_IN requesting_VBG this_DT interview_NN ,_, in_IN order_NN that_IN I_PRP might_MD mention_VB the_DT topic_NN to_TO you_PRP ,_, and_CC inquire_VB how_WRB you_PRP would_MD advise_VB me_PRP ?_. '_''
+`_`` Mr_NNP Dorrit_NNP ,_, '_'' returned_VBD Mrs_NNP General_NNP ,_, '_'' I_PRP have_VBP conversed_VBN with_IN Amy_NNP several_JJ times_NNS since_IN we_PRP have_VBP been_VBN residing_VBG here_RB ,_, on_IN the_DT general_JJ subject_NN of_IN the_DT formation_NN of_IN a_DT demeanor_NN ._.
+She_PRP has_VBZ expressed_VBN herself_PRP to_TO me_PRP as_IN wondering_VBG exceedingly_RB at_IN Venice_NNP ._.
+I_PRP have_VBP mentioned_VBN to_TO her_PRP$ that_IN it_PRP is_VBZ better_JJR not_RB to_TO wonder_VB ._.
+I_PRP have_VBP pointed_VBN out_RP to_TO her_PRP$ that_IN the_DT celebrated_JJ Mr_NNP Eustace_NNP ,_, the_DT classical_JJ tourist_NN ,_, did_VBD not_RB think_VB much_RB of_IN it_PRP ;_: and_CC that_IN he_PRP compared_VBD the_DT Rialto_NNP ,_, greatly_RB to_TO its_PRP$ disadvantage_NN ,_, with_IN Westminster_NNP and_CC Blackfriars_NNP Bridges_NNPS ._.
+I_PRP need_VBP not_RB add_VB ,_, after_IN what_WP you_PRP have_VBP said_VBN ,_, that_IN I_PRP have_VBP not_RB yet_RB found_VBN my_PRP$ arguments_NNS successful_JJ ._.
+You_PRP do_VBP me_PRP the_DT honor_NN to_TO ask_VB me_PRP what_WP to_TO advise_VB ._.
+It_PRP always_RB appears_VBZ to_TO me_PRP -LRB-_-LRB- if_IN this_DT should_MD prove_VB to_TO be_VB a_DT baseless_JJ assumption_NN ,_, I_PRP shall_MD be_VB pardoned_VBN -RRB-_-RRB- ,_, that_IN Mr_NNP Dorrit_NNP has_VBZ been_VBN accustomed_VBN to_TO exercise_VB influence_NN over_IN the_DT minds_NNS of_IN others_NNS ._. '_''
+`_`` Hum_VB --_: madam_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, '_'' I_PRP have_VBP been_VBN at_IN the_DT head_NN of_IN --_: ha_NN of_IN a_DT considerable_JJ community_NN ._.
+You_PRP are_VBP right_RB in_IN supposing_VBG that_IN I_PRP am_VBP not_RB unaccustomed_JJ to_TO --_: an_DT influential_JJ position_NN ._. '_'' '_''
+I_PRP am_VBP happy_JJ ,_, '_'' returned_VBD Mrs_NNP General_NNP ,_, `_`` to_TO be_VB so_RB corroborated_JJ ._.
+I_PRP would_MD therefore_RB the_DT more_RBR confidently_RB recommend_VB that_DT Mr_NNP Dorrit_NNP should_MD speak_VB to_TO Amy_NNP himself_PRP ,_, and_CC make_VB his_PRP$ observations_NNS and_CC wishes_NNS known_VBN to_TO her_PRP ._.
+Being_VBG his_PRP$ favorite_JJ ,_, besides_IN ,_, and_CC no_DT doubt_NN attached_VBN to_TO him_PRP ,_, she_PRP is_VBZ all_PDT the_DT more_RBR likely_JJ to_TO yield_VB to_TO his_PRP$ influence_NN ._. '_'' '_''
+I_PRP had_VBD anticipated_VBN your_PRP$ suggestion_NN ,_, madam_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, `_`` but_CC --_: ha_NN --_: was_VBD not_RB sure_JJ that_IN I_PRP might_MD --_: hum_NN --_: not_RB encroach_VB on_IN --_: '_'' `_`` On_IN my_PRP$ province_NN ,_, Mr_NNP Dorrit_NNP ?_. '_''
+said_VBD Mrs_NNP General_NNP ,_, graciously_RB ._.
+`_`` Do_VBP not_RB mention_VB it_PRP ._. '_''
+`_`` Then_RB ,_, with_IN your_PRP$ leave_NN ,_, madam_NN ,_, '_'' resumed_VBD Mr_NNP Dorrit_NNP ,_, ringing_VBG his_PRP$ little_JJ bell_NN to_TO summon_VB his_PRP$ valet_NN ,_, '_'' I_PRP will_MD send_VB for_IN her_PRP$ at_IN once_RB ._. '_''
+`_`` Does_VBZ Mr_NNP Dorrit_NNP wish_NN me_PRP to_TO remain_VB ?_. '_''
+`_`` Perhaps_RB ,_, if_IN you_PRP have_VBP no_DT other_JJ engagement_NN ,_, you_PRP would_MD not_RB object_VB for_IN a_DT minute_NN or_CC two_CD --_: '_'' `_`` Not_RB at_IN all_DT ._. '_''
+So_RB ,_, Tinkler_NNP the_DT valet_NN was_VBD instructed_VBN to_TO find_VB Miss_NNP Amy_NNP 's_POS maid_NN ,_, and_CC to_TO request_VB that_DT subordinate_JJ to_TO inform_VB Miss_NNP Amy_NNP that_IN Mr_NNP Dorrit_NNP wished_VBD to_TO see_VB her_PRP$ in_IN his_PRP$ own_JJ room_NN ._.
+In_IN delivering_VBG this_DT charge_NN to_TO Tinkler_NNP ,_, Mr_NNP Dorrit_NNP looked_VBD severely_RB at_IN him_PRP ,_, and_CC also_RB kept_VBD a_DT jealous_JJ eye_NN upon_IN him_PRP until_IN he_PRP went_VBD out_RB at_IN the_DT door_NN ,_, mistrusting_VBG that_IN he_PRP might_MD have_VB something_NN in_IN his_PRP$ mind_NN prejudicial_NN to_TO the_DT family_NN dignity_NN ;_: that_IN he_PRP might_MD have_VB even_RB got_VBD wind_NN of_IN some_DT Collegiate_NNP joke_NN before_IN he_PRP came_VBD into_IN the_DT service_NN ,_, and_CC might_MD be_VB derisively_RB reviving_VBG its_PRP$ remembrance_NN at_IN the_DT present_JJ moment_NN ._.
+If_IN Tinkler_NNP had_VBD happened_VBN to_TO smile_VB ,_, however_RB faintly_RB and_CC innocently_RB ,_, nothing_NN would_MD have_VB persuaded_VBN Mr_NNP Dorrit_NNP ,_, to_TO the_DT hour_NN of_IN his_PRP$ death_NN ,_, but_CC that_IN this_DT was_VBD the_DT case_NN ._.
+As_IN Tinkler_NNP happened_VBD ,_, however_RB ,_, very_RB fortunately_RB for_IN himself_PRP ,_, to_TO be_VB of_IN a_DT serious_JJ and_CC composed_VBN countenance_VBP ,_, he_PRP escaped_VBD the_DT secret_JJ danger_NN that_WDT threatened_VBD him_PRP ._.
+And_CC as_RB on_IN his_PRP$ return_NN --_: when_WRB Mr_NNP Dorrit_NNP eyed_VBD him_PRP again_RB --_: he_PRP announced_VBD Miss_NNP Amy_NNP as_IN if_IN she_PRP had_VBD come_VBN to_TO a_DT funeral_JJ ,_, he_PRP left_VBD a_DT vague_JJ impression_NN on_IN Mr_NNP Dorrit_NNP 's_POS mind_NN that_IN he_PRP was_VBD a_DT well-conducted_JJ young_JJ fellow_NN ,_, who_WP had_VBD been_VBN brought_VBN up_RP in_IN the_DT study_NN of_IN his_PRP$ Catechism_NNP by_IN a_DT widowed_VBN mother_NN ._.
+`_`` Amy_NNP ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, `_`` you_PRP have_VBP just_RB now_RB been_VBN the_DT subject_NN of_IN some_DT conversation_NN between_IN myself_PRP and_CC Mrs_NNP General_NNP ._.
+We_PRP agree_VBP that_IN you_PRP scarcely_RB seem_VBP at_IN home_NN here_RB ._.
+Ha_NNP --_: how_WRB is_VBZ this_DT ?_. '_''
+A_DT pause_NN ._. '_''
+I_PRP think_VBP ,_, father_NN ,_, I_PRP require_VBP a_DT little_JJ time_NN ._. '_''
+`_`` Papa_NN is_VBZ a_DT preferable_JJ mode_NN of_IN address_NN ,_, '_'' observed_VBD Mrs_NNP General_NNP ._.
+`_`` Father_NNP is_VBZ rather_RB vulgar_JJ ,_, my_PRP$ dear_RB ._.
+The_DT word_NN Papa_NN ,_, besides_IN ,_, gives_VBZ a_DT pretty_RB form_NN to_TO the_DT lips_NNS ._.
+Papa_NN ,_, potatoes_NNS ,_, poultry_NN ,_, prunes_VBZ ,_, and_CC prism_NN are_VBP all_DT very_RB good_JJ words_NNS for_IN the_DT lips_NNS :_: especially_RB prunes_NNS and_CC prism_NN ._.
+You_PRP will_MD find_VB it_PRP serviceable_JJ ,_, in_IN the_DT formation_NN of_IN a_DT demeanor_NN ,_, if_IN you_PRP sometimes_RB say_VBP to_TO yourself_PRP in_IN company_NN --_: on_IN entering_VBG a_DT room_NN ,_, for_IN instance_NN --_: Papa_NN ,_, potatoes_NNS ,_, poultry_NN ,_, prunes_NNS and_CC prism_NN ,_, prunes_NNS and_CC prism_NN ._. '_''
+`_`` Pray_NN ,_, my_PRP$ child_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, `_`` attend_VB to_TO the_DT --_: hum_NN --_: precepts_NNS of_IN Mrs_NNP General_NNP ._. '_''
+Poor_NNP Little_NNP Dorrit_NNP ,_, with_IN a_DT rather_RB forlorn_JJ glance_NN at_IN that_DT eminent_JJ varnisher_NN ,_, promised_VBD to_TO try_VB ._.
+`_`` You_PRP say_VBP ,_, Amy_NNP ,_, '_'' pursued_JJ Mr_NNP Dorrit_NNP ,_, `_`` that_IN you_PRP think_VBP you_PRP require_VBP time_NN ._.
+Time_NNP for_IN what_WP ?_. '_''
+Another_DT pause_NN ._.
+`_`` To_TO become_VB accustomed_JJ to_TO the_DT novelty_NN of_IN my_PRP$ life_NN ,_, was_VBD all_DT I_PRP meant_VBD ,_, '_'' said_VBD Little_NNP Dorrit_NNP ,_, with_IN her_PRP$ loving_NN eyes_NNS upon_IN her_PRP$ father_NN ;_: whom_WP she_PRP had_VBD very_RB nearly_RB addressed_VBD as_IN poultry_NN ,_, if_IN not_RB prunes_NNS and_CC prism_NN too_RB ,_, in_IN her_PRP$ desire_NN to_TO submit_VB herself_PRP to_TO Mrs_NNP General_NNP and_CC please_VB him_PRP ._.
+Mr_NNP Dorrit_NNP frowned_VBD ,_, and_CC looked_VBD anything_NN but_CC pleased_JJ ._.
+`_`` Amy_NNP ,_, '_'' he_PRP returned_VBD ,_, `_`` it_PRP appears_VBZ to_TO me_PRP ,_, I_PRP must_MD say_VB ,_, that_IN you_PRP have_VBP had_VBN abundance_NN of_IN time_NN for_IN that_DT ._.
+Ha_NNP --_: you_PRP surprise_VBP me_PRP ._.
+You_PRP disappoint_VBP me_PRP ._.
+Fanny_NN has_VBZ conquered_VBN any_DT such_JJ little_JJ difficulties_NNS ,_, and_CC --_: hum_NN --_: why_WRB not_RB you_PRP ?_. '_'' '_''
+I_PRP hope_VBP I_PRP shall_MD do_VB better_RB soon_RB ,_, '_'' said_VBD Little_NNP Dorrit_NNP ._. '_''
+I_PRP hope_VBP so_RB ,_, '_'' returned_VBD her_PRP$ father_NN ._.
+`_`` I_PRP --_: ha_NN --_: I_PRP most_RBS devoutly_RB hope_VBP so_RB ,_, Amy_NNP ._.
+I_PRP sent_VBD for_IN you_PRP ,_, in_IN order_NN that_IN I_PRP might_MD say_VB --_: hum_NN --_: impressively_RB say_VBP ,_, in_IN the_DT presence_NN of_IN Mrs_NNP General_NNP ,_, to_TO whom_WP we_PRP are_VBP all_DT so_RB much_JJ indebted_JJ for_IN obligingly_RB being_VBG present_JJ among_IN us_PRP ,_, on_IN --_: ha_NN --_: on_IN this_DT or_CC any_DT other_JJ occasion_NN ,_, '_'' Mrs_NNP General_NNP shut_VBD her_PRP$ eyes_NNS ,_, `_`` that_IN I_PRP --_: ha_NN hum_NN --_: am_VBP not_RB pleased_VBN with_IN you_PRP ._.
+You_PRP make_VBP Mrs_NNP General_NNP 's_POS a_DT thankless_JJ task_NN ._.
+You_PRP --_: ha_NN --_: embarrass_VB me_PRP very_RB much_RB ._.
+You_PRP have_VBP always_RB -LRB-_-LRB- as_IN I_PRP have_VBP informed_VBN Mrs_NNP General_NNP -RRB-_-RRB- been_VBN my_PRP$ favorite_JJ child_NN ;_: I_PRP have_VBP always_RB made_VBN you_PRP a_DT --_: hum_NN --_: a_DT friend_NN and_CC companion_NN ;_: in_IN return_NN ,_, I_PRP beg_VBP --_: I_PRP --_: ha_NN --_: I_PRP __VBP do_VB __VB beg_VB ,_, that_IN you_PRP accommodate_VBP yourself_PRP better_JJR to_TO --_: hum_NN --_: circumstances_NNS ,_, and_CC dutifully_RB do_VB what_WP becomes_VBZ your_PRP$ --_: your_PRP$ station_NN ._. '_''
+Mr_NNP Dorrit_NNP was_VBD even_RB a_DT little_RB more_RBR fragmentary_JJ than_IN usual_JJ ,_, being_VBG excited_VBN on_IN the_DT subject_JJ and_CC anxious_JJ to_TO make_VB himself_PRP particularly_RB emphatic_JJ ._. '_''
+I_PRP do_VBP beg_VB ,_, '_'' he_PRP repeated_VBD ,_, `_`` that_IN this_DT may_MD be_VB attended_VBN to_TO ,_, and_CC that_IN you_PRP will_MD seriously_RB take_VB pains_NNS and_CC try_VB to_TO conduct_VB yourself_PRP in_IN a_DT manner_NN both_DT becoming_VBG your_PRP$ position_NN as_IN --_: ha_NN --_: Miss_NNP Amy_NNP Dorrit_NNP ,_, and_CC satisfactory_JJ to_TO myself_PRP and_CC Mrs_NNP General_NNP ._. '_''
+That_DT lady_NN shut_VBD her_PRP$ eyes_NNS again_RB ,_, on_IN being_VBG again_RB referred_VBN to_TO ;_: then_RB ,_, slowly_RB opening_VBG them_PRP and_CC rising_VBG ,_, added_VBD these_DT words_NNS :_: `_`` If_IN Miss_NNP Amy_NNP Dorrit_NNP will_MD direct_VB her_PRP$ own_JJ attention_NN to_TO ,_, and_CC will_MD accept_VB of_IN my_PRP$ poor_JJ assistance_NN in_IN ,_, the_DT formation_NN of_IN a_DT surface_NN ,_, Mr._NNP Dorrit_NNP will_MD have_VB no_DT further_JJ cause_NN of_IN anxiety_NN ._.
+May_NNP I_PRP take_VBP this_DT opportunity_NN of_IN remarking_VBG ,_, as_IN an_DT instance_NN in_IN point_NN ,_, that_IN it_PRP is_VBZ scarcely_RB delicate_JJ to_TO look_VB at_IN vagrants_NNS with_IN the_DT attention_NN which_WDT I_PRP have_VBP seen_VBN bestowed_VBN upon_IN them_PRP by_IN a_DT very_RB dear_RB young_JJ friend_NN of_IN mine_NN ?_.
+They_PRP should_MD not_RB be_VB looked_VBN at_IN ._.
+Nothing_NN disagreeable_JJ should_MD ever_RB be_VB looked_VBN at_IN ._.
+Apart_RB from_IN such_JJ a_DT habit_NN standing_NN in_IN the_DT way_NN of_IN that_DT graceful_JJ equanimity_NN of_IN surface_NN which_WDT is_VBZ so_RB expressive_JJ of_IN good_JJ breeding_NN ,_, it_PRP hardly_RB seems_VBZ compatible_JJ with_IN refinement_NN of_IN mind_NN ._.
+A_DT truly_RB refined_JJ mind_NN will_MD seem_VB to_TO be_VB ignorant_JJ of_IN the_DT existence_NN of_IN anything_NN that_WDT is_VBZ not_RB perfectly_RB proper_JJ ,_, placid_JJ ,_, and_CC pleasant_JJ ._. '_''
+Having_VBG delivered_VBN this_DT exalted_JJ sentiment_NN ,_, Mrs_NNP General_NNP made_VBD a_DT sweeping_JJ obeisance_NN ,_, and_CC retired_VBN with_IN an_DT expression_NN of_IN mouth_NN indicative_JJ of_IN Prunes_NNP and_CC Prism_NNP ._.
+Little_NNP Dorrit_NNP ,_, whether_IN speaking_NN or_CC silent_JJ ,_, had_VBD preserved_VBN her_PRP$ quiet_JJ earnestness_NN and_CC her_PRP$ loving_JJ look_NN ._.
+It_PRP had_VBD not_RB been_VBN clouded_VBN ,_, except_IN for_IN a_DT passing_VBG moment_NN ,_, until_IN now_RB ._.
+But_CC now_RB that_IN she_PRP was_VBD left_VBN alone_RB with_IN him_PRP the_DT fingers_NNS of_IN her_PRP$ lightly_RB folded_VBN hands_NNS were_VBD agitated_VBN ,_, and_CC there_EX was_VBD repressed_VBN emotion_NN in_IN her_PRP$ face_NN ._.
+Not_RB for_IN herself_PRP ._.
+She_PRP might_MD feel_VB a_DT little_JJ wounded_JJ ,_, but_CC her_PRP$ care_NN was_VBD not_RB for_IN herself_PRP ._.
+Her_PRP$ thoughts_NNS still_RB turned_VBD ,_, as_IN they_PRP always_RB had_VBD turned_VBN ,_, to_TO him_PRP ._.
+A_DT faint_JJ misgiving_NN ,_, which_WDT had_VBD hung_VBN about_IN her_PRP$ since_IN their_PRP$ accession_NN to_TO fortune_NN ,_, that_IN even_RB now_RB she_PRP could_MD never_RB see_VB him_PRP as_IN he_PRP used_VBD to_TO be_VB before_IN the_DT prison_NN days_NNS ,_, had_VBD gradually_RB begun_VBN to_TO assume_VB form_NN in_IN her_PRP$ mind_NN ._.
+She_PRP felt_VBD that_IN ,_, in_IN what_WP he_PRP had_VBD just_RB now_RB said_VBD to_TO her_PRP$ and_CC in_IN his_PRP$ whole_JJ bearing_NN towards_IN her_PRP ,_, there_EX was_VBD the_DT well-known_JJ shadow_NN of_IN the_DT Marshalsea_NNP wall_NN ._.
+It_PRP took_VBD a_DT new_JJ shape_NN ,_, but_CC it_PRP was_VBD the_DT old_JJ sad_JJ shadow_NN ._.
+She_PRP began_VBD with_IN sorrowful_JJ unwillingness_NN to_TO acknowledge_VB to_TO herself_PRP that_IN she_PRP was_VBD not_RB strong_JJ enough_RB to_TO keep_VB off_RP the_DT fear_NN that_IN no_DT space_NN in_IN the_DT life_NN of_IN man_NN could_MD overcome_VB that_IN quarter_NN of_IN a_DT century_NN behind_IN the_DT prison_NN bars_NNS ._.
+She_PRP had_VBD no_DT blame_NN to_TO bestow_VB upon_IN him_PRP ,_, therefore_RB :_: nothing_NN to_TO reproach_VB him_PRP with_IN ,_, no_DT emotions_NNS in_IN her_PRP$ faithful_JJ heart_NN but_CC great_JJ compassion_NN and_CC unbounded_JJ tenderness_NN ._.
+This_DT is_VBZ why_WRB it_PRP was_VBD ,_, that_IN ,_, even_RB as_IN he_PRP sat_VBD before_IN her_PRP$ on_IN his_PRP$ sofa_NN ,_, in_IN the_DT brilliant_JJ light_NN of_IN a_DT bright_JJ Italian_JJ day_NN ,_, the_DT wonderful_JJ city_NN without_IN and_CC the_DT splendors_NNS of_IN an_DT old_JJ palace_NN within_IN ,_, she_PRP saw_VBD him_PRP at_IN the_DT moment_NN in_IN the_DT long-familiar_JJ gloom_NN of_IN his_PRP$ Marshalsea_NNP lodging_NN ,_, and_CC wished_VBD to_TO take_VB her_PRP$ seat_NN beside_IN him_PRP ,_, and_CC comfort_NN him_PRP ,_, and_CC be_VB again_RB full_JJ of_IN confidence_NN with_IN him_PRP ,_, and_CC of_IN usefulness_NN to_TO him_PRP ._.
+If_IN he_PRP divined_VBD what_WP was_VBD in_IN her_PRP$ thoughts_NNS ,_, his_PRP$ own_JJ were_VBD not_RB in_IN tune_NN with_IN it_PRP ._.
+After_IN some_DT uneasy_JJ moving_VBG in_IN his_PRP$ seat_NN ,_, he_PRP got_VBD up_RB and_CC walked_VBD about_RB ,_, looking_VBG very_RB much_JJ dissatisfied_JJ ._.
+`_`` Is_VBZ there_EX anything_NN else_RB you_PRP wish_VBP to_TO say_VB to_TO me_PRP ,_, dear_RB father_NN ?_. '_''
+`_`` No_DT ,_, no._FW ._.
+Nothing_NN else_RB ._. '_'' '_''
+I_PRP am_VBP sorry_JJ you_PRP have_VBP not_RB been_VBN pleased_VBN with_IN me_PRP ,_, dear_RB ._.
+I_PRP hope_VBP you_PRP will_MD not_RB think_VB of_IN me_PRP with_IN displeasure_NN now_RB ._.
+I_PRP am_VBP going_VBG to_TO try_VB ,_, more_JJR than_IN ever_RB ,_, to_TO adapt_VB myself_PRP as_IN you_PRP wish_VBP to_TO what_WP surrounds_VBZ me_PRP --_: for_IN indeed_RB I_PRP have_VBP tried_VBN all_DT along_RB ,_, though_IN I_PRP have_VBP failed_VBN ,_, I_PRP know_VBP ._. '_''
+`_`` Amy_NNP ,_, '_'' he_PRP returned_VBD ,_, turning_VBG short_JJ upon_IN her_PRP ._.
+`_`` You_PRP --_: ha_NN --_: habitually_RB hurt_VB me_PRP ._. '_''
+`_`` Hurt_NNP you_PRP ,_, father_NN !_.
+I_PRP !_. '_''
+`_`` There_EX is_VBZ a_DT --_: hum_NN --_: a_DT topic_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, looking_VBG all_DT about_IN the_DT ceiling_NN of_IN the_DT room_NN ,_, and_CC never_RB at_IN the_DT attentive_JJ ,_, uncomplainingly_JJ shocked_JJ face_NN ,_, '_'' a_DT painful_JJ topic_NN ,_, a_DT series_NN of_IN events_NNS which_WDT I_PRP wish_VBP --_: ha_NN --_: altogether_RB to_TO obliterate_VB ._.
+This_DT is_VBZ understood_VBN by_IN your_PRP$ sister_NN ,_, who_WP has_VBZ already_RB remonstrated_VBN with_IN you_PRP in_IN my_PRP$ presence_NN ;_: it_PRP is_VBZ understood_VBN by_IN your_PRP$ brother_NN ;_: it_PRP is_VBZ understood_VBN by_IN --_: ha_NN hum_NN --_: by_IN every_DT one_CD of_IN delicacy_NN and_CC sensitiveness_NN except_IN yourself_PRP --_: ha_NN --_: I_PRP am_VBP sorry_JJ to_TO say_VB ,_, except_IN yourself_PRP ._.
+You_PRP ,_, Amy_NNP --_: hum_NN --_: you_PRP alone_RB and_CC only_RB you_PRP --_: constantly_RB revive_VB the_DT topic_NN ,_, though_IN not_RB in_IN words_NNS ._. '_''
+She_PRP laid_VBD her_PRP$ hand_NN on_IN his_PRP$ arm_NN ._.
+She_PRP did_VBD nothing_NN more_JJR ._.
+She_PRP gently_RB touched_VBD him_PRP ._.
+The_DT trembling_VBG hand_NN may_MD have_VB said_VBD ,_, with_IN some_DT expression_NN ,_, `_`` Think_VB of_IN me_PRP ,_, think_VB how_WRB I_PRP have_VBP worked_VBN ,_, think_VB of_IN my_PRP$ many_JJ cares_VBZ !_. '_''
+But_CC she_PRP said_VBD not_RB a_DT syllable_JJ herself_PRP ._.
+There_EX was_VBD a_DT reproach_NN in_IN the_DT touch_NN so_RB addressed_VBD to_TO him_PRP that_IN she_PRP had_VBD not_RB foreseen_VBN ,_, or_CC she_PRP would_MD have_VB withheld_VBN her_PRP$ hand_NN ._.
+He_PRP began_VBD to_TO justify_VB himself_PRP in_IN a_DT heated_JJ ,_, stumbling_VBG ,_, angry_JJ manner_NN ,_, which_WDT made_VBD nothing_NN of_IN it_PRP ._. '_''
+I_PRP was_VBD there_EX all_PDT those_DT years_NNS ._.
+I_PRP was_VBD --_: ha_NN --_: universally_RB acknowledged_VBD as_IN the_DT head_NN of_IN the_DT place_NN ._.
+I_PRP --_: hum_NN --_: I_PRP caused_VBD you_PRP to_TO be_VB respected_VBN there_RB ,_, Amy_NNP ._.
+I_PRP --_: ha_NN hum_NN --_: I_PRP gave_VBD my_PRP$ family_NN a_DT position_NN there_RB ._.
+I_PRP deserve_VBP a_DT return_NN ._.
+I_PRP claim_VBP a_DT return_NN ._.
+I_PRP say_VBP ,_, sweep_NN it_PRP off_IN the_DT face_NN of_IN the_DT earth_NN and_CC begin_VB afresh_NN ._.
+Is_VBZ that_IN much_JJ ?_.
+I_PRP ask_VBP ,_, is_VBZ __RB that_IN __RB much_JJ ?_. '_''
+He_PRP did_VBD not_RB once_RB look_VB at_IN her_PRP ,_, as_IN he_PRP rambled_VBD on_IN in_IN this_DT way_NN ;_: but_CC gesticulated_VBN at_IN ,_, and_CC appealed_VBD to_TO ,_, the_DT empty_JJ air_NN ._. '_''
+I_PRP have_VBP suffered_VBN ._.
+Probably_RB I_PRP know_VBP how_WRB much_JJ I_PRP have_VBP suffered_VBN better_JJR than_IN any_DT one_CD --_: ha_NN --_: I_PRP say_VBP than_IN any_DT one_CD !_.
+If_IN __CD I_PRP __VBP can_MD put_VB that_DT aside_RB ,_, if_IN __CD I_PRP __VBP can_MD eradicate_VB the_DT marks_NNS of_IN what_WP I_PRP have_VBP endured_VBN ,_, and_CC can_MD emerge_VB before_IN the_DT world_NN --_: a_DT --_: ha_NN --_: gentleman_NN unspoiled_JJ ,_, unspotted_JJ --_: is_VBZ it_PRP a_DT great_JJ deal_NN to_TO expect_VB --_: I_PRP say_VBP again_RB ,_, is_VBZ it_PRP a_DT great_JJ deal_NN to_TO expect_VB --_: that_IN my_PRP$ children_NNS should_MD --_: hum_NN --_: do_VBP the_DT same_JJ and_CC sweep_NN that_WDT accursed_VBD experience_NN off_IN the_DT face_NN of_IN the_DT earth_NN ?_. '_''
+In_IN spite_NN of_IN his_PRP$ flustered_JJ state_NN ,_, he_PRP made_VBD all_PDT these_DT exclamations_NNS in_IN a_DT carefully_RB suppressed_VBN voice_NN ,_, lest_IN the_DT valet_NN should_MD overhear_VB anything_NN ._.
+`_`` Accordingly_RB ,_, they_PRP do_VBP it_PRP ._.
+Your_PRP$ sister_NN does_VBZ it_PRP ._.
+Your_PRP$ brother_NN does_VBZ it_PRP ._.
+You_PRP alone_RB ,_, my_PRP$ favorite_JJ child_NN ,_, whom_WP I_PRP made_VBD the_DT friend_NN and_CC companion_NN of_IN my_PRP$ life_NN when_WRB you_PRP were_VBD a_DT mere_JJ --_: hum_NN --_: Baby_NNP ,_, do_VBP not_RB do_VB it_PRP ._.
+You_PRP alone_RB say_VBP you_PRP ca_MD n't_RB do_VB it_PRP ._.
+I_PRP provide_VBP you_PRP with_IN valuable_JJ assistance_NN to_TO do_VB it_PRP ._.
+I_PRP attach_VBP an_DT accomplished_JJ and_CC highly_RB bred_VBN lady_NN --_: ha_NN --_: Mrs_NNP General_NNP ,_, to_TO you_PRP ,_, for_IN the_DT purpose_NN of_IN doing_VBG it_PRP ._.
+Is_VBZ it_PRP surprising_JJ that_IN I_PRP should_MD be_VB displeased_JJ ?_.
+Is_VBZ it_PRP necessary_JJ that_IN I_PRP should_MD defend_VB myself_PRP for_IN expressing_VBG my_PRP$ displeasure_NN ?_.
+No_DT !_. '_''
+Notwithstanding_IN which_WDT ,_, he_PRP continued_VBD to_TO defend_VB himself_PRP ,_, without_IN any_DT abatement_NN of_IN his_PRP$ flushed_JJ mood_NN ._. '_''
+I_PRP am_VBP careful_JJ to_TO appeal_VB to_TO that_DT lady_NN for_IN confirmation_NN ,_, before_IN I_PRP express_VBP any_DT displeasure_NN at_IN all_DT ._.
+I_PRP --_: hum_NN --_: I_PRP necessarily_RB make_VBP that_DT appeal_NN within_IN limited_JJ bounds_NNS ,_, or_CC I_PRP --_: ha_NN --_: should_MD render_VB legible_JJ ,_, by_IN that_DT lady_NN ,_, what_WP I_PRP desire_VBP to_TO be_VB blotted_VBN out_RP ._.
+Am_VBP I_PRP selfish_JJ ?_.
+Do_VBP I_PRP complain_VBP for_IN my_PRP$ own_JJ sake_NN ?_.
+No._NN ._.
+No._NN ._.
+Principally_RB for_IN --_: ha_NN hum_NN --_: your_PRP$ sake_NN ,_, Amy_NNP ._. '_''
+This_DT last_JJ consideration_NN plainly_RB appeared_VBD ,_, from_IN his_PRP$ manner_NN of_IN pursuing_VBG it_PRP ,_, to_TO have_VB just_RB that_DT instant_JJ come_VBN into_IN his_PRP$ head_NN ._. '_''
+I_PRP said_VBD I_PRP was_VBD hurt_VBN ._.
+So_IN I_PRP am_VBP ._.
+So_IN I_PRP --_: ha_NN --_: am_VBP determined_VBN to_TO be_VB ,_, whatever_WDT is_VBZ advanced_VBN to_TO the_DT contrary_NN ._.
+I_PRP am_VBP hurt_VBN that_IN my_PRP$ daughter_NN ,_, seated_VBN in_IN the_DT --_: hum_NN --_: lap_NN of_IN fortune_NN ,_, should_MD mope_VB and_CC retire_VB and_CC proclaim_VB herself_PRP unequal_JJ to_TO her_PRP$ destiny_NN ._.
+I_PRP am_VBP hurt_VBN that_IN she_PRP should_MD --_: ha_NN --_: systematically_RB reproduce_VB what_WP the_DT rest_NN of_IN us_PRP blot_VB out_RP ;_: and_CC seem_VBP --_: hum_NN --_: I_PRP had_VBD almost_RB said_VBD positively_RB anxious_JJ --_: to_TO announce_VB to_TO wealthy_JJ and_CC distinguished_JJ society_NN that_IN she_PRP was_VBD born_VBN and_CC bred_VBN in_IN --_: ha_NN hum_NN --_: a_DT place_NN that_IN I_PRP myself_PRP decline_VBP to_TO name_VB ._.
+But_CC there_EX is_VBZ no_DT inconsistency_NN --_: ha_NN --_: not_RB the_DT least_JJS ,_, in_IN my_PRP$ feeling_NN hurt_NN ,_, and_CC yet_RB complaining_VBG principally_RB for_IN your_PRP$ sake_NN ,_, Amy_NNP ._.
+I_PRP do_VBP ;_: I_PRP say_VBP again_RB ,_, I_PRP do_VBP ._.
+It_PRP is_VBZ for_IN your_PRP$ sake_NN that_IN I_PRP wish_VBP you_PRP ,_, under_IN the_DT auspices_NNS of_IN Mrs_NNP General_NNP ,_, to_TO form_VB a_DT --_: hum_NN --_: a_DT surface_NN ._.
+It_PRP is_VBZ for_IN your_PRP$ sake_NN that_IN I_PRP wish_VBP you_PRP to_TO have_VB a_DT --_: ha_NN --_: truly_RB refined_JJ mind_NN ,_, and_CC -LRB-_-LRB- in_IN the_DT striking_JJ words_NNS of_IN Mrs_NNP General_NNP -RRB-_-RRB- to_TO be_VB ignorant_JJ of_IN everything_NN that_WDT is_VBZ not_RB perfectly_RB proper_JJ ,_, placid_JJ ,_, and_CC pleasant_JJ ._. '_''
+He_PRP had_VBD been_VBN running_VBG down_RP by_IN jerks_NNS ,_, during_IN his_PRP$ last_JJ speech_NN ,_, like_IN a_DT sort_NN of_IN ill-adjusted_JJ alarum_NN ._.
+The_DT touch_NN was_VBD still_RB upon_IN his_PRP$ arm_NN ._.
+He_PRP fell_VBD silent_JJ ;_: and_CC after_IN looking_VBG about_IN the_DT ceiling_NN again_RB for_IN a_DT little_JJ while_NN ,_, looked_VBD down_RP at_IN her_PRP ._.
+Her_PRP$ head_NN drooped_VBD ,_, and_CC he_PRP could_MD not_RB see_VB her_PRP$ face_NN ;_: but_CC her_PRP$ touch_NN was_VBD tender_NN and_CC quiet_JJ ,_, and_CC in_IN the_DT expression_NN of_IN her_PRP$ dejected_JJ figure_NN there_EX was_VBD no_DT blame_NN --_: nothing_NN but_CC love_NN ._.
+He_PRP began_VBD to_TO whimper_NN ,_, just_RB as_IN he_PRP had_VBD done_VBN that_DT night_NN in_IN the_DT prison_NN when_WRB she_PRP afterwards_RB sat_VBD at_IN his_PRP$ bedside_NN till_IN morning_NN ;_: exclaimed_VBD that_IN he_PRP was_VBD a_DT poor_JJ ruin_VBP and_CC a_DT poor_JJ wretch_NN in_IN the_DT midst_NN of_IN his_PRP$ wealth_NN ;_: and_CC clasped_VBD her_PRP$ in_IN his_PRP$ arms_NNS ._.
+`_`` Hush_JJ ,_, hush_JJ ,_, my_PRP$ own_JJ dear_RB !_.
+Kiss_VB me_PRP !_. '_''
+was_VBD all_DT she_PRP said_VBD to_TO him_PRP ._.
+His_PRP$ tears_NNS were_VBD soon_RB dried_VBN ,_, much_JJ sooner_RBR than_IN on_IN the_DT former_JJ occasion_NN ;_: and_CC he_PRP was_VBD presently_RB afterwards_RB very_RB high_JJ with_IN his_PRP$ valet_NN ,_, as_IN a_DT way_NN of_IN righting_NN himself_PRP for_IN having_VBG shed_VBN any_DT ._.
+With_IN one_CD remarkable_JJ exception_NN ,_, to_TO be_VB recorded_VBN in_IN its_PRP$ place_NN ,_, this_DT was_VBD the_DT only_JJ time_NN ,_, in_IN his_PRP$ life_NN of_IN freedom_NN and_CC fortune_NN ,_, when_WRB he_PRP spoke_VBD to_TO his_PRP$ daughter_NN Amy_NNP of_IN the_DT old_JJ days_NNS ._.
+But_CC ,_, now_RB ,_, the_DT breakfast_NN hour_NN arrived_VBD ;_: and_CC with_IN it_PRP Miss_NNP Fanny_NNP from_IN her_PRP$ apartment_NN ,_, and_CC Mr_NNP Edward_NNP from_IN his_PRP$ apartment_NN ._.
+Both_DT these_DT young_JJ persons_NNS of_IN distinction_NN were_VBD something_NN the_DT worse_JJR for_IN late_JJ hours_NNS ._.
+As_IN to_TO Miss_NNP Fanny_NNP ,_, she_PRP had_VBD become_VBN the_DT victim_NN of_IN an_DT insatiate_JJ mania_NN for_IN what_WP she_PRP called_VBD `_`` going_VBG into_IN society_NN ;_: `_`` and_CC would_MD have_VB gone_VBN into_IN it_PRP head-foremost_JJ fifty_JJ times_NNS between_IN sunset_NN and_CC sunrise_NN ,_, if_IN so_RB many_JJ opportunities_NNS had_VBD been_VBN at_IN her_PRP$ disposal_NN ._.
+As_IN to_TO Mr_NNP Edward_NNP ,_, he_PRP ,_, too_RB ,_, had_VBD a_DT large_JJ acquaintance_NN ,_, and_CC was_VBD generally_RB engaged_VBN -LRB-_-LRB- for_IN the_DT most_JJS part_NN ,_, in_IN diceing_VBG circles_NNS ,_, or_CC others_NNS of_IN a_DT kindred_JJ nature_NN -RRB-_-RRB- ,_, during_IN the_DT greater_JJR part_NN of_IN every_DT night_NN ._.
+For_IN this_DT gentleman_NN ,_, when_WRB his_PRP$ fortunes_NNS changed_VBD ,_, had_VBD stood_VBN at_IN the_DT great_JJ advantage_NN of_IN being_VBG already_RB prepared_VBN for_IN the_DT highest_JJS associates_NNS ,_, and_CC having_VBG little_JJ to_TO learn_VB :_: so_RB much_RB was_VBD he_PRP indebted_JJ to_TO the_DT happy_JJ accidents_NNS which_WDT had_VBD made_VBN him_PRP acquainted_VBN with_IN horse-dealing_JJ and_CC billiard-marking_JJ ._.
+At_IN breakfast_NN ,_, Mr_NNP Frederick_NNP Dorrit_NNP likewise_RB appeared_VBD ._.
+As_IN the_DT old_JJ gentleman_NN inhabited_VBD the_DT highest_JJS story_NN of_IN the_DT palace_NN ,_, where_WRB he_PRP might_MD have_VB practiced_VBN pistol-shooting_NN without_IN much_JJ chance_NN of_IN discovery_NN by_IN the_DT other_JJ inmates_NNS ,_, his_PRP$ younger_JJR niece_NN had_VBD taken_VBN courage_NN to_TO propose_VB the_DT restoration_NN to_TO him_PRP of_IN his_PRP$ clarionet_NN ,_, which_WDT Mr_NNP Dorrit_NNP had_VBD ordered_VBN to_TO be_VB confiscated_VBN ,_, but_CC which_WDT she_PRP had_VBD ventured_VBN to_TO preserve_VB ._.
+Notwithstanding_IN some_DT objections_NNS from_IN Miss_NNP Fanny_NNP ,_, that_IN it_PRP was_VBD a_DT low_JJ instrument_NN ,_, and_CC that_IN she_PRP detested_VBD the_DT sound_NN of_IN it_PRP ,_, the_DT concession_NN had_VBD been_VBN made_VBN ._.
+But_CC it_PRP was_VBD then_RB discovered_VBN that_IN he_PRP had_VBD had_VBN enough_RB of_IN it_PRP ,_, and_CC never_RB played_VBD it_PRP ,_, now_RB that_IN it_PRP was_VBD no_RB longer_RBR his_PRP$ means_NNS of_IN getting_VBG bread_NN ._.
+He_PRP had_VBD insensibly_RB acquired_VBN a_DT new_JJ habit_NN of_IN shuffling_VBG into_IN the_DT picture-galleries_NNS ,_, always_RB with_IN his_PRP$ twisted_JJ paper_NN of_IN snuff_NN in_IN his_PRP$ hand_NN -LRB-_-LRB- much_JJ to_TO the_DT indignation_NN of_IN Miss_NNP Fanny_NNP ,_, who_WP had_VBD proposed_VBN the_DT purchase_NN of_IN a_DT gold_NN box_NN for_IN him_PRP that_IN the_DT family_NN might_MD not_RB be_VB discredited_VBN ,_, which_WDT he_PRP had_VBD absolutely_RB refused_VBN to_TO carry_VB when_WRB it_PRP was_VBD bought_VBN -RRB-_-RRB- ;_: and_CC of_IN passing_VBG hours_NNS and_CC hours_NNS before_IN the_DT portraits_NNS of_IN renowned_JJ Venetians_NNPS ._.
+It_PRP was_VBD never_RB made_VBN out_RP what_WP his_PRP$ dazed_VBN eyes_NNS saw_VBD in_IN them_PRP ;_: whether_IN he_PRP had_VBD an_DT interest_NN in_IN them_PRP merely_RB as_IN pictures_NNS ,_, or_CC whether_IN he_PRP confusedly_RB identified_VBD them_PRP with_IN a_DT glory_NN that_WDT was_VBD departed_VBN ,_, like_IN the_DT strength_NN of_IN his_PRP$ own_JJ mind_NN ._.
+But_CC he_PRP paid_VBD his_PRP$ court_NN to_TO them_PRP with_IN great_JJ exactness_NN ,_, and_CC clearly_RB derived_VBN pleasure_NN from_IN the_DT pursuit_NN ._.
+After_IN the_DT first_JJ few_JJ days_NNS ,_, Little_NNP Dorrit_NNP happened_VBD one_CD morning_NN to_TO assist_VB at_IN these_DT attentions_NNS ._.
+It_PRP so_RB evidently_RB heightened_VBN his_PRP$ gratification_NN that_IN she_PRP often_RB accompanied_VBD him_PRP afterwards_RB ,_, and_CC the_DT greatest_JJS delight_NN of_IN which_WDT the_DT old_JJ man_NN had_VBD shown_VBN himself_PRP susceptible_JJ since_IN his_PRP$ ruin_VB ,_, arose_VBD out_IN of_IN these_DT excursions_NNS ,_, when_WRB he_PRP would_MD carry_VB a_DT chair_NN about_IN for_IN her_PRP$ from_IN picture_NN to_TO picture_NN ,_, and_CC stand_VBP behind_IN it_PRP ,_, in_IN spite_NN of_IN all_DT her_PRP$ remonstrances_NNS ,_, silently_RB presenting_VBG her_PRP$ to_TO the_DT noble_JJ Venetians_NNPS ._.
+It_PRP fell_VBD out_RP that_IN ,_, at_IN this_DT family_NN breakfast_NN ,_, he_PRP referred_VBD to_TO their_PRP$ having_VBG seen_VBN in_IN a_DT gallery_NN ,_, on_IN the_DT previous_JJ day_NN ,_, the_DT lady_NN and_CC gentleman_NN whom_WP they_PRP had_VBD encountered_VBN on_IN the_DT Great_NNP Saint_NNP Bernard_NNP ,_, '_'' I_PRP forget_VBP the_DT name_NN ,_, '_'' said_VBD he_PRP ._. '_''
+I_PRP dare_VBP say_VB you_PRP remember_VBP them_PRP ,_, William_NNP ?_.
+I_PRP dare_VBP say_VB you_PRP do_VB ,_, Edward_NNP ?_. '_'' '_''
+__IN I_PRP __VBP remember_VB 'em_PRP well_RB enough_RB ,_, '_'' said_VBD the_DT latter_JJ ._. '_''
+I_PRP should_MD think_VB so_RB ,_, '_'' observed_VBD Miss_NNP Fanny_NNP ,_, with_IN a_DT toss_VB of_IN her_PRP$ head_NN and_CC a_DT glance_NN at_IN her_PRP$ sister_NN ._.
+`_`` But_CC they_PRP would_MD not_RB have_VB been_VBN recalled_VBN to_TO our_PRP$ remembrance_NN ,_, I_PRP suspect_VBP ,_, if_IN Uncle_NNP had_VBD n't_RB tumbled_VBD over_IN the_DT subject_NN ._. '_''
+`_`` My_PRP$ dear_RB ,_, what_WP a_DT curious_JJ phrase_NN ,_, '_'' said_VBD Mrs_NNP General_NNP ._.
+`_`` Would_MD not_RB inadvertently_RB lighted_VBN upon_IN ,_, or_CC accidentally_RB referred_VBD to_TO ,_, be_VB better_JJR ?_. '_''
+`_`` Thank_VB you_PRP very_RB much_RB ,_, Mrs_NNP General_NNP ,_, '_'' returned_VBD the_DT young_JJ lady_NN ,_, `_`` no_DT ,_, I_PRP think_VBP not_RB ._.
+On_IN the_DT whole_JJ I_PRP prefer_VBP my_PRP$ own_JJ expression_NN ._. '_''
+This_DT was_VBD always_RB Miss_NNP Fanny_NNP 's_POS way_NN of_IN receiving_VBG a_DT suggestion_NN from_IN Mrs_NNP General_NNP ._.
+But_CC she_PRP always_RB stored_VBD it_PRP up_RP in_IN her_PRP$ mind_NN ,_, and_CC adopted_VBD it_PRP at_IN another_DT time_NN ._. '_''
+I_PRP should_MD have_VB mentioned_VBN our_PRP$ having_VBG met_VBN Mr_NNP and_CC Mrs_NNP Gowan_NNP ,_, Fanny_NNP ,_, '_'' said_VBD Little_NNP Dorrit_NNP ,_, `_`` even_RB if_IN Uncle_NNP had_VBD not_RB ._.
+I_PRP have_VBP scarcely_RB seen_VBN you_PRP since_IN ,_, you_PRP know_VBP ._.
+I_PRP meant_VBD to_TO have_VB spoken_VBN of_IN it_PRP at_IN breakfast_NN ;_: because_IN I_PRP should_MD like_VB to_TO pay_VB a_DT visit_NN to_TO Mrs_NNP Gowan_NNP ,_, and_CC to_TO become_VB better_RBR acquainted_VBN with_IN her_PRP ,_, if_IN Papa_NN and_CC Mrs_NNP General_NNP do_VBP not_RB object_VB ._. '_''
+`_`` Well_UH ,_, Amy_NNP ,_, '_'' said_VBD Fanny_NNP ,_, '_'' I_PRP am_VBP sure_JJ I_PRP am_VBP glad_JJ to_TO find_VB you_PRP at_IN last_JJ expressing_VBG a_DT wish_NN to_TO become_VB better_RBR acquainted_VBN with_IN anybody_NN in_IN Venice_NNP ._.
+Though_IN whether_IN Mr_NNP and_CC Mrs_NNP Gowan_NNP are_VBP desirable_JJ acquaintances_NNS ,_, remains_VBZ to_TO be_VB determined_VBN ._. '_''
+`_`` Mrs_NNP Gowan_NNP I_PRP spoke_VBD of_IN ,_, dear_RB ._. '_''
+`_`` No_DT doubt_NN ,_, '_'' said_VBD Fanny_NNP ._.
+`_`` But_CC you_PRP ca_MD n't_RB separate_VB her_PRP$ from_IN her_PRP$ husband_NN ,_, I_PRP believe_VBP ,_, without_IN an_DT Act_NN of_IN Parliament_NNP ._. '_''
+`_`` Do_VB you_PRP think_VB ,_, Papa_NN ,_, '_'' inquired_VBD Little_NNP Dorrit_NNP ,_, with_IN diffidence_NN and_CC hesitation_NN ,_, `_`` there_EX is_VBZ any_DT objection_NN to_TO my_PRP$ making_VBG this_DT visit_NN ?_. '_''
+`_`` Really_RB ,_, '_'' he_PRP replied_VBD ,_, `_`` I_PRP --_: ha_NN --_: what_WP is_VBZ Mrs_NNP General_NNP 's_POS view_NN ?_. '_''
+Mrs_NNP General_NNP 's_POS view_NN was_VBD ,_, that_IN not_RB having_VBG the_DT honor_NN of_IN any_DT acquaintance_NN with_IN the_DT lady_NN and_CC gentleman_NN referred_VBD to_TO ,_, she_PRP was_VBD not_RB in_IN a_DT position_NN to_TO varnish_VB the_DT present_JJ article_NN ._.
+She_PRP could_MD only_RB remark_VB ,_, as_IN a_DT general_JJ principle_NN observed_VBD in_IN the_DT varnishing_VBG trade_NN ,_, that_WDT much_RB depended_VBD on_IN the_DT quarter_NN from_IN which_WDT the_DT lady_NN under_IN consideration_NN was_VBD accredited_VBN to_TO a_DT family_NN so_RB conspicuously_RB niched_VBN in_IN the_DT social_JJ temple_NN as_IN the_DT family_NN of_IN Dorrit_NNP ._.
+At_IN this_DT remark_NN the_DT face_NN of_IN Mr_NNP Dorrit_NNP gloomed_VBD considerably_RB ._.
+He_PRP was_VBD about_RB -LRB-_-LRB- connecting_VBG the_DT accrediting_VBG with_IN an_DT obtrusive_JJ person_NN of_IN the_DT name_NN of_IN Clennam_NNP ,_, whom_WP he_PRP imperfectly_RB remembered_VBD in_IN some_DT former_JJ state_NN of_IN existence_NN -RRB-_-RRB- to_TO black-ball_VB the_DT name_NN of_IN Gowan_NNP finally_RB ,_, when_WRB Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, came_VBD into_IN the_DT conversation_NN ,_, with_IN his_PRP$ glass_NN in_IN his_PRP$ eye_NN ,_, and_CC the_DT preliminary_JJ remark_NN of_IN '_'' I_PRP say_VBP --_: you_PRP there_EX !_.
+Go_VB out_RP ,_, will_MD you_PRP !_. '_''
+--_: which_WDT was_VBD addressed_VBN to_TO a_DT couple_NN of_IN men_NNS who_WP were_VBD handing_VBG the_DT dishes_NNS round_NN ,_, as_IN a_DT courteous_JJ intimation_NN that_IN their_PRP$ services_NNS could_MD be_VB temporarily_RB dispensed_VBN with_IN ._.
+Those_DT menials_NNS having_VBG obeyed_VBN the_DT mandate_NN ,_, Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, proceeded_VBD ._.
+`_`` Perhaps_RB it_PRP 's_VBZ a_DT matter_NN of_IN policy_NN to_TO let_VB you_PRP all_DT know_VBP that_IN these_DT Gowans_NNP --_: in_IN whose_WP$ favor_NN ,_, or_CC at_IN least_JJS the_DT gentleman_NN 's_POS ,_, I_PRP ca_MD n't_RB be_VB supposed_VBN to_TO be_VB much_JJ prepossessed_JJ myself_PRP --_: are_VBP known_VBN to_TO people_NNS of_IN importance_NN ,_, if_IN that_DT makes_VBZ any_DT difference_NN ._. '_''
+`_`` That_DT ,_, I_PRP would_MD say_VB ,_, '_'' observed_VBD the_DT fair_JJ varnisher_NN ,_, `_`` Makes_VBZ the_DT greatest_JJS difference_NN ._.
+The_DT connection_NN in_IN question_NN ,_, being_VBG really_RB people_NNS of_IN importance_NN and_CC consideration_NN --_: '_'' `_`` As_IN to_TO that_DT ,_, '_'' said_VBD Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, `_`` I_PRP 'll_MD give_VB you_PRP the_DT means_NNS of_IN judging_VBG for_IN yourself_PRP ._.
+You_PRP are_VBP acquainted_VBN ,_, perhaps_RB ,_, with_IN the_DT famous_JJ name_NN of_IN Merdle_NNP ?_. '_''
+`_`` The_DT great_JJ Merdle_NNP !_. '_''
+exclaimed_VBN Mrs_NNP General_NNP ._. '_''
+__RB The_DT __NN Merdle_NNP ,_, '_'' said_VBD Edward_NNP Dorrit_NNP ,_, Esquire_NNP ._.
+`_`` They_PRP are_VBP known_VBN to_TO him_PRP ._.
+Mrs_NNP Gowan_NNP --_: I_PRP mean_VBP the_DT dowager_NN ,_, my_PRP$ polite_JJ friend_NN 's_POS mother_NN --_: is_VBZ intimate_JJ with_IN Mrs_NNP Merdle_NNP ,_, and_CC I_PRP know_VBP these_DT two_CD to_TO be_VB on_IN their_PRP$ visiting_VBG list_NN ._. '_''
+`_`` If_IN so_RB ,_, a_DT more_RBR undeniable_JJ guarantee_NN could_MD not_RB be_VB given_VBN ,_, '_'' said_VBD Mrs_NNP General_NNP to_TO Mr_NNP Dorrit_NNP ,_, raising_VBG her_PRP$ gloves_NNS and_CC bowing_VBG her_PRP$ head_NN ,_, as_IN if_IN she_PRP were_VBD doing_VBG homage_NN to_TO some_DT visible_JJ graven_NN image_NN ._. '_''
+I_PRP beg_VBP to_TO ask_VB my_PRP$ son_NN ,_, from_IN motives_NNS of_IN --_: ah_NN --_: curiosity_NN ,_, '_'' Mr_NNP Dorrit_NNP observed_VBD ,_, with_IN a_DT decided_VBN change_NN in_IN his_PRP$ manner_NN ,_, `_`` how_WRB he_PRP becomes_VBZ possessed_VBN of_IN this_DT --_: hum_NN --_: timely_JJ information_NN ?_. '_''
+`_`` It_PRP 's_VBZ not_RB a_DT long_JJ story_NN ,_, sir_NN ,_, '_'' returned_VBD Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, `_`` and_CC you_PRP shall_MD have_VB it_PRP out_IN of_IN hand_NN ._.
+To_TO begin_VB with_IN ,_, Mrs_NNP Merdle_NNP is_VBZ the_DT lady_NN you_PRP had_VBD the_DT parley_NN with_IN at_IN what_WP 's_VBZ -_: his-name_JJ place_NN ._. '_''
+`_`` Martigny_NNP ,_, '_'' interposed_VBD Miss_NNP Fanny_NNP with_IN an_DT air_NN of_IN infinite_JJ languor_NN ._.
+`_`` Martigny_NNP ,_, '_'' assented_VBD her_PRP$ brother_NN ,_, with_IN a_DT slight_JJ nod_NN and_CC a_DT slight_JJ wink_NN ;_: in_IN acknowledgment_NN of_IN which_WDT ,_, Miss_NNP Fanny_NNP looked_VBD surprised_JJ ,_, and_CC laughed_VBD and_CC reddened_VBD ._.
+`_`` How_WRB can_MD that_WDT be_VB ,_, Edward_NNP ?_. '_''
+said_VBD Mr_NNP Dorrit_NNP ._.
+`_`` You_PRP informed_VBD me_PRP that_IN the_DT name_NN of_IN the_DT gentleman_NN with_IN whom_WP you_PRP conferred_VBD was_VBD --_: ha_NN --_: Sparkler_NNP ._.
+Indeed_RB ,_, you_PRP showed_VBD me_PRP his_PRP$ card_NN ._.
+Hum_NNP ._.
+Sparkler_NNP ._. '_''
+`_`` No_DT doubt_NN of_IN it_PRP ,_, father_NN ;_: but_CC it_PRP does_VBZ n't_RB follow_VB that_IN his_PRP$ mother_NN 's_POS name_NN must_MD be_VB the_DT same_JJ ._.
+Mrs_NNP Merdle_NNP was_VBD married_VBN before_RB ,_, and_CC he_PRP is_VBZ her_PRP$ son_NN ._.
+She_PRP is_VBZ in_IN Rome_NNP now_RB ;_: where_WRB probably_RB we_PRP shall_MD know_VB more_JJR of_IN her_PRP ,_, as_IN you_PRP decide_VBP to_TO winter_NN there_RB ._.
+Sparkler_NNP is_VBZ just_RB come_VBN here_RB ._.
+I_PRP passed_VBD last_JJ evening_NN in_IN company_NN with_IN Sparkler_NNP ._.
+Sparkler_NNP is_VBZ a_DT very_RB good_JJ fellow_NN on_IN the_DT whole_NN ,_, though_IN rather_RB a_DT bore_VBD on_IN one_CD subject_NN ,_, in_IN consequence_NN of_IN being_VBG tremendously_RB smitten_VBN with_IN a_DT certain_JJ young_JJ lady_NN ._. '_''
+Here_RB Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, eyed_VBD Miss_NNP Fanny_NNP through_IN his_PRP$ glass_NN across_IN the_DT table_NN ._.
+`_`` We_PRP happened_VBD last_JJ night_NN to_TO compare_VB notes_NNS about_IN our_PRP$ travels_NNS ,_, and_CC I_PRP had_VBD the_DT information_NN I_PRP have_VBP given_VBN you_PRP from_IN Sparkler_NNP himself_PRP ._. '_''
+Here_RB he_PRP ceased_VBD ;_: continuing_VBG to_TO eye_NN Miss_NNP Fanny_NNP through_IN his_PRP$ glass_NN ,_, with_IN a_DT face_NN much_JJ twisted_JJ ,_, and_CC not_RB ornamentally_RB so_RB ,_, in_IN part_NN by_IN the_DT action_NN of_IN keeping_VBG his_PRP$ glass_NN in_IN his_PRP$ eye_NN ,_, and_CC in_IN part_NN by_IN the_DT great_JJ subtlety_NN of_IN his_PRP$ smile_NN ._.
+`_`` Under_IN these_DT circumstances_NNS ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, '_'' I_PRP believe_VBP I_PRP express_VB the_DT sentiments_NNS of_IN --_: ha_NN --_: Mrs_NNP General_NNP ,_, no_DT less_JJR than_IN my_PRP$ own_JJ ,_, when_WRB I_PRP say_VBP that_IN there_EX is_VBZ no_DT objection_NN ,_, but_CC --_: ha_NN hum_NN --_: quite_RB the_DT contrary_NN --_: to_TO your_PRP$ gratifying_VBG your_PRP$ desire_NN ,_, Amy_NNP ._.
+I_PRP trust_VBP I_PRP may_MD --_: ha_NN --_: hail_NN --_: this_DT desire_NN ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, in_IN an_DT encouraging_JJ and_CC forgiving_JJ manner_NN ,_, `_`` as_IN an_DT auspicious_JJ omen_NNS ._.
+It_PRP is_VBZ quite_RB right_JJ to_TO know_VB these_DT people_NNS ._.
+It_PRP is_VBZ a_DT very_RB proper_JJ thing_NN ._.
+Mr_NNP Merdle_NNP 's_POS is_VBZ a_DT name_NN of_IN --_: ha_NN --_: world-wide_JJ repute_NN ._.
+Mr_NNP Merdle_NNP 's_POS undertakings_NNS are_VBP immense_JJ ._.
+They_PRP bring_VBP him_PRP in_IN such_JJ vast_JJ sums_NNS of_IN money_NN that_IN they_PRP are_VBP regarded_VBN as_RB --_: hum_NN --_: national_JJ benefits_NNS ._.
+Mr_NNP Merdle_NNP is_VBZ the_DT man_NN of_IN this_DT time_NN ._.
+The_DT name_NN of_IN Merdle_NNP is_VBZ the_DT name_NN of_IN the_DT age_NN ._.
+Pray_NNP do_VBP everything_NN on_IN my_PRP$ behalf_NN that_WDT is_VBZ civil_JJ to_TO Mr_NNP and_CC Mrs_NNP Gowan_NNP ,_, for_IN we_PRP will_MD --_: ha_NN --_: we_PRP will_MD certainly_RB notice_VB them_PRP ._. '_''
+This_DT magnificent_JJ accordance_NN of_IN Mr_NNP Dorrit_NNP 's_POS recognition_NN settled_VBD the_DT matter_NN ._.
+It_PRP was_VBD not_RB observed_VBN that_IN Uncle_NNP had_VBD pushed_VBN away_RB his_PRP$ plate_NN ,_, and_CC forgotten_VBN his_PRP$ breakfast_NN ;_: but_CC he_PRP was_VBD not_RB much_JJ observed_VBN at_IN any_DT time_NN ,_, except_IN by_IN Little_NNP Dorrit_NNP ._.
+The_DT servants_NNS were_VBD recalled_VBN ,_, and_CC the_DT meal_NN proceeded_VBD to_TO its_PRP$ conclusion_NN ._.
+Mrs_NNP General_NNP rose_VBD and_CC left_VBD the_DT table_NN ._.
+Little_NNP Dorrit_NNP rose_VBD and_CC left_VBD the_DT table_NN ._.
+When_WRB Edward_NNP and_CC Fanny_NNP remained_VBD whispering_VBG together_RB across_IN it_PRP ,_, and_CC when_WRB Mr_NNP Dorrit_NNP remained_VBD eating_JJ figs_NNS and_CC reading_VBG a_DT French_JJ newspaper_NN ,_, Uncle_NNP suddenly_RB fixed_VBD the_DT attention_NN of_IN all_DT three_CD by_IN rising_VBG out_IN of_IN his_PRP$ chair_NN ,_, striking_VBG his_PRP$ hand_NN upon_IN the_DT table_NN ,_, and_CC saying_VBG ,_, `_`` Brother_NN !_.
+I_PRP protest_VBP against_IN it_PRP !_. '_''
+If_IN he_PRP had_VBD made_VBN a_DT proclamation_NN in_IN an_DT unknown_JJ tongue_NN ,_, and_CC given_VBN up_RP the_DT ghost_NN immediately_RB afterwards_RB ,_, he_PRP could_MD not_RB have_VB astounded_JJ his_PRP$ audience_NN more_RBR ._.
+The_DT paper_NN fell_VBD from_IN Mr_NNP Dorrit_NNP 's_POS hand_NN ,_, and_CC he_PRP sat_VBD petrified_JJ ,_, with_IN a_DT fig_NN half_DT way_NN to_TO his_PRP$ mouth_NN ._.
+`_`` Brother_NN !_. '_''
+said_VBD the_DT old_JJ man_NN ,_, conveying_VBG a_DT surprising_JJ energy_NN into_IN his_PRP$ trembling_VBG voice_NN ,_, '_'' I_PRP protest_VBP against_IN it_PRP !_.
+I_PRP love_VBP you_PRP ;_: you_PRP know_VBP I_PRP love_VBP you_PRP dearly_RB ._.
+In_IN these_DT many_JJ years_NNS I_PRP have_VBP never_RB been_VBN untrue_JJ to_TO you_PRP in_IN a_DT single_JJ thought_NN ._.
+Weak_JJ as_IN I_PRP am_VBP ,_, I_PRP would_MD at_IN any_DT time_NN have_VBP struck_VBN any_DT man_NN who_WP spoke_VBD ill_RB of_IN you_PRP ._.
+But_CC ,_, brother_NN ,_, brother_NN ,_, brother_NN ,_, I_PRP protest_VBP against_IN it_PRP !_. '_''
+It_PRP was_VBD extraordinary_JJ to_TO see_VB of_IN what_WP a_DT burst_NN of_IN earnestness_NN such_JJ a_DT decrepit_NN man_NN was_VBD capable_JJ ._.
+His_PRP$ eyes_NNS became_VBD bright_JJ ,_, his_PRP$ gray_JJ hair_NN rose_VBD on_IN his_PRP$ head_NN ,_, markings_NNS of_IN purpose_NN on_IN his_PRP$ brow_NN and_CC face_NN which_WDT had_VBD faded_VBN from_IN them_PRP for_IN five-and-twenty_JJ years_NNS ,_, started_VBD out_RP again_RB ,_, and_CC there_EX was_VBD an_DT energy_NN in_IN his_PRP$ hand_NN that_WDT made_VBD its_PRP$ action_NN nervous_JJ once_RB more_JJR ._.
+`_`` My_PRP$ dear_RB Frederick_NNP !_. '_''
+exclaimed_VBN Mr_NNP Dorrit_NNP faintly_RB ._.
+`_`` What_WP is_VBZ wrong_JJ ?_.
+What_WP is_VBZ the_DT matter_NN ?_. '_''
+`_`` How_WRB dare_VB you_PRP ,_, '_'' said_VBD the_DT old_JJ man_NN ,_, turning_VBG round_NN on_IN Fanny_NNP ,_, `_`` how_WRB dare_MD you_PRP do_VB it_PRP ?_.
+Have_VBP you_PRP no_DT memory_NN ?_.
+Have_VBP you_PRP no_DT heart_NN ?_. '_''
+`_`` Uncle_NNP ?_. '_''
+cried_VBD Fanny_NNP ,_, affrighted_VBN and_CC bursting_VBG into_IN tears_NNS ,_, `_`` why_WRB do_VBP you_PRP attack_VB me_PRP in_IN this_DT cruel_JJ manner_NN ?_.
+What_WP have_VBP I_PRP done_VBN ?_. '_''
+`_`` Done_VBN ?_. '_''
+returned_VBD the_DT old_JJ man_NN ,_, pointing_VBG to_TO her_PRP$ sister_NN 's_POS place_NN ,_, `_`` where_WRB 's_POS your_PRP$ affectionate_JJ invaluable_JJ friend_NN ?_.
+Where_WRB 's_POS your_PRP$ devoted_JJ guardian_NN ?_.
+Where_WRB 's_POS your_PRP$ more_JJR than_IN mother_NN ?_.
+How_WRB dare_MD you_PRP set_VB up_RP superiorities_NNS against_IN all_PDT these_DT characters_NNS combined_VBN in_IN your_PRP$ sister_NN ?_.
+For_IN shame_NN ,_, you_PRP false_JJ girl_NN ,_, for_IN shame_NN !_. '_'' '_''
+I_PRP love_VBP Amy_NNP ,_, '_'' cried_VBD Miss_NNP Fanny_NNP ,_, sobbing_VBG and_CC weeping_VBG ,_, `_`` as_RB well_RB as_IN I_PRP love_VBP my_PRP$ life_NN --_: better_JJR than_IN I_PRP love_VBP my_PRP$ life_NN ._.
+I_PRP do_VBP n't_RB deserve_VB to_TO be_VB so_RB treated_VBN ._.
+I_PRP am_VBP as_IN grateful_JJ to_TO Amy_NNP ,_, and_CC as_IN fond_JJ of_IN Amy_NNP ,_, as_IN it_PRP 's_VBZ possible_JJ for_IN any_DT human_JJ being_VBG to_TO be_VB ._.
+I_PRP wish_VBP I_PRP was_VBD dead_JJ ._.
+I_PRP never_RB was_VBD so_RB wickedly_RB wronged_VBN ._.
+And_CC only_RB because_IN I_PRP am_VBP anxious_JJ for_IN the_DT family_NN credit_NN ._. '_''
+`_`` To_TO the_DT winds_NNS with_IN the_DT family_NN credit_NN !_. '_''
+cried_VBD the_DT old_JJ man_NN ,_, with_IN great_JJ scorn_VBP and_CC indignation_NN ._.
+`_`` Brother_NN ,_, I_PRP protest_VBP against_IN pride_NN ._.
+I_PRP protest_VBP against_IN ingratitude_NN ._.
+I_PRP protest_VBP against_IN any_DT one_CD of_IN us_PRP here_RB who_WP have_VBP known_VBN what_WP we_PRP have_VBP known_VBN ,_, and_CC have_VBP seen_VBN what_WP we_PRP have_VBP seen_VBN ,_, setting_VBG up_RP any_DT pretension_NN that_WDT puts_VBZ Amy_NNP at_IN a_DT moment_NN 's_POS disadvantage_NN ,_, or_CC to_TO the_DT cost_NN of_IN a_DT moment_NN 's_POS pain_NN ._.
+We_PRP may_MD know_VB that_IN it_PRP 's_VBZ a_DT base_NN pretension_NN by_IN its_PRP$ having_VBG that_IN effect_NN ._.
+It_PRP ought_MD to_TO bring_VB a_DT judgment_NN on_IN us_PRP ._.
+Brother_NN ,_, I_PRP protest_VBP against_IN it_PRP in_IN the_DT sight_NN of_IN God_NNP !_. '_''
+As_IN his_PRP$ hand_NN went_VBD up_RB above_IN his_PRP$ head_NN and_CC came_VBD down_RP on_IN the_DT table_NN ,_, it_PRP might_MD have_VB been_VBN a_DT blacksmith_NN 's_POS ._.
+After_IN a_DT few_JJ moments_NNS '_POS silence_NN ,_, it_PRP had_VBD relaxed_VBN into_IN its_PRP$ usual_JJ weak_JJ condition_NN ._.
+He_PRP went_VBD round_NN to_TO his_PRP$ brother_NN with_IN his_PRP$ ordinary_JJ shuffling_JJ step_NN ,_, put_VBD the_DT hand_NN on_IN his_PRP$ shoulder_NN ,_, and_CC said_VBD ,_, in_IN a_DT softened_JJ voice_NN ,_, `_`` William_NNP ,_, my_PRP$ dear_RB ,_, I_PRP felt_VBD obliged_VBN to_TO say_VB it_PRP ;_: forgive_VB me_PRP ,_, for_IN I_PRP felt_VBD obliged_VBN to_TO say_VB it_PRP !_. '_''
+and_CC then_RB went_VBD ,_, in_IN his_PRP$ bowed_VBD way_NN ,_, out_IN of_IN the_DT palace_NN hall_NN ,_, just_RB as_IN he_PRP might_MD have_VB gone_VBN out_IN of_IN the_DT Marshalsea_NNP room_NN ._.
+All_PDT this_DT time_NN Fanny_NNP had_VBD been_VBN sobbing_VBG and_CC crying_VBG ,_, and_CC still_RB continued_VBN to_TO do_VB so_RB ._.
+Edward_NNP ,_, beyond_IN opening_VBG his_PRP$ mouth_NN in_IN amazement_NN ,_, had_VBD not_RB opened_VBN his_PRP$ lips_NNS ,_, and_CC had_VBD done_VBN nothing_NN but_CC stare_VB ._.
+Mr_NNP Dorrit_NNP also_RB had_VBD been_VBN utterly_RB discomfited_JJ ,_, and_CC quite_RB unable_JJ to_TO assert_VB himself_PRP in_IN any_DT way_NN ._.
+Fanny_NN was_VBD now_RB the_DT first_JJ to_TO speak_VB ._. '_''
+I_PRP never_RB ,_, never_RB ,_, never_RB was_VBD so_RB used_JJ !_. '_''
+she_PRP sobbed_VBD ._.
+`_`` There_EX never_RB was_VBD anything_NN so_RB harsh_JJ and_CC unjustifiable_JJ ,_, so_RB disgracefully_RB violent_JJ and_CC cruel_JJ !_.
+Dear_RB ,_, kind_NN ,_, quiet_JJ little_JJ Amy_NNP ,_, too_RB ,_, what_WP would_MD she_PRP feel_VB if_IN she_PRP could_MD know_VB that_IN she_PRP had_VBD been_VBN innocently_RB the_DT means_NNS of_IN exposing_VBG me_PRP to_TO such_JJ treatment_NN !_.
+But_CC I_PRP 'll_MD never_RB tell_VB her_PRP$ !_.
+No_DT ,_, good_JJ darling_NN ,_, I_PRP 'll_MD never_RB tell_VB her_PRP$ !_. '_''
+This_DT helped_VBD Mr_NNP Dorrit_NNP to_TO break_VB his_PRP$ silence_NN ._.
+`_`` My_PRP$ dear_RB ,_, '_'' said_VBD he_PRP ,_, `_`` I_PRP --_: ha_NN --_: approve_VB of_IN your_PRP$ resolution_NN ._.
+It_PRP will_MD be_VB --_: ha_NN hum_NN --_: much_RB better_JJR not_RB to_TO speak_VB of_IN this_DT to_TO Amy_NNP ._.
+It_PRP might_MD --_: hum_NN --_: it_PRP might_MD distress_NN her_PRP ._.
+Ha_NNP ._.
+No_DT doubt_NN it_PRP would_MD distress_NN her_PRP$ greatly_RB ._.
+It_PRP is_VBZ considerate_JJ and_CC right_JJ to_TO avoid_VB doing_VBG so_RB ._.
+We_PRP will_MD --_: ha_NN --_: keep_VB this_DT to_TO ourselves_PRP ._. '_''
+`_`` But_CC the_DT cruelty_NN of_IN Uncle_NNP !_. '_''
+cried_VBD Miss_NNP Fanny_NNP ._.
+`_`` O_RB ,_, I_PRP never_RB can_MD forgive_VB the_DT wanton_NN cruelty_NN of_IN Uncle_NNP !_. '_''
+`_`` My_PRP$ dear_RB ,_, '_'' said_VBD Mr_NNP Dorrit_NNP ,_, recovering_VBG his_PRP$ tone_NN ,_, though_IN he_PRP remained_VBD unusually_RB pale_JJ ,_, '_'' I_PRP must_MD request_VB you_PRP not_RB to_TO say_VB so_RB ._.
+You_PRP must_MD remember_VB that_IN your_PRP$ uncle_NN is_VBZ --_: ha_NN --_: not_RB what_WP he_PRP formerly_RB was_VBD ._.
+You_PRP must_MD remember_VB that_IN your_PRP$ uncle_NN 's_POS state_NN requires_VBZ --_: hum_NN --_: great_JJ forbearance_NN from_IN us_PRP ,_, great_JJ forbearance_NN ._. '_'' '_''
+I_PRP am_VBP sure_RB ,_, '_'' cried_VBD Fanny_NNP ,_, piteously_RB ,_, `_`` it_PRP is_VBZ only_RB charitable_JJ to_TO suppose_VB that_IN there_EX must_MD be_VB something_NN wrong_JJ in_IN him_PRP somewhere_RB ,_, or_CC he_PRP never_RB could_MD have_VB so_RB attacked_VBN Me_PRP ,_, of_IN all_PDT the_DT people_NNS in_IN the_DT world_NN ._. '_''
+`_`` Fanny_NN ,_, '_'' returned_VBD Mr_NNP Dorrit_NNP in_IN a_DT deeply_RB fraternal_JJ tone_NN ,_, `_`` you_PRP know_VBP ,_, with_IN his_PRP$ innumerable_JJ good_JJ points_NNS ,_, what_WP a_DT --_: hum_NN --_: wreck_VB your_PRP$ uncle_NN is_VBZ ;_: and_CC ,_, I_PRP entreat_VBP you_PRP by_IN the_DT fondness_NN that_IN I_PRP have_VBP for_IN him_PRP ,_, and_CC by_IN the_DT fidelity_NN that_IN you_PRP know_VBP I_PRP have_VBP always_RB shown_VBN him_PRP ,_, to_TO --_: ha_NN --_: to_TO draw_VB your_PRP$ own_JJ conclusions_NNS ,_, and_CC to_TO spare_VB my_PRP$ brotherly_JJ feelings_NNS ._. '_''
+This_DT ended_VBD the_DT scene_NN ;_: Edward_NNP Dorrit_NNP ,_, Esquire_NNP ,_, saying_VBG nothing_NN throughout_IN ,_, but_CC looking_VBG ,_, to_TO the_DT last_JJ ,_, perplexed_JJ and_CC doubtful_JJ ._.
+Miss_NNP Fanny_NNP awakened_VBD much_JJ affectionate_JJ uneasiness_NN in_IN her_PRP$ sister_NN 's_POS mind_NN that_IN day_NN by_IN passing_VBG the_DT greater_JJR part_NN of_IN it_PRP in_IN violent_JJ fits_NNS of_IN embracing_VBG her_PRP ,_, and_CC in_IN alternately_RB giving_VBG her_PRP$ brooches_NNS ,_, and_CC wishing_VBG herself_PRP dead_JJ ._.

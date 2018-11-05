@@ -1,0 +1,13 @@
+Elspeth_NNP Barker_NNP is_VBZ a_DT novelist_NN and_CC journalist_NN ._.
+She_PRP was_VBD born_VBN in_IN 1940_CD in_IN Edinburgh_NNP ,_, Scotland_NNP ._.
+Her_PRP$ first_JJ husband_NN was_VBD the_DT poet_NN George_NNP Barker_NNP by_IN whom_WP she_PRP had_VBD five_CD children_NNS ,_, including_VBG the_DT novelist_NN Raffaella_NNP Barker_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 2007_CD she_PRP married_VBD the_DT writer_NN Bill_NNP Troop_NNP ._.
+She_PRP was_VBD educated_VBN in_IN Scotland_NNP and_CC at_IN Oxford_NNP ._.
+Her_PRP$ novel_NN O_NNP Caledonia_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- won_VBD four_CD awards_NNS and_CC was_VBD shortlisted_VBN for_IN the_DT Whitbread_NNP Prize_NNP ._.
+She_PRP has_VBZ reviewed_VBN extensively_RB and_CC written_VBN features_NNS for_IN the_DT Independent_NNP on_IN Sunday_NNP ,_, Guardian_NNP ,_, Sunday_NNP Times_NNP ,_, Observer_NNP ,_, LRB_NNP ,_, TLS_NNP ,_, Harpers_NNP &_CC Queen_NNP ,_, Scotland_NNP on_IN Sunday_NNP ,_, Country_NNP Living_VBG ,_, Vogue_NNP ,_, etc._FW ._.
+She_PRP edited_VBD the_DT anthology_NN Loss_NN for_IN Dent\/Orion_NNP in_IN 1997_CD ._.
+From_IN 1992_CD to_TO 2010_CD she_PRP worked_VBD as_IN tutor_NN and_CC lecturer_NN in_IN creative_JJ writing_NN at_IN Norwich_NNP School_NNP of_IN Art_NNP and_CC Design_NNP -LRB-_-LRB- MA_NNP and_CC BA_NNP -RRB-_-RRB- ,_, and_CC has_VBZ tutored_VBN on_IN over_IN a_DT dozen_NN Arvon_NNP courses_NNS as_RB well_RB as_IN other_JJ writing_VBG courses_NNS in_IN the_DT UK_NNP ,_, Europe_NNP ,_, and_CC US_NNP ._.
+She_PRP has_VBZ published_VBN short_JJ stories_NNS in_IN numerous_JJ anthologies_NNS and_CC was_VBD visiting_VBG professor_NN of_IN fiction_NN at_IN Kansas_NNP University_NNP in_IN 1999_CD ._.
+She_PRP has_VBZ read_VBN and_CC lectured_VBN at_IN festivals_NNS and_CC universities_NNS around_IN the_DT world_NN ._.
+For_IN three_CD years_NNS she_PRP was_VBD a_DT judge_NN for_IN the_DT McKitterick_NNP and_CC Sagittarius_NNP prizes_NNS ._.
+She_PRP is_VBZ currently_RB writing_VBG for_IN The_DT Literary_NNP Review_NNP ._.

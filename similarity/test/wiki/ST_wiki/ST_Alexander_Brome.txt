@@ -1,0 +1,8 @@
+Alexander_NNP Brome_NNP -LRB-_-LRB- 1620_CD ''_'' 30_CD June_NNP 1666_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ._.
+Brome_NNP was_VBD by_IN profession_NN an_DT attorney_NN ,_, and_CC was_VBD the_DT author_NN of_IN many_JJ drinking_NN songs_NNS and_CC of_IN satirical_JJ verses_NNS in_IN favor_NN of_IN the_DT Royalists_NNPS and_CC in_IN opposition_NN to_TO the_DT Rump_NNP Parliament_NNP ._.
+In_IN 1661_CD ,_, following_VBG the_DT Restoration_NNP ,_, he_PRP published_VBD Songs_NNS and_CC other_JJ Poems_NNP ,_, containing_VBG songs_NNS on_IN various_JJ subjects_NNS ,_, followed_VBN by_IN a_DT series_NN of_IN political_JJ songs_NNS ;_: ballads_NNS ,_, epistles_NNS ,_, elegies_NNS and_CC epitaphs_NNS ;_: epigrams_NNS and_CC translations_NNS ._.
+Izaak_NNP Walton_NNP wrote_VBD an_DT introductory_JJ eclogue_NN for_IN this_DT volume_NN in_IN praise_NN of_IN the_DT writer_NN ,_, and_CC his_PRP$ gaiety_NN and_CC wit_NN won_VBD him_PRP the_DT title_NN of_IN the_DT English_NNP Anacreon_NNP in_IN Edward_NNP Phillips_NNP 's_POS Theatrum_NNP Poetarum_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Brome_NNP published_VBD a_DT translation_NN of_IN Horace_NNP by_IN himself_PRP and_CC others_NNS in_IN 1666_CD ,_, and_CC was_VBD the_DT author_NN of_IN a_DT comedy_NN entitled_VBN The_DT Cunning_NNP Lovers_NNP -LRB-_-LRB- 1654_CD -RRB-_-RRB- ._.
+He_PRP also_RB edited_VBD two_CD volumes_NNS of_IN Richard_NNP Brome_NNP 's_POS plays_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP died_VBD in_IN his_PRP$ house_NN in_IN Barge_NN Yard_NN in_IN the_DT parish_NN of_IN St_NNP Stephen_NNP Walbrook_NNP in_IN the_DT City_NNP of_IN London_NNP in_IN June_NNP 1666_CD ,_, and_CC was_VBD buried_VBN in_IN the_DT parish_JJ church_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

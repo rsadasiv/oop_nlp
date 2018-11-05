@@ -1,0 +1,22 @@
+Mary_NNP Anne_NNP Barker_NNP ,_, Lady_NNP Barker_NNP -LRB-_-LRB- 29_CD January_NNP 1831_CD ''_'' 6_CD March_NNP 1911_CD -RRB-_-RRB- ,_, later_RB Mary_NNP Anne_NNP Broome_NNP ,_, Lady_NNP Broome_NNP ,_, was_VBD an_DT author_NN ._.
+Born_NNP Mary_NNP Anne_NNP Stewart_NNP in_IN Spanish_NNP Town_NNP ,_, Jamaica_NNP ,_, she_PRP was_VBD the_DT eldest_JJS daughter_NN of_IN Walter_NNP Steward_NNP ,_, Island_NNP Secretary_NNP of_IN Jamaica_NNP ._.
+She_PRP was_VBD educated_VBN in_IN England_NNP ,_, and_CC in_IN 1852_CD married_JJ Captain_NNP George_NNP Robert_NNP Barker_NNP of_IN the_DT Royal_NNP Artillery_NNP ,_, with_IN whom_WP she_PRP would_MD have_VB two_CD children_NNS ._.
+When_WRB Barker_NNP was_VBD knighted_VBN for_IN his_PRP$ leadership_NN at_IN the_DT Siege_NNP of_IN Lucknow_NNP ,_, Mary_NNP Anne_NNP became_VBD ``_`` Lady_NNP Barker_NNP ''_'' ._.
+Eight_CD months_NNS later_RB Barker_NNP died_VBD ._.
+On_IN 21_CD June_NNP 1865_CD ,_, Mary_NNP Anne_NNP Barker_NNP married_JJ Frederick_NNP Napier_NNP Broome_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT couple_NN then_RB sailed_VBD for_IN New_NNP Zealand_NNP ,_, leaving_VBG her_PRP$ two_CD children_NNS in_IN England_NNP ._.
+The_DT couple_NN 's_POS first_JJ child_NN was_VBD born_VBN in_IN Christchurch_NNP in_IN February_NNP 1866_CD ,_, but_CC died_VBD in_IN May_NNP ._.
+By_IN this_DT time_NN ,_, they_PRP had_VBD moved_VBN to_TO the_DT sheep_NN station_NN Steventon_NNP ,_, which_WDT Broome_NNP had_VBD partnered_VBN with_IN H._NNP P._NNP Hill_NNP to_TO buy_VB ._.
+They_PRP remained_VBD there_EX for_IN three_CD years_NNS ;_: they_PRP lost_VBD more_JJR than_IN half_PDT their_PRP$ sheep_NN in_IN the_DT winter_NN of_IN 1867_CD ,_, and_CC in_IN response_NN Broome_NNP sold_VBD out_RP and_CC the_DT couple_NN returned_VBD to_TO London_NNP ._.
+Both_DT Mary_NNP Anne_NNP and_CC her_PRP$ husband_NN then_RB became_VBD journalists_NNS ._.
+Still_RB calling_VBG herself_PRP ``_`` Lady_NNP Barker_NNP ''_'' ,_, Mary_NNP Anne_NNP Broome_NNP became_VBD a_DT correspondent_NN for_IN The_DT Times_NNP ,_, and_CC also_RB published_VBN two_CD books_NNS of_IN verse_JJ ,_, Poems_NNP from_IN New_NNP Zealand_NNP -LRB-_-LRB- 1868_CD -RRB-_-RRB- and_CC The_DT Stranger_NN from_IN Seriphos_NNP -LRB-_-LRB- 1869_CD -RRB-_-RRB- ._.
+In_IN 1870_CD ,_, she_PRP published_VBD her_PRP$ first_JJ book_NN Station_NNP Life_NNP in_IN New_NNP Zealand_NNP ,_, a_DT collection_NN of_IN her_PRP$ letters_NNS home_NN ._.
+The_DT book_NN was_VBD reasonably_RB successful_JJ ,_, going_VBG through_IN several_JJ editions_NNS and_CC being_VBG translated_VBN into_IN French_JJ and_CC German_JJ ._.
+Over_IN the_DT next_JJ eight_CD years_NNS ,_, Lady_NNP Barker_NNP wrote_VBD ten_CD more_JJR books_NNS ,_, including_VBG A_DT Christmas_NNP Cake_NNP in_IN Four_CD Quarters_NNS -LRB-_-LRB- 1871_CD -RRB-_-RRB- ,_, a_DT sequel_NN to_TO Station_NNP Life_NNP entitled_VBD Station_NNP Amusements_NNP in_IN New_NNP Zealand_NNP -LRB-_-LRB- 1873_CD -RRB-_-RRB- ,_, and_CC First_NNP Lessons_NNPS in_IN the_DT Principles_NNPS of_IN Cooking_NNP -LRB-_-LRB- 1874_CD -RRB-_-RRB- ._.
+This_DT last_JJ title_NN led_VBD to_TO her_PRP$ being_NN appointed_VBN Lady_NNP Superintendent_NNP of_IN the_DT National_NNP Training_NNP School_NNP of_IN Cooking_NNP in_IN South_NNP Kensington_NNP ._.
+When_WRB Frederick_NNP Broome_NNP was_VBD appointed_VBN Colonial_NNP Secretary_NNP of_IN Natal_NNP in_IN 1875_CD ,_, Lady_NNP Barker_NNP accompanied_VBD him_PRP there_RB ._.
+Broome_NNP 's_POS subsequent_JJ colonial_NN appointments_NNS had_VBD him_PRP traveling_VBG to_TO Mauritius_NNP ,_, Western_NNP Australia_NNP ,_, Barbados_NNP ,_, and_CC Trinidad_NNP ._.
+Drawing_VBG on_IN these_DT experiences_NNS ,_, Lady_NNP Barker_NNP published_VBD A_DT Year_NN 's_POS Housekeeping_NN in_IN South_NNP Africa_NNP -LRB-_-LRB- 1880_CD -RRB-_-RRB- and_CC Letters_NNP to_TO Guy_NNP -LRB-_-LRB- 1885_CD -RRB-_-RRB- ._.
+Frederick_NNP Broome_NNP was_VBD knighted_VBN on_IN 3_CD July_NNP 1884_CD ,_, and_CC thereafter_RB Mary_NNP Anne_NNP called_VBD herself_PRP ``_`` Lady_NNP Broome_NNP ''_'' ._.
+She_PRP published_VBD the_DT last_JJ of_IN her_PRP$ 22_CD books_NNS ,_, Colonial_NNP Memories_NNP under_IN this_DT name_NN ._.
+After_IN Sir_NNP Frederick_NNP Broome_NNP 's_POS death_NN in_IN 1896_CD ,_, Lady_NNP Broome_NNP returned_VBD to_TO London_NNP ,_, dying_VBG there_RB on_IN 6_CD March_NNP 1911_CD ._.

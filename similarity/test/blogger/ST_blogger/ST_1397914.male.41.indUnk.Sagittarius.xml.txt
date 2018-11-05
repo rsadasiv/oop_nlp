@@ -1,0 +1,174 @@
+Testing_NNP ..._: CNN.com_NNP -_: A_NNP new_JJ addition_NN to_TO `_`` Friends_NNPS '_POS -_: Apr._NNP 17_CD ,_, 2003_CD -LRB-_-LRB- Aisha_NNP -RRB-_-RRB- Tyler_NNP ,_, who_WP begins_VBZ a_DT four-week_JJ run_NN on_IN ``_`` Friends_NNS ''_'' starting_VBG next_JJ Thursday_NNP ,_, April_NNP 24_CD -LRB-_-LRB- 8_CD p.m._NN EST_NNP -RRB-_-RRB- ,_, also_RB happens_VBZ to_TO be_VB among_IN the_DT very_JJ few_JJ nonwhite_JJ love_NN interests_NNS --_: or_CC faces_VBZ ,_, for_IN that_DT matter_NN --_: to_TO grace_NN the_DT popular_JJ NBC_NNP comedy_NN ._.
+Woo_NNP hooo_NN !!!_CD 8_CD -_: -RRB-_-RRB- Just_RB because_IN a_DT number_NN is_VBZ on_IN your_PRP$ caller_NN ID_NNP that_WDT does_VBZ n't_RB mean_VB you_PRP have_VBP to_TO answer_VB it_PRP ._.
+WSJ.com_SYM -_: Hong_NNP Kong_NNP Reports_NNP 9_CD More_JJR Deaths_NNS ,_, Pushing_VBG SARS_NNP Death_NNP Toll_NNP Past_NNP 150_CD HONG_NNP KONG_NNP --_: The_DT SARS_NNP crisis_NN deepened_VBD Tuesday_NNP as_IN Hong_NNP Kong_NNP reported_VBD nine_CD more_JJR fatalities_NNS pushing_VBG the_DT global_JJ death_NN toll_NN past_IN 150_CD ,_, and_CC U.S._NNP experts_NNS warned_VBD the_DT just-revealed_JJ genetic_JJ code_NN for_IN the_DT disease_NN does_VBZ n't_RB explain_VB how_WRB it_PRP started_VBD or_CC how_WRB to_TO stop_VB it_PRP ._.
+They_PRP 've_VBP already_RB got_VBN it_PRP coded_VBD ?!?_CD BAD_NNP alarm_NN clock_NN ..._: BAD_NNP !_.
+Today_NN was_VBD nostalgia_NN day_NN here_RB at_IN the_DT house_NN ._.
+Dean_NNP decided_VBD that_IN he_PRP wanted_VBD to_TO crank_VB up_RP some_DT of_IN his_PRP$ old_JJ -LRB-_-LRB- 80_CD 's_POS ,_, early_JJ 90_CD 's_POS techno_NN -RRB-_-RRB- CDs_NNPS ._.
+It_PRP was_VBD fun_NN for_IN awhile_RB but_CC it_PRP started_VBD interfering_VBG with_IN my_PRP$ hangover_NN after_IN about_IN an_DT hour_NN ._.
+I_PRP totally_RB missed_VBD Friends_NNS on_IN Thursday_NNP ._.
+I_PRP ended_VBD up_RP sleeping_VBG after_IN work_NN and_CC was_VBD tweaking_NN something_NN later_RB on_IN Dean_NNP 's_POS computer_NN while_IN it_PRP was_VBD on_IN ._.
+Went_VBD to_TO Eeyore_NNP 's_POS Birthday_NN Party_NNP today_NN with_IN Mark_NNP ._.
+Neither_DT of_IN us_PRP had_VBD ever_RB been_VBN before_RB and_CC dispite_VB the_DT dust_NN that_WDT had_VBD mark_NN sneezing_VBG his_PRP$ head_NN off_IN -LRB-_-LRB- that_DT and_CC the_DT 90_CD degree_NN heat_NN -RRB-_-RRB- we_PRP both_DT had_VBD a_DT great_JJ time_NN ._.
+statesman.com_JJ After_IN being_VBG thrown_VBN out_IN of_IN a_DT bar_NN ,_, Russell_NNP ,_, 33_CD ,_, got_VBD involved_VBN in_IN a_DT scuffle_NN with_IN Renny_NNP ,_, a_DT 3-year-old_JJ German_JJ shepherd_NN and_CC member_NN of_IN the_DT city_NN 's_POS K-9_NNP Corps_NNP ._.
+Renny_NNP and_CC his_PRP$ human_JJ partner_NN were_VBD dispatched_VBN to_TO investigate_VB a_DT disturbance_NN at_IN the_DT bar_NN from_IN which_WDT Russell_NNP objected_VBD to_TO being_VBG ejected_VBN ._.
+Syracuse_NNP police_NN said_VBD Russell_NNP grabbed_VBD the_DT dog_NN by_IN the_DT throat_NN ,_, choked_VBD it_PRP and_CC bit_NN its_PRP$ neck_NN ._.
+William_NNP Foster_NNP ,_, Renny_NNP 's_POS police_NN partner_NN ,_, used_VBN force_NN to_TO get_VB Russell_NNP to_TO release_VB the_DT dog_NN ._.
+Just_RB got_VBD an_DT email_NN from_IN Jason_NNP ._.
+He_PRP 's_VBZ been_VBN working_VBG down_RB in_IN Corpus_NNP for_IN about_IN a_DT year_NN ._.
+He_PRP just_RB started_VBD working_VBG with_IN someone_NN else_RB I_PRP used_VBD to_TO work_VB with_IN when_WRB I_PRP was_VBD stationed_VBN in_IN San_NNP Diego_NNP ._.
+Not_RB quite_RB sure_JJ how_WRB I_PRP came_VBD up_RP in_IN their_PRP$ conversation_NN -LRB-_-LRB- there_EX 's_VBZ three_CD years_NNS between_IN my_PRP$ working_VBG with_IN them_PRP -RRB-_-RRB- but_CC it_PRP 's_VBZ nice_JJ to_TO a_DT part_NN of_IN me_PRP -LRB-_-LRB- good_JJ I_PRP hope_VBP -RRB-_-RRB- stuck_VBD with_IN them_PRP ._.
+AT&T_NNP Worldnet_NNP Top_NNP News_NNP -_: How_WRB Did_VBD Worms_NNP Survive_VB Columbia_NNP Disaster_NN ?_.
+The_DT worms_NNS were_VBD housed_VBN in_IN 13_CD aluminum_NN canisters_NNS ,_, which_WDT were_VBD located_VBN just_RB below_IN the_DT mid-deck_NN on_IN Columbia_NNP ._.
+Survived_VBN my_PRP$ fourth_JJ day_NN with_IN Floaters_NNP ._.
+YAY_NNP !_.
+I_PRP JUST_RB INHERITED_VBD 14_CD MILLION_NNP DOLLARS_NNPS -LRB-_-LRB- again_RB -RRB-_-RRB- From_IN :_: danede_VB fang_NN To_TO :_: barr_danede1@yahoo.com_CD Subject_NNP :_: Appropriate_NNP Response_NNP ._.
+Date_NN :_: Tue_NNP ,_, 29_CD Apr_NNP 2003_CD 05:12:04_CD -0700_CD -LRB-_-LRB- PDT_NNP -RRB-_-RRB- TO_TO ;_: McClinton_NNP Dear_NNP Sir\/Madam_NNP ;_: I_PRP am_VBP Barrister_NNP DR_NNP ,_, DANEDE_NNP FANG_NNP ._.
+a_DT Solicitor_NNP ._.
+I_PRP am_VBP the_DT Personal_JJ Attorney_NNP to_TO Mr_NNP Fredrick_NNP McClinton_NNP a_DT national_JJ of_IN your_PRP$ country_NN ,_, who_WP used_VBD to_TO work_VB with_IN shell_NN development_NN company_NN in_IN Nigeria_NNP ._.
+On_IN the_DT 21st_CD of_IN April_NNP 1999_CD ,_, my_PRP$ client_NN ,_, his_PRP$ wife_NN And_CC their_PRP$ three_CD children_NNS were_VBD involved_VBN in_IN a_DT car_NN accident_NN along_IN Sagbama_NNP Express_NNP Road_NNP ._.
+All_DT occupants_NNS of_IN the_DT vehicle_NN unfortunately_RB lost_VBD there_EX lives_VBZ ._.
+Since_IN then_RB I_PRP have_VBP made_VBN several_JJ enquiries_NNS to_TO your_PRP$ embassy_NN to_TO locate_VB any_DT of_IN my_PRP$ clients_NNS extended_VBN relatives_NNS ,_, this_DT has_VBZ also_RB proved_VBN unsuccessful_JJ ._.
+After_IN these_DT several_JJ unsuccessful_JJ attempts_NNS ,_, I_PRP decided_VBD to_TO trace_VB his_PRP$ relatives_NNS over_IN the_DT Internet_NNP ,_, to_TO locate_VB any_DT member_NN of_IN his_PRP$ family_NN but_CC of_IN no_DT avail_NN ,_, hence_RB I_PRP contacted_VBD you_PRP ._.
+I_PRP have_VBP contacted_VBN you_PRP to_TO assist_VB in_IN repartrating_VBG the_DT money_NN and_CC property_NN left_VBD behind_RP by_IN my_PRP$ client_NN before_IN they_PRP get_VBP confisicated_VBN or_CC declared_VBN unserviceable_JJ by_IN the_DT bank_NN where_WRB this_DT huge_JJ deposits_NNS were_VBD lodged_VBN ._.
+Particularly_RB ,_, the_DT Bank_NNP where_WRB the_DT deceased_VBN had_VBD an_DT account_NN valued_VBN at_IN about_RB 14.6_CD million_CD dollars_NNS has_VBZ issued_VBN me_PRP a_DT notice_NN to_TO provide_VB the_DT next_JJ of_IN kin_FW or_CC have_VBP the_DT account_NN confisicated_VBN within_IN the_DT next_JJ ten_NN official_NN working_VBG days_NNS ._.
+since_IN i_FW have_VBP been_VBN unsuccesfull_JJ in_IN locating_VBG the_DT the_DT relatives_NNS for_IN over_IN 2_CD years_NNS now_RB I_PRP seek_VB your_PRP$ consent_NN to_TO present_VB you_PRP as_IN the_DT next_JJ of_IN kin_NN of_IN the_DT deceased_JJ since_IN you_PRP are_VBP from_IN the_DT same_JJ country_NN so_IN that_IN the_DT proceeds_NNS of_IN this_DT account_NN valued_VBN at_IN $_$ 14.6_CD million_CD dollars_NNS can_MD be_VB paid_VBN to_TO you_PRP and_CC then_RB you_PRP and_CC me_PRP can_MD share_VB the_DT money_NN ._.
+55_CD %_NN to_TO me_PRP and_CC 40_CD %_NN to_TO you_PRP ,_, while_IN 5_CD %_NN should_MD be_VB for_IN expenses_NNS or_CC tax_NN as_IN your_PRP$ government_NN may_MD require_VB ,_, I_PRP have_VBP all_DT necessary_JJ legal_JJ documents_NNS that_WDT can_MD be_VB used_VBN to_TO back_VB up_RP any_DT claim_NN we_PRP may_MD make_VB ._.
+All_DT I_PRP require_VBP is_VBZ your_PRP$ honest_JJ cooperation_NN to_TO enable_VB us_PRP see_VB this_DT dealt_VBN through_IN ._.
+I_PRP guarantee_VBP that_IN this_DT will_MD be_VB executed_VBN under_IN a_DT legitimate_JJ arrangement_NN that_WDT will_MD protect_VB you_PRP from_IN any_DT breach_NN of_IN the_DT law_NN ._.
+Please_VB get_VB in_IN touch_NN with_IN me_PRP by_IN my_PRP$ email_NN to_TO enable_VB us_PRP discuss_VB further_RBR ._.
+Best_JJS regards_VBZ ,_, DR_NNP ,_, DANEDE_NNP FANG_NNP ._.
+Thanks_NNS ,_, Dr_NNP Fang_NNP ._.
+I_PRP 'll_MD be_VB in_IN touch_NN ._.
+AT&T_NNP Worldnet_NNP Top_NNP News_NNP -_: Explosion_NN on_IN U.S._NNP Warship_NNP Near_IN Gulf_NNP Injures_NNP 11-Navy_NNP `_`` The_DT explosion_NN occurred_VBD in_IN a_DT trash_NN receptacle_NN in_IN Marine_NNP berthing_NN ,_, piercing_VBG a_DT bulkhead_NN and_CC injuring_VBG personnel_NNS in_IN the_DT adjacent_JJ compartment_NN ,_, '_'' the_DT statement_NN said_VBD ._.
+The_DT war_NN 's_POS only_RB been_VBN over_IN 20_CD minutes_NNS and_CC these_DT guys_NNS are_VBP already_RB bored_VBN ._.
+statesman.com_JJ |_NN Smoking_VBG ban_NN goes_VBZ to_TO unsure_JJ council_NN ._.
+If_IN this_DT passes_VBZ you_PRP can_MD add_VB Austin_NNP to_TO the_DT list_NN of_IN cities_NNS where_WRB you_PRP have_VBP to_TO pay_VB a_DT cover_NN charge_NN to_TO breathe_VB clean_JJ air_NN while_IN the_DT smokers_NNS are_VBP outside_JJ breathing_NN smoke_NN on_IN the_DT tourists_NNS ._.
+AT&T_NNP Worldnet_NNP Service_NNP -_: My_PRP$ AT&T_NNP This_DT is_VBZ a_DT good_JJ time_NN to_TO learn_VB about_IN your_PRP$ environment_NN ,_, what_WP 's_VBZ in_IN it_PRP and_CC how_WRB to_TO use_VB it_PRP ._.
+Today_NN 's_POS horoscope_NN for_IN scorpio_NN -LRB-_-LRB- I_PRP 'm_VBP on_IN the_DT cusp_NN -RRB-_-RRB- ._.
+Good_JJ idea_NN ._.
+I_PRP think_VBP I_PRP 'll_MD start_VB with_IN the_DT coffee_NN machine_NN and_CC grinder_NN ._.
+The_DT bodies_NNS from_IN Victioria_NNP left_VBD for_IN Houston_NNP last_JJ night_NN around_IN 8_CD ._.
+Seven_CD hearses_NNS and_CC a_DT van_NN with_IN a_DT police_NN escort_NN ._.
+One_CD of_IN the_DT guys_NNS came_VBD over_IN to_TO get_VB a_DT soda_NN from_IN our_PRP$ machine_NN -LRB-_-LRB- I_PRP guess_VBP their_PRP$ 's_POS is_VBZ broke_VBN -RRB-_-RRB- ._.
+He_PRP said_VBD the_DT bodies_NNS are_VBP going_VBG bad_JJ pretty_RB quick_JJ ._.
+AT&T_NNP Worldnet_NNP Top_NNP News_NNP -_: Bodies_NNS of_IN 18_CD Immigrants_NNPS Found_NNP in_IN Truck_NNP in_IN Texas_NNP VICTORIA_NNP ,_, Texas_NNP -LRB-_-LRB- Reuters_NNP -RRB-_-RRB- -_: The_DT bodies_NNS of_IN 18_CD illegal_JJ Mexican_JJ immigrants_NNS who_WP died_VBD from_IN suffocation_NN and_CC heat_NN exhaustion_NN were_VBD discovered_VBN on_IN Wednesday_NNP in_IN a_DT packed_JJ tractor_NN trailer_NN abandoned_VBN at_IN a_DT rest_NN stop_NN ._.
+They_PRP 're_VBP bringing_VBG the_DT bodies_NNS and_CC the_DT truck_NN up_IN to_TO Austin_NNP to_TO continue_VB the_DT investigation_NN -LRB-_-LRB- I_PRP work_VBP at_IN a_DT hospital_NN next_IN to_TO the_DT coronor_NN 's_POS office_NN -RRB-_-RRB- and_CC they_PRP were_VBD still_RB waiting_VBG for_IN it_PRP to_TO arrive_VB when_WRB I_PRP left_VBD at_IN 9:00_CD pm_NN ._.
+Meanwhile_RB ,_, one_CD block_NN west_NN in_IN the_DT park_NN ,_, there_EX was_VBD a_DT concert_NN ..._: Austin360_NNP Movies_NNPS :_: `_`` The_DT Matix_NNP :_: Reloaded_NNP '_POS Reviews_NNS --_: Gissela_NNP SantaCruz_NNP ,_, Austin360_NNP By_IN Gissela_NNP SantaCruz_NNP Austin360_NNP Staff_NNP Posted_VBD :_: May_NNP 15_CD ,_, 2003_CD Today_NN was_VBD a_DT good_JJ day_NN ._.
+A_DT mighty_JJ good_JJ day_NN ._.
+Not_RB only_RB because_IN the_DT smothering_VBG humidity_NN in_IN Austin_NNP had_VBD faded_VBN and_CC my_PRP$ hair_NN was_VBD showcasing_VBG its_PRP$ ability_NN to_TO produce_VB the_DT perfect_JJ spiral_NN curl_VB --_: but_CC more_JJR importantly_RB because_IN I_PRP was_VBD among_IN the_DT fortunate_JJ few_JJ at_IN a_DT screening_VBG for_IN the_DT long-awaited_JJ sequel_NN to_TO the_DT original_JJ kick-ass_NN Wachowski_NNP brother_NN action_NN film_NN ,_, ``_`` The_DT Matrix_NNP ._. ''_''
+At_IN least_JJS she_PRP will_MD like_VB the_DT movie_NN ._.
+Today_NN was_VBD my_PRP$ and_CC Mark_NNP 's_POS one_CD year_NN anniversary_NN at_IN Healthsouth_NNP ._.
+It_PRP was_VBD pretty_RB quiet_JJ today_NN ._.
+We_PRP spent_VBD my_PRP$ last_JJ 45_CD minutes_NNS listening_VBG to_TO some_DT kid_NN singing_VBG the_DT Pokemon_NNP theme_NN song_NN over_IN and_CC over_IN and_CC over_IN while_IN his_PRP$ grandmother_NN was_VBD in_IN therapy_NN ._.
+He_PRP was_VBD still_RB going_VBG at_IN it_PRP when_WRB I_PRP left_VBD ._.
+I_PRP was_VBD going_VBG to_TO call_VB Mark_NNP a_DT couple_NN of_IN times_NNS just_RB to_TO say_VB ``_`` pika_FW pika_FW ''_'' but_CC I_PRP figured_VBD he_PRP 'd_MD suffered_VBN enough_RB ._.
+statesman.com_JJ |_NNP Olympic_NNP park_NN bombing_NN suspect_JJ captured_VBN Rudolph_NNP ,_, who_WP is_VBZ now_RB 36_CD ,_, has_VBZ eluded_VBN capture_NN for_IN more_JJR than_IN five_CD years_NNS and_CC set_VBN off_RP massive_JJ manhunts_NNS through_IN North_NNP Carolina_NNP mountains_NNS ._.
+Rudolph_NNP is_VBZ charged_VBN with_IN a_DT bombing_NN on_IN July_NNP 27_CD ,_, 1996_CD ,_, at_IN Centennial_NNP Olympic_NNP Park_NNP in_IN Atlanta_NNP and_CC two_CD others_NNS in_IN early_JJ 1997_CD at_IN an_DT Atlanta_NNP abortion_NN clinic_NN and_CC gay_JJ nightclub_NN ._.
+The_DT Olympic_NNP Park_NNP blast_NN killed_VBD an_DT Albany_NNP ,_, Ga._NNP ,_, woman_NN ._.
+A_DT fourth_JJ and_CC final_JJ bombing_NN was_VBD attributed_VBN to_TO Rudolph_NNP --_: Jan._NNP 29_CD ,_, 1998_CD ,_, outside_IN a_DT Birmingham_NNP women_NNS 's_POS clinic_NN ._.
+Dean_NNP and_CC I_PRP took_VBD Max_NNP and_CC went_VBD down_RB to_TO Corpus_NNP Christi_NNP Saturday_NNP ._.
+It_PRP was_VBD the_DT first_JJ time_NN in_IN a_DT long_JJ time_NN that_WDT Dean_NNP and_CC I_PRP have_VBP had_VBD the_DT same_JJ days_NNS off_RB ._.
+Dean_NNP actually_RB suggested_VBD the_DT trip_NN a_DT week_NN ago_RB ._.
+I_PRP agreed_VBD ,_, as_RB long_RB as_IN we_PRP could_MD find_VB a_DT kennel_NN or_CC someone_NN to_TO watch_VB Max_NNP ._.
+That_DT was_VBD pretty_RB much_RB the_DT end_NN of_IN it_PRP until_IN Saturday_NNP morning_NN ._.
+As_IN usual_JJ Dean_NNP waited_VBD till_IN the_DT last_JJ minute_NN to_TO put_VB everything_NN together_RB ._.
+I_PRP found_VBD a_DT few_JJ hotels_NNS that_WDT accepted_VBD pets_NNS around_IN 10_CD in_IN the_DT morning_NN and_CC bookmarked_VBD it_PRP ,_, but_CC by_IN the_DT time_NN he_PRP crawled_VBD out_IN of_IN bed_NN most_JJS of_IN the_DT ones_NNS that_WDT had_VBD reservations_NNS available_JJ were_VBD booked_VBN ._.
+We_PRP did_VBD manage_VB to_TO get_VB a_DT reservation_NN at_IN a_DT Days_NNS Inn_NNP -LRB-_-LRB- which_WDT was_VBD n't_RB too_RB bad_JJ -RRB-_-RRB- ._.
+Then_RB we_PRP rented_VBD a_DT car_NN and_CC by_IN 6_CD we_PRP were_VBD on_IN the_DT road_NN ._.
+Corpus_NNP has_VBZ changed_VBN alot_NN since_IN I_PRP left_VBD in_IN '91_CD but_CC some_DT things_NNS are_VBP still_RB the_DT same_JJ ._.
+Lots_NNS of_IN construction_NN ,_, strip_NN malls_NNS ._.
+They_PRP still_RB have_VBP n't_RB finished_VB the_DT causway_NN out_IN to_TO Padre_NNP Island_NNP ._.
+The_DT Hidden_NNP Door_NNP is_VBZ still_RB the_DT only_JJ gay_JJ bar_NN in_IN town_NN ._.
+There_EX are_VBP a_DT couple_NN of_IN girl_NN bars_NNS ,_, but_CC ..._: All_DT in_IN all_DT though_IN it_PRP was_VBD a_DT pretty_RB good_JJ weekend_NN ._.
+Dean_NNP and_CC I_PRP went_VBD to_TO the_DT Hidden_NNP Door_NNP Saturday_NNP night_NN -LRB-_-LRB- I_PRP drove_VBD by_IN it_PRP twice_RB -RRB-_-RRB- ._.
+We_PRP played_VBD a_DT couple_NN of_IN games_NNS of_IN darts_NN ._.
+Sunday_NNP we_PRP checked_VBD out_IN of_IN the_DT hotel_NN and_CC went_VBD to_TO the_DT beach_NN for_IN awhile_RB ._.
+Max_NNP loved_VBD the_DT dunes_NNS but_CC hated_VBD the_DT water_NN ._.
+Then_RB headed_VBN back_RB to_TO Austin_NNP ._.
+AT&T_NNP Worldnet_NNP World_NNP News_NNP -_: Polar_NNP Bear_NNP Attacks_NNS U.S._NNP Submarine_NNP The_NNP bear_NN stalked_VBD the_DT submarine_NN for_IN around_IN a_DT half-hour_NN ,_, said_VBD Barnoff_NNP ._.
+``_`` It_PRP was_VBD n't_RB in_IN a_DT rush_NN to_TO do_VB anything_NN ._.
+It_PRP was_VBD on_IN its_PRP$ own_JJ schedule_NN ,_, ''_'' he_PRP said_VBD ._.
+Sitting_VBG here_RB waiting_VBG for_IN Mark_NNP to_TO come_VB in_IN so_RB I_PRP can_MD go_VB to_TO lunch_NN ._.
+A_DT bunch_NN of_IN us_PRP ordered_VBD burritos_NNS from_IN Freebird_NNP 's_POS ._.
+It_PRP 's_VBZ the_DT first_JJ time_NN I_PRP 've_VBP eaten_VBN there_RB ._.
+Everybody_NN just_RB raves_VBZ about_IN it_PRP ._.
+I_PRP ordered_VBD a_DT ``_`` regular_JJ ''_'' steak_NN burrito_NN ._.
+It_PRP came_VBD wrapped_VBN in_IN foil_NN and_CC looks_VBZ like_IN two_CD pound_NN roll_NN of_IN ground_NN beef_NN ._.
+The_DT burrito_NN was_VBD pretty_RB good_JJ ._.
+Still_RB ,_, I_PRP wish_VBP I_PRP could_MD find_VB something_NN more_RBR like_IN Alberto_NNP 's_POS in_IN San_NNP Diego_NNP ._.
+Went_VBD to_TO Brack_NNP for_IN breakfast_NN this_DT morning_NN and_CC got_VBD stuck_VBN behind_IN some_DT whiney_JJ lady_NN complaining_VBG about_IN the_DT coffee_NN being_VBG too_RB strong_JJ and_CC asking_VBG when_WRB it_PRP was_VBD made_VBN ._.
+Minnie_NNP just_RB smiled_VBD and_CC told_VBD her_PRP that_IN it_PRP was_VBD just_RB made_VBN and_CC that_IN the_DT starbucks_NNS was_VBD supposed_VBN to_TO be_VB strong_JJ ._.
+Whiney_NNP admitted_VBD that_IN when_WRB she_PRP 's_VBZ at_IN a_DT real_JJ starbucks_NNS she_PRP usually_RB gets_VBZ the_DT fru_NN fru_NN stuff_NN then_RB went_VBD to_TO get_VB a_DT cup_NN of_IN regular_JJ -LRB-_-LRB- cheap_JJ -RRB-_-RRB- coffee_NN ._.
+Max_NNP went_VBD to_TO the_DT vet_NN for_IN a_DT cortazone_JJ shot_NN today_NN ._.
+While_IN he_PRP was_VBD there_RB Dean_NNP had_VBD the_DT bump_NN on_IN his_PRP$ back_JJ drained_VBN ._.
+The_DT vet_NN said_VBD to_TO just_RB keep_VB an_DT eye_NN on_IN it_PRP and_CC bring_VB him_PRP back_RB if_IN it_PRP fills_VBZ up_RP again_RB ._.
+Second_JJ Monday_NNP in_IN a_DT row_NN !_.
+Although_IN I_PRP did_VBD manage_VB not_RB to_TO rip_VB the_DT back_NN off_IN of_IN my_PRP$ cell_NN phone_NN like_IN I_PRP did_VBD yesterday_NN ._.
+The_DT bus_NN broke_VBD down_RB and_CC my_PRP$ connecting_VBG bus_NN picked_VBD up_RP two_CD wheelchairs_NNS ;_: which_WDT made_VBD me_PRP about_IN ten_CD minutes_NNS late_RB for_IN work_NN -LRB-_-LRB- ok_FW ,_, I_PRP was_VBD already_RB late_JJ and_CC the_DT wheelchairs_NNS added_VBD maybe_RB 2_CD minutes_NNS -RRB-_-RRB- ._.
+Then_RB the_DT cafeteria_NN was_VBD out_IN of_IN cantaloupe_NN and_CC I_PRP dribbled_VBD coffee_NN on_IN my_PRP$ shirt_NN and_CC yes_RB I_PRP would_MD like_VB some_DT cheese_NN with_IN this_DT whine_NN ._.
+Kristy_NNP just_RB came_VBD through_IN and_CC swiped_VBD all_DT my_PRP$ white_JJ out_IN and_CC threw_VBD it_PRP away_RB ._.
+She_PRP says_VBZ we_PRP 're_VBP not_RB supposed_VBN to_TO use_VB the_DT liquid_JJ stuff_NN anymore_RB ._.
+Apparently_RB somebody_NN could_MD n't_RB wait_VB thirty_CD seconds_NNS for_IN the_DT stuff_NN to_TO dry_JJ and_CC killed_VBD a_DT couple_NN of_IN fax_NN machines_NNS ._.
+Denny_NNP 's_POS ..._: A_DT good_JJ place_NN to_TO sit_VB and_CC eat_VB ..._: eventually_RB ._.
+Well_RB ,_, we_PRP 're_VBP starting_VBG week_NN two_CD of_IN the_DT ``_`` Garland_NNP Wars_NNP ''_'' here_RB at_IN the_DT office_NN ._.
+It_PRP 's_VBZ Dee_NNP and_CC Linda_NNP verses_VBZ Shirley_NNP and_CC Theresa_NNP ._.
+The_DT big_JJ debate_NN is_VBZ whether_IN the_DT garland_NN on_IN the_DT counter_NN in_IN the_DT lobby_NN should_MD be_VB centered_VBN or_CC draped_VBN over_IN the_DT edge_NN ._.
+It_PRP gets_VBZ changed_VBN every_DT few_JJ hours_NNS or_CC so_RB ,_, depending_VBG on_IN who_WP walks_VBZ by_IN ._.
+I_PRP 'd_MD tape_VB the_DT silly_JJ thing_NN down_IN but_CC we_PRP 're_VBP not_RB supposed_VBN to_TO use_VB tape_NN for_IN things_NNS like_IN that_DT -LRB-_-LRB- would_MD n't_RB be_VB ``_`` pristine_JJ ''_'' -RRB-_-RRB- ._.
+Today_NN 's_POS been_VBN a_DT weird_JJ one_CD ._.
+The_DT bus_NN got_VBD cut_VBN off_RP -LRB-_-LRB- TWICE_NNP -RRB-_-RRB- on_IN the_DT way_NN to_TO work_VB this_DT morning_NN ._.
+Everybody_NN seemed_VBD to_TO be_VB just_RB barely_RB awake_RB ._.
+Mark_NNP woke_VBD up_RP today_NN ,_, after_IN a_DT week_NN on_IN vacation_NN ,_, and_CC decided_VBD he_PRP 'd_MD rather_RB spend_VB his_PRP$ time_NN on_IN EBAY_NNP and_CC called_VBN Irma_NNP to_TO quit_VB ._.
+The_DT system_NN that_WDT does_VBZ payroll_NN went_VBD down_RB ,_, as_RB well_RB as_IN the_DT fossil_NN of_IN a_DT printer_NN that_IN we_PRP use_VBP to_TO print_VB the_DT end_NN of_IN day_NN reports_NNS ._.
+Did_VBD someone_NN slip_NN in_IN a_DT Friday_NNP the_DT 13th_JJ and_CC not_RB tell_VB me_PRP ?_.
+Quotes_NNS of_IN the_DT Day_NNP -_: The_DT Quotations_NNS Page_NNP :_: ``_`` A_DT single_JJ death_NN is_VBZ a_DT tragedy_NN ;_: a_DT million_CD deaths_NNS is_VBZ a_DT statistic_NN ._.
+Joseph_NNP Stalin_NNP -LRB-_-LRB- 1879_CD -_: 1953_CD -RRB-_-RRB- It_PRP is_VBZ a_DT far_RB ,_, far_RB better_JJR thing_NN to_TO have_VB a_DT firm_NN anchor_VB in_IN nonsense_NN than_IN to_TO put_VB out_RP on_IN the_DT troubled_JJ sea_NN of_IN thought_NN ._.
+John_NNP Kenneth_NNP Galbraith_NNP -LRB-_-LRB- 1908_CD -_: -RRB-_-RRB- ''_'' Ray_NNP came_VBD by_IN today_NN to_TO say_VB `_`` hi_FW '_'' ._.
+His_PRP$ mother_NN died_VBD over_IN the_DT weekend_NN ._.
+She_PRP 'd_MD been_VBN sick_JJ for_IN awhile_RB ._.
+He_PRP said_VBD that_IN she_PRP was_VBD peaceful_JJ and_CC `_`` went_VBD on_IN her_PRP$ own_JJ terms_NNS '_POS ._.
+I_PRP hope_VBP he_PRP 'll_MD be_VB ok_RB ._.
+I_PRP should_MD be_VB doing_VBG my_PRP$ employee_NN reorientation_NN packet_NN -LRB-_-LRB- actually_RB ,_, I_PRP should_MD already_RB be_VB done_VBN with_IN it_PRP ,_, I_PRP 've_VBP had_VBD it_PRP a_DT week_NN ._.
+It_PRP 's_VBZ not_RB due_JJ 'till_NN tommorrow_NN ._.
+I_PRP 'll_MD finish_VB it_PRP at_IN work_NN ._.
+Quotes_NNS of_IN the_DT Day_NNP -_: The_DT Quotations_NNS Page_NNP :_: ``_`` Money_NNP frees_VBZ you_PRP from_IN doing_VBG things_NNS you_PRP dislike_VBP ._.
+Since_IN I_PRP dislike_VBP doing_VBG nearly_RB everything_NN ,_, money_NN is_VBZ handy_JJ ._.
+Groucho_NNP Marx_NNP ''_'' CNN.com_NNP -_: Tennessee_NNP county_NN wants_VBZ to_TO ban_VB gays_NNS -_: Mar_NNP 18_CD ,_, 2004_CD :_: ``_`` Commissioner_NNP J.C._NNP Fugate_NNP ,_, who_WP introduced_VBD the_DT measure_NN ,_, also_RB asked_VBD the_DT county_NN attorney_NN to_TO find_VB a_DT way_NN to_TO enact_VB an_DT ordinance_NN banning_VBG homosexuals_NNS from_IN living_VBG in_IN the_DT county_NN ._. ''_''
+Their_PRP$ domain_NN -LRB-_-LRB- http:\/\/www.rheacounty.com_NN -RRB-_-RRB- is_VBZ for_IN sale_NN ._.
+Somebody_NN should_MD buy_VB it_PRP and_CC really_RB piss_VBZ 'em_PRP off_RP ._.
+CNN.com_SYM -_: Oregon_NNP county_NN bans_VBZ all_DT marriage_NN -_: Mar_NNP 23_CD ,_, 2004_CD :_: ``_`` The_DT last_JJ marriage_NN licenses_NNS were_VBD handed_VBN out_RP in_IN Benton_NNP County_NNP at_IN 4_CD p.m._RB local_JJ time_NN -LRB-_-LRB- 7:00_CD p.m._NN EST_NNP -RRB-_-RRB- Tuesday_NNP ._.
+As_IN of_IN Wednesday_NNP ,_, officials_NNS in_IN the_DT county_NN of_IN 79,000_CD people_NNS will_MD begin_VB telling_VBG couples_NNS applying_VBG for_IN licenses_NNS to_TO go_VB elsewhere_RB until_IN the_DT gay_JJ marriage_NN debate_NN is_VBZ settled_VBN ._.
+`_`` It_PRP may_MD seem_VB odd_JJ ,_, '_'' Benton_NNP County_NNP Commissioner_NNP Linda_NNP Modrell_NNP told_VBD Reuters_NNP in_IN a_DT telephone_NN interview_NN ,_, but_CC `_`` we_PRP need_VBP to_TO treat_VB everyone_NN in_IN our_PRP$ county_NN equally_RB ._. '_'' ''_''
+Thats_NNP brilliant_JJ -LRB-_-LRB- if_IN a_DT little_JJ overboard_RB -RRB-_-RRB- ._.
+Everybody_NN should_MD do_VB that_DT ._.
+Happy_JJ birthday_NN Penny_NNP ._.
+We_PRP miss_VBP ya_PRP ._.
+CNN.com_SYM -_: Ridge_NNP says_VBZ al_JJ Qaeda_NNP planning_NN attack_NN -_: Jul_NN 8_CD ,_, 2004_CD :_: ``_`` U.S._NNP officials_NNS have_VBP no_DT precise_JJ knowledge_NN of_IN the_DT time_NN ,_, place_NN or_CC method_NN of_IN attack_NN ..._: ''_'' Is_VBZ anybody_NN even_RB listening_VBG to_TO these_DT guys_NNS anymore_RB ?_.
+Ordered_VBD some_DT CDs_NNS from_IN this_DT company_NN a_DT couple_NN of_IN days_NNS ago_RB ._.
+This_DT is_VBZ definitely_RB my_PRP$ favorite_JJ confirmation_NN letter_NN ever_RB ._.
+David_NNP -_: Thanks_NNS for_IN your_PRP$ order_NN with_IN CD_NNP Baby_NNP !_.
+Qty_NNP Description_NNP =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM =_SYM 1_CD ETRO_NNP ANIME_NNP :_: summer_NN rain_NN -LRB-_-LRB- maxi_FW single_JJ -RRB-_-RRB- limite_NN 1_CD ETRO_NNP ANIME_NNP :_: see_VB the_DT sound_JJ Your_PRP$ CDs_NNS have_VBP been_VBN gently_RB taken_VBN from_IN our_PRP$ CD_NNP Baby_NNP shelves_NNS with_IN sterilized_VBN contamination-free_JJ gloves_NNS and_CC placed_VBN onto_IN a_DT satin_NN pillow_NN ._.
+A_DT team_NN of_IN 50_CD employees_NNS inspected_VBD your_PRP$ CDs_NNS and_CC polished_VBD them_PRP to_TO make_VB sure_JJ they_PRP were_VBD in_IN the_DT best_JJS possible_JJ condition_NN before_IN mailing_NN ._.
+Our_PRP$ packing_NN specialist_NN from_IN Japan_NNP lit_VBD a_DT candle_NN and_CC a_DT hush_NN fell_VBD over_IN the_DT crowd_NN as_IN he_PRP put_VBD your_PRP$ CDs_NNS into_IN the_DT finest_JJS gold-lined_JJ box_NN that_WDT money_NN can_MD buy_VB ._.
+We_PRP all_DT had_VBD a_DT wonderful_JJ celebration_NN afterwards_RB and_CC the_DT whole_JJ party_NN marched_VBD down_RP the_DT street_NN to_TO the_DT post_NN office_NN where_WRB the_DT entire_JJ town_NN of_IN Portland_NNP waved_VBD `_`` Bon_NNP Voyage_NNP !_. '_''
+to_TO your_PRP$ package_NN ,_, on_IN its_PRP$ way_NN to_TO you_PRP ,_, in_IN our_PRP$ private_JJ CD_NNP Baby_NNP jet_NN on_IN this_DT day_NN ,_, Tuesday_NNP ,_, July_NNP 6th_CD ._.
+I_PRP hope_VBP you_PRP had_VBD a_DT wonderful_JJ time_NN shopping_NN at_IN CD_NNP Baby_NNP ._.
+We_PRP sure_RB did_VBD ._.
+Your_PRP$ picture_NN is_VBZ on_IN our_PRP$ wall_NN as_IN ``_`` Customer_NN of_IN the_DT Year_NN ''_'' ._.
+We_PRP 're_VBP all_DT exhausted_VBN but_CC ca_MD n't_RB wait_VB for_IN you_PRP to_TO come_VB back_RB to_TO CDBABY.COM_NNP !!_NNP Thank_VB you_PRP once_RB again_RB ,_, Derek_NNP Sivers_NNP ,_, president_NN ,_, CD_NNP Baby_NNP the_DT little_JJ CD_NNP store_NN with_IN the_DT best_JJS new_JJ independent_JJ music_NN phone_NN :_: 1-800-448-6369_CD email_NN :_: cdbaby@cdbaby.com_VB http:\/\/www.cdbaby.com_JJ test_NN too_RB Panic_NN spreads_NNS in_IN Nigeria_NNP over_IN cell_NN phone_NN numbers_NNS rumored_VBN to_TO cause_VB death_NN FARK_NNP :_: ''_'' -LRB-_-LRB- CNEWS_NNP -RRB-_-RRB- ``_`` And_CC I_PRP thought_VBD email_NN spam_NN was_VBD bad_JJ ._.
+Quentin_NNP Crisp_NNP Quotes_NNPS of_IN the_DT Day_NNP :_: ''_'' ``_`` If_IN at_IN first_JJ you_PRP do_VBP n't_RB succeed_VB ,_, failure_NN may_MD be_VB your_PRP$ style_NN ._. ''_'' ''_''
+Our_PRP$ old_JJ car_NN -LRB-_-LRB- 88_CD Ford_NNP Probe_NNP -RRB-_-RRB- has_VBZ been_VBN sitting_VBG in_IN the_DT parking_NN lot_NN for_IN awhile_RB now_RB just_RB rusting_JJ away_RB ._.
+Dean_NNP go_VB a_DT notice_NN from_IN the_DT complex_NN that_IN it_PRP needs_VBZ to_TO be_VB registered_VBN or_CC they_PRP 'll_MD tow_RB it_PRP away_RB ._.
+Drop_NN dead_JJ date_NN for_IN that_DT is_VBZ tomorrow_NN ._.
+He_PRP 's_VBZ been_VBN working_VBG -LRB-_-LRB- slowly_RB -RRB-_-RRB- on_IN getting_VBG somebody_NN to_TO buy\/tow_VB the_DT thing_NN for_IN a_DT couple_NN of_IN weeks_NNS but_CC the_DT car_NN 's_POS so_RB old_JJ no_DT one_NN wants_VBZ to_TO deal_VB with_IN it_PRP ._.
+I_PRP say_VBP just_RB let_VB 'em_PRP tow_RB the_DT damn_JJ thing_NN and_CC get_VB rid_JJ of_IN it_PRP ._.
+But_CC he_PRP just_RB cant_JJ throw_VBP anything_NN out_RB ._.
+Putt_NNP 's_POS Law_NN Quotes_NNS of_IN the_DT Day_NNP :_: ''_'' ``_`` Technology_NNP is_VBZ dominated_VBN by_IN two_CD types_NNS of_IN people_NNS :_: those_DT who_WP understand_VBP what_WP they_PRP do_VBP not_RB manage_VB ,_, and_CC those_DT who_WP manage_VBP what_WP they_PRP do_VBP not_RB understand_VB ._. ''_'' ''_''
+Albert_NNP Einstein_NNP Quotes_NNPS of_IN the_DT Day_NNP :_: ''_'' ``_`` You_PRP can_MD not_RB simultaneously_RB prevent_VB and_CC prepare_VB for_IN war_NN ._. ''_'' ''_''
+CNN.com_SYM -_: Judge_NNP bars_NNS DiSpirito_NNP from_IN Rocco_NNP 's_POS -_: Jul_NNP 27_CD ,_, 2004_CD Daayammm_NNP !!_NNP Just_RB found_VBD out_RP that_IN yesterday_NN Rosie_NNP canceled_VBD the_DT root_NN canal_NN she_PRP had_VBD scheduled_VBN for_IN today_NN ._.
+Ca_MD n't_RB wait_VB to_TO hear_VB why_WRB ._.
+The_DT Salvation_NNP Army_NNP was_VBD supposed_VBN to_TO pick_VB up_RP the_DT car_NN yesterday_NN ._.
+It_PRP 's_VBZ still_RB in_IN the_DT lot_NN this_DT morning_NN ._.
+Of_IN course_NN ,_, so_RB is_VBZ the_DT other_JJ car_NN that_IN the_DT complex_NN was_VBD supposed_VBN to_TO tow_NN ._.
+Must_MD have_VB been_VBN a_DT good_JJ party_NN somewhere_RB in_IN town_NN ._.
+Anonymous_JJ Quotes_NNS of_IN the_DT Day_NNP :_: ''_'' ``_`` Write_VB a_DT wise_JJ saying_VBG and_CC your_PRP$ name_NN will_MD live_VB forever_RB ''_'' ''_''

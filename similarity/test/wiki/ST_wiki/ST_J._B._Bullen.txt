@@ -1,0 +1,9 @@
+J._NNP B._NNP Bullen_NNP -LRB-_-LRB- Barrie_NNP Bullen_NNP -RRB-_-RRB- is_VBZ a_DT noted_VBN interdisciplinary_JJ writer_NN specialising_VBG in_IN examining_VBG the_DT relationship_NN between_IN literature_NN ,_, mostly_RB English_JJ literature_NN ,_, and_CC art_NN in_IN the_DT 19th_JJ and_CC 20th_JJ centuries_NNS ._.
+Bullen_NNP has_VBZ written_VBN on_IN Coleridge_NNP ,_, Ruskin_NNP ,_, Dickens_NNP ,_, George_NNP Eliot_NNP ,_, Dante_NNP Gabriel_NNP Rossetti_NNP ,_, and_CC Thomas_NNP Hardy_NNP ._.
+He_PRP is_VBZ the_DT editor_NN of_IN two_CD notable_JJ series_NN for_IN the_DT Peter_NNP Lang_NNP publishing_VBG company_NN :_: Cultural_NNP Interactions_NNPS :_: Studies_NNS in_IN the_DT Relationship_NN between_IN the_DT Arts_NNS and_CC Writing_VBG and_CC -LRB-_-LRB- with_IN Isobel_NNP Armstrong_NNP -RRB-_-RRB- Culture_NNP in_IN the_DT Long_NNP Nineteenth_NNP Century_NNP ._.
+Bullen_NNP took_VBD his_PRP$ first_JJ degree_NN at_IN the_DT University_NNP of_IN Cambridge_NNP ._.
+This_DT was_VBD followed_VBN by_IN spells_NNS as_IN a_DT researcher_NN at_IN the_DT University_NNP of_IN Oxford_NNP and_CC at_IN the_DT University_NNP of_IN Reading_VBG ,_, where_WRB he_PRP remains_VBZ an_DT emeritus_JJ professor_NN ._.
+He_PRP now_RB holds_VBZ the_DT Chair_NNP of_IN English_NNP Literature_NNP and_CC Culture_NNP in_IN the_DT Department_NNP of_IN English_NNP Literature_NNP at_IN Royal_NNP Holloway_NNP ,_, University_NNP of_IN London_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Bullen_NNP 's_POS spouse_NN is_VBZ the_DT noted_VBN writer_NN and_CC painter_NN Roma_NNP Tearne_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- They_PRP have_VBP three_CD children_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

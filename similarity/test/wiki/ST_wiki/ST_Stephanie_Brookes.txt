@@ -1,0 +1,7 @@
+Stephanie_NNP Clare_NNP Brookes_NNP -LRB-_-LRB- born_VBN 20_CD December_NNP 1980_CD in_IN Stoke-on-Trent_NNP -RRB-_-RRB- is_VBZ a_DT food_NN writer_NN and_CC presenter_NN ._.
+She_PRP has_VBZ a_DT regular_JJ segment_NN on_IN BBC_NNP Radio_NNP London_NNP ,_, where_WRB she_PRP discusses_VBZ the_DT latest_JJS street_NN food_NN ,_, restaurants_NNS and_CC eateries_NNS ,_, and_CC the_DT newest_JJS food_NN markets_NNS ._.
+Brookes_NNP is_VBZ the_DT food_NN contributor_NN on_IN the_DT JoAnne_NNP Good_NNP and_CC Simon_NNP Lederman_NNP Saturday_NNP morning_NN show_NN ._.
+There_EX she_PRP discusses_VBZ the_DT street_NN food_NN around_IN London_NNP ,_, as_RB well_RB as_IN restaurants_NNS and_CC eateries_NNS throughout_IN the_DT city_NN ._.
+Brookes_NNP had_VBD previously_RB written_VBN in_IN the_DT Lifestyle\/Mind_NNP Body_NNP Spirit_NNP genre_NN ._.
+While_IN in_IN her_PRP$ twenties_NNS ,_, she_PRP had_VBD a_DT regular_JJ online_NN column_NN in_IN My_PRP$ Bliss_JJ magazine_NN ,_, which_WDT led_VBD to_TO her_PRP$ first_JJ mainstream_NN book_NN ,_, How_WRB to_TO Be_VB a_DT Spiritual_NNP Goddess_NNP -LRB-_-LRB- Piatkus_NNP -RRB-_-RRB- ._.
+Her_PRP$ following_JJ book_NN ,_, Meditation_NNP Made_NNP Easy_NNP -LRB-_-LRB- CICO_NNP Books_NNPS -RRB-_-RRB- was_VBD later_RB relaunched_VBN as_IN The_DT Little_NNP Pocket_NNP Book_NNP of_IN Meditation_NNP ._.

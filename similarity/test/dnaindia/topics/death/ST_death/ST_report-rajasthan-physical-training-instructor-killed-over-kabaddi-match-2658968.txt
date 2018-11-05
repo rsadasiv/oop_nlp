@@ -1,0 +1,20 @@
+A_DT physical_JJ Training_NNP Instructor_NNP -LRB-_-LRB- PTI_NNP -RRB-_-RRB- posted_VBD with_IN the_DT government_NN upper_JJ primary_JJ school_NN in_IN Kudi_NNP ,_, Jodhpur_NNP ,_, died_VBD at_IN the_DT Bhopalgarh_NNP Hospital_NNP where_WRB he_PRP was_VBD undergoing_VBG treatment_NN for_IN severe_JJ injuries_NNS sustained_VBN in_IN an_DT attack_NN Sunday_NNP night_NN ._.
+Shyam_NNP Sunder_NNP Jat_NNP ,_, in_IN his_PRP$ role_NN of_IN a_DT referee_NN ,_, had_VBD ruled_VBN a_DT point_NN in_IN favor_NN of_IN a_DT team_NN in_IN a_DT women_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ kabaddi_FW match_NN on_IN Sunday_NNP ._.
+The_DT decision_NN had_VBD infuriated_VBN the_DT other_JJ team_NN so_RB much_RB that_IN some_DT of_IN the_DT villagers_NNS fatally_RB beat_VB up_RP the_DT PTI_NNP when_WRB he_PRP was_VBD returning_VBG home_NN from_IN the_DT match_NN ._.
+The_DT incident_NN ,_, according_VBG to_TO cops_NNS ,_, took_VBD place_NN at_IN Kudi_NNP village_NN in_IN Bhopalgarh_NNP area_NN of_IN Jodhpur_NNP late_RB on_IN Sunday_NNP night_NN ._.
+oeShyam_NNP Sunder_NNP was_VBD officiating_VBG as_IN a_DT referee_NN at_IN the_DT 63rd_JJ state-level_JJ girls_NNS <sup>_VBP TM_NNP </sup>_NNP Kabaddi_NNP competition_NN on_IN Sunday_NNP ,_, ''_'' an_DT investigating_VBG official_NN said_VBD ._.
+The_DT sporting_VBG event_NN was_VBD held_VBN at_IN the_DT Shaheed_NNP Babulal_NNP government_NN middle_JJ school_NN in_IN Kudi_NNP ._.
+oeDuring_VBG a_DT match_NN of_IN the_DT 17-yr-old_JJ girls_NNS ,_, Shyam_NNP Sunder_NNP was_VBD called_VBN in_IN to_TO settle_VB a_DT dispute_NN between_IN the_DT two_CD teams_NNS ,_, ''_'' The_DT official_NN added_VBD ._.
+However_RB ,_, even_RB after_IN Shyam_NNP Sunder_NNP reportedly_RB settled_VBD the_DT dispute_NN ,_, there_EX was_VBD strong_JJ protest_NN from_IN one_CD of_IN the_DT teams_NNS that_WDT felt_VBD that_IN his_PRP$ decision_NN wasn_NN <sup>_VBD TM_NNP </sup>_NNP t_VBD justified_JJ ._.
+However_RB ,_, the_DT locals_NNS and_CC the_DT other_JJ school_NN staff_NN convinced_VBN the_DT team_NN members_NNS and_CC the_DT competition_NN resumed_VBD ._.
+Sources_NNS said_VBD that_IN after_IN the_DT event_NN ,_, one_CD of_IN the_DT village_NN youths_NNS confronted_VBD the_DT deceased_VBN over_IN the_DT decision_NN ._.
+oeIn_VB the_DT evening_NN ,_, however_RB ,_, he_PRP was_VBD attached_VBN with_IN sticks_NNS and_CC batons_NNS by_IN a_DT group_NN of_IN people_NNS ,_, ''_'' the_DT police_NN officer_NN said_VBD ._.
+The_DT attack_NN was_VBD brutal_JJ and_CC left_VBD Shyam_NNP Sunder_NNP grievously_RB injured_VBD ._.
+People_NNS from_IN the_DT nearby_JJ areas_NNS rushed_VBD the_DT bleeding_NN teacher_NN to_TO the_DT nearest_JJS Bhopalgarh_NNP Hospital_NNP ._.
+oeHe_NN passed_VBD away_RB Monday_NNP morning_NN after_IN succumbing_VBG to_TO the_DT injuries_NNS ,_, ''_'' an_DT official_NN said_VBD ._.
+Since_IN his_PRP$ death_NN ,_, there_EX is_VBZ palpable_JJ tension_NN in_IN the_DT village_NN Kudi_NNP ._.
+Agitated_VBN villagers_NNS are_VBP demanding_VBG justice_NN for_IN the_DT deceased_JJ teacher_NN ._.
+Police_NNP has_VBZ called_VBN for_IN reinforcements_NNS and_CC additional_JJ men_NNS in_IN khaki_NNS have_VBP laid_VBN siege_NN to_TO the_DT village_NN to_TO prevent_VB any_DT deterioration_NN in_IN law_NN and_CC order_NN ._.
+The_DT incident_NN took_VBD place_NN at_IN Kudi_NNP village_NN in_IN Bhopalgarh_NNP area_NN of_IN Jodhpur_NNP late_RB on_IN Sunday_NNP night_NN ._.
+Shyam_NNP Sunder_NNP was_VBD officiating_VBG as_IN referee_NN at_IN the_DT 63rd_JJ state-level_JJ girls_NNS <sup>_VBP TM_NNP </sup>_NNP Kabaddi_NNP competition_NN on_IN Sunday_NNP ._.
+In_IN his_PRP$ role_NN of_IN a_DT referee_NN ,_, he_PRP had_VBD ruled_VBN a_DT point_NN in_IN favor_NN of_IN a_DT team_NN in_IN a_DT women_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ match_NN which_WDT infuriated_VBD the_DT other_JJ team_NN ._.

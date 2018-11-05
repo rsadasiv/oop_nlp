@@ -1,0 +1,22 @@
+The_DT Reserve_NNP Bank_NNP of_IN India_NNP -LRB-_-LRB- RBI_NNP -RRB-_-RRB- has_VBZ released_VBN a_DT dissent_NN note_NN on_IN the_DT Inter-Ministerial_NNP Committee_NNP for_IN finalisation_NN of_IN amendments_NNS to_TO the_DT Payment_NN and_CC Settlement_NNP Systems_NNP -LRB-_-LRB- PSS_NNP -RRB-_-RRB- Act_NNP ,_, 2007_CD ,_, and_CC opposed_VBD the_DT idea_NN of_IN forming_VBG an_DT independent_JJ body_NN to_TO regulate_VB payments_NNS ._.
+The_DT committee_NN was_VBD formed_VBN by_IN the_DT government_NN under_IN the_DT chairmanship_NN of_IN Secretary_NNP ,_, Department_NNP of_IN Economic_NNP Affairs_NNPS ._.
+In_IN its_PRP$ draft_NN report_NN ,_, it_PRP had_VBD suggested_VBN the_DT creation_NN of_IN an_DT independent_JJ regulator_NN Payments_NNS Regulatory_NNP Board_NNP -LRB-_-LRB- PRB_NNP -RRB-_-RRB- to_TO deal_VB with_IN payment-related_JJ issues_NNS ._.
+However_RB ,_, the_DT RBI_NNP has_VBZ rejected_VBN the_DT recommendations_NNS through_IN its_PRP$ dissent_NN note_NN ,_, stating_VBG ,_, ?_.
+Payment_NN systems_NNS are_VBP a_DT sub-set_NN of_IN currency_NN which_WDT is_VBZ regulated_VBN by_IN the_DT RBI_NNP ._.
+The_DT overarching_JJ impact_NN of_IN monetary_JJ policy_NN on_IN payment_NN and_CC settlement_NN systems_NNS and_CC vice_NN versa_RB provides_VBZ support_NN for_IN regulation_NN of_IN payment_NN systems_NNS to_TO be_VB with_IN the_DT monetary_JJ authority_NN ._.
+There_EX is_VBZ an_DT underlying_JJ bank_NN account_NN for_IN payment_NN systems_NNS which_WDT is_VBZ under_IN the_DT purview_NN of_IN banking_NN system_NN regulation_NN which_WDT is_VBZ vested_VBN with_IN the_DT RBI_NNP ._. ''_''
+The_DT note_NN added_VBD ,_, <sup>_VB ~_CD </sup>_NNP Settlement_NNP systems_NNS are_VBP finally_RB posted_VBN in_IN the_DT books_NNS of_IN account_NN of_IN banks_NNS with_IN the_DT RBI_NNP to_TO attain_VB settlement_NN finality_NN ._.
+Regulating_VBG these_DT entities_NNS goes_VBZ hand_NN in_IN hand_NN with_IN the_DT settlement_NN function_NN ._.
+There_EX are_VBP certain_JJ payment_NN systems_NNS like_IN cards_NNS which_WDT are_VBP issued_VBN by_IN banks_NNS globally_RB ._.
+Dual_JJ regulation_NN over_IN such_JJ instruments_NNS will_MD not_RB be_VB desirable_JJ ._.
+In_IN India_NNP ,_, the_DT payment_NN system_NN is_VBZ bank-dominated_VBN ._.
+Regulation_NN of_IN the_DT banking_NN systems_NNS and_CC payment_NN system_NN by_IN the_DT same_JJ regulator_NN provides_VBZ synergy_NN and_CC inspires_VBZ public_JJ confidence_NN in_IN the_DT payment_NN instruments_NNS ._.
+<sup>_JJ TM_NNP </sup>_NNP The_NNP central_JJ bank_NN further_RBR stated_VBN that_IN the_DT regulation_NN of_IN the_DT payment_NN system_NN by_IN the_DT central_JJ bank_NN is_VBZ the_DT <sup>_JJ ~_NN </sup>_NN dominant_JJ international_JJ model_NN for_IN stability_NN consideration_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP <sup>_NNP ~_NNP </sup>_NNP Thus_RB ,_, having_VBG the_DT regulation_NN and_CC supervision_NN over_IN payment_NN and_CC settlement_NN systems_NNS with_IN the_DT central_JJ bank_NN will_MD ensure_VB holistic_JJ benefits_NNS ._.
+There_EX has_VBZ been_VBN no_DT evidence_NN of_IN any_DT inefficiency_NN in_IN payment_NN systems_NNS of_IN India_NNP ._.
+The_DT digital_JJ payments_NNS have_VBP made_VBN good_JJ and_CC steady_JJ progress_NN ._.
+India_NNP is_VBZ gaining_VBG international_JJ recognition_NN as_IN a_DT leader_NN in_IN payment_NN systems_NNS ._.
+Given_VBN this_DT ,_, there_EX need_MD not_RB be_VB any_DT change_NN in_IN a_DT well-functioning_JJ system_NN ,_, <sup>_VB TM_NNP </sup>_VB the_DT note_NN read_NN ._.
+In_IN cognizance_NN with_IN the_DT dissent_NN note_NN ,_, the_DT RBI_NNP stated_VBD that_IN the_DT PRB_NNP must_MD remain_VB with_IN the_DT Reserve_NNP Bank_NNP itself_PRP and_CC headed_VBN by_IN the_DT banking_NN regulator_NN 's_POS governor_NN ._.
+``_`` It_PRP may_MD comprise_VB three_CD members_NNS nominated_VBN by_IN the_DT government_NN and_CC RBI_NNP ,_, respectively_RB ,_, with_IN a_DT casting_NN vote_NN for_IN the_DT Governor_NNP to_TO ensure_VB smooth_JJ operations_NNS of_IN the_DT Board_NNP ._.
+The_DT compensation_NN of_IN the_DT PRB_NNP is_VBZ also_RB not_RB in_IN conformity_NN with_IN the_DT announcements_NNS made_VBN in_IN the_DT Finance_NNP Bill_NNP by_IN the_DT Finance_NNP Minister_NNP -LRB-_-LRB- Arun_NNP Jaitley_NNP -RRB-_-RRB- ,_, ''_'' it_PRP added_VBD ._.

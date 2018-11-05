@@ -1,0 +1,392 @@
+Actor-turned-politician_JJ
+Rajinikanth_NN
+on_PIN
+Saturday_NN
+extended_VBD
+support_NN
+to_PIN
+the_DT
+#MeToo_NN
+movement_NOMZ
+,_,
+but_CC
+cautioned_VBD
+against_PIN
+its_PIT
+misuse_NN
+._.
+``_``
+MeToo_NN
+is_VPRT [BEMA]
+a_DT
+good_JJ
+movement_NOMZ
+,_,
+but_CC
+women_NN
+should_NEMD
+not_XX0
+misuse_NN
+it_PIT
+..._:
+MeToo_NN
+should_NEMD
+be_VB [PASS]
+used_VBN
+correctly_RB
+,_,
+''_''
+Rajinikanth_NN
+told_VBD
+reporters_NN
+at_PIN
+Chennai_NN
+airport_NN
+this_DEMO
+morning_GER
+when_RB
+asked_VBN [SUAV]
+for_PIN
+his_TPP3
+comments_NOMZ
+on_PIN
+it_PIT
+._.
+The_DT
+actor_NN
+landed_VBD
+at_PIN
+Chennai_NN
+airport_NN
+after_IN
+wrapping_VBG
+up_RP
+the_DT
+shoot_NN
+for_PIN
+his_TPP3
+upcoming_VBG
+film_NN
+Petta_NN
+in_PIN
+Varanasi_NN
+._.
+On_PIN
+the_DT
+sexual_JJ
+harassment_NOMZ
+allegation_NOMZ
+of_PIN
+singer_NN
+Chinmayi_NN
+Sripaada_NN
+against_PIN
+award-winning_JJ
+Tamil_NN
+lyricist_NN
+R_NN
+Vairamuthu_NN
+,_,
+Rajinikanth_NN
+said_VBD [PUBV]
+the_DT
+latter_JJ
+had_VBD [PEAS]
+denied_VBN [PUBV]
+the_DT
+charges_NN
+._.
+``_``
+Vairamuthu_NN
+has_VPRT [SPAU] [PEAS]
+already_RB
+refuted_VBN
+the_DT
+allegations_NOMZ
+,_,
+right_RB
+?_.
+He_TPP3
+had_VBD [PEAS]
+asked_VBN [SUAV]
+Chinmayi_NN
+to_TO
+approach_VB
+the_DT
+court_NN
+and_CC
+that_THVC
+he_TPP3
+was_VBD [BEMA]
+ready_PRED
+to_TO
+face_VB
+it_PIT
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Sripaada_NN
+has_VPRT [PEAS]
+accused_VBN
+Vairamuthu_NN
+of_PIN
+harassing_VBG
+her_TPP3
+when_RB
+she_TPP3
+was_VBD [BEMA]
+in_PIN
+Switzerland_NN
+with_PIN
+him_TPP3
+at_PIN
+an_DT
+event_NN
+._.
+However_CONJ
+,_,
+Vairamuthu_NN
+had_VBD [PEAS]
+denied_VBN [PUBV]
+all_QUAN
+allegations_NOMZ
+against_PIN
+him_TPP3
+._.
+Asked_VBN [SUAV]
+about_IN
+the_DT
+Supreme_NN
+Court_NN
+verdict_NN
+allowing_VBG [SUAV] [WZPRES]
+women_NN
+of_PIN
+menstruating_VBG
+age_NN
+to_PIN
+Sabarimala_NN
+temple_NN
+and_CC
+the_DT
+standoff_NN
+in_PIN
+Kerala_NN
+between_PIN
+devotees_NN
+and_CC
+the_DT
+government_NOMZ
+,_,
+he_TPP3
+said_VBD [PUBV]
+:_:
+``_``
+We_FPP1
+should_NEMD
+respect_VB
+the_DT
+Supreme_NN
+Court_NN
+'s_POS
+verdict_NN
+._.
+But_CC
+we_FPP1
+should_NEMD [SPAU]
+also_RB
+consider_VB [PRIV]
+the_DT
+customs_NN
+and_PHC
+traditions_NOMZ
+of_PIN
+the_DT
+temples_NN
+and_CC
+respect_VB
+them_TPP3
+as_RB
+well_RB
+._.
+It_PIT
+is_VPRT [BEMA]
+my_FPP1
+humble_JJ
+request_NN
+._.
+''_''
+Rajinikanth_NN
+also_RB
+denied_VBD [PUBV]
+rumors_NN
+that_TOBJ
+he_TPP3
+would_PRMD
+launch_VB
+his_TPP3
+party_NN
+on_PIN
+December_NN
+12_CD
+,_,
+his_TPP3
+birthday_NN
+._.
+``_``
+I_FPP1
+wo_PRMD
+n't_XX0 [CONT]
+be_VB
+launching_VBG
+my_FPP1
+party_NN
+on_PIN
+December_NN
+12_CD
+,_,
+but_CC
+close_RB
+to_PIN
+90_CD
+per_PIN
+cent_NN
+of_PIN
+the_DT
+work_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+completed_VBN
+._.
+I_FPP1
+will_PRMD
+announce_VB [PUBV]
+the_DT
+name_NN
+of_PIN
+the_DT
+party_NN
+and_CC
+other_JJ
+things_NN
+at_PIN
+the_DT
+right_JJ
+time_NN
+and_PHC
+place_NN
+._.
+''_''
+Regarding_VBG [PRESP]
+the_DT
+2019_CD
+Lok_NN
+Sabha_NN
+elections_NOMZ
+,_,
+he_TPP3
+added_VBD [PUBV]
+,_,
+``_``
+You_SPP2
+will_PRMD
+get_VB
+to_TO
+know_VB [PRIV]
+my_FPP1
+stand_NN
+when_RB
+the_DT
+election_NOMZ
+dates_NN
+are_VPRT [PASS]
+announced_VBN [PUBV]
+._.
+''_''
+`_``
+Rajini_NN
+Makkal_NN
+Mandram_NN
+'_POS
+,_,
+the_DT
+precursor_NN
+of_PIN
+the_DT
+political_JJ
+party_NN
+,_,
+has_VPRT [PEAS]
+created_VBN
+waves_NN
+in_PIN
+the_DT
+last_JJ
+few_QUAN
+days_NN
+after_IN
+members_NN
+of_PIN
+the_DT
+group_NN
+stuck_VBD
+posters_NN
+across_PLACE
+the_DT
+city_NOMZ
+._.
+Speculation_NOMZ
+has_VPRT [PEAS]
+been_VBN [BEMA]
+rife_PRED
+that_THAC
+the_DT
+actor_NN
+would_PRMD
+launch_VB
+his_TPP3
+party_NN
+soon_TIME
+._.
+We_FPP1
+should_NEMD
+respect_VB
+the_DT
+Supreme_NN
+Court_NN
+<sup>_VBD
+TM_NN
+</sup>_NN
+s_VPRT
+verdict_NN
+._.
+But_CC
+we_FPP1
+should_NEMD [SPAU]
+also_RB
+consider_VB [PRIV]
+the_DT
+customs_NN
+and_PHC
+traditions_NOMZ
+of_PIN
+the_DT
+temples_NN
+and_CC
+respect_VB
+them_TPP3
+as_RB
+well_RB
+._.
+It_PIT
+is_VPRT [BEMA]
+my_FPP1
+humble_JJ
+request_NN
+,_,
+said_VBD [PUBV]
+the_DT
+superstar_NN
+._.

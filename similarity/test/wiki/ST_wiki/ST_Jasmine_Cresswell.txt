@@ -1,0 +1,12 @@
+Jasmine_NN Rosemary_NNP Cresswell_NNP -LRB-_-LRB- born_VBN 1941_CD in_IN Wales_NNP -RRB-_-RRB- is_VBZ a_DT best-selling_JJ author_NN of_IN over_IN 50_CD romance_NN novels_NNS as_IN Jasmine_NNP Cresswell_NNP and_CC Jasmine_NNP Craig_NNP ._.
+Jasmine_NN Rosemary_NNP Cresswell_NNP was_VBD born_VBN in_IN Wales_NNP and_CC educated_VBN in_IN London_NNP ._.
+After_IN graduating_VBG early_RB from_IN high_JJ school_NN ,_, Cresswell_NNP received_VBD a_DT diploma_NN in_IN technical_JJ French_JJ and_CC German_JJ from_IN the_DT Lycée_NNP Français_NNP Charles_NNP de_IN Gaulle_NNP in_IN London_NNP ._.
+She_PRP then_RB joined_VBD the_DT British_NNP Foreign_NNP office_NN and_CC worked_VBD for_IN the_DT British_NNP Embassy_NNP in_IN Rio_NNP de_IN Janeiro_NNP ,_, where_WRB she_PRP met_VBD her_PRP$ husband_NN ,_, Malcolm_NNP Candlish_NNP ._.
+The_DT two_CD have_VBP lived_VBN all_DT over_IN the_DT world_NN ,_, including_VBG Australia_NNP ,_, Canada_NNP ,_, and_CC the_DT United_NNP States_NNPS ._.
+Cresswell_NNP received_VBD a_DT bachelor_NN 's_POS degree_NN in_IN history_NN and_CC philosophy_NN from_IN Melbourne_NNP University_NNP ,_, a_DT degree_NN in_IN history_NN from_IN Macquarie_NNP University_NNP ,_, and_CC a_DT master_NN 's_POS degree_NN in_IN history_NN and_CC archival_JJ administration_NN from_IN Case_NNP Western_NNP Reserve_NNP University_NNP ._.
+Cresswell_NNP began_VBD writing_VBG in_IN 1975_CD ,_, and_CC has_VBZ more_JJR than_IN 9_CD million_CD copies_NNS of_IN her_PRP$ books_NNS in_IN print_NN ._.
+She_PRP has_VBZ also_RB written_VBN romances_NNS under_IN the_DT name_NN Jasmine_NNP Craig_NNP ._.
+Cresswell_NNP has_VBZ served_VBN as_IN the_DT editor_NN of_IN the_DT Romance_NNP Writer_NNP 's_POS Report_NNP -LRB-_-LRB- the_DT national_JJ journal_NN of_IN the_DT Romance_NNP Writers_NNPS of_IN America_NNP -RRB-_-RRB- ,_, as_IN president_NN of_IN Rocky_NNP Mountain_NNP Fiction_NNP Writers_NNPS ,_, and_CC is_VBZ a_DT founder_NN and_CC former_JJ president_NN of_IN Novelists_NNP ,_, Inc._NNP ._.
+Cresswell_NNP is_VBZ also_RB a_DT member_NN of_IN England_NNP 's_POS Romance_NNP Novelists_NNP Association_NNP and_CC the_DT Authors_NNPS '_POS Guild_NNP of_IN America_NNP ._.
+Cresswell_NNP and_CC her_PRP$ husband_NN currently_RB live_VBP in_IN Sarasota_NNP ,_, Florida_NNP and_CC Evergreen_NNP ,_, Colorado_NNP ._.
+They_PRP have_VBP four_CD children_NNS and_CC numerous_JJ grandchildren_NNS ._.

@@ -1,0 +1,11 @@
+Annie_NNP Sophie_NNP Cory_NNP -LRB-_-LRB- 1_CD October_NNP 1868_CD ''_'' 2_CD August_NNP 1952_CD -RRB-_-RRB- was_VBD the_DT author_NN of_IN popular_JJ ,_, racy_JJ ,_, exotic_JJ novels_NNS under_IN the_DT pseudonyms_NNS Victoria_NNP Cross_NNP -LRB-_-LRB- e_LS -RRB-_-RRB- ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- Vivian_JJ Cory_NNP and_CC V.C._NNP Griffin_NNP ._.
+She_PRP was_VBD born_VBN as_IN the_DT third_JJ of_IN three_CD daughters_NNS to_TO Colonel_NNP Arthur_NNP Cory_NNP and_CC Fanny_NNP Elizabeth_NNP Griffin_NNP ._.
+Her_PRP$ father_NN was_VBD employed_VBN in_IN the_DT British_JJ army_NN at_IN Lahore_NNP ,_, where_WRB he_PRP was_VBD editor_NN of_IN the_DT Lahore_NNP arm_NN of_IN The_DT Civil_NNP and_CC Military_NNP Gazette_NNP ,_, and_CC Annie_NNP Sophie_NNP Cory_NNP grew_VBD up_RP in_IN India_NNP ._.
+She_PRP completed_VBD her_PRP$ education_NN in_IN England_NNP ._.
+She_PRP had_VBD her_PRP$ first_JJ piece_NN ,_, Theodora_NNP ,_, a_DT Fragment_NN ,_, published_VBN in_IN the_DT Yellow_NNP Book_NNP in_IN 1895_CD ._.
+In_IN the_DT same_JJ year_NN she_PRP wrote_VBD The_DT Woman_NNP Who_WP Did_VBD n't_RB ,_, a_DT response_NN to_TO Grant_NNP Allen_NNP 's_POS book_NN The_DT Woman_NNP Who_WP Did_VBD ._.
+She_PRP never_RB married_VBD ,_, and_CC after_IN her_PRP$ father_NN 's_POS death_NN she_PRP traveled_VBD widely_RB on_IN the_DT Continent_NN with_IN her_PRP$ uncle_NN ,_, Heneage_NNP McKenzie_NNP Griffin_NNP ._.
+After_IN his_PRP$ death_NN in_IN Italy_NNP in_IN 1939_CD ,_, she_PRP settled_VBD in_IN Monte_NNP Carlo_NNP to_TO live_VB with_IN female_JJ friends_NNS ._.
+One_CD of_IN her_PRP$ sisters_NNS ,_, Adela_NNP Florence_NNP Nicolson_NNP ,_, became_VBD famous_JJ as_IN the_DT exotic_JJ poet_NN of_IN Indian_JJ verses_NNS ,_, ``_`` Laurence_NNP Hope_NNP ._. ''_''
+The_DT following_JJ list_NN is_VBZ taken_VBN from_IN A_DT Companion_NN to_TO On-line_NN &_CC Off-line_NN Literature_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

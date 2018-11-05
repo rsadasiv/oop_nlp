@@ -1,0 +1,6 @@
+Egerton_NNP Castle_NNP M.A._NNP ,_, F.S.A._NNP -LRB-_-LRB- 12_CD March_NNP 1858_CD ''_'' 16_CD September_NNP 1920_CD -RRB-_-RRB- was_VBD a_DT Victorian_JJ era_NN author_NN ,_, antiquarian_JJ ,_, and_CC swordsman_NN ,_, and_CC an_DT early_JJ practitioner_NN of_IN reconstructed_JJ historical_JJ fencing_NN ,_, frequently_RB in_IN collaboration_NN with_IN his_PRP$ colleague_NN Captain_NNP Alfred_NNP Hutton_NNP ._.
+Castle_NNP was_VBD the_DT captain_NN of_IN the_DT British_JJ épée_NN and_CC sabre_NN teams_NNS at_IN the_DT 1908_CD Olympics_NNPS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN in_IN London_NNP into_IN a_DT wealthy_JJ family_NN ;_: his_PRP$ maternal_JJ grandfather_NN was_VBD the_DT publishing_NN magnate_NN and_CC philanthropist_NN Egerton_NNP Smith_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD a_DT lieutenant_NN in_IN the_DT Second_JJ West_NNP India_NNP Regiment_NNP and_CC afterwards_RB a_DT captain_NN in_IN the_DT Royal_NNP Engineers_NNPS Militia_NNP ._.
+He_PRP was_VBD also_RB an_DT expert_NN on_IN bookplates_NNS and_CC a_DT keen_JJ collector_NN ._.
+Egerton_NNP Castle_NNP co-authored_VBD many_JJ novels_NNS with_IN his_PRP$ wife_NN ,_, Agnes_NNP -LRB-_-LRB- née_FW Sweetman_NNP -RRB-_-RRB- ._.

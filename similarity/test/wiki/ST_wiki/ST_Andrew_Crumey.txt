@@ -1,0 +1,8 @@
+Andrew_NNP Crumey_NNP -LRB-_-LRB- born_VBN 1961_CD -RRB-_-RRB- is_VBZ a_DT novelist_NN and_CC former_JJ literary_JJ editor_NN of_IN the_DT Edinburgh_NNP newspaper_NN Scotland_NNP on_IN Sunday_NNP ._.
+Crumey_NNP was_VBD born_VBN in_IN Kirkintilloch_NNP ,_, north_NN of_IN Glasgow_NNP ,_, Scotland_NNP ._.
+He_PRP graduated_VBD with_IN First_NNP Class_NNP Honours_NNP from_IN the_DT University_NNP of_IN St_NNP Andrews_NNP and_CC holds_VBZ a_DT PhD_NNP in_IN theoretical_JJ physics_NNS from_IN Imperial_NNP College_NNP ,_, London_NNP ._.
+In_IN 2000_CD Crumey_NNP 's_POS fourth_JJ novel_NN `_`` Mr_NNP Mee_NNP '_POS was_VBD longlisted_VBN for_IN the_DT Man_NN Booker_NNP Prize_NNP ._.
+In_IN 2006_CD ,_, Crumey_NNP became_VBD the_DT fifth_JJ recipient_JJ of_IN the_DT Northern_NNP Rock_NNP Foundation_NNP Writer_NNP 's_POS Award_NNP ._.
+He_PRP now_RB lectures_VBZ part-time_JJ on_IN creative_JJ writing_NN at_IN Northumbria_NNP University_NNP ._.
+He_PRP has_VBZ an_DT interest_NN in_IN astronomy_JJ and_CC has_VBZ published_VBN on_IN the_DT subject_NN of_IN astronomic_JJ visibility_NN and_CC Ricco_NNP 's_POS law_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

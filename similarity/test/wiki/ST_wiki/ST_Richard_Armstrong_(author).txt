@@ -1,0 +1,17 @@
+Richard_NNP Armstrong_NNP -LRB-_-LRB- 18_CD June_NNP 1903_CD ''_'' 30_CD May_NNP 1986_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ author_NN who_WP wrote_VBD for_IN both_DT adults_NNS and_CC children_NNS ._.
+Most_JJS of_IN his_PRP$ books_NNS were_VBD novels_NNS set_VBN at_IN sea_NN ,_, or_CC sea_NN stories_NNS ._.
+For_IN one_CD of_IN those_DT ,_, Sea_NNP Change_NNP ,_, he_PRP won_VBD the_DT 1948_CD Carnegie_NNP Medal_NNP from_IN the_DT Library_NNP Association_NNP ,_, recognizing_VBG the_DT year_NN 's_POS best_JJS children_NNS 's_POS book_NN by_IN a_DT British_JJ subject_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP is_VBZ also_RB known_VBN for_IN a_DT biography_NN of_IN Grace_NNP Darling_NNP in_IN which_WDT he_PRP challenges_VBZ the_DT conventional_JJ story_NN :_: Grace_NNP Darling_NNP :_: Maid_NN and_CC Myth_NNP -LRB-_-LRB- 1965_CD -RRB-_-RRB- ._.
+He_PRP is_VBZ often_RB described_VBN on_IN the_DT cover_NN of_IN his_PRP$ books_NNS as_IN ``_`` author_NN and_CC mariner_NN ''_'' ._.
+Ralph_NNP Richard_NNP Armstrong_NNP was_VBD born_VBN in_IN Walbottle_NNP ,_, Newcastle_NNP upon_IN Tyne_NNP ,_, Northumberland_NNP on_IN 18_CD June_NNP 1903_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD a_DT blacksmith_NN 's_POS son_NN who_WP left_VBD school_NN at_IN thirteen_CD to_TO work_VB in_IN a_DT Tyneside_NNP steelworks_NNS ._.
+He_PRP spent_VBD three_CD years_NNS there_RB ,_, starting_VBG as_IN an_DT errand_JJ boy_NN and_CC progressing_VBG to_TO greaser_NN ,_, labourer_NN and_CC crane_NN driver_NN ._.
+His_PRP$ book_NN Sabotage_VB at_IN the_DT Forge_NNP -LRB-_-LRB- 1946_CD -RRB-_-RRB- ,_, set_VBN in_IN a_DT steelworks_NNS ,_, is_VBZ highly_RB regarded_VBN for_IN its_PRP$ accurate_JJ and_CC effective_JJ description_NN of_IN a_DT boy_NN 's_POS experience_NN in_IN such_JJ an_DT environment_NN ._.
+Similarly_RB ,_, The_DT Whinstone_NNP Drift_NNP -LRB-_-LRB- 1951_CD -RRB-_-RRB- is_VBZ convincingly_RB set_VBN against_IN a_DT Northumberland_NNP coal-mining_NN background_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- After_IN the_DT First_NNP World_NNP War_NNP he_PRP went_VBD to_TO sea_NN in_IN the_DT Merchant_NN Service_NN and_CC for_IN seventeen_JJ years_NNS sailed_VBN in_IN many_JJ types_NNS of_IN vessel_NN ,_, gaining_VBG the_DT experience_NN which_WDT he_PRP later_RB put_VBD to_TO use_VB in_IN his_PRP$ books_NNS about_IN seafaring_VBG ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1937_CD he_PRP left_VBD the_DT Merchant_NN Service_NN and_CC pursued_JJ various_JJ occupations_NNS before_IN concentrating_VBG on_IN writing_NN ._.
+His_PRP$ first_JJ published_VBN book_NN was_VBD The_DT Mystery_NN of_IN Obadiah_NNP -LRB-_-LRB- 1943_CD -RRB-_-RRB- ,_, an_DT adventure_NN novel_NN set_VBN in_IN Tynedale_NNP and_CC featuring_VBG Thias_NNP Stringer_NNP ,_, a_DT 13-year-old_JJ boy_NN ._.
+Sabotage_VB at_IN the_DT Forge_NNP was_VBD its_PRP$ sequel_NN ,_, featuring_VBG Stringer_NNP at_IN the_DT steelworks_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Later_RB he_PRP drew_VBD on_IN his_PRP$ wide-ranging_JJ experiences_NNS at_IN sea_NN ,_, writing_VBG about_RB ,_, for_IN example_NN ,_, cargo_NN steamers_NNS -LRB-_-LRB- Passage_NNP Home_NNP -RRB-_-RRB- ,_, oil_NN tankers_NNS -LRB-_-LRB- No_DT Time_NN for_IN Tankers_NNS -RRB-_-RRB- ,_, and_CC whalers_NNS -LRB-_-LRB- The_DT Secret_NNP Sea_NNP -RRB-_-RRB- ._.
+Armstrong_NNP had_VBD a_DT son_NN ,_, John_NNP ,_, to_TO whom_WP he_PRP dedicated_VBD his_PRP$ book_NN Sailor_NNP 's_POS Luck_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP died_VBD in_IN 1986_CD ._.

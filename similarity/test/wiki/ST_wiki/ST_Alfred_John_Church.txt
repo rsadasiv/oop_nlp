@@ -1,0 +1,9 @@
+Alfred_NNP John_NNP Church_NNP -LRB-_-LRB- 29_CD January_NNP 1829_CD ''_'' 27_CD April_NNP 1912_CD -RRB-_-RRB- was_VBD an_DT English_JJ classical_JJ scholar_NN ._.
+Church_NNP was_VBD born_VBN in_IN London_NNP and_CC was_VBD educated_VBN at_IN King_NNP 's_POS College_NNP London_NNP ,_, and_CC Lincoln_NNP College_NNP ,_, Oxford_NNP ._.
+He_PRP took_VBD holy_JJ orders_NNS and_CC was_VBD an_DT assistant-master_NN at_IN Merchant_NN Taylors_NNS '_POS School_NN from_IN 1857-70_CD ._.
+He_PRP subsequently_RB served_VBD as_IN headmaster_NN of_IN Henley-on-Thames_NNP Royal_NNP Grammar_NNP School_NNP ,1870_CD ``_`` 73_CD ,_, and_CC then_RB of_IN King_NNP Edward_NNP VI_NNP School_NNP ,_, Retford,1873-80_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- From_IN 1880_CD until_IN 1888_CD he_PRP was_VBD professor_NN of_IN Latin_NNP at_IN University_NNP College_NNP ,_, London_NNP ._.
+While_IN at_IN University_NNP College_NNP in_IN partnership_NN with_IN William_NNP Jackson_NNP Brodribb_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- he_PRP translated_VBD Tacitus_NNP and_CC edited_VBD Pliny_NNP 's_POS Letters_NNP -LRB-_-LRB- Epistulae_NNP -RRB-_-RRB- ._.
+Church_NNP also_RB wrote_VBD a_DT number_NN of_IN stories_NNS in_IN English_NNP re-telling_NN of_IN classical_JJ tales_NNS and_CC legends_NNS for_IN young_JJ people_NNS -LRB-_-LRB- Stories_NNP from_IN Virgil_NNP ,_, Stories_NNP from_IN Homer_NNP ,_, etc._FW -RRB-_-RRB- ._.
+He_PRP also_RB wrote_VBD much_JJ Latin_NNP and_CC English_NNP verse_VBP ,_, and_CC in_IN 1908_CD published_VBN his_PRP$ Memories_NNP of_IN Men_NNP and_CC Books_NNPS ._.
+Church_NNP died_VBD in_IN Richmond_NNP ,_, Surrey_NNP ._.

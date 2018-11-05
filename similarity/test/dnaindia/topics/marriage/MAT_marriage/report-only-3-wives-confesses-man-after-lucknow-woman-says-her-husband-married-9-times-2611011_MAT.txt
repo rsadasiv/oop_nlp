@@ -1,0 +1,580 @@
+In_PIN
+an_DT
+incident_NN
+which_WDT [WHSUB]
+seems_VPRT [SMP]
+like_IN
+a_DT
+plot_NN
+of_PIN
+a_DT
+Bollywood_NN
+film_NN
+,_,
+a_DT
+man_NN
+in_PIN
+Lucknow_NN
+was_VBD [PASS]
+arrested_VBN
+after_IN
+his_TPP3
+wife_NN
+found_VBD [PRIV]
+out_PIN
+that_DEMO
+he_TPP3
+was_VBD [PASS]
+married_VBN
+to_PIN
+8_CD
+other_JJ
+women_NN
+._.
+The_DT
+man_NN
+confessed_VBD [PUBV]
+to_TO
+having_VBG [PEAS]
+been_VBN [PASS]
+married_VBN
+thrice_NN
+._.
+According_VBG [PRESP]
+to_PIN
+a_DT
+report_NN
+by_PIN
+ANI_NN
+,_,
+Afsha_NN
+alleged_VBD [PUBV]
+that_THVC
+her_TPP3
+husband_NN
+Sameer_NN
+had_VBD [PEAS]
+married_VBN
+9_CD
+women_NN
+and_CC
+used_VBN
+to_TO
+``_``
+jokingly_RB
+''_''
+call_VB
+her_TPP3
+his_TPP3
+seventh_JJ
+wife_NN
+._.
+She_TPP3
+,_,
+however_CONJ
+,_,
+later_TIME
+found_VBD [PRIV]
+out_PIN
+that_DEMO
+a_DT
+woman_NN
+known_VBN [PRIV] [WZPAST]
+to_PIN
+him_TPP3
+was_VBD [BEMA]
+actually_RB
+his_TPP3
+wife_NN
+whom_WP [WHOBJ]
+he_TPP3
+used_VBD
+to_TO
+call_VB
+his_TPP3
+9th_JJ
+wife_NN
+._.
+``_``
+He_TPP3
+used_VBD
+to_TO
+joke_VB
+that_DEMO
+I_FPP1
+am_VPRT [BEMA]
+his_TPP3
+7th_JJ
+wife_NN
+._.
+I_FPP1
+contacted_VBD
+a_DT
+girl_NN
+known_VBN [PRIV] [WZPAST]
+to_PIN
+him_TPP3
+and_CC
+came_VBD
+to_TO
+know_VB [PRIV]
+that_THVC
+he_TPP3
+is_VPRT [PASS]
+married_VBN
+to_PIN
+her_TPP3
+as_RB
+well_RB
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+he_TPP3
+used_VBD
+to_TO
+call_VB
+her_TPP3
+his_TPP3
+9th_CD
+wife_NN
+,_,
+''_''
+Afsha_NN
+said_VBD [PUBV]
+._.
+Sameer_NN
+denies_VPRT [PUBV]
+the_DT
+charge_NN
+and_CC
+says_VPRT [PUBV]
+that_THVC
+he_TPP3
+has_VPRT [PEAS]
+been_VBN [PASS]
+married_VBN
+only_DWNT
+thrice_RB
+._.
+``_``
+I_FPP1
+only_DWNT
+had_VBD
+three_CD
+marriages_NN
+._.
+She_TPP3
+took_VBD
+my_FPP1
+joke_NN
+seriously_RB
+._.
+I_FPP1
+have_VPRT
+three_CD
+children_NN
+with_PIN
+1st_CD
+wife_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+after_IN
+the_DT
+arrest_NN
+._.
+Accused_NN
+says_VPRT [PUBV]
+,_,
+'_''
+I_FPP1
+only_DWNT
+had_VBD
+three_CD
+marriages_NN
+._.
+She_TPP3
+took_VBD
+my_FPP1
+joke_NN
+seriously_RB
+._.
+I_FPP1
+have_VPRT
+three_CD
+children_NN
+with_PIN
+1st_CD
+wife_NN
+'_''
+._.
+Police_NN
+says_VPRT [PUBV]
+,_,
+`_``
+have_VPRT [PEAS]
+arrested_VBN
+him_TPP3
+on_PIN
+written_VBN [PUBV]
+complaint_NN
+of_PIN
+his_TPP3
+wife_NN
+in_PIN
+which_WDT [PIRE]
+she_TPP3
+has_VPRT [PEAS]
+mentioned_VBN [PUBV]
+only_DWNT
+another_DT
+marriage_NN
+._.
+Now_DPAR
+she_TPP3
+is_VPRT
+claiming_VBG [PUBV]
+more_EMPH
+marriages_NN
+,_,
+that_THVC
+we_FPP1
+will_PRMD
+verify_VB
+'_''
+pic.twitter.com\/i7UoYLfVAP_NN
+According_VBG [WZPRES]
+to_PIN
+reports_NN
+,_,
+Sameer_NN
+married_VBD
+a_DT
+woman_NN
+from_PIN
+Thakurganj_NN
+in_PIN
+Lucknow_NN
+a_DT
+year_NN
+ago_IN
+via_PIN
+a_DT
+matrimonial_JJ
+website_NN
+._.
+Sameer_NN
+,_,
+a_DT
+resident_NN
+of_PIN
+Chittorgarh_NN
+in_PIN
+Rajasthan_NN
+,_,
+claimed_VBD [PUBV]
+to_TO
+be_VB [BEMA]
+a_DT
+real_JJ
+estate_NN
+businessman_NN
+and_CC
+was_VBD [BYPA]
+asked_VBN [SUAV]
+by_PIN
+woman_NN
+'s_POS
+brothers_NN
+to_TO
+live_VB
+in_PIN
+Lucknow_NN
+after_IN
+marriage_NN
+._.
+He_TPP3
+agreed_VBD [SUAV] [PUBV]
+but_CC
+used_VBD
+to_TO
+have_VB
+frequent_JJ
+work_NN
+trips_NN
+._.
+Afsha_NN
+,_,
+in_PIN
+her_TPP3
+complaint_NN
+to_PIN
+police_NN
+,_,
+said_VBD [PUBV]
+that_THVC
+she_TPP3
+was_VBD [BEMA]
+suspicious_PRED
+of_PIN
+her_TPP3
+husband_NN
+'s_POS
+activities_NOMZ
+._.
+``_``
+My_FPP1
+husband_NN
+would_PRMD [SPAU]
+often_RB
+get_VB
+calls_NN
+from_PIN
+a_DT
+woman_NN
+called_VBN
+Neha_NN
+._.
+He_TPP3
+would_PRMD [SPAU]
+never_RB
+let_VB
+me_FPP1
+touch_VB
+his_TPP3
+phone_NN
+,_,
+but_CC
+once_TIME
+I_FPP1
+managed_VBD
+to_TO
+find_VB [PRIV]
+her_TPP3
+number_NN
+and_CC
+called_VBD
+her_TPP3
+._.
+When_RB
+Neha_NN
+picked_VBD
+up_RP
+,_,
+she_TPP3
+claimed_VBD [PUBV]
+to_TO
+be_VB [BEMA]
+his_TPP3
+cousin_NN
+'s_POS
+wife_NN
+,_,
+''_''
+she_TPP3
+was_VBD [PASS]
+quoted_VBN
+as_IN
+saying_VBG [PUBV]
+by_PIN
+ANI_NN
+._.
+She_TPP3
+said_VBD [PUBV] [THATD]
+her_TPP3
+husband_NN
+would_PRMD [SPAU]
+also_RB
+transfer_VB
+money_NN
+to_PIN
+multiple_JJ
+bank_NN
+accounts_NN
+and_CC
+go_VB
+for_PIN
+long_JJ
+work_NN
+tours_NN
+._.
+``_``
+He_TPP3
+used_VBD
+to_TO
+take_VB
+my_FPP1
+car_NN
+and_ANDC
+whatever_WDT
+cash_NN
+I_FPP1
+had_VBD
+at_PIN
+that_DEMO
+moment_NOMZ
+._.
+Three_CD
+days_NN
+ago_RB
+,_,
+I_FPP1
+got_VBD
+a_DT
+friend_NN
+request_NN
+on_PIN
+Facebook_NN
+from_PIN
+a_DT
+woman_NN
+called_VBN
+Yasmeen_NN
+who_WP [WHSUB]
+also_RB
+claimed_VBD [PUBV]
+to_TO
+be_VB [BEMA]
+his_TPP3
+wife_NN
+and_CC
+said_VBD [PUBV] [THATD]
+she_TPP3
+recently_TIME
+got_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+Neha_NN
+,_,
+''_''
+Afsha_NN
+said_VBD [PUBV]
+._.
+Afsha_NN
+and_PHC
+Yasmeen_NN
+decided_VBD [SUAV] [PRIV]
+to_TO
+inform_VB
+the_DT
+police_NN
+about_IN
+it_PIT
+on_PIN
+Tuesday_NN
+._.
+Afsha_NN
+called_VBD
+the_DT
+police_NN
+as_OSUB
+soon_NULL
+as_NULL
+Sameer_NN
+returned_VBD
+home_NN
+from_PIN
+one_CD
+of_PIN
+his_TPP3
+tours_NN
+._.
+After_IN
+interrogations_NOMZ
+,_,
+Sameer_NN
+revealed_VBD [PRIV]
+that_THVC
+he_TPP3
+was_VBD [BEMA]
+from_PIN
+Chittorgarh_NN
+in_PIN
+Rajasthan_NN
+._.
+``_``
+We_FPP1
+have_VPRT [PEAS]
+arrested_VBN
+him_TPP3
+on_PIN
+the_DT
+written_VBN [PUBV]
+complaint_NN
+of_PIN
+his_TPP3
+wife_NN
+in_PIN
+which_WDT [PIRE]
+she_TPP3
+has_VPRT [PEAS]
+mentioned_VBN [PUBV]
+another_DT
+marriage_NN
+._.
+Now_DPAR
+she_TPP3
+is_VPRT
+claiming_VBG [PUBV]
+more_EMPH
+marriages_NN
+,_,
+that_THVC
+we_FPP1
+will_PRMD
+verify_VB
+,_,
+''_''
+n_JJ
+officer_NN
+at_PIN
+Thakurganj_NN
+police_NN
+station_NOMZ
+said_VBD [PUBV]
+._.
+``_``
+He_TPP3
+says_VPRT [PUBV] [THATD]
+he_TPP3
+is_VPRT [PASS]
+married_VBN
+to_PIN
+three_CD
+women_NN
+-LRB-_-LRB-
+only_DWNT
+-RRB-_-RRB-
+and_ANDC
+has_VPRT
+three_CD
+children_NN
+with_PIN
+Neha_NN
+._.
+We_FPP1
+are_VPRT
+verifying_VBG
+the_DT
+allegations_NOMZ
+made_VBN [WZPAST]
+by_PIN
+the_DT
+woman_NN
+in_PIN
+her_TPP3
+complaint_NN
+,_,
+''_''
+the_DT
+officer_NN
+said_VBD [PUBV]
+._.
+-LRB-_-LRB-
+With_PIN
+inputs_NN
+from_PIN
+ANI_NN
+-RRB-_-RRB-

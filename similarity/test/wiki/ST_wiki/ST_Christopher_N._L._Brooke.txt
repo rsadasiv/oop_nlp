@@ -1,0 +1,10 @@
+Christopher_NNP Nugent_NNP Lawrence_NNP Brooke_NNP CBE_NNP FSA_NNP FBA_NNP FRHistS_NNP -LRB-_-LRB- 23_CD June_NNP 1927_CD ''_'' 27_CD December_NNP 2015_CD -RRB-_-RRB- was_VBD a_DT British_JJ medieval_NN historian_NN ._.
+From_IN 1974_CD to_TO 1994_CD he_PRP was_VBD Dixie_NNP Professor_NNP of_IN Ecclesiastical_NNP History_NN at_IN the_DT University_NNP of_IN Cambridge_NNP ._.
+Brooke_NNP was_VBD the_DT son_NN of_IN Zachary_NNP Nugent_NNP Brooke_NNP -LRB-_-LRB- 1883_CD ``_`` 1946_CD -RRB-_-RRB- and_CC his_PRP$ wife_NN Rosa_NNP Grace_NNP Brooke_NNP -LRB-_-LRB- 1888_CD ``_`` 1964_CD -RRB-_-RRB- ._.
+Following_VBG schooling_NN at_IN Winchester_NNP College_NNP ,_, Brooke_NNP undertook_VBD his_PRP$ undergraduate_NN work_NN at_IN Gonville_NNP and_CC Caius_NNP College_NNP ,_, Cambridge_NNP ,_, where_WRB he_PRP studied_VBD with_IN David_NNP Knowles_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brooke_NNP taught_VBD at_IN Caius_NNP from_IN 1977_CD to_TO 1994_CD ,_, where_WRB he_PRP remained_VBD a_DT life_NN fellow_NN ._.
+He_PRP held_VBD the_DT position_NN of_IN Dixie_NNP Professor_NNP of_IN Ecclesiastical_NNP History_NN at_IN Cambridge_NNP and_CC before_IN becoming_VBG a_DT professor_NN emeritus_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Brooke_NNP died_VBD on_IN 27_CD December_NNP 2015_CD at_IN the_DT age_NN of_IN 88_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- It_PRP was_VBD at_IN Cambridge_NNP that_WDT Brooke_NNP met_VBD his_PRP$ future_JJ wife_NN ,_, fellow_JJ medievalist_NN Rosalind_NNP Brooke_NNP -LRB-_-LRB- née_NN Clark_NNP -RRB-_-RRB- in_IN 1951_CD ._.
+She_PRP died_VBD in_IN 2014_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- Among_IN Brooke_NNP 's_POS publications_NNS are_VBP :_:

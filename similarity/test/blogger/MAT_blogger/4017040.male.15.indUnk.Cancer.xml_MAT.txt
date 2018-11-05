@@ -1,0 +1,928 @@
+So_RB
+,_,
+today_TIME
+is_VPRT [BEMA]
+the_DT
+day_NN
+she_TPP3
+was_VBD [PASS]
+supposed_VBN [PRIV]
+to_TO
+leave_VB
+for_PIN
+China_NN
+._.
+The_DT
+time_NN
+that_TOBJ
+she_TPP3
+was_VBD [PASS]
+supposed_VBN [PRIV]
+to_TO
+leave\/arrive_VB
+was_VBD
+around_PLACE
+8:35_CD
+am_VPRT
+EST._NN
+._.
+A_DT
+new_JJ
+voicemail_NN
+message_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+found_VBN [PRIV]
+,_,
+listened_VBN
+to_TO
+,_,
+and_ANDC
+recorded_VBN
+,_,
+also_RB
+._.
+That_DEMO
+recording_GER
+can_POMD
+be_VB [PASS]
+found_VBN [PRIV]
+here_RB
+._.
+Now_DPAR
+,_,
+if_COND
+you_SPP2
+listen_VPRT
+to_PIN
+the_DT
+message_NN
+closely_RB
+,_,
+she_TPP3
+speaks_VPRT
+of_PIN
+how_RB
+she_TPP3
+'s_VPRT [CONT]
+going_VBG
+away_PLACE
+,_,
+and_ANDC
+says_VPRT [PUBV]
+goodbye_NN
+to_PIN
+her_TPP3
+mother_NN
+._.
+Why_RB [WHQU]
+does_VPRT
+n't_XX0 [CONT]
+she_TPP3
+say_VB [PUBV]
+goodbye_NN
+to_PIN
+her_TPP3
+aunt_NN
+,_,
+Margaret_NN
+?_.
+I_FPP1
+'ve_VPRT [CONT]
+been_VBN
+speculating_VBG
+since_OSUB
+the_DT
+beginning_GER
+that_TOBJ
+Chloe_NN
+is_VPRT
+n't_XX0 [CONT]
+Dana_NN
+'s_POS
+mother_NN
+,_,
+but_CC
+that_THVC
+Margaret_NN
+is_VPRT
+._.
+I_FPP1
+know_VPRT [PRIV]
+Chloe_NN
+and_PHC
+Dana_NN
+share_VPRT
+a_DT
+resemblance_NN
+,_,
+but_CC
+Margaret_NN
+may_POMD
+not_XX0
+have_VB [PEAS]
+been_VBN [BEMA]
+able_PRED
+to_TO
+carry_VB
+a_DT
+child_NN
+,_,
+and_ANDC
+Chloe_NN
+carried_VBD
+it_PIT
+for_PIN
+her_TPP3
+._.
+So_RB
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+possible_PRED
+that_THAC
+she_TPP3
+'s_VPRT [CONT]
+saying_VBG [PUBV]
+goodbye_NN
+to_PIN
+Margaret_NN
+and_CC
+not_XX0
+Chloe_NN
+._.
+Back_RB
+to_PIN
+the_DT
+message_NN
+,_,
+it_PIT
+basically_RB
+says_VPRT [PUBV]
+``_``
+Hi_NN
+,_,
+this_DEMP
+is_VPRT
+Dana_NN
+._.
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+away_PLACE
+._.
+Far_PLACE
+away_PLACE
+,_,
+and_ANDC
+for_PIN
+a_DT
+long_JJ
+time_NN
+._.
+Leave_VB
+a_DT
+message_NN
+,_,
+although_CONC
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+when_RB [WHCL]
+I_FPP1
+'ll_PRMD [CONT]
+get_VB
+it_PIT
+._.
+Mom_NN
+,_,
+I_FPP1
+know_VPRT [PRIV] [THATD]
+you_SPP2
+'re_VPRT [CONT]
+calling_VBG
+just_EMPH
+to_TO
+hear_VB [PRIV]
+the_DT
+sound_NN
+of_PIN
+my_FPP1
+voice_NN
+._.
+I_FPP1
+love_VPRT
+you_SPP2
+too_RB
+._.
+''_''
+and_ANDC
+then_RB
+proceeds_VPRT
+to_PIN
+a_DT
+Chinese\/Mandarin_NN
+part_NN
+of_PIN
+speech_NN
+that_TSUB
+says_VPRT [PUBV]
+``_``
+I_FPP1
+'m_VPRT [CONT]
+not_XX0
+coming_VBG
+back_RB
+._.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+sorry_PRED
+._.
+''_''
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+not_XX0
+sure_PRED
+what_WP
+it_PIT
+means_VPRT [PRIV]
+,_,
+but_CC
+most_EMPH
+people_NN
+are_VPRT
+thinking_VBG [PRIV]
+of_PIN
+it_PIT
+as_IN
+a_DT
+farewell_NN
+expression_NN
+._.
+I_FPP1
+want_VPRT
+to_TO
+know_VB [PRIV]
+exactly_RB
+what_WP
+it_PIT
+means_VPRT [PRIV]
+._.
+If_COND
+you_SPP2
+know_VPRT [PRIV]
+,_,
+add_VPRT [PUBV]
+a_DT
+comment_NOMZ
+._.
+The_DT
+images_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+found_VBN [PRIV]
+of_PIN
+Dana_NN
+'s_POS
+attention_NOMZ
+switching_VBG [WZPRES]
+from_PIN
+something_QUPR
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+,_,
+to_PIN
+a_DT
+device_NN
+that_DEMP
+is_VPRT
+taking_VBG
+pictures_NN
+of_PIN
+her_TPP3
+._.
+I_FPP1
+'m_VPRT [CONT] [PASS]
+confused_VBN
+as_IN
+to_PIN
+how_RB
+this_DEMO
+device_NN
+caught_VBD
+Dana_NN
+'s_POS
+attention_NOMZ
+..._:
+Speculation_NOMZ
+says_VPRT [PUBV]
+that_THVC
+it_PIT
+'s_VPRT [CONT] [BEMA]
+obvious_PRED
+it_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+webcam_NN
+,_,
+and_ANDC
+the_DT
+AI_NN
+that_DEMP
+'s_VPRT [CONT]
+running_VBG
+this_DEMO
+show_NN
+has_VPRT [PEAS]
+taken_VBN
+pictures_NN
+of_PIN
+her_TPP3
+,_,
+labeled_VBD
+them_TPP3
+as_IN
+``_``
+killer_NN
+''_''
+and_ANDC
+uploaded_VBD
+them_TPP3
+to_PIN
+the_DT
+ilovebees.com_NN
+website_NN
+as_IN
+an_DT
+image_NN
+in_PIN
+a_DT
+404_CD
+error_NN
+page_NN
+._.
+The_DT
+timeline_NN
+of_PIN
+images_NN
+-LRB-_-LRB-
+supposedly_RB
+-RRB-_-RRB-
+goes_VPRT
+like_IN
+this_DEMP
+:_:
+-LRB-_-LRB-
+spacing_VBG [PRESP]
+so_RB
+this_DEMO
+post_NN
+does_VPRT
+n't_XX0 [CONT]
+interfere_VB
+with_PIN
+the_DT
+right_JJ
+side_NN
+of_PIN
+the_DT
+page_NN
+-RRB-_-RRB-
+Seemingly_RB
+calm_JJ
+,_,
+doing_VBG
+something_QUPR
+,_,
+oblivious_JJ
+to_PIN
+this_DEMO
+device_NN
+taking_VBG [WZPRES]
+images_NN
+of_PIN
+her_TPP3
+._.
+Still_RB
+calm_JJ
+,_,
+doing_VBG [PRESP]
+what_WP
+she_TPP3
+'s_VPRT [CONT] [PASS]
+been_VBN
+doing_VBG
+._.
+Suddenly_RB
+,_,
+her_TPP3
+expression_NN
+changes_NN
+and_CC
+she_TPP3
+glances_VPRT
+at_PIN
+the_DT
+device_NN
+._.
+Fixing_VBG [PRESP]
+her_TPP3
+glasses_NN
+to_TO
+get_VB
+a_DT
+better_JJ
+look_NN
+at_PIN
+it_PIT
+._.
+She_TPP3
+'s_VPRT [CONT] [SPAU]
+probably_RB
+thinking_VBG [PRIV]
+about_IN
+ilovebees.com_NN
+right_RB
+now_TIME
+,_,
+and_ANDC
+something_QUPR
+is_VPRT
+going_VBG
+on_PIN
+with_PIN
+this_DEMO
+device_NN
+._.
+-LRB-_-LRB-
+Something_QUPR
+is_VPRT
+casting_VBG
+a_DT
+white_JJ
+reflection_NOMZ
+in_PIN
+her_TPP3
+left_JJ
+lens_NN
+._.
+It_PIT
+might_POMD
+be_VB [BEMA]
+the_DT
+right_NN
+if_COND
+the_DT
+device_NN
+flips_VPRT
+the_DT
+images_NN
+horizontally_RB
+after_IN
+it_PIT
+takes_VPRT
+them_TPP3
+._.
+-RRB-_-RRB-
+Update_NN
+:_:
+I_FPP1
+looked_VBD
+over_IN
+the_DT
+images_NN
+again_TIME
+,_,
+and_ANDC
+I_FPP1
+'ve_VPRT [CONT]
+concluded_VBN [PRIV]
+that_THVC
+the_DT
+white_JJ
+reflection_NOMZ
+is_VPRT
+cause_NN
+by_PIN
+a_DT
+glare_NN
+under_IN
+her_TPP3
+eye_NN
+._.
+Nothing_INPR
+strange_JJ
+about_IN
+that_DEMP
+._.
+Update_NN
+2_CD
+:_:
+I_FPP1
+'ve_VPRT [CONT]
+pointed_VBN
+out_PIN
+that_DEMO
+the_DT
+image_NN
+moves_VPRT [SUAV]
+slightly_DWNT
+to_PIN
+the_DT
+left_VBN
+between_PIN
+the_DT
+above_PLACE
+and_CC
+below_PLACE
+pictures_NN
+._.
+Some_QUAN
+people_NN
+are_VPRT
+saying_VBG [PUBV]
+that_THVC
+because_CAUS
+her_TPP3
+right_JJ
+arm_NN
+was_VBD [PASS]
+moved_VBN [SUAV]
+up_RB
+to_PIN
+her_TPP3
+glasses_NN
+,_,
+the_DT
+webcam_NN
+might_POMD
+have_VB
+a_DT
+motion_NOMZ
+tracker_NN
+,_,
+and_ANDC
+moved_VBD [SUAV]
+along_RB
+with_PIN
+the_DT
+motion_NOMZ
+of_PIN
+her_TPP3
+arm_NN
+._.
+But_CC
+,_,
+in_PIN
+the_DT
+next_JJ
+image_NN
+,_,
+if_COND
+her_TPP3
+right_JJ
+arm_NN
+was_VBD
+already_RB
+up_RB
+,_,
+and_ANDC
+she_TPP3
+then_RB
+raised_VBD
+her_TPP3
+left_VBD
+arm_NN
+,_,
+the_DT
+camera_NN
+should_NEMD
+'ve_VB [CONT]
+shifted_VBN
+back_RB
+to_PIN
+the_DT
+right_NN
+._.
+Raising_GER
+her_TPP3
+glasses_NN
+and_CC
+moving_VBG [SUAV]
+in_PIN
+on_PIN
+the_DT
+device_NN
+._.
+Getting_VBG
+closer_JJ
+..._:
+-LRB-_-LRB-
+Even_RB
+though_CONC
+in_PIN
+this_DEMO
+last_JJ
+image_NN
+she_TPP3
+seems_VPRT [SMP]
+to_TO
+be_VB
+raises_VPRT
+the_DT
+glasses_NN
+up_IN
+to_PIN
+her_TPP3
+forehead_NN
+,_,
+in_PIN
+the_DT
+next_JJ
+,_,
+it_PIT
+seems_VPRT [SMP]
+she_TPP3
+has_VPRT [PEAS]
+taken_VBN
+them_TPP3
+off_PIN [STPR]
+._.
+-RRB-_-RRB-
+..._:
+and_ANDC
+closer_JJ
+,_,
+until_IN
+she_TPP3
+is_VPRT
+right_RB
+up_RP
+with_PIN
+the_DT
+cam_NN
+._.
+Since_OSUB
+the_DT
+picture_NN
+is_VPRT [PASS]
+blurred_VBN
+a_DT
+bit_NN
+,_,
+it_PIT
+leads_VPRT
+me_FPP1
+to_TO
+think_VB [PRIV] [THATD]
+she_TPP3
+quickly_RB
+backed_VBD
+away_PLACE
+,_,
+realizing_VBG [PRIV]
+something_QUPR
+was_VBD [BEMA]
+wrong_PRED
+._.
+Now_DPAR
+she_TPP3
+'s_VPRT [CONT]
+studying_VBG
+the_DT
+device_NN
+..._:
+Probably_RB
+realizing_VBG [PRIV]
+something_QUPR
+is_VPRT
+up_RP
+with_PIN
+it_PIT
+,_,
+she_TPP3
+handles_VPRT
+the_DT
+device_NN
+with_PIN
+her_TPP3
+left_JJ
+arm_NN
+and_PHC
+hand_NN
+and_CC
+moves_VPRT [SUAV]
+it_PIT
+to_PIN
+the_DT
+right_NN
+._.
+-LRB-_-LRB-
+I_FPP1
+could_POMD
+be_VB [BEMA]
+wrong_PRED
+if_COND
+the_DT
+device_NN
+flips_VPRT
+the_DT
+image_NN
+horizontally_RB
+after_IN
+it_PIT
+takes_VPRT
+it_PIT
+._.
+-RRB-_-RRB-
+She_TPP3
+has_VPRT
+a_DT
+different_JJ
+expression_NN
+now_TIME
+,_,
+and_ANDC
+the_DT
+device_NN
+is_VPRT
+being_VBG [PASS]
+moved_VBN [SUAV]
+quickly_RB
+,_,
+hence_CONJ
+the_DT
+blur_NN
+._.
+-LRB-_-LRB-
+Also_RB
+,_,
+where_RB
+is_VPRT [BEMA]
+she_TPP3
+looking_VBG
+?_.
+-RRB-_-RRB-
+It_PIT
+'s_VPRT [CONT] [BEMA]
+most_EMPH
+likely_PRED
+falling_VBG
+to_PIN
+where_RB
+the_DT
+next_JJ
+image_NN
+shows_NN
+..._:
+..._:
+the_DT
+floor_NN
+._.
+Now_DPAR
+,_,
+she_TPP3
+could_POMD
+n't_XX0 [CONT]
+have_VB [PEAS]
+done_VBN [PROD]
+this_DEMO
+because_CAUS
+she_TPP3
+noticed_VBD [PRIV] [THATD]
+the_DT
+device_NN
+had_VBD [PEAS]
+been_VBN
+putting_VBG
+images_NN
+of_PIN
+her_TPP3
+on_PIN
+the_DT
+site_NN
+._.
+The_DT
+images_NN
+were_VBD [PASS]
+taken_VBN
+as_IN
+she_TPP3
+realized_VBD [PRIV]
+something_QUPR
+was_VBD [BEMA]
+wrong_PRED
+._.
+The_DT
+only_DWNT
+way_NN
+the_DT
+device_NN
+could_POMD
+'ve_VB [CONT]
+grabbed_VBD
+her_TPP3
+attention_NOMZ
+is_VPRT
+if_COND
+it_PIT
+has_VPRT
+some_QUAN
+kind_NN
+of_PIN
+light_NN
+._.
+If_COND
+it_PIT
+was_VBD [BEMA]
+a_DT
+webcam_NN
+,_,
+this_DEMP
+is_VPRT [BEMA]
+a_DT
+sure_JJ
+possibility_NOMZ
+,_,
+but_CC
+not_XX0
+all_QUAN
+webcams_NN
+have_VPRT
+lights_NN
+._.
+It_PIT
+could_POMD
+'ve_VB [CONT]
+been_VBN [BEMA]
+a_DT
+digital_JJ
+camera_NN
+,_,
+and_ANDC
+the_DT
+snapping_VBG
+of_PIN
+the_DT
+photos_NN
+-LRB-_-LRB-
+no_SYNE
+flash_NN
+,_,
+or_CC
+Dana_NN
+'s_POS
+face_NN
+would_PRMD
+'ve_VB [CONT]
+been_VBN [BEMA]
+much_QUAN
+brighter_NN
+and_CC
+something_QUPR
+would_PRMD
+'ve_VB [CONT]
+reflected_VBN [PRIV]
+in_PIN
+her_TPP3
+lenses_NN
+-RRB-_-RRB-
+would_PRMD
+'ve_VB [CONT]
+caught_VBN
+her_TPP3
+attention_NOMZ
+._.
+I_FPP1
+guess_VPRT [PRIV] [THATD]
+I_FPP1
+'m_VPRT [CONT] [SPAU]
+really_EMPH
+going_VBG
+into_PIN
+detail_NN
+._.
+Note_NN
+:_:
+None_INPR
+of_PIN
+what_WP
+I_FPP1
+said_VBD [PUBV]
+could_POMD
+be_VB [BEMA]
+relevant_PRED
+to_PIN
+the_DT
+game_NN
+,_,
+but_CC
+it_PIT
+'s_VPRT [CONT] [BEMA]
+all_QUAN
+worth_JJ
+noting_VBG [PRIV]
+._.

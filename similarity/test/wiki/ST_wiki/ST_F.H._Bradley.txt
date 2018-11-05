@@ -1,0 +1,37 @@
+Francis_NNP Herbert_NNP Bradley_NNP OM_NNP -LRB-_-LRB- 30_CD January_NNP 1846_CD ''_'' 18_CD September_NNP 1924_CD -RRB-_-RRB- was_VBD a_DT British_JJ idealist_NN philosopher_NN ._.
+His_PRP$ most_RBS important_JJ work_NN was_VBD Appearance_NNP and_CC Reality_NN -LRB-_-LRB- 1893_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Bradley_NNP was_VBD born_VBN at_IN Clapham_NNP ,_, Surrey_NNP ,_, England_NNP -LRB-_-LRB- now_RB part_NN of_IN the_DT Greater_NNP London_NNP area_NN -RRB-_-RRB- ._.
+He_PRP was_VBD the_DT child_NN of_IN Charles_NNP Bradley_NNP ,_, an_DT evangelical_JJ preacher_NN ,_, and_CC Emma_NNP Linton_NNP ,_, Charles_NNP 's_POS second_JJ wife_NN ._.
+A._NN C._NNP Bradley_NNP was_VBD his_PRP$ brother_NN ._.
+Educated_VBN at_IN Cheltenham_NNP College_NNP and_CC Marlborough_NNP College_NNP ,_, he_PRP read_VBD ,_, as_IN a_DT teenager_NN ,_, some_DT of_IN Immanuel_NNP Kant_NNP 's_POS Critique_NN of_IN Pure_NNP Reason_NNP ._.
+In_IN 1865_CD ,_, he_PRP entered_VBD University_NNP College_NNP ,_, Oxford_NNP ._.
+In_IN 1870_CD ,_, he_PRP was_VBD elected_VBN to_TO a_DT fellowship_NN at_IN Oxford_NNP 's_POS Merton_NNP College_NNP where_WRB he_PRP remained_VBD until_IN his_PRP$ death_NN in_IN 1924_CD ._.
+Bradley_NNP is_VBZ buried_VBN in_IN Holywell_NNP Cemetery_NNP in_IN Oxford_NNP ._.
+During_IN his_PRP$ life_NN ,_, Bradley_NNP was_VBD a_DT respected_VBN philosopher_NN and_CC was_VBD granted_VBN honorary_JJ degrees_NNS many_JJ times_NNS ._.
+He_PRP was_VBD the_DT first_JJ British_JJ philosopher_NN to_TO be_VB awarded_VBN the_DT Order_NN of_IN Merit_NNP ._.
+His_PRP$ fellowship_NN at_IN Merton_NNP College_NNP did_VBD not_RB carry_VB any_DT teaching_NN assignments_NNS and_CC thus_RB he_PRP was_VBD free_JJ to_TO continue_VB to_TO write_VB ._.
+He_PRP was_VBD famous_JJ for_IN his_PRP$ non-pluralistic_JJ approach_NN to_TO philosophy_NN ._.
+His_PRP$ outlook_NN saw_VBD a_DT monistic_JJ unity_NN ,_, transcending_VBG divisions_NNS between_IN logic_NN ,_, metaphysics_NNS and_CC ethics_NNS ._.
+Consistently_RB ,_, his_PRP$ own_JJ view_NN combined_VBN monism_NN with_IN absolute_JJ idealism_NN ._.
+Although_IN Bradley_NNP did_VBD not_RB think_VB of_IN himself_PRP as_IN a_DT Hegelian_JJ philosopher_NN ,_, his_PRP$ own_JJ unique_JJ brand_NN of_IN philosophy_NN was_VBD inspired_VBN by_IN ,_, and_CC contained_VBD elements_NNS of_IN ,_, Georg_NNP Wilhelm_NNP Friedrich_NNP Hegel_NNP 's_POS dialectical_JJ method_NN ._.
+Bradley_NNP rejected_VBD the_DT utilitarian_JJ and_CC empiricist_JJ trends_NNS in_IN English_NNP philosophy_NN represented_VBN by_IN John_NNP Locke_NNP ,_, David_NNP Hume_NNP ,_, and_CC John_NNP Stuart_NNP Mill_NNP ._.
+Instead_RB ,_, Bradley_NNP was_VBD a_DT leading_VBG member_NN of_IN the_DT philosophical_JJ movement_NN known_VBN as_IN British_JJ idealism_NN ,_, which_WDT was_VBD strongly_RB influenced_VBN by_IN Kant_NNP and_CC the_DT German_JJ idealists_NNS ,_, Johann_NNP Fichte_NNP ,_, Friedrich_NNP Schelling_NNP ,_, and_CC Hegel_NNP ,_, although_IN Bradley_NNP tended_VBD to_TO downplay_VB his_PRP$ influences_NNS ._.
+In_IN 1909_CD ,_, Bradley_NNP published_VBD an_DT essay_NN entitled_VBN ``_`` On_IN Truth_NN and_CC Coherence_NNP ''_'' in_IN the_DT journal_NN Mind_NNP -LRB-_-LRB- reprinted_VBN in_IN Essays_NNS on_IN Truth_NNP and_CC Reality_NN -RRB-_-RRB- ._.
+The_DT essay_NN criticises_VBZ a_DT form_NN of_IN infallibilist_NN foundationalism_NN in_IN epistemology_NN ._.
+The_DT philosopher_NN Robert_NNP Stern_NNP has_VBZ argued_VBN that_IN in_IN this_DT paper_NN Bradley_NNP defends_VBZ coherence_NN not_RB as_IN an_DT account_NN of_IN justification_NN but_CC as_IN a_DT criterion_NN or_CC test_NN for_IN truth_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Bradley_NNP 's_POS view_NN of_IN morality_NN was_VBD driven_VBN by_IN his_PRP$ criticism_NN of_IN the_DT idea_NN of_IN self_NN used_VBN in_IN the_DT current_JJ utilitarian_JJ theories_NNS of_IN ethics_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP addressed_VBD the_DT central_JJ question_NN of_IN ``_`` Why_WRB should_MD I_PRP be_VB moral_JJ ?_. ''_''
+-LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP opposed_VBD individualism_NN ,_, instead_RB defending_VBG the_DT view_NN of_IN self_NN and_CC morality_NN as_IN essentially_RB social_JJ ._.
+Bradley_NNP held_VBD that_IN our_PRP$ moral_JJ duty_NN was_VBD founded_VBN on_IN the_DT need_NN to_TO cultivate_VB our_PRP$ ideal_JJ ``_`` good_JJ self_NN ''_'' in_IN opposition_NN to_TO our_PRP$ ``_`` bad_JJ self_NN ''_'' ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- However_RB ,_, he_PRP acknowledged_VBD that_IN society_NN could_MD not_RB be_VB the_DT source_NN of_IN our_PRP$ moral_JJ life_NN ,_, of_IN our_PRP$ quest_NN to_TO realize_VB our_PRP$ ideal_JJ self_NN ._.
+For_IN example_NN ,_, some_DT societies_NNS may_MD need_VB moral_JJ reform_NN from_IN within_IN ,_, and_CC this_DT reform_NN is_VBZ based_VBN on_IN standards_NNS which_WDT must_MD come_VB from_IN elsewhere_RB than_IN the_DT standards_NNS of_IN that_DT society_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- He_PRP made_VBD the_DT best_JJS of_IN this_DT admission_NN in_IN suggesting_VBG -LRB-_-LRB- 10_CD -RRB-_-RRB- that_IN the_DT ideal_JJ self_NN can_MD be_VB realized_VBN through_IN following_VBG religion_NN ._.
+His_PRP$ views_NNS of_IN the_DT social_JJ self_NN in_IN his_PRP$ moral_JJ theorising_NN are_VBP relevant_JJ to_TO the_DT views_NNS of_IN Fichte_NNP ,_, George_NNP Herbert_NNP Mead_NNP ,_, and_CC pragmatism_NN ._.
+They_PRP are_VBP also_RB compatible_JJ with_IN modern_JJ views_NNS such_JJ as_IN those_DT of_IN Richard_NNP Rorty_NNP and_CC anti-individualism_JJ approaches_NNS ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- Bradley_NNP 's_POS philosophical_JJ reputation_NN declined_VBD greatly_RB after_IN his_PRP$ death_NN ._.
+British_JJ idealism_NN was_VBD practically_RB eliminated_VBN by_IN G.E._NNP Moore_NNP and_CC Bertrand_NNP Russell_NNP in_IN the_DT early_JJ 1900s_NNS ._.
+Bradley_NNP was_VBD also_RB famously_RB criticised_VBN in_IN A._NN J._NNP Ayer_NNP 's_POS logical_JJ positivist_NN work_NN Language_NN ,_, Truth_NNP and_CC Logic_NNP for_IN making_VBG statements_NNS that_WDT do_VBP not_RB meet_VB the_DT requirements_NNS of_IN positivist_NN verification_NN principle_NN ;_: e.g._FW ,_, statements_NNS such_JJ as_IN ``_`` The_DT Absolute_JJ enters_VBZ into_IN ,_, but_CC is_VBZ itself_PRP incapable_JJ of_IN ,_, evolution_NN and_CC progress_NN ._. ''_''
+There_EX has_VBZ in_IN recent_JJ years_NNS ,_, however_RB ,_, been_VBN a_DT resurgence_NN of_IN interest_NN in_IN Bradley_NNP 's_POS and_CC other_JJ idealist_NN philosophers_NNS '_POS work_NN in_IN the_DT Anglo-American_NNP academic_JJ community_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- In_IN 1914_CD ,_, a_DT then-unknown_JJ T._NNP S._NNP Eliot_NNP wrote_VBD his_PRP$ dissertation_NN for_IN a_DT PhD_NNP from_IN the_DT Department_NNP of_IN Philosophy_NNP at_IN Harvard_NNP University_NNP on_IN Bradley_NNP ._.
+It_PRP was_VBD entitled_VBN Knowledge_NNP and_CC Experience_NN in_IN the_DT Philosophy_NN of_IN F._NNP H._NNP Bradley_NNP ._.
+Due_JJ to_TO tensions_NNS leading_VBG up_RP to_TO and_CC starting_VBG the_DT First_NNP World_NNP War_NNP ,_, Eliot_NNP was_VBD unable_JJ to_TO return_VB to_TO Harvard_NNP for_IN his_PRP$ oral_JJ defense_NN ,_, resulting_VBG in_IN the_DT University_NNP never_RB conferring_VBG the_DT degree_NN ._.

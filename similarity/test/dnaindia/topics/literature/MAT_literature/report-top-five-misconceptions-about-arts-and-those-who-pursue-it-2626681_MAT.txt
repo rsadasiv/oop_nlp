@@ -1,0 +1,465 @@
+Arts_NN
+has_VPRT [SPAU] [PEAS]
+always_RB
+been_VBN [BEMA]
+a_DT
+highly_AMP
+misunderstood_VBN
+stream_NN
+._.
+It_PIT
+has_VPRT [PEAS]
+been_VBN [PASS]
+tagged_VBN
+as_IN
+a_DT
+recourse_NN
+for_PIN
+those_DEMP
+who_WP
+do_VPRT
+not_XX0
+get_VB
+admission_NN
+in_PIN
+any_QUAN
+other_JJ
+stream_NN
+._.
+Even_RB
+today_TIME
+,_,
+people_NN
+believe_VPRT [PRIV]
+that_THVC
+Arts_NN
+is_VPRT [PASS]
+taken_VBN
+up_RP
+by_PIN
+people_NN
+who_WP [WHOBJ]
+or_CC
+are_VPRT
+studying_VBG
+just_EMPH
+for_PIN
+the_DT
+sake_NN
+of_PIN
+it_PIT
+._.
+Some_QUAN
+even_RB
+subscribe_VB
+to_PIN
+the_DT
+ideology_NN
+that_DEMP
+this_DEMO
+stream_NN
+is_VPRT [BEMA]
+for_PIN
+women_NN
+because_CAUS
+it_PIT
+provides_VPRT
+you_SPP2
+with_PIN
+an_DT
+easy_JJ
+degree_NN
+as_IN
+you_SPP2
+<sup>_VPRT
+TM_NN
+</sup>_NN
+re_VBD
+not_XX0
+going_VBG
+to_TO
+be_VB
+working_VBG
+anyway_RB
+._.
+But_CC
+at_PIN
+the_DT
+end_NN
+of_PIN
+the_DT
+day_NN
+this_DEMP
+is_VPRT [BEMA]
+just_EMPH
+a_DT
+nonsensical_JJ
+theory_NN
+people_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+conditioned_VBN
+to_TO
+believe_VB [PRIV]
+over_IN
+the_DT
+years_NN
+._.
+Here_RB
+<sup>_JJ
+TM_NN
+</sup>_NN
+s_VPRT [BEMA]
+a_DT
+list_NN
+of_PIN
+a_DT
+few_QUAN
+misconceptions_NOMZ
+about_IN
+Arts_NN
+as_IN
+a_DT
+stream_NN
+and_PHC
+people_NN
+who_WP [WHSUB]
+choose_VPRT
+to_TO
+pursue_VB
+it_PIT
+._.
+It_PIT
+is_VPRT [BEMA]
+a_DT
+common_JJ
+misconception_NOMZ
+that_DEMP
+this_DEMO
+stream_NN
+is_VPRT [BEMA]
+similar_PRED
+to_PIN
+Fine_JJ
+Arts_NN
+._.
+They_TPP3
+are_VPRT [BEMA]
+two_CD
+completely_AMP
+different_JJ
+things_NN
+._.
+Fine_JJ
+Arts_NN
+is_VPRT [PASS]
+applied_VBN
+arts_NN
+which_WDT [WHSUB]
+basically_RB
+includes_VPRT
+everything_QUPR
+that_DEMO
+<sup>_JJ
+TM_NN
+</sup>_NN
+s_VPRT [PASS]
+got_VBD
+to_TO
+do_VB [PROD]
+with_PIN
+the_DT
+creative_JJ
+side_NN
+along_IN
+with_PIN
+the_DT
+skill_NN
+of_PIN
+one_CD
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+hands_NN
+._.
+While_OSUB
+Arts_NN
+as_IN
+a_DT
+stream_NN
+covers_VPRT
+a_DT
+variety_NN
+of_PIN
+subjects_NN
+and_PHC
+career_NN
+opportunities_NOMZ
+like_IN
+Psychology_NN
+,_,
+Sociology_NN
+,_,
+Economics_NN
+,_,
+Literature_NN
+etc._FW
+._.
+Simply_RB
+because_CAUS
+people_NN
+tend_VPRT
+to_TO
+think_VB [PRIV]
+that_THVC
+Arts_NN
+has_VPRT
+no_SYNE
+scope_NN
+or_CC
+it_PIT
+has_VPRT
+courses_NN
+that_TSUB
+give_VPRT
+more_EMPH
+<sup>_JJ
+~_FW
+</sup>_FW
+work-from-home_FW
+<sup>_FW
+TM_FW
+</sup>_FW
+options_NOMZ
+,_,
+it_PIT
+is_VPRT [PASS]
+assumed_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+a_DT
+feminine_JJ
+course_NN
+._.
+On_CONJ
+the_NULL
+contrary_NULL
+,_,
+Arts_NN
+has_VPRT
+a_DT
+wide_JJ
+array_NN
+of_PIN
+options_NOMZ
+._.
+It_PIT
+is_VPRT [BEMA]
+a_DT
+highly_AMP
+misunderstood_VBN
+stream_NN
+that_TOBJ
+<sup>_JJ
+TM_NN
+</sup>_NN
+s_VPRT [SPAU] [BYPA]
+wrongly_RB
+burdened_VBN
+by_PIN
+silly_JJ
+misconceptions_NOMZ
+._.
+There_EX
+are_VPRT
+quite_RB
+a_DT
+number_NN
+of_PIN
+influential_JJ
+male_NN
+personalities_NOMZ
+who_WP [WHSUB]
+have_VPRT [PEAS]
+graduated_VBN
+from_PIN
+Arts_NN
+._.
+Wilhelm_NN
+Wundt_NN
+,_,
+the_DT
+man_NN
+who_WP [WHSUB]
+is_VPRT [PASS]
+considered_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+the_DT
+father_NN
+of_PIN
+psychology_NN
+,_,
+is_VPRT [BEMA]
+just_EMPH
+one_CD
+such_JJ
+name_NN
+._.
+Most_EMPH
+people_NN
+believe_VPRT [PRIV]
+that_THVC
+Arts_NN
+is_VPRT [BEMA]
+for_PIN
+those_DEMP
+who_WP
+are_VPRT [BEMA]
+lax_PRED
+and_PHC
+lazy_PRED
+,_,
+it_PIT
+<sup>_VBD
+TM_NN
+</sup>_NN
+s_VPRT [PASS]
+considered_VBN [PRIV]
+as_IN
+a_DT
+chilled-out_PIN
+stream_NN
+._.
+On_CONJ
+the_NULL
+contrary_NULL
+,_,
+majority_NOMZ
+of_PIN
+the_DT
+Arts_NN
+subjects_NN
+are_VPRT [BEMA]
+theoretical_PRED
+in_PIN
+nature_NN
+and_CC
+require_VB [SUAV]
+in-depth_JJ
+knowledge_NN
+about_IN
+the_DT
+subject_JJ
+matter_NN
+at_PIN
+hand_NN
+._.
+For_CONJ
+instance_NULL
+,_,
+sociology_NN
+students_NN
+need_VPRT
+to_TO
+dissect_VB
+social_JJ
+organizations_NOMZ
+and_CC
+learn_VB [PRIV]
+the_DT
+culture_NN
+,_,
+traditions_NOMZ
+,_,
+behavior_NN
+and_CC
+understand_VB [PRIV]
+the_DT
+root_NN
+cause_NN
+of_PIN
+common_JJ
+social_JJ
+problem_NN
+that_TSUB
+are_VPRT [BEMA]
+prevalent_PRED
+in_PIN
+society_NN
+before_IN
+they_TPP3
+can_POMD
+devise_VB
+a_DT
+well_RB
+though_CONC
+out_PIN
+course_NN
+of_PIN
+action_NOMZ
+._.
+Every_QUAN
+profession_NN
+needs_VPRT
+skilled_JJ
+and_PHC
+talented_JJ
+people_NN
+._.
+So_IN
+it_PIT
+is_VPRT [BEMA]
+completely_AMP
+wrong_PRED
+to_TO
+think_VB [PRIV]
+that_THVC
+people_NN
+who_WP [WHSUB]
+score_VPRT
+less_JJ
+should_NEMD
+opt_VB
+for_PIN
+Arts_NN
+._.
+Your_SPP2
+previous_JJ
+scores_NN
+do_VPRT
+not_XX0
+decide_VB [SUAV] [PRIV]
+your_SPP2
+aptitude_NN
+for_PIN
+anything_QUPR
+that_DEMO
+you_SPP2
+wish_VPRT
+to_TO
+study_VB
+._.
+Also_RB
+,_,
+there_EX
+is_VPRT
+no_SYNE
+official_NN
+rule_NN
+that_TOBJ
+people_NN
+with_PIN
+good_JJ
+scores_NN
+should_NEMD
+abstain_VB
+from_PIN
+choosing_VBG
+Arts_NN
+._.
+IN_PIN
+ASSOCIATION_NOMZ
+WITH_PIN
+WWW.CAREERNINJA.IN_PIN

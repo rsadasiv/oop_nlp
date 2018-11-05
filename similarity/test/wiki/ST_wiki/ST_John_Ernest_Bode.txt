@@ -1,0 +1,14 @@
+John_NNP Ernest_NNP Bode_NNP -LRB-_-LRB- 13_CD February_NNP 1816_CD ''_'' 6_CD October_NNP 1874_CD -RRB-_-RRB- was_VBD an_DT Anglican_JJ priest_NN ,_, educator_NN ,_, poet_NN ,_, and_CC hymnist_NN ._.
+Born_VBN in_IN London_NNP ,_, he_PRP was_VBD the_DT son_NN of_IN William_NNP Bode_NNP ._.
+Married_JJ with_IN three_CD children_NNS ._.
+Educated_VBN at_IN Eton_NNP ,_, the_DT Charter_NNP House_NNP ,_, and_CC then_RB at_IN Christ_NNP Church_NNP ,_, Oxford_NNP where_WRB he_PRP received_VBD his_PRP$ B.A._NNP in_IN 1837_CD and_CC a_DT M.A._NNP ._.
+He_PRP won_VBD the_DT Hertford_NNP Scholarship_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Ordained_VBN in_IN 1841_CD ,_, he_PRP became_VBD Rector_NNP of_IN Westwell_NNP ,_, Oxfordshire_NNP in_IN 1847_CD ,_, then_RB of_IN Castle_NNP Camps_NNP ,_, Cambridgeshire_NNP ,_, 1860_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD also_RB for_IN a_DT time_NN Tutor_NNP of_IN his_PRP$ College_NNP ,_, and_CC Classical_NNP Examiner_NNP ._.
+He_PRP died_VBD in_IN Castle_NNP Camps_NNP ,_, 6_CD October_NNP 1874_CD aged_VBN 58_CD ,_, and_CC was_VBD buried_VBN near_IN the_DT hedge_NN facing_VBG the_DT West_NNP Window_NNP ._.
+His_PRP$ Bampton_NNP Lectures_NNPS were_VBD delivered_VBN in_IN 1855_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP also_RB published_VBD Ballads_NNS from_IN Herodotus_NNP ,_, Hymns_NNP from_IN the_DT Gospel_NNP of_IN the_DT Day_NNP for_IN each_DT Sunday_NNP and_CC Festivals_NNP of_IN our_PRP$ Lord_NNP ;_: and_CC Short_JJ Occasional_NNP Poems_NNP ._.
+Hymns_NNS include_VBP O_NNP Jesus_NNP ,_, I_PRP have_VBP promised_VBN ,_, Sweetly_NNP the_DT Sabbath_NNP Bell_NNP ,_, God_NNP of_IN Heaven_NNP enthroned_VBD in_IN Might_NNP ,_, and_CC Spirit_NN of_IN Truth_NNP ,_, Indwelling_NNP Light_NNP ._.
+``_`` O_NNP Jesus_NNP I_PRP Have_VBP Promised_VBN ''_'' was_VBD written_VBN on_IN the_DT occasion_NN of_IN the_DT confirmation_NN of_IN his_PRP$ own_JJ two_CD sons_NNS and_CC daughter_NN at_IN Castle_NNP Camps_NNP in_IN 1869_CD ._.
+The_DT hymn_NN tune_NN was_VBD written_VBN in_IN 1881_CD by_IN Arthur_NNP H_NNP Mann_NNP who_WP at_IN one_CD period_NN in_IN his_PRP$ life_NN served_VBD as_IN organist_NN and_CC choirmaster_NN at_IN King_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, famous_JJ for_IN its_PRP$ superb_JJ choral_JJ music_NN ._.
+A_DT letter_NN written_VBN by_IN him_PRP in_IN support_NN of_IN Osborne_NNP Gordon_NNP is_VBZ held_VBN in_IN the_DT Papers_NNP of_IN Osborne_NNP Gordon_NNP collection_NN at_IN Oxford_NNP ._.

@@ -1,0 +1,208 @@
+Facebook_NN
+says_VPRT [PUBV]
+that_THVC
+anyone_QUPR
+who_WP
+takes_VPRT
+out_PIN
+a_DT
+British_JJ
+political_JJ
+ad_NN
+on_PIN
+the_DT
+social_JJ
+media_NN
+platform_NN
+will_PRMD [SPAU]
+now_TIME
+be_VB [PASS]
+forced_VBN
+to_TO
+reveal_VB [PRIV]
+their_TPP3
+identity_NOMZ
+,_,
+in_PIN
+a_DT
+bid_NN
+to_TO
+increase_VB
+transparency_NN
+and_PHC
+curb_NN
+misinformation_NOMZ
+._.
+The_DT
+company_NN
+said_VBD [PUBV]
+Tuesday_NN
+that_TOBJ
+it_PIT
+will_PRMD [SPAU]
+also_RB
+require_VB [SUAV]
+disclaimers_NN
+for_PIN
+any_QUAN
+British_JJ
+political_JJ
+advertisements_NOMZ
+,_,
+which_WDT [SERE]
+will_PRMD
+be_VB [PASS]
+archived_VBN
+for_PIN
+seven_CD
+years_NN
+in_PIN
+a_DT
+publicly_RB
+accessible_JJ
+database_NN
+._.
+British_JJ
+lawmakers_NN
+have_VPRT [PEAS]
+called_VBN
+for_PIN
+greater_JJ
+oversight_NN
+of_PIN
+social_JJ
+media_NN
+companies_NN
+and_PHC
+election_NOMZ
+campaigns_NN
+to_TO
+protect_VB
+democracy_NN
+in_PIN
+the_DT
+digital_JJ
+age_NN
+._.
+A_DT
+House_NN
+of_PIN
+Commons_NN
+report_NN
+this_DEMO
+year_NN
+said_VBD [PUBV] [THATD]
+democracy_NN
+is_VPRT
+facing_VBG
+a_DT
+crisis_NN
+because_CAUS
+data_NN
+analysis_NN
+and_CC
+social_JJ
+media_NN
+allow_VPRT [SUAV]
+campaigns_NN
+to_TO
+target_VB
+voters_NN
+with_PIN
+messages_NN
+of_PIN
+hate_NN
+without_PIN
+their_TPP3
+consent_NN
+._.
+``_``
+While_OSUB
+the_DT
+vast_JJ
+majority_NOMZ
+of_PIN
+ads_NN
+on_PIN
+Facebook_NN
+are_VPRT [BYPA]
+run_VBN
+by_PIN
+legitimate_JJ
+organizations_NOMZ
+,_,
+we_FPP1
+know_VPRT [PRIV]
+that_THVC
+there_EX
+are_VPRT
+bad_JJ
+actors_NN
+that_TSUB
+try_VPRT
+to_PIN
+misuse_NN
+our_FPP1
+platform_NN
+,_,
+''_''
+Facebook_NN
+said_VBD [PUBV]
+in_PIN
+a_DT
+statement_NOMZ
+._.
+``_``
+By_PIN
+having_VBG
+people_NN
+verify_VPRT
+who_WP
+they_TPP3
+are_VPRT
+,_,
+we_FPP1
+believe_VPRT [PRIV] [THATD]
+it_PIT
+will_PRMD
+help_VB
+prevent_VB
+abuse_NN
+._.
+''_''
+Facebook_NN
+said_VBD [PUBV] [THATD]
+it_PIT
+'s_VPRT [CONT]
+up_RP
+against_PIN
+``_``
+smart_JJ
+and_PHC
+well-funded_JJ
+adversaries_NN
+who_WP [WHSUB]
+change_VPRT
+their_TPP3
+tactics_NN
+as_IN
+we_FPP1
+spot_VPRT
+abuse_NN
+,_,
+''_''
+but_CC
+it_PIT
+believes_VPRT [PRIV] [THATD]
+that_DEMP
+increased_VBN
+transparency_NN
+is_VPRT [BEMA]
+good_PRED
+for_PIN
+democracy_NN
+and_CC
+the_DT
+electoral_JJ
+process_NN
+._.

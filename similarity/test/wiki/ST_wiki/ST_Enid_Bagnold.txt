@@ -1,0 +1,14 @@
+Enid_NNP Algerine_NNP Bagnold_NNP ,_, Lady_NNP Jones_NNP CBE_NNP -LRB-_-LRB- 27_CD October_NNP 1889_CD ''_'' 31_CD March_NNP 1981_CD -RRB-_-RRB- was_VBD a_DT British_JJ author_NN and_CC playwright_NN ,_, known_VBN for_IN the_DT 1935_CD story_NN National_NNP Velvet_NNP ._.
+She_PRP was_VBD born_VBN in_IN Rochester_NNP ,_, Kent_NNP ._.
+daughter_NN of_IN Colonel_NNP Arthur_NNP Henry_NNP Bagnold_NNP and_CC his_PRP$ wife_NN ,_, Ethel_NNP -LRB-_-LRB- née_FW Alger_NNP -RRB-_-RRB- ,_, and_CC brought_VBD up_RP mostly_RB in_IN Jamaica_NNP ._.
+She_PRP went_VBD to_TO art_NN school_NN in_IN London_NNP ,_, and_CC then_RB worked_VBD for_IN Frank_NNP Harris_NNP ,_, who_WP became_VBD her_PRP$ lover_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- During_IN the_DT First_NNP World_NNP War_NNP she_PRP became_VBD a_DT nurse_NN ,_, writing_VBG critically_RB of_IN the_DT hospital_NN administration_NN and_CC being_VBG dismissed_VBN as_IN a_DT result_NN ._.
+After_IN that_IN she_PRP was_VBD a_DT driver_NN in_IN France_NNP for_IN the_DT remainder_NN of_IN the_DT war_NN years_NNS ._.
+She_PRP wrote_VBD about_IN her_PRP$ hospital_NN experiences_NNS in_IN A_DT Diary_NNP Without_IN Dates_NNPS ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC about_IN her_PRP$ experiences_NNS as_IN a_DT driver_NN in_IN The_DT Happy_JJ Foreigner_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1920_CD ,_, she_PRP married_VBD Sir_NNP Roderick_NNP Jones_NNP ,_, Chairman_NNP of_IN Reuters_NNP ,_, but_CC continued_VBD to_TO use_VB her_PRP$ maiden_JJ name_NN for_IN her_PRP$ writing_NN ._.
+They_PRP lived_VBD at_IN North_NNP End_NNP House_NNP ,_, Rottingdean_NNP ,_, near_IN Brighton_NNP -LRB-_-LRB- previously_RB the_DT home_NN of_IN Sir_NNP Edward_NNP Burne-Jones_NNP -RRB-_-RRB- ,_, the_DT garden_NN of_IN which_WDT inspired_VBD her_PRP play_NN ,_, The_DT Chalk_NNP Garden_NNP ._.
+The_DT couple_NN had_VBD four_CD children_NNS ._.
+Their_PRP$ great-granddaughter_NN is_VBZ Samantha_NNP Cameron_NNP ,_, wife_NN of_IN the_DT former_JJ Prime_NNP Minister_NNP and_CC Conservative_NNP Party_NNP leader_NN David_NNP Cameron_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Bagnold_NNP died_VBD at_IN Rottingdean_NNP in_IN 1981_CD ,_, aged_VBN 92_CD ,_, and_CC is_VBZ interred_VBN at_IN St_NNP Margaret_NNP 's_POS churchyard_NN there_RB ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- During_IN the_DT Second_NNP World_NNP War_NNP ,_, Bagnold_NNP 's_POS brother_NN Ralph_NNP Bagnold_NNP founded_VBD the_DT Long_NNP Range_NNP Desert_NNP Group_NNP -LRB-_-LRB- LRDG_NNP -RRB-_-RRB- ,_, a_DT precursor_NN of_IN the_DT SAS_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB-

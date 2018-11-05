@@ -1,0 +1,523 @@
+In_PIN
+a_DT
+freak_NN
+accident_NN
+on_PIN
+Saturday_NN
+morning_GER
+,_,
+a_DT
+Compressed_NN
+Natural_NN
+Gas_NN
+-LRB-_-LRB-
+CNG_NN
+-RRB-_-RRB-
+cylinder_NN
+of_PIN
+an_DT
+autorickshaw_NN
+exploded_VBD
+while_OSUB
+being_VBG [PASS]
+re-filled_VBN
+at_PIN
+a_DT
+Malad_NN
+CNG_NN
+station_NOMZ
+,_,
+which_WDT [SERE]
+left_VBD
+two_CD
+auto_NN
+drivers_NN
+critically_RB
+injured_VBN
+while_OSUB
+the_DT
+attendant_JJ
+too_RB
+sustained_JJ
+minor_JJ
+injuries_NN
+._.
+Post_NN
+the_DT
+incident_NN
+,_,
+officials_NN
+from_PIN
+Police_NN
+,_,
+Fire_NN
+Brigade_NN
+,_,
+Mahanagar_NN
+Gas_NN
+Limited_NN
+-LRB-_-LRB-
+MGL_NN
+-RRB-_-RRB-
+as_RB
+well_RB
+as_IN
+officials_NN
+from_PIN
+the_DT
+explosive_JJ
+department_NOMZ
+rushed_VBD
+to_PIN
+the_DT
+spot_NN
+._.
+The_DT
+two_CD
+auto_NN
+drivers_NN
+-_:
+Anil_NN
+More_EMPH
+and_CC
+Sohail_NN
+Ahmed_NN
+were_VBD [PASS]
+admitted_VBN [PUBV]
+to_PIN
+Tunga_NN
+Hospital_NN
+in_PIN
+Malad_NN
+and_CC
+underwent_VBD
+plastic_NN
+surgery_NN
+for_PIN
+the_DT
+deep_JJ
+wound_NN
+sustained_VBN [WZPAST]
+on_PIN
+their_TPP3
+legs_NN
+and_CC
+both_DT
+have_VPRT [PEAS]
+been_VBN [PASS]
+kept_VBN
+in_PIN
+an_DT
+Intensive_NN
+Care_NN
+Unit_NN
+-LRB-_-LRB-
+ICU_NN
+-RRB-_-RRB-
+and_ANDC
+are_VPRT
+under_IN
+observation_NOMZ
+._.
+Dr_NN
+Sudhir_NN
+Mahale_NN
+,_,
+a_DT
+doctor_NN
+in_PIN
+charge_NN
+of_PIN
+the_DT
+ICU_NN
+ward_NN
+,_,
+stated_VBN [PUBV]
+,_,
+``_``
+Their_TPP3
+condition_NOMZ
+can_POMD
+be_VB [PASS]
+stated_VBN [PUBV]
+only_DWNT
+after_IN
+post-operation_JJ
+care_NN
+._.
+Both_DT
+underwent_VBD
+surgery_NN
+for_PIN
+the_DT
+debridement_NOMZ
+-LRB-_-LRB-
+damage_NN
+tissue_NN
+-RRB-_-RRB-
+wound_NN
+on_PIN
+the_DT
+back_JJ
+side_NN
+of_PIN
+their_TPP3
+legs_NN
+._.
+More_EMPH
+has_VPRT [PEAS]
+got_VBN
+severe_JJ
+wound_NN
+on_PIN
+the_DT
+backside_NN
+of_PIN
+his_TPP3
+thigh_NN
+._.
+He_TPP3
+also_RB
+has_VPRT
+a_DT
+cut_NN
+on_PIN
+his_TPP3
+muscle_NN
+and_CC
+small_JJ
+bone_NN
+of_PIN
+his_TPP3
+leg_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+fractured_VBN
+._.
+Ahmed_NN
+has_VPRT [PEAS]
+got_VBN
+wound_NN
+below_PLACE
+his_TPP3
+left_JJ
+knee_NN
+._.
+''_''
+Shailesh_NN
+Tiwari_NN
+,_,
+the_DT
+gas_NN
+attendant_NN
+at_PIN
+the_DT
+Kapadia_NN
+brothers_NN
+Gas_NN
+station_NOMZ
+who_WP [WHSUB]
+was_VBD [PASS]
+injured_VBN
+in_PIN
+the_DT
+incident_NN
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+do_VPRT
+not_XX0
+know_VB [PRIV]
+how_RB [WHCL]
+the_DT
+cylinder_NN
+exploded_VBD
+all_QUAN
+I_FPP1
+remember_VPRT [PRIV]
+is_VPRT [BEMA]
+the_DT
+sudden_JJ
+ear_NN
+deafening_VBG [WZPRES]
+blast_NN
+while_OSUB
+filling_VBG
+gas_NN
+that_TSUB
+left_VBD
+me_FPP1
+injured_JJ
+._.
+''_''
+While_OSUB
+Kandivali_NN
+police_NN
+station_NOMZ
+is_VPRT
+yet_RB
+to_TO
+register_VB
+a_DT
+case_NN
+,_,
+the_DT
+cops_NN
+conducted_VBN
+panchnama_NN
+and_CC
+a_DT
+diary_JJ
+entry_NN
+over_IN
+the_DT
+incident_NN
+._.
+``_``
+We_FPP1
+have_VPRT [PEAS]
+recovered_VBN
+the_DT
+evidence_NN
+from_PIN
+the_DT
+spot_NN
+,_,
+and_ANDC
+have_VPRT [SPAU] [PEAS]
+also_RB
+recorded_VBN
+statements_NOMZ
+of_PIN
+witnesses_NOMZ
+._.
+The_DT
+evidence_NN
+collected_VBN [WZPAST]
+from_PIN
+the_DT
+spot_NN
+will_PRMD [SPAU]
+now_TIME
+be_VB [PASS]
+sent_VBN
+to_PIN
+forensic_JJ
+lab_NN
+for_PIN
+further_JJ
+investigations_NOMZ
+,_,
+''_''
+said_VBD [PUBV] [THATD]
+a_DT
+cop_NN
+adding_VBG [PUBV] [WZPRES]
+that_THVC
+a_DT
+case_NN
+will_PRMD [SPAU]
+only_DWNT
+be_VB [PASS]
+registered_VBN
+after_IN
+the_DT
+investigations_NOMZ
+in_PIN
+the_DT
+probe_NN
+are_VPRT [PASS]
+concluded_VBN [PRIV]
+._.
+In_PIN
+a_DT
+statement_NOMZ
+MGL_NN
+said_VBD [PUBV]
+,_,
+``_``
+There_EX
+was_VBD
+an_DT
+incident_NN
+of_PIN
+cylinder_NN
+blast_NN
+in_PIN
+auto_NN
+at_PIN
+Kapadia_NN
+Brothers_NN
+CNG_NN
+filling_VBG [WZPRES]
+station_NOMZ
+in_PIN
+Malad_NN
+._.
+CNG_NN
+filling_VBG [WZPRES]
+at_PIN
+the_DT
+outlet_NN
+is_VPRT [SPAU] [PASS]
+currently_RB
+suspended_VBN
+and_CC
+investigations_NOMZ
+for_PIN
+the_DT
+cause_NN
+of_PIN
+incident_NN
+is_VPRT
+being_VBG [BYPA]
+done_VBN [PROD]
+by_PIN
+Chief_NN
+Controller_NN
+of_PIN
+Explosives_NN
+._.
+''_''
+The_DT
+owner_NN
+of_PIN
+the_DT
+CNG_NN
+station_NOMZ
+,_,
+Dharam_NN
+Kapadia_NN
+shared_VBD
+that_DEMO
+they_TPP3
+are_VPRT [BEMA]
+fully_AMP
+co-operating_PRED
+in_PIN
+the_DT
+investigations_NOMZ
+._.
+``_``
+We_FPP1
+do_VPRT
+not_XX0
+know_VB [PRIV]
+the_DT
+reasons_NN
+for_PIN
+the_DT
+blast_NN
+but_CC
+we_FPP1
+think_VPRT [PRIV]
+that_THVC
+it_PIT
+could_POMD
+be_VB [PASS]
+caused_VBN
+due_JJ
+to_PIN
+some_QUAN
+fault_NN
+in_PIN
+the_DT
+auto_NN
+'s_POS
+cylinder_NN
+._.
+''_''
+Thambi_NN
+Kurien_NN
+working_VBG [WZPRES]
+president_NN
+of_PIN
+Mumbai_NN
+rickshawmen_NN
+union_NN
+said_VBD [PUBV]
+,_,
+``_``
+The_DT
+gas_NN
+cylinder_NN
+in_PIN
+the_DT
+auto_NN
+was_VBD [BYPA]
+fitted_VBN
+by_PIN
+a_DT
+company_NN
+and_CC
+the_DT
+auto_NN
+was_VBD [BEMA]
+only_DWNT
+one_CD
+year_NN
+old_JJ
+and_ANDC
+hence_CONJ
+it_PIT
+is_VPRT [BEMA]
+alarming_PRED
+._.
+We_FPP1
+will_PRMD
+wait_VB
+for_PIN
+the_DT
+investigations_NOMZ
+to_TO
+get_VB
+over_RP
+after_IN
+which_WDT
+we_FPP1
+will_PRMD
+decide_VB [SUAV] [PRIV]
+on_PIN
+the_DT
+course_NN
+of_PIN
+further_JJ
+action_NOMZ
+._.
+''_''
+Cops_NN
+from_PIN
+the_DT
+Kandivali_NN
+Police_NN
+Station_NOMZ
+said_VBD [PUBV]
+that_THVC
+they_TPP3
+have_VPRT [PEAS]
+collected_VBN
+all_QUAN
+evidence_NN
+from_PIN
+the_DT
+spot_NN
+which_WDT [WHSUB]
+will_PRMD [SPAU]
+now_TIME
+be_VB [PASS]
+sent_VBN
+to_PIN
+the_DT
+forensic_JJ
+lab_NN
+for_PIN
+further_JJ
+investigation_NOMZ
+;_:
+case_NN
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+registered_VBN

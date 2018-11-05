@@ -1,0 +1,233 @@
+A_DT
+23-year-old_JJ
+model_NN
+was_VBD [PASS]
+arrested_VBN
+for_PIN
+allegedly_RB
+pushing_VBG
+his_TPP3
+mother_NN
+during_PIN
+a_DT
+scuffle_NN
+,_,
+leading_VBG [PRESP]
+to_PIN
+her_TPP3
+death_NN
+,_,
+police_NN
+said_VBD [PUBV]
+Saturday_NN
+._.
+Oshiwara_NN
+police_NN
+said_VBD [PUBV]
+that_THVC
+Lakshya_NN
+Singh_NN
+was_VBD [PASS]
+arrested_VBN
+Friday_NN
+in_PIN
+connection_NOMZ
+with_PIN
+the_DT
+death_NN
+of_PIN
+his_TPP3
+mother_NN
+Sunita_NN
+Singh_NN
+-LRB-_-LRB-
+45_CD
+-RRB-_-RRB-
+._.
+The_DT
+two_CD
+,_,
+along_IN
+with_PIN
+the_DT
+accused_VBN
+'s_POS
+fiancee_NN
+,_,
+stayed_VBD
+in_PIN
+a_DT
+rented_VBN
+flat_JJ
+in_PIN
+Cross_NN
+Gate_NN
+building_GER
+in_PIN
+Lokhandwala_NN
+area_NN
+._.
+The_DT
+accused_VBN
+was_VBD [PASS]
+produced_VBN
+in_PIN
+court_NN
+Saturday_NN
+which_WDT [WHSUB]
+remanded_VBD
+him_TPP3
+in_PIN
+police_NN
+custody_NN
+till_IN
+October_NN
+8_CD
+._.
+Initial_JJ
+investigations_NOMZ
+have_VPRT [PEAS]
+revealed_VBN [PRIV]
+that_THVC
+mother_NN
+and_PHC
+son_NN
+were_VBD [PASS]
+addicted_VBN
+to_PIN
+drugs_NN
+,_,
+said_VBD [PUBV]
+Shailesh_NN
+Pasalwad_NN
+,_,
+senior_JJ
+inspector_NN
+,_,
+Oshiwara_NN
+Police_NN
+Station_NOMZ
+._.
+``_``
+We_FPP1
+will_PRMD
+interrogate_VB
+the_DT
+accused_VBN
+today_TIME
+to_TO
+ascertain_VB [PRIV]
+what_WP [WHCL]
+exactly_RB
+led_VBD
+to_PIN
+the_DT
+scuffle_NN
+between_PIN
+them_TPP3
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+According_VBG [PRESP]
+to_PIN
+another_DT
+official_NN
+,_,
+the_DT
+accused_VBN
+has_VPRT [PEAS]
+told_VBN
+the_DT
+police_NN
+that_TOBJ
+he_TPP3
+had_VBD [PEAS]
+pushed_VBN
+his_TPP3
+mother_NN
+in_PIN
+the_DT
+bathroom_NN
+during_PIN
+a_DT
+scuffle_NN
+,_,
+possibly_RB
+over_IN
+finances_NN
+,_,
+after_IN
+consuming_GER
+drugs_NN
+Wednesday_NN
+midnight_NN
+._.
+The_DT
+deceased_JJ
+hit_NN
+her_TPP3
+head_NN
+on_PIN
+the_DT
+wash_NN
+basin_NN
+and_CC
+collapsed_VBD
+,_,
+and_ANDC
+Lakshya_NN
+locked_VBD
+the_DT
+bathroom_NN
+from_PIN
+outside_PLACE
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+When_RB
+Lakshya_NN
+opened_VBD
+the_DT
+door_NN
+in_PIN
+the_DT
+morning_GER
+,_,
+he_TPP3
+found_VBD [PRIV]
+his_TPP3
+mother_NN
+dead_JJ
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+Sunita_NN
+,_,
+Lakshya_NN
+,_,
+his_TPP3
+fiancee_NN
+and_CC
+two_CD
+domestic_JJ
+helps_VPRT
+were_VBD [BEMA]
+present_PRED
+in_PIN
+the_DT
+flat_JJ
+at_PIN
+the_DT
+time_NN
+of_PIN
+the_DT
+incident_NN
+,_,
+this_DEMO
+official_NN
+said_VBD [PUBV]
+._.

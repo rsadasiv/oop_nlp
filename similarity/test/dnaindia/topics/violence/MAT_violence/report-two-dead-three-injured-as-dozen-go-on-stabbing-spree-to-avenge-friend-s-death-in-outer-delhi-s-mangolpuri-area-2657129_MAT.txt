@@ -1,0 +1,406 @@
+The_DT
+Mangolpuri_NN
+area_NN
+in_PIN
+Outer_NN
+Delhi_NN
+was_VBD [BEMA]
+a_DT
+hotbed_VBN
+of_PIN
+violence_NN
+on_PIN
+Wednesday_NN
+evening_GER
+when_RB
+the_DT
+friends_NN
+of_PIN
+a_DT
+20-year-old_JJ
+man_NN
+,_,
+who_WP
+died_VBD
+in_PIN
+a_DT
+clash_NN
+with_PIN
+another_DT
+man_NN
+last_JJ
+week_NN
+,_,
+went_VBD
+on_PIN
+a_DT
+stabbing_VBG
+spree_NN
+._.
+Two_CD
+people_NN
+have_VPRT [PEAS]
+died_VBN
+and_CC
+three_CD
+were_VBD [PASS]
+injured_VBN
+even_RB
+as_IN
+heavy_JJ
+security_NOMZ
+was_VBD [PASS]
+deployed_VBN
+in_PIN
+the_DT
+area_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+that_THVC
+the_DT
+situation_NOMZ
+did_VBD
+not_XX0
+go_VB
+out_PIN
+of_PIN
+hand_NN
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.
+According_VBG [PRESP]
+to_PIN
+the_DT
+police_NN
+,_,
+Abhishek_NN
+alias_VPRT
+Chuha_NN
+-LRB-_-LRB-
+20_CD
+-RRB-_-RRB-
+had_VBD [PEAS]
+had_VBN
+an_DT
+argument_NOMZ
+with_PIN
+a_DT
+man_NN
+identified_VBN
+as_IN
+Prince_NN
+alias_VPRT
+Kake_NN
+-LRB-_-LRB-
+22_CD
+-RRB-_-RRB-
+last_JJ
+week_NN
+._.
+During_PIN
+their_TPP3
+argument_NOMZ
+,_,
+Abhishek_NN
+was_VBD [PASS]
+assaulted_VBN
+and_PHC
+stabbed_VBN
+by_PIN
+Prince_NN
+'s_POS
+brother_NN
+Rancho_NN
+._.
+Prince_NN
+,_,
+on_CONJ
+the_NULL
+other_NULL
+hand_NULL
+,_,
+also_RB
+sustained_VBD
+injuries_NN
+when_RB
+Abhishek_NN
+retaliated_VBD
+._.
+``_``
+We_FPP1
+had_VBD [PEAS]
+registered_VBN
+cross-FIRs_NN
+against_PIN
+both_DT
+the_DT
+parties_NN
+._.
+Based_VBN [PASTP]
+on_PIN
+Abhishek_NN
+'s_POS
+complaint_NN
+,_,
+a_DT
+case_NN
+under_IN
+IPC_NN
+section_NOMZ
+307_CD
+-LRB-_-LRB-
+attempt_NN
+to_PIN
+murder_NN
+-RRB-_-RRB-
+was_VBD [PASS]
+registered_VBN
+._.
+On_PIN
+Prince_NN
+'s_POS
+complaint_NN
+,_,
+a_DT
+case_NN
+under_IN
+IPC_NN
+section_NOMZ
+324_CD
+-LRB-_-LRB-
+voluntarily_RB
+causing_VBG
+hurt_VBN
+by_PIN
+dangerous_JJ
+weapons_NN
+or_CC
+means_NN
+-RRB-_-RRB-
+was_VBD [PASS]
+registered_VBN
+,_,
+''_''
+said_VBD [PUBV]
+Rajendra_NN
+Sagar_NN
+,_,
+additional_JJ
+DCP_NN
+-LRB-_-LRB-
+Outer_NN
+Delhi_NN
+-RRB-_-RRB-
+._.
+On_PIN
+Wednesday_NN
+evening_GER
+,_,
+Abhishek_NN
+succumbed_VBD
+to_PIN
+his_TPP3
+injuries_NN
+after_IN
+which_WDT
+around_PLACE
+a_DT
+dozen_NN
+of_PIN
+his_TPP3
+friend_NN
+'s_POS
+marched_VBD
+to_PIN
+Prince_NN
+'s_POS
+house_NN
+to_TO
+search_VB
+for_PIN
+Rancho_NN
+._.
+None_INPR
+of_PIN
+them_TPP3
+were_VBD [BEMA]
+present_PRED
+in_PIN
+the_DT
+house_NN
+and_CC
+the_DT
+accused_VBN
+men_NN
+who_WP [WHSUB]
+were_VBD [BEMA]
+also_RB
+in_PIN
+an_DT
+inebriated_JJ
+condition_NOMZ
+went_VBD
+on_PIN
+a_DT
+stabbing_VBG
+spree_NN
+._.
+Around_PLACE
+five_CD
+persons_NN
+in_PIN
+two_CD
+different_JJ
+blocks_NN
+-_:
+I_FPP1
+and_CC
+M_NN [PASS]
+were_VBD [PASS]
+stabbed_VBN
+._.
+Two_CD
+of_PIN
+them_TPP3
+died_VBD
+while_OSUB
+three_CD
+others_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+injured_VBN
+._.
+The_DT
+deceased_JJ
+have_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Karan_NN
+Veer_NN
+who_WP [WHSUB]
+works_VPRT
+as_IN
+a_DT
+painter_NN
+and_PHC
+Dinesh_NN
+Sharma_NN
+who_WP [WHSUB]
+works_VPRT
+at_PIN
+a_DT
+factory_NN
+in_PIN
+the_DT
+Bahadurgarh_NN
+area_NN
+._.
+The_DT
+three_CD
+injured_VBN
+have_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Vinay_NN
+Kumar_NN
+,_,
+Irshad_NN
+and_PHC
+Suresh_NN
+._.
+It_PIT
+may_POMD
+be_VB [PASS]
+noted_VBN [PRIV]
+that_THVC
+the_DT
+deceased\/injured_VBN
+had_VBD
+no_SYNE
+connection_NOMZ
+with_PIN
+Abhishek_NN
+or_CC
+Prince_NN
+or_CC
+the_DT
+alleged_JJ
+accused_VBN
+men_NN
+who_WP [WHSUB]
+attacked_VBD
+them_TPP3
+._.
+According_VBG [PRESP]
+to_PIN
+the_DT
+police_NN
+,_,
+the_DT
+accused_VBN
+men_NN
+were_VBD [BEMA]
+drunk_PRED
+and_CC
+wanted_VBD
+to_TO
+avenge_VB
+Abhishek_NN
+'s_POS
+death_NN
+and_ANDC
+hence_CONJ
+stabbed_VBN
+anyone_QUPR
+and_CC
+everyone_QUPR
+who_WP
+came_VBD
+in_PIN
+their_TPP3
+way_NN
+._.
+Teams_NN
+were_VBD [PASS]
+formed_VBN
+and_CC
+informers_NN
+were_VBD [PASS]
+deployed_VBN
+after_IN
+which_WDT
+some_QUAN
+of_PIN
+them_TPP3
+have_VPRT [PEAS]
+been_VBN [PASS]
+taken_VBN
+into_PIN
+custody_NN
+._.
+A_DT
+case_NN
+of_PIN
+murder_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+registered_VBN
+at_PIN
+the_DT
+Mongolpuri_NN
+police_NN
+station_NOMZ
+and_CC
+further_JJ
+investigations_NOMZ
+are_VPRT [BEMA]
+underway_PRED
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.

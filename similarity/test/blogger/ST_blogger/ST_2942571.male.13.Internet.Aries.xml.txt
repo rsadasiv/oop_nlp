@@ -1,0 +1,638 @@
+Man_NN ,_, I_PRP swear_VBP I_PRP 'm_VBP starting_VBG to_TO forget_VB what_WP going_VBG to_TO school_NN feels_VBZ like_IN ._.
+Sick_JJ again_RB today_NN !_.
+This_DT is_VBZ just_RB getting_VBG annoying_VBG now_RB ._.
+One_CD of_IN my_PRP$ nostrils_NNS does_VBZ n't_RB work_VB ,_, but_CC at_IN least_JJS the_DT runny_JJ nose_NN stopped_VBD ._.
+I_PRP 'm_VBP coughing_VBG now_RB though_RB ._.
+This_DT must_MD be_VB a_DT new_JJ phase_NN of_IN the_DT disease_NN ,_, because_IN I_PRP was_VBD n't_RB coughing_VBG before_RB ._.
+Well_RB anyway_RB ,_, the_DT other_JJ day_NN I_PRP lied_VBD ._.
+``_`` This_DT Love_NNP ''_'' by_IN Maroon_NNP 5_CD is_VBZ good_JJ ,_, but_CC it_PRP 's_VBZ no_RB longer_RB the_DT bestest_JJS song_NN ever_RB ._.
+This_DT is_VBZ it_PRP :_: Deep_JJ inside_IN your_PRP$ soul_NN there_EX 's_VBZ a_DT hole_NN you_PRP do_VBP n't_RB wanna_VB see_VB Every_DT single_JJ day_NN what_WP you_PRP say_VBP makes_VBZ no_DT sense_NN to_TO me_PRP Even_RB though_IN I_PRP try_VBP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP Somewhere_RB in_IN the_DT night_NN there_EX 's_VBZ a_DT light_NN in_IN front_NN of_IN me_PRP Heaven_VB up_RP above_IN with_IN a_DT shove_VBP ,_, I_PRP beg_VBP it_PRP 's_VBZ me_PRP Even_RB though_IN I_PRP try_VBP I_PRP fall_VB in_IN the_DT river_NN of_IN you_PRP You_PRP 've_VBP managed_VBN to_TO bring_VB me_PRP down_IN too_RB All_DT you_PRP 're_VBP faking_VBG -LRB-_-LRB- Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP -RRB-_-RRB- Shows_VBZ you_PRP 're_VBP aching_VBG -LRB-_-LRB- Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP -RRB-_-RRB- Every_DT single_JJ day_NN what_WP you_PRP say_VBP makes_VBZ no_DT sense_NN to_TO me_PRP Lettin_NNP '_POS you_PRP inside_RB ,_, is_VBZ n't_RB right_RB ,_, do_VBP n't_RB mess_NN with_IN me_PRP I_PRP never_RB really_RB know_VB what_WP 's_VBZ really_RB going_VBG on_IN inside_IN you_PRP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP All_DT you_PRP 're_VBP feeling_VBG -LRB-_-LRB- Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP -RRB-_-RRB- Shows_VBZ you_PRP 're_VBP breathing_VBG -LRB-_-LRB- Get_VB Up_RP ,_, Get_VB Up_RP ,_, Get_VB Up_RP -RRB-_-RRB- Deep_JJ inside_IN your_PRP$ soul_NN there_EX 's_VBZ a_DT hole_NN you_PRP do_VBP n't_RB wanna_VB see_VB Covering_NNP it_PRP up_RP like_IN a_DT cut_NN with_IN the_DT likes_NN of_IN me_PRP You_PRP know_VBP I_PRP 've_VBP really_RB tried_VBN ,_, I_PRP ca_MD n't_RB do_VB anymore_RB about_IN you_PRP The_DT cut_NN 's_POS getting_VBG deeper_JJR -LRB-_-LRB- Yeaaaaaaaaaaaaaaahh_NNP -RRB-_-RRB- The_DT hill_NN 's_POS getting_VBG steeper_JJR -LRB-_-LRB- Yeaaaaaaaaaaaaaaahh_NNP -RRB-_-RRB- I_PRP guess_VBP I_PRP 'll_MD never_RB know_VB what_WP 's_VBZ really_RB going_VBG on_IN inside_IN you_PRP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP I_PRP ca_MD n't_RB get_VB my_PRP$ head_NN around_IN you_PRP -_: ''_'' -LRB-_-LRB- Ca_MD n't_RB Get_VB My_PRP$ -RRB-_-RRB- Head_NNP Around_IN You_PRP ,_, ''_'' Offspring_VBG for_IN -LRB-_-LRB- i_FW =_SYM 0_CD ;_: i_FW document_NN ._.
+write_VB -LRB-_-LRB- ''_'' ''_'' -RRB-_-RRB- document_NN ._.
+write_VB -LRB-_-LRB- message_NN -LRB-_-LRB- i_FW -RRB-_-RRB- -RRB-_-RRB- document_NN ._.
+write_VB -LRB-_-LRB- ''_'' ''_'' -RRB-_-RRB- -RCB-_-RRB- if_IN -LRB-_-LRB- document_NN ._.
+layers_NNS -RRB-_-RRB- -LCB-_-LRB- document_NN ._.
+captureEvents_NNS -LRB-_-LRB- Event_NN ._.
+MOUSEMOVE_NNP -RRB-_-RRB- ;_: -RCB-_-RRB- document_NN ._.
+onmousemove_JJ =_SYM handlerMM_NNP ;_: \/_CD \/_SYM -_: End_NN of_IN JavaScript_NNP -_: --_: -RRB-_-RRB- Instant_JJ Messenger_NN schizofrenia_NN When_WRB you_PRP 're_VBP sick_JJ ,_, bored_JJ ,_, and_CC a_DT loser_NN ,_, it_PRP starts_VBZ to_TO get_VB to_TO you_PRP ,_, i.e._FW this_DT conversation_NN :_: ringotdl13_NNS :_: you_PRP 're_VBP weird_JJ ringotdl13_NNS :_: you_PRP 're_VBP weird_JJ ringotdl13_NNS :_: nuh-uh_JJ ringotdl13_NNS :_: nuh-uh_JJ ringotdl13_NNS :_: uh-huh_JJ ringotdl13_NNS :_: uh-huh_JJ ringotdl13_NNS :_: you_PRP suck_VBP ringotdl13_NNS :_: you_PRP suck_VBP ringotdl13_NNS :_: no_DT you_PRP do_VBP ringotdl13_NNS :_: no_DT you_PRP do_VBP ringotdl13_NNS :_: you_PRP ringotdl13_VBP :_: you_PRP ringotdl13_VBP :_: you_PRP !_.
+ringotdl13_NNS :_: you_PRP !_.
+ringotdl13_NNS :_: AHHH_NNP !!!_CD ringotdl13_NNS :_: AHHH_NNP !!!_CD ringotdl13_NNS :_: stop_VB copying_VBG what_WP I_PRP say_VBP !_.
+ringotdl13_NNS :_: stop_VB copying_VBG what_WP I_PRP say_VBP !_.
+ringotdl13_NNS :_: Oh_UH my_PRP$ God_NNP if_IN you_PRP talk_VBP again_RB I_PRP swear_VBP !_.
+ringotdl13_NNS :_: Oh_UH my_PRP$ God_NNP if_IN you_PRP talk_VBP again_RB I_PRP swear_VBP !_.
+ringotdl13_NNS :_: AH_NNP !!!_NNP ringotdl13_NNS :_: AH_NNP !!!_NNP ringotdl13_NNS :_: You_PRP shall_MD burn_VB in_IN the_DT Eternal_NNP Flame_NN !_.
+ringotdl13_NNS :_: You_PRP shall_MD burn_VB in_IN the_DT Eternal_NNP Flame_NN !_.
+ringotdl13_NNS :_: g2g_JJ ringotdl13_NNS :_: g2g_JJ ringotdl13_NNS :_: haha_NN he_PRP left_VBD !_.
+ringotdl13_NNS :_: haha_NN he_PRP left_VBD !_.
+ringotdl13_NNS :_: NO_UH !!!!!!!!!!!!_CD ringotdl13_NNS :_: NO_UH !!!!!!!!!!!!_CD Man_NN ,_, this_DT being_VBG sick_JJ thing_NN is_VBZ getting_VBG old_JJ ._.
+I_PRP 'm_VBP sick_JJ again_RB today_NN and_CC for_IN some_DT reason_NN my_PRP$ ears_NNS feel_VBP all_DT water-logged_JJ ._.
+You_PRP know_VBP when_WRB you_PRP 're_VBP listening_VBG to_TO your_PRP$ music_NN on_IN headphones_NNS and_CC you_PRP try_VBP to_TO tell_VB someone_NN something_NN ,_, and_CC you_PRP do_VBP n't_RB realize_VB that_IN you_PRP 're_VBP yelling_VBG because_IN the_DT music_NN is_VBZ so_RB loud_JJ ?_.
+It_PRP feels_VBZ like_IN that_DT all_DT day_NN for_IN me_PRP ._.
+But_CC anyway_RB ,_, I_PRP was_VBD watching_VBG MTV_NNP and_CC people_NNS ,_, this_DT is_VBZ officially_RB the_DT bestest_JJS song_NN ever_RB :_: I_PRP was_VBD so_RB high_JJ I_PRP did_VBD not_RB recognize_VB The_DT fire_NN burning_NN in_IN her_PRP$ eyes_NNS The_DT chaos_NN that_WDT controlled_VBD my_PRP$ mind_NN Whispered_VBN goodbye_NN and_CC she_PRP got_VBD on_IN a_DT plane_NN Never_RB to_TO return_VB again_RB But_CC always_RB in_IN my_PRP$ heart_NN This_DT love_NN has_VBZ taken_VBN its_PRP$ toll_NN on_IN me_PRP She_PRP said_VBD Goodbye_NNP too_RB many_JJ times_NNS before_IN And_CC her_PRP$ heart_NN is_VBZ breaking_VBG in_IN front_NN of_IN me_PRP I_PRP have_VBP no_DT choice_NN cause_NN I_PRP wo_MD n't_RB say_VB goodbye_NN anymore_RB I_PRP tried_VBD my_PRP$ best_JJS to_TO feed_VB her_PRP$ appetite_NN Keep_VB her_PRP$ coming_JJ every_DT night_NN So_RB hard_JJ to_TO keep_VB her_PRP$ satisfied_JJ Kept_VBD playing_VBG love_NN like_IN it_PRP was_VBD just_RB a_DT game_NN Pretending_VBG to_TO feel_VB the_DT same_JJ Then_RB turn_VB around_RB and_CC leave_VB again_RB This_DT love_NN has_VBZ taken_VBN its_PRP$ toll_NN on_IN me_PRP She_PRP said_VBD Goodbye_NNP too_RB many_JJ times_NNS before_IN And_CC her_PRP$ heart_NN is_VBZ breaking_VBG in_IN front_NN of_IN me_PRP I_PRP have_VBP no_DT choice_NN cause_NN I_PRP wo_MD n't_RB say_VB goodbye_NN anymore_RB I_PRP 'll_MD fix_VB these_DT broken_JJ things_NNS Repair_NNP your_PRP$ broken_JJ wings_NNS And_CC make_VB sure_JJ everything_NN 's_POS alright_NN My_PRP$ pressure_NN on_IN your_PRP$ hips_NNS Sinking_VBG my_PRP$ fingertips_NNS Into_NNP every_DT inch_NN of_IN you_PRP Cause_VBP I_PRP know_VBP that_DT 's_VBZ what_WP you_PRP want_VBP me_PRP to_TO do_VB -_: ``_`` This_DT Love_NNP ,_, ''_'' Maroon_NNP 5_CD REMIX_NNP TO_TO GONE_NNP FISHIN_NNP '_POS -LRB-_-LRB- instead_RB of_IN ignition_NN ,_, get_VB it_PRP ?_.
+hehehe_NN -RRB-_-RRB- THE_DT REMIX_NNP TO_TO GONE_NNP FISHIN_NNP '_POS ,_, HERE_RB WE_VB DO_NNP N'T_RB GOT_VBD A_DT KITCHEN_NNP ,_, EVERYONE_NN HERE_RB IS_VBZ WISHIN_NNP '_POS THAT_WDT WE_VBP DID_NNP HAVE_NNP A_NNP KITCHEN_NNP ._.
+I_PRP JUST_RB BOUGHT_VBD A_DT KITTEN_NNP AND_CC I_PRP NAMED_VBD HER_NNP MITTENS_NNP ._.
+I_PRP JUST_RB BE_VBP SITTIN_NNP '_POS HERE_RB WHITTLIN_VBG '_'' ,_, BUSTIN_NNP ''_'' RHYMES_NNP LIKE_NNP THEY_NNP VISIONS_NNP ,_, I_PRP THINK_VBP YOU_PRP SHOULD_MD LISTEN_VB ,_, BECAUSE_IN I_PRP 'M_VBP ON_IN A_DT MISSION_NN ._.
+I_PRP HEAR_VBP THE_DT FOOD_NN SIZZLIN_NN '_'' ,_, THANK_NNP GOD_NNP WE_NNP GOT_NNP A_NNP KITCHEN_NNP WORD_NNP UP_RP Y'_NNP ALL_NNP !_.
+I_PRP 'm_VBP sick_JJ ._.
+In_IN more_JJR ways_NNS than_IN one_CD ._.
+I_PRP 'm_VBP home_NN sick_JJ today_NN ._.
+I_PRP 've_VBP got_VBD that_IN coughey-sinusey-headachey-dizzy-sore-throughtey-slight-feverey-virus_NN ._.
+Yeah_UH ,_, I_PRP 'm_VBP feeling_VBG really_RB phlegmy_JJ ._.
+I_PRP 've_VBP used_VBN enough_JJ tissues_NNS already_RB to_TO absorb_VB Crater_NNP Lake_NNP ._.
+But_CC hey_NN ,_, on_IN a_DT lighter_JJR note_NN ,_, the_DT Oscars_NNPS were_VBD yesterday_NN ._.
+Lord_NNP of_IN the_DT Rings_NNS finally_RB got_VBD props_NNS for_IN the_DT Trilogy_NNP ,_, which_WDT is_VBZ good_JJ ,_, because_IN up_RB until_IN now_RB the_DT academy_NN 's_POS been_VBN giving_VBG them_PRP the_DT cold_JJ shoulder_NN ._.
+I_PRP just_RB saw_VBD the_DT movie_NN Matchstick_NNP Men_NNP on_IN DVD_NNP ._.
+Oh_UH my_PRP$ God_NNP that_WDT is_VBZ the_DT worst_JJS movie_NN ever_RB ._.
+It_PRP totally_RB sabatoges_VBZ itself_PRP with_IN the_DT ending_VBG ._.
+I_PRP get_VBP that_IN he_PRP 's_VBZ a_DT con_JJ man_NN and_CC in_IN the_DT end_NN he_PRP gets_VBZ conned_VBN ,_, but_CC did_VBD they_PRP have_VBP to_TO con_VB him_PRP so_RB fricken_JJ hard_JJ ?_.
+He_PRP 's_VBZ Obsessive_NNP Compulsive_NNP for_IN heaven_NN sakes_VBZ !_.
+And_CC the_DT epilogue_NN !_.
+That_DT was_VBD was_VBD the_DT worst_JJS thing_NN I_PRP have_VBP ever_RB seen_VBN ._.
+It_PRP says_VBZ ONE_CD YEAR_NN LATER_RB but_CC the_DT girl_NN looks_VBZ like_IN she_PRP 's_VBZ friggen_NN 19_CD !_.
+If_IN you_PRP 've_VBP never_RB seen_VBN the_DT movie_NN you_PRP ca_MD n't_RB realate_VB to_TO my_PRP$ anger_NN ,_, but_CC if_IN you_PRP have_VBP seen_VBN it_PRP then_RB more_RBR than_IN likely_JJ you_PRP feel_VBP the_DT same_JJ way_NN I_PRP do_VBP ._.
+I_PRP 'm_VBP going_VBG to_TO Panera_NNP Bread_NNP for_IN lunch_NN ._.
+They_PRP have_VBP good_JJ sandwiches_NNS there_RB ._.
+And_CC good_JJ soup_NN ._.
+Maybe_RB that_IN 'll_MD make_VB me_PRP feel_VB better_RB ._.
+I_PRP 'm_VBP going_VBG to_TO buy_VB School_NNP of_IN Rock_NNP on_IN DVD_NNP tomorrow_NN ._.
+I_PRP guess_VBP I_PRP 'll_MD watch_VB it_PRP on_IN the_DT family_NN DVD_NNP Player_NNP because_IN mine_NN 's_POS busted_VBN ._.
+I_PRP guess_VBP that_DT 's_VBZ what_WP happens_VBZ when_WRB you_PRP buy_VBP a_DT DVD_NNP Player_NNP from_IN Winn_NNP Dixie_NNP ._.
+It_PRP was_VBD only_RB 40_CD bucks_NNS though_RB ,_, how_WRB could_MD I_PRP lose_VB ?_.
+This_DT is_VBZ probably_RB my_PRP$ fourth_JJ Blog_NNP in_IN the_DT past_JJ year_NN ._.
+I_PRP keep_VBP forgetting_VBG my_PRP$ user_NN name_NN 's_POS and_CC password_NN 's_POS ._.
+Maybe_RB I_PRP should_MD write_VB it_PRP down_RP somewhere_RB ..._: Double-Swallowed_NNP Chicken_NNP and_CC Random_NNP Questions_NNPS Have_VBP you_PRP ever_RB thrown_VBD up_RP and_CC then_RB swallowed_VBD it_PRP back_RB again_RB ?_.
+I_PRP did_VBD that_IN today_NN ._.
+It_PRP was_VBD chicken_NN ._.
+How_WRB come_VBN when_WRB you_PRP swallow_VBP something_NN it_PRP tastes_VBZ good_JJ ,_, -LRB-_-LRB- usually_RB -RRB-_-RRB- but_CC when_WRB you_PRP taste_VBP it_PRP again_RB it_PRP tastes_VBZ nasty_JJ ?_.
+Have_VBP I_PRP been_VBN deprived_VBN if_IN I_PRP 've_VBP never_RB eaten_VBN Fruity_NNP Pebbles_NNP ?_.
+People_NNS Tell_VB me_PRP they_PRP 're_VBP good_JJ ._.
+Are_VBP n't_RB Fruity_NNP Pebbles_NNP made_VBD of_IN rice_NN ?_.
+Is_VBZ n't_RB vodka_NN made_VBN of_IN rice_NN ?_.
+Did_VBD n't_RB the_DT Russians_NNPS make_VBP up_RP vodka_NN ?_.
+If_IN Chinese_JJ people_NNS eat_VBP rice_NN everyday_JJ -LRB-_-LRB- most_RBS likely_JJ -RRB-_-RRB- then_RB why_WRB did_VBD n't_RB Chinese_JJ people_NNS make_VBP up_RP Vodka_NNP ?_.
+Do_VBP Russians_NNPS even_RB eat_VBP rice_NN ?_.
+Did_VBD you_PRP know_VBP that_IN marshmallows_NNS are_VBP 80_CD %_JJ air_NN ?_.
+It_PRP 's_VBZ like_IN people_NNS are_VBP paying_VBG for_IN air_NN !_.
+We_PRP should_MD sart_VB an_DT uprising_NN for_IN this_DT can_MD not_RB be_VB tolerated_VBN !_.
+The_DT marshmallow_NN people_NNS should_MD downsize_VB their_PRP$ marshmallow_NN prices_NNS by_IN 80_CD %_NN ._.
+Well_RB I_PRP 'm_VBP getting_VBG bored_VBN and_CC I_PRP 'm_VBP running_VBG out_IN of_IN stupid_JJ ,_, random_JJ things_NNS to_TO say_VB ,_, so_IN I_PRP 'll_MD just_RB save_VB you_PRP the_DT pain_NN of_IN reading_VBG any_DT further_JJ ._.
+See_VB ya_PRP my_PRP$ peeps_NNS !_.
+If_IN you_PRP like_IN pina_NNS coladas_NNS ,_, getting_VBG caught_VBN in_IN the_DT rain_NN ,_, duh-nuh-nuh-nuh-nuh-nuh-nuh-nuh_NN ,_, duh-nuh-nuh-nuh-nuh-nuh_JJ Somebody_NN spilled_VBD smoothie_NN all_DT down_IN the_DT aisle_NN of_IN the_DT bus_NN on_IN the_DT way_NN back_RB from_IN Montgomery_NNP ._.
+It_PRP got_VBD all_DT up_RP on_IN my_PRP$ shoe_NN ._.
+The_DT trip_NN was_VBD somewhat_RB fun_NN ,_, though_RB ._.
+Me_PRP and_CC Dillon_NNP must_MD have_VB gotten_VBN those_DT trucks_NNS to_TO honk_VB their_PRP$ horns_NNS like_IN 20_CD times_NNS ._.
+Did_VBD we_PRP ever_RB find_VBP out_RP who_WP knocked_VBD down_RP that_DT picture_NN in_IN the_DT Rosa_NNP Parks_NNPS Museum_NNP ?_.
+It_PRP was_VBD n't_RB me_PRP ,_, that_DT 's_VBZ all_DT I_PRP know_VBP ._.
+Oh_UH my_PRP$ God_NNP ,_, that_IN woman_NN in_IN the_DT Judicial_NNP Building_NNP said_VBD keplar_NN ,_, but_CC it_PRP 's_VBZ kevlar_NN ._.
+She_PRP even_RB spelled_VBD it_PRP out_RP :_: K-E-P-L-A-R_NN ._.
+Woo_NNP ,_, some_DT people_NNS are_VBP just_RB ..._: argh_NN ._.
+The_DT mall_NN was_VBD fun_NN ._.
+Did_VBD you_PRP know_VBP that_IN they_PRP have_VBP Skittles_NNP in_IN Limited_NNP Too_NNP ?_.
+That_DT guy_NN in_IN Hot_NNP Topic_NNP looked_VBD like_IN Michael_NNP with_IN a_DT mowhawk_NN ,_, I_PRP swear_VBP ._.
+When_WRB we_PRP got_VBD back_RB ,_, and_CC played_VBD outside_IN it_PRP was_VBD fun_NN ._.
+I_PRP rolled_VBD ._.
+I_PRP got_VBD dirty_JJ ._.
+I_PRP was_VBD having_VBG fun_NN ._.
+Then_RB ,_, something_NN happened_VBD ._.
+I_PRP got_VBD a_DT Math_NNP study_NN guide_NN ._.
+Ouch_NNP ._.
+No_DT ,_, I_PRP 'm_VBP not_RB dead_JJ ._.
+Sorry_JJ ,_, I_PRP did_VBD n't_RB have_VB time_NN to_TO post_VB for_IN awhile_RB ._.
+I_PRP went_VBD back_RB to_TO school_NN though_IN ._.
+Surprisingly_RB some_DT people_NNS were_VBD glad_JJ to_TO see_VB me_PRP ._.
+That_DT was_VBD new_JJ ._.
+Maybe_RB I_PRP should_MD be_VB sick_JJ more_RBR often_RB ..._: Anyway_RB ,_, school_NN was_VBD boring_JJ ._.
+I_PRP wish_VBP Mr._NNP Sipes_NNP ,_, the_DT Science_NNP teacher_NN ,_, would_MD wear_VB his_PRP$ Indiana_NNP warm-up_NN suit_NN again_RB ._.
+Then_RB we_PRP could_MD laugh_NN at_IN him_PRP ._.
+Well_RB ,_, Mozilla_NNP Firefox_NNP is_VBZ the_DT best_JJS browser_NN ever_RB ,_, is_VBZ better_JJR than_IN IE_NNP ,_, and_CC is_VBZ faster_RBR too_RB ._.
+Cool_NNP ._.
+Bored_JJ ..._: Woo_NNP ,_, me_PRP bored_VBD ._.
+So_RB just_RB know_VB that_IN you_PRP reading_VBG this_DT is_VBZ a_DT complete_JJ waste_NN of_IN time_NN ._.
+Stop_NNP reading_NN ._.
+Please_VB stop_VB reading_VBG ?_.
+Come_VBN on_IN stop_NN reading_VBG ..._: ARE_VB YOU_PRP STILL_RB READING_NN ?_.
+OH_NNP MY_NNP GOD_NNP STOP_VBP READING_NN !!!_CD AHHHHH_NNP !!!_CD OK_UH ,_, everyone_NN that_WDT 's_VBZ still_RB reading_VBG gets_VBZ $_$ 2.00_CD tomorrow_NN ._.
+Yep_NNP ,_, that_DT 's_VBZ the_DT kind_NN of_IN guy_NN I_PRP am_VBP ._.
+$_$ 2.00_CD ._.
+Really_RB ._.
+Wow_UH ._.
+I_PRP have_VBP just_RB witnessed_VBN the_DT nastiest_JJS thing_NN I_PRP 've_VBP ever_RB seen_VBN before_IN ._.
+At_IN A-Day_JJ there_EX was_VBD this_DT old_JJ lady_NN sitting_VBG in_IN front_NN of_IN me_PRP ._.
+All_DT of_IN a_DT sudden_JJ she_PRP took_VBD off_RP her_PRP$ shoes_NNS and_CC started_VBD clipping_VBG her_PRP$ toenails_NNS ._.
+I_PRP swear_VBP ,_, I_PRP almost_RB threw_VBD up_RP ._.
+She_PRP kept_VBD picking_VBG at_IN ,_, and_CC caressing_VBG her_PRP$ old_JJ ,_, wrinkly_JJ feet_NNS ._.
+She_PRP did_VBD n't_RB stop_VB the_DT whole_JJ time_NN ._.
+She_PRP just_RB kept_VBD going_VBG and_CC going-like_JJ the_DT Energizer_NNP Bunny_NNP ._.
+Other_JJ than_IN that_DT though_IN ,_, it_PRP was_VBD a_DT pretty_RB good_JJ game_NN ._.
+\*_SYM Shiver_NNP \*_SYM Bad_NNP Imagery_NNP ..._: This_DT ,_, my_PRP$ friends_NNS ,_, is_VBZ the_DT definition_NN of_IN wicked-awesome_JJ ._.
+KaZaA_NNP ,_, you_PRP 've_VBP finally_RB met_VBN you_PRP 're_VBP match_NN I_PRP 'm_VBP going_VBG to_TO A-day_JJ tomorrow_NN ._.
+Is_VBZ n't_RB that_IN something_NN like_IN D-Day_NNP ?_.
+A-Day_NNP ,_, A-Day_NNP ,_, Wheeeeeeeeeeeee_NNP !_.
+Fun_NN times_NNS man_NN ,_, fun_NN times_NNS ._.
+That_DT 's_VBZ gonna_NN be_VB the_DT shiznit_NN ,_, y'_VB all_DT ._.
+No_DT matter_NN who_WP you_PRP are_VBP ,_, you_PRP know_VBP me_PRP ._.
+I_PRP 'm_VBP that_IN guy_NN in_IN the_DT back_NN of_IN the_DT room_NN always_RB going_VBG ,_, ``_`` Huh_NNP ?_. ''_''
+Yeah_UH you_PRP know_VBP me_PRP ._.
+I_PRP store_VBP candy_NN in_IN my_PRP$ trumpet_NN case_NN ._.
+Yeah_UH you_PRP know_VBP me_PRP ,_, I_PRP tripped_VBD and_CC fell_VBD into_IN the_DT trash_NN can_MD ._.
+You_PRP know_VBP me_PRP ,_, I_PRP 'm_VBP the_DT only_JJ guy_NN in_IN class_NN who_WP 's_VBZ ever_RB forgotten_VBN to_TO wear_VB underwear_NN ._.
+You_PRP know_VBP me_PRP ._.
+I_PRP ca_MD n't_RB think_VB of_IN anything_NN good_JJ to_TO put_VB in_RP this_DT little_JJ space_NN ..._: So_IN we_PRP got_VBD report_NN cards_NNS today_NN ..._: OH_NNP YEAH_NNP ,_, I_PRP GOT_VBD ALL_NNP A_NNP 'S_POS ,_, DUH-NUH-NUH-NUH-NUH-NUH_NNP ._.
+I_PRP need_VBP like_IN my_PRP$ own_JJ theme_NN song_NN ._.
+I_PRP could_MD just_RB freestyle_VB a_DT tune_NN while_IN I_PRP walk_VBP maybe_RB ._.
+OK_UH ,_, I_PRP 've_VBP decided_VBN to_TO fill_VB out_RP a_DT list_NN of_IN things_NNS about_IN me_PRP :_: How_WRB I_PRP would_MD like_VB to_TO die_VB :_: TIE_VB :_: Suffocating_VBG in_IN Jello_NNP ,_, or_CC Drowning_VBG in_IN chocolate_NN syrup_NN ._.
+The_DT best_JJS feeling_NN in_IN the_DT world_NN :_: TIE_VB :_: When_WRB you_PRP get_VBP whipped_VBN cream_NN on_IN your_PRP$ face_NN ,_, or_CC when_WRB you_PRP have_VBP to_TO pee_VB for_IN a_DT really_RB long_JJ time_NN ,_, and_CC then_RB you_PRP finally_RB do_VBP pee_NN ._.
+I_PRP feel_VBP cool_JJ the_DT most_RBS when_WRB :_: I_PRP 'm_VBP sliding_VBG across_IN the_DT kitchen_NN floor_NN in_IN my_PRP$ socks_NNS ._.
+Favorite_JJ Website_NNP :_: Tech_NNP TV_NNP Most_JJS Habitual_NNP Activity_NN :_: TIE_VB :_: Chewing_VBG a_DT straw_NN ,_, or_CC humming_VBG Favorite_JJ color_NN :_: Gray_NNP Most_JJS Said_NNP Phrase_NNP :_: ``_`` Huh_NNP ?_. ''_''
+Music_NNP :_: Love_NNP it_PRP ,_, thanks_NNS KaZaA_NNP ._.
+Is_VBZ n't_RB that_IN illeagal_JJ ?_.
+:_: Love_NNP it_PRP ,_, thanks_NNS KaZaA_NNP ._.
+Aspirations_NNS :_: Sleeping_VBG ,_, eating_VBG ,_, dying_VBG ._.
+What_WP I_PRP ,_, henceforth_NN ,_, hath_NN done_VBN this_DT day_NN :_: 1_CD ._.
+Started_VBN on_IN Math_NNP Study_NNP Guide_NNP 2_CD ._.
+Went_NNP and_CC got_VBD tickets_NNS for_IN A-Day_JJ 3_CD ._.
+Had_VBD trumpet_NN lesson_NN 4_CD ._.
+Finished_VBN study_NN guide_NN 5_CD ._.
+Ate_VBD lunch_NN at_IN Mellow_NNP Mushroom_NNP 6_CD ._.
+Laid_VBN low_JJ and_CC avoided_VBD the_DT Jahova_NNP 's_POS Witness_NNP people_NNS That_WDT 's_VBZ it_PRP ._.
+Kinda_NNP sad_JJ is_VBZ n't_RB it_PRP ?_.
+1_LS ._.
+Shpants_NNS -LRB-_-LRB- Noun_NNP -RRB-_-RRB- :_: a._VB Pants_NNS that_WDT usually_RB extend_VBP beyond_IN the_DT knee_NN ,_, but_CC no_DT farther_RB than_IN the_DT shin_NN ._.
+b._FW Often_RB considered_VBN as_IN a_DT mix_NN between_IN Shorts_NNP and_CC pants_NNS I_PRP just_RB love_VBP shpants_NNS ._.
+They_PRP are_VBP so_RB awesome_JJ ._.
+They_PRP make_VBP me_PRP feel_VB good_JJ and_CC comfortable_JJ ._.
+Shpants.Net_NNP has_VBZ many_JJ good_JJ examples_NNS of_IN shpant-wearers_NNS and_CC testimonials_NNS from_IN people_NNS who_WP love_VBP shpants_NNS as_RB much_RB as_IN I_PRP do_VBP ._.
+The_DT other_JJ day_NN I_PRP was_VBD walking_VBG in_IN my_PRP$ shpants_NNS and_CC it_PRP hit_VBD me_PRP :_: Shpants_NNS are_VBP the_DT most_RBS comfortable_JJ things_NNS ever_RB ._.
+Yes_UH ,_, as_IN I_PRP write_VBP this_DT I_PRP am_VBP wearing_VBG shpants_NNS ._.
+I_PRP love_VBP them_PRP ._.
+I_PRP love_VBP them_PRP like_IN a_DT brother_NN ..._: wait_VB ,_, I_PRP already_RB have_VBP a_DT brother_NN ..._: Update_NNP !_.
+It_PRP is_VBZ now_RB officially_RB cool_JJ to_TO switch_VB all_DT plurals_NNS ending_VBG with_IN ``_`` s_PRP ''_'' to_TO end_VB with_IN ``_`` z_SYM ''_'' ._.
+As_IN such_JJ this_DT blog_NN will_MD conform_VB to_TO the_DT new_JJ official_JJ coolness_NN rule_NN ._.
+Thank_VB you_PRP ._.
+That_DT is_VBZ all_DT ._.
+Once_RB I_PRP ate_VBD a_DT raw_JJ fish_NN ..._: My_PRP$ Wish_NNP List_NN -LRB-_-LRB- As_IN of_IN now_RB -RRB-_-RRB- :_: 1_LS ._. -RRB-_-RRB-
+Xonix_NNP USB_NNP Memory_NN Watch_NNP -LRB-_-LRB- Kinda_NNP James_NNP Bond-ish_JJ ..._: -RRB-_-RRB- 2_LS ._. -RRB-_-RRB-
+A_DT Tactical_NNP Black_NNP Airzooka_NNP 3_CD ._. -RRB-_-RRB-
+A_DT fish_NN 4_CD ._. -RRB-_-RRB-
+Superpowers_NNS 5_CD ._. -RRB-_-RRB-
+Money_NNP One_CD ,_, Two_CD ,_, the_DT Evil_NNP Bagel_NNP 's_POS comin_NN '_'' for_IN you_PRP ..._: The_DT other_JJ day_NN I_PRP had_VBD an_DT Evil_NNP Bagel_NNP ._.
+I_PRP swear_VBP it_PRP was_VBD evil_JJ ._.
+My_PRP$ grandfather_NN bought_VBD a_DT 5-pack_NN of_IN 'em_PRP ,_, but_CC got_VBD sick_JJ after_IN eating_VBG one_CD ,_, so_RB he_PRP gave_VBD them_PRP to_TO us_PRP ._.
+I_PRP thought_VBD ,_, it_PRP could_MD n't_RB be_VB too_RB bad_JJ ..._: I_PRP was_VBD wrong_JJ ._.
+I_PRP ate_VBD that_IN bagel_NN and_CC BOOM_NNP ,_, I_PRP was_VBD sick_JJ all_DT day_NN ._.
+Not_RB cool_JJ Mr._NNP Evil_NNP Bagel_NNP ,_, not_RB cool_VB at_IN all_DT ._.
+Holy_NNP Crap_NNP ,_, we_PRP really_RB are_VBP rednecks_NNS ._.
+I_PRP saw_VBD this_DT story_NN and_CC ,_, being_VBG an_DT Alabamian_JJ ,_, just_RB could_MD n't_RB let_VB it_PRP go_VB :_: In_IN a_DT move_NN that_WDT will_MD surely_RB improve_VB the_DT southern_JJ state_NN 's_POS image_NN ,_, Alabama_NNP 's_POS Senate_NNP has_VBZ named_VBN Conecuh_NNP Ridge_NNP Fine_NNP Alabama_NNP Whiskey_NNP the_DT official_JJ state_NN spirit_NN ._.
+Conecuh_NNP Ridge_NNP Fine_NNP Alabama_NNP Whiskey_NNP traces_NNS its_PRP$ roots_NNS back_RB to_TO an_DT illegal_JJ moonshine_NN made_VBN in_IN the_DT woods_NNS near_IN southeast_JJ Montgomery_NNP and_CC now_RB joins_VBZ the_DT largemouth_JJ bass_NN ,_, the_DT pecan_NN ,_, and_CC the_DT yellowhammer_NN in_IN the_DT pantheon_NN known_VBN as_IN State_NNP Symbols_NNPS of_IN Alabama_NNP ._.
+The_DT resolution_NN to_TO make_VB the_DT whiskey_NN the_DT state_NN spirit_NN was_VBD vetoed_VBN twice_RB by_IN the_DT governor_NN and_CC both_DT times_NNS was_VBD overridden_VBN by_IN the_DT state_NN Senate_NNP ,_, thus_RB making_VBG it_PRP official_JJ ._.
+A_DT spokesperson_NN for_IN the_DT governor_NN 's_POS office_NN was_VBD quoted_VBN as_IN saying_VBG ``_`` The_DT Legislature_NNP should_MD have_VB more_RBR important_JJ things_NNS to_TO do_VB ,_, ''_'' and_CC went_VBD on_IN to_TO say_VB that_IN taking_VBG time_NN to_TO override_VB the_DT governor_NN 's_POS veto_NN made_VBD no_DT sense_NN given_VBN the_DT economic_JJ problems_NNS that_IN the_DT state_NN faces_VBZ ._.
+State_NNP Sen._NNP Pat_NNP Lindsey_NNP responded_VBD by_IN saying_VBG ``_`` I_PRP thought_VBD the_DT resolution_NN was_VBD harmless_JJ and_CC humorous_JJ ._. ''_''
+The_DT governor_NN vetoed_VBD the_DT measure_NN because_IN he_PRP felt_VBD that_IN official_JJ designations_NNS were_VBD meant_VBN for_IN historic_JJ ,_, natural_JJ ,_, or_CC native_JJ items_NNS and_CC not_RB for_IN commercial_JJ products_NNS ._.
+This_DT kind_NN of_IN thing_NN really_RB makes_VBZ me_PRP want_VB to_TO hurt_VB people_NNS ._.
+Have_VBP we_PRP really_RB sunk_VBD this_DT low_JJ ,_, that_IN we_PRP have_VBP glorified_VBN a_DT descendent_NN of_IN an_DT illegal_JJ drink_NN originally_RB created_VBN in_IN the_DT back_JJ woods_NNS of_IN some_DT drunk_JJ guy_NN 's_POS shack_NN ?_.
+I_PRP guess_VBP we_PRP have_VBP ._.
+What_WP 's_VBZ the_DT use_NN of_IN fighting_VBG it_PRP ._.
+In_IN the_DT end_NN it_PRP 's_VBZ gonna_NN overwhelm_VBP us_PRP ,_, and_CC we_PRP wo_MD n't_RB be_VB able_JJ to_TO do_VB anything_NN about_IN it_PRP ._.
+I_PRP 'm_VBP very_RB depressed_JJ now_RB ._.
+Very_RB depressed_JJ indeed_RB ._.
+Two_CD Posts_NNS in_IN One_CD Day_NN ?_.
+That_DT 's_VBZ like_IN Christmas_NNP !_.
+Unless_IN you_PRP 're_VBP Jewish_JJ ..._: Hey_NNP ,_, I_PRP just_RB made_VBD up_RP a_DT game_NN using_VBG a_DT remote_JJ control_NN ,_, a_DT water_NN bottle_NN ,_, and_CC a_DT toy_NN turtle_NN ._.
+God_NNP I_PRP 'm_VBP lonely_JJ ..._: Ouch_NNP =_SYM Self-Enlightenment_NNP Today_NNP Megan_NNP accidentally_RB slammed_VBD her_PRP$ locker_NN door_NN into_IN my_PRP$ head_NN ._.
+It_PRP hurt_VBD for_IN the_DT time_NN being_VBG ,_, it_PRP hurt_VBD ._.
+But_CC ,_, after_IN awhile_RB ,_, I_PRP realized_VBD :_: It_PRP could_MD have_VB been_VBN much_RB worse_JJR ._.
+I_PRP could_MD have_VB been_VBN hit_VBN in_IN the_DT crotch_NN or_CC knocked_VBD unconsious_JJ ._.
+I_PRP realize_VBP now_RB that_IN I_PRP should_MD live_VB life_NN to_TO the_DT fullest_JJS ,_, because_IN any_DT day_NN I_PRP could_MD be_VB knocked_VBN into_IN a_DT coma_NN ,_, get_VB a_DT legged_JJ chopped_VBN off_RP ,_, or_CC get_VB shot_VBN in_IN the_DT stomach_NN ._.
+I_PRP 'll_MD now_RB try_VB to_TO be_VB kinder_JJR to_TO people_NNS ._.
+Give_VB more_JJR than_IN I_PRP 'm_VBP already_RB giving_VBG ._.
+Yep_NNP ,_, that_IN door_NN slam_NN has_VBZ made_VBN me_PRP a_DT better_JJR person_NN ._.
+Yeah_UH ,_, it_PRP hurt_VBD like_IN crap_NN ,_, but_CC I_PRP thank_VBP Megan_NNP for_IN it_PRP ._.
+Thank_VB you_PRP Megan_NNP ._.
+If_IN gum_NN was_VBD a_DT drug_NN ,_, I_PRP 'd_MD be_VB in_IN rehab_NN ._.
+By_IN the_DT way_NN ,_, the_DT whole_NN ''_'' z_SYM being_VBG cool_JJ ''_'' thing_NN is_VBZ now_RB over_IN ._.
+Well_RB ,_, for_IN spring_NN break_NN ,_, I_PRP went_VBD to_TO Disneyworld_NNP ,_, and_CC the_DT whole_JJ time_NN I_PRP could_MD n't_RB buy_VB gum_NN ._.
+Ouch_NNP ._.
+That_DT hurts_VBZ Disneyworld_NNP ,_, that_IN hurts_VBZ ._.
+The_DT rest_NN of_IN the_DT trip_NN was_VBD pretty_RB cool_JJ ,_, though_IN ._.
+My_PRP$ feet_NNS hurted_VBD a_DT lot_NN during_IN it_PRP ,_, but_CC that_DT 's_VBZ okay_JJ ..._: I_PRP 'm_VBP Darth_NNP Vader_NNP ,_, aiight_NN ?_.
+I_PRP was_VBD bored_VBN ,_, so_IN I_PRP figured_VBD ,_, why_WRB not_RB annoy_JJ someone_NN :_: anthonysaysno_NN :_: I_PRP 'M_VBP DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: who_WP is_VBZ this_DT ryanbk90_NN :_: who_WP is_VBZ this_DT anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: ?????????_NN who_WP is_VBZ this_DT ???_NN anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: its_PRP$ not_RB that_IN hard_JJ anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: just_RB say_VBP who_WP u_VBP r_NN anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: besides_IN the_DT words_NNS darth_VBP and_CC vader_VBP anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: who_WP r_SYM u_FW ??_FW anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!!!!!_NNP -LRB-_-LRB- He_PRP warns_VBZ me_PRP to_TO 55_CD %_NN -RRB-_-RRB- anthonysaysno_NN :_: that_IN hurts_VBZ ryanbk90_CD :_: happy_JJ now_RB ?_.
+-LRB-_-LRB- I_PRP warn_VBP him_PRP to_TO 35_CD %_NN -RRB-_-RRB- anthonysaysno_NN :_: yep_VB ryanbk90_NNS :_: ok_VB ryanbk90_NN :_: now_RB who_WP are_VBP you_PRP ?_.
+anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: darth_NN vader_NN sucks_VBZ anthonysaysno_NN :_: nuh-uh_JJ ryanbk90_NNS :_: ya_PRP huh_VBP anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD ryanbk90_CD :_: ..._: anthonysaysno_NN :_: DARTH_NNP VADER_NNP !!!_VBD anthonysaysno_NN :_: yep_NN ..._: A_DT Profile_NNP So_IN Corny_NNP it_PRP Makes_VBZ Your_PRP$ Eyes_NNS Water_NNP ._.
+Nicole_NNP -_: I_PRP love_VBP you_PRP so_RB much_RB ..._: you_PRP have_VBP been_VBN the_DT greatest_JJS thing_NN of_IN my_PRP$ life_NN ..._: i_FW love_NN you_PRP more_JJR than_IN anything_NN and_CC im_NN going_VBG to_TO spend_VB the_DT rest_NN of_IN my_PRP$ life_NN with_IN you_PRP ._. ._.
+i_FW love_NN you_PRP so_RB much_JJ baby_NN !_.
+life_NN would_MD n't_RB be_VB life_NN if_IN you_PRP were_VBD n't_RB in_IN it_PRP ..._: you_PRP make_VBP everything_NN perfect_JJ baby_NN cause_NN you_PRP are_VBP perfect_JJ ..._: i_FW love_NN you_PRP so_RB much_RB and_CC im_VB going_VBG to_TO marry_VB you_PRP and_CC nothing_NN is_VBZ ever_RB going_VBG to_TO change_VB that_DT ..._: i_FW love_NN you_PRP so_RB much_RB !_.
+you_PRP are_VBP my_PRP$ everything_NN nicole_NN and_CC nothing_NN is_VBZ ever_RB going_VBG to_TO change_VB that_DT !_.
+there_EX is_VBZ n't_RB a_DT second_NN of_IN the_DT day_NN that_WDT goes_VBZ by_IN that_DT i_FW do_VBP n't_RB think_VB of_IN you_PRP ..._: everything_NN i_FW do_VBP reminds_VBZ me_PRP of_IN you_PRP ..._: i_FW LOVE_FW you_PRP life_NN would_MD be_VB hell_NN w\/o_IN you_PRP but_CC now_RB that_IN you_PRP are_VBP here_RB life_NN is_VBZ like_IN heaven_NN ..._: Nicole_NNP i_FW love_NN you_PRP more_JJR than_IN anything_NN and_CC nothing_NN is_VBZ ever_RB going_VBG to_TO change_VB that_DT !_.
+01.04.04-always_NNS loving_VBG you_PRP OH_NNP MY_NNP GOD_NNP !_.
+Someone_NN forgot_VBD their_PRP$ OCD_NNP medicine_NN today_NN ._.
+But_CC seriously_RB folks_NNS ,_, this_DT is_VBZ some_DT sad_JJ stuff_NN right_NN here_RB ._.
+Just_RB when_WRB you_PRP think_VBP you_PRP 've_VBP seen_VBN everything_NN and_CC ..._: BOOM_NN !_.
+You_PRP see_VBP this_DT ._.
+God_NNP ,_, pull_VB it_PRP together_RB man_NN ._.
+Get_VB up_RP off_IN your_PRP$ knees_NNS for_IN a_DT second_JJ ,_, and_CC go_VB get_VB some_DT grammatical_JJ help_NN ._.
+I_PRP almost_RB broke_VBD this_DT computer_NN doing_VBG a_DT spell_NN check_NN on_IN your_PRP$ profile_NN ._.
+Ok_NNP man_NN ,_, you_PRP 've_VBP got_VBD a_DT run-on_JJ sentence_NN bigger_JJR than_IN my_PRP$ ..._: well_RB let_VB 's_POS just_RB say_VB it_PRP 's_VBZ really_RB big_JJ ._.
+You_PRP know_VBP in_IN the_DT end_NN she_PRP 's_VBZ just_RB going_VBG to_TO dump_VB you_PRP anyway_RB ._.
+Let_VB it_PRP go_VB ._.
+Move_VB on_IN with_IN your_PRP$ life_NN ._.
+Take_VB english_JJ lessons_NNS ,_, get_VB some_DT pills_NNS ,_, and_CC move_VB on_IN ._.
+Me_PRP and_CC Kevin_NNP ,_, we_PRP 're_VBP weird_JJ ._.
+The_DT following_NN is_VBZ a_DT conversation_NN between_IN me_PRP and_CC Kevin_NNP :_: anthonysaysno_NN :_: jello_NN k3vin12_NN :_: hey_NN anthonysaysno_NN :_: what_WP is_VBZ the_DT song_NN in_IN yourprofile_NN ?_.
+k3vin12_NN :_: ummm_VB its_PRP$ the_DT way_NN i_FW feel_VBP k3vin12_CD :_: its_PRP$ kinda_NN old_JJ anthonysaysno_NN :_: by_IN who_WP k3vin12_VBP :_: 12_CD stones_NNS anthonysaysno_NN :_: oh_UH yeah_VBP I_PRP know_VBP them_PRP k3vin12_VB :_: yewha_NN k3vin12_NN :_: yeah_VB \*_SYM anthonysaysno_NN :_: yer_NN packin_NN stuff_NN for_IN yer_NN new_JJ house_NN ?_.
+k3vin12_NN :_: yep_VB k3vin12_NN :_: well_RB i_FW was_VBD anthonysaysno_NN :_: my_PRP$ toe_NN hurts_VBZ k3vin12_CD :_: lol_NN thats_NNS nice_JJ anthonysaysno_NN :_: it_PRP 's_VBZ got_VBN like_IN a_DT hang-nail_JJ k3vin12_NN :_: ouch_VB anthonysaysno_NN :_: ya_PRP ,_, it_PRP 's_VBZ all_DT red_JJ and_CC irritated_JJ k3vin12_NN :_: fun_NN anthonysaysno_NN :_: how_WRB can_MD u_VB say_VB a_DT thing_NN like_IN that_DT ?_.
+k3vin12_NN :_: its_PRP$ easy_JJ anthonysaysno_NN :_: so_RB ..._: anthonysaysno_NN :_: what_WP be_VB up_RB k3vin12_CD :_: nottin_NN really_RB k3vin12_CD :_: u_VB ?_.
+anthonysaysno_NN :_: well_RB ..._: um_NN ..._: uh_UH ..._: no_DT ,_, do_VBP n't_RB tell_VB him_PRP that_IN ..._: uh_UH ..._: ._.
+nothing_NN ..._: k3vin12_CD :_: ok_VB anthonysaysno_NN :_: are_VBP you_PRP saying_VBG i_FW 'm_VBP stupid_JJ ?_.
+you_PRP are_VBP stupid_JJ ._.
+Shut_VB up_RP ._.
+k3vin12_NN :_: lol_NN anthonysaysno_NN :_: hey_NN kevin_NN k3vin12_NN :_: hey_NN anthonysaysno_NN :_: do_VB n't_RB waste_VB your_PRP$ time_NN on_IN me_PRP k3vin12_VB :_: ok_VB anthonysaysno_NN :_: your_PRP$ already_RB anthonysaysno_NN :_: the_DT voice_NN inside_IN anthonysaysno_NN :_: my_PRP$ head_NN k3vin12_NN :_: lol_NN anthonysaysno_NN :_: well_RB your_PRP$ the_DT third_JJ one_CD anthonysaysno_NN :_: i_FW have_VBP eight_CD k3vin12_CD :_: haha_NN Bored_NNP ..._: A_DT feeling_NN I_PRP am_VBP now_RB used_VBN to_TO ._.
+The_DT other_JJ day_NN I_PRP stepped_VBD on_IN a_DT shard_NN of_IN glass_NN ._.
+It_PRP was_VBD painful_JJ ,_, but_CC it_PRP did_VBD n't_RB really_RB start_VB flaring_VBG up_RP till_IN now_RB ._.
+I_PRP got_VBD a_DT digital_JJ camera_NN for_IN my_PRP$ birthday_NN though_IN ._.
+That_DT makes_VBZ me_PRP feel_VB a_DT little_JJ better_JJR ._.
+I_PRP 'm_VBP still_RB bored_VBN though_IN ..._: I_PRP cant_VBP really_RB walk_VB all_DT that_DT much_JJ ..._: yeah_NN ..._: But_CC anyway_RB ,_, I_PRP should_MD probably_RB do_VB something_NN ..._: that_WDT does_VBZ n't_RB involve_VB walking_VBG ._.
+I_PRP 'm_VBP feeling_VBG a_DT little_JJ melancholic_JJ ._.
+Betcha_NNP did_VBD n't_RB know_VB I_PRP knew_VBD that_IN word_NN ._.
+But_CC still_RB ,_, I_PRP 'm_VBP a_DT little_JJ depressed_JJ ..._: Maybe_RB nothing_NN is_VBZ better_JJR than_IN school_NN ..._: Or_CC maybe_RB not_RB ..._: Ah_UH ..._: nostalgia_NN ..._: Since_IN it_PRP 's_VBZ summer_NN and_CC everything_NN I_PRP figured_VBD I_PRP 'd_MD change_VB up_RP the_DT template_NN ._.
+I_PRP remember_VBP the_DT old_JJ one_CD ..._: but_CC that_DT 's_VBZ all_DT behind_IN me_PRP now_RB ._.
+Now_RB I_PRP have_VBP a_DT better_JJR template_NN and_CC pictures_NNS ,_, so_IN it_PRP 's_VBZ all_DT good_JJ ._.
+Yeah_UH ,_, I_PRP gotta_VBP keep_VB telling_VBG myself_PRP that_IN ..._: I_PRP 'm_VBP a_DT very_RB good_JJ boy_NN ..._: Copyright_NNP -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP The_NNP Best_JJS Band_NNP Since_IN The_DT Beginning_VBG Of_IN Time_NNP Copyright_NNP -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP God_NNP I_PRP wish_VBP I_PRP was_VBD n't_RB so_RB sexy_JJ ._.
+I_PRP mean_VBP seriously_RB ,_, how_WRB many_JJ people_NNS do_VBP you_PRP know_VBP that_IN play_NN with_IN something_NN that_WDT big_JJ ?_.
+Oh_UH ,_, that_DT did_VBD n't_RB come_VB out_RB right_RB ..._: Copyright_NNP -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Yay_NNP !_.
+I_PRP got_VBD pictures_NNS now_RB !_.
+`_`` Bout_NN time_NN ,_, huh_NN ?_.
+Now_RB it_PRP 's_VBZ officially_RB called_VBN a_DT photoblog_NN ._.
+Hopefully_RB I_PRP 'll_MD be_VB able_JJ to_TO keep_VB it_PRP up_RP to_TO date_NN ,_, but_CC no_DT promises_NNS ._.
+Until_IN next_JJ time_NN ,_, see_VBP ya_PRP ._.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Have_VBP you_PRP ever_RB had_VBD that_IN pure_JJ lust_NN for_IN annoying_VBG someone_NN ?_.
+Yeah_UH ._.
+Me_PRP too_RB ._.
+aubawla618_NN :_: hey_NN anthonysaysno_NN :_: hello_UH anthonysaysno_NN :_: sup_VB aubawla618_NN :_: nm_NN aubawla618_NN :_: u_VB ?_.
+anthonysaysno_NN :_: i_FW just_RB went_VBD to_TO da_NN movies_NNS aubawla618_NN :_: me_PRP too_RB !!!!_VBP aubawla618_NN :_: what_WP did_VBD u_VB see_VB ?_.
+anthonysaysno_NN :_: shrek_VB 2_CD aubawla618_CD :_: ohh_NN i_FW saw_VBD troy_NN anthonysaysno_NN :_: yeah_NN ..._: brad_NN pitt_NN ..._: in_IN a_DT skirt_NN ..._: no_DT thank_VBP you_PRP aubawla618_NN :_: no_DT theres_NNS more_JJR to_TO it_PRP aubawla618_NN :_: theres_NNS alot_NN of_IN action_NN anthonysaysno_NN :_: gonna_NNS have_VBP to_TO pass_VB aubawla618_NN :_: im_VB seriouse_NN aubawla618_NN :_: ok_VB there_EX is_VBZ this_DT really_RB great_JJ part_NN aubawla618_NN :_: where_WRB he_PRP 's_VBZ nakied_JJ aubawla618_NN :_: \*_SYM naked_JJ anthonysaysno_NN :_: no_DT thank_VBP you_PRP mr._FW aubawla618_NN :_: and_CC it_PRP was_VBD just_RB ..._: ..._: ._. ._.
+heaven_NN !!!_CD aubawla618_NN :_: what_WP do_VBP u_VB know_VB ?_.
+aubawla618_NN :_: nvm_NN aubawla618_NN :_: so_RB ..._: ._. ._.
+aubawla618_NN :_: how_WRB was_VBD ur_JJ day_NN ?_.
+anthonysaysno_NN :_: aiight_VB aubawla618_NN :_: well_RB thats_VBZ good_JJ aubawla618_NN :_: so_RB ..._: ._.
+will_MD u_VB go_VB out_RP w_RB \/_VBP me_PRP ?_.
+anthonysaysno_NN :_: shut_VBN up_RP aubawla618_CD :_: u_VB dont_JJ love_NN me_PRP ?_.
+anthonysaysno_NN :_: u_VB told_VBD me_PRP u_VB were_VBD gonna_NNS do_VB this_DT to_TO chase_VB yesterday_NN aubawla618_NN :_: ya_PRP thats_VBZ cuz_NN i_FW wanted_VBD to_TO serve_VB him_PRP aubawla618_VB :_: i_FW want_VBP to_TO serve_VB u_JJ aubawla618_NN :_: ;_: -_: -RRB-_-RRB- anthonysaysno_NN :_: just_RB admit_VBP that_IN you_PRP lost_VBD aubawla618_CD :_: no_DT aubawla618_NN :_: i_FW cant_FW aubawla618_NN :_: i_FW will_MD not_RB give_VB up_RP on_IN u_NN aubawla618_NN :_: i_FW know_VBP u_JJ love_NN me_PRP aubawla618_NN :_: just_RB admit_VBP it_PRP aubawla618_JJ :_: u_VB want_VB my_PRP$ bod_NN anthonysaysno_NN :_: shut_VB the_DT hell_NN up_IN aubawla618_CD :_: i_FW wont_FW !!!!!_FW anthonysaysno_NN :_: lol_VB aubawla618_NN :_: i_FW will_MD haunt_VB u_NN like_IN the_DT scientist_NN aubawla618_NN :_: -LRB-_-LRB- aint_NN that_IN a_DT good_JJ metaphor_NN -RRB-_-RRB- anthonysaysno_NN :_: w\/e_VB aubawla618_NN :_: dont_JJ w\/e_JJ some1_NN who_WP loves_VBZ u_NN with_IN all_DT there_EX heart_NN aubawla618_NN :_: i_FW will_MD give_VB up_RP my_PRP$ friendship_NN with_IN brittney_NN for_IN u_JJ anthonysaysno_NN :_: good_JJ lord_NN stop_VB it_PRP aubawla618_JJ :_: lol_NN anthonysaysno_NN :_: i_FW iwn_FW anthonysaysno_NN :_: win_VB \*_SYM aubawla618_NN :_: ok_VB fine_JJ aubawla618_NN :_: ill_JJ get_VB u_VB next_JJ time_NN anthonysaysno_NN :_: oooh_VB i_FW 'm_VBP good_JJ aubawla618_NN :_: u_VB will_MD make_VB love_NN to_TO me_PRP even_RB if_IN it_PRP kills_VBZ u_JJ aubawla618_NN :_: im_VB asking_VBG out_IN amelia_NN anthonysaysno_NN :_: lol_NN anthonysaysno_NN :_: girl-to-girl_NN is_VBZ n't_RB the_DT same_JJ as_IN boy-to-boy_JJ though_IN aubawla618_NN :_: yes_UH it_PRP is_VBZ aubawla618_JJ :_: there_EX both_CC the_DT same_JJ sex_NN anthonysaysno_NN :_: it_PRP 's_VBZ different_JJ though_IN aubawla618_NN :_: aubawla618_NN :_: and_CC is_VBZ boy_NN to_TO boy_NN different_JJ then_RB girl_NN to_TO girl_NN ?_.
+mypinkdeisel2_NNS :_: no_DT aubawla618_NN :_: ha_NN !_.
+aubawla618_NN :_: thats_NNS right_JJ aubawla618_NN :_: dont_NN got_VBD anything_NN to_TO say_VB anthonysaysno_NN :_: huh_VB ?_.
+i_FW was_VBD n't_RB paying_VBG attention_NN aubawla618_NN :_: what_WP eva_FW !!_FW anthonysaysno_NN :_: what_WP now_RB ?_.
+i_FW 'm_VBP sorry_JJ i_FW was_VBD zoned_VBN out_RP aubawla618_NN :_: shut_VBN up_RP !_.
+anthonysaysno_NN :_: sorry_JJ i_FW was_VBD kinda_NN half_NN concious_JJ there_RB ._.
+could_MD ya_PRP say_VB that_DT again_RB ?_.
+aubawla618_NN :_: f_LS u_FW anthonysaysno_NN :_: hey_VB what_WP are_VBP u_JJ so_IN mad_JJ about_IN ?_.
+aubawla618_NN :_: OMG_NNP THAT_WDT SO_RB FUNNY_NNP I_PRP WISH_VBP I_PRP HAD_VBD THOUGHT_NNPS OF_IN THAT_WDT anthonysaysno_NN :_: sorry_JJ i_FW did_VBD n't_RB catch_VB that_DT anthonysaysno_NN :_: say_VB again_RB ?_.
+aubawla618_JJ signed_VBN off_RP at_IN 5:40:13_CD PM_NNP ._.
+-LRB-_-LRB- AKA_NNP Blocked_VBN Me_PRP -RRB-_-RRB- Back_RB ..._: ..._: finally_RB ._.
+I_PRP have_VBP been_VBN to_TO the_DT valley_NN and_CC now_RB I_PRP 'm_VBP back_RB !_.
+Two_CD weeks_NNS without_IN Mr._NNP Interweb_NNP does_VBZ n't_RB sound_VB too_RB bad_JJ right_NN ?_.
+WRONG_JJ !!!_CD C_NNP 's_POS on_IN the_DT report_NN card_NN was_VBD enough_JJ to_TO send_VB the_DT parents_NNS into_IN doling_VBG out_RP computer_NN restriction_NN ._.
+Ouch_NNP ._.
+But_CC now_RB I_PRP 'm_VBP back_RB ._.
+I_PRP 'm_VBP happy_JJ ._.
+I_PRP can_MD now_RB breathe_VB ._.
+WEEEEEEEEEEEEEEEEE_NNP !!!!!_NNP Before_IN today_NN ,_, i_FW could_MD never_RB tell_VB u_NN who_WP i_FW just_RB cant_JJ stand_NN at_IN certain_JJ moments_NNS ._.
+with_IN normal_JJ ppl_NN i_FW could_MD get_VB mad_JJ at_IN them_PRP for_IN maybe_RB 5_CD minutes_NNS ,_, with_IN shmitty_JJ it_PRP just_RB seems_VBZ to_TO drag_VB out_RP !_.
+he_PRP is_VBZ the_DT only_JJ person_NN i_FW can_MD truly_RB say_VB i_FW love\/hate_FW ._.
+but_CC at_IN this_DT moment_NN i_FW hate_NN !!_NN i_FW hate_NN him_PRP more_JJR than_IN i_FW hate_NN hitler_NN ,_, ok_NN maybe_RB not_RB that_IN much_JJ but_CC pretty_RB bad_JJ !_.
+he_PRP 's_VBZ just_RB upset_JJ cuz_NN he_PRP 's_VBZ girl_NN dumped_VBD him_PRP !_.
+so_RB shmitty_JJ all_DT i_FW have_VBP to_TO say_VB is_VBZ ``_`` burn_VBP in_IN hell_NN bastard_NN !_. ''_''
+felicia_NN out_RP ._.
+wtf_NN !!_RB just_RB to_TO let_VB u_JJ ppl_NN know_VBP i_FW did_VBD not_RB say_VB all_PDT that_DT stuff_NN below_IN shmitty_JJ just_RB made_VBN most_JJS of_IN that_DT crap_NN up_RP ._.
+so_RB i_FW just_RB had_VBD to_TO get_VB some_DT things_NNS straight_RB ._.
+untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_IN Man_NN I_PRP 'm_VBP like_IN 6_CD years_NNS old_JJ ._.
+bennyatemycheese_NN :_: mcklevlin_VB what_WP were_VBD you_PRP eating_VBG under_IN there_EX ?_.
+k3vin12_NN :_: huh_NN bennyatemycheese_NN :_: what_WP were_VBD you_PRP eating_VBG under_IN there_EX ?_.
+k3vin12_NN :_: under_IN where_WRB bennyatemycheese_NN :_: haha_NN you_PRP were_VBD eating_VBG underwear_NN !_.
+bennyatemycheese_NN :_: lol_VB k3vin12_NN :_: you_PRP are_VBP retarded_JJ bennyatemycheese_NN :_: I_PRP know_VBP u_NN are_VBP but_CC what_WP am_VBP I_PRP ?_.
+k3vin12_NN :_: shut_VBN up_RP bennyatemycheese_NN :_: OOH_NNP !_.
+YOU_PRP SAID_VBD A_DT BAD_NNP WORD_NN !_.
+A-WOO-WOO_NN !_.
+k3vin12_JJ signed_VBN off_RP at_IN 1:49:35_CD PM_NNP dangit_NN !!_NN yeah_NN i_FW was_VBD just_RB told_VBN to_TO write_VB another_DT entry_NN so_RB im_JJ doing_VBG it_PRP but_CC i_FW dont_FW know_VBP what_WP to_TO write_VB so_RB im_VB only_RB going_VBG to_TO write_VB this_DT ._.
+muahahahha_NN ._.
+mcklevlin_NN out_IN gone_VBN for_IN a_DT while_NN srry_NN iv_NN been_VBN gone_VBN for_IN a_DT while_NN cause_NN i_FW had_VBD to_TO move_VB to_TO my_PRP$ new_JJ hizzouse_NN ._.
+woohoo_NN i_FW should_MD have_VB a_DT hosue_JJ party_NN but_CC yeah_JJ im_NN just_RB saying_VBG that_IN im_NN in_IN my_PRP$ new_JJ hizzous_JJ so_RB yall_JJ dont_JJ worry_NN haha_NN yeah_NN like_IN yall_NN would_MD anyways_VB Member_NNP Since_IN '82_CD Hey_NNP Everyone_NN !_.
+Sorry_JJ i_FW havent_FW written_VBN in_IN awhile_RB but_CC i_FW just_RB had_VBD to_TO tell_VB some1_JJ bout_NN today_NN ._.
+so_RB i_FW was_VBD goin_NN to_TO the_DT library_NN gettin_NN my_PRP$ usual_JJ Madeleine_NNP L'Engle_NNP book_NN ,_, this_DT time_NN i_FW got_VBD ``_`` A_DT Swiftly_RB Tilting_JJ Planet_NN ''_'' and_CC its_PRP$ kinda_NN weird_JJ how_WRB they_PRP just_RB skip_VBP into_IN the_DT future_JJ but_CC anywoo_NN !_.
+i_FW sat_VBD down_IN to_TO start_VB readin_NN when_WRB this_DT HOTT_NNP !!!!_CD guy_NN sat_VBD down_IN infront_NN of_IN me_PRP ._.
+i_FW mean_VB he_PRP looked_VBD like_IN bowwow_NN and_CC usher_NN put_VBN together_RB !_.
+I_PRP think_VBP im_NN in_IN love_NN !_.
+it_PRP 's_VBZ worse_JJR than_IN how_WRB i_FW feel_VB with_IN tarez_NN ,_, he_PRP was_VBD ..._: FUNE_NNP !!_NNP Well_NNP im_NN gonna_NN be_VB goin_VBN to_TO the_DT library_NN everyday_JJ now_RB to_TO meet_VB him_PRP again_RB ._.
+i_FW might_MD go_VB back_RB today_NN to_TO get_VB the_DT 3rd_JJ harry_NN potter_NN book_NN ._.
+Felicia_NNP out_RB ._.
+Ode_NNP to_TO deoderant_VB :_: You_PRP fought_VBD away_RB the_DT B.O._NNP when_WRB it_PRP was_VBD at_IN it_PRP 's_VBZ full_JJ strength_NN ;_: You_PRP protected_VBD me_PRP when_WRB I_PRP really_RB stank_VBP ;_: You_PRP made_VBD me_PRP smell_VB good_JJ when_WRB I_PRP was_VBD rank_NN ;_: So_CC to_TO you_PRP I_PRP give_VBP my_PRP$ thanks_NNS ._.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Good_NNP Lord_NNP this_DT makes_VBZ me_PRP depressed_VBD ._.
+What_WP was_VBD I_PRP thinking_VBG when_WRB I_PRP got_VBD dressed_VBN this_DT morning_NN ?_.
+Did_VBD n't_RB I_PRP sense_VBP some_DT thing_NN wrong_JJ ?_.
+How_WRB bad_JJ it_PRP looks_VBZ makes_VBZ me_PRP unhappy_JJ ._.
+Hmmph_NNP ._.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP god_NN felicia_NN can_MD make_VB a_DT fun_NN convo_NN aubawla618_NN :_: sorry_JJ bout_NN that_WDT k3vin12_VBZ :_: ok_VB k3vin12_NN :_: hold_VB on_RP ill_JJ brb_NN k3vin12_NN :_: ok_VB im_NN not_RB back_RB yet_RB aubawla618_JJ :_: what_WP ?_.
+k3vin12_NN :_: im_VB not_RB back_RB aubawla618_CD :_: ohh_VB aubawla618_NN :_: gotcha_NN k3vin12_NN :_: k_NN k3vin12_NNS :_: soooo_JJ k3vin12_NN :_: what_WP do_VBP u_VB wanna_NNS talk_VB about_IN while_IN kevin_NN is_VBZ not_RB back_RB aubawla618_CD :_: if_IN kevin_NN 's_POS not_RB back_RB then_RB who_WP is_VBZ this_DT ?_.
+k3vin12_NN :_: his_PRP$ sister_NN aubawla618_NN :_: which_WDT one_CD ?_.
+k3vin12_NN :_: which_WDT one_CD do_VBP you_PRP think_VB k3vin12_NN :_: does_VBZ it_PRP seem_VB that_IN the_DT little_JJ one_NN can_MD type_NN k3vin12_NN :_: or_CC even_RB type_NN at_IN a_DT good_JJ speed_NN aubawla618_NN :_: good_JJ point_NN k3vin12_NN :_: i_FW know_VB its_PRP$ a_DT good_JJ point_NN aubawla618_NN :_: so_RB if_IN this_DT is_VBZ ,_, kevin_NN 's_POS ``_`` older_JJR sister_NN ''_'' who_WP is_VBZ the_DT one_CD person_NN she_PRP hates_VBZ ?_.
+aubawla618_NN :_: that_DT is_VBZ friends_NNS w_VB \/_VB him_PRP k3vin12_VB :_: the_DT one_CD person_NN that_WDT i_FW hate_NN ?_.
+aubawla618_NN :_: yes_UH k3vin12_CD :_: i_FW think_VB her_PRP$ name_NN is_VBZ amelia_JJ aubawla618_NN :_: ya_PRP huh_VBP ,_, hey_JJ kevin_NN !!_NN ur_NN older_JJR sister_NN wouldnt_NN know_VB her_PRP$ name_NN k3vin12_NN :_: yes_UH my_PRP$ older_JJR sister_NN does_VBZ know_VB her_PRP$ name_NN k3vin12_NN :_: lol_VB k3vin12_NN :_: but_CC yeah_VBP this_DT is_VBZ kevin_NN k3vin12_NN :_: but_CC my_PRP$ sis_NN does_VBZ know_VB her_PRP$ name_NN aubawla618_NN :_: well_RB y_RB would_MD she_PRP remember_VB it_PRP ?_.
+aubawla618_NN :_: she_PRP wouldnt_VBD care_NN that_IN much_JJ k3vin12_NN :_: no_DT but_CC she_PRP remembers_VBZ thing_NN k3vin12_NN :_: she_PRP knows_VBZ aubawla618_NN :_: and_CC plus_CC ive_JJ talked_VBN to_TO ur_VB sister_NN and_CC she_PRP doesnt_VBD repeat_NN questions_NNS like_IN u_NN do_VBP aubawla618_NN :_: so_RB ..._: ._. ._.
+sup_NN ?_.
+aubawla618_NN :_: HA_NNP BEAT_NN YA_NNP k3vin12_CD :_: lol_NN k3vin12_NNS :_: so_RB whats_VBZ up_RP k3vin12_CD :_: haha_NN aubawla618_NN :_: well_RB im_JJ reading_VBG some_DT of_IN shmitty_NN 's_POS old_JJ blogs_NNS k3vin12_NN :_: awsome_JJ k3vin12_NN :_: lol_VB aubawla618_NN :_: like_IN the_DT day_NN he_PRP got_VBD hit_VBN in_IN the_DT head_NN w_VB \/_RB megan_NN 's_POS locker_NN aubawla618_NN :_: that_DT was_VBD funny_JJ k3vin12_NN :_: yeah_VB what_WP was_VBD hilarious_JJ k3vin12_NN :_: OMG_NNP THATS_NNP SO_RB FRIKING_NNP HILARIOUS_NNP I_PRP CANT_VBP BELIEVE_VB I_PRP DIDNT_VBP THINK_VB OF_IN THAT_WDT ONE_CD aubawla618_NN :_: lol_VB k3vin12_NN :_: lol_VB k3vin12_NN :_: what_WP r_NN u_NN laughing_VBG at_IN aubawla618_NN :_: at_IN yo_NN face_NN !!!!_CD aubawla618_NN :_: WHAT_WDT NOW_RB k3vin12_VBZ :_: how_WRB can_MD u_VB see_VB it_PRP aubawla618_JJ :_: i_FW saw_VBD it_PRP in_IN my_PRP$ head_NN k3vin12_NN :_: so_IN it_PRP was_VBD ur_JJ face_NN ?_.
+k3vin12_NN :_: what_WP aubawla618_NN :_: idk_NN !_.
+stop_VB asking_VBG questions_NNS k3vin12_NNS :_: y_VB ?_.
+aubawla618_NN :_: shut_VBN up_RP k3vin12_CD :_: what_WP if_IN i_FW dont_FW want_VBP to_TO huh_VB ?_.
+aubawla618_NN :_: then_RB ill_JJ mess_NN u_VB up_RP !!!!_CD k3vin12_NNS :_: oh_UH really_RB u_VB will_MD ?_.
+aubawla618_NN :_: yes_UH i_FW will_MD k3vin12_VB :_: are_VBP u_JJ sure_JJ ?_.
+aubawla618_NN :_: oh_UH u_FW member_NN when_WRB shmitty_JJ kept_VBD usin_NN z_SYM 's_POS instead_RB of_IN s_PRP 's_VBZ that_DT was_VBD so_RB annoying_JJ and_CC yes_UH im_FW sure_JJ k3vin12_NN :_: r_NN u_NN not_RB positive_JJ that_IN ur_NN positive_JJ that_IN u_JJ arnt_NN not_RB sure_JJ k3vin12_NN :_: ?_.
+aubawla618_NN :_: i_FW am_VBP positive_JJ aubawla618_NN :_: -LRB-_-LRB- in_IN having_VBG aids_NNS !!_VBN -RRB-_-RRB- aubawla618_NN :_: ok_VB ya_PRP im_VB positive_JJ k3vin12_NN :_: r_NN u_NN sure_JJ ?_.
+aubawla618_NN :_: more_JJR than_IN sure_JJ !_.
+k3vin12_NN :_: are_VBP u_JJ sure_JJ that_IN ur_NN more_RBR than_IN sure_JJ ?_.
+aubawla618_NN :_: im_VB so_RB sure_JJ ,_, they_PRP call_VBP me_PRP posi_FW ._.
+k3vin12_NN :_: did_VBD that_IN even_RB make_VB sence_NN ?_.
+aubawla618_NN :_: no_DT but_CC it_PRP sounded_VBD cool_JJ k3vin12_NN :_: it_PRP did_VBD ?_.
+aubawla618_NN :_: yes_UH ,_, i_FW think_VB aubawla618_NN :_: not_RB really_RB aubawla618_JJ :_: no_DT it_PRP didnt_JJ k3vin12_NN :_: oh_UH so_RB now_RB it_PRP didnt_VB ?_.
+aubawla618_NN :_: idk_NN ,_, do_VBP u_VB think_VB it_PRP didnt_VB ?_.
+k3vin12_NN :_: i_FW think_VB ?_.
+aubawla618_NN :_: im_VB pretty_RB sure_JJ u_JJ think_NN ,_, but_CC it_PRP would_MD make_VB alot_NN of_IN sense_NN aubawla618_NN :_: what_WP is_VBZ sense_NN anyways_NNS ?_.
+k3vin12_NN :_: it_PRP would_MD ?_.
+aubawla618_NN :_: not_RB really_RB but_CC if_IN graph_NN it_PRP out_IN it_PRP would_MD k3vin12_VB :_: really_RB ?_.
+aubawla618_NN :_: what_WP ?_.
+k3vin12_NN :_: huh_VB ?_.
+aubawla618_NN :_: loserssayshuh_NN ?_.
+k3vin12_NN :_: why_WRB would_MD i_FW want_VBP to_TO do_VB that_DT ?_.
+aubawla618_NN :_: wdf_VB ?_.
+k3vin12_NN :_: wha_VB ?_.
+aubawla618_NN :_: wat_NN wida_NN wat_NN wat_NN ?_.
+k3vin12_NN :_: cracka_NNS say_VBP what_WP ?_.
+aubawla618_NN :_: WHAT_WDT ?_.
+k3vin12_NN :_: haha_VB ?_.
+aubawla618_NN :_: lol_VB ?_.
+k3vin12_NN :_: wh-wh-wh-wh-what_NN ?_.
+aubawla618_NN :_: do_VB u_VB got_VBD spirit_NN ?_.
+k3vin12_NN :_: idk_VB do_VB i_FW ?_.
+aubawla618_NN :_: i_FW dont_FW know_VBP shouldnt_JJ u_NN know_VB ?_.
+if_IN yall_NN cant_NN read_VBD german_NN then_RB here_RB is_VBZ what_WP he_PRP wrote_VBD ,_, The_DT water_NN runs_VBZ deeply_RB this_DT is_VBZ only_RB a_DT coincidental_JJ thing_NN to_TO place_VB I_PRP thought_VBD that_IN it_PRP would_MD be_VB prettily_RB lol_NN ._.
+well_RB I_PRP doubts_VBZ cools_VBZ down_RP that_IN you_PRP become_VBP merry_NN this_DT however_RB it_PRP s_VBZ to_TO read_VB to_TO be_VB able_JJ ,_, because_IN I_PRP dont_VBP knows_VBZ ._.
+Stop_VB my_PRP$ hard_JJ questions_NNS untill_VBP next_JJ time-out_JJ mcklevlin_NN out_IN placing_VBG Mcklevlin_NNP ,_, please_VB get_VB help_VB ._.
+Felicia_NNP out_RB ._.
+Das_NNP Wasser_NNP läuft_NN tief_NN Dies_VBZ ist_NN nur_NN ein_NN zufälliges_VBZ Ding_NNP ,_, ich_NN zu_NN stellen_NN ,_, hat_NN gedacht_NN ,_, daß_NN es_VBZ wäre_JJ hübsch_NN ._.
+lol_NN ._.
+gut_NN ich_NN zweifle_NN abkühlt_NN ,_, daß_NN Sie_NNP dieses_VBZ aber_NN es_VBZ s_PRP lustig_NN werden_JJ lesen_NN können_NN ,_, weil_NN ich_NN dont_NN kennt_NN ._.
+Halt_NN meine_NN harten_NN Fragen_NNP ._.
+untill_JJ nächste_NN Auszeit_NNP mcklevlin_NN aus_NN stellend_NN today_NN sucked_VBD !!!!_CD god_NN today_NN was_VBD a_DT really_RB bad_JJ friking_VBG day_NN nothing_NN is_VBZ friking_VBG working_VBG and_CC everything_NN is_VBZ just_RB so_RB messed_VBN up_RP god_NN i_FW just_RB wish_VB i_FW could_MD i_FW dont_FW know_VBP do_VBP somthing_VBG to_TO it_PRP ._.
+jesus_NN i_FW hate_NN days_NNS like_IN these_DT ._.
+i_FW have_VBP so_RB many_JJ of_IN them_PRP i_FW dont_FW know_VB y_VB its_PRP$ like_IN everything_NN hates_VBZ me_PRP ._.
+mcklevlin_NN out_IN pretty_RB monkey_NN god_NN that_WDT is_VBZ probally_RB the_DT most_RBS prettyerest_JJ monkey_NN iv_NN ever_RB seen_VBN man_NN i_FW wish_NN i_FW had_VBD one_CD like_IN that_DT but_CC no_DT im_NN stuck_VBD with_IN my_PRP$ lil_NN sister_NN ._.
+dang_JJ shmitty_JJ im_NN jelous_NN of_IN u_NN now_RB haha_NN ._.
+well_RB untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_RP ._.
+Look_VB !_.
+It_PRP 's_VBZ a_DT monkey_NN !_.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Nuh_NNP uh_UH ._.
+I_PRP am_VBP not_RB Felicia_NNP 's_POS twin_NN ._.
+If_IN I_PRP was_VBD ,_, I_PRP 'd_MD walk_VB straight_RB into_IN oncoming_VBG traffic_NN ._.
+I_PRP hope_VBP we_PRP can_MD all_DT make_VB peace_NN and_CC stop_VB fighting_VBG ._.
+Fo_NNP sho_NN ._.
+Shmitty_NNP out_RB ._.
+sibling_VBG rivalry_NN yes_RB shmitty_JJ and_CC felicia_NN are_VBP siblings_NNS haha_NN and_CC they_PRP fight_VBP all_PDT the_DT time_NN so_RB dont_JJ worry_NN about_IN all_DT there_EX bickering_VBG and_CC complaining_VBG ._.
+and_CC yes_RB felicia_NN does_VBZ have_VB a_DT twin_NN and_CC her_PRP$ twin_NN is_VBZ shmitty_JJ ._.
+haha_NN otown_VBN baby_NN ._.
+mcklevlin_NN out_RB just_RB to_TO let_VB everyone_NN know_VB ,_, i_FW do_VBP not_RB have_VB a_DT twin_NN sister_NN !_.
+there_RB for_IN he\/she_JJ doesnt_JJ look_NN like_IN me_PRP !_.
+sadly_RB that_DT is_VBZ shmitty_NN 's_POS dad_NN ,_, but_CC he_PRP did_VBD look_VB better_JJR last_JJ night_NN !_.
+sorry_JJ for_IN the_DT mistake_NN ._.
+peace_NN up_RB ,_, atown_VBN down_IN I_PRP 'd_MD like_VB to_TO apologize_VB for_IN the_DT pic_NN below_IN ._.
+That_DT 's_VBZ not_RB Felicia_NNP ._.
+It_PRP 's_VBZ her_PRP$ twin_NN sister_NN ._.
+Thank_VB you_PRP ._.
+Meet_NNP Felicia_NNP ._.
+blogging_VBG rocks_NNS !!_VBP woohoo_NN im_NN blogging_VBG and_CC im_VB getting_VBG better_JJR at_IN it_PRP ._.
+yes_RB we_PRP now_RB have_VBP a_DT new_JJ member_NN of_IN the_DT blog_JJ side_NN ._.
+and_CC her_PRP$ name_NN is_VBZ Felicia_NNP Carpe_NNP Retundre_NNP III_NNP muahhahaha_NN ._.
+we_PRP are_VBP looking_VBG for_IN more_JJR recruits_NNS i_FW think_VB so_RB if_IN u_NN think_VBP ur_NN up_IN to_TO it_PRP talk_VB to_TO the_DT man_NN mcslethbert_NN ._.
+untill_JJ next_JJ time_NN ._.
+mcklevlin_VBG out_RP ._.
+HOWDY_NNP PPLS_NNP !!_VBD All_DT i_FW really_RB have_VBP to_TO say_VB is_VBZ ,_, dont_JJ listen_VBP to_TO Shmitty_NNP if_IN he_PRP says_VBZ dont_JJ see_VBP Troy_NNP !_.
+If_IN you_PRP 're_VBP a_DT girl_NN ,_, diffently_RB go_VB and_CC see_VB it_PRP !_.
+if_IN you_PRP 're_VBP a_DT guy_NN well_RB still_RB go_VB and_CC see_VB it_PRP 'cause_VB it_PRP does_VBZ have_VB action_NN !_.
+And_CC plus_CC Brad_NNP Pitt_NNP is_VBZ hott_NN !_.
+So_RB go_VB see_VB it_PRP right_RB now_RB !_.
+Felicia_NNP out_RB ._.
+Meet_NNP McKlevlin_NNP hobos_NNS rule_NN !!!_RB this_DT is_VBZ summer_NN is_VBZ gonna_NN be_VB awsome_JJ me_PRP and_CC mcslethbert_NN are_VBP gonna_NNS do_VBP so_RB much_JJ haha_NN well_RB i_FW think_VB so_RB ._.
+were_VBD gonna_NNS go_VB to_TO the_DT movies_NNS and_CC then_RB we_PRP will_MD go_VB to_TO THE_DT GAY_NNP BAR_NNP !!_VBP so_RB come_VBN with_IN us_PRP ._.
+lol_NN mcklevlin_NN out_RB ._.
+Let_VB your_PRP$ voice_NN be_VB heard_VBN ._.
+By_IN the_DT way_NN ,_, peeps_NNS ,_, feel_VBP free_JJ to_TO comment_VB on_IN any_DT of_IN the_DT blog_NN postings_NNS by_IN clicking_VBG on_IN the_DT time_NN posted_VBD ._.
+Example_NN :_: On_IN this_DT one_CD ,_, you_PRP would_MD click_VB 12:43_CD PM_NNP ._.
+I_PRP knew_VBD I_PRP was_VBD n't_RB just_RB entertaining_JJ myself_PRP ._.
+Finally_RB all_DT my_PRP$ hard_JJ blogging_NN has_VBZ paid_VBN off_RP ._.
+I_PRP got_VBD a_DT G-Mail_NNP Account_NNP !_.
+Peeps_NNS ,_, that_DT 's_VBZ a_DT gigabyte_NN of_IN mail_NN storage_NN ._.
+Way_NN more_JJR than_IN any_DT other_JJ mail_NN client_NN you_PRP 'll_MD find_VB out_RP there_RB ._.
+So_IN the_DT moral_JJ of_IN this_DT story_NN is_VBZ :_: Blog_NNP hard_RB ,_, and_CC you_PRP will_MD be_VB rewarded_VBN ._.
+Oh_UH yeah_NN ,_, and_CC my_PRP$ partner_NN McKlevlin_NNP did_VBD n't_RB get_VB it_PRP ._.
+Just_RB me_PRP ._.
+HAHA_NNP !_.
+Shmitty_NNP out_IN !_.
+my_PRP$ computer_NN sucks_VBZ man_NN i_FW sure_JJ wish_NN i_FW could_MD do_VB picutres_NNS cause_VB i_FW got_VBD some_DT i_FW want_VBP to_TO put_VB in_RP here_RB but_CC dang_VBD i_FW dont_FW ._.
+but_CC yeah_VBP me_PRP and_CC seth_NN are_VBP gonna_NN gets_VBZ pics_NNS of_IN us_PRP so_IN we_PRP can_MD put_VB them_PRP in_IN hur_NN ._.
+yeah_JJ today_NN i_FW get_VB to_TO go_VB to_TO THE_DT GAY_NNP BAR_NNP ._.
+woohoo_NN ._.
+mcklevlin_VBG out_RP ._.
+early_RB birdy_JJ tweet_NN tweet_NN wow_NN yeah_VBP its_PRP$ to_TO friking_VBG early_RB in_IN the_DT morning_NN ._.
+y_IN the_DT hell_NN did_VBD i_FW get_VB up_RB and_CC start_VB doing_VBG this_DT ._.
+and_CC right_RB now_RB gloria_NN is_VBZ scaring_VBG me_PRP kinda_NN and_CC i_FW have_VBP no_DT clue_NN wat_NN shes_VBZ saying_VBG because_IN i_FW can_MD barly_RB think_VB right_RB now_RB ._.
+mckleevlin_NN out_IN -LRB-_-LRB- haha_NN i_FW got_VBD that_IN down_RB now_RB -RRB-_-RRB- Yeah_UH punk_NN ,_, I_PRP be_VB from_IN da_NN skreets_NNS of_IN Delawurr_NNP ._.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNPS new_JJ guy_NN in_IN town_NN yo_NN yo_NN yo_NN this_DT is_VBZ mcklevlin_JJ yea_NN mcslethbert_NN let_VB me_PRP be_VB part_NN of_IN his_PRP$ blog_NN so_RB im_JJ gonna_NN write_VB some_DT stuff_NN and_CC i_FW have_VBP no_DT clue_NN what_WP to_TO write_VB ._.
+lol_NN woohoo_NN i_FW feel_VB so_RB speical_JJ ._.
+ummm_NN ._.
+well_RB im_VB gonna_NNS think_VB of_IN stuff_NN to_TO write_VB haha_NN im_NN supposed_VBN to_TO be_VB good_JJ at_IN writing_VBG about_IN absolutly_RB nothing_NN haha_NN if_IN i_FW signed_VBD ur_NN yearbook_NN then_RB u_VBD should_MD know_VB what_WP im_FW talking_VBG about_IN haha_NN -LRB-_-LRB- hayes_NNS -RRB-_-RRB- ._.
+lol_RB well_RB i_FW think_VB this_DT is_VBZ good_JJ enough_RB for_IN my_PRP$ first_JJ one_CD or_CC maybe_RB ill_JJ make_VBP it_PRP longer_RBR but_CC i_FW dont_FW know_VBP maybe_RB i_FW can_MD maybe_RB i_FW cant_FW ._.
+OMG_NNP THATS_NNP SO_RB FRIKING_NNP HILARIOUS_NNP ._.
+I_PRP CANT_VBP BELIEVE_VB I_PRP DIDNT_VBP THINK_VB OF_IN THAT_WDT ONE_CD ._.
+haha_NN yeah_NN inside_IN joke_NN from_IN PE_NNP just_RB in_IN case_NN u_NN were_VBD wondering_VBG ._.
+ha_RB well_RB yeah_JJ this_DT is_VBZ enough_RB for_IN now_RB ._.
+mcklevlin_VBG out_RP ._.
+-LRB-_-LRB- haha_NN that_WDT took_VBD like_IN 20_CD mins_NNS for_IN me_PRP and_CC shmitty_JJ to_TO think_VB of_IN that_DT how_WRB sad_JJ ._. -RRB-_-RRB-
+Yeah_UH ,_, and_CC this_DT was_VBD on_IN a_DT good_JJ day_NN ._.
+Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP maryland_NN !!!_CD woohoo_NN 2morrow_CD i_FW get_VB to_TO go_VB to_TO maryland_VB to_TO see_VB my_PRP$ daddy_NN and_CC then_RB im_VB going_VBG ot_NN vagas_NNS for_IN a_DT vacation_NN ._.
+it_PRP sucks_VBZ that_IN i_FW cant_FW gamble_NN but_CC it_PRP will_MD still_RB be_VB fun_NN ._.
+well_RB dont_JJ got_VBD anything_NN else_RB to_TO say_VB ._.
+untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_RP ._.
+woohoo_NN iv_NN started_VBD my_PRP$ own_JJ yeah_NN i_FW strated_FW my_PRP$ own_JJ blog_NN and_CC if_IN u_JJ want_VBP to_TO know_VB what_WP it_PRP is_VBZ its_PRP$ http:\/\/theblackestwhiteperson.blogspot.com\/_JJ yeah_NN so_RB now_RB yall_NN can_MD read_VB mine_NN to_TO ._.
+shut_VBN up_RP i_FW know_VBP i_FW copied_VBN seth_NN haha_NN jk_NN of_IN course_NN i_FW didnt_FW \*_SYM looks_VBZ side_NN to_TO side_VB \*_SYM well_RB ,_, untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_IN wassabe_NN !!!_CD yeah_NN no_DT one_NN has_VBZ posted_VBN anything_NN so_RB im_RB just_RB gonna_VB post_NN before_IN i_FW get_VB in_IN trouble_NN ._.
+yeah_JJ i_FW know_VB its_PRP$ sad_JJ ._.
+but_CC yeah_JJ theres_NNS been_VBN a_DT controvery_NN about_IN women_NNS and_CC honkers_NNS how_WRB they_PRP complain_VBP about_IN ppl_NN looking_VBG at_IN them_PRP ._.
+haha_NN well_RB its_PRP$ true_JJ but_CC its_PRP$ life_NN so_IN i_FW think_VBP they_PRP will_MD get_VB over_IN it_PRP ._.
+untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_IN ``_`` BEEP_NN !_. ''_''
+\*_SYM Person_NN 's_POS name_NN has_VBZ been_VBN changed_VBN to_TO ensure_VB their_PRP$ safety_NN ._.
+\*_SYM Cindy_NNP :_: Oh_UH hi_FW ._.
+Nice_JJ to_TO see_VB -_: Me_PRP :_: Beep_NN !_.
+Cindy_NNP :_: Okay_UH ,_, what_WDT have_VBP you_PRP been_VBN -_: Me_PRP :_: Beep_NN !_.
+Cindy_NNP :_: Would_MD you_PRP stop_VB -_: Me_PRP :_: BEEP_NN !_.
+Cindy_NNP :_: How_WRB was_VBD your_PRP$ -_: Me_PRP :_: BEEP_NN !_.
+Cindy_NNP :_: Fine_NNP ,_, I_PRP 'm_VBP leaving_VBG if_IN you_PRP do_VBP n't_RB -_: Me_PRP :_: BEEP_NNP BEEP_NNP BEEP_NNP BEEP_NNP BEEP_NNP BE_VB -_: Cindy_NNP :_: ARGGH_NNP !_.
+\*_SYM Runs_VBZ off_RP \*_SYM And_CC that_DT is_VBZ why_WRB I_PRP do_VBP n't_RB have_VB any_DT friends_NNS ._.
+HAHA_NNP !_.
+I_PRP did_VBD n't_RB brush_VB my_PRP$ teeth_NNS today_NN !_.
+It_PRP 's_VBZ true_JJ ._.
+I_PRP was_VBD in_IN a_DT hurry_NN this_DT morning_NN and_CC boo-yah_NN !_.
+no_DT one_NN told_VBD me_PRP to_TO so_RB hey_VB ,_, that_DT 's_VBZ almost_RB like_IN telling_VBG me_PRP not_RB to_TO ,_, right_JJ ?_.
+Yep_NNP ._.
+Got_VBD the_DT Franz_NNP Ferdinand_NNP CD_NNP yesterday_NN ._.
+It_PRP 's_VBZ really_RB awesome_JJ ._.
+By_IN the_DT way_NN ,_, I_PRP went_VBD to_TO AU_NNP Summer_NNP Band_NNP Camp_NNP last_JJ week_NN ._.
+It_PRP was_VBD pretty_RB cool_JJ ._.
+Me_PRP and_CC Michael_NNP made_VBD a_DT huge_JJ straw_NN out_IN of_IN 30_CD inter-connected_JJ straws_NNS ._.
+I_PRP would_MD 've_VB got_VBD a_DT picture_NN of_IN it_PRP ,_, but_CC I_PRP did_VBD n't_RB bring_VB my_PRP$ camera_NN ,_, -LRB-_-LRB- Mom_NN :_: ``_`` Do_VBP n't_RB bring_VB it_PRP ,_, it_PRP could_MD get_VB stolen_VBN ''_'' -RRB-_-RRB- and_CC the_DT huge_JJ straw_NN was_VBD hardly_RB portable_JJ ,_, so_IN we_PRP just_RB tore_VBD it_PRP apart_RB and_CC threw_VBD it_PRP away_RB ._.
+Pity_NN ..._: I_PRP 'm_VBP ba-ack_NN ._.
+Ok_NNP ,_, so_IN I_PRP went_VBD to_TO band_VB camp_NN for_IN like_IN the_DT last_JJ week_NN ._.
+That_DT 's_VBZ why_WRB i_FW have_VBP n't_RB been_VBN posting_VBG ._.
+I_PRP swear_VBP I_PRP 'll_MD start_VB back_RB again_RB ._.
+Just_RB not_RB right_RB now_RB ._.
+Why_WRB ?_.
+Because_IN I_PRP do_VBP n't_RB wanna_VB !_.
+I_PRP wanna_VBP be_VB a_DT dentist_NN !_.
+Hmmph_NNP ._.
+Haha_NNP ,_, you_PRP were_VBD eating_VBG underwear_NN !_.
+You_PRP know_VBP how_WRB the_DT joke_NN goes_VBZ :_: ``_`` Hey_NNP what_WDT were_VBD you_PRP eating_VBG under_IN there_EX ?_. ''_''
+``_`` Under_IN where_WRB ?_. ''_''
+``_`` Haha_NNP ,_, you_PRP were_VBD eating_VBG underwear_NN !_. ''_''
+We_PRP all_DT learned_VBD it_PRP when_WRB we_PRP were_VBD five_CD ._.
+But_CC I_PRP thought_VBD ,_, in_IN the_DT time_NN from_IN five_CD to_TO now_RB ,_, could_MD some_DT people_NNS have_VBP forgotten_VBN ?_.
+So_IN I_PRP decided_VBD to_TO test_VB it_PRP out_RP :_: Kelsie_NNP M_NNP :_: anthonysaysno_NN :_: hey_NN ,_, what_WDT were_VBD you_PRP eating_VBG under_IN there_EX ?_.
+ExtremlyMintz_NNP :_: under_IN there_EX ?_.
+ExtremlyMintz_NNP :_: whats_NNS that_WDT ExtremlyMintz_NNP :_: r_NN u_NN tryin_NN to_TO make_VB me_PRP say_VB panties_NNS ?_.
+anthonysaysno_NN :_: d'oh_NN !_.
+Drew_NNP :_: anthonysaysno_NN :_: what_WP were_VBD u_JJ eating_VBG under_IN there_EX ?_.
+wallmartsk8er311_NNS :_: wha_NN wallmartsk8er311_NNS :_: ?_.
+wallmartsk8er311_NNS :_: u_VB like_IN korn_NN ?_.
+anthonysaysno_NN :_: just_RB tell_VBP me_PRP what_WP u_NN were_VBD eating_VBG under_IN there_EX wallmartsk8er311_CD :_: doritos_NNS anthonysaysno_NN :_: d'oh_NN !_.
+Malcolm_NNP :_: anthonysaysno_NN :_: hey_NN ,_, what_WDT were_VBD u_JJ eating_VBG under_IN there_EX ?_.
+Skall128_NN :_: boxers_NNS anthonysaysno_NN :_: d'oh_NN !_.
+Skall128_NN :_: you_PRP =_SYM served_VBD Kelsey_NNP K_NNP :_: anthonysaysno_NN :_: just_RB tell_VBP me_PRP what_WP u_NN were_VBD eating_VBG under_IN there_EX Cheese4L8ter_NNP :_: ?!?!?!?!_CD seth_NN have_VBP u_NN completly_RB lost_VBD it_PRP anthonysaysno_NN :_: please_VB tell_VB me_PRP what_WP u_NN were_VBD eating_VBG under_IN there_EX Cheese4L8ter_NNP :_: ????????_CD anthonysaysno_NN :_: GOOD_NNP LORD_NNP !_.
+anthonysaysno_NN :_: yer_NN supposed_VBN to_TO say_VB :_: under_IN where_WRB ?_.
+anthonysaysno_NN :_: then_RB i_FW say_VBP :_: anthonysaysno_NN :_: haha_NN u_NN were_VBD eating_VBG underwear_NN anthonysaysno_NN :_: GOD_NNP !_.
+anthonysaysno_NN :_: get_VB with_IN the_DT program_NN !_.
+anthonysaysno_NN :_: AHHHHHH_NNP !_.
+Forrest_JJS :_: anthonysaysno_NN :_: hey_VB what_WP were_VBD u_JJ eating_VBG under_IN there_EX ?_.
+stumpycatcher99_NNS :_: who_WP is_VBZ this_DT ?_.
+anthonysaysno_NN :_: no_DT matter_NN anthonysaysno_NN :_: answer_VB the_DT question_NN stumpycatcher99_NN :_: i_FW was_VBD eating_VBG a_DT peanut_NN butter_NN and_CC jelly_RB sandwich_NN !!!!!!_CD anthonysaysno_NN :_: d'oh_NN !_.
+stumpycatcher99_NNS :_: yea_NN now_RB what_WP were_VBD you_PRP eating_VBG under_IN there_EX ?_.
+anthonysaysno_NN :_: feces_NNS stumpycatcher99_NNS :_: u_NN are_VBP a_DT wierd_JJ person_NN I_PRP was_VBD wrong_JJ ._.
+Obviously_RB everyone_NN 's_POS memory_NN is_VBZ just_RB fine_JJ ._.
+ME_NNP :_: Photo-portrait_NN of_IN a_DT Guy_NNP ._.
+Upside-down_JJ Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Eyebrow_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Compasionate_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Bottom_NNP Half_NN of_IN Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Confused_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Hat-and-straw_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Drinking_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Sad_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Close-up_NN Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Happy_JJ Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Jabba_NNP The_NNP Hut_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Angry_NNP Me_PRP Copyright_NN -LRB-_-LRB- c_NN -RRB-_-RRB- Red_NNP Cow_NNP Tent_NNP Enterprises_NNP Know_NNP what_WDT annoys_NNS me_PRP ?_.
+PEOPLE_NNP THAT_WDT CLAP_NNP WHEN_WRB THEY_NNP LAUGH_NN !_.
+GOD_NNP !_.
+I_PRP was_VBD at_IN the_DT movie_NN theater_NN seeing_VBG The_DT Terminal_NNP ,_, which_WDT was_VBD good_JJ except_IN for_IN this_DT lady_NN in_IN the_DT front_NN who_WP kept_VBD clapping_VBG when_WRB she_PRP laughed_VBD ._.
+The_DT half_NN of_IN the_DT dialogue_NN that_IN I_PRP could_MD hear_VB over_IN the_DT earthshaking_JJ clapfest_NN was_VBD good_JJ though_IN ._.
+Sheesh_NNP ._.
+Shmitty_NNP out_RB ._.
+Boredom_NN +_SYM Awesome_JJ CD_NNP =_SYM Jubilation_NNP I_PRP got_VBD a_DT new_JJ CD_NNP today_NN :_: Two_CD words_NNS :_: Freaking_VBG Awesome_JJ ._.
+Especially_RB on_IN Time_NNP is_VBZ Running_VBG Out_IN ,_, Sing_VBG for_IN Absolution_NNP ,_, and_CC Stokholm_NNP Syndrome_NNP ._.
+Probably_RB the_DT best_JJS album_NN I_PRP 've_VBP ever_RB bought_VBN ._.
+Vocals_NNS =_SYM Amazing_JJ ._.
+My_PRP$ new_JJ favorite_JJ band_NN ._.
+$_$ 14.03_CD well_RB spent_VBN ._.
+Shmitty_NNP out_RB ._.
+Kinda_NNP of_IN bored_VBN so_RB i_FW decided_VBD to_TO make_VB a_DT list_NN of_IN stuff_NN i_FW like_IN and_CC dislike_VB :_: WHY_WRB I_PRP LIKE_VBP USHER_NN !_.
+1_LS -RRB-_-RRB- he_PRP is_VBZ beyond_IN sexy_JJ ,_, it_PRP 's_VBZ just_RB every_DT part_NN of_IN him_PRP is_VBZ just_RB ..._: WO_NN !_.
+2_LS -RRB-_-RRB- he_PRP 's_VBZ a_DT gentlemen_NNS ,_, respects_VBZ women_NNS ,_, doesnt_JJ seem_VBP to_TO be_VB thinkin_JJ bout_NN their_PRP$ butts_NNS every_DT 5_CD seconds_NNS \*_SYM cough_NN shmitty_JJ \*_SYM 3_LS -RRB-_-RRB- he_PRP knows_VBZ how_WRB to_TO dress_VB !_.
+which_WDT also_RB goes_VBZ back_RB to_TO number_NN 1_CD but_CC lets_VBZ not_RB go_VB their_PRP$ !_.
+4_LS -RRB-_-RRB- he_PRP is_VBZ rich_JJ !_.
+see_VB how_WRB it_PRP 's_VBZ not_RB at_IN the_DT top_NN ,_, but_CC it_PRP 's_VBZ still_RB a_DT good_JJ reason_NN ._.
+WHY_WRB I_PRP CANT_VBP STAND_NNP SHMITTY_NNP SOMETIMES_RB !_.
+1_LS -RRB-_-RRB- he_PRP gets_VBZ so_RB annoyin_JJ ,_, it_PRP 's_VBZ ..._: annoying_VBG !_.
+i_FW gotta_FW find_VB more_JJR adjectives_NNS ._.
+2_LS -RRB-_-RRB- he_PRP is_VBZ very_RB vague_JJ about_IN stuff_NN sometimes_RB ,_, and_CC it_PRP drives_VBZ me_PRP crazy_JJ ._.
+y_RB cant_JJ guys_NNS just_RB get_VBP straight_JJ to_TO the_DT point_NN ._.
+3_LS -RRB-_-RRB- he_PRP makes_VBZ me_PRP laugh_NN when_WRB im_NN mad_JJ at_IN him_PRP !_.
+cant_JJ stand_NN that_IN either_CC !_.
+4_LS -RRB-_-RRB- he_PRP wants_VBZ useless_JJ things_NNS !_.
+like_IN a_DT guitar_NN ,_, like_IN he_PRP would_MD be_VB able_JJ to_TO play_VB it_PRP !_.
+he_PRP can_MD hardly_RB play_VB the_DT trumpet_NN and_CC he_PRP takes_VBZ lessons_NNS !_.
+jk_NN !_.
+he_PRP 's_VBZ really_RB good_JJ at_IN trumpet_NN ._.
+but_CC not_RB as_RB good_JJ as_IN matt_NN !_.
+WHY_WRB I_PRP CANT_VBP STAND_NNP MCKLEVLIN_NNP SOMETIMES_RB !_.
+\*_SYM basicly_RB it_PRP 's_VBZ everythin_NN for_IN shmitty_JJ cuz_NN there_EX kinda_FW like_IN one_CD person_NN except_IN there_RB 2_CD people_NNS ._.
+but_CC i_FW do_VBP have_VB reasons_NNS y_VBP i_FW like_IN them_PRP ._.
+1-4_CD -RRB-_-RRB- they_PRP talk_VBP to_TO me_PRP when_WRB im_NN bored_VBD !_.
+haha_NN jk_NN !_.
+cutey_NN out_IN !_.
+Stuff_NNP Dat_NNP I_PRP Want_VBD Money_NN ._.
+A_DT field_NN hockey_NN stick_NN ._.
+Superpowers_NNS ._.
+A_DT jump_NN rope_NN ..._: no_DT wait_NN ,_, the_DT ability_NN to_TO jump_VB rope_NN ..._: A_DT penguin_NN ._.
+MUAHAHAHAHA_NNP !!!!!_CD poor_JJ poor_JJ glo_NN she_PRP got_VBD all_DT mad_JJ cause_NN we_PRP r_SYM gonna_NNS replace_VB her_PRP ._.
+but_CC we_PRP dont_VBP know_VB who_WP to_TO replace_VB her_PRP$ with_IN ._.
+so_RB if_IN u_JJ want_VBP to_TO be_VB the_DT 3rd_JJ person_NN in_IN our_PRP$ beastly_RB 3_CD some_DT lol_NN then_RB let_VB us_PRP know_VB and_CC we_PRP will_MD talk_VB about_IN it_PRP well_RB untill_JJ next_JJ time_NN mcklevlin_NN out_IN Announcement_NN ._.
+Ms._NNP Felicia_NNP Carpe_NNP Retundre_NNP III_NNP has_VBZ been_VBN relieved_VBN of_IN her_PRP$ duties_NNS ,_, upon_IN review_NN of_IN her_PRP$ participation_NN ._.
+I_PRP have_VBP recently_RB discovered_VBN that_IN she_PRP has_VBZ done_VBN 12.7_CD %_NN of_IN the_DT posts_NNS ._.
+Not_RB only_RB that_IN ,_, most_JJS of_IN them_PRP were_VBD saying_VBG ugly_JJ things_NNS about_IN me_PRP ._.
+This_DT can_MD not_RB be_VB tolerated_VBN ._.
+As_IN such_JJ she_PRP will_MD not_RB be_VB participating_VBG at_IN this_DT blog_NN anymore_RB ._.
+Good_JJ riddance_NN ._.
+You_PRP werent_JJ sayin_NN all_PDT this_DT stuff_NN about_IN me_PRP last_JJ nite_NN when_WRB i_FW was_VBD makin_FW u_FW feel_VB all_DT ``_`` groovy_JJ ''_'' !_.
+so_RB whose_WP$ the_DT back_JJ stabber_NN now_RB !!!_CD \*_SYM cutey_NN out_IN \*_SYM THE_DT DUDE_NNP HAS_VBZ RETURNED_VBN ._.
+GROOVY_NNP !!!!!!_CD yeah_JJ im_NN posting_VBG cause_NN i_FW havnt_FW posted_VBN in_IN a_DT while_NN ,_, since_IN the_DT cuter_NN mole_NN as_IN dissed_VBN on_IN me_PRP ans_VBZ schmitty_JJ ,_, its_PRP$ my_PRP$ turn_NN ._.
+ok_IN she_PRP thinks_VBZ shes_VBZ all_DT sexy_JJ and_CC stuff_NN but_CC no_DT not_RB really_RB ._.
+im_FW prolly_FW gonna_FW get_VB beat_VB up_RP for_IN this_DT but_CC im_VBP bored_VBN ._.
+she_PRP thinks_VBZ shes_VBZ all_DT nice_JJ to_TO us_PRP but_CC shes_VBZ really_RB mean_JJ and_CC always_RB talks_NNS behind_IN ppls_NNS back_RB ._.
+ok_RB im_VB gonna_NNS stop_VB here_RB befor_JJ i_FW get_VB killed_VBN ._.
+mcklevlin_NN out_IN shmitty_NN !_.
+u_NN are_VBP a_DT pompous_JJ idiot_NN ,_, who_WP needs_VBZ to_TO go_VB fuck_NN a_DT cow_NN ,_, go_VB to_TO jail_NN ,_, get_VB bailed_VBN out_IN of_IN jail_NN ,_, raped_VBN by_IN mcklevlin_NN ,_, go_VB find_VB a_DT dictionary_JJ ,_, look_VB up_RP the_DT word_NN pompous_JJ ,_, call_VB me_PRP while_IN ur_NN sobbin_NN cuz_NN of_IN what_WP ur_NN boyfriend_NN did_VBD to_TO u_VB ,_, tell_VB me_PRP what_WP it_PRP means_VBZ ,_, and_CC then_RB go_VB find_VB urself_NN a_DT new_JJ hobby_NN besides_IN having_VBG sex_NN with_IN barn_NN animals_NNS !_.
+and_CC if_IN u_JJ havent_NN noticed_VBD !_.
+i_FW am_VBP NOT_RB in_IN a_DT good_JJ mood_NN !_.
+\*_SYM cutey_NN out_IN \*_SYM p.s._FW pompous_FW -LRB-_-LRB- adj_NN ._. -RRB-_-RRB-
+-_: Full_NN of_IN high-sounding_JJ phrases_NNS ;_: bombastic_JJ \*_SYM just_RB incase_VB u_JJ wanted_VBD to_TO know_VB Quote_NNP Of_IN The_DT Week_NN :_: aubawla618_NNS :_: so_RB what_WP have_VBP u_RB been_VBN doing_VBG ?_.
+kennythesoupking_VBG :_: eating_VBG lunch-izzle_JJ aubawla618_NN :_: and_CC what_WP did_VBD u_NN have_VBP for_IN lunch-izzle_JJ kennythesoupking_NN :_: blt_NN 's_POS aubawla618_NN :_: what_WP is_VBZ that_DT again_RB \/_JJ aubawla618_NN :_: \*_SYM ?_.
+kennythesoupking_VBG :_: Bacon_NNP ,_, Lettuce_NNP ,_, and_CC Tomato_NNP sandwich_NN aubawla618_NN :_: ya_PRP aubawla618_NN :_: i_FW knew_VBD that_IN kennythesoupking_VBG :_: aubawla618_NNS :_: so_RB what_WP have_VBP u_RB been_VBN doing_VBG ?_.
+kennythesoupking_VBG :_: eating_VBG lunch-izzle_JJ aubawla618_NN :_: and_CC what_WP did_VBD u_NN have_VBP for_IN lunch-izzle_JJ kennythesoupking_NN :_: blt_NN 's_POS aubawla618_NN :_: what_WP is_VBZ that_DT again_RB \/_JJ aubawla618_NN :_: \*_SYM ?_.
+kennythesoupking_VBG :_: right_NN ..._: aubawla618_NN :_: shut_VBN up_RP aubawla618_CD :_: omg_NN !_.
+thats_NNS so_RB weird_JJ !_.
+aubawla618_NN :_: ur_VB blue_JJ aubawla618_NN :_: and_CC res_VBZ aubawla618_NN :_: \*_SYM red_JJ aubawla618_NN :_: azule_VB aubawla618_NN :_: and_CC rojoho_VB aubawla618_NN :_: i_FW remember_VB my_PRP$ colors_NNS aubawla618_NN :_: well_RB i_FW think_VB kennythesoupking_NN :_: uh_UH huh_FW ..._: Good_JJ ..._: That_DT could_MD be_VB classified_VBN as_IN an_DT actual_JJ thought_NN ._.
+Good_JJ job_NN girl_NN !_.
+Blogger_NNP changed_VBD the_DT Post_NNP interface_NN so_IN the_DT font_NN and_CC stuff_NN might_MD change_VB ,_, but_CC oh_UH well_RB ..._: I_PRP 've_VBP just_RB been_VBN at_IN the_DT lake_NN for_IN the_DT weekend_NN ._.
+I_PRP 'm_VBP sunburnt_JJ and_CC everything_NN feels_VBZ like_IN it_PRP 's_VBZ floating_VBG ,_, but_CC overall_RB ,_, it_PRP was_VBD a_DT cool_JJ experience_NN ._.
+I_PRP burnt_VBD my_PRP$ little_JJ brother_NN a_DT CD_NN to_TO blow_VB the_DT Jackson_NNP 5_CD right_NN out_IN of_IN him_PRP ._.
+It_PRP is_VBZ as_IN follows_VBZ :_: 1_LS ._. -RRB-_-RRB-
+Anthem_NN of_IN Our_PRP$ Dying_NNP Day_NNP -_: Story_NNP of_IN the_DT Year_NN -LRB-_-LRB- He_PRP 'd_MD already_RB heard_VBN this_DT one_CD and_CC liked_VBD it_PRP so_IN I_PRP put_VBP it_PRP in_IN ._. -RRB-_-RRB-
+2_LS ._. -RRB-_-RRB-
+Memory_NN -_: Sugarcult_NNP 3_CD ._. -RRB-_-RRB-
+Our_PRP$ Time_NN is_VBZ Running_VBG Out_IN -_: Muse_NNP 4_CD ._. -RRB-_-RRB-
+Are_VBP You_PRP Gonna_NNP Be_VB My_PRP$ Girl_NNP -LRB-_-LRB- Once_RB again_RB ,_, one_CD he_PRP heard_VBD and_CC liked_VBD ._. -RRB-_-RRB-
+5_CD ._. -RRB-_-RRB-
+Lithium_NN -_: Nirvana_NNP 6_CD ._. -RRB-_-RRB-
+Somebody_NN Told_VBD Me_PRP -_: The_DT Killers_NNPS 7_CD ._. -RRB-_-RRB-
+Alive_JJ -_: Ima_NNP Robot_NNP 8_CD ._. -RRB-_-RRB-
+Ch-Check_NNP It_PRP Out_IN -_: Beastie_NNP Boys_NNPS 9_CD ._. -RRB-_-RRB-
+Walkie_NNP Talkie_NNP Man_NNP -_: Steriogram_NNP 10_CD ._. -RRB-_-RRB-
+Walk_VB Idiot_NNP Walk_VB -_: The_DT Hives_NNP 11_CD ._. -RRB-_-RRB-
+Hate_NNP to_TO Say_VB I_PRP Told_VBD You_PRP So_RB -_: The_DT Hives_NNP 12_CD ._. -RRB-_-RRB-
+Meant_JJ To_TO Live_NNP -_: Switchfoot_NN -LRB-_-LRB- Once_RB again_RB ,_, one_CD he_PRP had_VBD heard_VBN and_CC liked_VBN ._.
+13_CD ._. -RRB-_-RRB-
+Ride_NN -_: The_DT Vines_NNP 14_CD ._. -RRB-_-RRB-
+Stockholm_NNP Syndrome_NNP -_: Muse_NNP Hopefully_NNP ,_, Now_RB he_PRP wo_MD n't_RB go_VB to_TO meet_VB Michael_NNP Jackson_NNP and_CC get_VB molested_VBN ._.
+Hopefully_RB ._.
+haha_NN shmitty_NN here_RB 's_POS my_PRP$ 20_CD %_NN beat_NN that_WDT !_.
+what_WP now_RB !_.
+u_JJ cant_JJ stop_NN this_DT !_.
+ill_RB win_VB !_.
+just_RB so_RB this_DT wont_NN be_VB pointless_JJ ill_JJ talk_NN about_IN something_NN !_.
+WHY_WRB GOSSIP_NNP IS_VBZ POINTLESS_NNP !_.
+\*_SYM cuz_NN all_DT it_PRP does_VBZ is_VBZ ruin_VB relationships_NNS and_CC creates_VBZ useless_JJ drama_NN ._.
+especially_RB when_WRB that_DT person_NN is_VBZ a_DT backstabbin_NN monkey_NN !!_NN not_RB that_IN im_NN talkin_NN about_IN some1_CD in_IN particular_JJ \*_SYM cutey_NN out_IN POST_NNP ok_NN this_DT is_VBZ my_PRP$ post_NN so_IN if_IN u_NN dont_NN like_IN live_JJ with_IN it_PRP seth_NN is_VBZ making_VBG me_PRP post_NN and_CC this_DT is_VBZ my_PRP$ post_NN booya_NN ._.
+untill_JJ next_JJ time_NN ,_, mcklevlin_NN out_IN wow_NN ..._: its_PRP$ nice_JJ outside_NN ._.
+so_RB dark_JJ so_IN rainey_NN so_RB cold_JJ ._.
+i_FW love_NN it_PRP !!_VBD Could_MD someone_NN play_NN Taps_VBZ in_IN the_DT background_NN please_VB ?_.
+A_DT small_JJ time_NN ago_RB ,_, one_CD of_IN our_PRP$ own_JJ ,_, Felicia_NNP Carpe_NNP Retundre_NNP III_NNP ,_, was_VBD discharged_VBN from_IN service_NN ._.
+Angry_NNP ,_, she_PRP decided_VBD to_TO form_VB her_PRP$ own_JJ blog_NN with_IN Amelia_NNP ,_, in_IN protest_NN of_IN us_PRP Spazzes_NNPS ._.
+And_CC ,_, as_IN I_PRP predicted_VBD ,_, it_PRP failed_VBD ._.
+So_RB ,_, today_NN ,_, we_PRP look_VBP upon_IN it_PRP 's_VBZ memorial_NN ,_, with_IN tears_NNS of_IN sorrow_NN :_: Just_RB Kidding_VBG ._.
+Shmitty_NNP Out_IN ._.
+if_IN i_FW were_VBD rich_JJ i_FW would_MD :_: play_VB skeet_NN ;_: with_IN laptops_NNS blow_VBP up_RP stuff_NN ;_: like_IN bentlys_NNS plat_VBP the_DT ``_`` hit_VBD the_DT computer_NN with_IN a_DT hammer_NN till_IN it_PRP dies_VBZ ''_'' game_NN buy_VB a_DT $_$ 53,000_CD dollar_NN guitar_NN ;_: then_RB get_VB on_IN stage_NN infront_NN of_IN thousands_NNS of_IN people_NNS and_CC smash_VBP it_PRP buy_VB stuff_NN get_VB into_IN dept_NN so_RB i_FW could_MD pay_VB it_PRP off_RP buy_VB the_DT internet_NN do_VBP rich_JJ people_NNS stuff_NN hi_FW i_FW guess_NN im_VBP the_DT new_JJ mole_NN ._.
+well_RB i_FW got_VBD nothin_NN to_TO talk_VB about_IN ._.
+so_RB ..._: uhhh_NN ..._: hi_FW Ender_NNP 's_POS Game_NNP Movie_NNP ..._: Another_DT Excuse_NN to_TO eat_VB Popcorn_NNP !_.
+I_PRP 'm_VBP really_RB excited_VBN about_IN a_DT movie_NN that_WDT 's_VBZ going_VBG to_TO be_VB coming_VBG out_RB ,_, an_DT adaptation_NN of_IN probably_RB my_PRP$ favorite_JJ book_NN ever_RB written_VBN ,_, Ender_NNP 's_POS Game_NNP ._.
+It_PRP was_VBD announced_VBN on_IN both_DT Ai_NNP n't_RB It_PRP Cool_NNP News_NNP and_CC Fresco_NNP Pictures_NNP ._.
+Not_RB much_JJ information_NN has_VBZ been_VBN announced_VBN ,_, but_CC I_PRP 'll_MD be_VB eagerly_RB awaiting_VBG !_.

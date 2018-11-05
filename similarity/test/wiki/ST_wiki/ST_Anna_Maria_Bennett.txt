@@ -1,0 +1,15 @@
+Anna_NNP Maria_NNP Bennett_NNP -LRB-_-LRB- ca_MD ._.
+1750_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- ''_'' 12_CD February_NNP 1808_CD -RRB-_-RRB- was_VBD a_DT Welsh_JJ novelist_NN who_WP wrote_VBD in_IN English_NNP ._.
+Some_DT sources_NNS give_VBP her_PRP$ name_NN as_IN Agnes_NNP Maria_NNP Bennett_NNP ._.
+She_PRP had_VBD two_CD children_NNS and_CC she_PRP taught_VBD her_PRP daughter_NN to_TO act_VB and_CC she_PRP became_VBD a_DT noted_VBN stage_NN actor_NN ._.
+Her_PRP$ best-known_JJ work_NN is_VBZ the_DT epistolary_JJ novel_NN Agnes_NNP de-Courci_NNP -LRB-_-LRB- 1789_CD -RRB-_-RRB- ._.
+Anna_NNP was_VBD probably_RB born_VBN in_IN Merthyr_NNP Tydfil_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- Glamorganshire_NNP ,_, Wales_NNP ,_, the_DT daughter_NN of_IN David_NNP Evans_NNP ,_, described_VBD variously_RB as_IN a_DT customs_NNS officer_NN or_CC grocer_NN ._.
+She_PRP was_VBD briefly_RB married_VBN to_TO customs_NNS officer_NN Thomas_NNP Bennett_NNP ,_, but_CC while_IN sheltering_VBG in_IN a_DT chandler_NN 's_POS shop_NN after_IN moving_VBG to_TO London_NNP ,_, she_PRP met_VBD Vice-Admiral_NNP Thomas_NNP Pye_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP became_VBD his_PRP$ housekeeper_NN and_CC mistress_NN in_IN Tooting_NNP ,_, Surrey_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT couple_NN had_VBD at_IN least_JJS two_CD illegitimate_JJ children_NNS together_RB ,_, Thomas_NNP Pye_NNP Bennett_NNP and_CC Harriet_NNP Pye_NNP Bennett_NNP ._.
+The_DT latter_JJ became_VBD a_DT famous_JJ actress_NN as_IN Harriet_NNP Pye_NNP Esten_NNP ,_, with_IN her_PRP$ mother_NN helping_VBG to_TO launch_VB her_PRP$ career_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- When_WRB Admiral_NNP Pye_NNP died_VBD he_PRP left_VBD his_PRP$ Suffulk_NNP Street_NNP townhouse_NN to_TO Bennett_NNP and_CC the_DT families_NNS joined_VBD more_RBR confusingly_RB when_WRB their_PRP$ son_NN Thomas_NNP Pye_NNP Bennett_NNP married_VBD the_DT Admiral_NNP 's_POS daughter_NN Mary_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Her_PRP$ daughter_NN ,_, Harriet_NNP Pye_NNP Esten_NNP ,_, initially_RB appeared_VBD in_IN Bath_NNP and_CC Bristol_NNP before_IN moving_VBG on_IN to_TO appear_VB in_IN Dublin_NNP ._.
+Whilst_NNP she_PRP was_VBD there_RB in_IN 1789_CD she_PRP and_CC her_PRP$ mother_NN negotiated_VBD a_DT formal_JJ separation_NN with_IN James_NNP Esten_NNP ._.
+Bennett_NNP paid_VBD off_RP her_PRP$ son-in-law_NN 's_POS debts_NNS in_IN exchange_NN for_IN his_PRP$ agreement_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB-

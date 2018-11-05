@@ -1,0 +1,38 @@
+Alban_NNP Butler_NNP -LRB-_-LRB- 13_CD October_NNP 1710_CD ''_'' 15_CD May_NNP 1773_CD -RRB-_-RRB- was_VBD an_DT English_JJ Roman_JJ Catholic_NNP priest_NN and_CC hagiographer_NN ._.
+Alban_NNP Butler_NNP was_VBD born_VBN in_IN 1710_CD ,_, at_IN Appletree_NNP ,_, Aston_NNP le_FW Walls_NNP ,_, Northamptonshire_NNP ,_, the_DT second_JJ son_NN of_IN Simon_NNP Butler_NNP ,_, Esq._NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- Orphaned_VBN at_IN the_DT age_NN of_IN eight_CD ,_, he_PRP was_VBD sent_VBN to_TO be_VB educated_VBN at_IN the_DT English_NNP College_NNP ,_, Douai_NNP ,_, in_IN France_NNP ._.
+In_IN 1735_CD Butler_NNP was_VBD ordained_VBN a_DT priest_NN ._.
+At_IN Douai_NNP ,_, he_PRP was_VBD appointed_VBN professor_NN of_IN philosophy_NN ,_, and_CC later_RB professor_NN of_IN theology_NN ._.
+It_PRP was_VBD at_IN Douai_NNP ,_, he_PRP began_VBD his_PRP$ principal_JJ work_NN The_DT Lives_NNS of_IN the_DT Fathers_NNS ,_, Martyrs_NNPS and_CC Other_JJ Principal_NN Saints_NNP ._.
+He_PRP also_RB prepared_VBD material_NN for_IN Richard_NNP Challoner_NNP 's_POS Memoirs_NNPS of_IN Missionary_NNP Priests_NNP ,_, a_DT work_NN on_IN the_DT martyrs_NNS of_IN the_DT reign_NN of_IN Elizabeth_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1745_CD ,_, Butler_NNP came_VBD to_TO the_DT attention_NN of_IN the_DT Duke_NNP of_IN Cumberland_NNP ,_, younger_JJR son_NN of_IN King_NNP George_NNP II_NNP ,_, for_IN his_PRP$ devotion_NN to_TO the_DT wounded_JJ English_NNP soldiers_NNS during_IN the_DT defeat_NN at_IN the_DT Battle_NNP of_IN Fontenoy_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Butler_NNP served_VBD as_IN tutor_NN and_CC guide_NN on_IN the_DT Grand_NNP Tour_NNP to_TO the_DT Duke_NNP 's_POS sons_NNS ,_, George_NNP Talbot_NNP ,_, Earl_NNP of_IN Shrewsbury_NNP and_CC his_PRP$ two_CD brothers_NNS ._.
+Both_DT James_NNP and_CC Thomas_NNP Talbot_NNP later_RB became_VBD Catholic_NNP bishops_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP labored_VBD for_IN some_DT time_NN as_IN a_DT missionary_JJ priest_NN in_IN Staffordshire_NNP ,_, and_CC was_VBD finally_RB appointed_VBN president_NN of_IN the_DT English_NNP seminary_NN at_IN Saint_NNP Omer_NNP in_IN France_NNP ,_, where_WRB he_PRP remained_VBD till_IN his_PRP$ death_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Butler_NNP returned_VBD to_TO England_NNP in_IN 1749_CD and_CC was_VBD made_VBN chaplain_NN to_TO the_DT Duke_NNP of_IN Norfolk_NNP ,_, whose_WP$ nephew_NN and_CC heir_NN ,_, the_DT Hon._NNP Edward_NNP Howard_NNP ,_, Butler_NNP accompanied_VBD to_TO Paris_NNP as_IN tutor_NN ._.
+While_IN he_PRP was_VBD in_IN Paris_NNP ,_, Butler_NNP completed_VBD his_PRP$ Lives_NNS ._.
+During_IN his_PRP$ term_NN as_IN President_NNP of_IN the_DT English_NNP seminary_NN ,_, Butler_NNP also_RB served_VBD the_DT bishops_NNS of_IN Arras_NNP ,_, Saint-Omer_NNP ,_, Ypres_NNP ,_, and_CC Boulogne-Sur-Mer_NNP as_IN their_PRP$ Vicar-General_JJ ._.
+Butler_NNP died_VBD in_IN Saint-Omer_NNP in_IN 1773_CD and_CC was_VBD buried_VBN in_IN the_DT parish_JJ church_NN of_IN Saint-Denis_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- See_VB An_DT Account_NNP of_IN the_DT Life_NN of_IN A._NN B._NNP by_IN C._NNP B._NNP ,_, i.e._FW by_IN his_PRP$ nephew_NN Charles_NNP Butler_NNP -LRB-_-LRB- London_NNP ,_, 1799_CD -RRB-_-RRB- ;_: and_CC Joseph_NNP Gillow_NNP 's_POS Bibliographical_NNP Dictionary_NNP of_IN English_NNP Catholics_NNPS ,_, vol_NN ._.
+i._NN -LRB-_-LRB- 4_LS -RRB-_-RRB- Butler_NNP 's_POS great_JJ work_NN ,_, The_DT Lives_NNS of_IN the_DT Fathers_NNS ,_, Martyrs_NNPS and_CC Other_JJ Principal_NN Saints_NNP -LRB-_-LRB- ``_`` Butler_NNP 's_POS Lives_NNS ''_'' -RRB-_-RRB- ,_, the_DT result_NN of_IN thirty_CD years_NNS study_NN ,_, was_VBD first_JJ published_VBN in_IN four_CD volumes_NNS in_IN London_NNP ,_, 1756_CD ``_`` 1759_CD ._.
+It_PRP is_VBZ a_DT popular_JJ and_CC compendious_JJ reproduction_NN of_IN the_DT Acta_NNP Sanctorum_NNP ,_, exhibiting_VBG great_JJ industry_NN and_CC research_NN ,_, and_CC is_VBZ in_IN all_DT respects_VBZ the_DT best_JJS compendium_NN of_IN Acta_NNP in_IN English_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Butler_NNP 's_POS magnum_NN opus_NN has_VBZ passed_VBN many_JJ editions_NNS and_CC translations_NNS ._.
+This_DT edition_NN was_VBD printed_VBN initially_RB in_IN 4_CD octavo_NN volumes_NNS ,_, with_IN no_DT stated_VBN publisher_NN or_CC author_NN 's_POS name_NN ._.
+However_RB they_PRP were_VBD so_RB thick_JJ that_IN they_PRP were_VBD usually_RB bound_VBN in_IN more_JJR volumes_NNS ._.
+There_EX were_VBD actually_RB 6_CD title_NN pages_NNS since_IN Vol_NNP ._.
+3_CD and_CC Vol_NNP ._.
+4_CD both_DT have_VBP a_DT ``_`` part_NN II_NNP ''_'' issued_VBN thus_RB :_: vol_NN ._.
+I_PRP ,_, vol_NN ._.
+II_NNP ,_, vol_NN ._.
+III_NNP ,_, vol_NN ._.
+III_NNP part_NN II_NNP ,_, vol_NN ._.
+IV_NNP ,_, and_CC vol_NN ._.
+IV_NNP part_NN II_NNP ._.
+Each_DT ``_`` volume_NN ''_'' contained_VBD three_CD months_NNS of_IN the_DT liturgical_JJ calendar_NN 's_POS Saints_NNP '_POS lives_NNS ._.
+Vol_NNP ._.
+I_PRP also_RB had_VBD a_DT copperplate_JJ engraving_NN with_IN figures_NNS of_IN the_DT Roman_NNP devices_NNS of_IN torture_VBP used_VBN ,_, and_CC a_DT 2-page_JJ explanation_NN of_IN their_PRP$ use_NN ._.
+Charles_NNP Butler_NNP 's_POS assertion_NN that_IN ``_`` all_PDT the_DT notes_NNS ''_'' were_VBD left_VBN out_IN of_IN the_DT first_JJ edition_NN at_IN the_DT suggestion_NN of_IN Bishop_NNP Challoner_NNP is_VBZ exaggerated_JJ ._.
+There_EX are_VBP many_JJ useful_JJ ,_, and_CC even_RB extended_JJ notes_NNS in_IN the_DT first_JJ edition_NN ,_, but_CC not_RB to_TO the_DT extent_NN that_IN they_PRP appear_VBP in_IN the_DT second_JJ ,_, and_CC succeeding_VBG editions_NNS ._.
+According_VBG to_TO Charles_NNP Knight_NNP ,_, the_DT edition_NN published_VBN in_IN twelve_CD volumes_NNS in_IN 1847_CD is_VBZ considered_VBN the_DT best_JJS and_CC most_RBS complete_JJ ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Since_IN Fr_NNP Butler_NNP published_VBD his_PRP$ original_JJ edition_NN of_IN his_PRP$ Lives_NNS ,_, many_JJ successors_NNS have_VBP revised_VBN and_CC updated_VBN the_DT work_NN ._.
+Father_NNP Herbert_NNP Thurston_NNP ,_, SJ_NNP ,_, edited_VBN and_CC significantly_RB rewrote_VB the_DT work_NN ;_: his_PRP$ 12_CD volume_NN ``_`` Revised_VBN Edition_NNP ''_'' was_VBD published_VBN between_IN 1926_CD and_CC 1938_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

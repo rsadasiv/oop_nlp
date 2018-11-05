@@ -1,0 +1,526 @@
+Samit_NN
+Basu_NN
+drew_VBD
+a_DT
+packed_JJ
+crowd_NN
+for_PIN
+his_TPP3
+session_NN
+at_PIN
+the_DT
+Zee_NN
+Jaipur_NN
+Literature_NN
+Festival_NN
+._.
+The_DT
+session_NN
+``_``
+From_PIN
+Here_RB
+to_PIN
+Hogwarts_NN
+''_''
+which_WDT [SERE]
+began_VBD
+with_PIN
+a_DT
+worldbuilding_GER
+exercise_NN
+went_VBD
+on_PIN
+to_TO
+become_VB
+a_DT
+lively_JJ
+discussion_NN
+on_PIN
+fantasy_NN
+and_PHC
+writing_GER
+._.
+The_DT
+session_NN
+was_VBD [BEMA]
+quite_RB
+interactive_PRED
+as_IN
+Basu_NN
+devoted_VBD
+more_EMPH
+than_PIN
+half_PDT
+an_DT
+hour_NN
+to_TO
+taking_VBG
+questions_NOMZ
+from_PIN
+the_DT
+predominantly_RB
+young_JJ
+audience_NN
+._.
+In_PIN
+the_DT
+worldbuilding_GER
+exercise_NN
+Basu_NN
+creating_VBG [WZPRES]
+a_DT
+plot_NN
+about_IN
+a_DT
+girl_NN
+named_VBN
+Maya_NN
+with_PIN
+the_DT
+audience_NN
+._.
+Following_VBG [PRESP]
+this_DEMP
+,_,
+Basu_NN
+invited_VBD
+questions_NOMZ
+on_PIN
+all_QUAN
+the_DT
+audience_NN
+wanted_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+writing_VBG [PUBV]
+and_PHC
+being_VBG [BEMA]
+a_DT
+writer_NN
+._.
+From_PIN
+calling_VBG
+the_DT
+phrase_NN
+'_''
+I_FPP1
+am_VPRT [BEMA]
+my_FPP1
+own_JJ
+toughest_JJ
+critic_NN
+'_''
+hopelessy_JJ
+self-congratulatory_JJ
+to_TO
+encouraging_VBG
+a_DT
+14-year-old_JJ
+girl_NN
+to_TO
+write_VB [PUBV]
+without_PIN
+worries_NN
+about_IN
+the_DT
+future_NN
+of_PIN
+writing_VBG [PUBV]
+,_,
+Basu_NN
+had_VBD
+much_QUAN
+advice_NN
+and_PHC
+encouragement_NOMZ
+to_TO
+offer_VB
+._.
+Here_RB
+are_VPRT [BEMA]
+his_TPP3
+top_JJ
+ten_NN
+tips_NN
+-_:
+On_PIN
+becoming_VBG
+a_DT
+writer_NN
+-_:
+Do_VPRT
+n't_XX0 [CONT]
+become_VB
+a_DT
+writer_NN
+to_TO
+be_VB [BEMA]
+rich_PRED
+or_CC
+famous_JJ
+._.
+On_PIN
+building_GER
+worlds_NN
+-_:
+You_SPP2
+should_NEMD
+know_VB [PRIV]
+your_SPP2
+whole_JJ
+world_NN
+._.
+But_CC
+do_VPRT
+n't_XX0 [CONT]
+reveal_VB [PRIV]
+all_QUAN
+your_SPP2
+cards_NN
+._.
+Remember_VB [PRIV]
+the_DT
+Iceberg_NN
+rule_NN
+,_,
+-LRB-_-LRB-
+where_RB
+you_SPP2
+see_VPRT [PRIV]
+only_DWNT
+the_DT
+tip_NN
+of_PIN
+the_DT
+iceburg_NN
+above_PLACE
+the_DT
+water_NN
+and_CC
+the_DT
+rest_NN
+is_VPRT [PASS]
+submerged_VBN
+below_PLACE
+-RRB-_-RRB-
+you_SPP2
+do_VPRT
+n't_XX0 [CONT]
+need_VB
+to_TO
+show_VB [PRIV]
+the_DT
+reader_NN
+everything_QUPR
+you_SPP2
+know_VPRT [PRIV]
+._.
+Krissh_NN
+and_PHC
+Ra_NN
+._.
+One_CD
+are_VPRT [BEMA]
+bad_JJ
+fantasy_NN
+stories_NN
+._.
+You_SPP2
+have_VPRT
+to_TO
+ensure_VB [SUAV] [PRIV]
+the_DT
+world_NN
+you_SPP2
+are_VPRT
+building_VBG
+is_VPRT
+convincing_VBG
+and_ANDC
+what_WP
+the_DT
+characters_NN
+do_VPRT
+within_PIN
+that_DEMP
+is_VPRT [BEMA]
+believable_PRED
+._.
+Knowing_VBG [PRIV] [PRESP]
+the_DT
+end_NN
+of_PIN
+the_DT
+story_NN
+while_OSUB
+writing_VBG [PUBV]
+-_:
+There_EX
+is_VPRT
+no_SYNE
+hard_JJ
+and_PHC
+fast_JJ
+rule_NN
+._.
+Books_NN
+can_POMD
+start_VB
+from_PIN
+anywhere_RB
+and_CC
+anything_QUPR
+._.
+Writer_NN
+'s_POS
+block_NN
+-_:
+Remind_NN
+yourself_SPP2
+that_DEMP
+writing_VBG [PUBV]
+is_VPRT
+just_EMPH
+work_NN
+._.
+There_EX
+are_VPRT
+good_PRED
+and_PHC
+bad_PRED
+days_NN
+._.
+We_FPP1
+are_VPRT
+writers_NN
+,_,
+so_IN
+we_FPP1
+named_VBD
+the_DT
+block_NN
+._.
+By_PIN
+naming_VBG
+it_PIT
+we_FPP1
+'ve_VPRT [CONT]
+given_VBN
+it_PIT
+power_NN
+._.
+Do_VPRT
+n't_XX0 [CONT]
+worry_VB
+and_PHC
+do_VB
+n't_XX0 [CONT]
+make_VB
+excuses_NN
+for_PIN
+it_PIT
+._.
+Cliches_NN
+-_:
+It_PIT
+is_VPRT [BEMA]
+impossible_PRED
+to_TO
+be_VB [BEMA]
+entirely_AMP
+new_PRED
+._.
+Develop_VB
+judgement_NOMZ
+on_PIN
+whether_IN
+your_SPP2
+voice_NN
+is_VPRT [BEMA]
+strong_JJ
+enough_RB
+._.
+On_PIN
+giving_VBG
+up_RP
+reading_VBG
+while_OSUB
+writing_VBG [PUBV]
+-_:
+If_COND
+you_SPP2
+'re_VPRT [CONT]
+going_VBG
+to_TO
+write_VB [PUBV]
+,_,
+you_SPP2
+should_NEMD
+get_VB
+used_VBN
+to_TO
+giving_VBG
+up_RP
+a_EMPH
+lot_NULL
+._.
+Dealing_VBG [PRESP]
+with_PIN
+bad_JJ
+reviews_NN
+-_:
+I_FPP1
+'ve_VPRT [CONT]
+been_VBN [BEMA]
+lucky_PRED
+._.
+I_FPP1
+'ve_VPRT [CONT]
+gotten_VBN
+more_EMPH
+good_JJ
+reviews_NN
+than_PIN
+bad_JJ
+._.
+With_PIN
+the_DT
+bad_JJ
+ones_NN
+,_,
+you_SPP2
+either_CC
+ignore_VB
+it_PIT
+or_CC
+look_VB
+at_PIN
+what_WP
+you_SPP2
+can_POMD
+take_VB
+from_PIN
+it_PIT
+to_TO
+improve_VB
+your_SPP2
+work_NN
+._.
+Balancing_VBG
+story_NN
+and_PHC
+sub-stories_NN
+-_:
+You_SPP2
+have_VPRT
+to_TO
+be_VB [BEMA]
+able_PRED
+to_TO
+zoom_VB
+into_PIN
+the_DT
+scene_NN
+to_TO
+write_VB [PUBV]
+it_PIT
+and_CC
+then_RB
+zoom_VB
+out_PIN
+to_TO
+see_VB [PRIV]
+how_RB [WHCL]
+it_PIT
+is_VPRT
+working_VBG
+with_PIN
+the_DT
+whole_JJ
+story_NN
+._.
+On_PIN
+improving_VBG
+as_IN
+a_DT
+writer_NN
+-_:
+It_PIT
+never_RB
+stops_VPRT
+._.
+Read_VB
+more_EMPH
+and_CC
+write_VB [PUBV]
+more_EMPH
+._.
+There_EX
+is_VPRT
+no_SYNE
+perfect_JJ
+way_NN
+to_TO
+improve_VB
+._.
+Everyone_QUPR
+muddles_NN
+through_PIN [STPR]
+._.
+Tying_VBG
+up_RP
+loose_JJ
+ends_NN
+in_PIN
+a_DT
+story_NN
+-_:
+If_COND
+you_SPP2
+'re_VPRT [CONT] [BEMA]
+unsure_PRED
+of_PIN
+what_WP
+to_TO
+do_VB
+or_CC
+waiting_VBG
+for_PIN
+a_DT
+second_JJ
+book_NN
+deal_NN
+,_,
+then_RB
+by_PIN
+all_QUAN
+means_NN
+do_VPRT [PROD]
+it_PIT
+._.
+You_SPP2
+'ve_VPRT [CONT]
+to_TO
+take_VB
+a_DT
+call_NN
+on_PIN
+how_RB
+unsatisfied_JJ
+you_SPP2
+want_VPRT
+to_TO
+leave_VB
+your_SPP2
+reader_NN
+._.
+But_CC
+do_VPRT
+n't_XX0 [CONT]
+leave_VB
+your_SPP2
+main_JJ
+crisis_NN
+unresolved_JJ
+._.

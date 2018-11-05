@@ -1,0 +1,11 @@
+Stephen_NNP Booth_NNP -LRB-_-LRB- born_VBN 1952_CD -RRB-_-RRB- is_VBZ an_DT English_JJ crime-writer_NN ._.
+He_PRP is_VBZ the_DT author_NN of_IN the_DT Derbyshire-set_JJ Cooper_NNP and_CC Fry_NNP series_NN ._.
+Booth_NN was_VBD born_VBN in_IN Burnley_NNP ,_, Lancashire_NNP ,_, the_DT son_NN of_IN Jim_NNP and_CC Edna_NNP Booth_NNP ._.
+At_IN the_DT age_NN of_IN two_CD ,_, he_PRP moved_VBD with_IN his_PRP$ parents_NNS to_TO Blackpool_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP attended_VBD Arnold_NNP School_NNP in_IN the_DT town_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP currently_RB lives_VBZ with_IN his_PRP$ wife_NN Lesley_NNP in_IN Nottinghamshire_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- For_IN over_IN 27_CD years_NNS ,_, he_PRP was_VBD a_DT journalist_NN for_IN various_JJ newspapers_NNS and_CC magazines_NNS including_VBG the_DT Wilmslow_NNP Advertiser_NNP ,_, Huddersfield_NNP Examiner_NNP ,_, and_CC the_DT Worksop_NNP Guardian_NNP ._.
+He_PRP also_RB worked_VBD as_IN a_DT sub-editor_NN for_IN the_DT Daily_NNP Express_NNP and_CC The_DT Guardian_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 2001_CD he_PRP gave_VBD this_DT up_RP to_TO be_VB a_DT full-time_JJ novelist_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- The_DT books_NNS follow_VBP two_CD young_JJ Derbyshire_NNP police_NN detectives_NNS ,_, Ben_NNP Cooper_NNP and_CC Diane_NNP Fry_NNP ,_, as_IN they_PRP try_VBP to_TO solve_VB various_JJ murders_NNS ._.
+In_IN order_NN ,_, they_PRP are_VBP :_:

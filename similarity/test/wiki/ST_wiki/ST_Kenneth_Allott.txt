@@ -1,0 +1,28 @@
+Kenneth_NNP Allott_NNP -LRB-_-LRB- 29_CD August_NNP 1912_CD ''_'' 1973_CD -RRB-_-RRB- was_VBD an_DT Anglo-Irish_JJ poet_NN and_CC academic_JJ ,_, and_CC authority_NN on_IN Matthew_NNP Arnold_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Born_VBN in_IN Glamorgan_NNP ,_, where_WRB his_PRP$ father_NN ,_, a_DT doctor_NN ,_, was_VBD serving_VBG as_IN a_DT locum_NN ,_, Allott_NNP later_RB experienced_VBD the_DT break-up_NN of_IN his_PRP$ parents_NNS '_POS marriage_NN ,_, followed_VBN by_IN the_DT death_NN of_IN his_PRP$ mother_NN ._.
+After_IN she_PRP died_VBD he_PRP and_CC his_PRP$ brother_NN Guy_NNP were_VBD adopted_VBN by_IN their_PRP$ Irish_JJ aunts_NNS on_IN Tyneside_NNP ,_, and_CC from_IN the_DT age_NN of_IN 14_CD attended_VBD St_NNP Cuthbert_NNP 's_POS Roman_JJ Catholic_NNP Grammar_NNP School_NNP in_IN Newcastle_NNP on_IN Tyne_NNP ._.
+`_`` Speedy_NNP '_'' ,_, as_IN he_PRP was_VBD popularly_RB named_VBN ,_, was_VBD given_VBN to_TO him_PRP because_IN he_PRP spoke_VBD so_RB quickly_RB ._.
+Despite_IN the_DT fact_NN that_IN the_DT VI_NNP Form_NN then_RB taught_VBD only_RB science_NN for_IN Higher_JJR School_NNP Certificate_NNP ,_, he_PRP studied_VBD English_NNP and_CC Latin_NNP on_IN his_PRP$ own_JJ at_IN the_DT back_NN of_IN the_DT class_NN ._.
+In_IN 1934_CD ,_, he_PRP gained_VBD a_DT first_RB at_IN Armstrong_NNP College_NNP ,_, Durham_NNP University_NNP ,_, in_IN Newcastle_NNP ._.
+He_PRP married_VBD Surya_NNP Kumari_NNP Lall_NNP in_IN 1936_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ first_JJ was_VBD followed_VBN by_IN post-graduate_JJ research_NN at_IN Oxford_NNP University_NNP ._.
+Subsequently_RB ,_, Allott_NNP began_VBD working_VBG as_IN a_DT reviewer_NN for_IN the_DT Morning_NN Post_NNP and_CC with_IN Geoffrey_NNP Grigson_NNP on_IN New_NNP Verse_NNP ,_, to_TO which_WDT he_PRP was_VBD a_DT regular_JJ contributor_NN ._.
+He_PRP also_RB worked_VBD as_IN an_DT observer_NN for_IN Charles_NNP Madge_NNP 's_POS social_JJ survey_NN group_NN Mass_NNP Observation_NNP ._.
+In_IN 1942_CD Allott_NNP ,_, a_DT conscientious_JJ objector_NN ,_, moved_VBD with_IN his_PRP$ family_NN to_TO Gateshead_NNP for_IN a_DT year_NN as_IN an_DT extramural_JJ lecturer_NN ._.
+After_IN his_PRP$ first_JJ marriage_NN ended_VBN in_IN 1950_CD ,_, he_PRP married_VBD another_DT lecturer_NN Miriam_NNP Allott_NNP on_IN 1_CD June_NNP 1951_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Allott_NNP is_VBZ the_DT author_NN of_IN a_DT biography_NN of_IN Jules_NNP Verne_NNP and_CC two_CD collections_NNS of_IN poems_NNS -LRB-_-LRB- see_VB works_NNS below_IN -RRB-_-RRB- ,_, a_DT critical_JJ edition_NN of_IN William_NNP Habbington_NNP 's_POS poems_NNS ,_, and_CC a_DT play_NN adapted_VBD from_IN EM_NNP Forster_NNP 's_POS novel_NN A_DT Room_NN with_IN a_DT View_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP held_VBD positions_NNS at_IN Liverpool_NNP University_NNP from_IN 1948_CD until_IN his_PRP$ death_NN in_IN 1973_CD ,_, at_IN which_WDT time_NN he_PRP was_VBD the_DT Kenneth_NNP Muir_NNP Professor_NNP of_IN English_NNP ._.
+His_PRP$ position_NN at_IN Liverpool_NNP was_VBD taken_VBN over_RP by_IN his_PRP$ wife_NN after_IN his_PRP$ death_NN ,_, although_IN by_IN 1981_CD she_PRP was_VBD a_DT professor_NN at_IN Birkbeck_NNP College_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ poetry_NN was_VBD published_VBN in_IN Poems_NNP -LRB-_-LRB- 1938_CD ,_, Hogarth_NNP Press_NNP -RRB-_-RRB- ,_, and_CC The_DT Ventriloquist_NNP 's_POS Doll_NNP -LRB-_-LRB- 1943_CD ,_, Cresset_NNP Press_NNP ._.
+Perhaps_RB his_PRP$ best-known_JJS poem_NN was_VBD `_`` Lament_NN for_IN a_DT Cricket_NNP Eleven_CD '_'' ._.
+He_PRP was_VBD regarded_VBN by_IN many_JJ as_IN one_CD of_IN the_DT most_RBS promising_JJ poets_NNS of_IN the_DT day_NN ;_: Francis_NNP Scarfe_NNP devoted_VBD a_DT whole_JJ chapter_NN to_TO him_PRP in_IN Auden_NNP and_CC After_IN ._.
+Allott_NNP became_VBD general_JJ editor_NN of_IN the_DT five-volume_JJ Pelican_NNP Book_NNP of_IN English_NNP Prose_NNP -LRB-_-LRB- 1956_CD -RRB-_-RRB- and_CC of_IN the_DT Oxford_NNP History_NN of_IN English_NNP Literature_NNP ._.
+His_PRP$ familiar_JJ yellow_JJ anthology_NN The_DT Penguin_NNP Book_NNP of_IN Contemporary_NNP Verse_NNP -LRB-_-LRB- 1950_CD ;_: revised_VBN and_CC enlarged_JJ 1962_CD -RRB-_-RRB- was_VBD used_VBN widely_RB in_IN colleges_NNS ._.
+Inspector_NNP Wexford_NNP has_VBZ been_VBN seen_VBN reading_VBG it_PRP on_IN television_NN ._.
+Allott_NNP published_VBD Selected_VBN poems_NNS of_IN Winthrop_NNP Mackworth_NNP Praed_NNP -LRB-_-LRB- 1953_CD -RRB-_-RRB- ;_: Five_CD Uncollected_NNP Essays_NNPS of_IN Matthew_NNP Arnold_NNP -LRB-_-LRB- 1953_CD -RRB-_-RRB- ;_: and_CC The_DT Poems_NNP of_IN Matthew_NNP Arnold_NNP -LRB-_-LRB- 1965_CD -RRB-_-RRB- ._.
+He_PRP also_RB published_VBD '_'' Robert_NNP Browning_NNP :_: Selected_NNP Poems_NNP '_POS -LRB-_-LRB- 1967_CD -RRB-_-RRB- Allott_NNP 's_POS Collected_NNP Poems_NNP was_VBD published_VBN posthumously_RB in_IN 1975_CD ._.
+He_PRP was_VBD a_DT witty_JJ and_CC popular_JJ lecturer_NN ,_, with_IN a_DT great_JJ affection_NN for_IN cats_NNS ._.
+He_PRP also_RB smoked_VBD heavily_RB ,_, believing_VBG wrongly_RB that_IN an_DT earlier_JJR bout_NN of_IN tuberculosis_NN would_MD confer_VB protection_NN ._.
+He_PRP did_VBD in_IN fact_NN die_NN of_IN lung_NN cancer_NN ._.
+A_DT new_JJ revised_VBN and_CC expanded_VBN edition_NN of_IN Allott_NNP 's_POS Collected_NNP Poems_NNP ,_, edited_VBN ,_, introduced_VBN and_CC annotated_VBN by_IN Michael_NNP Murphy_NNP ,_, was_VBD published_VBN in_IN 2008_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB-

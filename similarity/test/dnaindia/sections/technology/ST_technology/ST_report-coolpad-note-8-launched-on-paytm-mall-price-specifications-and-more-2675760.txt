@@ -1,0 +1,18 @@
+Coolpad_NNP has_VBZ introduced_VBN a_DT new_JJ smartphone_NN called_VBD the_DT Coolpad_NNP Note_NN 8_CD in_IN India_NNP ._.
+The_DT device_NN is_VBZ available_JJ in_IN a_DT single_JJ variant_NN ''_'' 4GB_NNP RAM_NNP and_CC 64GB_NNP internal_JJ storage_NN priced_VBN at_IN Rs_NNP 9,999_CD ._.
+It_PRP will_MD be_VB available_JJ for_IN purchase_NN via_IN Paytm_NNP in_IN a_DT Black_NNP Piano_NNP color_NN variant_NN ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 65.99-inch_JJ full-HD_JJ +_NN display_NN with_IN an_DT aspect_NN ratio_NN of_IN 18:9_CD and_CC a_DT 1080x2160_JJ pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT 1.5_CD GHz_NNP MediaTek_NNP MTK6750T_NNP quad-core_NN processor_NN with_IN 4GB_CD of_IN RAM_NNP ._.
+Running_VBG Android_JJ 8.0_CD Oreo_NNP ,_, the_DT device_NN includes_VBZ an_DT internal_JJ storage_NN of_IN 64GB_NNP and_CC can_MD be_VB further_JJ expanded_VBN up_RP to_TO 128GB_NNP via_IN microSD_NNP card_NN ._.
+The_DT device_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP -_: 16MP_CD primary_JJ sensor_NN along_IN with_IN a_DT 0.3_CD MP_NNP secondary_JJ sensor_NN ._.
+It_PRP also_RB features_VBZ an_DT 8MP_JJ front-facing_JJ camera_NN ._.
+Connectivity_NN features_NNS include_VBP Wi-Fi_NNP 802.11_CD b\/g\/n_NN and_CC Bluetooth_NNP v4_CD .2_CD ,_, 3.5_CD mm_NN audio_JJ jack_NN ._.
+A_DT 4000mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.
+Recently_RB ,_, Coolpad_NNP ,_, announced_VBD the_DT launch_NN of_IN Coolpad_NNP Note_NN 6_CD in_IN India_NNP ._.
+The_DT device_NN will_MD be_VB available_JJ in_IN two_CD variants_NNS in_IN India_NNP ;_: 4GB_NNP +_NNP 32_CD GB_NNP and_CC 4GB_NNP +_NNP 64GB_NNP ,_, priced_VBN at_IN Rs_NNS ._.
+8,999_CD and_CC Rs_NNP ._.
+9,999_CD respectively_RB ._.
+The_DT smartphone_NN ,_, an_DT offline_JJ exclusive_JJ ,_, is_VBZ an_DT extension_NN to_TO the_DT Coolpad_NNP Note_NN series_NN in_IN India_NNP ,_, and_CC comes_VBZ with_IN a_DT dual_JJ selfie_NN camera_NN with_IN additional_JJ flash_NN with_IN a_DT capability_NN to_TO capture_VB 120_CD degree-wide_JJ angle_NN selfies_NNS ._.
+Note_VB 6_CD is_VBZ equipped_VBN with_IN an_DT 8_CD MP_NNP +_CD 5_CD MP_NNP dual_JJ front_NN camera_NN for_IN 120_CD degree_NN wide_JJ angle_NN selfies_NNS and_CC has_VBZ an_DT arc_JJ style_NN design_NN with_IN a_DT 5.5-inch_JJ Full_NNP HD_NNP display_NN with_IN a_DT 1920_CD x_SYM 1080_CD pixels_NNS resolution_NN to_TO ensure_VB a_DT great_JJ viewing_NN experience_NN and_CC has_VBZ Android_JJ 7.1_CD ._.
+It_PRP comprises_VBZ a_DT battery_NN capacity_NN of_IN 4070_CD mAh_NNP and_CC standby_JJ time_NN of_IN 350_CD hours_NNS ._.
+Powered_VBN by_IN Qualcomm_NNP Snapdragon_NNP 435_CD chipset_NN ,_, the_DT device_NN features_VBZ a_DT 1.4_CD GHz_NNP Octa_NNP Core_NNP processor_NN ._.

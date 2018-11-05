@@ -1,0 +1,11 @@
+Trezza_NNP Azzopardi_NNP -LRB-_-LRB- born_VBN 1961_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN ._.
+Azzopardi_NNP was_VBD born_VBN in_IN Cardiff_NNP to_TO a_DT Maltese_JJ father_NN and_CC a_DT Welsh_JJ mother_NN ._.
+She_PRP studied_VBD creative_JJ writing_NN at_IN the_DT University_NNP of_IN East_NNP Anglia_NNP ,_, and_CC currently_RB works_VBZ as_IN a_DT lecturer_NN there_RB ._.
+She_PRP also_RB has_VBZ an_DT MA_NNP in_IN Film_NNP and_CC Television_NNP studies_NNS from_IN the_DT University_NNP of_IN Derby_NNP ._.
+Her_PRP$ first_JJ novel_NN ,_, The_DT Hiding_NNP Place_NNP ,_, was_VBD shortlisted_VBN for_IN the_DT Booker_NNP Prize_NNP in_IN 2000_CD -LRB-_-LRB- a_DT significant_JJ accomplishment_NN ,_, since_IN first_JJ novels_NNS are_VBP not_RB often_RB shortlisted_VBD for_IN the_DT Booker_NNP -RRB-_-RRB- ._.
+Her_PRP$ novel_NN also_RB won_VBD the_DT Geoffrey_NNP Faber_NNP Memorial_NNP Prize_NNP and_CC was_VBD also_RB shortlisted_VBN for_IN the_DT James_NNP Tait_NNP Black_NNP Memorial_NNP Prize_NNP ._.
+Her_PRP$ second_JJ novel_NN ,_, ``_`` Remember_VB Me_PRP ''_'' ,_, was_VBD shortlisted_VBN for_IN the_DT Wales_NNP Book_NNP of_IN the_DT Year_NN ._.
+``_`` Winterton_NNP Blue_NNP ''_'' was_VBD longlisted_VBN for_IN the_DT 2008_CD Wales_NNP Book_NNP of_IN the_DT Year_NN ._.
+She_PRP also_RB writes_VBZ short_JJ stories_NNS ,_, and_CC readings_NNS for_IN BBC_NNP radio_NN ._.
+Her_PRP$ books_NNS have_VBP been_VBN translated_VBN into_IN 17_CD languages_NNS ._.
+Azzopardi_NNP currently_RB lives_VBZ in_IN Norwich_NNP ,_, in_IN the_DT east_JJ of_IN England_NNP ._.

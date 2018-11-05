@@ -1,0 +1,274 @@
+In_PIN
+yet_RB
+another_DT
+incident_NN
+of_PIN
+mobocracy_NN
+,_,
+a_DT
+man_NN
+was_VBD [PASS]
+beaten_VBN
+to_PIN
+death_NN
+in_PIN
+Bihar_NN
+'s_POS
+Sitamari_NN
+district_NN
+on_PIN
+Sunday_NN
+The_NN
+victim_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Rupesh_NN
+._.
+He_TPP3
+was_VBD [BYPA]
+thrashed_VBN
+by_PIN
+the_DT
+crowd_NN
+after_IN
+a_DT
+van_NN
+driver_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+man_NN
+had_VBD [PEAS]
+snatched_VBN
+money_NN
+from_PIN
+him_TPP3
+._.
+Bihar_NN
+police_NN
+have_VPRT [PEAS]
+registered_VBN
+an_DT
+FIR_NN
+against_PIN
+150_CD
+people_NN
+in_PIN
+the_DT
+case_NN
+._.
+The_DT
+victim_NN
+was_VBD [BEMA]
+first_PRED
+taken_VBN
+to_PIN
+the_DT
+Sadar_NN
+hospital_NN
+and_CC
+then_RB
+shifted_VBD
+to_PIN
+the_DT
+Patna_NN
+Medical_NN
+College_NN
+and_PHC
+Hospital_NN
+where_RB
+he_TPP3
+succumbed_VBD
+to_PIN
+his_TPP3
+injuries_NN
+._.
+Asked_VBN [SUAV]
+whether_IN [WHCL]
+the_DT
+`_``
+snatched_JJ
+'_''
+money_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+,_,
+Deputy_NN
+SP_NN
+Veer_NN
+Dhirendra_NN
+said_VBD [PUBV] [THATD]
+the_DT
+case_NN
+was_VBD
+being_VBG [PASS]
+investigated_VBN
+from_PIN
+all_QUAN
+angles_NN
+._.
+oeWhat_NN
+kind_NULL
+of_HDG
+law_NN
+is_VPRT [BEMA]
+it_PIT
+to_TO
+beat_VB
+someone_QUPR
+to_PIN
+death_NN
+just_EMPH
+because_CAUS
+you_SPP2
+think_VPRT [PRIV] [THATD]
+he_TPP3
+is_VPRT [BEMA]
+criminal_PRED
+?_.
+People_NN
+are_VPRT
+being_VBG [PASS]
+killed_VBN
+on_PIN
+roads_NN
+now_TIME
+,_,
+people_NN
+are_VPRT
+losing_VBG
+faith_NN
+in_PIN
+judiciary_NN
+,_,
+''_''
+said_VBD [PUBV] [THATD]
+the_DT
+victim_NN
+<sup>_VPRT
+TM_NN
+</sup>_NN
+s_VPRT
+kin_FW
+._.
+On_PIN
+Monday_NN
+,_,
+Vice_NN
+President_NN
+Venkaiah_NN
+Naidu_NN
+said_VBD [PUBV] [THATD]
+those_DEMP
+involved_VBN
+in_PIN
+incidents_NN
+of_PIN
+hate_NN
+and_PHC
+lynching_GER
+can_POMD
+not_XX0
+call_VB
+themselves_TPP3
+nationalists_NN
+while_OSUB
+holding_VBG [PRIV]
+that_THVC
+legislation_NOMZ
+alone_RB
+was_VBD
+not_XX0
+enough_RB
+as_IN
+a_DT
+change_NN
+in_PIN
+societal_JJ
+behavior_NN
+was_VBD [PASS]
+required_VBN [SUAV]
+to_TO
+prevent_VB
+such_JJ
+cases_NN
+._.
+The_DT
+vice_NN
+president_NN
+also_RB
+expressed_VBD
+anguish_NN
+over_IN
+the_DT
+politicisation_NOMZ
+of_PIN
+incidents_NN
+of_PIN
+lynching_GER
+,_,
+saying_VBG [PUBV] [THATD]
+such_JJ
+cases_NN
+should_NEMD
+not_XX0
+be_VB [PASS]
+linked_VBN
+with_PIN
+political_JJ
+parties_NN
+._.
+``_``
+Societal_JJ
+change_NN
+-LRB-_-LRB-
+is_VPRT [PASS]
+needed_VBN
+-RRB-_-RRB-
+._.
+This_DEMP
+-LRB-_-LRB-
+lynching_VBG
+-RRB-_-RRB-
+is_VPRT
+not_XX0
+because_CAUS
+of_PIN
+this_DEMO
+party_NN
+or_CC
+that_DEMO
+party_NN
+._.
+The_DT
+moment_NOMZ
+you_SPP2
+attribute_VPRT
+it_PIT
+to_PIN
+these_DEMO
+parties_NN
+,_,
+the_DT
+cause_NN
+is_VPRT [PASS]
+lost_VBN
+._.
+That_DEMP
+is_VPRT
+what_WP
+is_VPRT
+happening_VBG
+,_,
+let_VB
+me_FPP1
+be_VB [BEMA]
+very_AMP
+frank_PRED
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.

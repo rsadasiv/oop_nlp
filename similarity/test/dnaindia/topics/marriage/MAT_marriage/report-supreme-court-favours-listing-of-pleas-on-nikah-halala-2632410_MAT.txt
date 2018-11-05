@@ -1,0 +1,141 @@
+The_DT
+Supreme_NN
+Court_NN
+agreed_VBD [SUAV] [PUBV]
+on_PIN
+Monday_NN
+to_TO
+consider_VB [PRIV]
+listing_GER
+of_PIN
+a_DT
+batch_NN
+of_PIN
+petitions_NOMZ
+challenging_VBG [WZPRES]
+the_DT
+practices_NN
+of_PIN
+polygamy_NN
+and_CC
+nikah_JJ
+halala_NN
+._.
+The_DT
+court_NN
+considered_VBD [PRIV]
+the_DT
+submissions_NN
+of_PIN
+senior_JJ
+advocate_NN
+V_NN
+Shekhar_NN
+that_TOBJ
+the_DT
+petitions_NOMZ
+be_VB [PASS]
+listed_VBN
+before_IN
+a_DT
+five-judge_JJ
+Constitution_NOMZ
+bench_NN
+for_PIN
+final_JJ
+adjudication_NOMZ
+._.
+``_``
+We_FPP1
+will_PRMD
+look_VB
+into_PIN
+it_PIT
+,_,
+''_''
+the_DT
+court_NN
+said_VBD [PUBV]
+._.
+Nikah_NN
+halala_NN
+is_VPRT [BEMA]
+a_DT
+practice_NN
+intended_VBN [SUAV]
+to_TO
+curb_VB
+the_DT
+incidence_NN
+of_PIN
+divorce_NN
+._.
+It_PIT
+requires_VPRT [SUAV]
+a_DT
+female_JJ
+divorcee_NN
+to_TO
+marry_VB
+someone_QUPR
+else_RB
+,_,
+consummate_JJ
+the_DT
+marriage_NN
+and_CC
+then_RB
+get_VB
+a_DT
+divorce_NN
+to_TO
+remarry_VB
+her_TPP3
+previous_JJ
+husband_NN
+._.
+Shekhar_NN
+and_PHC
+lawyer_NN
+Ashwini_NN
+Upadhyay_NN
+,_,
+appearing_VBG [SMP] [PRESP]
+for_PIN
+one_CD
+of_PIN
+the_DT
+Delhi-based_JJ
+petitioners_NN
+Sameena_NN
+Begum_NN
+,_,
+alleged_VBD [PUBV]
+that_THVC
+she_TPP3
+was_VBD [PASS]
+threatened_VBN
+and_PHC
+asked_VBN [SUAV]
+to_TO
+withdraw_VB
+her_TPP3
+petition_NOMZ
+challenging_VBG [WZPRES]
+`_``
+nikah_JJ
+halala_NN
+'_''
+and_ANDC
+polygamy_NN
+among_PIN
+Muslims_NN
+._.
+The_DT
+bench_NN
+asked_VBD [SUAV]
+the_DT
+government_NOMZ
+to_TO
+respond_VB
+._.

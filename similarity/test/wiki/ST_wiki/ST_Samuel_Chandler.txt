@@ -1,0 +1,20 @@
+Samuel_NNP Chandler_NNP -LRB-_-LRB- 1693_CD ''_'' 8_CD May_NNP 1766_CD -RRB-_-RRB- was_VBD a_DT British_JJ Nonconformist_NNP minister_NN ,_, dissenter_NN and_CC polemicist_NN pamphleteer_NN ._.
+He_PRP energetically_RB engaged_VBD with_IN the_DT religious_JJ disputes_NNS and_CC published_VBN many_JJ sermons_NNS ,_, pamphlets_NNS and_CC letters_NNS ._.
+He_PRP translated_VBD and_CC expanded_VBD the_DT Historia_NNP Inquisitionis_NNP ,_, of_IN Philipp_NNP van_NNP Limborch_NNP ,_, from_IN Latin_NNP into_IN English_NNP ._.
+Samuel_NNP Chandler_NNP was_VBD born_VBN at_IN Hungerford_NNP in_IN Berkshire_NNP ,_, where_WRB his_PRP$ father_NN was_VBD a_DT minister_NN ._.
+He_PRP went_VBD to_TO school_NN in_IN Gloucester_NNP with_IN his_PRP$ lifelong_JJ friends_NNS Bishop_NNP Butler_NNP and_CC Archbishop_NNP Secker_NNP ,_, and_CC continued_VBD his_PRP$ studies_NNS at_IN Leiden_NNP ._.
+In_IN recognition_NN of_IN his_PRP$ talents_NNS and_CC aptitude_NN for_IN learning_VBG he_PRP was_VBD elected_VBN fellow_NN of_IN the_DT Royal_NNP and_CC Antiquarian_NNP Societies_NNPS ,_, and_CC was_VBD made_VBN DD_NNP of_IN Edinburgh_NNP and_CC Glasgow_NNP ._.
+He_PRP refused_VBD offers_NNS of_IN high_JJ preferment_NN in_IN the_DT Church_NNP of_IN England_NNP choosing_VBG instead_RB to_TO remain_VB a_DT Presbyterian_JJ minister_NN to_TO the_DT end_NN of_IN his_PRP$ life_NN ._.
+His_PRP$ outlook_NN could_MD be_VB described_VBN as_IN moderately_RB Calvinist_NN with_IN Arianist_NNP leanings_NNS ._.
+Chandler_NNP played_VBD a_DT leading_JJ role_NN in_IN the_DT heated_JJ deist_NN controversies_NNS of_IN his_PRP$ time_NN ,_, and_CC discussed_VBD the_DT possibility_NN of_IN an_DT `_`` Act_NN of_IN Comprehension_NNP '_POS with_IN bishops_NNS ._.
+From_IN 1716_CD to_TO 1726_CD he_PRP preached_VBD at_IN Peckham_NNP ,_, and_CC was_VBD pastor_NN of_IN the_DT Old_NNP Jewry_NNP meeting-house_NN for_IN forty_JJ years_NNS ._.
+When_WRB he_PRP became_VBD a_DT victim_NN of_IN the_DT South_NNP Sea_NNP Bubble_NNP financial_JJ crash_NN of_IN 1720_CD and_CC found_VBD himself_PRP in_RP debt_NN ,_, he_PRP ran_VBD a_DT book-shop_NN -LRB-_-LRB- 1_CD -RRB-_-RRB- called_VBN ``_`` The_DT Bible_NNP and_CC Crown_NNP ''_'' in_IN the_DT Poultry_NNP ,_, in_IN London_NNP for_IN a_DT few_JJ years_NNS ._.
+He_PRP was_VBD elected_VBN a_DT Fellow_NNP of_IN the_DT Royal_NNP Society_NNP in_IN December_NNP ,_, 1754_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Samuel_NNP Chandler_NNP was_VBD buried_VBN in_IN Bunhill_NNP Fields_NNP cemetery_NN ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Chisholm_NNP ,_, Hugh_NNP ,_, ed_VBD ._.
+-LRB-_-LRB- 1911_CD -RRB-_-RRB- ._.
+``_`` Chandler_NNP ,_, Samuel_NNP ''_'' ._.
+Encyclopædia_NNP Britannica_NNP ._.
+5_CD -LRB-_-LRB- 11th_JJ ed_VBN ._. -RRB-_-RRB- ._.
+Cambridge_NNP University_NNP Press_NNP ._.
+p._FW 838_CD ._.

@@ -1,0 +1,9 @@
+John_NNP Brady_NNP -LRB-_-LRB- -_: 5_CD December_NNP 1814_CD -RRB-_-RRB- ,_, was_VBD a_DT clerk_NN and_CC author_NN ._.
+Brady_NNP was_VBD a_DT clerk_NN in_IN the_DT victualling_JJ office_NN ._.
+He_PRP was_VBD the_DT author_NN of_IN Clavis_NNP Calendaria_NNP ;_: or_CC a_DT Compendious_NNP Analysis_NNP of_IN the_DT Calendar_NN :_: illustrated_VBN with_IN ecclesiastical_JJ ,_, historical_JJ ,_, and_CC classical_JJ anecdotes_NNS ,_, 2_CD vols._NN ,_, London_NNP ,_, 1812_CD ,_, 8vo_CD ;_: 3rd_CD edit._NN ,_, 1815_CD ._.
+The_DT compiler_NN also_RB published_VBD an_DT abridgment_NN of_IN the_DT work_NN ,_, and_CC some_DT extracts_NNS from_IN it_PRP appeared_VBD in_IN 1826_CD ,_, under_IN the_DT title_NN The_DT Credulity_NN of_IN our_PRP$ Forefathers_NNS ._.
+Brady_NNP died_VBD at_IN Kennington_NNP ,_, Surrey_NNP ,_, on_IN 5_CD December_NNP 1814_CD ._.
+His_PRP$ son_NN ,_, John_NNP Henry_NNP Brady_NNP ,_, arranged_VBD and_CC adapted_VBD for_IN publication_NN Varieties_NNS of_IN Literature_NN ;_: being_VBG principally_RB selections_NNS from_IN the_DT portfolio_NN of_IN the_DT late_JJ John_NNP Brady_NNP ,_, London_NNP ,_, 1826_CD ,_, 8vo_CD ._.
+``_`` Brady_NNP ,_, John_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

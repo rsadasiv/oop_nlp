@@ -1,0 +1,6 @@
+Frederick_NNP Sadleir_NNP Brereton_NNP CBE_NNP -LRB-_-LRB- 5_CD August_NNP 1872_CD ''_'' 12_CD August_NNP 1957_CD -RRB-_-RRB- was_VBD a_DT decorated_VBN soldier_NN and_CC an_DT author_NN of_IN children_NNS 's_POS books_NNS on_IN heroic_JJ deeds_NNS conducted_VBN in_IN the_DT name_NN of_IN the_DT British_JJ Empire_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Brereton_NNP was_VBD a_DT prolific_JJ author_NN ._.
+By_IN the_DT time_NN he_PRP died_VBD he_PRP had_VBD written_VBN over_IN 40_CD books_NNS ._.
+Brereton_NNP served_VBD in_IN the_DT RAMC_NNP during_IN the_DT First_NNP World_NNP War_NNP with_IN the_DT rank_NN of_IN Brevet_NNP Lieutenant_NNP Colonel_NNP ._.
+In_IN 1919_CD he_PRP was_VBD appointed_VBN as_IN a_DT Commander_NNP of_IN the_DT Portuguese_NNP Order_NNP of_IN Aviz_NNP and_CC a_DT CBE_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brereton_NNP married_JJ Ethel_NNP Lamb_NNP in_IN 1898_CD and_CC Isobel_NNP Murdoch_NNP in_IN 1953_CD ._.

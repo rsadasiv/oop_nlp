@@ -1,0 +1,12 @@
+Volkswagen_NN said_VBD Tuesday_NNP its_PRP$ subsidiary_NN Audi_NNP would_MD not_RB contest_VB an_DT 800-million-euro_JJ -LRB-_-LRB- USD_NNP 927_CD million_CD -RRB-_-RRB- fine_JJ issued_VBN by_IN German_JJ prosecutors_NNS over_IN ``_`` deviations_NNS from_IN regulatory_JJ requirements_NNS ''_'' in_IN diesel_JJ engines_NNS ._.
+``_`` Audi_NNP AG_NNP has_VBZ accepted_VBN the_DT fine_NN ''_'' investigators_NNS levied_VBD for_IN ``_`` deviations_NNS from_IN regulatory_JJ requirements_NNS in_IN certain_JJ V6_NNP and_CC V8_NNP diesel_NN aggregates_NNS and_CC diesel_JJ vehicles_NNS ''_'' ,_, the_DT group_NN said_VBD in_IN a_DT statement_NN ,_, adding_VBG that_IN ``_`` the_DT fine_NN will_MD directly_RB affect_VB Volkswagen_NNP AG_NNP 's_POS financial_JJ earnings_NNS ''_'' for_IN 2018_CD ._.
+Meanwhile_RB ,_, the_DT world_NN is_VBZ soon_RB set_VBN to_TO move_VB to_TO an_DT all-electric_JJ ,_, possibly_RB autonomous_JJ ,_, transportation_NN ._.
+Until_IN now_RB ,_, Tesla_NNP is_VBZ one_CD of_IN the_DT pioneers_NNS in_IN commercialising_VBG the_DT technology_NN for_IN casual_JJ users_NNS ._.
+Now_RB ,_, adding_VBG to_TO the_DT brigade_NN is_VBZ Audi_NNP which_WDT unveiled_VBD its_PRP$ first_JJ ever_RB all-electric_JJ car_NN called_VBN ._.
+The_DT Audi_NNP e-tron_NN is_VBZ a_DT mid-sized_JJ SUV_NNP has_VBZ been_VBN designed_VBN to_TO retain_VB the_DT normal_JJ for_IN a_DT car_NN ._.
+Filip_NNP Brabec_NNP ,_, Audi_NNP VP_NNP of_IN product_NN management_NN ,_, said_VBD that_IN the_DT company_NN did_VBD not_RB want_VB to_TO create_VB a_DT car_NN that_WDT is_VBZ edgy_JJ and_CC quirky_JJ ,_, Mashable_NNP reported_VBD ._.
+Reservations_NNS for_IN the_DT Audi_NNP e-tron_NN opened_VBD up_RP on_IN Monday_NNP night_NN with_IN a_DT refundable_JJ deposit_NN of_IN USD_NNP 1,000_CD ._.
+The_DT base_NN price_NN of_IN the_DT electric_JJ SUV_NNP is_VBZ USD_NNP 74,000_CD and_CC go_VB all_PDT the_DT way_NN up_IN to_TO USD_NNP 86,700_CD ._.
+Audi_NNP e-tron_NN is_VBZ capable_JJ of_IN going_VBG from_IN 0_CD to_TO 60_CD mph_NN in_IN 5.5_CD seconds_NNS with_IN a_DT top_JJ speed_NN of_IN 124_CD mph_NN ._.
+With_IN fast_JJ charging_NN ,_, the_DT car_NN can_MD reach_VB 80_CD percent_NN in_IN about_IN 30_CD minutes_NNS ._.
+Other_JJ features_NNS include_VBP virtual_JJ cockpit_NN ,_, wireless_JJ smartphone_NN charger_NN ,_, and_CC touch-screen_JJ controls_NNS ._.

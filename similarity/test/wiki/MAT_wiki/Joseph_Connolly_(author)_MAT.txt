@@ -1,0 +1,115 @@
+Joseph_NN
+Connolly_NN
+-LRB-_-LRB-
+born_VBN
+23_CD
+March_NN
+1950_CD
+-RRB-_-RRB-
+is_VPRT [BEMA]
+a_DT
+British_JJ
+journalist_NN
+,_,
+novelist_NN
+,_,
+non-fiction_JJ
+writer_NN
+and_PHC
+bibliophile_NN
+._.
+For_PIN
+many_QUAN
+years_NN
+Connolly_NN
+was_VBD [BEMA]
+the_DT
+proprietor_NN
+of_PIN
+The_DT
+Flask_NN
+Bookshop_NN
+in_PIN
+Hampstead_NN
+,_,
+London_NN
+._.
+Having_VBG [PEAS]
+started_VBN
+writing_VBG [PUBV]
+fiction_NOMZ
+rather_RB
+late_TIME
+in_PIN
+life_NN
+,_,
+he_TPP3
+is_VPRT [SPAU] [PASS]
+best_RB
+known_VBN [PRIV]
+today_TIME
+for_PIN
+his_TPP3
+comic_JJ
+novels_NN
+,_,
+especially_RB
+in_PIN
+France_NN
+,_,
+where_RB
+they_TPP3
+have_VPRT [PEAS]
+been_VBN [BYPA]
+translated_VBN
+by_PIN
+Alain_NN
+Defossé_NN
+._.
+He_TPP3
+also_RB
+contributes_VPRT
+to_PIN
+The_DT
+Times_NN
+and_CC
+various_JJ
+other_JJ
+publications_NOMZ
+._.
+Connolly_NN
+lives_VPRT
+in_PIN
+Hampstead_NN
+._.
+His_TPP3
+novels_NN
+are_VPRT [BYPA]
+published_VBN
+by_PIN
+Faber_NN
+and_PHC
+Faber_NN
+except_PIN
+England_NN
+'s_POS
+Lane_NN
+,_,
+Boys_NN
+and_PHC
+Girls_NN
+,_,
+Style_NN
+and_CC
+This_DEMP
+is_VPRT [BEMA]
+64_CD
+which_WDT
+are_VPRT [BYPA]
+published_VBN
+by_PIN
+Quercus_NN
+._.
+-LRB-_-LRB-
+1_CD
+-RRB-_-RRB-

@@ -1,0 +1,1 @@
+Ernest_NNP Franklin_NNP Bozman_NNP -LRB-_-LRB- 1895_CD ``_`` 1968_CD -RRB-_-RRB- is_VBZ a_DT British_JJ author_NN and_CC the_DT editor_NN of_IN two_CD editions_NNS of_IN Everyman_NNP 's_POS Encyclopaedia_NNP ._.

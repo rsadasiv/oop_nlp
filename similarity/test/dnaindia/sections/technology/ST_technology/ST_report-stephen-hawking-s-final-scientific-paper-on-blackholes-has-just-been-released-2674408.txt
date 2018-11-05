@@ -1,0 +1,18 @@
+Stephen_NNP Hawking_NNP 's_POS final_JJ scientific_JJ paper_NN --_: which_WDT was_VBD completed_VBN days_NNS before_IN the_DT British_JJ physicist_NN 's_POS death_NN --_: has_VBZ been_VBN written_VBN and_CC posted_VBN online_NN by_IN his_PRP$ colleagues_NNS at_IN Cambridge_NNP and_CC Harvard_NNP universities_NNS ._.
+The_DT paper_NN named_VBN Black_NNP Hole_NNP Entropy_NNP and_CC Soft_NNP Hair_NNP ,_, tackles_VBZ with_IN what_WP happens_VBZ to_TO information_NN when_WRB it_PRP falls_VBZ into_IN a_DT blackhole_NN ,_, a_DT problem_NN that_IN theoretical_JJ physicists_NNS refer_VBP to_TO as_IN `_`` the_DT information_NN paradox_NN '_'' ,_, said_VBD researchers_NNS from_IN Cambridge_NNP University_NNP in_IN the_DT UK_NNP ._.
+It_PRP was_VBD completed_VBN in_IN the_DT days_NNS before_IN Hawking_VBG 's_POS death_NN in_IN March_NNP ,_, and_CC has_VBZ now_RB been_VBN written_VBN up_RP by_IN his_PRP$ colleagues_NNS at_IN and_CC posted_VBD online_NN ,_, `_`` The_DT Guardian_NNP '_POS reported_VBD ._.
+According_VBG to_TO co-author_NN Malcolm_NNP Perry_NNP ,_, a_DT professor_NN at_IN Cambridge_NNP University_NNP ,_, the_DT information_NN paradox_NN was_VBD ``_`` at_IN the_DT center_NN of_IN Hawking_NNP 's_POS life_NN ''_'' for_IN over_IN 40_CD years_NNS ._.
+In_IN 1915_CD ,_, Albert_NNP Einstein_NNP published_VBD his_PRP$ theory_NN of_IN general_JJ relativity_NN ,_, which_WDT described_VBD how_WRB gravity_NN arises_VBZ from_IN the_DT spacetime-bending_JJ effects_NNS of_IN matter_NN ._.
+However_RB ,_, Einstein_NNP made_VBD important_JJ predictions_NNS about_IN black_JJ holes_NNS too_RB ,_, notably_RB that_IN a_DT black_JJ hole_NN can_MD be_VB completely_RB defined_VBN by_IN only_RB three_CD features_NNS :_: its_PRP$ mass_NN ,_, charge_NN ,_, and_CC spin_VB ._.
+Nearly_RB 60_CD years_NNS later_RB ,_, Hawking_VBG argued_VBD that_IN black_JJ holes_NNS also_RB have_VBP a_DT temperature_NN ._.
+Since_IN hot_JJ objects_NNS lose_VBP heat_NN into_IN space_NN ,_, the_DT ultimate_JJ fate_NN of_IN a_DT black_JJ hole_NN is_VBZ to_TO evaporate_VB out_IN of_IN existence_NN ._.
+However_RB ,_, the_DT rules_NNS of_IN the_DT quantum_NN world_NN dictate_VBP that_IN information_NN is_VBZ never_RB lost_VBN ._.
+So_RB what_WP happens_VBZ to_TO all_PDT the_DT information_NN contained_VBN in_IN an_DT object_NN when_WRB it_PRP tumbles_VBZ into_IN a_DT black_JJ hole_NN ._.
+In_IN the_DT latest_JJS paper_NN ,_, Hawking_VBG and_CC his_PRP$ colleagues_NNS showed_VBD how_WRB some_DT of_IN the_DT information_NN may_MD be_VB preserved_VBN ._.
+Days_NNS before_IN Hawking_VBG died_VBD ,_, Perry_NNP was_VBD at_IN Harvard_NNP working_VBG on_IN the_DT paper_NN with_IN colleagues_NNS ._.
+He_PRP was_VBD not_RB aware_JJ how_WRB ill_JJ Hawking_NN was_VBD and_CC called_VBD to_TO give_VB the_DT physicist_NN an_DT update_VB ._.
+It_PRP may_MD have_VB been_VBN the_DT last_JJ scientific_JJ exchange_NN Hawking_NN had_VBD ._.
+``_`` It_PRP was_VBD very_RB difficult_JJ for_IN Stephen_NNP to_TO communicate_VB and_CC I_PRP was_VBD put_VBN on_IN a_DT loudspeaker_NN to_TO explain_VB where_WRB we_PRP had_VBD got_VBN to_TO ._.
+When_WRB I_PRP explained_VBD it_PRP ,_, he_PRP simply_RB produced_VBD an_DT enormous_JJ smile_NN ._.
+I_PRP told_VBD him_PRP we_PRP 'd_MD got_VBD somewhere_RB ._.
+He_PRP knew_VBD the_DT final_JJ result_NN ,_, ''_'' he_PRP said_VBD ._.

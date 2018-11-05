@@ -1,0 +1,787 @@
+by_PIN
+tha_NN
+way_NN
+i_FPP1
+wrote_VBD [PUBV]
+this_DEMO
+yester_JJ
+day_NN
+but_CC
+i_FPP1
+never_RB
+posted_VBD
+it_PIT
+ok_VBD
+???_CD
+ello_NN
+ello_NN
+ello_NN
+u_NN
+eva_NN
+noticed_VBD [PRIV] [THATD]
+people_NN
+say_VB [PUBV]
+\*_SYM
+dear_RB
+diary_JJ
+\*_SYM
+it_PIT
+is_VPRT [BEMA]
+a_DT
+loda_NN
+bolocs_VPRT
+it_PIT
+is_VPRT [BEMA]
+pussy_JJ
+language_NN
+do_VPRT
+diarys_NN
+have_VPRT
+intros_NN
+???_VPRT
+o_RB
+well_RB
+this_DEMO
+wun_NN
+wunt_NN
+have_VPRT
+one_CD
+cos_NN
+i_FPP1
+cant_FW
+be_VB [PASS]
+bovad_VBN
+to_PIN
+rite_NN
+wun_NN
+._.
+god_NN
+i_FPP1
+have_VPRT [PEAS]
+gone_VBN
+all_QUAN
+pissed_VBN
+i_FPP1
+am_VPRT
+talkin_FW
+shit_FW
+ent_FW
+i._FW
+today_TIME
+i_FPP1
+went_VBD
+to_TO
+meet_VB
+an_DT
+old_JJ
+m8_CD
+she_TPP3
+is_VPRT [SPAU] [PASS]
+lyk_RB
+well_RB
+changed_VBN
+-LRB-_-LRB-
+4_CD
+tha_NN
+better_JJ
+-RRB-_-RRB-
+\*\*_SYM
+i_FPP1
+fink_FW
+\*\*_SYM
+any_QUAN
+way_NN
+it_PIT
+was_VBD [BEMA]
+a_DT
+rite_NN
+laf_NN
+i_FPP1
+mean_VB [PRIV] [THATD]
+we_FPP1
+got_VBD
+chaised_VBN
+by_PIN
+this_DEMO
+packie_NN
+woman_NN
+cos_VPRT
+we_FPP1
+piked_VBD
+flowers_NN
+out_PIN
+of_PIN
+her_TPP3
+garden_NN
+and_CC
+then_RB
+we_FPP1
+all_QUAN
+squished_VBN
+into_PIN
+a_DT
+tiny_JJ
+photo_NN
+booth_NN
+-LRB-_-LRB-
+wat_NN
+a_DT
+laf_NN
+-RRB-_-RRB-
+well_DPAR
+i_FPP1
+aint_FW
+exactly_RB
+the_DT
+skiny-est_JJ
+of_PIN
+people_NN
+and_CC
+well_RB
+have_VPRT
+u_JJ
+eva_FW
+tried_VBD
+fittin_NN
+5_CD
+people_NN
+in_PIN
+a_DT
+photo_NN
+booth_NN
+made_VBN [WZPAST]
+for_PIN
+1_CD
+or_CC
+2_CD
+people_NN
+at_PIN
+the_DT
+most_EMPH
+._.
+i_FPP1
+is_VPRT [BEMA]
+in_PIN
+a_DT
+well_RB
+bad_JJ
+mood_NN
+now_TIME
+i_FPP1
+just_EMPH
+got_VBD
+dumped_VBN
+my_FPP1
+mate_NN
+wana_NN
+kill_VB
+her_TPP3
+self_NN
+i_FPP1
+am_VPRT [BEMA]
+fat_PRED
+and_CC
+this_DEMO
+faggot_NN
+just_EMPH
+asked_VBD [SUAV]
+me_FPP1
+if_COND
+i_FPP1
+was_VBD
+bi_FW
+i_FPP1
+mean_VB [PRIV]
+any_QUAN
+one_NN
+who_WP [WHSUB]
+nos_VPRT
+me_FPP1
+will_PRMD
+no_RB
+that_DEMO
+i_FPP1
+was_VBD
+not_XX0
+am_VB
+not_XX0
+and_CC
+will_PRMD
+not_XX0
+ever_RB
+be_VB
+even_RB
+slightly_DWNT
+gay_JJ
+._.
+movin_NN
+on_PIN
+i_FPP1
+am_VPRT [BEMA]
+on_PIN
+msn_NN
+atm_NN
+and_CC
+i_FPP1
+am_VPRT
+talkin_NN
+to_PIN
+this_DEMO
+girl_NN
+i_FPP1
+had_VBD
+a_DT
+convo_NN
+wiv_NN
+last_JJ
+nite_JJ
+luk_NN
+at_PIN
+it_PIT
+._.
+i_FPP1
+am_VPRT
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+-LRB-_-LRB-
+if_COND
+u_JJ
+neva_NN
+noticed_VBD [PRIV]
+-RRB-_-RRB-
+\*\*_SYM
+BABE_NN
+says_VPRT [PUBV]
+:_:
+hey_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+hu_VB
+r_NN
+u_NN
+-LRB-_-LRB-
+i_FPP1
+dont_FW
+mean_VB [PRIV]
+to_PIN
+b_NN
+rude_JJ
+-RRB-_-RRB-
+BABE_NN
+says_VPRT [PUBV]
+:_:
+Gena_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+u_VB
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+rosie_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+asl_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+14_CD
+f_SYM
+oxfordshire_FW
+BABE_NN
+says_VPRT [PUBV]
+:_:
+15_CD
+f_SYM
+missouri_FW
+BABE_NN
+says_VPRT [PUBV]
+:_:
+r_LS
+u_FW
+bi_FW
+or_CC
+lez_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+bi_JJ
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+mmmmm_NN
+..._:
+._.
+no_DT
+i_FPP1
+ent_FW
+ello_FW
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+i_FPP1
+is_VPRT [BEMA]
+fukin_JJ
+normalo_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+ok_VB
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+BABE_NN
+says_VPRT [PUBV]
+:_:
+wanna_NN
+chat_VPRT
+ello_JJ
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+yer_NN
+ok_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+kool_VB
+BABE_NN
+says_VPRT [PUBV]
+:_:
+hav_NN
+u_NN
+ever_RB
+inzest_JJ
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+u_VB
+wat_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+inzest_VB
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+wat_NN
+does_EMPH
+tha_VB
+mean_JJ
+BABE_NN
+says_VPRT [PUBV]
+:_:
+sex_NN
+with_PIN
+some_QUAN
+one_CD
+i_FPP1
+ur_FW
+family_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+I_FPP1
+do_EMPH
+ello_VB
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+who_WP
+BABE_VPRT
+says_VPRT [PUBV]
+:_:
+mom_NN
+dad_NN
+and_PHC
+sis_NN
+and_PHC
+bro_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+are_VPRT [BEMA]
+they_TPP3
+up_RB
+4_CD
+it_PIT
+-RRB-_-RRB-
+???_CD
+BABE_NN
+says_VPRT [PUBV]
+:_:
+yes_UH
+ello_FW
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+hmmm_NN
+..._:
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+hus_NN
+idea_NN
+was_VBD [BEMA]
+it_PIT
+BABE_NN
+says_VPRT [PUBV]
+:_:
+mine_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+ur_VB
+fukin_JJ
+mad_JJ
+BABE_NN
+says_VPRT [PUBV]
+:_:
+do_EMPH
+u_VB
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+no_DT
+i_FPP1
+fukin_FW
+dont_FW
+i_FPP1
+wouldnt_FW
+touch_NN
+my_FPP1
+family_NN
+with_PIN
+a_DT
+fukin_JJ
+10foot_CD
+long_JJ
+barge_NN
+pole_NN
+let_VB
+alone_RB
+have_VPRT [PEAS]
+fukin_VBN
+sex_NN
+with_PIN
+them_TPP3
+BABE_NN
+says_VPRT [PUBV]
+:_:
+lol_VB
+BABE_NN
+says_VPRT [PUBV]
+:_:
+u_VB
+masterbate_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+my_FPP1
+ass_NN
+do_VPRT
+i_FPP1
+BABE_FW
+says_VPRT [PUBV]
+:_:
+u_VB
+should_NEMD
+u_VB
+know_VB [PRIV]
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+lol_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+who_WP
+do_EMPH
+u_VB
+masterbate_NN
+4_CD
+BABE_NN
+says_VPRT [PUBV]
+:_:
+my_FPP1
+bro_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+how_RB
+old_JJ
+is_VPRT [BEMA]
+he_TPP3
+BABE_VB
+says_VPRT [PUBV]
+:_:
+14_CD
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+does_VPRT
+he_TPP3
+masterbate_VB
+4_CD
+u_JJ
+BABE_NN
+says_VPRT [PUBV]
+:_:
+yes_UH
+BABE_NN
+says_VPRT [PUBV]
+:_:
+hes_NN
+great_JJ
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+he_TPP3
+is_VPRT [BEMA]
+ur_JJ
+fukin_NN
+bruva_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+do_EMPH
+u_VB
+fink_NN
+he_TPP3
+is_VPRT [BEMA]
+fit_JJ
+BABE_NN
+says_VPRT [PUBV]
+:_:
+yes_UH
+BABE_NN
+says_VPRT [PUBV]
+:_:
+hes_NN
+really_EMPH
+hot_JJ
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+omg_NN
+BABE_NN
+says_VPRT [PUBV]
+:_:
+u_VB
+a_DT
+virgin_JJ
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+no_SYNE
+fukin_JJ
+way_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+take_VB
+it_PIT
+u_VB
+aint_JJ
+eva_NN
+The_DT
+following_JJ
+message_NN
+could_POMD
+not_XX0
+be_VB [PASS]
+delivered_VBN
+to_PIN
+all_QUAN
+recipients_NN
+:_:
+take_VB
+it_PIT
+u_VB
+aint_JJ
+eva_NN
+ello_NN
+cheeky_JJ
+wat_NN
+cha_NN
+doin_NN
+says_VPRT [PUBV]
+:_:
+fine_JJ
+fuk_NN
+off_PIN
+then_RB
+The_DT
+following_JJ
+message_NN
+could_POMD
+not_XX0
+be_VB [PASS]
+delivered_VBN
+to_PIN
+all_QUAN
+recipients_NN
+:_:
+fine_JJ
+fuk_NN
+off_PIN
+then_RB
+\*\*_SYM
+any_QUAN
+way_NN
+i_FPP1
+am_VPRT [BEMA]
+off_PIN
+ta_NN
+ta_NN
+4_CD
+now_TIME
+-LRB-_-LRB-
+ttfn_NN
+-RRB-_-RRB-
+-LRB-_-LRB-
+talk_NN
+asap_NN
+-RRB-_-RRB-
+luv_NN
+ya_PRP
+xxx_FW
+yer_FW
+yer_FW
+no_SYNE
+biggy_NN
+just_EMPH
+cos_VPRT
+i_FPP1
+never_RB
+wrote_VBD [PUBV]
+4_CD
+a_DT
+while_OSUB
+maybe_HDG
+i_FPP1
+was_VBD [BEMA]
+bizy_JJ
+u_NN
+no_DT
+i_FPP1
+do_EMPH
+hav_VB
+a_DT
+lyf_NN
+unlyk_JJ
+u_NN
+lusers_NN
+any_QUAN
+way_NN
+i_FPP1
+must_NEMD
+dash_VB
+i_FPP1
+am_VPRT [BEMA]
+on_PIN
+da_NN
+move_NN

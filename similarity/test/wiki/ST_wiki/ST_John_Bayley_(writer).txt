@@ -1,0 +1,18 @@
+John_NNP Oliver_NNP Bayley_NNP ,_, CBE_NNP ,_, FBA_NNP ,_, FRSL_NNP -LRB-_-LRB- 27_CD March_NNP 1925_CD ''_'' 12_CD January_NNP 2015_CD -RRB-_-RRB- was_VBD a_DT British_JJ literary_JJ critic_NN and_CC writer_NN ._.
+He_PRP was_VBD Warton_NNP Professor_NNP of_IN English_NNP at_IN the_DT University_NNP of_IN Oxford_NNP from_IN 1974_CD to_TO 1992_CD ,_, and_CC the_DT husband_NN of_IN the_DT writer_NN Iris_NNP Murdoch_NNP ._.
+Bayley_NNP was_VBD born_VBN in_IN Lahore_NNP ,_, British_NNP India_NNP ,_, and_CC educated_VBN at_IN Eton_NNP ,_, where_WRB he_PRP studied_VBD under_IN G._NNP W._NNP Lyttelton_NNP ,_, who_WP also_RB taught_VBD Aldous_NNP Huxley_NNP ,_, J._NNP B._NNP S._NNP Haldane_NNP ,_, George_NNP Orwell_NNP and_CC Cyril_NNP Connolly_NNP ._.
+After_IN leaving_VBG Eton_NNP ,_, he_PRP went_VBD on_IN to_TO take_VB a_DT degree_NN at_IN New_NNP College_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- From_IN 1974_CD to_TO 1992_CD ,_, Bayley_NNP was_VBD Warton_NNP Professor_NNP of_IN English_NNP at_IN Oxford_NNP ._.
+He_PRP was_VBD also_RB a_DT novelist_NN and_CC wrote_VBD literary_JJ criticism_NN for_IN several_JJ newspapers_NNS ._.
+He_PRP edited_VBD Henry_NNP James_NNP '_POS The_DT Wings_NNS of_IN the_DT Dove_NN and_CC a_DT two-volume_JJ selection_NN of_IN James_NNP '_POS short_JJ stories_NNS ._.
+From_IN 1956_CD until_IN her_PRP$ death_NN in_IN 1999_CD ,_, he_PRP was_VBD married_VBN to_TO the_DT writer_NN Dame_NNP Iris_NNP Murdoch_NNP ._.
+He_PRP thought_VBD that_IN sex_NN was_VBD ``_`` inescapably_RB ridiculous_JJ ._. ''_''
+In_IN spite_NN of_IN ,_, or_CC because_IN of_IN ,_, his_PRP$ feelings_NNS ,_, his_PRP$ wife_NN had_VBD multiple_JJ affairs_NNS with_IN both_DT men_NNS and_CC women_NNS ,_, which_WDT he_PRP occasionally_RB witnessed_VBD for_IN himself_PRP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN the_DT mid-1990s_NNS Murdoch_NNP fell_VBD ill_RB with_IN Alzheimer_NNP 's_POS disease_NN ,_, diagnosed_VBN in_IN 1997_CD ._.
+Bayley_NNP then_RB wrote_VBD the_DT book_NN Iris_NNP :_: A_NNP Memoir_NNP of_IN Iris_NNP Murdoch_NNP -LRB-_-LRB- 1998_CD -RRB-_-RRB- ,_, which_WDT was_VBD made_VBN into_IN the_DT 2001_CD film_NN Iris_NNP by_IN Richard_NNP Eyre_NNP ._.
+In_IN this_DT film_NN ,_, Bayley_NNP was_VBD portrayed_VBN in_IN his_PRP$ early_JJ years_NNS by_IN Hugh_NNP Bonneville_NNP ,_, and_CC in_IN his_PRP$ later_JJ years_NNS by_IN Jim_NNP Broadbent_NNP ._.
+After_IN Murdoch_NNP 's_POS death_NN Bayley_NNP married_JJ Audi_NNP Villers_NNPS ,_, a_DT family_NN friend_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD appointed_VBN CBE_NNP in_IN 1999_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- John_NNP Bayley_NNP died_VBD on_IN 12_CD January_NNP 2015_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Jim_NNP Broadbent_NNP won_VBD the_DT Academy_NNP Award_NNP for_IN Best_JJS Supporting_VBG Actor_NNP for_IN his_PRP$ performance_NN as_IN John_NNP Bayley_NNP in_IN the_DT 2001_CD film_NN Iris_NNP ._.
+Hugh_NNP Bonneville_NNP portrayed_VBD the_DT younger_JJR John_NNP Bayley_NNP in_IN this_DT film_NN ._.

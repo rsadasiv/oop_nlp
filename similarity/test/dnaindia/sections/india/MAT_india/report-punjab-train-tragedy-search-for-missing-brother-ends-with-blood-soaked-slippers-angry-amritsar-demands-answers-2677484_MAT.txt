@@ -1,0 +1,413 @@
+A_DT
+group_NN
+of_PIN
+youths_NN
+held_VBN [PRIV]
+protest_NN
+Sunday_NN
+morning_GER
+near_PLACE
+the_DT
+Amritsar_NN
+mishap_NN
+site_NN
+where_RB
+at_PIN
+least_JJ
+59_CD
+Dussehra_NN
+revellers_NN
+were_VBD [PASS]
+mowed_VBN
+down_RP
+by_PIN
+a_DT
+speeding_GER
+train_NN
+._.
+They_TPP3
+raised_VBD
+slogans_NN
+against_PIN
+the_DT
+district_NN
+administration_NOMZ
+claiming_VBG [PUBV] [WZPRES]
+that_THVC
+some_QUAN
+people_NN
+were_VBD [SPAU]
+still_RB
+missing_VBG
+._.
+The_DT
+protestors_NN
+demanded_VBD [SUAV]
+that_THVC
+the_DT
+missing_VBG
+person_NN
+be_VB [PASS]
+traced_VBN
+and_CC
+also_RB
+adequate_JJ
+compensation_NOMZ
+be_VB [PASS]
+given_VBN
+to_PIN
+the_DT
+families_NN
+of_PIN
+the_DT
+victims_NN
+._.
+``_``
+Two_CD
+labourers_NN
+who_WP [WHSUB]
+were_VBD
+living_VBG
+in_PIN
+my_FPP1
+area_NN
+are_VPRT [SPAU]
+still_RB
+missing_VBG
+,_,
+''_''
+said_VBD [PUBV]
+Kamal_NN
+,_,
+who_WP
+is_VPRT [BEMA]
+a_DT
+resident_NN
+of_PIN
+an_DT
+area_NN
+near_PLACE
+Joda_NN
+Phatak_NN
+where_RB
+at_PIN
+least_JJ
+59_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+Friday_NN
+evening_GER
+after_IN
+a_DT
+Dussehra_NN
+gathering_GER
+watching_VBG [WZPRES]
+the_DT
+burning_GER
+of_PIN
+a_DT
+Ravana_NN
+effigy_NN
+was_VBD [PASS]
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+._.
+Kamal_NN
+raised_VBD
+apprehensions_NN
+that_TOBJ
+the_DT
+death_NN
+toll_NN
+could_POMD
+be_VB [BEMA]
+higher_PRED
+than_PIN
+the_DT
+figure_NN
+given_VBN [WZPAST]
+by_PIN
+the_DT
+government_NOMZ
+._.
+On_PIN
+Saturday_NN
+,_,
+after_IN
+visiting_VBG
+the_DT
+accident_NN
+site_NN
+and_CC
+the_DT
+hospitals_NN
+where_RB
+the_DT
+injured_VBN
+were_VBD [PASS]
+admitted_VBN [PUBV]
+,_,
+Chief_NN
+Minister_NN
+Amarinder_NN
+Singh_NN
+had_VBD [PEAS]
+said_VBN [PUBV] [THATD]
+59_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+and_CC
+57_CD
+injured_JJ
+._.
+Sub-divisional_JJ
+magistrate_NN
+Rajesh_NN
+Sharma_NN
+,_,
+however_CONJ
+,_,
+said_VBD [PUBV] [THATD]
+61_CD
+people_NN
+lost_VBD
+their_TPP3
+lives_NN
+._.
+At_PIN
+the_DT
+Sunday_NN
+protest_NN
+,_,
+another_DT
+local_JJ
+,_,
+named_VBN
+Raju_NN
+,_,
+said_VBD [PUBV] [THATD]
+a_DT
+man_NN
+was_VBD [SPAU]
+still_RB
+looking_VBG
+for_PIN
+the_DT
+body_NN
+of_PIN
+his_TPP3
+father_NN
+who_WP [WHSUB]
+died_VBD
+in_PIN
+the_DT
+incident_NN
+._.
+``_``
+He_TPP3
+had_VBD [PEAS]
+gone_VBN
+to_TO
+collect_VB
+a_DT
+piece_NN
+of_PIN
+cloth_NN
+to_TO
+cover_VB
+the_DT
+body_NN
+of_PIN
+his_TPP3
+father_NN
+,_,
+but_CC
+when_RB
+he_TPP3
+returned_VBD
+he_TPP3
+could_POMD
+not_XX0
+find_VB [PRIV]
+the_DT
+body_NN
+,_,
+''_''
+said_VBD [PUBV]
+Raju_NN
+._.
+Another_DT
+local_JJ
+,_,
+Ram_NN
+Kumar_NN
+,_,
+claimed_VBD [PUBV]
+that_THVC
+four_CD
+members_NN
+of_PIN
+Kajal_NN
+'s_POS
+family_NN
+,_,
+who_WP
+are_VPRT
+vegetable-sellers_NN
+,_,
+are_VPRT
+missing_VBG
+._.
+Anju_NN
+,_,
+whose_WPS
+brothers_NN
+Vikas_NN
+and_PHC
+Ninderpal_NN
+were_VBD [PASS]
+killed_VBN
+in_PIN
+the_DT
+incident_NN
+,_,
+accused_VBD
+leaders_NN
+of_PIN
+indulging_VBG
+in_PIN
+politics_NN
+over_IN
+this_DEMO
+incident_NN
+._.
+``_``
+When_RB
+everybody_QUPR
+knows_VPRT [PRIV]
+that_THVC
+Dussehra_NN
+function_NOMZ
+had_VBD [PEAS]
+been_VBN [PASS]
+organised_VBN
+here_RB
+for_PIN
+the_DT
+past_JJ
+several_QUAN
+years_NN
+,_,
+appropriate_JJ
+steps_NN
+should_NEMD
+have_VB [PEAS]
+been_VBN [PASS]
+taken_VBN
+beforehand_RB
+to_TO
+prevent_VB
+such_JJ
+kind_NN
+of_PIN
+tragedy_NN
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+Another_DT
+man_NN
+was_VBD [BEMA]
+inconsolable_PRED
+._.
+He_TPP3
+could_POMD [SPAU]
+just_EMPH
+find_VB [PRIV]
+the_DT
+slippers_NN
+of_PIN
+his_TPP3
+brother_NN
+Sonu_NN
+._.
+He_TPP3
+carried_VBD
+the_DT
+slippers_NN
+to_PIN
+the_DT
+police_NN
+station_NOMZ
+prayed_VBD [SUAV]
+them_TPP3
+to_TO
+help_VB
+him_TPP3
+find_VB [PRIV] [THATD]
+his_TPP3
+missing_VBG
+brother_NN
+._.
+The_DT
+protesters_NN
+raised_VBD
+slogans_NN
+against_PIN
+the_DT
+district_NN
+administration_NOMZ
+and_CC
+vent_VB
+their_TPP3
+ire_NN
+against_PIN
+the_DT
+railways_NN
+for_PIN
+not_XX0
+slowing_VBG
+down_RP
+the_DT
+train_NN
+._.
+Meanwhile_RB
+,_,
+shops_NN
+near_PLACE
+the_DT
+Joda_NN
+Phatak_NN
+area_NN
+remained_VBD
+closed_JJ
+._.
+At_PIN
+least_JJ
+300_CD
+people_NN
+were_VBD
+watching_VBG
+the_DT
+`_``
+Ravana_NN
+dahan_NN
+'_''
+at_PIN
+a_DT
+ground_NN
+adjacent_JJ
+to_PIN
+railway_NN
+tracks_NN
+when_RB
+the_DT
+train_NN
+struck_VBD
+._.

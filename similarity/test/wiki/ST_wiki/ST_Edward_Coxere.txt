@@ -1,0 +1,10 @@
+Edward_NNP Coxere_NNP -LRB-_-LRB- 1633_CD ``_`` 1694_CD -RRB-_-RRB- was_VBD a_DT Kentish_JJ merchant_NN seaman_NN ,_, linguist_NN ,_, Quaker_NNP convert_VBP and_CC autobiographer_VBP ._.
+His_PRP$ manuscript_NN autobiography_NN surfaced_VBD in_IN 1943_CD and_CC was_VBD edited_VBN by_IN E._NNP H._NNP W._NNP Meyerstein_NNP and_CC published_VBN by_IN Oxford_NNP University_NNP Press_NNP in_IN 1945_CD as_IN Adventures_NNS by_IN Sea_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT small-format_JJ book_NN has_VBZ a_DT map_NN of_IN Europe_NNP and_CC North_NNP Africa_NNP as_IN its_PRP$ end-papers_NNS ._.
+The_DT text_NN has_VBZ 19_CD pages_NNS of_IN prelims_NNS and_CC 110_CD pages_NNS of_IN text_NN and_CC 22_CD pages_NNS of_IN notes_NNS ,_, together_RB with_IN a_DT sourced_JJ genealogical_JJ table_NN ._.
+There_EX are_VBP seven_CD illustrations_NNS derived_VBN from_IN the_DT original_JJ manuscript_NN ._.
+The_DT Oxford_NNP Dictionary_NNP of_IN National_NNP Biography_NNP article_NN characterises_VBZ Coxere_NNP 's_POS autobiography_NN thus_RB :_: ``_`` His_PRP$ picaresque_NN narrative_NN ,_, written_VBN in_IN or_CC after_IN 1685_CD ,_, is_VBZ one_CD of_IN the_DT most_RBS vivid_JJ accounts_NNS of_IN seafaring_VBG life_NN ,_, revealing_VBG an_DT intelligent_JJ ,_, brave_VB and_CC quick-witted_JJ man_NN ,_, hardened_VBN by_IN danger_NN and_CC adversity_NN but_CC retaining_VBG both_DT humor_NN and_CC humanity_NN ._. ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- After_IN his_PRP$ conversion_NN to_TO the_DT Quaker_NNP faith_NN ,_, he_PRP suffered_VBD several_JJ terms_NNS of_IN imprisonment_NN ,_, including_VBG a_DT long_JJ period_NN in_IN Dover_NNP Castle_NNP ._.
+It_PRP is_VBZ likely_JJ that_IN his_PRP$ surname_NN was_VBD pronounced_VBN ``_`` Coxery_NNP ''_'' ._.
+For_IN a_DT review_NN of_IN The_DT Adventure_NN ..._: by_IN Henry_NNP J_NNP Cadbury_NNP ,_, see_VBP Bulletin_NNP of_IN Friends_NNPS Historical_NNP Studies_NNPS ,_, Vol_NNP ._.
+35_CD -LRB-_-LRB- 1946_CD -RRB-_-RRB- ,_, p._FW 79-80_CD ._.

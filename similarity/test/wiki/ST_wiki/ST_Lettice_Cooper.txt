@@ -1,0 +1,21 @@
+Lettice_NNP Ulpha_NNP Cooper_NNP OBE_NNP ,_, -LRB-_-LRB- 3_CD September_NNP 1897_CD in_IN Eccles_NNP ,_, Lancashire_NNP ''_'' 24_CD July_NNP 1994_CD in_IN Coltishall_NNP ,_, Norfolk_NNP -RRB-_-RRB- ,_, was_VBD an_DT English_JJ writer_NN ._.
+She_PRP began_VBD to_TO write_VB stories_NNS when_WRB she_PRP was_VBD seven_CD ,_, and_CC studied_VBD Classics_NNS at_IN Lady_NNP Margaret_NNP Hall_NNP ,_, Oxford_NNP ,_, graduating_NN in_IN 1918_CD ._.
+She_PRP returned_VBD home_NN after_IN Oxford_NNP to_TO work_VB for_IN her_PRP$ family_NN 's_POS engineering_NN firm_NN and_CC wrote_VBD her_PRP$ first_JJ novel_NN ,_, The_DT Lighted_NNP Room_NNP in_IN 1925_CD ._.
+She_PRP spent_VBD a_DT year_NN as_IN associate_JJ editor_NN at_IN Time_NNP and_CC Tide_NNP ._.
+Her_PRP$ novel_NN The_DT New_NNP House_NNP -LRB-_-LRB- 1936_CD -RRB-_-RRB- describes_VBZ the_DT events_NNS of_IN a_DT single_JJ day_NN ._.
+National_NNP Provincial_NNP -LRB-_-LRB- 1938_CD -RRB-_-RRB- depicts_VBZ `_`` Aire_NNP '_'' ,_, a_DT city_NN based_VBN on_IN Leeds_NNP ,_, during_IN the_DT 1930s_NNS ._.
+The_DT characters_NNS cover_VBP a_DT wide_JJ social_JJ range_NN ,_, and_CC many_JJ are_VBP involved_VBN in_IN left-wing_JJ politics_NNS ._.
+A_DT main_JJ thread_NN of_IN the_DT novel_NN is_VBZ the_DT conflict_NN between_IN militant_JJ and_CC moderate_JJ socialists_NNS ,_, which_WDT finds_VBZ bitter_JJ expression_NN in_IN the_DT course_NN of_IN an_DT unofficial_JJ strike_NN ,_, and_CC during_IN a_DT Parliamentary_JJ election_NN campaign_NN ._.
+During_IN the_DT Second_NNP World_NNP War_NNP Lettice_NNP Cooper_NNP worked_VBD for_IN the_DT Ministry_NNP of_IN Food_NNP 's_POS public_JJ relations_NNS division_NN ._.
+Black_NNP Bethlehem_NNP -LRB-_-LRB- 1947_CD -RRB-_-RRB- is_VBZ an_DT unusually-structured_JJ novel_NN ,_, a_DT psychological_JJ study_NN of_IN wartime_NN and_CC postwar_JJ anxieties_NNS on_IN the_DT battlefield_NN and_CC on_IN the_DT Home_NNP Front_NNP ._.
+The_DT novel_NN reflects_VBZ her_PRP$ strong_JJ interest_NN in_IN psychoanalysis_NN ._.
+Cooper_NNP met_VBD Eileen_NNP Blair_NNP -LRB-_-LRB- George_NNP Orwell_NNP 's_POS wife_NN -RRB-_-RRB- during_IN the_DT war_NN ,_, and_CC is_VBZ thought_VBN to_TO have_VB used_VBN her_PRP$ as_IN the_DT basis_NN for_IN the_DT character_NN of_IN Ann_NNP in_IN Black_NNP Bethlehem_NNP ._.
+In_IN an_DT account_NN ,_, printed_VBN in_IN Orwell_NNP Remembered_NNP ,_, Cooper_NNP recalled_VBD that_IN Eileen_NNP described_VBD how_WRB Orwell_NNP read_VBD each_DT installment_NN of_IN Animal_NNP Farm_NNP to_TO her_PRP$ each_DT evening_NN and_CC she_PRP came_VBD in_IN each_DT morning_NN to_TO tell_VB her_PRP$ co-workers_NNS how_WRB the_DT book_NN was_VBD developing_VBG ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Between_IN 1947_CD and_CC 1957_CD Cooper_NNP was_VBD fiction_NN reviewer_NN for_IN the_DT Yorkshire_NNP Post_NNP ._.
+Her_PRP$ novel_NN Fenny_NNP -LRB-_-LRB- 1953_CD -RRB-_-RRB- is_VBZ set_VBN in_IN Florence_NNP ,_, where_WRB she_PRP frequently_RB visited_VBD her_PRP$ close_JJ friend_NN ,_, Lionel_NNP Fielden_NNP ._.
+She_PRP was_VBD one_CD of_IN the_DT founders_NNS of_IN the_DT Writers_NNPS '_POS Action_NNP Group_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- along_IN with_IN Brigid_NNP Brophy_NNP ,_, Maureen_NNP Duffy_NNP ,_, Francis_NNP King_NNP and_CC Michael_NNP Levey_NNP and_CC received_VBD an_DT OBE_NNP for_IN her_PRP$ work_NN in_IN achieving_VBG Public_NNP Lending_NNP Rights_NNPS ._.
+Snow_NNP and_CC Roses_NNPS -LRB-_-LRB- 1973_CD -RRB-_-RRB- is_VBZ a_DT novel_NN set_VBN in_IN Yorkshire_NNP and_CC based_VBN on_IN events_NNS of_IN the_DT miners_NNS '_POS strike_NN of_IN 1972_CD ._.
+She_PRP wrote_VBD County_NNP Books_NNPS series_NN volume_NN Yorkshire_NNP West_NNP Riding_NNP ,_, published_VBN by_IN Robert_NNP Hale_NNP in_IN 1950_CD ._.
+She_PRP was_VBD appointed_VBN OBE_NNP in_IN the_DT 1978_CD Birthday_NN Honours_NNP ._.
+In_IN 1987_CD at_IN the_DT age_NN of_IN ninety_CD she_PRP was_VBD awarded_VBN the_DT Freedom_NN of_IN the_DT City_NNP of_IN Leeds_NNP ._.
+At_IN a_DT PEN_NNP Congress_NNP in_IN Stockholm_NNP ,_, a_DT Swedish_JJ writer_NN remarked_VBD of_IN Cooper_NNP :_: ``_`` She_PRP is_VBZ what_WP we_PRP expect_VBP English_JJ people_NNS to_TO be_VB but_CC what_WP they_PRP so_RB seldom_RB are_VBP ''_'' -LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP never_RB married_VBD ._.

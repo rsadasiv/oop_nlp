@@ -1,0 +1,114 @@
+Eminent_JJ
+Marathi_NN
+litterateur_NN
+Bhalachandra_NN
+Nemade_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+chosen_VBN
+for_PIN
+the_DT
+50th_JJ
+Jnanpith_NN
+Award_NN
+for_PIN
+2014_CD
+._.
+His_TPP3
+nomination_NOMZ
+was_VBD [PASS]
+decided_VBN [SUAV] [PRIV]
+at_PIN
+a_DT
+meeting_GER
+of_PIN
+the_DT
+Jnanpith_NN
+selection_NOMZ
+board_NN
+chaired_VBN [WZPAST]
+by_PIN
+writer_NN
+and_PHC
+scholar_NN
+Namwar_NN
+Singh_NN
+._.
+Born_VBN [PASTP]
+in_PIN
+1938_CD
+,_,
+Namade_NN
+occupies_VPRT
+a_DT
+unique_JJ
+place_NN
+in_PIN
+Marathi_NN
+literature_NN
+._.
+His_TPP3
+hugely_RB
+celebrated_JJ
+works_NN
+,_,
+from_PIN
+``_``
+Kosala_NN
+''_''
+,_,
+1963_CD
+to_PIN
+his_TPP3
+recently-published_JJ
+magnum_NN
+opus_NN
+``_``
+Hindu_NN
+''_''
+,_,
+have_VPRT [PEAS]
+earned_VBN
+him_TPP3
+a_DT
+reputation_NOMZ
+as_IN
+a_DT
+self-aware_JJ
+,_,
+globally_RB
+conscious_JJ
+and_PHC
+alert_JJ
+writer_NN
+,_,
+said_VBD [PUBV] [THATD]
+a_DT
+statement_NOMZ
+issued_VBN [WZPAST]
+by_PIN
+Bharatiya_NN
+Jnanpith_NN
+on_PIN
+Friday_NN
+._.
+He_TPP3
+has_VPRT [SPAU] [PEAS]
+also_RB
+been_VBN [PASS]
+conferred_VBN
+the_DT
+Padma_NN
+Shri_NN
+and_CC
+has_VPRT [PEAS]
+won_VBN
+the_DT
+Sahitya_NN
+Akademi_NN
+Award_NN
+besides_PIN
+many_QUAN
+other_JJ
+accolades_NN
+._.

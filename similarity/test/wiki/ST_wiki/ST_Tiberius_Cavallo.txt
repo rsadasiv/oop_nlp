@@ -1,0 +1,12 @@
+Tiberius_NNP Cavallo_NNP -LRB-_-LRB- also_RB Tiberio_NNP -RRB-_-RRB- -LRB-_-LRB- March_NNP 30_CD 1749_CD ''_'' December_NNP 21_CD 1809_CD -RRB-_-RRB- was_VBD an_DT Italian_JJ physicist_NN and_CC natural_JJ philosopher_NN ._.
+He_PRP was_VBD born_VBN at_IN Naples_NNP ,_, where_WRB his_PRP$ father_NN was_VBD a_DT physician_NN ._.
+In_IN 1771_CD he_PRP came_VBD to_TO England_NNP with_IN the_DT intention_NN of_IN pursuing_VBG a_DT mercantile_NN career_NN ,_, but_CC he_PRP soon_RB turned_VBD his_PRP$ attention_NN to_TO scientific_JJ work_NN ._.
+He_PRP made_VBD several_JJ ingenious_JJ improvements_NNS in_IN scientific_JJ instruments_NNS ._.
+He_PRP became_VBD a_DT Fellow_NNP of_IN the_DT Royal_NNP Society_NNP in_IN 1779_CD ,_, and_CC gave_VBD annual_JJ Bakerian_NNP Lectures_VBZ from_IN 1780_CD to_TO 1792_CD ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cavallo_NNP was_VBD often_RB cited_VBN in_IN the_DT literature_NN of_IN his_PRP$ time_NN as_IN inventor_NN of_IN Cavallo_NNP 's_POS multiplier_NN ,_, a_DT device_NN he_PRP used_VBD for_IN the_DT amplification_NN of_IN small_JJ electric_JJ charges_NNS ,_, making_VBG them_PRP observable_JJ and_CC measurable_JJ in_IN an_DT electroscope_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP also_RB worked_VBD on_IN refrigeration_NN ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC his_PRP$ work_NN influenced_VBD pioneer_NN balloonist_NN Jean-Pierre_NNP Blanchard_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP published_VBD on_IN musical_JJ temperament_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- He_PRP died_VBD in_IN London_NNP on_IN 21_CD December_NNP 1809_CD ._.
+He_PRP is_VBZ buried_VBN in_IN Old_NNP St_NNP Pancras_NNP Churchyard_NNP ._.
+The_DT grave_NN is_VBZ lost_VBN but_CC he_PRP is_VBZ listed_VBN on_IN the_DT Burdett_NNP Coutts_NNPS memorial_NN of_IN 1879_CD to_TO the_DT many_JJ important_JJ persons_NNS buried_VBN therein_RB ._.
+He_PRP published_VBD numerous_JJ works_NNS on_IN different_JJ branches_NNS of_IN physics_NNS ,_, including_VBG :_: For_IN Rees_NNP 's_POS Cyclopædia_NNP he_PRP contributed_VBD articles_NNS on_IN Electricity_NNP ,_, Machinery_NNP and_CC Mechanics_NNPS ,_, but_CC the_DT topics_NNS are_VBP not_RB known_VBN ._.

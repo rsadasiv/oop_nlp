@@ -1,0 +1,68 @@
+Francis_NN
+Leslie_NN
+Ashton_NN
+-LRB-_-LRB-
+24_CD
+June_NN
+1904_CD
+''_''
+July_NN
+1994_CD
+-RRB-_-RRB-
+was_VBD [BEMA]
+a_DT
+British_JJ
+writer_NN
+known_VBN [PRIV] [WZPAST]
+for_PIN
+his_TPP3
+first_JJ
+novel_NN
+Breaking_VBG [WZPRES]
+of_PIN
+the_DT
+Seals_NN
+in_PIN
+1946_CD
+and_CC
+a_DT
+kind_NN
+of_PIN
+sequel_NN
+Alas_NN
+,_,
+That_THVC
+Great_NN
+City_NOMZ
+from_PIN
+1948_CD
+._.
+The_DT
+two_CD
+novels_NN
+concern_NN
+disasters_NN
+involving_VBG [WZPRES]
+objects_NN
+orbiting_VBG [WZPRES]
+the_DT
+Earth_NN
+in_PIN
+prehistoric_JJ
+times_NN
+._.
+In_PIN
+1952_CD
+he_TPP3
+co-wrote_JJ
+Wrong_JJ
+Side_NN
+of_PIN
+the_DT
+Moon_NN
+,_,
+which_WDT [SERE]
+concerns_VPRT
+space_NN
+travel_NN
+._.

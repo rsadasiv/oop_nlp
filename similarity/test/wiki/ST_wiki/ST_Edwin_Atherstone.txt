@@ -1,0 +1,10 @@
+Edwin_NNP Atherstone_NNP -LRB-_-LRB- 1788_CD ``_`` 1872_CD -RRB-_-RRB- was_VBD a_DT poet_NN and_CC novelist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ works_NNS ,_, which_WDT were_VBD planned_VBN on_IN an_DT imposing_VBG scale_NN ,_, attracted_VBD some_DT temporary_JJ attention_NN and_CC applause_NN ,_, but_CC are_VBP now_RB forgotten_VBN ._.
+His_PRP$ chief_JJ poem_NN ,_, The_DT Fall_NN of_IN Nineveh_NNP ,_, consisting_VBG of_IN thirty_CD books_NNS ,_, appeared_VBD at_IN intervals_NNS from_IN 1828_CD to_TO 1868_CD ._.
+It_PRP narrates_VBZ about_IN war_NN waged_VBN by_IN the_DT coalition_NN of_IN many_JJ nations_NNS led_VBN by_IN Median_JJ prince_NN Arbaces_NNP and_CC Babylonian_JJ priest_NN Belesis_NN against_IN the_DT tyrannical_JJ king_NN of_IN Assyria_NNP Sardanapalus_NNP ,_, who_WP defeated_VBD in_IN many_JJ battles_NNS burns_NNS his_PRP$ own_JJ palace_NN and_CC dies_VBZ within_IN ._.
+He_PRP wrote_VBD also_RB Israel_NNP in_IN Egypt_NNP -LRB-_-LRB- 1861_CD -RRB-_-RRB- ,_, The_DT Last_JJ Days_NNS of_IN Herculaneum_NNP -LRB-_-LRB- 1821_CD -RRB-_-RRB- ,_, Abradates_NNPS and_CC Panthea_NNP -LRB-_-LRB- 1821_CD -RRB-_-RRB- and_CC A_DT Midsummer_NNP Day_NNP 's_POS Dream_VB -LRB-_-LRB- 1824_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD a_DT close_JJ friend_NN and_CC associate_NN of_IN the_DT painter_NN John_NNP Martin_NNP ,_, whose_WP$ well-known_JJ painting_NN ``_`` The_DT Fall_NN of_IN Nineveh_NNP ''_'' was_VBD produced_VBN in_IN conjunction_NN with_IN Atherstone_NNP 's_POS poem_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP also_RB produced_VBD two_CD novels_NNS ,_, The_DT Sea_NNP Kings_NNPS in_IN England_NNP and_CC The_DT Handwriting_NN on_IN the_DT Wall_NNP ._.
+The_DT first_JJ one_CD tells_VBZ about_IN the_DT Viking_NNP invasion_NN of_IN England_NNP at_IN the_DT time_NN of_IN king_NN Alfred_NNP the_DT Great_NNP ._.
+Atherstone_NNP 's_POS plays_NNS were_VBD published_VBN posthumously_RB by_IN his_PRP$ daughter_NN ,_, Mary_NNP Elizabeth_NNP Atherstone_NNP in_IN 1888_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB-

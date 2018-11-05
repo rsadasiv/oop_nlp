@@ -1,0 +1,49 @@
+John_NNP Berkenhout_NNP -LRB-_-LRB- 8_CD July_NNP 1726_CD ''_'' 3_CD April_NNP 1791_CD -RRB-_-RRB- was_VBD an_DT English_JJ physician_NN ,_, naturalist_NN and_CC miscellaneous_JJ writer_NN ._.
+Berkenhout_NNP was_VBD the_DT son_NN of_IN John_NNP Berkenhout_NNP Snr_NNP ,_, a_DT Dutch_JJ merchant_NN who_WP had_VBD settled_VBN in_IN Yorkshire_NNP ,_, and_CC Anne_NNP Kitchingman_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Leeds_NNP Grammar_NNP School_NNP and_CC served_VBD in_IN the_DT Prussian_NNP and_CC English_NNP armies_NNS before_IN finishing_VBG his_PRP$ education_NN at_IN Edinburgh_NNP University_NNP and_CC Leyden_NNP ,_, where_WRB he_PRP became_VBD a_DT Doctor_NNP of_IN Physic_NNP -LRB-_-LRB- medicine_NN -RRB-_-RRB- in_IN 1765_CD ._.
+While_IN at_IN Edinburgh_NNP he_PRP published_VBD Clavis_NNP Anglicae_NNP Linguae_NNP Botanicae_NNP ._.
+He_PRP published_VBD several_JJ works_NNS on_IN natural_JJ history_NN ,_, including_VBG Outlines_NNP of_IN the_DT Natural_JJ History_NN of_IN Great_NNP Britain_NNP and_CC Ireland_NNP -LRB-_-LRB- 1769_CD -RRB-_-RRB- and_CC Synopsis_NNP of_IN the_DT Natural_JJ History_NN of_IN Great_NNP Britain_NNP and_CC Ireland_NNP -LRB-_-LRB- 1789_CD -RRB-_-RRB- ._.
+It_PRP was_VBD in_IN these_DT works_NNS that_WDT Berkenhout_NNP ,_, not_RB Linnaeus_NNP as_IN is_VBZ often_RB claimed_VBN ,_, named_VBN the_DT brown_JJ rat_NN as_IN the_DT Norway_NNP Rat_NNP -LRB-_-LRB- ``_`` Rattus_NN norvegicus_NN ''_'' -RRB-_-RRB- ._.
+He_PRP served_VBD as_IN a_DT British_JJ agent_NN in_IN the_DT colonies_NNS during_IN the_DT American_NNP Revolution_NNP ._.
+Berkenhout_NNP was_VBD born_VBN about_IN 1730_CD at_IN Leeds_NNP and_CC attended_VBD Leeds_NNP Grammar_NNP School_NNP ._.
+His_PRP$ father_NN intended_VBD him_PRP for_IN a_DT commercial_JJ career_NN ,_, and_CC sent_VBD him_PRP to_TO Germany_NNP to_TO study_VB languages_NNS ._.
+After_IN spending_VBG some_DT years_NNS in_IN Germany_NNP he_PRP accompanied_VBD some_DT English_JJ noblemen_NNS on_IN a_DT tour_NN through_IN Europe_NNP ._.
+On_IN returning_VBG to_TO Berlin_NNP he_PRP stayed_VBD with_IN his_PRP$ father_NN 's_POS relative_JJ Baron_NNP de_IN Bielfeld_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Berkenhout_NNP became_VBD a_DT cadet_NN in_IN a_DT Prussian_JJ infantry_NN regiment_NN ,_, where_WRB he_PRP was_VBD promoted_VBN to_TO the_DT rank_NN of_IN ensign_NN and_CC then_RB captain_NN ._.
+In_IN 1756_CD ,_, at_IN the_DT start_NN of_IN the_DT Seven_NNP Years_NNS '_POS War_NNP ,_, he_PRP left_VBD the_DT Prussian_JJ service_NN ,_, and_CC received_VBD a_DT commission_NN in_IN an_DT English_JJ regiment_NN ._.
+In_IN 1760_CD he_PRP entered_VBD Edinburgh_NNP University_NNP as_IN a_DT medical_JJ student_NN ._.
+From_IN Edinburgh_NNP he_PRP went_VBD to_TO the_DT University_NNP of_IN Leyden_NNP ,_, where_WRB he_PRP took_VBD his_PRP$ degree_NN of_IN doctor_NN of_IN physic_JJ on_IN 13_CD May_NNP 1765_CD ._.
+On_IN his_PRP$ return_NN to_TO England_NNP he_PRP settled_VBD at_IN Isleworth_NNP in_IN Middlesex_NNP ,_, It_PRP is_VBZ stated_VBN in_IN David_NNP Elisha_NNP Davy_NNP 's_POS `_`` Suffolk_NNP Collections_NNP '_POS -LRB-_-LRB- xc_FW ._.
+403_CD -RRB-_-RRB- that_IN he_PRP practiced_VBD for_IN some_DT time_NN as_IN a_DT physician_NN at_IN Bury_NNP St_NNP Edmunds_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1778_CD Berkenhout_NNP was_VBD sent_VBN by_IN the_DT government_NN with_IN the_DT Carlisle_NNP Peace_NNP Commission_NNP to_TO America_NNP ,_, quite_RB covertly_RB ._.
+The_DT Continental_NNP Congress_NNP would_MD not_RB allow_VB the_DT Commission_NNP to_TO go_VB beyond_IN New_NNP York_NNP ;_: but_CC Berkenhout_NNP managed_VBD to_TO reach_VB Philadelphia_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP knew_VBD Arthur_NNP Lee_NNP ,_, and_CC through_IN him_PRP contacted_VBN Richard_NNP Henry_NNP Lee_NNP ._.
+Suspicion_NN arose_VBD in_IN September_NNP that_IN he_PRP was_VBD corrupting_VBG leading_VBG citizens_NNS ;_: and_CC he_PRP was_VBD detained_VBN and_CC questioned_VBN ,_, and_CC thrown_VBN into_IN prison_NN ._.
+There_EX Timothy_NNP Matlack_NNP and_CC Benjamin_NNP Rush_NNP visited_VBD him_PRP ,_, and_CC verbal_JJ fencing_VBG ensued_VBN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN the_DT end_NN Berkenhout_NNP was_VBD paroled_VBN ,_, and_CC rejoined_VBD the_DT commissioners_NNS at_IN New_NNP York_NNP on_IN 19_CD September_NNP ;_: but_CC the_DT negotiations_NNS of_IN the_DT Carlisle_NNP Commission_NNP were_VBD dead_JJ ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP came_VBD back_RB to_TO England_NNP ,_, and_CC was_VBD rewarded_VBN with_IN a_DT pension_NN for_IN his_PRP$ services_NNS ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Berkenhout_NNP died_VBD on_IN 3_CD April_NNP 1791_CD at_IN Besselsleigh_NNP near_IN Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- While_IN a_DT student_NN at_IN Edinburgh_NNP Berkenhout_NNP published_VBN in_IN 1762_CD a_DT botanical_JJ lexicon_NN ,_, Clavis_NNP Anglica_NNP Linguæ_NNP Botanicæ_NNP Linnæi_NNP ,_, second_JJ edition_NN 1764_CD ,_, and_CC third_JJ edition_NN 1766_CD ._.
+For_IN his_PRP$ M.D._NNP he_PRP wrote_VBD Dissertatio_NNP Medica_NNP inauguralis_FW de_FW Podagra_NNP ,_, dedicated_VBN on_IN publication_NN to_TO Baron_NNP de_IN Bielfeld_NNP ._.
+In_IN 1766_CD he_PRP published_VBD Pharmacopoeia_NNP Medici_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1769_CD appeared_VBD the_DT first_JJ volume_NN of_IN Berkenhout_NNP 's_POS Outlines_NNP of_IN the_DT Natural_JJ History_NN of_IN Great_NNP Britain_NNP ;_: the_DT second_JJ volume_NN followed_VBD in_IN 1770_CD ,_, and_CC the_DT third_JJ in_IN 1771_CD ._.
+It_PRP was_VBD republished_VBN in_IN 1773_CD -LRB-_-LRB- three_CD volumes_NNS -RRB-_-RRB- ,_, and_CC a_DT revised_VBN edition_NN in_IN two_CD volumes_NNS appeared_VBD in_IN 1788_CD as_IN A_DT Synopsis_NN of_IN the_DT Natural_JJ History_NN of_IN Great_NNP Britain_NNP ._.
+In_IN his_PRP$ publication_NN -LRB-_-LRB- 1771_CD -RRB-_-RRB- William_NNP Cadogan_NNP 's_POS ``_`` Dissertation_NNP on_IN the_DT Gout_NNP ''_'' was_VBD Examined_VBN and_CC Refuted_VBN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Berkenhout_NNP 's_POS major_JJ work_NN was_VBD Biographia_NNP Literaria_NNP ,_, or_CC a_DT Biographical_NNP History_NN of_IN Literature_NNP ,_, containing_VBG the_DT lives_NNS of_IN English_NNP ,_, Scotch_NNP ,_, and_CC Irish_JJ authors_NNS ,_, from_IN the_DT dawn_NN of_IN letters_NNS in_IN these_DT kingdoms_NNS to_TO the_DT present_JJ time_NN ,_, chronologically_RB and_CC classically_RB arranged_VBN -LRB-_-LRB- 1777_CD ,_, first_JJ volume_NN only_RB -RRB-_-RRB- ._.
+In_IN the_DT preface_NN he_PRP acknowledged_VBD his_PRP$ debt_NN to_TO George_NNP Steevens_NNP for_IN the_DT lives_NNS of_IN poets_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Steevens_NNPS in_IN fact_NN used_VBD the_DT work_NN to_TO put_VB into_IN circulation_NN one_CD of_IN his_PRP$ hoaxes_NNS ,_, a_DT forged_VBN letter_NN purporting_VBG to_TO be_VB from_IN George_NNP Peele_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 1780_CD Berkenhout_NNP published_VBN Lucubrations_NNS on_IN Ways_NNP and_CC Means_NNP ,_, a_DT proposal_NN on_IN the_DT imposition_NN of_IN taxes_NNS ._.
+Some_DT of_IN the_DT suggestions_NNS in_IN it_PRP were_VBD adopted_VBN by_IN Lord_NNP North_NNP ,_, others_NNS subsequently_RB by_IN William_NNP Pitt_NNP the_DT Younger_NNP ._.
+His_PRP$ Essay_NN on_IN the_DT Bite_NN of_IN a_DT Mad_NNP Dog_NNP appeared_VBD in_IN 1783_CD ;_: Symptomatology_NNP in_IN 1784_CD ._.
+Berkenhout_NNP 's_POS last_JJ work_NN was_VBD Letters_NNP on_IN Education_NNP to_TO his_PRP$ Son_NNP at_IN the_DT University_NNP ,_, 1790_CD ._.
+In_IN it_PRP he_PRP commented_VBD on_IN the_DT system_NN of_IN fagging_VBG in_IN public_JJ schools_NNS ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Berkenhout_NNP also_RB published_VBD Treatise_NNP on_IN Hysterical_NNP and_CC Hypochondriacal_NNP Diseases_NNP -LRB-_-LRB- 1777_CD -RRB-_-RRB- ,_, from_IN the_DT French_NNP of_IN Pierre_NNP Pomme_NNP ._.
+In_IN 1779_CD he_PRP edited_VBD a_DT revised_VBN edition_NN of_IN John_NNP Campbell_NNP 's_POS Lives_NNS of_IN the_DT Admirals_NNPS ._.
+He_PRP translated_VBD from_IN Swedish_NNP ,_, as_IN Letters_NNS from_IN an_DT Old_NNP Man_NN to_TO a_DT Young_JJ Prince_NNP -LRB-_-LRB- 1756_CD -RRB-_-RRB- ,_, Count_NNP Carl_NNP Gustaf_NNP Tessin_NNP 's_POS letters_NNS to_TO the_DT future_JJ Gustavus_NNP III_NNP of_IN Sweden_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Richard_NNP Linnecar_NNP dedicated_VBD his_PRP$ Strictures_NNS on_IN Freemasonry_NNP to_TO Berkenhout_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Stephen_NNP ,_, Leslie_NNP ,_, ed_VBD ._.
+-LRB-_-LRB- 1885_CD -RRB-_-RRB- ._.
+``_`` Berkenhout_NNP ,_, John_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+4_LS ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

@@ -1,0 +1,217 @@
+A_DT
+35-year-old_JJ
+man_NN
+was_VBD [PASS]
+arrested_VBN
+today_TIME
+for_PIN
+allegedly_RB
+killing_VBG
+his_TPP3
+live-in_PIN
+partner_NN
+for_PIN
+insisting_VBG [SUAV] [PUBV]
+upon_PIN
+him_TPP3
+to_TO
+marry_VB
+her_TPP3
+after_IN
+divorcing_VBG
+his_TPP3
+wife_NN
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+decomposed_JJ
+body_NN
+of_PIN
+the_DT
+25-year-old_JJ
+woman_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+in_PIN
+an_DT
+almirah_NN
+in_PIN
+northeast_NN
+Delhi_NN
+'s_POS
+Gokalpuri_NN
+on_PIN
+August_NN
+2_CD
+._.
+The_DT
+man_NN
+had_VBD [SPAU] [PEAS]
+earlier_TIME
+informed_VBN
+the_DT
+police_NN
+that_TOBJ
+a_DT
+foul_JJ
+smell_NN
+was_VBD
+emanating_VBG
+from_PIN
+the_DT
+house_NN
+._.
+After_IN
+searching_VBG
+the_DT
+house_NN
+,_,
+the_DT
+police_NN
+discovered_VBD [PRIV]
+the_DT
+woman_NN
+'s_POS
+body_NN
+from_PIN
+an_DT
+almirah_NN
+in_PIN
+it_PIT
+and_CC
+suspected_VBD [PRIV]
+the_DT
+man_NN
+'s_POS
+role_NN
+in_PIN
+the_DT
+murder_NN
+._.
+Later_TIME
+on_PIN
+interrogation_NOMZ
+,_,
+he_TPP3
+confessed_VBD [PUBV]
+to_TO
+killing_VBG
+her_TPP3
+on_PIN
+the_DT
+intervening_VBG
+night_NN
+of_PIN
+July_NN
+31_CD
+and_CC
+August_NN
+1_CD
+,_,
+the_DT
+police_NN
+added_VBD [PUBV]
+._.
+The_DT
+accused_VBN
+was_VBD [BEMA]
+a_DT
+married_JJ
+man_NN
+,_,
+having_VBG [PRESP]
+four_CD
+children_NN
+and_CC
+the_DT
+victim_NN
+was_VBD
+pressurizing_VBG
+him_TPP3
+to_TO
+leave_VB
+his_TPP3
+wife_NN
+and_CC
+get_VB
+married_VBN
+to_PIN
+her_TPP3
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+accused_VBN
+was_VBD [BEMA]
+also_RB
+jealous_PRED
+of_PIN
+her_TPP3
+friendship_NN
+with_PIN
+other_JJ
+men_NN
+and_CC
+often_RB
+scolded_VBD
+her_TPP3
+._.
+He_TPP3
+also_RB
+had_VBD
+an_DT
+eye_NN
+on_PIN
+the_DT
+victim_NN
+'s_POS
+house_NN
+in_PIN
+which_WDT [PIRE]
+she_TPP3
+was_VBD
+staying_VBG
+,_,
+they_TPP3
+added_VBD [PUBV]
+._.
+The_DT
+victim_NN
+'s_POS
+autopsy_NN
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+conducted_VBN
+even_RB
+though_CONC
+it_PIT
+is_VPRT [PASS]
+suspected_VBN [PRIV]
+that_THVC
+she_TPP3
+was_VBD [PASS]
+strangulated_VBN
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+accused_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+remanded_VBN
+in_PIN
+two_CD
+days_NN
+'_POS
+police_NN
+custody_NN
+._.

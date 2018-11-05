@@ -7,11 +7,11 @@ import java.util.List;
 import java.util.ListIterator;
 import java.util.Map.Entry;
 
-import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
 import com.outofprintmagazine.nlp.scorers.descriptive.SentenceDescriptiveScorer;
 import com.outofprintmagazine.nlp.scorers.scalar.DocumentScalarScorer;
+import com.outofprintmagazine.nlp.scores.Score;
 
 import edu.mit.jwi.item.IIndexWord;
 import edu.mit.jwi.item.ISenseKey;

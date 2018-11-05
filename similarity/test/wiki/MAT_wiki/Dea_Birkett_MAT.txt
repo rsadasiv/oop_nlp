@@ -1,0 +1,67 @@
+Dea_NN
+Birkett_NN
+-LRB-_-LRB-
+born_VBN
+1958_CD
+-RRB-_-RRB-
+is_VPRT [BEMA]
+a_DT
+British_JJ
+writer_NN
+,_,
+journalist_NN
+,_,
+broadcaster_NN
+and_CC
+a_DT
+former_JJ
+circus_NN
+performer_NN
+._.
+-LRB-_-LRB-
+1_CD
+-RRB-_-RRB-
+She_TPP3
+has_VPRT [PEAS]
+written_VBN [PUBV]
+on_PIN
+social_JJ
+issues_NN
+for_PIN
+The_DT
+Guardian_NN
+and_PHC
+broadcasts_NN
+for_PIN
+BBC_NN
+Radio_NN
+4_CD
+._.
+She_TPP3
+is_VPRT [BEMA]
+creative_JJ
+director_NN
+of_PIN
+the_DT
+charity_NOMZ
+Kids_NN
+in_PIN
+Museums_NN
+and_PHC
+Ringmaster_NN
+of_PIN
+Circus_NN
+250_CD
+._.
+She_TPP3
+was_VBD [PASS]
+awarded_VBN
+the_DT
+Somerset_NN
+Maugham_NN
+Award_NN
+in_PIN
+1993_CD
+for_PIN
+Jella_NN
+._.

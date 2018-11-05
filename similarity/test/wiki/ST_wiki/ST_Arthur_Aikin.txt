@@ -1,0 +1,26 @@
+Arthur_NNP Aikin_NNP ,_, FLS_NNP ,_, FGS_NNP -LRB-_-LRB- 19_CD May_NNP 1773_CD ''_'' 15_CD April_NNP 1854_CD -RRB-_-RRB- was_VBD an_DT English_JJ chemist_NN ,_, mineralogist_NN and_CC scientific_JJ writer_NN ,_, and_CC was_VBD a_DT founding_JJ member_NN of_IN the_DT Chemical_NNP Society_NNP -LRB-_-LRB- now_RB the_DT Royal_NNP Society_NNP of_IN Chemistry_NNP -RRB-_-RRB- ._.
+He_PRP first_RB became_VBD its_PRP$ Treasurer_NNP in_IN 1841_CD ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC later_RB became_VBD the_DT Society_NNP 's_POS second_JJ President_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD born_VBN at_IN Warrington_NNP ,_, Lancashire_NNP into_IN a_DT distinguished_JJ literary_JJ family_NN of_IN prominent_JJ Unitarians_NNPS ._.
+The_DT best_JJS known_VBN of_IN these_DT was_VBD his_PRP$ paternal_JJ aunt_NN ,_, Anna_NNP Letitia_NNP Barbauld_NNP ,_, a_DT woman_NN of_IN letters_NNS who_WP wrote_VBD poetry_NN and_CC essays_NNS as_RB well_RB as_IN early_JJ children_NNS 's_POS literature_NN ._.
+His_PRP$ father_NN ,_, Dr_NNP John_NNP Aikin_NNP ,_, was_VBD a_DT medical_JJ doctor_NN ,_, historian_NN ,_, and_CC author_NN ._.
+His_PRP$ grandfather_NN ,_, also_RB called_VBN John_NNP -LRB-_-LRB- 1713_CD ``_`` 1780_CD -RRB-_-RRB- ,_, was_VBD a_DT Unitarian_JJ scholar_NN and_CC theological_JJ tutor_NN ,_, closely_RB associated_VBN with_IN Warrington_NNP Academy_NNP ._.
+His_PRP$ sister_NN Lucy_NNP -LRB-_-LRB- 1781_CD ``_`` 1864_CD -RRB-_-RRB- was_VBD a_DT historical_JJ writer_NN ._.
+Their_PRP$ brother_NN Charles_NNP was_VBD adopted_VBN by_IN their_PRP$ famous_JJ aunt_NN and_CC brought_VBD up_RP as_IN their_PRP$ cousin_NN ._.
+Arthur_NNP Aikin_NNP studied_VBD chemistry_NN under_IN Joseph_NNP Priestley_NNP in_IN the_DT New_NNP College_NNP at_IN Hackney_NNP ,_, and_CC gave_VBD attention_NN to_TO the_DT practical_JJ applications_NNS of_IN the_DT science_NN ._.
+In_IN early_JJ life_NN he_PRP was_VBD a_DT Unitarian_JJ minister_NN for_IN a_DT short_JJ time_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Aikin_NNP lectured_VBD on_IN chemistry_NN at_IN Guy_NNP 's_POS Hospital_NN for_IN thirty-two_JJ years_NNS ._.
+He_PRP became_VBD the_DT President_NNP of_IN the_DT British_JJ Mineralogical_NNP Society_NNP in_IN 1801_CD for_IN five_CD years_NNS up_RB until_IN 1806_CD when_WRB the_DT Society_NNP merged_VBD with_IN the_DT Askesian_NNP Society_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- From_IN 1803_CD to_TO 1808_CD he_PRP was_VBD editor_NN of_IN the_DT Annual_JJ Review_NNP ._.
+In_IN 1805_CD Aiken_NNP also_RB became_VBD a_DT Proprietor_NNP of_IN the_DT London_NNP Institution_NNP ,_, which_WDT was_VBD officially_RB founded_VBN in_IN 1806_CD ._.
+He_PRP was_VBD one_CD of_IN the_DT founders_NNS of_IN the_DT Geological_NNP Society_NNP of_IN London_NNP in_IN 1807_CD and_CC was_VBD its_PRP$ honorary_JJ secretary_NN in_IN 1812_CD ``_`` 1817_CD ._.
+He_PRP also_RB gave_VBD lectures_VBZ in_IN 1813_CD and_CC 1814_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP contributed_VBD papers_NNS on_IN the_DT Wrekin_NNP and_CC the_DT Shropshire_NNP coalfield_NN ,_, among_IN others_NNS ,_, to_TO the_DT transactions_NNS of_IN that_DT society_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- His_PRP$ Manual_NNP of_IN Mineralogy_NNP was_VBD published_VBN in_IN 1814_CD ._.
+Later_RB he_PRP became_VBD the_DT paid_VBN Secretary_NNP of_IN the_DT Society_NNP of_IN Arts_NNS and_CC later_RB was_VBD elected_VBN as_IN a_DT Fellow_NNP ._.
+He_PRP was_VBD founder_NN of_IN the_DT Chemical_NNP Society_NNP of_IN London_NNP in_IN 1841_CD ,_, being_VBG its_PRP$ first_JJ Treasurer_NNP and_CC ,_, between_IN 1843_CD and_CC 1845_CD ,_, second_JJ President_NNP ._.
+In_IN order_NN to_TO support_VB himself_PRP ,_, outside_IN of_IN his_PRP$ work_NN with_IN the_DT British_JJ Mineralogical_NNP Society_NNP ,_, the_DT London_NNP Institution_NNP and_CC the_DT Geological_NNP Society_NNP ,_, Aiken_NNP worked_VBD as_IN a_DT writer_NN ,_, translator_NN and_CC lecturer_NN to_TO the_DT public_NN and_CC to_TO medical_JJ students_NNS at_IN Guy_NNP 's_POS Hospital_NN ._.
+His_PRP$ writing_NN and_CC journalism_NN were_VBD useful_JJ for_IN publicising_VBG foreign_JJ scientific_JJ news_NN to_TO the_DT wider_JJR British_JJ public_NN ._.
+He_PRP was_VBD also_RB a_DT member_NN of_IN the_DT Linnean_NNP Society_NNP and_CC in_IN 1820_CD joined_VBD the_DT Institution_NNP of_IN Civil_NNP Engineers_NNPS ._.
+He_PRP was_VBD highly_RB esteemed_VBN as_IN a_DT man_NN of_IN sound_JJ judgement_NN -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC wide_JJ knowledge_NN ._.
+Aikin_NNP never_RB married_VBD ,_, and_CC died_VBD at_IN Hoxton_NNP in_IN London_NNP in_IN 1854_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- For_IN Rees_NNP 's_POS Cyclopædia_NNP he_PRP wrote_VBD articles_NNS about_IN Chemistry_NNP ,_, Geology_NNP and_CC Mineralogy_NNP ,_, but_CC the_DT topics_NNS are_VBP not_RB known_VBN ._.

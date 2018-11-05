@@ -1,0 +1,20 @@
+William_NNP Andrew_NNP Chatto_NNP -LRB-_-LRB- 1799_CD ``_`` 1864_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ._.
+He_PRP used_VBD the_DT pseudonym_NN Stephen_NNP Oliver_NNP -LRB-_-LRB- Junior_NNP -RRB-_-RRB- ._.
+The_DT only_JJ son_NN of_IN William_NNP Chatto_NNP ,_, a_DT merchant_NN who_WP died_VBD at_IN Gibraltar_NNP in_IN 1804_CD ,_, was_VBD born_VBN at_IN Newcastle-on-Tyne_NNP on_IN 17_CD April_NNP 1799_CD ._.
+After_IN education_NN at_IN a_DT grammar_NN school_NN in_IN the_DT north_NN ,_, he_PRP went_VBD into_IN business_NN ,_, and_CC around_IN 1830_CD acquired_VBD the_DT firm_NN of_IN his_PRP$ cousin_NN ,_, a_DT wholesale_JJ tea-dealer_NN ,_, in_IN Eastcheap_NNP ,_, London_NNP ._.
+In_IN 1834_CD he_PRP gave_VBD up_RP business_NN to_TO write_VB ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Also_RB in_IN this_DT year_NN ,_, he_PRP acquired_VBD ,_, probably_RB from_IN the_DT Atkinson_NNP family_NN ,_, the_DT Henry_NNP Atkinson_NNP manuscript_NN ,_, an_DT important_JJ early_JJ source_NN of_IN violin_NN music_NN ,_, dating_VBG from_IN the_DT 1690s_CD ,_, and_CC written_VBN in_IN or_CC near_IN Newcastle_NNP ._.
+He_PRP was_VBD editor_NN in_IN 1839_CD ``_`` 41_CD of_IN the_DT New_NNP Sporting_NNP Magazine_NNP ,_, and_CC in_IN 1844_CD projected_VBD a_DT penny_NN daily_JJ comic_JJ illustrated_VBN paper_NN entitled_VBN :_: Puck_NNP ,_, a_DT journalette_NN of_IN Fun_NN ._.
+For_IN this_DT paper_NN ,_, which_WDT he_PRP edited_VBD himself_PRP ,_, he_PRP secured_VBD the_DT services_NNS of_IN contributors_NNS including_VBG Tom_NNP Taylor_NNP ,_, but_CC it_PRP had_VBD only_RB a_DT brief_JJ existence_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1839_CD ,_, Chatto_NNP was_VBD elected_VBN an_DT honorary_JJ member_NN of_IN the_DT Society_NNP of_IN Antiquaries_NNPS of_IN Newcastle-on-Tyne_NNP ._.
+He_PRP died_VBD in_IN the_DT London_NNP Charterhouse_NNP ,_, 28_CD February_NNP 1864_CD ,_, and_CC was_VBD buried_VBN in_IN Highgate_NNP Cemetery_NNP ._.
+His_PRP$ epitaph_NN ,_, by_IN his_PRP$ lifelong_JJ friend_NN ,_, Tom_NNP Taylor_NNP ,_, described_VBD him_PRP as_IN a_DT ``_`` true-hearted_JJ and_CC upright_JJ man_NN ''_'' ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ works_NNS include_VBP two_CD as_IN Stephen_NNP Oliver_NNP :_: This_DT book_NN is_VBZ now_RB a_DT reprint_VB from_IN Kessinger_NNP Publishings_NNP Legacy_NNP Reprint_NNP Series_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- It_PRP is_VBZ referred_VBN to_TO many_JJ times_NNS by_IN Richard_NNP Oliver_NNP Heslop_NNP in_IN his_PRP$ Northumberland_NNP Words_NNPS ;_: A_DT glossary_NN of_IN words_NNS used_VBN in_IN the_DT County_NNP of_IN Northumberland_NNP and_CC on_IN the_DT Tyneside_NNP -LRB-_-LRB- 2_CD vols_NNS -RRB-_-RRB- ,_, first_JJ published_VBN 1893-4_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Other_JJ books_NNS by_IN Chatto_NNP ,_, under_IN his_PRP$ own_JJ name_NN ,_, include_VBP :_: By_IN his_PRP$ wife_NN ,_, Margaret_NNP ,_, daughter_NN of_IN Luke_NNP Birch_NNP of_IN Cornhill_NNP ,_, London_NNP ,_, he_PRP had_VBD five_CD sons_NNS ,_, of_IN whom_WP the_DT third_JJ ,_, Andrew_NNP Chatto_NNP -LRB-_-LRB- 1840_CD ``_`` 1913_CD -RRB-_-RRB- ,_, became_VBD a_DT member_NN of_IN the_DT publishing_NN firm_NN of_IN Messrs._NNPS Chatto_NNP &_CC Windus_NNP ,_, and_CC three_CD daughters_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Henderson_NNP ,_, Thomas_NNP Finlayson_NNP -LRB-_-LRB- 1887_CD -RRB-_-RRB- ._.
+``_`` Chatto_NNP ,_, William_NNP Andrew_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+10_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

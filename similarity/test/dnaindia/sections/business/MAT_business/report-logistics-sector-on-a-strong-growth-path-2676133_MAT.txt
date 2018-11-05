@@ -1,0 +1,104 @@
+India_NN
+'s_POS
+logistics_NN
+market_NN
+is_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+be_VB [BYPA]
+driven_VBN
+by_PIN
+the_DT
+growth_NN
+in_PIN
+the_DT
+manufacturing_GER
+,_,
+retail_JJ
+,_,
+FMCG_NN
+and_CC
+e-commerce_JJ
+sectors_NN
+,_,
+said_VBD [PUBV]
+Care_NN
+Ratings_GER
+in_PIN
+its_PIT
+report_NN
+$_$
+160_CD
+billion_CD
+''_''
+Estimated_VBN [PRIV]
+domestic_JJ
+logistics_NN
+industry_NN
+in_PIN
+FY17_NN
+10_CD
+%_NN
+''_''
+Expected_VBN [PRIV]
+CAGR_NN
+of_PIN
+the_DT
+industry_NN
+85_CD
+%_NN
+''_''
+Of_PIN
+the_DT
+logistics_NN
+sector_NN
+is_VPRT [BYPA]
+dominated_VBN
+by_PIN
+transportation_NOMZ
+22_CD
+million_CD
+''_''
+People_NN
+are_VPRT [BYPA]
+employed_VBN
+by_PIN
+the_DT
+sector_NN
+10_CD
+%_NN
+''_''
+Decrease_NN
+in_PIN
+indirect_JJ
+logistics_NN
+cost_NN
+could_POMD
+increase_VB
+5-8_CD
+%_NN
+of_PIN
+exports_NN
+14_CD
+%_NN
+''_''
+India_NN
+'s_POS
+logistics_NN
+cost_VBD
+as_IN
+a_DT
+percentage_NN
+of_PIN
+GDP_NN
+90_CD
+%_NN
+''_''
+Of_PIN
+warehousing_GER
+space_NN
+is_VPRT [BYPA]
+controlled_VBN
+by_PIN
+unorganised_JJ
+players_NN

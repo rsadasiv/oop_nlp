@@ -1,0 +1,131 @@
+Two_CD
+teenagers_NN
+were_VBD [PASS]
+run_VBN
+over_RP
+by_PIN
+a_DT
+train_NN
+today_TIME
+while_OSUB
+they_TPP3
+were_VBD
+trying_VBG
+to_TO
+click_VB
+selfies_NN
+,_,
+police_NN
+said_VBD [PUBV]
+here_RB
+._.
+A_DT
+group_NN
+of_PIN
+three_CD
+friends_NN
+had_VBD [PEAS]
+gone_VBN
+to_PIN
+the_DT
+railway_NN
+bridge_NN
+near_PLACE
+Katana_NN
+Sahib_NN
+on_PIN
+Chandigarh-Ludhiana_NN
+line_NN
+to_TO
+click_VB
+selfies_NN
+on_PIN
+their_TPP3
+phones_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+They_TPP3
+wanted_VBD
+to_TO
+take_VB
+a_DT
+selfie_NN
+with_PIN
+a_DT
+moving_VBG [SUAV]
+train_NN
+in_PIN
+the_DT
+background_NN
+,_,
+but_CC
+being_VBG [BEMA]
+too_RB
+close_PRED
+to_PIN
+the_DT
+train_NN
+two_CD
+of_PIN
+them_TPP3
+were_VBD [PASS]
+run_VBN
+over_RB
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+deceased_JJ
+were_VBD [PASS]
+identified_VBN
+as_IN
+Yuvraj_NN
+-LRB-_-LRB-
+15_CD
+-RRB-_-RRB-
+and_ANDC
+Gaurav_NN
+-LRB-_-LRB-
+15_CD
+-RRB-_-RRB-
+,_,
+both_DT
+students_NN
+of_PIN
+Class_NN
+VII_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+Yuvraj_NN
+hailed_VBD
+from_PIN
+village_NN
+Rampura_NN
+in_PIN
+this_DEMO
+district_NN
+while_OSUB
+Gaurav_NN
+was_VBD [BEMA]
+the_DT
+son_NN
+of_PIN
+a_DT
+migrant_JJ
+labourer_NN
+,_,
+also_RB
+residing_VBG
+in_PIN
+the_DT
+same_JJ
+village_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.

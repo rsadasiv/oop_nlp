@@ -1,0 +1,20 @@
+Melvin_NNP Burgess_NNP -LRB-_-LRB- born_VBN 25_CD April_NNP 1954_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN of_IN children_NNS 's_POS fiction_NN ._.
+He_PRP became_VBD famous_JJ in_IN 1998_CD with_IN the_DT publication_NN of_IN Junk_NN ,_, about_IN heroin-addicted_JJ teenagers_NNS on_IN the_DT streets_NNS of_IN Bristol_NNP ._.
+In_IN Britain_NNP ,_, Junk_NN became_VBD one_CD of_IN the_DT best-known_JJ young_JJ adult_NN books_NNS of_IN the_DT decade_NN ._.
+Burgess_NNP won_VBD the_DT annual_JJ Carnegie_NNP Medal_NNP from_IN the_DT Library_NNP Association_NNP ,_, recognizing_VBG the_DT year_NN 's_POS best_JJS children_NNS 's_POS book_NN by_IN a_DT British_JJ author_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- For_IN the_DT 10th_JJ anniversary_NN in_IN 2007_CD it_PRP was_VBD named_VBN one_CD of_IN the_DT top_JJ ten_NN Medal-winning_JJ works_NNS ,_, selected_VBN by_IN a_DT panel_NN to_TO compose_VB the_DT ballot_NN for_IN a_DT public_JJ election_NN of_IN the_DT all-time_JJ favorite_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Burgess_NNP was_VBD born_VBN in_IN the_DT Municipal_JJ Borough_NNP of_IN Twickenham_NNP ,_, Middlesex_NNP ,_, England_NNP -LRB-_-LRB- now_RB Twickenham_NNP ,_, London_NNP -RRB-_-RRB- ._.
+He_PRP completed_VBD his_PRP$ first_JJ book_NN accepted_VBN for_IN publication_NN in_IN his_PRP$ mid-thirties_NNS :_: a_DT novel_NN ,_, The_DT Cry_NNP of_IN the_DT Wolf_NNP ,_, published_VBN by_IN Andersen_NNP Press_NNP in_IN 1990_CD ,_, which_WDT was_VBD highly_RB commended_VBN -LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- a_DT -RRB-_-RRB- by_IN librarians_NNS for_IN the_DT Carnegie_NNP Medal_NNP ,_, which_WDT Gillian_NNP Cross_NNP won_VBD for_IN Wolf_NNP ._.
+Cross_NNP features_VBZ a_DT girl_NN and_CC a_DT metaphorical_JJ wolf_NN ,_, the_DT characters_NNS being_VBG the_DT last_JJ gray_JJ wolf_NN in_IN Britain_NNP ._.
+Andersen_NNP published_VBD all_DT of_IN Burgess_NNP '_POS books_NNS until_IN the_DT mid-1990s_NNS ._.
+The_DT Baby_NNP and_CC Fly_VB Pie_NNP -LRB-_-LRB- 1993_CD -RRB-_-RRB- was_VBD another_DT highly_RB commended_JJ runner-up_NN for_IN the_DT Carnegie_NNP Medal_NNP ,_, a_DT distinction_NN that_WDT was_VBD roughly_RB annual_JJ ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- a_DT -RRB-_-RRB- Junk_NN won_VBD the_DT 1996_CD Medal_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC also_RB the_DT annual_JJ Guardian_NNP Children_NNP 's_POS Fiction_NNP Prize_NNP judged_VBN by_IN a_DT panel_NN of_IN British_JJ children_NNS 's_POS writers_NNS ,_, which_WDT The_DT Guardian_NNP confers_VBZ only_RB once_RB upon_IN any_DT author_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Burgess_NNP is_VBZ one_CD of_IN six_CD authors_NNS ,_, all_DT 1967_CD to_TO 1996_CD ,_, who_WP won_VBD the_DT Carnegie_NNP Medal_NNP for_IN their_PRP$ Guardian_NNP Prize-winning_JJ books_NNS ._.
+Kite_NNP -LRB-_-LRB- 1997_CD -RRB-_-RRB- features_VBZ a_DT boy_NN who_WP hatches_VBZ a_DT red_JJ kite_NN egg_NN ._.
+Burgess_NNP again_RB courted_VBD predictable_JJ controversy_NN in_IN 2003_CD ,_, with_IN the_DT publication_NN of_IN Doing_VBG It_PRP ,_, which_WDT dealt_VBD with_IN underage_JJ sex_NN ._.
+In_IN the_DT U.S._NNP it_PRP was_VBD adapted_VBN as_IN a_DT television_NN series_NN ,_, Life_NNP as_IN We_PRP Know_NNP It_PRP ._.
+In_IN other_JJ books_NNS such_JJ as_IN The_DT Ghost_NN Behind_IN the_DT Wall_NNP -LRB-_-LRB- 2000_CD -RRB-_-RRB- ,_, Burgess_NNP has_VBZ dealt_VBN with_IN less_JJR realist_NN and_CC sometimes_RB fantastic_JJ themes_NNS ._.
+Bloodtide_NNP -LRB-_-LRB- 1999_CD -RRB-_-RRB- and_CC Bloodsong_NNP -LRB-_-LRB- 2007_CD -RRB-_-RRB- are_VBP post-apocalypse_JJ adaptations_NNS of_IN Volsunga_NNP Saga_NNP ._.
+In_IN 2001_CD Burgess_NNP wrote_VBD the_DT novelisation_NN of_IN the_DT film_NN Billy_NNP Elliot_NNP ,_, based_VBN on_IN Lee_NNP Hall_NNP 's_POS screenplay_NN ._.
+Polyphony_NNP is_VBZ a_DT narrative_JJ technique_NN used_VBN in_IN many_JJ of_IN his_PRP$ most_RBS famous_JJ novels_NNS ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB-

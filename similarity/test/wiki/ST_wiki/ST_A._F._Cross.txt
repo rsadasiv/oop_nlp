@@ -1,0 +1,12 @@
+Albert_NNP Francis_NNP Cross_NNP -LRB-_-LRB- 1863_CD ``_`` 1940_CD -RRB-_-RRB- wrote_VBD under_IN the_DT pen_NN name_NN of_IN A._NN F._NNP Cross_NNP ._.
+He_PRP was_VBD a_DT noted_VBN poet_NN ,_, playwright_NN ,_, journalist_NN and_CC author_NN and_CC the_DT founder_NN of_IN several_JJ theaters_NNS and_CC newspapers_NNS in_IN the_DT English_NNP Midlands_NNPS area_NN ._.
+His_PRP$ most_RBS popular_JJ works_NNS include_VBP several_JJ books_NNS of_IN verses_NNS and_CC poetry_NN ,_, specifically_RB Songs_NNPS and_CC Sonnets_NNPS ,_, Virginia_NNP and_CC Charnwood_NNP Poems_NNP ,_, inspired_VBN by_IN a_DT series_NN of_IN walks_VBZ through_IN Charnwood_NNP Forest_NNP ._.
+Charnwood_NNP Poems_NNP was_VBD published_VBN in_IN 1928_CD ._.
+He_PRP was_VBD also_RB the_DT author_NN of_IN several_JJ plays_NNS ,_, including_VBG the_DT musical_JJ comedy_NN Dainty_NNP Diana_NNP ._.
+Born_VBN in_IN Moor_NNP Lane_NNP ,_, Loughborough_NNP ,_, on_IN 9_CD May_NNP 1863_CD ,_, Cross_NNP began_VBD his_PRP$ career_NN as_IN a_DT school_NN master_NN but_CC moved_VBD into_IN journalism_NN after_IN contributing_VBG to_TO the_DT Leicester_NNP Advertiser_NNP ._.
+In_IN 1895_CD ,_, he_PRP became_VBD the_DT editor_NN of_IN the_DT Nuneaton_NNP Observer_NNP ._.
+In_IN 1900_CD ,_, he_PRP formed_VBD the_DT Nuneaton_NNP Theatre_NNP and_CC Entertainment_NNP Company_NNP and_CC became_VBD manager_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Theatre_NNP ,_, Nuneaton_NNP ._.
+He_PRP also_RB built_VBD the_DT Empire_NNP Skating_NNP Rink_NNP in_IN Nuneaton_NNP and_CC managed_VBD Rugby_NNP Theatre_NNP in_IN Rugby_NNP ._.
+In_IN 1906_CD ,_, Cross_NNP bought_VBD the_DT Nuneaton_NNP Chronicle_NNP from_IN its_PRP$ founder_NN F.D._NNP Robertson_NNP ._.
+He_PRP remained_VBD proprietor_NN and_CC editor_NN until_IN his_PRP$ death_NN in_IN 1940_CD ._.
+In_IN 1930_CD ,_, he_PRP founded_VBD the_DT George_NNP Eliot_NNP Fellowship_NNP ._.

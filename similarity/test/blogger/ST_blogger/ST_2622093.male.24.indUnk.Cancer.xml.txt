@@ -1,0 +1,387 @@
+Microsoft_NNP Releases_NNPS New_NNP Internet_NNP Explorer_NNP Fixes_NNP -LRB-_-LRB- TechNews.com_NNP -RRB-_-RRB- I_PRP think_VBP You_PRP would_MD like_VB to_TO use_VB Windows_NNP Update_NNP in_IN Start_NNP Menu_NNP to_TO keep_VB you_PRP windows_NNS OS_NNP patched_VBD with_IN the_DT latest_JJS updates_NNS ._.
+HTMLParser_NNP Home_NNP Page_NNP In_IN general_JJ ,_, to_TO use_VB the_DT HTMLParser_NNP you_PRP will_MD need_VB to_TO be_VB able_JJ to_TO write_VB code_NN in_IN the_DT Java_NNP programming_NN language_NN ._.
+Although_IN some_DT example_NN programs_NNS are_VBP provided_VBN that_DT may_MD be_VB useful_JJ as_IN they_PRP stand_VBP ,_, it_PRP 's_VBZ more_JJR than_IN likely_JJ you_PRP will_MD need_VB -LRB-_-LRB- or_CC want_VB -RRB-_-RRB- to_TO create_VB your_PRP$ own_JJ programs_NNS or_CC modify_VB the_DT ones_NNS provided_VBN to_TO match_VB your_PRP$ intended_JJ application_NN ._.
+To_TO use_VB the_DT library_NN ,_, you_PRP will_MD need_VB to_TO add_VB either_CC the_DT htmllexer_NN ._.
+jar_NN or_CC htmlparser_NN ._.
+jar_NN to_TO your_PRP$ classpath_NN when_WRB compiling_VBG and_CC running_VBG ._.
+The_DT htmllexer_NN ._.
+jar_NN provides_VBZ low_JJ level_NN access_NN to_TO generic_JJ string_NN ,_, remark_NN and_CC tag_NN nodes_NNS on_IN the_DT page_NN in_IN a_DT linear_JJ ,_, flat_JJ ,_, sequential_JJ manner_NN ._.
+The_DT htmlparser_NN ._.
+jar_NN ,_, which_WDT includes_VBZ the_DT classes_NNS found_VBN in_IN htmllexer_NN ._.
+jar_NN ,_, provides_VBZ access_NN to_TO a_DT page_NN as_IN a_DT sequence_NN of_IN nested_JJ differentiated_JJ tags_NNS containing_VBG string_NN ,_, remark_NN and_CC other_JJ tag_NN nodes_NNS ._.
+Building_VBG an_DT e-business_NN foundation_NN for_IN a_DT small-to-medium_NN business_NN ,_, Part_NNP 1_CD :_: Do_VBP n't_RB let_VB the_DT gorillas_NNS get_VBP you_PRP down_IN Solution_NN overview_NN An_DT infrastructure_NN is_VBZ the_DT foundation_NN of_IN a_DT business_NN or_CC organization_NN ,_, serving_VBG as_IN the_DT framework_NN for_IN internal_JJ and_CC external_JJ communication_NN ,_, processes_VBZ ,_, and_CC transactions_NNS ._.
+The_DT infrastructure_NN 's_POS architecture_NN determines_VBZ how_WRB functional_JJ and_CC extensible_JJ the_DT system_NN will_MD be_VB in_IN meeting_NN future_JJ requirements_NNS ._.
+Using_VBG a_DT solid_JJ system_NN infrastructure_NN ensures_VBZ a_DT trusted_VBN ,_, high-performance_JJ solution_NN ._.
+Small_JJ business_NN infrastructures_NNS must_MD provide_VB reliable_JJ ,_, efficient_JJ communications_NNS with_IN business_NN partners_NNS ,_, suppliers_NNS ,_, and_CC customers_NNS ._.
+They_PRP must_MD also_RB guarantee_VB performance_NN for_IN critical_JJ ,_, internal_JJ applications_NNS ._.
+Figure_NN 2_CD represents_VBZ the_DT scenario_NN topology_NN for_IN our_PRP$ e-business_NN infrastructure_NN ._.
+See_VB Implementing_VBG the_DT solution_NN for_IN definitions_NNS of_IN each_DT component_NN ._.
+Figure_NN 2_CD ._.
+Solution_NN topology_NN You_PRP could_MD benefit_VB from_IN a_DT solution_NN based_VBN on_IN this_DT topology_NN if_IN your_PRP$ business_NN :_: Wants_VBZ to_TO extend_VB its_PRP$ catalog_NN presence_NN to_TO the_DT Web_NNP Needs_NNS a_DT way_NN to_TO track_VB Web_NNP site_NN traffic_NN Needs_NNS a_DT scalable_JJ ,_, highly_RB available_JJ ,_, secure_JJ environment_NN for_IN e-business_NN Needs_NNS to_TO integrate_VB existing_VBG and_CC new_JJ applications_NNS Wants_VBZ to_TO advertise_VB retail_JJ products_NNS and_CC information_NN on_IN the_DT Web_NNP Needs_NNS innovation_NN in_IN electronic_JJ communication_NN to_TO facilitate_VB faster_JJR response_NN times_NNS and_CC lower_JJR costs_NNS The_DT scenario_NN has_VBZ five_CD stages_NNS :_: Web_NN presence_NN Commerce_NNP Live_NNP chat_VBP Business-to-business_NN partner_NN Site_NN analysis_NN In_IN the_DT first_JJ stage_NN of_IN the_DT scenario_NN ,_, Web_NNP presence_NN ,_, we_PRP build_VBP the_DT infrastructure_NN for_IN e-business_NN ._.
+We_PRP assume_VBP the_DT business_NN has_VBZ a_DT limited_JJ Web_NNP presence_NN or_CC needs_VBZ to_TO make_VB its_PRP$ existing_VBG presence_NN dynamic_NN to_TO attract_VB more_JJR customers_NNS ._.
+This_DT stage_NN lets_VBZ customers_NNS easily_RB find_VBP information_NN about_IN the_DT business_NN and_CC contact_NN it_PRP through_IN a_DT postal_JJ address_NN ,_, e-mail_JJ address_NN ,_, or_CC telephone_NN number_NN ._.
+The_DT infrastructure_NN provides_VBZ a_DT strong_JJ ,_, secure_JJ ,_, reliable_JJ foundation_NN on_IN the_DT path_NN to_TO becoming_VBG an_DT e-business_NN ._.
+It_PRP supports_VBZ key_JJ industry_NN standards_NNS such_JJ as_IN HTML_NNP ,_, HTTP_NNP ,_, J2EE_NNP ,_, XML_NNP ,_, and_CC Web_NNP services_NNS ._.
+In_IN the_DT second_JJ stage_NN ,_, commerce_NN ,_, we_PRP add_VBP e-commerce_JJ capability_NN to_TO the_DT existing_VBG Web_NNP site_NN ,_, providing_VBG the_DT buying_NN experience_NN expected_VBN by_IN online_NN customers_NNS ._.
+Customers_NNS can_MD browse_VB a_DT catalog_NN and_CC view_NN detailed_JJ product_NN information_NN ,_, use_VBP a_DT personalized_VBN ,_, virtual_JJ shopping_NN cart_NN ,_, and_CC pay_VB for_IN purchases_NNS electronically_RB ._.
+This_DT stage_NN provides_VBZ a_DT secure_JJ ,_, reliable_JJ platform_NN for_IN conducting_VBG e-commerce_NN ,_, supports_VBZ industry_NN standards_NNS ,_, and_CC seamlessly_RB integrates_VBZ with_IN existing_VBG back-end_JJ systems_NNS like_IN inventory_NN databases_NNS ._.
+In_IN stage_NN three_CD ,_, live_VBP chat_VB ,_, we_PRP extend_VBP the_DT e-business_NN with_IN human_JJ interaction_NN to_TO give_VB it_PRP more_RBR responsive_JJ ,_, personal_JJ contact_NN with_IN its_PRP$ customers_NNS ._.
+When_WRB a_DT customer_NN has_VBZ a_DT question_NN about_IN a_DT product_NN or_CC about_IN how_WRB to_TO complete_VB a_DT purchase_NN ,_, they_PRP can_MD simply_RB communicate_VB with_IN a_DT customer_NN support_NN agent_NN through_IN an_DT applet_NN ._.
+Agents_NNS can_MD immediately_RB contact_VB internal_JJ product_NN experts_NNS or_CC accounting_NN personnel_NNS and_CC give_VB quick_JJ answers_NNS to_TO customers_NNS ._.
+This_DT instant_NN messaging_VBG fulfills_NNS stringent_JJ security_NN and_CC availability_NN requirements_NNS ,_, and_CC is_VBZ easy_JJ for_IN both_DT customers_NNS and_CC agents_NNS to_TO use_VB ._.
+Smaller_JJR businesses_NNS can_MD also_RB benefit_VB by_IN electronically_RB connecting_VBG to_TO suppliers_NNS and_CC resellers_NNS ._.
+In_IN stage_NN four_CD ,_, business-to-business_NN partner_NN ,_, we_PRP implement_VBP business_NN process_NN integration_NN and_CC data_NNS sharing_NN among_IN trading_VBG partners_NNS ._.
+This_DT stage_NN helps_VBZ reduce_VB integration_NN costs_NNS and_CC enables_VBZ faster_RBR deployment_NN of_IN new_JJ processes_NNS and_CC services_NNS ._.
+It_PRP assures_VBZ reliable_JJ message_NN delivery_NN and_CC provides_VBZ heterogeneous_JJ ,_, any-to-any_JJ connectivity_NN through_IN a_DT standard_JJ API_NNP ._.
+After_IN establishing_VBG Web_NNP presence_NN and_CC e-commerce_JJ capabilities_NNS ,_, the_DT business_NN will_MD want_VB to_TO analyze_VB site_NN traffic_NN to_TO understand_VB the_DT complete_JJ view_NN of_IN customer_NN Web_NN activity_NN and_CC improve_VB site_NN efficiency_NN and_CC effectiveness_NN ._.
+In_IN the_DT fifth_JJ stage_NN ,_, site_NN analysis_NN ,_, Swish_JJ Swash_NN can_MD analyze_VB the_DT preferences_NNS and_CC trends_NNS of_IN its_PRP$ site_NN visitors_NNS ._.
+This_DT stage_NN identifies_VBZ where_WRB visitors_NNS click_VBP and_CC which_WDT paths_NNS they_PRP follow_VBP to_TO determine_VB if_IN the_DT site_NN navigation_NN helps_VBZ meet_VB the_DT performance_NN goals_NNS of_IN the_DT business_NN ._.
+The_DT technical_JJ challenges_NNS are_VBP identifying_VBG and_CC handling_VBG Web_NNP site_NN congestion_NN ,_, increasing_VBG content_JJ availability_NN ,_, and_CC improving_VBG overall_JJ performance_NN ._.
+Color_NNP Bars_NNPS moves_VBZ directly_RB to_TO random_JJ direction_NN and_CC refracts_NNS when_WRB runs_VBZ into_IN the_DT wall_NN ._.
+Zip_NN package_NN includes_VBZ source_NN code_NN ,_, deployed_VBN jar_NN ,_, jad_NN files_NNS ._.
+Need_VBD WTK_NNP emulators_NNS or_CC J2ME_CD Cell_NNP phone_NN ._.
+Color_NNP display_NN is_VBZ required_VBN ._.
+http:\/\/www.ivanshi.com\/blog\/gameworks.zip_NNP Only_RB yourself_PRP !!_VB It_PRP 's_VBZ TrustCash_NNP hijacked_VBD my_PRP$ Internet_NNP Explorer_NNP by_IN hooking_VBG an_DT invisible_JJ toolbar_NN to_TO my_PRP$ IE_NNP ._.
+Both_DT Ad-aware_JJ 6_CD and_CC Norton_NNP Anivirus_NNP 2003_CD can_MD not_RB find_VB this_DT hijacker_NN ._.
+Regedit_NNP is_VBZ the_DT only_JJ tool_NN that_WDT help_VBP me_PRP to_TO find_VB out_RP the_DT hijacker_NN ._.
+Orfeo_NNP Blog_NNP is_VBZ good_JJ place_NN for_IN Italian_JJ developers_NNS and_CC programs_NNS ,_, and_CC the_DT blog_NN also_RB have_VBP some_DT English_JJ links_NNS about_IN freeware_NN and_CC j2me_NN ._.
+If_IN you_PRP can_MD understand_VB Italian_JJ ,_, why_WRB not_RB go_VB and_CC take_VB a_DT look_NN ?_.
+Stop_NNP Plate_NNP Tectonics_NNP Nice_NNP blog_NN ,_, and_CC a_DT very_RB good_JJ BlogShares.COM_NNP player_NN ._.
+Chinese_JJ archive_NN for_IN Software_NNP analyze_VBP and_CC architecture_NN Bookmark_NNP here_RB for_IN my_PRP$ later_JJ reading_NN ._.
+Online_NNP marketing_NN solutions_NNS :_: performance-based_JJ affiliate_NN programs_NNS &_CC search_NN marketing_NN Recently_RB ,_, I_PRP am_VBP interest_NN on_IN Internet_NNP Marketing_NNP ,_, Search_NNP Engine_NNP Optimization_NNP and_CC Affiliate_NNP Programs_NNP ._.
+Cj.COM_NNP is_VBZ listed_VBN on_IN Dr._NNP Ander_NNP 's_POS Affiliate-minder_NN ._.
+com_NN website_NN ,_, with_IN the_DT description_NN :_: the_DT biggest_JJS and_CC best_JJS known_VBN ._.
+I_PRP would_MD like_VB to_TO take_VB a_DT look_NN into_IN cj.com_JJ Affiliate_NNP Minder_NNP for_IN affiliate-friendly_RB associate_JJ programs_NNS It_PRP is_VBZ a_DT very_RB good_JJ site_NN for_IN webmasters_NNS who_WP is_VBZ ready_JJ to_TO set_VB up_RP an_DT affiliate_NN site_NN or_CC is_VBZ encouting_VBG affiliate_NN commission_NN leakage_NN problem_NN Now_RB ,_, use_VBP msnmlib_JJ 1.2_CD -LRB-_-LRB- the_DT website_NN is_VBZ in_IN Korean_JJ -RRB-_-RRB- ,_, you_PRP can_MD write_VB programs_NNS as_IN client_NN to_TO MSN_NNP servers_NNS ._.
+You_PRP can_MD write_VB msn_NN robots_NNS or_CC your_PRP$ own_JJ MSN_NNP Messenger_NN use_NN Java_NNP ._.
+Here_RB I_PRP have_VBP a_DT very_RB short_JJ tutorial_NN on_IN how_WRB to_TO use_VB msnmlib_JJ 1.2_CD ,_, and_CC my_PRP$ Java_NN development_NN IDE_NNP is_VBZ Eclipse_NNP 3.0_CD Prepare_NNP :_: If_IN you_PRP had_VBD already_RB downloaded_VBN msnmlib_NN 1.2_CD package_NN from_IN the_DT offical_JJ project_NN website_NN ,_, then_RB unzip_VB it_PRP to_TO any_DT folder_NN on_IN your_PRP$ HDD_NNP ._.
+Here_RB I_PRP use_VBP d_SYM :_: \_VB java_dev_JJ \_NN common_JJ \_NN ,_, you_PRP will_MD get_VB a_DT jar_NN file_NN :_: msnm_NN ._.
+jar_NN ._.
+Otherwise_RB ,_, you_PRP have_VBP to_TO download_VB the_DT latest_JJS version_NN of_IN msnmlib_NN from_IN the_DT offical_JJ web_NN site_NN or_CC the_DT project_NN page_NN on_IN sourceforge_NN First_JJ step_NN ,_, open_JJ your_PRP$ Eclipse_NNP IDE_NNP and_CC use_VB New_NNP Project_NNP wizard_NN to_TO create_VB a_DT new_JJ java_NN project_NN in_IN your_PRP$ default_NN workspace_NN -LRB-_-LRB- ofcoz_NN ,_, you_PRP can_MD use_VB another_DT workspace_NN -RRB-_-RRB- ,_, and_CC name_VB your_PRP$ project_NN -LRB-_-LRB- here_RB I_PRP use_VBP jRCS_NNP ,_, which_WDT means_VBZ java_NN Realtime_NNP Customer_NN Servcie_NNP System_NNP -RRB-_-RRB- Second_NNP ,_, In_IN Eclipse_NNP ,_, Select_NNP menu_NN Window_NNP --_: -RRB-_-RRB- Prefence_NNP ,_, expand_VB the_DT Java_NNP node_NN in_IN the_DT left_JJ treeview_NN ,_, and_CC then_RB expand_VB Build_NNP path_NN node_NN in_IN Java_NNP node_NN ,_, and_CC then_RB select_JJ node_NN User_NNP Libraries_NNPS ._.
+We_PRP will_MD add_VB a_DT new_JJ user_NN library_NN refer_VBP to_TO the_DT path_NN where_WRB you_PRP place_VBP your_PRP$ msnmlib_NN jar_NN file_NN ._.
+Click_VB new_JJ ..._: to_TO add_VB a_DT new_JJ user_NN library_NN MSN_LIB_NNP and_CC click_VB Add_VB Jars_NNS ..._: to_TO make_VB the_DT user_NN library_NN variable_JJ refer_VBP to_TO msnmlib_VB jar_NN file_NN :_: d_LS :_: \_VB java_dev_JJ \_NN common_JJ \_NN msnm_NN ._.
+jar_NN Now_RB ,_, edit_NN properties_NNS of_IN project_NN jRCS_NNS by_IN select_JJ the_DT context_NN menu_NN of_IN jRCS_NNP node_NN in_IN the_DT Project_NN Explorer_NNP ._.
+Here_RB we_PRP will_MD edit_VB the_DT Java_NNP Build_NNP Path_NNP and_CC add_VB a_DT new_JJ library_NN for_IN this_DT project_NN ._.
+Of_IN coz_NN ,_, we_PRP will_MD add_VB the_DT pre-defined_JJ User_NNP Library_NNP MSN_LIB_NNP here_RB ._.
+Ok_NNP ,_, finally_RB ,_, we_PRP have_VBP our_PRP$ development_NN environment_NN set_VBN up_RP ._.
+It_PRP 's_VBZ time_NN for_IN coding_NN !_.
+Coding_VBG Step_NN 1_CD :_: Create_VB your_PRP$ own_JJ MsnAdapter_NNP class_NN for_IN an_DT adapter_NN that_WDT can_MD listen_VB to_TO the_DT events_NNS fired_VBN by_IN MSN_NNP Messenger_NNP ._.
+You_PRP should_MD make_VB you_PRP adapter_NN class_NN extend_VBP from_IN the_DT parent_NN class_NN rath_NN ._.
+msnm_NN ._.
+event_NN ._.
+MsnAdapter_NNP ._.
+the_DT MsnAdapter_NNP class_NN has_VBZ more_JJR the_DT 10_CD methods_NNS for_IN event_NN listening_NN ._.
+but_CC you_PRP have_VBP not_RB to_TO implement_VB all_PDT the_DT methods_NNS ,_, and_CC by_IN user_NN Eclipse_NNP New_NNP Class_NNP Wizard_NNP ,_, it_PRP is_VBZ not_RB a_DT hard_JJ job_NN to_TO implement_VB a_DT lot_NN of_IN methods_NNS ._.
+For_IN short_JJ and_CC easy_JJ ,_, We_PRP only_RB implement_VBP method_NN MsnAdapter_NNP ._.
+instantMessageReceived_VBN -LRB-_-LRB- SwitchboardSession_NNP ss_VBZ ,_, MsnFriend_NNP friend_NN ,_, MimeMessage_NNP mime_NN -RRB-_-RRB- ._.
+Method_NNP instantMessageReceived_NNP is_VBZ invoked_VBN by_IN the_DT MsnMessenger_NNP instance_NN every_DT time_NN when_WRB you_PRP receive_VBP a_DT new_JJ message_NN -LRB-_-LRB- MimeMessage_NNP -RRB-_-RRB- from_IN MsnFriend_NNP ._.
+Here_RB is_VBZ my_PRP$ code_NN to_TO reply_VB to_TO the_DT friend_NN ``_`` How_WRB are_VBP you_PRP doing_VBG ''_'' :_: public_JJ class_NN MSNAdapter_NNP extends_VBZ MsnAdapter_NNP -LCB-_-LRB- MSNMessenger_NNP msn_NN ;_: public_JJ MSNAdapter_NNP -LRB-_-LRB- MSNMessenger_NNP msn_NN -RRB-_-RRB- -LCB-_-LRB- this_DT ._.
+msn_NN =_SYM msn_FW ;_: -RCB-_-RRB- public_JJ void_JJ instantMessageReceived_NNP -LRB-_-LRB- SwitchboardSession_NNP ss_VBZ ,_, MsnFriend_NNP friend_NN ,_, MimeMessage_NNP mime_NN -RRB-_-RRB- -LCB-_-LRB- System_NNP ._.
+out_RB ._.
+println_NN -LRB-_-LRB- friend_NN ._.
+getFriendlyName_NNP -LRB-_-LRB- -RRB-_-RRB- +_NN ''_'' send_VB me_PRP some_DT msg_NN :_: ''_'' +_VB mime_NN ._.
+getMessage_NNP -LRB-_-LRB- -RRB-_-RRB- -RRB-_-RRB- ;_: try_VB -LCB-_-LRB- \/_FW \/_FW create_VB a_DT new_JJ message_NN MimeMessage_NNP mm_NNP =_SYM new_JJ MimeMessage_NNP -LRB-_-LRB- -RRB-_-RRB- ;_: \/_CD \/_NN remember_VBP to_TO append_VB the_DT \_NN r_NN \_FW n_FW \_FW r_SYM \_FW n_FW trail_NN to_TO \/_VB \/_CD your_PRP$ message_NN mm_NN ._.
+setMessage_NN -LRB-_-LRB- ``_`` How_WRB are_VBP you_PRP doing_VBG ?_.
+\_NN r_SYM \_FW n_FW \_FW r_SYM \_FW n_FW ''_'' -RRB-_-RRB- ;_: \/_CD \/_NN set_VBD the_DT message_NN kind_NN to_TO MESSAGE_NNP -_: __SYM -_: !!!_FW \/_FW \/_FW you_PRP have_VBP to_TO do_VB this_DT ._.
+mm_NN ._.
+setKind_NN -LRB-_-LRB- mm_FW ._.
+KIND_MESSAGE_NNP -RRB-_-RRB- ;_: if_IN -LRB-_-LRB- robot_NN ._.
+msn_NN ._.
+sendMessage_NN -LRB-_-LRB- mm_FW ,_, ss_VBZ -RRB-_-RRB- -RRB-_-RRB- -LCB-_-LRB- \/_FW \/_FW message_NN sent_VBN successfully_RB System_NNP ._.
+out_RB ._.
+println_NN -LRB-_-LRB- ``_`` send_VB msg_NN ok_NN !_. ''_'' -RRB-_-RRB-
+;_: -RCB-_-RRB- else_RB -LCB-_-LRB- \/_FW \/_FW failed_VBD System_NNP ._.
+out_RB ._.
+println_NN -LRB-_-LRB- ``_`` send_VB msg_NN faild_NN !_. ''_'' -RRB-_-RRB-
+;_: -RCB-_-RRB- -RCB-_-RRB- catch_NN -LRB-_-LRB- Exception_NN e_LS -RRB-_-RRB- -LCB-_-LRB- e._FW printStackTrace_NN -LRB-_-LRB- -RRB-_-RRB- ;_: -RCB-_-RRB- -RCB-_-RRB- -RCB-_-RRB- Coding_NNP Step_NN 2_CD :_: Write_VB a_DT public_JJ class_NN with_IN the_DT static_JJ main_JJ method_NN as_IN your_PRP$ own_JJ msn_NN client_NN ._.
+public_JJ class_NN Client_NNP -LCB-_-LRB- public_JJ static_JJ void_JJ main_JJ -LRB-_-LRB- String_NNP -LRB-_-LRB- -RRB-_-RRB- args_NNS -RRB-_-RRB- -LCB-_-LRB- Email_NNP =_SYM ``_`` your@hotmail.com_NN ''_'' ;_: Password_NNP =_SYM ``_`` you_msn_account_password_VBN ''_'' ;_: \/_CD \/_NN create_VB a_DT new_JJ MSNMessenger_NNP instance_NN msn_NN msn_NN =_SYM new_JJ MSNMessenger_NNP -LRB-_-LRB- Email_NNP ,_, Password_NNP -RRB-_-RRB- ;_: \/_CD \/_NN set_VBD the_DT initial_JJ status_NN to_TO online_VB ._.
+msn_NN ._.
+setInitialStatus_NNS -LRB-_-LRB- UserStatus_NNP ._.
+ONLINE_NNP -RRB-_-RRB- ;_: \/_CD \/_CD register_NN your_PRP$ pre-created_JJ adapter_NN to_TO msn_VB msn_NN ._.
+addMsnListener_NNP -LRB-_-LRB- new_JJ MSNAdapter_NNP -LRB-_-LRB- msn_NN -RRB-_-RRB- -RRB-_-RRB- ;_: \/_CD \/_CD login_NN into_IN the_DT msn_NN network_NN msn_NN ._.
+login_NN -LRB-_-LRB- -RRB-_-RRB- ;_: System_NNP ._.
+out_RB ._.
+println_NN -LRB-_-LRB- ``_`` Waiting_VBG for_IN the_DT response_NN ..._: ''_'' -RRB-_-RRB- ;_: -RCB-_-RRB- -RCB-_-RRB- Coding_NNP Step_NN 3_CD :_: Debug_NNP or_CC run_VB your_PRP$ application_NN ._.
+In_IN the_DT context_NN menu_NN of_IN project_NN jRCS_NNP ,_, select_JJ Run_NNP --_: -RRB-_-RRB- Java_NNP Application_NNP ,_, Eclipse_NNP will_MD compile_VB the_DT code_NN and_CC run_VB the_DT application_NN in_IN the_DT Console_NNP ._.
+If_IN you_PRP have_VBP your_PRP$ msn_NN account_NN set_VBN properly_RB ,_, and_CC you_PRP have_VBP another_DT msn_NN account_NN that_WDT add_VBP this_DT msn_NN account_NN as_IN contact_NN ,_, you_PRP will_MD see_VB this_DT msn_NN account_NN log_VBP in_IN ,_, and_CC then_RB you_PRP can_MD send_VB some_DT message_NN to_TO this_DT contact_NN as_IN you_PRP wish_VBP ,_, how_WRB ever_RB the_DT Contact_NN will_MD only_RB and_CC always_RB answer_VB you_PRP ``_`` How_WRB are_VBP you_PRP doing_VBG ?_. ''_'' ._.
+\*_SYM __FW ^_FW About_IN Author_NN :_: Ivan_NNP Shi_NNP ,_, Web_NNP Server_NNP System_NNP Developer_NNP living_NN and_CC working_VBG in_IN Shanghai_NNP ,_, China_NNP He_PRP has_VBZ a_DT Blog_NNP ``_`` Technically_NNP Blog_NNP Ivan_NNP ''_'' -LRB-_-LRB- http:\/\/www.ivanshi.com\/_NN -RRB-_-RRB- ,_, blogging_VBG his_PRP$ life_NN ,_, feel_VB ,_, mind_VB and_CC technology_NN ._.
+He_PRP is_VBZ doing_VBG a_DT lot_NN to_TO make_VB his_PRP$ speaking_NN and_CC writing_VBG English_JJ much_RB more_JJR better_JJR !_.
+PS_NNP :_: It_PRP is_VBZ the_DT first_JJ time_NN I_PRP wrote_VBD programming_NN tutorial_NN in_IN English_NNP ._.
+Please_VB forgive_VB my_PRP$ poor_JJ English_NNP ,_, as_IN I_PRP had_VBD do_VB my_PRP$ best_JJS to_TO make_VB things_NNS clear_JJ and_CC easy_JJ to_TO understand_VB ._.
+Anyway_RB ,_, you_PRP are_VBP welcome_JJ to_TO publish_VB a_DT copy_NN of_IN this_DT tutorial_NN on_IN any_DT website_JJ page_NN as_IN wish_NN ,_, but_CC do_VBP remember_VB to_TO notify_VB me_PRP before_IN and_CC keep_VB the_DT Author_NN Bio_NNP not_RB edited_VBD ._.
+Thanks_NNS for_IN reading_VBG !_.
+Improve_VB Search_NNP Engine_NNP Ranking_NNP With_IN Topical_NNP Articles_NNPS Very_RB good_JJ article_NN about_IN how_WRB to_TO build_VB a_DT attractive_JJ website\/weblog_NN ._.
+I_PRP will_MD enhance_VB my_PRP$ blog_NN by_IN following_VBG some_DT tips_NNS out_IN of_IN this_DT article_NN ._.
+Search_NNP Engine_NNP News_NNP If_IN you_PRP want_VBP to_TO know_VB more_JJR about_IN search_NN engine_NN marketing_NN ,_, this_DT site_NN maybe_RB is_VBZ a_DT very_RB good_JJ portal_JJ entry_NN ._.
+PDAgold.com_NNP :_: :_: Article_NN :_: :_: First_NNP virus_NN for_IN Pocket_NNP PC_NNP unleashed_VBD ``_`` On_IN July_NNP 16_CD this_DT year_NN ,_, a_DT weblog_NN of_IN F-Secure_JJ developers_NNS carried_VBD a_DT report_NN on_IN the_DT first_JJ real_JJ virus_NN for_IN Pocket_NNP PC_NNP devices_NNS and_CC later_RB brought_VBD more_JJR details_NNS ._.
+But_CC stop_VB panicking_VBG ._.
+The_DT virus_NN does_VBZ not_RB pose_VB a_DT very_RB big_JJ threat_NN ._.
+Not_RB this_DT one_CD ..._: ''_'' ``_`` The_DT first_JJ PocketPC_NNP virus_NN is_VBZ called_VBN WinCE_NNP ._.
+Dust_NN .1520_CD ._.
+It_PRP was_VBD created_VBN by_IN a_DT virus-writing_JJ group_NN who_WP call_VBP themselves_PRP A29_NNP ._.
+It_PRP is_VBZ a_DT classical_JJ virus_NN that_WDT infects_VBZ executables_NNS and_CC spreads_NNS by_IN exchange_NN of_IN infected_JJ files_NNS ._.
+When_WRB you_PRP run_VBP the_DT infected_JJ program_NN ,_, it_PRP will_MD ask_VB whether_IN it_PRP may_MD infect_VB other_JJ files_NNS ,_, too_RB ._.
+WinCE4_NNP ._.
+Dust_NN by_IN Ratter\/29A_NNP Dear_NNP User_NNP ,_, am_VBP I_PRP allowed_VBN to_TO spread_VB If_IN it_PRP receives_VBZ a_DT positive_JJ answer_NN ,_, it_PRP will_MD attempt_VB to_TO infect_VB all_DT EXE_NNP files_NNS in_IN the_DT same_JJ folder_NN ._.
+The_DT authors_NNS hid_VBD two_CD sentences_NNS in_IN the_DT body_NN of_IN the_DT virus_NN -_: one_CD of_IN them_PRP alludes_VBZ to_TO the_DT sci-fi_JJ book_NN Permutation_NNP City_NNP by_IN Greg_NNP Egan_NNP ,_, the_DT other_JJ is_VBZ a_DT message_NN mainly_RB to_TO antivirus_NNS firms_NNS that_IN the_DT era_NN when_WRB antivirus_JJ programs_NNS for_IN Pocket_NNP PC_NNP could_MD detect_VB nothing_NN but_CC the_DT EICAR_NNP virus_NN -LRB-_-LRB- which_WDT is_VBZ a_DT kind_NN of_IN ``_`` testing_NN ''_'' virus_NN -RRB-_-RRB- ,_, has_VBZ come_VBN to_TO an_DT end_NN ._.
+The_DT virus_NN can_MD also_RB infect_VB Smartphones_NNS with_IN an_DT ARM_NNP processor_NN due_JJ to_TO identical_JJ architecture_NN ._. ''_''
+PDAgold.com_NNP :_: :_: Article_NN :_: :_: First_NNP 60_CD minutes_NNS with_IN HP_NNP iPAQ_NNP hx4700_CD In_IN this_DT article_NN by_IN Pavel_NNP Koza_NNP ,_, ``_`` HP_NNP designers_NNS allowed_VBD their_PRP$ imagination_NN free_JJ rein_NN and_CC hx4700_CD resembles_VBZ a_DT futuristic_JJ communicator_NN rather_RB than_IN 2004_CD PDA_NNP ._.
+Forget_VB about_IN silvery_JJ plastic_NN -_: the_DT body_NN is_VBZ made_VBN of_IN magnesium_NN alloy_NN so_IN that_IN it_PRP is_VBZ as_IN light_NN as_IN plastic_NN but_CC incomparably_RB more_RBR durable_JJ ._.
+Its_PRP$ dark_JJ color_NN with_IN metallic_JJ shine_NN makes_VBZ the_DT device_NN appear_VBP smaller_JJR than_IN it_PRP is_VBZ ._.
+Instead_RB of_IN a_DT common_JJ joypad_NN ,_, this_DT iPAQ_NN features_VBZ a_DT unique_JJ touchpad_NN ,_, the_DT same_JJ as_IN that_DT used_VBN in_IN laptop_NN computers_NNS ._.
+It_PRP can_MD work_VB in_IN two_CD modes_NNS -_: either_CC as_IN a_DT rather_RB unusual_JJ joypad_NN or_CC as_IN a_DT normal_JJ touchpad_NN which_WDT even_RB shows_VBZ a_DT pointer_NN on_IN the_DT display_NN !_. ''_''
+,_, the_DT author_NN wrote_VBD ,_, ``_`` The_DT display_NN seems_VBZ huge_JJ in_IN comparison_NN with_IN usual_JJ PocketPCs_NNS ._.
+Measured_VBN with_IN a_DT ruler_NN ,_, the_DT diagonal_NN is_VBZ just_RB half_PDT an_DT inch_NN longer_RB ,_, but_CC it_PRP makes_VBZ a_DT big_JJ difference_NN ._.
+The_DT resolution_NN being_VBG twice_RB finer_JJR than_IN usual_JJ ,_, the_DT pixel_NN density_NN must_MD be_VB significantly_RB higher_JJR ._.
+It_PRP means_VBZ that_IN it_PRP is_VBZ extremely_RB fine_JJ and_CC smooth_JJ and_CC I_PRP do_VBP not_RB exaggerate_VB when_WRB I_PRP use_VBP superlatives_NNS ._. ''_''
+Click_NNP for_IN full-size_JJ image_NN ``_`` The_DT device_NN is_VBZ powered_VBN by_IN an_DT Intel_NNP PXA270_NNP processor_NN running_VBG at_IN 624_CD MHz_NNP ._.
+This_DT is_VBZ the_DT best_JJS processor_NN for_IN pocket_NN computers_NNS available_JJ ._.
+Responses_NNS are_VBP immediate_JJ ._.
+Somewhat_RB surprisingly_RB ,_, the_DT IPAQ_NNP offers_VBZ a_DT combination_NN of_IN 128_CD MB_NN and_CC 64_CD MB_NN of_IN memory_NN but_CC the_DT larger_JJR is_VBZ FlashROM_NNP ,_, unlike_IN in_IN other_JJ device_NN ._.
+It_PRP contains_VBZ the_DT system_NN ,_, so_RB that_IN you_PRP can_MD not_RB use_VB all_PDT those_DT 128_CD MB_NN but_CC ``_`` only_RB ''_'' some_DT 80_CD MB_NNP ._.
+Coupled_VBN with_IN 63_CD MB_NN of_IN RAM_NNP ,_, you_PRP have_VBP more_JJR than_IN enough_JJ room_NN for_IN your_PRP$ data_NNS and_CC applications_NNS ._. ''_''
+Ha_NNP ,_, HP_NNP iPAQ_NNP hx4700_CD will_MD be_VB the_DT next_JJ PPC_NNP I_PRP will_MD dream_VB about_RB ,_, as_IN I_PRP dreamed_VBD about_IN iPAQ_NNP 2210_CD in_IN earlier_JJR past_JJ days_NNS ._.
+I_PRP have_VBP been_VBN working_VBG in_IN this_DT team_NN for_IN a_DT year_NN and_CC half_NN ,_, have_VBP been_VBN seeing_VBG people_NNS changing_VBG in_IN the_DT same_JJ office_NN ,_, and_CC office_NN changing_VBG for_IN the_DT same_JJ people_NNS ._.
+From_IN three_CD to_TO five_CD ,_, from_IN five_CD to_TO four_CD ,_, and_CC now_RB 12_CD great_JJ guys_NNS make_VBP up_IN of_IN the_DT great_JJ team_NN !_.
+Anyway_RB ,_, my_PRP$ dream_NN is_VBZ in_IN another_DT place_NN ,_, so_IN I_PRP have_VBP to_TO quit_VB ,_, but_CC I_PRP will_MD never_RB leave_VB you_PRP guys_NNS !_.
+Thank_VB you_PRP very_RB much_RB !_.
+You_PRP guys_NNS are_VBP the_DT most_RBS lovely_JJ people_NNS I_PRP 've_VBP ever_RB seen_VBN ._.
+And_CC I_PRP do_VBP belive_VB 9orange_CD ._.
+com_NN will_MD be_VB one_CD of_IN the_DT most_RBS successful_JJ communication_NN portal_JJ site_NN in_IN Chinese_JJ on_IN the_DT Internet_NNP ,_, as_IN you_PRP guys_NNS are_VBP the_DT most_RBS smart_JJ people_NNS I_PRP 've_VBP ever_RB seen_VBN ._.
+First_NNP of_IN all_DT ,_, you_PRP should_MD write_VB a_DT class_NN inheirts_VBZ from_IN rath_NN ._.
+msnm_NN ._.
+event_NN ._.
+MsnAdapter_NNP Second_NNP ,_, implement_VBP some_DT methods_NNS of_IN MsnAdapter_NNP ,_, for_IN listenning_VBG Messenger_NNP 's_POS event_NN ._.
+Then_RB ,_, use_VBP MSNMessenger_NNP ._.
+addMsnListener_NNP -LRB-_-LRB- -RRB-_-RRB- to_TO register_VB you_PRP adapter_NN to_TO the_DT instance_NN of_IN MSNMessenger_NNP ._.
+PS_NNP :_: remember_VB to_TO set_VB MimeMessage_NNP 's_POS Kind_NNP field_NN use_NN setKind_NNP method_NN to_TO KIND_MESSAGE_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+and_CC remember_VB to_TO apped_VBN ''_'' \_FW r_SYM \_FW n_FW \_FW r_SYM \_FW n_FW ''_'' trail_NN to_TO every_DT of_IN your_PRP$ message_NN text_NN ._.
+This_DT artilce_NN is_VBZ posted_VBN on_IN Javaworld_NNP ,_, Access_NNP Web_NNP services_NNS from_IN wireless_JJ devices_NNS It_PRP is_VBZ a_DT very_RB good_JJ detailed_JJ artilce_NN about_IN Web_NNP Services_NNPS Accessing_NNP from_IN wireless_JJ devices_NNS using_VBG kSOAP_NNP ._.
+Sony_NNP Ericsson_NNP &_CC Java_NNP About_IN Java_NNP -LRB-_-LRB- J2ME_NNP -RRB-_-RRB- Java_NNP is_VBZ one_CD of_IN the_DT most_RBS exciting_JJ things_NNS currently_RB happening_VBG to_TO the_DT world_NN of_IN mobile_JJ devices_NNS and_CC applications_NNS ._.
+It_PRP offers_VBZ great_JJ possibilities_NNS for_IN end-users_NNS ,_, network_NN operators_NNS and_CC content_JJ providers_NNS ._.
+The_DT Sony_NNP Ericsson_NNP mobile_JJ phones_NNS are_VBP based_VBN on_IN Sun_NNP 's_POS Java_NNP 2_CD Micro_NNP Edition_NNP -LRB-_-LRB- J2ME_NNP -RRB-_-RRB- technology_NN ._.
+Like_IN many_JJ other_JJ mobile_JJ phones_NNS on_IN the_DT market_NN the_DT Sony_NNP Ericsson_NNP J2ME_NNP enabled_VBD phones_NNS support_VB the_DT Mobile_NNP Information_NNP Device_NNP Profile_NNP version_NN 1.0_CD -LRB-_-LRB- MIDP_NNP 1.0_CD -RRB-_-RRB- ._.
+In_IN addition_NN to_TO this_DT we_PRP have_VBP support_NN for_IN sound_JJ using_VBG Mobile_NNP Media_NNP API_NNP -LRB-_-LRB- JSR-135_NNP -RRB-_-RRB- and_CC SMS_NNP using_VBG Wireless_NNP Messaging_NNP API_NNP -LRB-_-LRB- JSR-120_NNP -RRB-_-RRB- ._.
+In_IN the_DT latest_JJS we_PRP have_VBP MIDP_NNP 2.0_CD and_CC some_DT other_JJ new_JJ API_NNP 's_POS that_WDT enable_VBP a_DT MIDlet_NNP to_TO use_VB more_JJR features_NNS of_IN the_DT mobile_JJ phone_NN ,_, and_CC in_IN we_PRP will_MD broadly_RB deploy_VB MIDP_NNP 2.0_CD devices_NNS in_IN our_PRP$ portfolio_NN during_IN 2004_CD ._.
+Sony_NNP Ericsson_NNP is_VBZ very_RB much_JJ committed_VBN to_TO Java_NNP and_CC is_VBZ actively_RB working_VBG in_IN many_JJ working_VBG groups_NNS in_IN the_DT Java_NNP Community_NNP Process_NNP -LRB-_-LRB- JCP_NNP -RRB-_-RRB- and_CC as_IN a_DT member_NN of_IN the_DT J2ME_NNP Executive_NNP Committee_NNP to_TO ensure_VB interoperability_NN and_CC conformance_NN with_IN other_JJ vendors_NNS ._.
+In_IN an_DT effort_NN called_VBN ``_`` Java_NNP Technology_NNP for_IN the_DT Wireless_NNP Industry_NN ''_'' -LRB-_-LRB- JTWI_NNP -RRB-_-RRB- we_PRP work_VBP together_RB with_IN the_DT rest_NN of_IN the_DT mobile_JJ industry_NN to_TO define_VB an_DT interoperability_NN base_NN for_IN devices_NNS coming_VBG out_RB later_RB in_IN 2003_CD and_CC 2004_CD ._.
+The_DT first_JJ result_NN of_IN this_DT work_NN is_VBZ the_DT JTWI_NNP R1_NN or_CC also_RB called_VBD JSR-185_NNP ._.
+This_DT specification_NN mandates_VBZ MIDP_NNP 2.0_CD and_CC JSR-120_NNP ._.
+JSR-135_NN is_VBZ optional_JJ ._.
+In_IN the_DT future_NN of_IN J2ME_NNP ,_, we_PRP expect_VBP to_TO have_VB more_JJR Java_NNP API_NNP :_: s_PRP coming_VBG out_RP as_RB well_RB as_IN new_JJ releases_NNS of_IN JTWI_NNP ._.
+In_IN the_DT Java_NNP community_NN we_PRP have_VBP also_RB launched_VBN a_DT Java_NNP Certification_NNP program_NN to_TO make_VB Java_NNP application_NN testing_NN simpler_JJR for_IN the_DT developers_NNS ._.
+More_JJR information_NN about_IN this_DT can_MD be_VB found_VBN at_IN http:\/\/www.javaverified.com\/_NN ._.
+The_DT market_NN for_IN Java_NNP applications_NNS and_CC solutions_NNS is_VBZ significant_JJ and_CC Java_NNP is_VBZ a_DT major_JJ contributing_VBG growth_NN factor_NN in_IN all_DT application_NN areas_NNS ._.
+All_DT major_JJ mobile_JJ phone_NN suppliers_NNS launched_VBD Java-enabled_JJ phones_NNS for_IN the_DT mass_NN market_NN in_IN 2002_CD and_CC 2003_CD ._.
+The_DT real_JJ test_NN ,_, of_IN course_NN ,_, will_MD be_VB the_DT end_NN user_NN experience_NN ._.
+J2ME_CD provides_VBZ for_IN richer_JJR ,_, more_RBR real_JJ time_NN and_CC exciting_JJ applications_NNS ._.
+It_PRP is_VBZ strongly_RB anticipated_VBN that_IN end_NN users_NNS will_MD be_VB attracted_VBN to_TO Java_NNP applications_NNS ,_, whether_IN they_PRP be_VB in_IN gaming_NN ,_, infotainment_NN ,_, location_NN based_VBN services_NNS or_CC any_DT other_JJ compelling_JJ application_NN area_NN ._.
+Operators_NNP are_VBP clearly_RB aware_JJ of_IN this_DT ,_, given_VBN that_IN they_PRP are_VBP currently_RB launching_VBG trials_NNS of_IN J2ME_NNP ._.
+It_PRP is_VBZ seen_VBN as_IN a_DT good_JJ way_NN to_TO get_VB existing_VBG GSM_NNP subscribers_NNS to_TO upgrade_VB to_TO GPRS_NNP ,_, for_IN example_NN ._.
+This_DT will_MD ensure_VB less_JJR subscriber_NN churn_VBP and_CC new_JJ customers_NNS won_VBD ._.
+It_PRP can_MD also_RB be_VB easily_RB added_VBN to_TO their_PRP$ existing_JJ network_NN ,_, without_IN much_JJ cost_NN or_CC time_NN ._.
+Getting_VBG started_VBD It_PRP is_VBZ very_RB easy_JJ to_TO get_VB started_VBN developing_VBG Java_NNP -LRB-_-LRB- J2ME_NNP -RRB-_-RRB- applications_NNS for_IN the_DT Sony_NNP Ericsson_NNP mobile_JJ phones_NNS ._.
+Step_NN 1_CD -LRB-_-LRB- get_VB to_TO know_VB our_PRP$ phones_NNS -RRB-_-RRB- If_IN you_PRP are_VBP new_JJ to_TO J2ME_NNP ,_, we_PRP suggest_VBP that_IN you_PRP start_VBP by_IN reading_VBG the_DT Sony_NNP Ericsson_NNP Java_NNP White_NNP Paper_NNP to_TO get_VB an_DT understanding_NN of_IN the_DT technology_NN and_CC its_PRP$ implementation_NN in_IN Sony_NNP Ericsson_NNP phones_NNS ._.
+Experienced_VBN developers_NNS should_MD go_VB straight_RB to_TO the_DT Sony_NNP Ericsson_NNP Developers_NNP '_POS Guidelines_NNS J2ME_VBP ,_, which_WDT provides_VBZ a_DT deeper_JJR insight_NN into_IN the_DT J2ME_JJ support_NN in_IN the_DT Sony_NNP Ericsson_NNP phones_NNS ._.
+Both_DT the_DT White_NNP Paper_NNP and_CC the_DT Developers_NNP '_POS Guidelines_NNS can_MD be_VB downloaded_VBN from_IN the_DT Java_NNP Docs_NNP &_CC Tools_NNP section_NN page_NN >>_VBD Step_NN 2_CD -LRB-_-LRB- get_VB the_DT docs_NN &_CC tools_NNS -RRB-_-RRB- Next_JJ you_PRP need_VBP the_DT Sony_NNP Ericsson_NNP J2ME_NNP SDK_NNP ,_, which_WDT supports_VBZ all_DT Sony_NNP Ericsson_NNP 's_POS Java_NNP phones_NNS -LRB-_-LRB- Japanese_JJ phones_NNS excluded_VBN -RRB-_-RRB- and_CC integrates_VBZ easily_RB with_IN leading_VBG Integrated_NNP Development_NNP Environment_NNP -LRB-_-LRB- IDE_NNP -RRB-_-RRB- from_IN providers_NNS such_JJ as_IN Borland_NNP ,_, Sun_NNP and_CC Metrowerks_NNPS ._.
+The_DT SDK_NNP contains_VBZ everything_NN you_PRP need_VBP to_TO build_VB and_CC test_VB applications_NNS for_IN Sony_NNP Ericsson_NNP mobile_JJ phones_NNS ,_, including_VBG the_DT support_NN for_IN on-device_JJ debugging_NN of_IN J2ME_CD applications_NNS ,_, a_DT feature_NN that_WDT is_VBZ very_RB compelling_JJ for_IN developers_NNS when_WRB they_PRP want_VBP to_TO step_VB through_IN their_PRP$ code_NN and_CC make_VB sure_JJ it_PRP does_VBZ not_RB contain_VB any_DT bugs_NNS ._.
+As_IN far_RB as_IN we_PRP know_VBP ,_, Sony_NNP Ericsson_NNP phones_NNS are_VBP still_RB industry-first_JJ to_TO support_VB on-device_JJ debugging_NN of_IN J2ME_CD applications_NNS ._.
+Several_JJ developers_NNS '_POS guidelines_NNS ,_, training_NN materials_NNS ,_, special_JJ white_JJ papers_NNS and_CC other_JJ docs_NNS are_VBP also_RB available_JJ to_TO help_VB you_PRP with_IN your_PRP$ development_NN efforts_NNS ._.
+Get_VB the_DT Java_NNP Docs_NNP &_CC Tools_NNP here_RB >>_VBD Step_NN 3_CD -LRB-_-LRB- start_VB developing_VBG -RRB-_-RRB- Now_RB ,_, you_PRP have_VBP everything_NN you_PRP need_VBP to_TO start_VB developing_VBG high_JJ class_NN MIDlets_NNS ._.
+Should_MD you_PRP need_VB technical_JJ assistance_NN during_IN your_PRP$ development_NN ,_, you_PRP can_MD use_VB the_DT Sony_NNP Ericsson_NNP Developer_NNP World_NNP Forums_NNPS to_TO poll_VB the_DT community_NN or_CC the_DT Sony_NNP Ericsson_NNP moderators_NNS for_IN assistance_NN ,_, or_CC search_NN our_PRP$ Knowledge_NNP Base_NNP for_IN known_JJ problems_NNS ._.
+A_DT collection_NN of_IN Tips_NNP ,_, Tricks_NNP and_CC Code_NNP is_VBZ also_RB available_JJ ,_, as_IN is_VBZ technical_JJ developer_NN support_NN by_IN email_NN ._.
+Step_NN 4_CD -LRB-_-LRB- certify_VB and_CC deploy_VB -RRB-_-RRB- And_CC last_JJ ,_, once_RB you_PRP have_VBP completed_VBN your_PRP$ application_NN ,_, you_PRP have_VBP the_DT option_NN to_TO have_VB your_PRP$ application_NN certified_VBD ._.
+The_DT Java_NNP community_NN has_VBZ launched_VBN a_DT Java_NNP Certification_NNP program_NN to_TO make_VB Java_NNP application_NN testing_NN simpler_JJR for_IN the_DT developers_NNS ._.
+More_JJR information_NN about_IN this_DT can_MD be_VB found_VBN at_IN http:\/\/www.javaverified.com\/_NN ._.
+Sony_NNP Ericsson_NNP can_MD help_VB you_PRP to_TO bring_VB your_PRP$ applications_NNS to_TO the_DT market_NN ._.
+Read_VB more_RBR about_IN Business_NNP Opportunities_NNPS or_CC our_PRP$ Application_NNP Shop_NNP ._.
+In_IN this_DT article_NN PHP_NNP vs._FW ASP.NET_NNP ,_, the_DT author_NN Sean_NNP Hull_NNP said_VBD PHP_NNP and_CC ASP.Net_NNP go_VBP head-to-head_JJ ._.
+Although_IN I_PRP donot_VBP agree_VBP to_TO those_DT opinions_NNS ,_, but_CC some_DT point_NN in_IN this_DT article_NN is_VBZ still_RB very_RB interesting_JJ ._.
+Such_JJ as_IN ,_, database_NN dependence_NN should_MD be_VB your_PRP$ real_JJ goal_NN because_IN you_PRP maximize_VB your_PRP$ investment_NN in_IN that_DT technology_NN ._.
+If_IN you_PRP make_VBP generic_JJ access_NN to_TO Oracle_NNP ,_, whether_IN through_IN ODBC_NNP or_CC Perl_NNP 's_POS DBI_NNP library_NN ,_, you_PRP 'll_MD miss_VB out_RP on_IN features_NNS other_JJ databases_NNS do_VBP n't_RB have_VB ._.
+What_WP 's_VBZ more_JJR ,_, optimizing_VBG queries_NNS is_VBZ different_JJ in_IN each_DT database_NN ._.
+Sony_NNP Ericsson_NNP P910_NNP :_: ``_`` New_NNP Symbian_NNP OS_NNP smartphone_NN :_: Sony_NNP Ericsson_NNP P910_NNP -_: a_DT must_MD for_IN mobile_JJ business_NN professionals_NNS ''_'' Sony_NNP Ericsson_NNP on_IN July_NNP 15th_CD announced_VBD a_DT new_JJ Symbian_NNP OS_NNP v7_CD .0_CD smartphone_NN based_VBN on_IN the_DT UIQ_NNP v2_CD .1_CD user_NN interface_NN ._.
+The_DT P910_NNP smartphone_NN is_VBZ a_DT triple_JJ band_NN GSM\/GPRS_NNP phone_NN that_WDT offers_VBZ consumers_NNS a_DT top_JJ combination_NN of_IN phone_NN ,_, PDA_NNP ,_, still_RB and_CC video_NN camera_NN ,_, e-mail_NN and_CC web_NN browsing_NN on_IN the_DT move_NN ._.
+PC_NN synchronization_NN of_IN the_DT calendar_NN and_CC address_NN book_NN can_MD be_VB handled_VBN over_IN USB_NNP ,_, infrared_VBD ,_, Bluetooth_NNP or_CC even_RB remotely_RB over_IN the_DT air_NN through_IN SyncML_NNP ._.
+The_DT color_NN screen_NN now_RB has_VBZ 262,000_CD colors_NNS and_CC is_VBZ well_RB suited_VBN for_IN picture_NN viewing_NN and_CC editing_NN ._.
+The_DT P910_NNP can_MD be_VB part_NN of_IN a_DT secure_JJ corporate_JJ IT_PRP network_NN or_CC used_VBN as_IN an_DT individual_JJ work_NN tool_NN ._.
+Sony_NNP Ericsson_NNP collaborates_VBZ with_IN IBM_NNP ,_, Extended_NNP Systems_NNPS ,_, Visto_NNP ,_, RIM_NNP BlackBerry_NNP ,_, Seven_NNP ,_, IntelliSync_NNP and_CC more_JJR to_TO provide_VB secure_JJ e-mail_JJ solutions_NNS ,_, as_RB well_RB as_IN with_IN Avantgo_NNP to_TO provide_VB offline_JJ browsing_NN ,_, with_IN Media_NNP Viewer_NNP for_IN direct_JJ access_NN to_TO news_NN such_JJ as_IN Financial_NNP Times_NNP ,_, and_CC with_IN Promyzer_NNP for_IN real-time_JJ market_NN quotes_NNS and_CC stock_NN trading_NN ._.
+HP_NNP Runestone_NNP allows_VBZ messages_NNS ,_, pictures_NNS ,_, calendars_NNS and_CC contacts_NNS to_TO be_VB printed_VBN directly_RB to_TO a_DT Bluetooth-enabled_JJ HP_NNP printer_NN ._.
+Wayfinder_NNP is_VBZ a_DT navigation_NN tool_NN included_VBD on_IN the_DT CD_NNP ,_, which_WDT works_VBZ as_IN a_DT turn_NN by_IN turn_NN in-car_NN navigation_NN system_NN when_WRB connected_VBN to_TO a_DT Bluetooth_NNP GPS_NNP receiver_NN ._.
+The_DT Sony_NNP Ericsson_NNP P910_NNP comes_VBZ with_IN the_DT Opera_NNP browser_NN ,_, offering_VBG a_DT superior_JJ Internet_NNP experience_NN that_WDT presents_VBZ the_DT full_JJ Internet_NNP perfectly_RB within_IN the_DT screen_NN width_NN ._.
+I_PRP first_RB read_VBD this_DT on_IN Biz_NNP Stone_NNP 's_POS post_NN :_: Olympics_NNPS :_: The_DT Greek_JJ Tragedy_NNP And_CC then_RB I_PRP went_VBD to_TO Telegraph_NNP |_NNP News_NNP |_NNP Greeks_NNP to_TO poison_NN up_RP to_TO 15,000_CD stray_JJ dogs_NNS before_IN the_DT Olympics_NNPS ,_, and_CC have_VBP the_DT whole_JJ article_NN read_NN ._.
+The_DT animal_NN welfare_NN charity_NN says_VBZ that_IN the_DT strays_NNS will_MD be_VB killed_VBN because_IN the_DT Greek_JJ authorities_NNS fear_VBP that_IN the_DT sight_NN of_IN packs_NNS of_IN dogs_NNS roaming_VBG the_DT streets_NNS will_MD damage_VB their_PRP$ efforts_NNS to_TO use_VB the_DT Games_NNPS to_TO show_VB the_DT world_NN that_IN their_PRP$ country_NN is_VBZ modern_JJ and_CC civilised_JJ ._.
+This_DT reminded_VBD me_PRP Beijing_NNP is_VBZ destroying_VBG old_JJ buildings_NNS for_IN 2008_CD Olympics_NNPS ._.
+Very_RB good_JJ blog_NN search_NN engine_NN !_.
+Technorati_NNP :_: Searching_VBG the_DT World_NNP Live_NNP Web_NNP Haha_NNP ,_, Amazing_JJ !!_NN From_IN J-Walk_NNP Blog_NNP Finally_RB ,_, I_PRP realized_VBD the_DT mysearch_NN did_VBD not_RB replace_VB or_CC hijack_VB my_PRP$ 404_CD not_RB found_VBN message_NN html_NN ,_, but_CC use_VBP a_DT more_RBR advanced_JJ method_NN ._.
+It_PRP hijacked_VBD Internet_NNP Explorer_NNP by_IN append_NN one_CD hide_VBP window_NN -LRB-_-LRB- thread_NN -RRB-_-RRB- to_TO the_DT IE_NNP main_JJ window_NN ,_, and_CC hooked_VBD IE_NNP 's_POS dns_NNS error_NN event_NN ._.
+By_IN use_NN MySpy_NNP +_NNP +_RB from_IN Microsoft_NNP 's_POS Visual_NNP Studio_NNP ._.
+Net_JJ 2003_CD ,_, a_DT very_RB strange_JJ child_NN window_NN named_VBN sbhoyb_NN ~_NN sb2swish_NN was_VBD identified_VBN ._.
+First_RB ,_, sbhoyb_NN could_MD not_RB be_VB identified_VBN on_IN a_DT normal_JJ windows_NNS system_NN ;_: Second_LS ,_, sbhoyb_NN was_VBD always_RB raising_VBG some_DT WM_TIMER_NNP events_NNS all_PDT the_DT time_NN ._.
+So_RB ,_, I_PRP belive_VBP the_DT stranger_NN sbhoyb_NN was_VBD the_DT one_CD hijacked_VBN my_PRP$ IE_NNP ._.
+I_PRP restarted_VBD my_PRP$ windows_NNS xp_VBP into_IN save_IN mode_NN ,_, and_CC raised_VBD DNS_NNP error_NN event_NN by_IN view_NN urls_NNS not_RB exists_VBZ -LRB-_-LRB- In_IN save_IN mode_NN ,_, internet_NN connection_NN is_VBZ n\/a_VBN -RRB-_-RRB- ._.
+My_PRP$ IE_NN played_VBD good_JJ ,_, and_CC show_VB me_PRP the_DT normal_JJ ``_`` Can_MD not_RB find_VB server_NN ''_'' error_NN page_NN ._.
+I_PRP belived_VBD sbhoyb_NN was_VBD loaded_VBN into_IN system_NN memory_NN when_WRB the_DT system_NN startup_NN ._.
+Maybe_RB the_DT items_NNS in_IN Startup_NNP Items_NNS ,_, System_NNP Services_NNPS ,_, WIN_NNP ._.
+INI_NNP or_CC System_NNP ._.
+ini_FW MSConfig_NNP is_VBZ a_DT very_RB great_JJ system_NN troubleshooting_VBG tool_NN ._.
+You_PRP can_MD start_VB up_RP msconfig_NN by_IN typing_VBG msconfig_NN in_IN Start_NNP -RRB-_-RRB- Run_NNP ..._: And_CC then_RB you_PRP can_MD use_VB msconfig_NN to_TO configure_VB which_WDT item_NN should_MD be_VB loaded_VBN when_WRB the_DT system_NN startups_NNS ._.
+But_CC I_PRP found_VBD that_IN even_RB I_PRP used_VBD Diagnostic_NNP Startup_NNP -LRB-_-LRB- load_NN basic_JJ devices_NNS and_CC services_NNS only_RB -RRB-_-RRB- ,_, the_DT sbhoyb_NN was_VBD still_RB there_RB !!_CD Dose_NNP Internet_NNP Explorer_NNP load_NN sbhoyb_NN when_WRB startup_NN ?_.
+How_WRB to_TO configure_VB IE_NNP not_RB load_VB sbhoyb_NN ,_, or_CC how_WRB to_TO remove_VB sbhoyb_NN from_IN IE_NNP ?_.
+I_PRP noticed_VBD a_DT blog_NN post_NN on_IN ScottWater_NNP 's_POS blog_NN about_IN Picasa_NNP People_NNPS wonder_VBP what_WP google_NN is_VBZ up_RB to_TO ._.
+I_PRP think_VBP people_NNS living_VBG on_IN Internet_NNP will_MD be_VB named_VBN googler_NN soon_RB ,_, as_IN google_NN is_VBZ every_DT where_WRB in_IN our_PRP$ networked_JJ life_NN ._.
+Emails_NNS about_IN how_WRB to_TO work_VB around_IN the_DT problem_NN when_WRB startup_NN and_CC shut_VB down_RP your_PRP$ jetpspeed_NN portal_JJ server_NN ._.
+Yufan_NNP Shi_NNP We_PRP are_VBP Online_NNP !_.
+http:\/\/www.ivanshi.com\/blog\/_NNP -----_NNP Original_NNP Message_NNP -----_NN From_IN :_: Jeremy_NNP Ford_NNP -LRB-_-LRB- mailto:caius1440@hotmail.com]_NNP Sent_NNP :_: Wednesday_NNP ,_, July_NNP 21_CD ,_, 2004_CD 10:51_CD PM_NNP To_TO :_: jetspeed-user@jakarta.apache.org_NN Subject_NNP :_: RE_VB :_: error_NN in_IN startup_NN -LRB-_-LRB- only_RB after_IN one_CD relaunch_VBP -RRB-_-RRB- This_DT may_MD be_VB related_VBN to_TO shutting_VBG down_RP tomcat_NN while_IN a_DT user_NN is_VBZ still_RB logged_VBN in_IN ._.
+Tomcat_NNP will_MD try_VB to_TO serialize_VB the_DT session_NN to_TO disk_NN ._.
+A_DT couple_NN of_IN classes_NNS will_MD fail_VB to_TO serialize_VB usually_RB ._.
+When_WRB tomcat_NN starts_VBZ again_RB ,_, it_PRP tries_VBZ to_TO load_VB the_DT serialized_JJ user_NN and_CC fails_VBZ ,_, causing_VBG trouble_NN ._.
+Deleteing_VBG the_DT work_NN directory_NN takes_VBZ care_NN of_IN the_DT problem_NN because_IN that_DT is_VBZ where_WRB the_DT serialized_VBN session_NN is_VBZ ._.
+Changes_NNS have_VBP made_VBN in_IN CVS_NNP to_TO make_VB the_DT classes_NNS more_RBR serialization_JJ friendly_JJ ._.
+Jeremy_NNP Ford_NNP jford@apache.org_NNP -RRB-_-RRB- From_IN :_: ``_`` Yufan_NNP Shi_NNP ''_'' -RRB-_-RRB- Reply-To_NN :_: ``_`` Jetspeed_NNP Users_NNP List_NN ''_'' -RRB-_-RRB- To_TO :_: ''_'' `_`` Jetspeed_NNP Users_NNP List_NN '_'' ''_'' -RRB-_-RRB- ,_, -RRB-_-RRB- Subject_NNPS :_: RE_VB :_: error_NN in_IN startup_NN -LRB-_-LRB- only_RB after_IN one_CD relaunch_VBP -RRB-_-RRB- -RRB-_-RRB- Date_NNP :_: Wed_VBD ,_, 21_CD Jul_NNP 2004_CD 21:55:58_CD +0800_CD -RRB-_-RRB- -RRB-_-RRB- Hi_NNP ,_, -RRB-_-RRB- -RRB-_-RRB- I_PRP encouter_VBP this_DT problem_NN the_DT same_JJ as_IN you_PRP ,_, but_CC not_RB every_DT time_NN I_PRP start_VBP up_RP the_DT -RRB-_-RRB- jetspeed_NN ._. -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB-
+Yufan_NNP Shi_NNP -RRB-_-RRB- Technically_NNP Blog_NNP Ivan_NNP -RRB-_-RRB- http:\/\/www.ivanshi.com\/blog\/_NN -RRB-_-RRB- ?_. -RRB-_-RRB- -RRB-_-RRB-
+-----_JJ Original_NNP Message_NNP -----_NNP -RRB-_-RRB- From_IN :_: Anthony_NNP Smith_NNP -LRB-_-LRB- mailto:anthony.smith@fedex.com]_NNP -RRB-_-RRB- Sent_VBD :_: Wednesday_NNP ,_, July_NNP 21_CD ,_, 2004_CD 9:22_CD PM_NNP -RRB-_-RRB- To_TO :_: Jetspeed_NNP Users_NNP List_NN -RRB-_-RRB- Subject_NNPS :_: RE_VB :_: error_NN in_IN startup_NN -LRB-_-LRB- only_RB after_IN one_CD relaunch_VBP -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- I_PRP too_RB will_MD get_VB this_DT error_NN from_IN time_NN to_TO time_NN on_IN startup_NN ._.
+I_PRP had_VBD no_DT idea_NN -RRB-_-RRB- why_WRB ..._: -RRB-_-RRB- -RRB-_-RRB- -----_JJ Original_NNP Message_NNP -----_NNP -RRB-_-RRB- From_IN :_: giluka_NNS -LRB-_-LRB- mailto:gmartorella@sivaspa.com]_NNP -RRB-_-RRB- Sent_VBD :_: Wednesday_NNP ,_, July_NNP 21_CD ,_, 2004_CD 4:48_CD AM_NNP -RRB-_-RRB- To_TO :_: jetspeed-user@jakarta.apache.org_NN -RRB-_-RRB- Subject_NNPS :_: error_NN in_IN startup_NN -LRB-_-LRB- only_RB after_IN one_CD relaunch_VBP -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- -RRB-_-RRB- Hi_NNP ,_, -RRB-_-RRB- only_RB after_IN a_DT shutdown_NN i_FW 've_VBP noticed_VBN this_DT error_NN in_IN log_VB startup_NN of_IN jetspeed_NN -RRB-_-RRB- 1.5_CD I_PRP uninstalled\/deleted_VBD all_PDT the_DT backdoor_JJ programs_NNS related_VBN files_NNS ,_, but_CC there_EX is_VBZ still_RB one_CD problem_NN ._.
+When_WRB I_PRP browse_VBP webpages_NNS not_RB found_VBN on_IN the_DT server_NN ,_, a_DT replaced_VBN 404_CD not_RB found_VBN page_NN with_IN search_NN input_NN box_NN and_CC categories_NNS links_NNS was_VBD showing_VBG up_RP and_CC sometimes_RB pop_VB up_RP ads_NNS !!_VBP PS_NNP :_: If_IN you_PRP are_VBP looking_VBG for_IN some_DT way_NN to_TO clean_VB the_DT hijacker_NN program_NN which_WDT infected_JJ my_PRP$ computer_NN ,_, please_VB go_VB and_CC read_VB this_DT post_NN :_: Finally_RB ,_, I_PRP defeated_VBD the_DT hijacker_NN backdoor_JJ program_NN --_: TrustCash_NNP !!_NNP Occasionally_RB I_PRP found_VBD blogwise.com_NN ,_, which_WDT is_VBZ a_DT very_RB large_JJ Blog_NNP Directory_NNP and_CC Listing_NNP service_NN provider_NN ._.
+Blog_NNP authors_NNS can_MD submit_VB their_PRP$ web_NN blog_NN to_TO this_DT site_NN ,_, and_CC the_DT blog_NN site_NN would_MD be_VB listed_VBN on_IN blogwise_NN after_IN be_VB proved_VBN by_IN human_JJ editors_NNS ._.
+Blogwise.com_NNP said_VBD ,_, ``_`` 23256_CD sites_NNS listed_VBN ._.
+-LRB-_-LRB- 589_CD in_IN last_JJ 7_CD days_NNS -RRB-_-RRB- ''_'' ._.
+After_IN make_VBP an_DT application_NN to_TO blogwise.com_VB for_IN ``_`` Technically_NNP Blog_NNP Ivan_NNP ''_'' ,_, the_DT site_NN told_VBD me_PRP to_TO wait_VB for_IN 14_CD days_NNS :_: -LRB-_-LRB- ,_, as_IN there_EX are_VBP 1063_CD blogs_NNS in_IN the_DT query_NN ._.
+A_DT full_JJ version_NN of_IN the_DT Handango_NNP Yardstick_NNP for_IN June_NNP 2004_CD is_VBZ available_JJ at_IN http:\/\/www.handango.com\/pdf\/HandangoYardstick_June2004.pdf_NNP Handango_NNP Releases_NNPS Mobile_NNP Download_NNP Statistics_NNPS for_IN June_NNP 2004_CD Handango_NNP Yardstick_NNP features_VBZ the_DT best-selling_JJ downloads_NNS and_CC market_NN metrics_NNS for_IN June_NNP 2004_CD HURST_NNP ,_, Texas_NNP -_: July_NNP 19_CD ,_, 2004_CD -_: Handango_NNP ,_, the_DT leading_VBG provider_NN of_IN mobile_JJ downloads_NNS ,_, today_NN released_VBD the_DT June_NNP edition_NN of_IN the_DT Handango_NNP Yardstick_NNP for_IN 2004_CD ._.
+The_DT Handango_NNP Yardstick_NNP is_VBZ a_DT monthly_JJ report_NN on_IN the_DT state_NN of_IN the_DT mobile_JJ downloads_NNS economy_NN ._.
+The_DT 2004_CD June_NNP edition_NN of_IN the_DT Handango_NNP Yardstick_NNP reports_VBZ the_DT average_JJ selling_NN price_NN of_IN mobile_JJ downloads_NNS by_IN category_NN and_CC the_DT most_RBS searched_VBN for_IN terms_NNS on_IN more_JJR than_IN 100_CD download_NN portals_NNS ._.
+This_DT month_NN 's_POS edition_NN also_RB divulges_VBZ the_DT top_JJ five_CD phones_NNS and_CC PDAs_NNS adding_VBG software_NN and_CC digital_JJ content_NN ._.
+Finally_RB ,_, the_DT report_NN includes_VBZ a_DT list_NN of_IN the_DT ten_NN best-selling_JJ applications_NNS and_CC ringtones_NNS ..._: It_PRP is_VBZ a_DT very_RB great_JJ idea_NN ,_, but_CC I_PRP faild_VBP to_TO post_VB my_PRP$ first_JJ blog_NN via_IN email_NN ._.
+Maybe_RB there_EX <sup>_VBZ TM_NNP </sup>_NNP s_VBZ a_DT delay_NN between_IN my_PRP$ smtp_NN server_NN and_CC the_DT blogger.com_NN server_NN ,_, or_CC there_EX is_VBZ something_NN mis-configured_JJ ._.
+I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD know_VB why_WRB ,_, but_CC I_PRP will_MD keep_VB trying_VBG ._.
+Yufan_NNP Shi_NNP We_PRP are_VBP Online_NNP !_.
+XML.com_NNP :_: Low_NNP Bandwidth_NNP SOAP_NNP Introduction_NNP With_IN the_DT mobile_JJ phone_NN industry_NN reporting_VBG better_JJR than_IN expected_VBN sales_NNS ,_, and_CC news_NN that_IN ,_, by_IN the_DT end_NN of_IN this_DT year_NN ,_, smart_JJ phones_NNS are_VBP expected_VBN to_TO outsell_VB hand-held_JJ computers_NNS ,_, it_PRP should_MD come_VB as_IN no_DT surprise_NN that_WDT wireless_JJ application_NN development_NN is_VBZ on_IN the_DT rise_NN ._.
+Sun_NNP recently_RB announced_VBD that_IN by_IN the_DT end_NN of_IN 2004_CD there_EX may_MD well_RB be_VB more_JJR than_IN 200,000,000_CD Java-enabled_JJ mobile_JJ handsets_NNS ._.
+Yet_RB ,_, with_IN all_PDT the_DT attention_NN being_VBG paid_VBN to_TO these_DT microdevices_NNS -LRB-_-LRB- i.e._FW ,_, low_JJ resource_NN mobile_JJ devices_NNS -RRB-_-RRB- ,_, it_PRP 's_VBZ surprising_JJ to_TO learn_VB that_IN a_DT developer_NN wishing_VBG to_TO build_VB a_DT wireless_JJ application_NN using_VBG XML_NNP ,_, SOAP_NNP ,_, and_CC web_NN services_NNS is_VBZ left_VBN behind_RP ._.
+Introducing_VBG KSOAP_NNP A_NNP key_JJ ingredient_NN for_IN any_DT web_NN services_NNS application_NN is_VBZ SOAP_NNP ._.
+The_DT problem_NN with_IN developing_VBG a_DT wireless_JJ SOAP\/XML_NNP application_NN --_: and_CC the_DT reason_NN for_IN the_DT above-mentioned_JJ JSR172_NNP --_: revolves_VBZ around_IN the_DT following_VBG issues_NNS ._.
+First_RB ,_, the_DT common_JJ XML_NNP and_CC SOAP_NNP packages_NNS currently_RB available_JJ are_VBP quite_RB large_JJ and_CC contain_VBP hundreds_NNS of_IN classes_NNS ._.
+Second_NNP ,_, these_DT packages_NNS depend_VBP on_IN features_NNS of_IN the_DT Java_NNP runtime_NN that_WDT simply_RB do_VBP n't_RB exist_VB on_IN a_DT microdevice_NN ._.
+I_PRP 'm_VBP thinking_VBG specifically_RB about_IN the_DT Connected_NNP Limited_NNP Device_NNP Configuration_NNP -LRB-_-LRB- CLDC_NNP -RRB-_-RRB- specification_NN which_WDT did_VBD away_RP with_IN nearly_RB the_DT entire_JJ core_NN set_NN of_IN Java_NNP classes_NNS normally_RB present_JJ in_IN the_DT J2EE_NNP and_CC J2SE_NNP distributions_NNS :_: AWT_NNP ,_, Swing_NNP ,_, Beans_NNP ,_, Reflection_NNP ,_, and_CC most_JJS java_NN ._.
+util_NN and_CC java_NN ._.
+io_NN classes_NNS have_VBP simply_RB disappeared_VBN ._.
+The_DT purpose_NN of_IN this_DT ``_`` bare_JJ bones_NNS ''_'' Java_NNP runtime_NN is_VBZ to_TO accommodate_VB the_DT limited_JJ footprint_NN of_IN the_DT KVM_NNP --_: a_DT low-memory_JJ virtual_JJ machine_NN running_VBG on_IN a_DT microdevice_NN ._.
+Bloggers_NNP make_VB cash_NN from_IN Blogads_NNPS Multi-blog_JJ orders_NNS drive_VBP 75_CD %_NN of_IN revenues_NNS Who_WP :_: Blogads.com_NN is_VBZ a_DT network_NN of_IN influential_JJ bloggers_NNS who_WP accept_VBP advertising_NN ._.
+What_WP :_: Advertisers_NNS order_NN ,_, manage_VB and_CC renew_VB fixed-period_JJ ads_NNS or_CC sponsorships_NNS on_IN your_PRP$ blog_NN ._.
+Only_RB ads_NNS you_PRP approve_VBP run_NN ._.
+Blogads.com_NNP focuses_VBZ on_IN marketing_NN and_CC advertiser_NN hand-holding_NN so_IN you_PRP do_VBP n't_RB need_VB to_TO ._.
+I_PRP am_VBP learning_VBG how_WRB to_TO blog_VB !_.
+I_PRP am_VBP afraid_JJ the_DT blogger.com_NN is_VBZ encountering_VBG some_DT problems_NNS ,_, as_IN found_VBN that_IN all_PDT the_DT background_NN images_NNS -LRB-_-LRB- the_DT image_NN url_NN starts_VBZ with_IN http:\/\/www.blogblog.com\/_NN -RRB-_-RRB- in_IN my_PRP$ blog_NN can_MD not_RB be_VB downloaded_VBN from_IN the_DT blogger.com_NN server_NN ._.
+What_WP a_DT pity_NN !_.
+Wish_NNP the_DT problems_NNS will_MD be_VB fixed_VBN in_IN days_NNS ._.
+Image_NN test_NN :_: hey_NN ,_, This_DT image_NN was_VBD uploaded_VBN to_TO my_PRP$ own_JJ website_JJ server_NN by_IN ftp_NN ._.
+This_DT is_VBZ my_PRP$ first_JJ blog_NN online_NN !_.
+Thanks_NNS for_IN your_PRP$ visiting_VBG ,_, I_PRP am_VBP very_RB glad_JJ to_TO hear_VB your_PRP$ comments_NNS ._.
+Red_NNP Hat_NNP debuts_VBZ open_JJ source_NN app_NN server_NN Red_NNP Hat_NNP has_VBZ announced_VBN the_DT availability_NN of_IN its_PRP$ open_JJ source_NN application_NN server_NN ,_, a_DT lower-end_JJ server_NN that_WDT reportedly_RB will_MD work_VB with_IN other_JJ J2EE_NNP 2.0_CD application_NN servers_NNS from_IN IBM_NNP ,_, BEA_NNP Systems_NNPS ,_, and_CC Oracle_NNP ._.
+``_`` We_PRP have_VBP decided_VBN to_TO take_VB a_DT collaborative_JJ approach_NN to_TO software_NN development_NN and_CC not_RB to_TO take_VB an_DT antagonistic_JJ stance_NN ,_, ''_'' said_VBD Matthew_NNP Szulik_NNP ,_, Red_NNP Hat_NNP 's_POS CEO_NNP ._.
+``_`` What_WP will_MD our_PRP$ competitors_NNS say_VBP about_IN that_DT ?_.
+I_PRP hope_VBP they_PRP will_MD say_VB `_`` Congratulations_NNS ._. '_'' ''_''
+More_JJR details_NNS about_IN Red_NNP Hat_NNP Open_NNP Source_NNP Application_NNP Server_NNP and_CC its_PRP$ free_JJ download_NN ._.
+Orfeo_NNP recommended_VBD me_PRP this_DT book_NN --_: J2ME_CD Game_NNP Development_NNP with_IN MIDP_NNP 2.0_CD by_IN Jason_NNP Lam_NNP ._.
+It_PRP 's_VBZ free_JJ ,_, and_CC ``_`` is_VBZ about_IN programming_VBG with_IN J2ME_CD on_IN wireless_JJ devices_NNS with_IN focus_NN ondeveloping_VBG games_NNS ._.
+..._: The_DT book_NN does_VBZ not_RB go_VB into_IN detail_NN on_IN topics_NNS like_IN how_WRB tomake_JJ high_JJ level_NN GUI_NNP menu_NN but_CC does_VBZ demonstrate_VB what_WP a_DT game_NN menu_NN might_MD look_VB like_IN ._.
+Nor_CC will_MD it_PRP explain_VB in_IN detail_NN how_WRB to_TO use_VB the_DT Record_NNP Management_NNP System_NNP -LRB-_-LRB- RMS_NNP -RRB-_-RRB- ,_, but_CC willgo_NN over_IN topics_NNS that_WDT use_VBP RMS_NNP such_JJ as_IN high_JJ score_NN and_CC game_NN settings_NNS ._.
+..._: the_DT book_NN will_MD go_VB over_RP in_IN detail_NN the_DT new_JJ game_NN classes_NNS that_WDT arenow_VBP include_VBP in_IN the_DT MIDP_NNP 2.0_CD ..._: ''_'' -LRB-_-LRB- Originally_RB from_IN the_DT book_NN 's_POS Introduction_NNP Chapter_NN ._. -RRB-_-RRB-
+Aside_RB this_DT book_NN is_VBZ mainly_RB about_IN J2ME_CD game_NN programming_NN ,_, it_PRP has_VBZ some_DT chapters_NNS about_IN marketing_NN ,_, game_NN design_NN and_CC development_NN process_NN etc._FW ._.
+If_IN you_PRP are_VBP interested_JJ about_IN J2ME_CD game_NN programming_NN ,_, and_CC want_VBP to_TO do_VB some_DT J2ME_CD game_NN coding_VBG for_IN fun_NN or_CC for_IN profit_NN ,_, just_RB go_VB and_CC download_VB a_DT free_JJ copy_NN ,_, read_VB it_PRP !!_VB Thank_VB Orfeo_NNP again_RB ._.
+CSS_NNP not_RB formatting_VBG when_WRB using_VBG ._.
+insertrow_NN :_: ``_`` className_JJ ''_'' Apply_VB css_NN to_TO the_DT element_NN created_VBN by_IN ._.
+insertRow_NNP or_CC ._.
+insertCell_NNP in_IN Javascript_NNP ._.
+skay_t_JJ provided_VBD the_DT solution_NN :_: ``_`` Hi_FW ,_, what_WP I_PRP do_VBP when_WRB adding_VBG rows_NNS using_VBG insertRow_NNP is_VBZ to_TO apply_VB the_DT style_NN after_IN I_PRP have_VBP added_VBN the_DT row_NN ,_, var_NN tr_NN =_SYM table_NN ._.
+insertRow_NNP -LRB-_-LRB- 0_CD -RRB-_-RRB- ;_: tr_NN ._.
+className_NNP =_SYM ``_`` myclass_NN ''_'' ;_: or_CC alternatively_RB tr_NN ._.
+style_NN ._.
+fontFamily_RB =_SYM ``_`` Arial_NNP ''_'' ;_: One_CD thing_NN to_TO keep_VB in_IN mind_NN is_VBZ you_PRP probably_RB want_VBP to_TO add_VB styles_NNS to_TO the_DT td_NN element_NN and_CC not_RB the_DT tr_NN ._. ''_''
+Java_NNP Games_NNPS Forums_SYM -_: A_DT Java.Net_NNP Community_NNP -_: Full_NNP Screen_NNP This_DT night_NN ,_, I_PRP was_VBD looking_VBG for_IN some_DT way_NN to_TO draw_VB full_JJ screen_NN canvas_NN ,_, and_CC found_VBD this_DT thread_NN in_IN google_NN ._.
+``_`` Porting_NNP is_VBZ part_NN of_IN life_NN in_IN the_DT J2ME_JJ world_NN ._. ''_''
+,_, wood_NN said_VBD ._.
+Sounds_VBZ interesting_JJ ._.
+We_PRP have_VBP installed_VBN our_PRP$ Eclipse_NNP Me_PRP developement_JJ environment_NN in_IN last_JJ tutorial_NN ._.
+And_CC now_RB ,_, I_PRP would_MD give_VB you_PRP some_DT simple_JJ code_NN to_TO see_VB how_WRB to_TO promgram_VB and_CC debug_VB MIDlet_NNP in_IN Eclipse_NNP ._.
+1_LS ._.
+Start_VB up_RP your_PRP$ Eclipse_NNP 3.0_CD ,_, and_CC use_VB File_SYM -_: -RRB-_-RRB- New_NNP -_: -RRB-_-RRB- Project_NN ..._: to_TO show_VB the_DT New_NNP Project_NNP Wizard_NNP ._.
+Here_RB we_PRP will_MD see_VB an_DT new_JJ Wizard_NNP selection_NN called_VBD J2Me_NNP -_: -RRB-_-RRB- J2ME_CD Midlet_NNP Suite_NNP ,_, select_VBP it_PRP ,_, and_CC click_VBP next_JJ ._.
+Type_NN in_IN the_DT Project_NN Name_NN ,_, tutorial_2_NN ._.
+Click_NNP finish_NN ._.
+2_LS ._.
+If_IN you_PRP are_VBP use_VB the_DT Java_NNP Perspective_NNP ,_, you_PRP can_MD see_VB a_DT project_NN showing_VBG in_IN the_DT Package_NNP Explorer_NNP ,_, if_IN not_RB ,_, click_VBP Window_NNP -_: -RRB-_-RRB- Perspective_NNP -_: -RRB-_-RRB- Java_NNP ..._: to_TO use_VB the_DT java_NN perspective_NN ._.
+In_IN the_DT package_NN explorer_NN ,_, right_JJ click_NN the_DT src_NN folder_NN under_IN the_DT project_NN name_NN and_CC select_JJ New_NNP -_: -RRB-_-RRB- Package_NN ..._: on_IN the_DT context_NN menu_NN ._.
+New_NNP Java_NNP Package_NNP dialog_NN will_MD be_VB shown_VBN ,_, and_CC let_VB us_PRP type_NN ``_`` com_NN ._.
+ivanshi_NN ._.
+j2me_CD ._.
+tutorial_NN ''_'' into_IN the_DT Name_NN textbox_NN and_CC keep_VB the_DT source_NN folder_NN unmodified_JJ ._.
+3_LS ._.
+Click_NNP finish_NN to_TO tell_VB Eclipse_NNP to_TO create_VB the_DT new_JJ package_NN ,_, and_CC the_DT new_JJ package_NN will_MD be_VB displayed_VBN in_IN the_DT Package_NNP Explorer_NNP under_IN the_DT src_NN folder_NN of_IN project_NN tutorial_2_NNS ._.
+Right_RB click_VBP the_DT package_NN name_NN and_CC select_JJ New_NNP -_: -RRB-_-RRB- Other_JJ ..._: to_TO raise_VB the_DT New_NNP Wizard_NNP dialog_NN show_VBP up_RP ,_, and_CC select_JJ J2ME_NNP Midlet_NNP ,_, then_RB click_VBP next_JJ to_TO show_VB the_DT J2Me_NNP Midlet_NNP wizard_NN ,_, and_CC type_NN the_DT midlet_NN class_NN name_NN ``_`` SampleMidlet_NNP ''_'' into_IN the_DT Name_NN field_NN ,_, keep_VB everything_NN else_RB unmodified_JJ ._.
+4_LS ._.
+Click_NNP finish_NN to_TO close_VB the_DT wizard_NN ,_, and_CC Eclipse_NNP will_MD create_VB a_DT new_JJ class_NN com_NN ._.
+ivanshi_NN ._.
+j2me_CD ._.
+tutorial_NN ._.
+SampleMidlet_NNP extended_VBD from_IN javax_NN ._.
+microedition_NN ._.
+midlet_NN ._.
+MIDlet_NNP ;_: and_CC the_DT source_NN file_NN will_MD be_VB opened_VBN in_IN the_DT source_NN editor_NN ._.
+5_CD ._.
+Hey_NNP ,_, we_PRP need_VBP some_DT source_NN code_NN !_.
+Here_RB we_PRP go_VBP !_.
+Find_VB the_DT method_NN startApp_NNP -LRB-_-LRB- -RRB-_-RRB- and_CC type_NN in_IN some_DT java_NN code_NN in_IN the_DT method_NN to_TO make_VB source_NN code_NN looks_VBZ like_IN this_DT ._.
+6_CD ._.
+But_CC how_WRB to_TO run_VB this_DT midlet_NN ?_.
+Do_VBP n't_RB worry_VB ._.
+Right_RB click_VBP the_DT project_NN name_NN in_IN the_DT package_NN explorer_NN ,_, select_JJ run_NN -_: -RRB-_-RRB- other_JJ ..._: and_CC in_IN the_DT configurations_NNS treeview_NN ,_, select_JJ J2me_NN ,_, and_CC make_VB sure_JJ the_DT Project_NN is_VBZ ``_`` tutorial_2_JJ ''_'' and_CC the_DT Executable_NNP is_VBZ Midlet_NNP :_: com_NN ._.
+ivanshi_NN ._.
+j2me_CD ._.
+tutorial_NN ._.
+SampleMidlet_NNP ,_, click_NN run_NN ._.
+The_DT default_NN WTK_NNP emulator_NN will_MD be_VB started_VBN up_RP and_CC the_DT SampleMidlet_NNP will_MD running_VBG in_IN the_DT emulator_NN ._.
+7_CD ._.
+And_CC debug_NN is_VBZ something_NN like_IN run_NN ._.
+You_PRP should_MD use_VB the_DT context_NN menu_NN Debug_NNP -_: -RRB-_-RRB- Other_JJ ..._: and_CC Eclipse_NNP will_MD show_VB you_PRP a_DT debug_NN screen_NN like_IN this_DT ._.
+If_IN you_PRP have_VBP set_VBN some_DT breakpoints_NNS in_IN the_DT source_NN code_NN ,_, the_DT debugger_NN will_MD stopped_VBD in_IN the_DT line_NN of_IN breakpoints_NNS of_IN the_DT source_NN code_NN ._.
+And_CC you_PRP will_MD see_VB the_DT Variables_NNS on_IN the_DT right_NN up_IN corner_NN view_NN ._.
+Michael_NNP Yuan_NNP Java_NNP blog_NNP J2ME_NNP expert_NN Michael_NNP Yuan_NNP 's_POS Blog_NNP ._.
+He_PRP has_VBZ became_VBN Dr._NNP Yuan_NNP several_JJ days_NNS ago_RB ._.
+It_PRP is_VBZ a_DT Ph._NNP D_NNP in_IN Astrophysics_NNPS from_IN the_DT University_NNP of_IN Texas_NNP at_IN Austin_NNP ._.
+Interesting_JJ ,_, is_VBZ n't_RB it_PRP ?_.
+Eclipse_NNP is_VBZ one_CD of_IN the_DT most_RBS robust_JJ Java_NN development_NN IDEs_NNS ,_, and_CC It_PRP 's_VBZ free_JJ and_CC open_JJ source_NN ._.
+EclipseMe_NNP is_VBZ a_DT plugin_NN for_IN Eclipse_NNP that_WDT enables_VBZ J2ME_CD programming_NN and_CC debug_NN in_IN Eclipse_NNP Environment_NNP ._.
+In_IN this_DT post_NN ,_, I_PRP will_MD give_VB you_PRP a_DT step_NN by_IN step_NN tutorial_NN on_IN how_WRB to_TO write_VB J2ME_NNP Midlet_NNP Suite_NNP using_VBG Eclipse_NNP ._.
+Prerequisites_NNP The_NNP following_VBG are_VBP prerequisites_NNS for_IN this_DT plugin_NN :_: Sun_NNP Java2_NNP 1.4_CD ._.
+x_LS Eclipse_NNP 3.0_CD M9_CD or_CC later_RB ._.
+This_DT documentation_NN was_VBD put_VBN together_RB with_IN Eclipse_NNP 3.0_CD RC1_CD on_IN Windows_NNP XP_NNP ._.
+The_DT following_JJ items_NNS are_VBP optional_JJ :_: ProGuard_NNP Obfuscator_NNP ._.
+This_DT is_VBZ necessary_JJ if_IN you_PRP want_VBP to_TO produce_VB obfuscated_JJ packages_NNS with_IN this_DT plug-in_JJ ._.
+Download_NNP and_CC Install_NNP EclipseME_NNP :_: -LRB-_-LRB- Installation_NN guid_NN is_VBZ copyed_VBN from_IN EclipseMe_NNP 's_POS offical_JJ help_NN document_NN ._.
+A_DT great_JJ job_NN has_VBZ been_VBN done_VBN by_IN those_DT genius_NN ._. -RRB-_-RRB-
+Download_NNP the_DT EcilpseMe_NNP 's_POS latest_JJS version_NN from_IN the_DT Official_NNP website_NN ._.
+1_LS ._.
+Install_VB the_DT Wireless_NNP Toolkit_NNP -LRB-_-LRB- s_PRP -RRB-_-RRB- Install_VB any_DT of_IN the_DT wireless_JJ toolkits_NNS you_PRP want_VBP to_TO use_VB ._.
+When_WRB you_PRP do_VBP this_DT ,_, make_VB note_NN of_IN the_DT base_NN directory_NN into_IN which_WDT each_DT is_VBZ installed_VBN ,_, as_IN you_PRP will_MD need_VB this_DT information_NN in_IN Step_NN 3_CD ._.
+2_LS ._.
+Install_VB the_DT Plug-In_JJ The_DT EclipseME_NNP distribution_NN is_VBZ provided_VBN as_IN a_DT ZIP_NNP archive_NN ._.
+Simply_RB unzip_VB the_DT plug-in_JJ binaries_NNS into_IN your_PRP$ Eclipse_NNP ``_`` plugins_NNS ''_'' directory_NN and_CC restart_VB Eclipse_NNP ._.
+For_IN instance_NN ,_, if_IN your_PRP$ Eclipse_NNP installation_NN is_VBZ held_VBN in_IN c_NN :_: \_VB software_NN \_NN Eclipse_NNP ,_, EclipseME_NNP should_MD be_VB installed_VBN to_TO c_NN :_: \_VB software_NN \_NN Eclipse_NNP \_NNP plugins_NNS ._.
+If_IN the_DT plug-in_JJ is_VBZ properly_RB installed_VBN ,_, there_EX will_MD be_VB a_DT J2ME_JJ entry_NN in_IN the_DT Preferences_NNPS dialog_NN ._.
+3_LS ._.
+Configure_NNP the_DT Plug-In_NNP 's_POS Wireless_NNP Toolkit_NNP Settings_NNP In_IN order_NN to_TO use_VB the_DT plug-in_JJ ,_, you_PRP must_MD configure_VB at_IN least_JJS one_CD Wireless_NNP Toolkit_NNP ._.
+In_IN order_NN to_TO do_VB this_DT ,_, perform_VB the_DT following_JJ steps_NNS :_: Select_NNP the_DT Properties_NNPS menu_NN item_NN from_IN Eclipse_NNP 's_POS Window_NNP menu_NN ._.
+Expand_VB the_DT J2ME_NNP item_NN in_IN the_DT pane_NN to_TO the_DT left_NN and_CC click_NN on_IN Platform_NNP Components_NNP ._.
+Right-click_NN on_IN Wireless_NNP Toolkits_NNPS and_CC select_JJ Add_VB Wireless_NNP Toolkit_NNP ._.
+In_IN the_DT resulting_VBG dialog_NN ,_, select_VBP the_DT root_NN directory_NN of_IN the_DT wireless_JJ toolkit_NN installation_NN ._.
+When_WRB you_PRP have_VBP completed_VBN the_DT operation_NN ,_, you_PRP should_MD be_VB able_JJ to_TO expand_VB the_DT Wireless_NNP Toolkits_NNPS and_CC other_JJ items_NNS in_IN the_DT right-hand_JJ pane_NN and_CC see_VB the_DT toolkits_NNS ,_, definitions_NNS ,_, profiles_NNS and_CC configurations_NNS that_WDT are_VBP installed_VBN ._.
+4_LS ._.
+Change_NNP Eclipse_NNP 's_POS Debug_NNP Settings_NNP Because_IN of_IN some_DT quirks_NNS in_IN the_DT wireless_JJ toolkits_NNS ,_, Sun_NNP 's_POS in_IN particular_JJ ,_, if_IN you_PRP are_VBP going_VBG to_TO debug_VB your_PRP$ MIDlet_NNP using_VBG Eclipse_NNP ,_, you_PRP must_MD change_VB several_JJ of_IN the_DT default_NN debug_NN settings_NNS ._.
+To_TO do_VB this_DT :_: Select_NNP the_DT Properties_NNPS menu_NN item_NN from_IN Eclipse_NNP 's_POS Window_NNP menu_NN ._.
+Expand_VB the_DT Java_NNP item_NN in_IN the_DT left_JJ pane_NN and_CC click_NN on_IN the_DT Debug_NNP entry_NN ._.
+Ensure_VB that_IN both_DT Suspend_NNP execution_NN on_IN uncaught_JJ exceptions_NNS and_CC Suspend_VB execution_NN on_IN compilation_NN errors_NNS near_IN the_DT top_NN of_IN the_DT dialog_NN are_VBP NOT_RB checked_VBN ._.
+Increase_VB the_DT Debugger_NNP timeout_NN near_IN the_DT bottom_NN of_IN the_DT dialog_NN to_TO at_IN least_JJS 15000_CD ms._FW The_DT resulting_VBG settings_NNS should_MD look_VB something_NN like_IN this_DT :_: Nice_JJ game_NN ,_, nice_JJ sample_NN ,_, based_VBN on_IN a_DT japanese_JJ open_JJ source_NN game_NN ,_, and_CC edited_VBN by_IN me_PRP ._.
+Need_VBD Midlet_NNP 2.0_CD \/_CD CLDC-1_NNP .1_CD support_NN ._.
+The_DT zip_NN package_NN can_MD be_VB directly_RB imported_VBN into_IN Eclipse_NNP -LRB-_-LRB- Need_NNP EclipseMe_NNP plugin_NN -RRB-_-RRB- ._.
+Download_NNP Now_RB KetrisGame_NNP ._.
+Zip_NN

@@ -1,0 +1,4 @@
+Dea_NN Birkett_NNP -LRB-_-LRB- born_VBN 1958_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN ,_, journalist_NN ,_, broadcaster_NN and_CC a_DT former_JJ circus_NN performer_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP has_VBZ written_VBN on_IN social_JJ issues_NNS for_IN The_DT Guardian_NNP and_CC broadcasts_NNS for_IN BBC_NNP Radio_NNP 4_CD ._.
+She_PRP is_VBZ creative_JJ director_NN of_IN the_DT charity_NN Kids_NNS in_IN Museums_NNS and_CC Ringmaster_NNP of_IN Circus_NNP 250_CD ._.
+She_PRP was_VBD awarded_VBN the_DT Somerset_NNP Maugham_NNP Award_NNP in_IN 1993_CD for_IN Jella_NNP ._.

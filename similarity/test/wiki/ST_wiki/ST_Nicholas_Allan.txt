@@ -1,0 +1,7 @@
+Nicholas_NNP Allan_NNP is_VBZ an_DT English_JJ children_NNS 's_POS writer_NN and_CC illustrator_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Nicholas_NNP Allan_NNP was_VBD born_VBN and_CC brought_VBN up_RP in_IN Brighton_NNP ,_, attending_VBG Brighton_NNP College_NNP from_IN 1970_CD to_TO 1975_CD ._.
+He_PRP studied_VBD at_IN the_DT Slade_NNP School_NNP of_IN Art_NNP and_CC completed_VBD an_DT MA_NNP in_IN Creative_NNP Writing_VBG at_IN the_DT University_NNP of_IN East_NNP Anglia_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP published_VBD his_PRP$ first_JJ book_NN The_DT Hefty_NNP Fairy_NNP in_IN 1989_CD ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC has_VBZ since_IN published_VBN numerous_JJ books_NNS for_IN children_NNS ,_, including_VBG The_DT Magic_NNP Lavatory_NNP ,_, The_DT Evil_NNP Teddy_NNP ,_, The_DT Queen_NNP 's_POS Knickers_NNPS ,_, Where_WRB Willy_NNP Went_VBD and_CC Father_NNP Christmas_NNP Needs_NNS a_DT Wee_NNP ._.
+Hilltop_NNP Hospital_NNP has_VBZ been_VBN adapted_VBN into_IN an_DT award-winning_JJ television_NN series_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- His_PRP$ other_JJ books_NNS include_VBP The_DT Complete_JJ Guide_NNP to_TO Gatecrashing_NNP and_CC a_DT teenage_JJ novel_NN The_DT First_NNP Time_NNP ._.
+When_WRB not_RB touring_VBG ,_, Allan_NNP spends_VBZ most_JJS of_IN his_PRP$ time_NN in_IN Brighton_NNP ,_, not_RB London_NNP ._.

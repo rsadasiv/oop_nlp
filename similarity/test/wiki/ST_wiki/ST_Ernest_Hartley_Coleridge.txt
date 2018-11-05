@@ -1,0 +1,6 @@
+Ernest_NNP Hartley_NNP Coleridge_NNP -LRB-_-LRB- 1846_CD ''_'' 1920_CD -RRB-_-RRB- was_VBD a_DT British_JJ literary_JJ scholar_NN and_CC poet_NN ._.
+He_PRP was_VBD son_NN of_IN Derwent_NNP Coleridge_NNP and_CC grandson_NN of_IN Samuel_NNP Taylor_NNP Coleridge_NNP ._.
+Coleridge_NNP was_VBD educated_VBN at_IN Highgate_NNP School_NNP ,_, Sherborne_NNP School_NNP and_CC Balliol_NNP College_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP did_VBD scholarly_JJ work_NN on_IN his_PRP$ grandfather_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ manuscripts_NNS ,_, being_VBG the_DT last_JJ of_IN the_DT Coleridges_NNS involved_VBN in_IN their_PRP$ editing_NN ._.
+He_PRP also_RB took_VBD part_NN in_IN the_DT campaign_NN to_TO buy_VB the_DT Coleridge_NNP Cottage_NNP in_IN Nether_NNP Stowey_NNP for_IN the_DT nation_NN ._.
+He_PRP provided_VBD this_DT epitaph_NN

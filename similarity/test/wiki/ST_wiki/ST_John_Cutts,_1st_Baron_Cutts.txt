@@ -1,0 +1,40 @@
+Lieutenant-General_NNP John_NNP Cutts_NNP ,_, 1st_CD Baron_NNP Cutts_NNP ,_, PC_NNP -LRB-_-LRB- Ire_NNP -RRB-_-RRB- -LRB-_-LRB- 1661_CD ''_'' 25_CD January_NNP 1707_CD -RRB-_-RRB- ,_, British_JJ soldier_NN and_CC author_NN ._.
+He_PRP was_VBD born_VBN in_IN Essex_NNP ._.
+After_IN a_DT short_JJ university_NN career_NN at_IN Catharine_NNP Hall_NNP ,_, Cambridge_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- he_PRP inherited_VBD the_DT family_NN estates_VBZ ,_, but_CC showed_VBD a_DT distinct_JJ preference_NN for_IN the_DT life_NN of_IN court_NN and_CC camp_NN ._.
+The_DT double_JJ ambition_NN for_IN military_JJ and_CC literary_JJ fame_NN inspired_VBD his_PRP$ first_JJ work_NN ,_, which_WDT appeared_VBD in_IN 1685_CD under_IN the_DT name_NN La_NNP Muse_NNP de_IN cavalier_JJ ,_, or_CC An_DT Apology_NN for_IN such_JJ Gentlemen_NNS as_IN make_VBP Poetry_NNP their_PRP$ Diversion_NN not_RB their_PRP$ Business_NN ._.
+The_DT next_JJ year_NN saw_VBD Cutts_NNP serving_VBG as_IN a_DT volunteer_NN under_IN the_DT Duke_NNP of_IN Lorraine_NNP in_IN Hungary_NNP ,_, and_CC it_PRP is_VBZ said_VBD that_IN he_PRP was_VBD the_DT first_JJ to_TO plant_VB the_DT imperial_JJ standard_NN on_IN the_DT walls_NNS at_IN the_DT storming_VBG of_IN Buda_NNP -LRB-_-LRB- July_NNP 1686_CD -RRB-_-RRB- ._.
+In_IN 1687_CD he_PRP published_VBD a_DT book_NN of_IN Poetical_NNP Exercises_NNP ,_, and_CC the_DT following_JJ year_NN he_PRP was_VBD serving_VBG as_IN lieutenant-colonel_NN in_IN Holland_NNP ._.
+General_NNP Hugh_NNP Mackay_NNP described_VBD Cutts_NNP about_IN this_DT time_NN as_IN pretty_JJ tall_JJ ,_, lusty_JJ and_CC well_RB shaped_VBD ,_, an_DT agreeable_JJ companion_NN with_IN abundance_NN of_IN wit_NN ,_, affable_JJ and_CC familiar_JJ ,_, but_CC too_RB much_JJ seized_VBN with_IN vanity_NN and_CC self-conceit_NN ._.
+Lieutenant-Colonel_NNP Cutts_NNP was_VBD one_CD of_IN William_NNP III_NNP 's_POS companions_NNS in_IN the_DT English_NNP Revolution_NNP of_IN 1688_CD ,_, and_CC in_IN 1690_CD he_PRP went_VBD in_IN command_NN of_IN a_DT regiment_NN of_IN foot_NN in_IN Ireland_NNP ,_, where_WRB he_PRP served_VBD with_IN distinction_NN ._.
+He_PRP served_VBD with_IN distinction_NN at_IN the_DT Battle_NNP of_IN the_DT Boyne_NNP ,_, and_CC at_IN the_DT siege_NN of_IN Limerick_NNP -LRB-_-LRB- 1690_CD -RRB-_-RRB- -LRB-_-LRB- where_WRB he_PRP was_VBD wounded_VBN -RRB-_-RRB- ,_, and_CC King_NNP William_NNP created_VBD him_PRP Baron_NNP Cutts_NNP ,_, of_IN Gowran_NNP ,_, in_IN the_DT Peerage_NNP of_IN Ireland_NNP on_IN 12_CD December_NNP 1690_CD ._.
+In_IN 1691_CD he_PRP succeeded_VBD to_TO the_DT command_NN of_IN the_DT brigade_NN of_IN the_DT prince_NN of_IN Hesse_NNP -LRB-_-LRB- wounded_VBN at_IN Aughrim_NNP -RRB-_-RRB- ,_, and_CC on_IN the_DT surrender_NN of_IN Limerick_NNP was_VBD appointed_VBN commandant_NN of_IN the_DT town_NN ._.
+Next_JJ year_NN he_PRP served_VBD again_RB in_IN Flanders_NNP as_IN a_DT brigadier_NN ._.
+His_PRP$ brigade_NN of_IN Mackay_NNP 's_POS division_NN had_VBD been_VBN almost_RB destroyed_VBN at_IN Steinkirk_NNP ._.
+At_IN this_DT battle_NN Cutts_VBZ himself_PRP was_VBD wounded_VBN ._.
+For_IN some_DT time_NN after_IN this_DT ,_, Lord_NNP Cutts_NNP was_VBD lieutenant-governor_NN of_IN the_DT Isle_NNP of_IN Wight_NNP ,_, but_CC he_PRP returned_VBD to_TO active_JJ service_NN in_IN 1694_CD ,_, holding_VBG a_DT command_NN in_IN the_DT disastrous_JJ Brest_NNP expedition_NN ._.
+He_PRP was_VBD one_CD of_IN Carmarthen_NNP 's_POS companions_NNS in_IN the_DT daring_JJ reconnaissance_NN of_IN Camaret_NNP Bay_NNP ,_, and_CC was_VBD soon_RB afterwards_RB again_RB wounded_VBN ._.
+He_PRP succeeded_VBD Talmash_NNP ,_, the_DT commander_NN of_IN the_DT expedition_NN -LRB-_-LRB- who_WP died_VBD of_IN his_PRP$ wounds_NNS -RRB-_-RRB- ,_, as_IN colonel_NN of_IN the_DT Coldstream_NNP Guards_NNP ._.
+Next_JJ year_NN ,_, after_IN serving_VBG as_IN a_DT commissioner_NN for_IN settling_VBG the_DT bank_NN of_IN Antwerp_NNP ,_, he_PRP distinguished_VBD himself_PRP once_RB more_RBR at_IN the_DT famous_JJ Siege_NNP of_IN Namur_NNP -LRB-_-LRB- 1695_CD -RRB-_-RRB- ,_, winning_VBG for_IN himself_PRP the_DT name_NN of_IN ``_`` Salamander_NNP ''_'' by_IN his_PRP$ indifference_NN to_TO the_DT heaviest_JJS fire_NN ._.
+He_PRP was_VBD shot_VBN in_IN the_DT head_NN while_IN leading_VBG an_DT attack_NN against_IN the_DT citadel_NN ,_, but_CC recovered_VBD to_TO lead_VB his_PRP$ men_NNS to_TO the_DT capture_NN of_IN the_DT works_NNS ._.
+Henceforward_JJ court_NN service_NN and_CC war_NN service_NN alternated_VBN ._.
+He_PRP was_VBD deep_JJ in_IN the_DT confidence_NN of_IN William_NNP III_NNP ,_, and_CC acted_VBD as_IN a_DT diplomatic_JJ agent_NN in_IN the_DT negotiations_NNS which_WDT ended_VBD in_IN the_DT peace_NN of_IN Ryswick_NNP ._.
+On_IN the_DT occasion_NN of_IN the_DT great_JJ fire_NN in_IN Whitehall_NNP -LRB-_-LRB- 1698_CD -RRB-_-RRB- Cutts_NNS ,_, at_IN the_DT head_NN of_IN the_DT Coldstreamers_NNP ,_, earned_VBD afresh_IN the_DT honorable_JJ nickname_NN of_IN ``_`` the_DT Salamander_NNP ._. ''_''
+Later_RB Captain_NNP Richard_NNP Steele_NNP worked_VBD as_IN his_PRP$ private_JJ secretary_NN ._.
+In_IN 1702_CD ,_, being_VBG a_DT major-general_JJ ,_, Cutts_NNP served_VBD under_IN Marlborough_NNP in_IN the_DT opening_NN campaign_NN of_IN the_DT War_NNP of_IN the_DT Spanish_JJ Succession_NN ,_, and_CC at_IN the_DT siege_NN of_IN Venlo_NNP ,_, conspicuous_JJ as_IN usual_JJ for_IN romantic_JJ bravery_NN ,_, he_PRP led_VBD the_DT stormers_NNS at_IN Fort_NNP Saint_NNP Michael_NNP ._.
+His_PRP$ enemies_NNS ,_, and_CC even_RB the_DT survivors_NNS of_IN the_DT assault_NN ,_, were_VBD amazed_VBN at_IN the_DT success_NN of_IN a_DT seemingly_RB hare-brained_JJ enterprise_NN ._.
+Probably_RB ,_, however_RB ,_, Cutts_NNP ,_, who_WP was_VBD now_RB a_DT veteran_NN of_IN great_JJ and_CC varied_JJ experience_NN ,_, measured_VBN the_DT factors_NNS of_IN success_NN and_CC failure_NN better_JJR than_IN his_PRP$ critics_NNS ._.
+It_PRP was_VBD on_IN this_DT occasion_NN that_WDT Swift_NNP lampooned_VBD the_DT lieutenant-general_NN in_IN his_PRP$ Ode_NNP to_TO a_DT Salamander_NNP ._.
+He_PRP made_VBD the_DT campaign_NN of_IN 1703_CD in_IN Flanders_NNP ,_, and_CC in_IN 1704_CD ,_, after_IN a_DT visit_NN to_TO England_NNP ,_, he_PRP rejoined_VBD Marlborough_NNP on_IN the_DT banks_NNS of_IN the_DT Danube_NNP ._.
+At_IN Blenheim_NNP he_PRP was_VBD third_JJ in_IN command_NN ,_, and_CC it_PRP was_VBD his_PRP$ division_NN that_IN bore_VBD the_DT brunt_NN of_IN the_DT desperate_JJ fighting_NN at_IN the_DT village_NN which_WDT gave_VBD its_PRP$ name_NN to_TO the_DT battle_NN ._.
+Blenheim_NNP was_VBD Cutts_NNP 's_POS last_JJ battle_NN ._.
+On_IN 23_CD March_NNP 1705_CD he_PRP was_VBD appointed_VBN Commander-in-Chief_NNP ,_, Ireland_NNP ,_, his_PRP$ last_JJ appointment_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP retained_VBD formal_JJ command_NN of_IN the_DT Irish_JJ army_NN until_IN his_PRP$ death_NN ._.
+His_PRP$ remaining_VBG years_NNS were_VBD spent_VBN at_IN home_NN ,_, and_CC ,_, at_IN the_DT time_NN of_IN his_PRP$ death_NN ,_, he_PRP was_VBD the_DT holder_NN of_IN eight_CD distinct_JJ political_JJ and_CC military_JJ offices_NNS ._.
+He_PRP sat_VBD in_IN five_CD parliaments_NNS for_IN the_DT county_NN of_IN Cambridge_NNP ,_, and_CC in_IN Queen_NNP Anne_NNP 's_POS first_JJ Parliament_NNP he_PRP was_VBD returned_VBN for_IN Newport_NNP in_IN the_DT Isle_NNP of_IN Wight_NNP ,_, for_IN which_WDT he_PRP sat_VBD until_IN the_DT time_NN of_IN his_PRP$ death_NN ._.
+He_PRP was_VBD twice_RB married_VBN ,_, but_CC left_VBD no_DT issue_NN ._.
+Cutts_NNS '_POS old_JJ Cambridge_NNP College_NNP organised_VBD a_DT dinner_NN to_TO commemorate_VB the_DT tercentenary_NN of_IN his_PRP$ death_NN ,_, held_VBN in_IN January_NNP 2007_CD ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Chisholm_NNP ,_, Hugh_NNP ,_, ed_VBD ._.
+-LRB-_-LRB- 1911_CD -RRB-_-RRB- ._.
+Cutts_NNS of_IN Gowran_NNP ,_, John_NNP Cutts_NNP ._.
+Encyclopædia_NNP Britannica_NNP -LRB-_-LRB- 11th_JJ ed_VBN ._. -RRB-_-RRB- ._.
+Cambridge_NNP University_NNP Press_NNP ._.

@@ -1,0 +1,21 @@
+John_NNP Brent_NNP -LRB-_-LRB- 1808_CD ``_`` 1882_CD -RRB-_-RRB- was_VBD an_DT English_JJ antiquary_JJ and_CC novelist_NN ._.
+Brent_NNP was_VBD born_VBN in_IN Rotherhithe_NNP ,_, London_NNP on_IN 21_CD August_NNP 1808_CD ,_, and_CC was_VBD the_DT eldest_JJS son_NN of_IN a_DT father_NN of_IN the_DT same_JJ name_NN ,_, a_DT shipbuilder_NN there_RB ,_, who_WP about_IN the_DT year_NN 1821_CD removed_VBN to_TO Canterbury_NNP ,_, and_CC became_VBD thrice_NN mayor_NN of_IN the_DT city_NN and_CC deputy-lieutenant_NN of_IN the_DT county_NN ._.
+His_PRP$ mother_NN was_VBD Susannah_NNP ,_, third_JJ daughter_NN of_IN the_DT Rev._NNP Sampson_NNP Kingsford_NNP of_IN Sturry_NNP ,_, near_IN Canterbury_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN his_PRP$ early_JJ days_NNS Brent_NNP carried_VBD on_IN the_DT business_NN of_IN a_DT miller_NN ,_, occupied_VBN for_IN many_JJ years_NNS a_DT seat_NN on_IN the_DT council_NN of_IN the_DT Canterbury_NNP corporation_NN ,_, and_CC was_VBD elected_VBN an_DT alderman_NN ,_, but_CC resigned_VBD that_IN position_NN on_IN being_VBG appointed_VBN city_NN treasurer_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- During_IN the_DT course_NN of_IN a_DT long_JJ life_NN ,_, Brent_NNP was_VBD indefatigable_JJ in_IN his_PRP$ attempts_NNS to_TO throw_VB light_NN on_IN the_DT history_NN of_IN the_DT city_NN and_CC county_NN in_IN which_WDT he_PRP dwelt_VBD ._.
+He_PRP became_VBD a_DT fellow_NN of_IN the_DT Society_NNP of_IN Antiquaries_NNPS in_IN April_NNP 1853_CD ,_, and_CC was_VBD also_RB a_DT member_NN of_IN the_DT British_JJ Archaeological_NNP Association_NNP and_CC of_IN the_DT Kent_NNP Archaeological_NNP Society_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- After_IN the_DT failure_NN of_IN the_DT November_NNP Uprising_NNP -LRB-_-LRB- Polish_NNP ``_`` Russian_NNP War_NNP 1830_CD ``_`` 31_CD -RRB-_-RRB- ,_, Brent_NNP became_VBD the_DT local_JJ secretary_NN of_IN the_DT Polish_NNP Association_NNP ._.
+He_PRP died_VBD at_IN his_PRP$ house_NN on_IN the_DT Dane_NNP John_NNP ,_, Canterbury_NNP ,_, 23_CD April_NNP 1882_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brent_NNP 's_POS contributions_NNS to_TO antiquarian_JJ literature_NN are_VBP mostly_RB to_TO be_VB found_VBN in_IN the_DT various_JJ publications_NNS of_IN the_DT societies_NNS to_TO which_WDT he_PRP belonged_VBD ._.
+To_TO the_DT forty-first_JJ volume_NN of_IN the_DT Archæologia_NNP -LRB-_-LRB- pp_NN ._.
+409_CD ``_`` 20_CD -RRB-_-RRB- he_PRP communicated_VBD a_DT paper_NN of_IN value_NN to_TO ethnological_JJ science_NN ,_, being_VBG an_DT account_NN of_IN his_PRP$ ``_`` Researches_NNP in_IN an_DT Anglo-Saxon_NNP Cemetery_NNP at_IN Stowting_NNP ,_, in_IN Kent_NNP ,_, during_IN the_DT autumn_NN of_IN 1860_CD ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1855_CD Brent_NNP had_VBD published_VBN a_DT revised_VBN edition_NN of_IN Felix_NNP Summerly_NNP 's_POS Handbook_NNP for_IN Canterbury_NNP ,_, `_`` and_CC in_IN 1875_CD there_EX appeared_VBD his_PRP$ Catalogue_NN of_IN the_DT Antiquities_NNPS in_IN the_DT Canterbury_NNP Museum_NNP ,_, of_IN which_WDT he_PRP was_VBD honorary_JJ curator_NN ._.
+His_PRP$ work_NN Canterbury_NNP in_IN the_DT Olden_NNP Time_NNP ,_, 8vo_CD ,_, -LRB-_-LRB- enlarged_JJ edition_NN in_IN 1879_CD -RRB-_-RRB- ,_, from_IN its_PRP$ research_NN and_CC originality_NN ,_, bears_VBZ testimony_NN to_TO his_PRP$ unwearied_JJ industry_NN and_CC his_PRP$ ability_NN as_IN an_DT antiquarian_JJ topographer_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brent_NNP also_RB claims_VBZ notice_NN as_IN a_DT poet_NN and_CC novelist_NN ,_, having_VBG published_VBN :_: -LRB-_-LRB- 2_LS -RRB-_-RRB- Numerous_JJ tales_NNS ,_, poems_NNS ,_, and_CC miscellaneous_JJ articles_NNS from_IN his_PRP$ pen_NN are_VBP also_RB to_TO be_VB found_VBN in_IN the_DT various_JJ magazines_NNS devoted_VBN to_TO light_JJ literature_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Goodwin_NNP ,_, Gordon_NNP -LRB-_-LRB- 1886_CD -RRB-_-RRB- ._.
+``_`` Brent_NNP ,_, John_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+6_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP pp_NN ._.
+261,262_CD ._.

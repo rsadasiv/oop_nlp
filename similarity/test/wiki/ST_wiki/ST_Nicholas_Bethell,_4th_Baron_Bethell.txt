@@ -1,0 +1,54 @@
+Nicholas_NNP William_NNP Bethell_NNP ,_, 4th_JJ Baron_NNP Bethell_NNP -LRB-_-LRB- 19_CD July_NNP 1938_CD ''_'' 8_CD September_NNP 2007_CD -RRB-_-RRB- was_VBD a_DT British_JJ politician_NN ._.
+He_PRP was_VBD a_DT historian_NN of_IN Central_NNP and_CC Eastern_NNP Europe_NNP ._.
+He_PRP was_VBD also_RB a_DT translator_NN and_CC human_JJ rights_NNS activist_NN ._.
+He_PRP sat_VBD in_IN the_DT House_NNP of_IN Lords_NNPS as_IN a_DT Conservative_NN from_IN 1967_CD to_TO 1999_CD ._.
+He_PRP served_VBD as_IN an_DT appointed_VBN member_NN of_IN the_DT European_JJ Assembly_NN from_IN 1975_CD to_TO 1979_CD ,_, and_CC as_IN an_DT elected_VBN Member_NNP of_IN the_DT European_NNP Parliament_NNP from_IN 1979_CD to_TO 1994_CD ,_, and_CC from_IN 1999_CD to_TO 2003_CD ._.
+Bethell_NNP 's_POS parents_NNS were_VBD William_NNP Gladstone_NNP Bethell_NNP -LRB-_-LRB- 11_CD April_NNP 1904_CD ''_'' 17_CD October_NNP 1964_CD -RRB-_-RRB- and_CC Ann_NNP Margaret_NNP Frances_NNP -LRB-_-LRB- née_FW Barlow_NNP ;_: died_VBD 17_CD August_NNP 1996_CD -RRB-_-RRB- ._.
+His_PRP$ father_NN was_VBD a_DT stockbroker_NN who_WP served_VBD in_IN the_DT Royal_NNP Artillery_NNP in_IN the_DT Second_NNP World_NNP War_NNP ._.
+His_PRP$ father_NN was_VBD the_DT third_JJ son_NN of_IN John_NNP Bethell_NNP ,_, a_DT banker_NN and_CC Liberal_JJ politician_NN ,_, who_WP became_VBD 1st_CD Baron_NNP Bethell_NNP in_IN 1922_CD ._.
+His_PRP$ mother_NN was_VBD the_DT daughter_NN of_IN Lieutenant_NNP Colonel_NNP Robert_NNP Barlow_NNP ._.
+His_PRP$ parents_NNS divorced_VBN in_IN 1946_CD ._.
+His_PRP$ mother_NN subsequently_RB remarried_VBD three_CD times_NNS ._.
+Bethell_NNP was_VBD educated_VBN at_IN Harrow_NNP ._.
+He_PRP trained_VBD as_IN a_DT Russian_JJ translator_NN during_IN his_PRP$ National_NNP Service_NNP from_IN 1956_CD to_TO 1958_CD ,_, and_CC studied_VBD Oriental_JJ Languages_NNS at_IN Pembroke_NNP College_NNP ,_, Cambridge_NNP ,_, specialising_VBG in_IN Arabic_NNP and_CC Persian_NNP ._.
+He_PRP graduated_VBD in_IN 1962_CD ,_, and_CC befriended_VBD Polish_JJ students_NNS in_IN Cambridge_NNP ._.
+He_PRP continued_VBD his_PRP$ education_NN at_IN Cambridge_NNP as_IN a_DT mature_JJ student_NN ,_, and_CC earned_VBD his_PRP$ PhD_NNP in_IN 1987_CD ._.
+After_IN he_PRP graduated_VBD ,_, Bethell_NNP worked_VBD for_IN the_DT Times_NNP Literary_NNP Supplement_NN from_IN 1962_CD to_TO 1964_CD ,_, and_CC was_VBD a_DT script_NN editor_NN for_IN the_DT BBC_NNP Radio_NNP Drama_NNP department_NN from_IN 1964_CD to_TO 1967_CD ._.
+His_PRP$ father_NN died_VBD in_IN 1964_CD ,_, and_CC he_PRP inherited_VBD the_DT barony_NN on_IN the_DT unexpected_JJ early_JJ death_NN of_IN his_PRP$ cousin_NN Guy_NNP on_IN 2_CD December_NNP 1967_CD ._.
+He_PRP sat_VBD in_IN the_DT House_NNP of_IN Lords_NNPS as_IN a_DT Conservative_NN until_IN the_DT House_NNP of_IN Lords_NNPS Act_NNP 1999_CD removed_VBD most_RBS hereditary_JJ peers_NNS from_IN the_DT chamber_NN ._.
+He_PRP was_VBD appointed_VBN as_IN a_DT Lord_NNP in_IN Waiting_NNP -LRB-_-LRB- a_DT government_NN whip_NN in_IN the_DT House_NNP of_IN Lords_NNPS -RRB-_-RRB- in_IN June_NNP 1970_CD ,_, after_IN the_DT 1970_CD general_JJ election_NN ._.
+Fluent_NNP in_IN Russian_NNP and_CC Polish_NNP ,_, Bethell_NNP often_RB translated_VBD the_DT works_NNS of_IN Russian_JJ and_CC Polish_JJ writers_NNS into_IN English_NNP ._.
+After_IN he_PRP published_VBD a_DT translation_NN of_IN Aleksandr_NNP Solzhenitsyn_NNP 's_POS Cancer_NNP Ward_NNP ,_, an_DT article_NN by_IN Auberon_NNP Waugh_NNP in_IN Private_NNP Eye_NNP in_IN 1971_CD suggested_VBD Bethell_NNP had_VBD published_VBN the_DT work_NN without_IN permission_NN ,_, and_CC had_VBD enabled_VBN the_DT Soviet_JJ authorities_NNS to_TO arrest_VB Solzhenitsyn_NNP for_IN circulating_VBG anti-Soviet_JJ propaganda_NN ._.
+Bethell_NNP won_VBD a_DT libel_NN suit_NN ,_, but_CC was_VBD forced_VBN to_TO resign_VB as_IN a_DT whip_NN in_IN January_NNP 1971_CD to_TO pursue_VB the_DT litigation_NN ,_, and_CC the_DT controversy_NN denied_VBD him_PRP a_DT place_NN on_IN Edward_NNP Heath_NNP 's_POS list_NN of_IN Conservative_JJ candidates_NNS to_TO be_VB appointed_VBN to_TO the_DT European_NNP Parliament_NNP ._.
+Heath_NNP later_RB refused_VBD to_TO discuss_VB the_DT matter_NN with_IN him_PRP ,_, but_CC government_NN papers_NNS released_VBN in_IN 2002_CD under_IN the_DT 30-year_JJ rule_NN revealed_VBD that_IN Bethell_NNP 's_POS contacts_NNS with_IN people_NNS in_IN Communist_JJ Russia_NNP and_CC Poland_NNP were_VBD thought_VBN to_TO be_VB a_DT security_NN risk_NN ._.
+Solzhenitsyn_NNP later_RB reopened_VBD the_DT issue_NN ,_, claiming_VBG that_IN he_PRP had_VBD not_RB authorised_VBN a_DT Slovak_NNP dissident_NN ,_, Pavel_NNP Licko_NNP ,_, to_TO give_VB the_DT manuscript_NN to_TO Bethell_NNP ,_, and_CC that_IN Licko_NNP was_VBD a_DT Soviet_JJ agent_NN ._.
+Bethell_NNP rejected_VBD those_DT claims_NNS ,_, pointing_VBG out_RP that_IN Solzhenitsyn_NNP had_VBD accepted_VBN royalties_NNS from_IN the_DT publication_NN of_IN the_DT translation_NN over_IN the_DT years_NNS ._.
+Solzhenitsyn_NNP had_VBD been_VBN completely_RB unknown_JJ in_IN the_DT West_NNP until_IN Cancer_NNP Ward_NNP was_VBD published_VBN ,_, and_CC he_PRP won_VBD the_DT 1970_CD Nobel_NNP Prize_NNP for_IN Literature_NNP ,_, primarily_RB for_IN this_DT work_NN ,_, although_IN he_PRP was_VBD banned_VBN by_IN the_DT Soviet_JJ government_NN from_IN receiving_VBG it_PRP until_IN 1974_CD ._.
+Bethell_NNP 's_POS political_JJ fortunes_NNS changed_VBD when_WRB Margaret_NNP Thatcher_NNP became_VBD leader_NN of_IN the_DT Conservative_NNP Party_NNP ._.
+He_PRP was_VBD nominated_VBN to_TO become_VB a_DT member_NN of_IN the_DT European_NNP Parliament_NNP from_IN 1975_CD to_TO 1979_CD ,_, and_CC sat_VBD as_IN an_DT elected_VBN MEP_NNP for_IN London_NNP Northwest_NNP from_IN 1979_CD to_TO 1994_CD ._.
+He_PRP set_VBD up_RP the_DT ``_`` Freedom_NNP of_IN the_DT Skies_NNS ''_'' in_IN 1980_CD ,_, campaigning_NN to_TO force_VB airlines_NNS to_TO reduce_VB their_PRP$ prices_NNS which_WDT he_PRP believed_VBD were_VBD artificially_RB inflated_VBN by_IN a_DT cartel_NN ._.
+Perceived_VBN as_IN too_RB European_JJ ,_, he_PRP was_VBD not_RB re-elected_VBN in_IN 1994_CD ,_, but_CC returned_VBD to_TO the_DT European_NNP Parliament_NNP as_IN an_DT MEP_NNP for_IN the_DT new_JJ regional_JJ constituency_NN of_IN London_NNP from_IN 1999_CD to_TO 2003_CD ._.
+He_PRP was_VBD awarded_VBN the_DT European_JJ People_NNS 's_POS Party_NNP 's_POS Schuman_NNP Medal_NNP in_IN 2003_CD ._.
+Bethell_NNP was_VBD staunchly_RB anti-communist_JJ ._.
+In_IN such_JJ books_NNS as_IN Betrayed_NNP ,_, he_PRP strongly_RB supported_VBD the_DT Anglo-American_NNP efforts_NNS to_TO overthrow_VB the_DT Communist_JJ regimes_NNS of_IN Eastern_NNP Europe_NNP ._.
+What_WP Bethell_NNP criticised_VBD was_VBD the_DT execution_NN of_IN such_JJ operations_NNS ,_, not_RB their_PRP$ goal_NN ._.
+He_PRP used_VBD his_PRP$ European_JJ post_NN to_TO campaign_NN for_IN the_DT human_JJ rights_NNS of_IN dissidents_NNS in_IN the_DT Soviet_JJ bloc_NN ,_, including_VBG Andrei_NNP Sakharov_NNP and_CC Anatoly_NNP Sharansky_NNP ._.
+He_PRP took_VBD a_DT leading_JJ role_NN in_IN the_DT foundation_NN of_IN the_DT Sakharov_NNP Prize_NNP ,_, awarded_VBN by_IN the_DT European_NNP Parliament_NNP since_IN 1985_CD ._.
+After_IN the_DT fall_NN of_IN Communism_NNP ,_, he_PRP continued_VBD to_TO support_VB critics_NNS of_IN the_DT Russian_JJ government_NN ,_, such_JJ as_IN Vladimir_NNP Gusinsky_NNP and_CC Alexander_NNP Litvinenko_NNP ._.
+He_PRP was_VBD also_RB one_CD of_IN the_DT first_JJ people_NNS to_TO interview_VB Nelson_NNP Mandela_NNP at_IN Pollsmoor_NNP Prison_NNP in_IN 1985_CD ._.
+He_PRP became_VBD a_DT Commander_NNP of_IN the_DT Polish_NNP Order_NNP of_IN Merit_NNP in_IN 1991_CD ,_, and_CC received_VBD a_DT Russian_JJ Presidential_NNP Award_NNP in_IN 1992_CD ._.
+Bethell_NNP was_VBD the_DT president_NN of_IN the_DT Uxbridge_NNP Conservative_NNP Association_NNP from_IN 1995_CD to_TO 1999_CD ._.
+He_PRP was_VBD active_JJ in_IN the_DT movement_NN to_TO keep_VB Gibraltar_NNP British_NNP ,_, serving_VBG as_IN president_NN of_IN the_DT Friends_NNPS of_IN Gibraltar_NNP 's_POS Heritage_NNP from_IN 1992_CD to_TO 2001_CD ._.
+For_IN this_DT he_PRP received_VBD the_DT Freedom_NNP of_IN the_DT City_NNP of_IN Gibraltar_NNP and_CC the_DT Gibraltar_NNP Medallion_NNP of_IN Honour_NNP in_IN 2008_CD ._.
+He_PRP also_RB opposed_VBD the_DT Turkish_JJ occupation_NN of_IN northern_JJ Cyprus_NNP ,_, and_CC was_VBD president_NN of_IN the_DT Friends_NNPS of_IN Cyprus_NNP Association_NNP from_IN 2001_CD ._.
+Bethell_NNP married_JJ twice_RB ._.
+He_PRP married_VBD ,_, firstly_RB ,_, Cecilia_NNP Mary_NNP Lothian_NNP Honeyman_NNP on_IN 7_CD April_NNP 1964_CD ._.
+She_PRP was_VBD the_DT daughter_NN of_IN Alexander_NNP Honeyman_NNP ,_, professor_NN of_IN oriental_JJ languages_NNS at_IN St_NNP Andrews_NNP University_NNP ._.
+They_PRP had_VBD two_CD sons_NNS ,_, James_NNP and_CC William_NNP ,_, but_CC divorced_VBN in_IN 1971_CD ;_: she_PRP died_VBD in_IN 1977_CD ._.
+He_PRP remarried_VBD in_IN 1992_CD ,_, to_TO Bryony_NNP Lea_NNP Morgan_NNP Griffiths_NNP ._.
+They_PRP had_VBD one_CD son_NN ,_, John_NNP ._.
+They_PRP resided_VBD in_IN London_NNP ._.
+He_PRP enjoyed_VBD playing_VBG tennis_NN and_CC poker_NN ,_, and_CC was_VBD a_DT member_NN of_IN the_DT Garrick_NNP Club_NNP and_CC Pratt_NNP 's_POS ._.
+He_PRP suffered_VBD from_IN Parkinson_NNP 's_POS disease_NN in_IN later_JJ life_NN ,_, dying_VBG at_IN age_NN 69_CD ._.
+He_PRP was_VBD survived_VBN by_IN his_PRP$ second_JJ wife_NN ,_, and_CC his_PRP$ three_CD sons_NNS ._.
+He_PRP was_VBD succeeded_VBN in_IN the_DT barony_NN by_IN his_PRP$ eldest_JJS son_NN ,_, James_NNP Bethell_NNP ,_, the_DT 5th_JJ Baron_NNP Bethell_NNP ._.

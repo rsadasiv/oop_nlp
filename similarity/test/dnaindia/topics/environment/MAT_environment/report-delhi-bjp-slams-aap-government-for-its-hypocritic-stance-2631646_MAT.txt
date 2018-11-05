@@ -1,0 +1,391 @@
+The_DT
+Delhi_NN
+Bharatiya_NN
+Janata_NN
+Party_NN
+-LRB-_-LRB-
+BJP_NN
+-RRB-_-RRB-
+has_VPRT [SPAU] [PEAS]
+again_TIME
+slammed_VBN
+the_DT
+Delhi_NN
+government_NOMZ
+over_IN
+the_DT
+tree_NN
+row_NN
+that_TSUB
+also_RB
+has_VPRT
+residents_NN
+up_RB
+in_PIN
+arms_NN
+._.
+Senior_JJ
+party_NN
+leaders_NN
+have_VPRT [PEAS]
+trained_VBN
+guns_NN
+at_PIN
+the_DT
+Aam_NN
+Aadmi_NN
+Party_NN
+-LRB-_-LRB-
+AAP_NN
+-RRB-_-RRB-
+,_,
+claiming_VBG [PUBV]
+that_THVC
+the_DT
+ruling_VBG [SUAV] [THATD]
+party_NN
+has_VPRT [PEAS]
+done_VBN [PROD]
+a_DT
+U-turn_NN
+by_PIN
+championing_VBG
+the_DT
+cause_NN
+of_PIN
+environment_NOMZ
+after_IN
+granting_VBG [SUAV]
+permission_NN
+to_TO
+cut_VB
+trees_NN
+._.
+The_DT
+leader_NN
+of_PIN
+the_DT
+Opposition_NOMZ
+,_,
+Vijender_NN
+Gupta_NN
+,_,
+called_VBN [PASTP]
+out_PIN
+the_DT
+``_``
+hypocritic_JJ
+''_''
+stance_NN
+of_PIN
+the_DT
+AAP_NN
+which_WDT [WHSUB]
+is_VPRT
+creating_VBG
+noise_NN
+for_PIN
+the_DT
+past_JJ
+few_QUAN
+weeks_NN
+against_PIN
+chopping_VBG
+of_PIN
+trees_NN
+by_PIN
+the_DT
+NBCC_NN
+for_PIN
+its_PIT
+development_NOMZ
+projects_NN
+in_PIN
+Netaji_NN
+Nagar_NN
+and_PHC
+Nauroji_NN
+Nagar_NN
+._.
+He_TPP3
+said_VBD [PUBV]
+that_THVC
+the_DT
+Delhi_NN
+government_NOMZ
+was_VBD
+to_TO
+plant_VB
+more_EMPH
+than_PIN
+39,000_CD
+trees_NN
+at_PIN
+both_DT
+these_DEMO
+places_NN
+._.
+``_``
+Instead_CONJ
+,_,
+Environment_NOMZ
+Minister_NN
+Imran_NN
+Hussain_NN
+released_VBD
+orders_NN
+to_TO
+cut_VB
+them_TPP3
+without_PIN
+due_JJ
+diligence_NN
+or_CC
+following_VBG
+the_DT
+procedure_NN
+of_PIN
+first_JJ
+planting_GER
+trees_NN
+._.
+It_PIT
+is_VPRT [BEMA]
+another_DT
+of_PIN
+his_TPP3
+antics_NN
+to_TO
+fool_VB
+the_DT
+public_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Rajouri_NN
+Garden_NN
+MLA_NN
+Manjinder_NN
+Singh_NN
+Sirsa_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+more_EMPH
+scathing_JJ
+in_PIN
+his_TPP3
+attack_NN
+towards_PIN
+the_DT
+AAP_NN
+._.
+He_TPP3
+said_VBD [PUBV]
+that_THVC
+the_DT
+government_NOMZ
+is_VPRT
+staging_VBG
+another_DT
+drama_NN
+to_TO
+cover_VB
+its_PIT
+wrongs_NN
+._.
+``_``
+Why_RB
+cry_VPRT
+hoarse_NN
+now_TIME
+that_DEMO
+thousands_NN
+of_PIN
+trees_NN
+have_VPRT [SPAU] [PEAS]
+already_RB
+been_VBN [PASS]
+cut_VBN
+?_.
+It_PIT
+is_VPRT [BEMA]
+so_EMPH
+apparent_PRED
+that_THAC
+AAP_NN
+minister_NN
+granted_VBN [SUAV]
+permission_NN
+for_PIN
+it_PIT
+._.
+The_DT
+government_NOMZ
+,_,
+however_CONJ
+,_,
+is_VPRT
+passing_VBG
+the_DT
+buck_NN
+to_PIN
+the_DT
+Congress_NN
+when_RB
+questioned_VBN
+by_PIN
+the_DT
+Opposition_NOMZ
+,_,
+''_''
+he_TPP3
+stated_VBD [PUBV]
+._.
+``_``
+Kejriwal_JJ
+government_NOMZ
+is_VPRT
+accusing_VBG
+Sheila_NN
+Dikshit_NN
+of_PIN
+the_DT
+pass_NN
+given_VBN [WZPAST]
+to_PIN
+NBCC_NN
+._.
+We_FPP1
+are_VPRT [BEMA]
+curious_PRED
+to_TO
+know_VB [PRIV]
+why_RB [WHCL]
+the_DT
+AAP_NN
+in_PIN
+spite_NN
+of_PIN
+being_VBG [BEMA]
+in_PIN
+power_NN
+,_,
+is_VPRT
+behaving_VBG
+like_IN
+a_DT
+sitting_VBG
+duck_NN
+,_,
+''_''
+asked_VBD [SUAV]
+Sirsa_NN
+._.
+The_DT
+Delhi_NN
+High_NN
+Court_NN
+had_VBD [PEAS]
+put_VBN
+on_PIN
+hold_VPRT [PRIV]
+the_DT
+chopping_VBG
+of_PIN
+17,000_CD
+trees_NN
+in_PIN
+the_DT
+Capital_NN
+for_PIN
+urban_JJ
+development_NOMZ
+,_,
+on_PIN
+Monday_NN
+._.
+Putting_VBG [PRESP]
+a_DT
+stay_NN
+on_PIN
+the_DT
+decision_NN
+to_TO
+cut_VB
+the_DT
+trees_NN
+,_,
+the_DT
+court_NN
+observed_VBD [PRIV]
+,_,
+``_``
+We_FPP1
+could_POMD
+understand_VB [PRIV]
+if_COND
+it_PIT
+was_VBD [BEMA]
+a_DT
+road-widening_GER
+work_NN
+,_,
+which_WDT [SERE]
+is_VPRT [BEMA]
+inevitable_PRED
+._.
+You_SPP2
+want_VPRT
+to_TO
+cut_VB
+thousands_NN
+of_PIN
+trees_NN
+for_PIN
+housing_GER
+._.
+Can_POMD
+Delhi_NN
+afford_VB
+this_DEMP
+?_.
+''_''
+Senior_JJ
+party_NN
+leaders_NN
+have_VPRT [PEAS]
+trained_VBN
+guns_NN
+at_PIN
+the_DT
+Aam_NN
+Aadmi_NN
+Party_NN
+-LRB-_-LRB-
+AAP_NN
+-RRB-_-RRB-
+,_,
+claiming_VBG [PUBV]
+that_THVC
+the_DT
+ruling_VBG [SUAV] [THATD]
+party_NN
+has_VPRT [PEAS]
+done_VBN [PROD]
+a_DT
+U-turn_NN
+by_PIN
+championing_VBG
+the_DT
+cause_NN
+of_PIN
+environment_NOMZ
+after_IN
+granting_VBG [SUAV]
+permission_NN
+to_TO
+cut_VB
+trees_NN
+._.

@@ -1,0 +1,9 @@
+`_`` Bade_NNP Achche_NNP Lagte_NNP Hain_NNP '_POS star_NN Sakshi_NNP Tanwar_NNP ,_, who_WP was_VBD last_JJ seen_VBN in_IN Aamir_NNP Khan_NNP starrer_IN `_`` Dangal_NNP '_'' ,_, adopted_VBD a_DT baby_NN girl_NN this_DT Navratri_NNP ._.
+The_DT actor_NN has_VBZ named_VBN her_PRP$ Dityaa_NNP ,_, which_WDT is_VBZ another_DT name_NN of_IN Goddess_NNP Lakshmi_NNP ._.
+Sharing_VBG her_PRP$ happiness_NN ,_, Sakshi_NNP told_VBD Times_NNP of_IN India_NNP ,_, oeWith_NNP the_DT blessings_NNS of_IN my_PRP$ parents_NNS and_CC the_DT support_NN of_IN my_PRP$ family_NN and_CC friends_NNS ,_, I_PRP have_VBP adopted_VBN a_DT baby_NN girl_NN who_WP would_MD soon_RB turn_VB 9_CD months_NNS old_JJ ._.
+I_PRP am_VBP extremely_RB delighted_JJ to_TO share_VB my_PRP$ happiness_NN with_IN you_PRP as_IN I_PRP welcome_VBP the_DT bundle_NN of_IN joy_NN in_IN my_PRP$ life_NN ._.
+This_DT is_VBZ undoubtedly_RB the_DT greatest_JJS moment_NN of_IN my_PRP$ life_NN and_CC I_PRP and_CC my_PRP$ entire_JJ family_NN are_VBP elated_VBN to_TO embrace_VB Dityaa_NNP ._.
+She_PRP is_VBZ the_DT answer_NN to_TO all_DT my_PRP$ prayers_NNS and_CC I_PRP feel_VBP blessed_VBN to_TO have_VB her_PRP$ in_IN my_PRP$ life_NN ._. ''_''
+Sakshi_NNP Tanwar_NNP is_VBZ one_CD of_IN the_DT most_RBS reverred_JJ actors_NNS of_IN Indian_JJ television_NN ._.
+With_IN shows_NNS such_JJ as_IN `_`` Kahaani_NNP Ghar_NNP Ghar_NNP Kii_NNP '_POS ,_, `_`` Bade_NNP Achhe_NNP Lagte_NNP Hai_NNP '_POS ,_, `_`` Devi_NNP '_'' and_CC others_NNS ,_, she_PRP is_VBZ one_CD of_IN the_DT most_RBS loved_VBN and_CC respected_VBN actors_NNS ._.
+She_PRP played_VBD Aamir_NNP Khan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wife_NN in_IN `_`` Dangal_NNP '_'' and_CC has_VBZ an_DT unreleased_JJ film_NN with_IN Sunny_NNP Deol_NNP ,_, `_`` Mohalla_NNP Assi_NNP '_POS ._.

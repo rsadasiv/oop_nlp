@@ -1,0 +1,374 @@
+NASA_NN
+'s_POS
+Chandra_NN
+X-ray_NN
+telescope_NN
+--_:
+which_WDT [SERE]
+observes_VPRT [PRIV]
+galaxies_NN
+from_PIN
+the_DT
+Earth_NN
+'s_POS
+orbit_NN
+--_:
+is_VPRT [BEMA]
+back_RB
+in_PIN
+action_NOMZ
+after_IN
+suffering_VBG
+a_DT
+technical_JJ
+glitch_NN
+and_CC
+going_VBG
+into_PIN
+safe_JJ
+mode_NN
+last_JJ
+week_NN
+,_,
+the_DT
+US_FPP1
+space_NN
+agency_NN
+said_VBD [PUBV]
+._.
+The_DT
+telescope_NN
+is_VPRT [PASS]
+named_VBN
+after_IN
+the_DT
+Nobel_NN
+Prize-winning_JJ
+Indian-American_NN
+astrophysicist_NN
+Subrahmanyan_NN
+Chandrasekhar_NN
+._.
+The_DT
+cause_NN
+of_PIN
+Chandra_NN
+'s_POS
+safe_JJ
+mode_NN
+on_PIN
+October_NN
+10_CD
+has_VPRT [SPAU] [PEAS]
+now_TIME
+been_VBN [PASS]
+understood_VBN [PRIV]
+and_CC
+the_DT
+operations_NOMZ
+team_NN
+has_VPRT [SPAU] [PEAS]
+successfully_RB
+returned_VBN
+the_DT
+spacecraft_NN
+to_PIN
+its_PIT
+normal_JJ
+pointing_VBG
+mode_NN
+,_,
+NASA_NN
+said_VBD [PUBV]
+in_PIN
+a_DT
+statement_NOMZ
+._.
+The_DT
+safe_JJ
+mode_NN
+was_VBD [BYPA]
+caused_VBN
+by_PIN
+a_DT
+glitch_NN
+in_PIN
+one_CD
+of_PIN
+Chandra_NN
+'s_POS
+gyroscopes_NN
+resulting_VBG [WZPRES]
+in_PIN
+a_DT
+three-second_JJ
+period_NN
+of_PIN
+bad_JJ
+data_NN
+that_DEMO
+in_PIN
+turn_NN
+led_VBD
+the_DT
+on-board_JJ
+computer_NN
+to_TO
+calculate_VB [PRIV]
+an_DT
+incorrect_JJ
+value_NN
+for_PIN
+the_DT
+spacecraft_NN
+momentum_NN
+._.
+A_DT
+gyroscope_NN
+is_VPRT [BEMA]
+a_DT
+device_NN
+used_VBN [WZPAST]
+for_PIN
+measuring_VBG
+or_CC
+maintaining_VBG [PUBV]
+orientation_NOMZ
+in_PIN
+navigation_NOMZ
+systems_NN
+._.
+The_DT
+erroneous_JJ
+momentum_NN
+indication_NOMZ
+then_RB
+triggered_VBD
+the_DT
+safe_JJ
+mode_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+NASA_NN
+._.
+The_DT
+team_NN
+has_VPRT [PEAS]
+completed_VBN
+plans_NN
+to_TO
+switch_VB
+gyroscopes_NN
+and_CC
+place_VPRT
+the_DT
+gyroscope_NN
+that_TSUB
+experienced_VBD
+the_DT
+glitch_NN
+in_PIN
+reserve_NN
+._.
+Once_TIME
+configured_VBN
+with_PIN
+a_DT
+series_NN
+of_PIN
+pre-tested_VBN
+flight_NN
+software_NN
+patches_NN
+,_,
+the_DT
+team_NN
+will_PRMD
+return_VB
+Chandra_NN
+to_PIN
+science_NN
+operations_NOMZ
+which_WDT [WHSUB]
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_PIN
+commence_NN
+by_PIN
+the_DT
+end_NN
+of_PIN
+this_DEMO
+week_NN
+,_,
+NASA_NN
+said_VBD [PUBV]
+._.
+On_PIN
+October_NN
+10_CD
+,_,
+Chandra_NN
+entered_VBD
+safe_JJ
+mode_NN
+,_,
+in_PIN
+which_WDT [PIRE]
+the_DT
+observatory_NN
+is_VPRT [PASS]
+put_VBN
+into_PIN
+a_DT
+safe_JJ
+configuration_NOMZ
+,_,
+critical_JJ
+hardware_NN
+is_VPRT [PASS]
+swapped_VBN
+to_PIN
+back-up_JJ
+units_NN
+,_,
+the_DT
+spacecraft_NN
+points_VPRT
+so_OSUB
+that_NULL
+the_DT
+solar_JJ
+panels_NN
+get_VPRT
+maximum_JJ
+sunlight_NN
+,_,
+and_ANDC
+the_DT
+mirrors_VPRT
+point_NN
+away_PLACE
+from_PIN
+the_DT
+Sun_NN
+._.
+Analysis_NN
+of_PIN
+available_JJ
+data_NN
+indicates_VPRT [PRIV]
+the_DT
+transition_NOMZ
+to_PIN
+safe_JJ
+mode_NN
+was_VBD [BEMA]
+normal_JJ
+behavior_NN
+for_PIN
+such_JJ
+an_DT
+event_NN
+._.
+All_QUAN
+systems_NN
+functioned_VBD
+as_IN
+expected_VBN [PRIV]
+and_CC
+the_DT
+scientific_JJ
+instruments_NOMZ
+are_VPRT [BEMA]
+safe_PRED
+._.
+``_``
+The_DT
+cause_NN
+of_PIN
+the_DT
+safe_JJ
+mode_NN
+transition_NOMZ
+is_VPRT
+under_IN
+investigation_NOMZ
+,_,
+and_ANDC
+we_FPP1
+will_PRMD
+post_VB
+more_EMPH
+information_NOMZ
+when_RB
+it_PIT
+becomes_VPRT
+available_JJ
+,_,
+''_''
+NASA_NN
+said_VBD [PUBV]
+in_PIN
+a_DT
+statement_NOMZ
+._.
+Chandra_NN
+is_VPRT [BEMA]
+19_CD
+years_NN
+old_JJ
+,_,
+which_WDT [SERE]
+is_VPRT
+well_RB
+beyond_IN
+the_DT
+original_JJ
+design_NN
+lifetime_NN
+of_PIN
+five_CD
+years_NN
+,_,
+NASA_NN
+said_VBD [PUBV]
+._.
+In_PIN
+2001_CD
+,_,
+NASA_NN
+extended_VBD
+its_PIT
+lifetime_NN
+to_PIN
+10_CD
+years_NN
+._.
+It_PIT
+is_VPRT
+now_TIME
+well_RB
+into_PIN
+its_PIT
+extended_JJ
+mission_NN
+and_CC
+is_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+continue_VB
+carrying_VBG
+out_PIN
+forefront_NN
+science_NN
+for_PIN
+many_QUAN
+years_NN
+to_TO
+come_VB
+,_,
+it_PIT
+said_VBD [PUBV]
+._.

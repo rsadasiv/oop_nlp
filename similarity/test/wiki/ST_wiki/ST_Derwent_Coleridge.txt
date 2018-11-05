@@ -1,0 +1,38 @@
+Derwent_NNP Coleridge_NNP -LRB-_-LRB- 1800_CD ``_`` 1883_CD -RRB-_-RRB- ,_, third_JJ child_NN of_IN Samuel_NNP Taylor_NNP Coleridge_NNP ,_, was_VBD a_DT distinguished_JJ English_NNP scholar_NN and_CC author_NN ._.
+Derwent_NNP Coleridge_NNP was_VBD born_VBN at_IN Keswick_NNP ,_, Cumberland_NNP ,_, 14_CD September_NNP 1800_CD -LRB-_-LRB- Derwent_NNP Water_NNP is_VBZ not_RB far_RB away_RB -RRB-_-RRB- ._.
+He_PRP was_VBD sent_VBN with_IN his_PRP$ brother_NN Hartley_NNP to_TO be_VB educated_VBN at_IN a_DT small_JJ school_NN near_IN Ambleside_NNP ._.
+The_DT two_CD brothers_NNS were_VBD in_IN those_DT days_NNS in_IN continual_JJ intercourse_NN with_IN Southey_NNP and_CC Wordsworth_NNP ._.
+Derwent_NNP was_VBD sent_VBN to_TO St._NNP John_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- where_WRB he_PRP formed_VBD intimate_JJ lifelong_JJ friendships_NNS with_IN W._NNP M._NNP Praed_NNP ,_, Macaulay_NNP ,_, John_NNP Moultrie_NNP ,_, Sidney_NNP Walker_NNP ,_, Charles_NNP Austin_NNP ,_, and_CC Bulwer_NNP ._.
+In_IN the_DT autumn_NN of_IN 1822_CD ,_, he_PRP joined_VBD them_PRP as_IN a_DT contributor_NN to_TO Knight_NNP 's_POS Quarterly_JJ Magazine_NN ._.
+His_PRP$ contributions_NNS ,_, signed_VBD ``_`` DAVENANT_NNP CECIL_NNP ''_'' ,_, were_VBD mostly_RB poetical_JJ ._.
+He_PRP proceeded_VBD B.A._NNP 1824_CD ,_, and_CC M.A._NNP 1829_CD ._.
+After_IN becoming_VBG estranged_VBN from_IN his_PRP$ father_NN ,_, he_PRP moved_VBD to_TO Plymouth_NNP ,_, where_WRB he_PRP became_VBD a_DT teacher_NN ._.
+He_PRP became_VBD involved_VBN in_IN the_DT intellectual_JJ life_NN of_IN the_DT town_NN ,_, joining_VBG The_DT Plymouth_NNP Institution_NNP -LRB-_-LRB- now_RB The_DT Plymouth_NNP Athenaeum_NNP -RRB-_-RRB- as_IN a_DT lecturing_VBG member_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1825_CD ,_, he_PRP was_VBD ordained_VBN by_IN William_NNP Carey_NNP ,_, Bishop_NNP of_IN Exeter_NNP ;_: soon_RB afterwards_RB ,_, he_PRP was_VBD appointed_VBN master_NN of_IN the_DT grammar_NN school_NN at_IN Helston_NNP ,_, Cornwall_NNP ._.
+One_CD of_IN his_PRP$ most_RBS distinguished_JJ pupils_NNS there_RB was_VBD Charles_NNP Kingsley_NNP ._.
+While_IN at_IN Helston_NNP ,_, he_PRP published_VBD his_PRP$ largest_JJS work_NN ,_, The_DT Scriptural_NNP Character_NNP of_IN the_DT English_NNP Church_NNP -LRB-_-LRB- 1839_CD -RRB-_-RRB- ._.
+He_PRP agreed_VBD with_IN the_DT conclusions_NNS which_WDT Gladstone_NNP supported_VBD in_IN Church_NNP Principles_NNPS considered_VBN in_IN their_PRP$ Results_NNS ,_, published_VBD the_DT following_JJ year_NN ,_, although_IN Gladstone_NNP wrote_VBD as_IN a_DT pronounced_JJ high_JJ churchman_NN ,_, while_IN Coleridge_NNP aimed_VBN at_IN setting_VBG forth_RP the_DT views_NNS of_IN his_PRP$ father_NN on_IN church_NN and_CC state_NN ._.
+The_DT avowal_NN that_IN he_PRP wished_VBD to_TO be_VB regarded_VBN as_IN his_PRP$ father_NN 's_POS disciple_NN induced_VBD F._NNP D._NNP Maurice_NNP to_TO dedicate_VB to_TO him_PRP his_PRP$ Kingdom_NNP of_IN Christ_NNP ._.
+Coleridge_NNP 's_POS book_NN ,_, though_IN eloquent_JJ ,_, missed_VBD popularity_NN ,_, perhaps_RB on_IN account_NN of_IN its_PRP$ impartiality_NN ._.
+In_IN 1841_CD ,_, he_PRP was_VBD appointed_VBN first_JJ principal_NN of_IN St._NNP Mark_NNP 's_POS College_NNP ,_, Chelsea_NNP ,_, just_RB established_VBN by_IN the_DT National_NNP Society_NNP ._.
+He_PRP held_VBD that_IN post_NN until_IN 1864_CD ,_, and_CC undoubtedly_RB did_VBD much_RB to_TO shape_VB the_DT course_NN of_IN elementary_JJ education_NN in_IN England_NNP ._.
+He_PRP was_VBD a_DT strong_JJ advocate_NN of_IN Latin_NNP in_IN mental_JJ training_NN ,_, placing_VBG it_PRP altogether_RB above_IN mathematics_NNS or_CC physical_JJ science_NN ._.
+The_DT study_NN of_IN languages_NNS was_VBD always_RB a_DT passion_NN with_IN him_PRP ._.
+Dean_NNP Stanley_NNP once_RB declared_VBD him_PRP the_DT most_RBS accomplished_JJ linguist_NN in_IN England_NNP ._.
+He_PRP could_MD read_VB Cervantes_NNP and_CC Alfieri_NNP as_IN easily_RB as_IN Racine_NNP and_CC Schiller_NNP ,_, and_CC was_VBD well_RB acquainted_VBN with_IN Hungarian_JJ and_CC Welsh_JJ poetry_NN ;_: of_IN the_DT latter_JJ he_PRP was_VBD intensely_RB fond_JJ ._.
+He_PRP could_MD also_RB read_VB not_RB only_RB Arabic_NNP and_CC Coptic_NNP ,_, but_CC Zulu_NNP and_CC Hawaiian_JJ ._.
+Under_IN his_PRP$ guidance_NN sacred_JJ music_NN was_VBD made_VBN a_DT large_JJ part_NN of_IN the_DT training_NN of_IN the_DT college_NN students_NNS ._.
+Choral_JJ services_NNS were_VBD not_RB known_VBN in_IN 1841_CD ,_, except_IN in_IN cathedrals_NNS ,_, and_CC when_WRB one_CD was_VBD established_VBN in_IN St._NNP Mark_NNP 's_POS College_NNP Chapel_NNP pilgrimages_NNS used_VBD to_TO be_VB made_VBN to_TO hear_VB the_DT novelty_NN ,_, not_RB only_RB from_IN all_DT parts_NNS of_IN London_NNP ,_, but_CC by_IN country_NN clergy_NNS ._.
+<sup>_JJ ~_NN </sup>_VBZ The_DT chapel_NN service_NN is_VBZ the_DT keystone_NN of_IN the_DT arch_NN ,_, <sup>_VB TM_NNP </sup>_NNP he_PRP wrote_VBD in_IN an_DT interesting_JJ letter_NN to_TO Archdeacon_NNP Sinclair_NNP ,_, published_VBN in_IN 1842_CD ._.
+He_PRP published_VBD several_JJ pamphlets_NNS in_IN the_DT course_NN of_IN his_PRP$ principalship_NN ,_, all_DT evidently_RB inspired_VBN by_IN the_DT desire_NN to_TO place_VB the_DT education_NN of_IN the_DT people_NNS in_IN the_DT hands_NNS of_IN the_DT church_NN ,_, though_IN his_PRP$ view_NN of_IN the_DT church_NN itself_PRP and_CC its_PRP$ doctrines_NNS was_VBD by_IN no_DT means_VBZ a_DT narrow_JJ one_CD ._.
+His_PRP$ last_JJ publication_NN on_IN the_DT subject_NN was_VBD a_DT manifesto_NN against_IN compulsory_JJ education_NN and_CC in_IN favor_NN of_IN denominational_JJ schools_NNS ._.
+His_PRP$ life_NN of_IN his_PRP$ brother_NN Hartley_NNP ,_, published_VBN in_IN 1849_CD ,_, is_VBZ a_DT very_RB well-written_JJ biography_NN ,_, and_CC he_PRP also_RB edited_VBD some_DT of_IN his_PRP$ father_NN 's_POS works_NNS in_IN conjunction_NN with_IN his_PRP$ sister_NN ._.
+In_IN 1864_CD the_DT works_NNS of_IN Praed_NNP appeared_VBD under_IN his_PRP$ editorship_NN ,_, and_CC with_IN a_DT memoir_NN by_IN him_PRP ._.
+In_IN 1854_CD Bishop_NNP Blomfield_NNP offered_VBD him_PRP the_DT living_NN of_IN Northolt_NNP ,_, but_CC he_PRP declined_VBD it_PRP ._.
+Ten_CD years_NNS later_RB he_PRP accepted_VBD from_IN Bishop_NNP Tait_NNP the_DT rectory_NN of_IN Hanwell_NNP ._.
+Finding_VBG the_DT parish_JJ church_NN a_DT long_JJ way_NN from_IN the_DT population_NN ,_, he_PRP set_VBD to_TO work_VB to_TO build_VB a_DT new_JJ one_CD in_IN the_DT midst_NN of_IN them_PRP ,_, and_CC it_PRP was_VBD consecrated_VBN on_IN the_DT last_JJ day_NN of_IN 1879_CD ,_, when_WRB he_PRP was_VBD in_IN his_PRP$ eightieth_NN year_NN ._.
+His_PRP$ mind_NN had_VBD lost_VBN none_NN of_IN its_PRP$ vigor_NN when_WRB he_PRP resigned_VBD next_JJ year_NN ,_, but_CC he_PRP had_VBD become_VBN subject_JJ to_TO constant_JJ attacks_NNS of_IN acute_JJ neuralgia_NN ,_, and_CC he_PRP retired_VBD to_TO Torquay_NNP ,_, where_WRB he_PRP died_VBD on_IN 28_CD March_NNP 1883_CD ._.
+His_PRP$ wife_NN ,_, to_TO whom_WP he_PRP had_VBD been_VBN married_VBN for_IN more_JJR than_IN fifty-five_JJ years_NNS ,_, survived_VBD him_PRP ._.
+He_PRP left_VBD a_DT son_NN -LRB-_-LRB- Ernest_NNP Hartley_NNP Coleridge_NNP -RRB-_-RRB- and_CC a_DT daughter_NN -LRB-_-LRB- Christabel_NNP Rose_NNP Coleridge_NNP -RRB-_-RRB- ._.
+His_PRP$ second_JJ son_NN ,_, Derwent_NNP Moultrie_NNP Coleridge_NNP ,_, predeceased_VBD him_PRP in_IN 1880_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

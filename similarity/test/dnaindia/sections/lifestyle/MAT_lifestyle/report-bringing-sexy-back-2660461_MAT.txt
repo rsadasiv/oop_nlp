@@ -1,0 +1,117 @@
+In_PIN
+a_DT
+scenario_NN
+when_RB
+words_NN
+like_IN
+dad-core_NN
+and_PHC
+athleisure_NN
+are_VPRT [PASS]
+thrown_VBN
+around_PLACE
+without_PIN
+much_QUAN
+thought_NN
+,_,
+it_PIT
+was_VBD
+refreshing_VBG
+to_TO
+see_VB [PRIV]
+Tom_NN
+Ford_NN
+reigniting_VBG [WZPRES]
+his_TPP3
+runway_NN
+with_PIN
+his_TPP3
+unapologetic_JJ
+take_NN
+on_PIN
+evening_GER
+glam_NN
+._.
+Body-skimming_JJ
+pencil_NN
+skirt_NN
+flirted_VBN [WZPAST]
+with_PIN
+risqué_JJ
+lingerie_NN
+and_CC
+their_TPP3
+sheerness_NOMZ
+was_VBD [BYPA]
+offset_VBN
+by_PIN
+faux_JJ
+croc_NN
+bombers_NN
+._.
+Our_FPP1
+very_AMP
+own_JJ
+Lakshmi_NN
+Menon_NN
+walked_VBD
+the_DT
+ramp_NN
+._.
+Looks_VPRT
+like_IN
+the_DT
+line_NN
+was_VBD [BYPA]
+inspired_VBN
+by_PIN
+Tom_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT [BEMA]
+all-time_JJ
+muse_NN
+Carine_NN
+Roitfeld_NN
+,_,
+former_JJ
+editor_NN
+of_PIN
+French_JJ
+Vogue_NN
+whose_WPS [WHOBJ]
+personal_JJ
+uniform_NN
+has_VPRT [SPAU] [PEAS]
+always_RB
+been_VBN [BEMA]
+a_DT
+tight_JJ
+body-con_NN
+skirt_NN
+teamed_VBN [WZPAST]
+with_PIN
+a_DT
+soft_JJ
+camisole_NN
+and_CC
+a_DT
+jacket_NN
+._.
+The_DT
+menswear_NN
+stood_VBD
+out_PIN
+thanks_NN
+to_PIN
+tone_NN
+on_PIN
+tone_NN
+layering_GER
+and_CC
+super_JJ
+glossy_JJ
+evening_GER
+pieces_NN
+._.

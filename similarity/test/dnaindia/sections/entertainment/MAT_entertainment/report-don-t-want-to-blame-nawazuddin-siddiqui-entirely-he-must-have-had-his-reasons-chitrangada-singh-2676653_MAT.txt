@@ -1,0 +1,345 @@
+Chitrangada_NN
+Singh_NN
+,_,
+who_WP
+earlier_TIME
+claimed_VBD [PUBV]
+that_THVC
+Nawazuddin_NN
+Siddiqui_NN
+did_VBD
+not_XX0
+take_VB
+a_DT
+stand_NN
+against_PIN
+her_TPP3
+alleged_JJ
+harassment_NOMZ
+,_,
+has_VPRT [SPAU] [PEAS]
+now_TIME
+said_VBN [PUBV]
+that_THVC
+she_TPP3
+is_VPRT
+not_XX0
+pointing_VBG
+a_DT
+finger_NN
+at_PIN
+the_DT
+actor_NN
+._.
+While_OSUB
+recalling_VBG [PRIV]
+her_TPP3
+harassment_NOMZ
+story_NN
+,_,
+Chitrangada_NN
+had_VBD [SPAU] [PEAS]
+reportedly_RB
+said_VBD [PUBV]
+that_THVC
+Nawazuddin_NN
+did_VBD
+not_XX0
+come_VB
+out_PIN
+in_PIN
+support_NN
+when_RB
+she_TPP3
+was_VBD [SPAU] [PASS]
+allegedly_RB
+harassed_VBN
+on_PIN
+the_DT
+sets_NN
+of_PIN
+Babumoshai_NN
+Bandookbaaz_NN
+._.
+She_TPP3
+was_VBD [PASS]
+cast_VBN
+alongside_PLACE
+the_DT
+Gangs_NN
+of_PIN
+Wasseypur_NN
+star_NN
+in_PIN
+the_DT
+Kushan_NN
+Nandy-directorial_NN
+,_,
+but_CC
+was_VBD [SPAU] [PASS]
+later_TIME
+replaced_VBN
+._.
+However_CONJ
+,_,
+while_OSUB
+talking_VBG
+to_PIN
+the_DT
+media_NN
+at_PIN
+an_DT
+event_NN
+on_PIN
+Wednesday_NN
+,_,
+the_DT
+42-year-old_JJ
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+want_VB
+to_TO
+blame_VB
+Nawaz_NN
+entirely_AMP
+because_CAUS
+I_FPP1
+think_VPRT [PRIV] [THATD]
+he_TPP3
+did_VBD
+n't_XX0 [CONT]
+know_VB [PRIV]
+how_RB [WHCL]
+I_FPP1
+was_VBD
+feeling_VBG [PRIV]
+._.
+I_FPP1
+am_VPRT [BEMA]
+sure_RB
+he_TPP3
+must_NEMD
+have_VB [PEAS]
+had_VBD
+his_TPP3
+reasons_NN
+._.
+So_IN
+I_FPP1
+am_VPRT
+not_XX0
+pointing_VBG
+a_DT
+finger_NN
+at_PIN
+him_TPP3
+._.
+''_''
+When_RB
+asked_VBN [SUAV]
+if_COND
+she_TPP3
+is_VPRT
+planning_VBG
+to_TO
+file_VB
+a_DT
+complaint_NN
+with_PIN
+regards_VPRT
+to_PIN
+the_DT
+matter_NN
+,_,
+the_DT
+Hazaaron_NN
+Khwaishein_NN
+Aisi_NN
+actress_NN
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+intend_VB [SUAV]
+to_TO
+take_VB
+a_DT
+legal_JJ
+action_NOMZ
+._.
+The_DT
+producers_NN
+had_VBD [PEAS]
+told_VBN
+an_DT
+altogether_AMP
+different_JJ
+story_NN
+,_,
+that_DEMP
+'s_VPRT [CONT]
+why_RB
+I_FPP1
+had_VBD
+to_TO
+come_VB
+forward_RB
+and_CC
+share_VB
+all_QUAN
+that_DEMP
+._.
+''_''
+Chitrangada_NN
+Singh_NN
+further_JJ
+explained_VBD [PUBV]
+how_RB [WHCL]
+she_TPP3
+felt_VBD [PRIV]
+the_DT
+need_NN
+to_TO
+talk_VB
+about_IN
+the_DT
+alleged_JJ
+incident_NN
+in_PIN
+the_DT
+wake_NN
+of_PIN
+the_DT
+ongoing_JJ
+#MeToo_NN
+movement_NOMZ
+._.
+``_``
+Since_OSUB
+the_DT
+#MeToo_NN
+movement_NOMZ
+has_VPRT [PEAS]
+started_VBN
+,_,
+the_DT
+issue_NN
+came_VBD
+up_RP
+again_TIME
+and_CC
+that_DEMP
+'s_VPRT [CONT] [BEMA]
+the_DT
+reason_NN
+I_FPP1
+explained_VBD [PUBV]
+it_PIT
+again_TIME
+but_CC
+there_EX
+are_VPRT
+cases_NN
+which_WDT [WHSUB]
+are_VPRT [BEMA]
+worse_PRED
+than_PIN
+this_DEMP
+,_,
+''_''
+she_TPP3
+stated_VBD [PUBV]
+._.
+She_TPP3
+further_RB
+stated_VBD [PUBV]
+that_THVC
+there_EX
+are_VPRT
+cases_NN
+even_RB
+bad_JJ
+than_PIN
+hers_NN
+and_CC
+they_TPP3
+need_VPRT
+to_TO
+be_VB [PASS]
+dealt_VBN
+with_PIN
+responsibly_RB
+while_OSUB
+adding_VBG [PUBV]
+that_THVC
+people_NN
+can_POMD
+not_XX0
+be_VB [PASS]
+forced_VBN
+to_TO
+share_VB
+their_TPP3
+#MeToo_NN
+stories_NN
+._.
+The_DT
+actress_NN
+also_RB
+said_VBD [PUBV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+important_PRED
+for_PIN
+big_JJ
+names_NN
+of_PIN
+the_DT
+industry_NN
+to_TO
+support_VB
+the_DT
+movement_NOMZ
+._.
+On_PIN
+the_DT
+work_NN
+front_NN
+,_,
+Chitrangada_NN
+Singh_NN
+will_PRMD [SPAU]
+next_RB
+be_VB [PASS]
+seen_VBN [PRIV]
+in_PIN
+Baazaar_NN
+alongside_PLACE
+Saif_NN
+Ali_NN
+Khan_NN
+,_,
+Rohan_NN
+Mehra_NN
+and_PHC
+Radhika_NN
+Apte_NN
+._.
+The_DT
+film_NN
+will_PRMD
+hit_VB
+the_DT
+big_JJ
+screens_NN
+on_PIN
+October_NN
+26_CD
+._.

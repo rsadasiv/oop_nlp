@@ -1,0 +1,7 @@
+Emily_RB Frederick_NNP Clark_NNP -LRB-_-LRB- fl_NN ._.
+1798_CD ``_`` 1833_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN and_CC poet_NN ._.
+She_PRP was_VBD the_DT daughter_NN of_IN a_DT customs_NNS official_JJ named_VBN Clark_NNP -LRB-_-LRB- died_VBD 1824_CD -RRB-_-RRB- and_CC his_PRP$ wife_NN Elizabeth_NNP -LRB-_-LRB- died_VBD 1825_CD -RRB-_-RRB- ,_, who_WP was_VBD the_DT daughter_NN of_IN Felice_NNP Frederick_NNP -LRB-_-LRB- c._FW 1725_CD ``_`` 1797_CD -RRB-_-RRB- ._.
+On_IN the_DT title_NN pages_NNS of_IN her_PRP$ novels_NNS she_PRP made_VBD unsubstantiated_JJ claims_NNS to_TO be_VB the_DT great-granddaughter_NN of_IN Theodore_NNP ,_, King_NNP of_IN Corsica_NNP ._.
+Several_JJ of_IN her_PRP$ novels_NNS were_VBD set_VBN in_IN the_DT Welsh_NNP countryside_NN ._.
+Press_NNP attention_NN to_TO her_PRP$ work_NN dwindled_VBD and_CC she_PRP waged_VBD a_DT lifelong_JJ battle_NN against_IN penury_NN ._.
+Twenty-four_CD of_IN her_PRP$ 42_CD applications_NNS to_TO the_DT Royal_NNP Literary_NNP Fund_NNP were_VBD successful_JJ ;_: nothing_NN more_JJR is_VBZ known_VBN of_IN her_PRP$ after_IN the_DT last_JJ was_VBD sent_VBN in_IN 1833_CD ._.

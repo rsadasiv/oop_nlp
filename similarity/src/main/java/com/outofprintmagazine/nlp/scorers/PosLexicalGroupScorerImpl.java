@@ -9,9 +9,9 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
 
-import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
+import com.outofprintmagazine.nlp.scores.Score;
 
 import edu.mit.jwi.item.IIndexWord;
 import edu.mit.jwi.item.ISenseKey;

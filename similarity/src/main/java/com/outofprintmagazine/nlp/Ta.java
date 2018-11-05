@@ -32,37 +32,56 @@ import edu.stanford.nlp.paragraphs.ParagraphAnnotator;
 public class Ta {
 
 	private StanfordCoreNLP pipeline;
+	private StanfordCoreNLP wikiParser;
 	private IDictionary wordnet = null;
 	private HashMap<String, ArrayList<String>> verbnet = new HashMap<String, ArrayList<String>>();
 	private HashMap<String, HashMap<String, String>> dictionaries = new HashMap<String, HashMap<String, String>>();
 	private HashMap<String, List<String>> lists = new HashMap<String, List<String>>();
+
+	public static Properties getWikiProps() {
+		Properties props = new Properties();
+		props.setProperty("annotators","tokenize,ssplit,pos,lemma");
+		return props;
+	}
 	
 	public static Properties getDefaultProps() {
 		// set up pipeline properties
 		Properties props = new Properties();
 		// set the list of annotators to run
 	    // adding our own annotator property
-	    props.put("customAnnotatorClass.paragraphs",
+	    props.put("customAnnotatorClass.oop_paragraphs",
 	            "com.outofprintmagazine.nlp.annotators.ParagraphAnnotator");
-	    props.put("customAnnotatorClass.gender",
+	    props.put("customAnnotatorClass.oop_gender",
 	            "com.outofprintmagazine.nlp.annotators.GenderAnnotator");	    
 	    props.put("paragraphs.paragraphBreak", "two");
 
 	    // configure pipeline
 	//    edu.stanford.nlp.paragraphs.ParagraphAnnotator x = new edu.stanford.nlp.paragraphs.ParagraphAnnotator(props, verbose)
-		props.setProperty("annotators","tokenize,ssplit,pos,lemma,ner,parse,sentiment,paragraphs,gender,coref");
-		props.setProperty("ner.applyFineGrained", "true");
+		props.setProperty("annotators","tokenize,ssplit,pos,lemma,ner,parse,depparse,sentiment,oop_paragraphs,oop_gender,coref");
+	    props.setProperty("annotators", "tokenize,ssplit,pos,ner,lemma,gender,oop_paragraphs,oop_gender,parse,depparse,natlog,coref,openie,quote");
+	    //props.setProperty("annotators","tokenize,ssplit,pos,lemma,ner,parse,sentiment,oop_paragraphs,oop_gender");
+		props.setProperty("ner.applyFineGrained", "false");
 		//props.setProperty("dcoref.maxdist", "2");
 		props.setProperty("coref.algorithm", "statistical");
 		props.setProperty("coref.maxMentionDistance", "15");
 		props.setProperty("coref.maxMentionDistanceWithStringMatch", "300");
 		props.setProperty("coref.statisical.pairwiseScoreThresholds", ".5");
-		
+		props.setProperty("openie.resolve_coref", "true");
+		props.setProperty("parse.maxlen", "70");
+		props.setProperty("pos.maxlen", "70");
+		props.setProperty("ner.maxlen", "70");		
+		props.setProperty("ner.useSUTime", "false");
+		props.setProperty("ner.applyNumericClassifiers", "false");
+		props.setProperty("quote.maxLength", "70");
 		return props;
 	}
 	
 	public StanfordCoreNLP getPipeline() {
 		return pipeline;
+	}
+	
+	public StanfordCoreNLP getWikiPipeline() {
+		return wikiParser;
 	}
 
 
@@ -155,15 +174,21 @@ public class Ta {
 	public Ta(Properties props) throws IOException {
 		super();
 		pipeline = new StanfordCoreNLP(props);
+		wikiParser = new StanfordCoreNLP(getWikiProps());
 		wordnet = new Dictionary(new URL("file", null, "C:\\Users\\rsada\\git\\oop_nlp\\similarity\\resources\\wn3.1.dict\\dict"));
 		wordnet.open();
 	}
 	
 	public CoreDocument annotate(String text) {
+		return annotate(pipeline, text);
+
+	}
+	
+	public CoreDocument annotate(StanfordCoreNLP nlp, String text) {
 		// create a document object
 		CoreDocument document = new CoreDocument(text);
 		// annnotate the document
-		pipeline.annotate(document);
+		nlp.annotate(document);
 		return document;
 	}
 }

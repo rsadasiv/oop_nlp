@@ -1,0 +1,16 @@
+Emily_NNP Bowes_NNP Gosse_NNP -LRB-_-LRB- 10_CD November_NNP 1806_CD ''_'' 10_CD February_NNP 1857_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- -RRB-_-RRB- was_VBD a_DT Victorian_JJ painter_NN and_CC illustrator_NN ,_, and_CC writer_NN of_IN evangelical_JJ Christian_NNP poems_NNS and_CC tracts_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Emily_NNP Bowes_NNP was_VBD born_VBN in_IN London_NNP ,_, England_NNP to_TO William_NNP and_CC Hannah_NNP Bowes_NNP ,_, both_DT from_IN old_JJ New_NNP England_NNP families_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Her_PRP$ early_JJ years_NNS were_VBD divided_VBN between_IN Merioneth_NNP ,_, Exmouth_NNP and_CC London_NNP ,_, and_CC in_IN 1824_CD she_PRP commenced_VBD work_NN as_IN a_DT governess_NN to_TO Revd_NNP John_NNP Hawkins_NNP in_IN Berkshire_NNP ,_, later_RB moving_VBG to_TO the_DT home_NN of_IN Revd_NNP Sir_NNP Christopher_NNP John_NNP Musgrave_NNP ,_, in_IN Hove_NNP ._.
+After_IN these_DT spells_NNS ,_, Emily_NNP returned_VBD to_TO London_NNP to_TO stay_VB with_IN her_PRP$ parents_NNS in_IN Clapton_NNP ,_, North_NNP London_NNP ._.
+She_PRP attended_VBD the_DT Plymouth_NNP Brethren_NNP assembly_NN in_IN Hackney_NNP ,_, where_WRB she_PRP met_VBD her_PRP future_JJ husband_NN ,_, Philip_NNP Henry_NNP Gosse_NNP ._.
+They_PRP had_VBD known_VBN one_CD another_DT for_IN several_JJ years_NNS before_IN they_PRP married_VBD at_IN Brook_NNP Street_NNP Chapel_NNP ,_, Tottenham_NNP ,_, in_IN 1848_CD ._.
+Emily_RB was_VBD 42_CD ,_, her_PRP$ husband_NN several_JJ years_NNS younger_JJR ._.
+Emily_RB gave_VBD birth_NN to_TO their_PRP$ only_JJ child_NN ,_, Edmund_NNP in_IN 1849_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Emily_RB died_VBD in_IN Islington_NNP after_IN a_DT painful_JJ and_CC protracted_JJ battle_NN with_IN breast_NN cancer_NN ,_, and_CC was_VBD buried_VBN in_IN Abney_NNP Park_NNP Cemetery_NNP ,_, Stoke_NNP Newington_NNP ._.
+Her_PRP$ last_JJ words_NNS were_VBD reputed_VBN to_TO be_VB to_TO her_PRP$ husband_NN :_: ``_`` I_PRP shall_MD walk_VB with_IN Him_PRP in_IN white_JJ ._.
+Wo_NNP n't_RB you_PRP take_VB our_PRP$ lamb_NN and_CC walk_NN with_IN me_PRP ?_. ''_''
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Gosse_NNP was_VBD a_DT landscape_NN painter_NN ,_, having_VBG studied_VBN with_IN John_NNP Sell_VBP Cotman_NNP ._.
+Her_PRP$ work_NN includes_VBZ the_DT uncredited_JJ chromolithographs_NNS for_IN her_PRP$ husband_NN 's_POS book_NN The_DT Aquarium_NNP :_: an_DT unveiling_NN of_IN the_DT wonders_NNS of_IN the_DT deep_JJ sea_NN -LRB-_-LRB- 1854_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- Gosse_NNP was_VBD a_DT writer_NN of_IN Christian_NNP poetry_NN -LRB-_-LRB- 8_CD -RRB-_-RRB- and_CC a_DT prolific_JJ author_NN and_CC distributor_NN of_IN religious_JJ tracts_NNS ,_, as_IN for_IN example_NN in_IN Narrative_NNP Tracts_NNPS ,_, co-written_JJ with_IN her_PRP$ husband_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Her_PRP$ most_RBS noted_VBN publication_NN is_VBZ Abraham_NNP And_CC His_PRP$ Children_NNP -LRB-_-LRB- 1855_CD -RRB-_-RRB- ,_, a_DT set_NN of_IN object_NN lessons_NNS using_VBG Biblical_NNP characters_NNS to_TO illustrate_VB parenting_NN principles_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

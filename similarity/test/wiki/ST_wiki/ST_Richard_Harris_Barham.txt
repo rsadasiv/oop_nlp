@@ -1,0 +1,25 @@
+Richard_NNP Harris_NNP Barham_NNP -LRB-_-LRB- 6_CD December_NNP 1788_CD ''_'' 17_CD June_NNP 1845_CD -RRB-_-RRB- was_VBD an_DT English_JJ cleric_NN of_IN the_DT Church_NNP of_IN England_NNP ,_, a_DT novelist_NN and_CC a_DT humorous_JJ poet_NN ._.
+He_PRP was_VBD known_VBN generally_RB by_IN his_PRP$ pseudonym_NN Thomas_NNP Ingoldsby_NNP and_CC as_IN the_DT author_NN of_IN The_DT Ingoldsby_NNP Legends_NNP ._.
+Richard_NNP Harris_NNP Barham_NNP was_VBD born_VBN in_IN Canterbury_NNP ._.
+When_WRB he_PRP was_VBD seven_CD years_NNS old_JJ his_PRP$ father_NN died_VBD ,_, leaving_VBG him_PRP a_DT small_JJ estate_NN ,_, part_NN of_IN which_WDT was_VBD the_DT manor_NN of_IN Tappington_NNP ,_, in_IN Denton_NNP ,_, Kent_NNP ,_, mentioned_VBN so_RB frequently_RB in_IN his_PRP$ later_JJ publication_NN The_DT Ingoldsby_NNP Legends_NNP ._.
+At_IN the_DT age_NN of_IN nine_CD he_PRP was_VBD sent_VBN to_TO St_NNP Paul_NNP 's_POS School_NNP ,_, but_CC his_PRP$ studies_NNS were_VBD interrupted_VBN by_IN an_DT accident_NN which_WDT partially_RB crippled_VBD his_PRP$ arm_NN for_IN life_NN ._.
+Thus_RB deprived_VBN of_IN the_DT power_NN of_IN vigorous_JJ bodily_NN activity_NN ,_, he_PRP became_VBD a_DT great_JJ reader_NN and_CC diligent_JJ student_NN ._.
+During_IN 1807_CD he_PRP entered_VBD Brasenose_NNP College_NNP ,_, Oxford_NNP ,_, intending_VBG at_IN first_JJ to_TO study_VB for_IN the_DT Law_NN ._.
+Circumstances_NNS ,_, however_RB ,_, induced_VBD him_PRP to_TO decide_VB on_IN a_DT religious_JJ profession_NN ._.
+In_IN 1813_CD he_PRP was_VBD ordained_VBN and_CC accepted_VBN a_DT country_NN curacy_NN ;_: he_PRP married_VBD during_IN the_DT next_JJ year_NN ,_, and_CC in_IN 1821_CD he_PRP obtained_VBD the_DT appointment_NN of_IN minor_JJ canon_NN of_IN St._NNP Paul_NNP 's_POS Cathedral_NNP in_IN London_NNP ,_, where_WRB he_PRP served_VBD as_IN a_DT cardinal_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Three_CD years_NNS later_RB he_PRP became_VBD one_CD of_IN the_DT priests_NNS in_IN ordinary_JJ of_IN the_DT King_NNP 's_POS Chapel_NNP Royal_NNP ._.
+In_IN 1826_CD Barham_NNP first_RB contributed_VBD to_TO Blackwood_NNP 's_POS Magazine_NN ;_: and_CC in_IN 1837_CD he_PRP began_VBD to_TO write_VB for_IN a_DT recently_RB initiated_VBN magazine_NN ,_, Bentley_NNP 's_POS Miscellany_NNP ,_, a_DT series_NN of_IN tales_NNS -LRB-_-LRB- most_JJS of_IN them_PRP metrical_JJ ,_, some_DT in_IN prose_NN -RRB-_-RRB- known_VBN as_IN The_DT Ingoldsby_NNP Legends_NNP ._.
+These_DT became_VBD very_RB popular_JJ ._.
+They_PRP were_VBD published_VBN in_IN a_DT collected_VBN form_NN in_IN three_CD volumes_NNS between_IN 1840_CD and_CC 1847_CD ,_, and_CC have_VBP since_IN appeared_VBN in_IN numerous_JJ editions_NNS ._.
+They_PRP may_MD perhaps_RB be_VB compared_VBN to_TO Hudibras_NNP ._.
+The_DT stories_NNS are_VBP generally_RB whimsical_JJ ,_, but_CC based_VBN on_IN antiquarian_JJ learning_NN ._.
+-LRB-_-LRB- There_EX is_VBZ also_RB a_DT collection_NN of_IN Barham_NNP 's_POS miscellaneous_JJ poems_NNS ,_, edited_VBN posthumously_RB by_IN his_PRP$ son_NN ,_, called_VBN The_DT Ingoldsby_NNP Lyrics_NNS ._. -RRB-_-RRB-
+Barham_NNP was_VBD a_DT Tory_NNP politically_RB ;_: yet_CC he_PRP was_VBD a_DT lifelong_JJ friend_NN of_IN the_DT liberal_JJ Sydney_NNP Smith_NNP ._.
+Theodore_NNP Hook_NNP was_VBD one_CD of_IN his_PRP$ most_RBS intimate_JJ friends_NNS ._.
+Barham_NNP was_VBD a_DT contributor_NN to_TO the_DT Edinburgh_NNP Review_NNP and_CC the_DT Literary_NNP Gazette_NNP ;_: he_PRP wrote_VBD articles_NNS for_IN John_NNP Gorton_NNP 's_POS Biographical_NNP Dictionary_NNP ;_: and_CC a_DT novel_NN ,_, My_PRP$ Cousin_NN Nicholas_NNP -LRB-_-LRB- 1834_CD -RRB-_-RRB- ._.
+He_PRP died_VBD in_IN London_NNP on_IN 17_CD June_NNP 1845_CD ,_, after_IN a_DT long_JJ and_CC painful_JJ illness_NN ._.
+Barham_NNP is_VBZ a_DT character_NN in_IN George_NNP MacDonald_NNP Fraser_NNP 's_POS historical_JJ novel_NN Flashman_NNP 's_POS Lady_NNP ,_, he_PRP meets_VBZ the_DT main_JJ character_NN ,_, Harry_NNP Flashman_NNP ,_, while_IN watching_VBG a_DT public_JJ execution_NN ._.
+His_PRP$ last_JJ poem_NN As_IN I_PRP laye_VBP a-thynkynge_JJ ,_, was_VBD set_VBN to_TO music_NN by_IN the_DT English_NNP composer_NN Edward_NNP Elgar_NNP ,_, the_DT song_NN published_VBN in_IN 1888_CD ._.
+And_CC in_IN 1918_CD the_DT composer_NN Cyril_NNP Rootham_NNP set_VBD the_DT same_JJ poem_NN ,_, for_IN voice_NN and_CC piano_NN ._.
+There_EX is_VBZ a_DT pub_NN in_IN Burgate_NNP ,_, Canterbury_NNP ,_, near_IN the_DT cathedral_NN ,_, named_VBN The_DT Thomas_NNP Ingoldsby_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

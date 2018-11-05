@@ -1,0 +1,255 @@
+The_DT
+Uttar_NN
+Pradesh_NN
+government_NOMZ
+has_VPRT [PEAS]
+issued_VBN
+a_DT
+notification_NOMZ
+directing_VBG [WZPRES]
+its_PIT
+departments_NOMZ
+to_TO
+use_VB
+Prayagraj_NN
+instead_CONJ
+of_NULL
+Allahabad_NN
+for_PIN
+all_QUAN
+official_JJ
+purposes_NN
+,_,
+district_NN
+magistrate_NN
+Suhas_NN
+L_NN
+Y_NN
+said_VBD [PUBV]
+on_PIN
+Saturday_NN
+._.
+Governor_NN
+Ram_NN
+Naik_NN
+approved_VBD
+the_DT
+name_NN
+change_NN
+on_PIN
+Friday_NN
+and_CC
+the_DT
+order_NN
+comes_VPRT
+into_PIN
+force_NN
+with_PIN
+immediate_JJ
+effect_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.
+However_CONJ
+,_,
+it_PIT
+will_PRMD
+not_XX0
+have_VB
+any_QUAN
+bearing_GER
+on_PIN
+cases_NN
+already_RB
+in_PIN
+the_DT
+courts_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+a_DT
+release_NN
+from_PIN
+the_DT
+magistrate_NN
+'s_POS
+office_NN
+._.
+The_DT
+proposal_NN
+to_TO
+rename_VB
+the_DT
+historic_JJ
+city_NOMZ
+of_PIN
+Allahabad_NN
+as_IN
+Prayagraj_NN
+was_VBD [BYPA]
+approved_VBN
+by_PIN
+the_DT
+Uttar_NN
+Pradesh_NN
+Cabinet_NN
+on_PIN
+Tuesday_NN
+._.
+The_DT
+decision_NN
+was_VBD [PASS]
+taken_VBN
+at_PIN
+a_DT
+cabinet_NN
+meeting_GER
+presided_VBD
+over_RP
+by_PIN
+Chief_NN
+Minister_NN
+Yogi_NN
+Adityanath_NN
+,_,
+who_WP
+had_VBD [PEAS]
+said_VBN [PUBV] [THATD]
+this_DEMP
+was_VBD [BEMA]
+in_PIN
+keeping_VBG
+with_PIN
+the_DT
+wishes_NN
+of_PIN
+the_DT
+people_NN
+._.
+``_``
+The_DT
+BJP_NN
+government_NOMZ
+has_VPRT [PEAS]
+rectified_VBN
+the_DT
+mistake_NN
+made_VBN [WZPAST]
+by_PIN
+Akbar_NN
+,_,
+''_''
+a_DT
+state_NN
+BJP_NN
+spokesperson_NN
+had_VBD [PEAS]
+said_VBN [PUBV]
+._.
+Earlier_TIME
+,_,
+opposition_NOMZ
+parties_NN
+,_,
+including_VBG [PRESP]
+the_DT
+Samajwadi_NN
+Party_NN
+and_PHC
+Congress_NN
+,_,
+criticised_VBD
+the_DT
+decision_NN
+,_,
+which_WDT [SERE]
+comes_VPRT
+ahead_PLACE
+of_PIN
+the_DT
+Kumbh_NN
+Mela_NN
+in_PIN
+January_NN
+next_JJ
+year_NN
+._.
+Congress_NN
+spokesperson_NN
+Onkar_NN
+Singh_NN
+had_VBD [PEAS]
+said_VBN [PUBV]
+that_THVC
+the_DT
+region_NN
+where_RB
+Kumbh_NN
+is_VPRT [PASS]
+held_VBN [PRIV]
+is_VPRT [SPAU] [PASS]
+already_RB
+called_VBN
+Prayagraj_NN
+and_ANDC
+if_COND
+the_DT
+government_NOMZ
+is_VPRT [BEMA]
+so_EMPH
+eager_PRED
+,_,
+they_TPP3
+can_POMD
+make_VB
+it_PIT
+a_DT
+separate_JJ
+city_NOMZ
+,_,
+but_CC
+the_DT
+name_NN
+of_PIN
+Allahabad_NN
+should_NEMD
+not_XX0
+be_VB [PASS]
+changed_VBN
+._.
+Adityanath_NN
+had_VBD [PEAS]
+dismissed_VBN
+the_DT
+Opposition_NOMZ
+'s_POS
+criticism_NN
+saying_VBG [PUBV] [WZPRES]
+,_,
+``_``
+Those_DEMP
+who_WP
+are_VPRT
+opposing_VBG
+this_DEMP
+are_VPRT [BEMA]
+not_XX0
+aware_PRED
+of_PIN
+their_TPP3
+history_NN
+,_,
+culture_NN
+and_PHC
+traditions_NOMZ
+and_CC
+we_FPP1
+ca_POMD
+n't_XX0 [CONT]
+have_VB
+hopes_NN
+from_PIN
+them_TPP3
+._.
+''_''

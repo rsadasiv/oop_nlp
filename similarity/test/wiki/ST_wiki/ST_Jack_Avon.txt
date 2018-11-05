@@ -1,0 +1,12 @@
+Jack_NNP Avon_NNP is_VBZ a_DT financial_JJ consultant_NN and_CC writer_NN based_VBN in_IN the_DT United_NNP Kingdom_NNP ._.
+He_PRP is_VBZ the_DT author_NN of_IN The_DT Handbook_NNP of_IN Financial_NNP Modeling_NNP and_CC The_DT Basics_NNS of_IN Financial_NNP Modeling_NNP ,_, published_VBN in_IN New_NNP York_NNP in_IN 2013_CD and_CC 2014_CD respectively_RB ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC of_IN The_DT Bid_NNP Proposal_NNP Handbook_NNP ,_, published_VBN by_IN in_IN London_NNP in_IN May_NNP 2017_CD ._.
+His_PRP$ latest_JJS non-fiction_NN book_NN is_VBZ The_DT Interim_NNP Contractor_NNP ,_, published_VBN in_IN London_NNP in_IN 2017_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Avon_NNP is_VBZ a_DT world_NN expert_NN in_IN financial_JJ modelling_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- Jack_NNP Avon_NNP was_VBD born_VBN Lusaka_NNP ,_, the_DT capital_NN city_NN of_IN Zambia_NNP ,_, in_IN March_NNP 1967_CD ,_, where_WRB he_PRP lived_VBD until_IN he_PRP moved_VBD with_IN his_PRP$ family_NN to_TO the_DT United_NNP Kingdom_NNP in_IN June_NNP 1976_CD ._.
+In_IN March_NNP 1977_CD he_PRP moved_VBD to_TO Hong_NNP Kong_NNP with_IN his_PRP$ family_NN due_JJ to_TO his_PRP$ father_NN 's_POS work_NN ,_, spending_VBG a_DT year_NN in_IN Hong_NNP Kong_NNP and_CC attended_VBD Quarry_NNP Bay_NNP School_NNP and_CC Peak_NNP School_NNP ._.
+In_IN September_NNP 1978_CD he_PRP returned_VBD to_TO the_DT United_NNP Kingdom_NNP to_TO attend_VB Clayesmore_NNP Preparatory_NNP School_NNP in_IN Iwerne_NNP Minster_NNP ,_, Dorset_NNP and_CC then_RB Clayesmore_NNP School_NNP ._.
+He_PRP completed_VBD his_PRP$ higher_JJR education_NN at_IN Bournemouth_NNP University_NNP and_CC Royal_NNP Holloway_NNP ,_, University_NNP of_IN London_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- In_IN sport_NN ,_, Avon_NNP played_VBD rugby_NN ,_, field_NN hockey_NN and_CC cricket_NN and_CC competed_VBN in_IN athletics_NNS at_IN Clayesmore_NNP School_NNP ._.
+He_PRP has_VBZ played_VBN senior_JJ rugby_NN at_IN various_JJ clubs_NNS ,_, including_VBG Bournemouth_NNP RFC_NNP ,_, Purley_NNP RFC_NNP ,_, Saracen_NNP FC_NNP ,_, HKFC_NNP ,_, Dorset_NNP &_CC Wilts_NNP ,_, and_CC HKRFU_NNP ._.
+In_IN hockey_NN Avon_NNP has_VBZ played_VBN for_IN Dorset_NNP and_CC Wilts_NNP ,_, West_NNP of_IN England_NNP ,_, Poole_NNP HC_NNP ,_, Valley_NNP Hockey_NNP ,_, Hong_NNP Kong_NNP ,_, Surbiton_NNP HC_NNP and_CC Wimbledon_NNP HC_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB-

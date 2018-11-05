@@ -1,0 +1,6 @@
+Priyanka_NNP Chopra_NNP and_CC Nick_NNP Jonas_NNP have_VBP apparently_RB picked_VBN their_PRP$ wedding_NN date_NN ._.
+The_DT couple_NN ,_, who_WP got_VBD engaged_VBN in_IN July_NNP this_DT year_NN ,_, will_MD be_VB tying_VBG the_DT knot_NN on_IN December_NNP 2_CD in_IN Jodhpur_NNP ._.
+But_CC this_DT isn_NN <sup>_VBZ TM_NNP </sup>_NNP t_VBD the_DT only_RB big_JJ shaadi_NN on_IN the_DT cards_NNS in_IN B-Town_JJ ._.
+In_IN November_NNP ,_, it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ Deepika_NNP Padukone_NNP and_CC Ranveer_NNP Singh_NNP who_WP will_MD walk_VB down_IN the_DT aisle_NN ._.
+While_IN the_DT wedding_NN may_MD be_VB held_VBN between_IN November_NNP 12_CD to_TO 16_CD ,_, the_DT nuptials_NNS are_VBP likely_JJ to_TO take_VB place_NN on_IN November_NNP 13_CD ._.
+Unlike_IN PC-Nick_JJ ,_, DP-Ranveer_JJ <sup>_NN TM_NNP </sup>_NNP s_VBZ wedding_NN is_VBZ speculated_VBN to_TO be_VB a_DT destination_NN wedding_NN ,_, with_IN Lake_NNP Como_NNP ,_, Italy_NNP ,_, being_VBG the_DT frontrunner_NN for_IN the_DT big_JJ day_NN ._.

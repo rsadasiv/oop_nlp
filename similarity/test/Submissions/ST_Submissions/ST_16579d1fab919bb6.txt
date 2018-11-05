@@ -1,0 +1,316 @@
+From_IN :_: Nidhi_NNP Arora_NNP <nidhi.shireesh@gmail.com>_NNP Date_NNP :_: Fri_NNP ,_, 13_CD Jul_NNP 2018_CD at_IN 05:32_CD Subject_NNP :_: Submission_NNP To_TO :_: The_DT Editors_NNP <outofprintmagazine@gmail.com>_NNP Bio_NNP :_: Nidhi_NNP was_VBD born_VBN and_CC raised_VBN in_IN India_NNP and_CC currently_RB resides_VBZ in_IN Singapore_NNP with_IN her_PRP$ family_NN ._.
+She_PRP is_VBZ a_DT business_NN consultant_NN by_IN training_NN and_CC a_DT writer_NN by_IN passion_NN ._.
+She_PRP writes_VBZ short_JJ fiction_NN ,_, essays_NNS and_CC reviews_NNS ._.
+Her_PRP$ work_NN has_VBZ been_VBN published_VBN in_IN Cha_NNP ,_, Quarterly_JJ Literary_NNP Review_NNP of_IN Singapore_NNP ,_, Open_NNP Road_NNP Review_NNP ,_, Thrice_RB Fiction_NN ,_, Nanoism_NNP ,_, Burningword_NNP ,_, Mothers_NNP Always_NNP Write_VB and_CC other_JJ online_NN and_CC print_NN publications_NNS ._.
+\*_SYM It_PRP is_VBZ in_IN the_DT eyes_NNS \*_SYM Megha_NNP learned_VBD to_TO read_VB early_RB ._.
+It_PRP was_VBD a_DT month_NN before_IN her_PRP$ sixth_JJ birthday_NN when_WRB she_PRP finished_VBD her_PRP$ first_JJ big_JJ book_NN ._.
+It_PRP was_VBD the_DT Mystery_NNP of_IN the_DT Hidden_NNP House_NNP by_IN Enid_NNP Blyton_NNP ._.
+She_PRP had_VBD discovered_VBN it_PRP in_IN her_PRP$ father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ bookshelf_NN ,_, sandwiched_VBN between_IN his_PRP$ thick_JJ medical_JJ journals_NNS ._.
+The_DT pages_NNS had_VBD turned_VBN a_DT bright_JJ ochre_NN and_CC came_VBD off_RP at_IN the_DT slightest_JJS excuse_NN ._.
+Her_PRP$ grandmother_NN said_VBD that_IN one_CD of_IN her_PRP$ cousins_NNS had_VBD left_VBN it_PRP behind_IN many_JJ years_NNS ago_RB ,_, and_CC she_PRP had_VBD saved_VBN it_PRP for_IN Megha_NNP ,_, for_IN when_WRB she_PRP started_VBD reading_VBG ._.
+An_DT idle_JJ turning_NN of_IN pages_NNS in_IN search_NN of_IN pictures_NNS soon_RB gave_VBD way_NN to_TO an_DT earnest_JJ reading_NN of_IN the_DT book_NN and_CC Megha_NNP was_VBD drawn_VBN into_IN the_DT world_NN of_IN the_DT Five_CD Find-outers_NNS and_CC dog_NN ._.
+She_PRP read_VBD about_IN the_DT mysterious_JJ goings-on_NNS in_IN the_DT British_JJ village_NN of_IN Peterswood_NNP with_IN envy_NN ._.
+She_PRP imagined_VBD herself_PRP in_IN her_PRP$ their_PRP$ midst_NN ,_, holding_VBG secret_JJ meetings_NNS behind_IN her_PRP$ parents_NNS <sup>_VBP TM_NNP </sup>_NNP back_RB and_CC looking_VBG for_IN clues_NNS ._.
+Unlike_IN them_PRP ,_, <sup>_VBP ~_CD </sup>_JJ things_NNS <sup>_VBP TM_NNP </sup>_NNP never_RB happened_VBD to_TO her_PRP ,_, in_IN the_DT northern_JJ Indian_JJ town_NN of_IN Kanpur_NNP ._.
+Most_JJS of_IN her_PRP$ afternoons_NNS were_VBD spent_VBN in_IN the_DT dispensary_NN at_IN her_PRP$ father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ clinic_NN ._.
+Her_PRP$ father_NN ,_, Dr._NNP Gupta_NNP ,_, ran_VBD a_DT general_JJ family_NN clinic_NN and_CC her_PRP$ mother_NN ,_, Sunita_NNP ,_, managed_VBD its_PRP$ dispensary_JJ and_CC administrative_JJ affairs_NNS ._.
+The_DT dispensary_NN was_VBD separated_VBN from_IN the_DT clinic_NN by_IN a_DT door_NN and_CC a_DT square_NN window_NN in_IN the_DT wall_NN ._.
+It_PRP was_VBD brightly_RB lit_VBN with_IN two_CD fluorescent_JJ tube_NN lights_NNS and_CC smelled_VBN of_IN medicines_NNS that_WDT lined_VBD its_PRP$ walls_NNS from_IN top_JJ to_TO bottom_NN ._.
+After_IN school_NN ,_, Megha_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ cycle_NN \*_SYM ricksha_NN \*_SYM wa_FW \*_SYM llah_NN \*_SYM used_VBN to_TO drop_VB her_PRP$ at_IN the_DT clinic_NN ,_, where_WRB she_PRP would_MD spend_VB the_DT afternoon_NN doing_VBG her_PRP$ homework_NN or_CC napping_NN on_IN the_DT off-white_JJ counter_NN top_NN ,_, while_IN Sunita_NNP went_VBD about_IN her_PRP$ work_NN ._.
+On_IN days_NNS with_IN few_JJ patients_NNS ,_, Sunita_NNP asked_VBD her_PRP to_TO help_VB in_IN dispensing_VBG medicines_NNS that_WDT Dr._NNP Gupta_NNP prescribed_VBD ,_, by_IN pointing_VBG out_RP to_TO where_WRB they_PRP were_VBD stocked_VBN in_IN the_DT room_NN ._.
+They_PRP started_VBD with_IN A_DT for_IN Avil_NNP ,_, B_NNP for_IN Benadryl_NNP ,_, C_NNP for_IN Crocin_NNP and_CC so_RB on_IN ,_, but_CC before_RB long_JJ Megha_NNP surprised_VBD her_PRP$ mother_NN by_IN reading_VBG out_RB longer_RB names_NNS like_IN paracetamol_NN and_CC amoxicillin_NN ._.
+Her_PRP$ personal_JJ favorite_NN was_VBD Tixylix_NNP ._.
+Sunita_NNP gave_VBD it_PRP to_TO her_PRP$ many_JJ times_NNS ,_, whenever_WRB she_PRP had_VBD a_DT cough_NN ._.
+After_IN a_DT few_JJ years_NNS of_IN working_VBG with_IN Dr._NNP Gupta_NNP ,_, Sunita_NNP considered_VBD herself_PRP half_PDT a_DT doctor_NN as_RB well_RB ,_, and_CC doled_VBD out_RP medicines_NNS for_IN common_JJ ailments_NNS to_TO family_NN and_CC friends_NNS ._.
+Megha_NNP liked_VBD the_DT sweet_JJ taste_NN of_IN Tixylix_NNP and_CC the_DT picture_NN of_IN a_DT girl_NN sleeping_VBG with_IN a_DT doll_NN with_IN golden_JJ hair_NN ._.
+But_CC most_JJS of_IN all_DT ,_, she_PRP liked_VBD the_DT musical_JJ name_NN ._.
+It_PRP tickled_VBD her_PRP$ tongue_NN ._.
+So_RB much_RB so_IN that_IN she_PRP decided_VBD to_TO name_VB her_PRP$ imaginary_JJ dog_NN Tixy_NNP ._.
+For_IN Megha_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ sixth_JJ birthday_NN ,_, Sunita_NNP bought_VBD her_PRP a_DT collection_NN of_IN three_CD Find_VB Outer_NNP mysteries_NNS ._.
+When_WRB they_PRP realized_VBD that_IN one_CD of_IN them_PRP was_VBD another_DT copy_NN of_IN Hidden_NNP House_NNP ,_, Megha_NNP was_VBD not_RB too_RB disappointed_JJ and_CC Sunita_NNP was_VBD not_RB too_RB bothered_VBN ._.
+They_PRP were_VBD both_DT content_NN that_WDT Megha_NNP had_VBD two_CD new_JJ adventures_NNS to_TO dive_NN into_IN ._.
+Sunita_NNP worked_VBD in_IN broad_JJ strokes_NNS ._.
+She_PRP had_VBD been_VBN managing_VBG the_DT clinic_NN for_IN eight_CD years_NNS now_RB ,_, nearly_RB as_RB long_JJ as_IN she_PRP had_VBD been_VBN married_VBN to_TO Dr._NNP Gupta_NNP ._.
+Their_PRP$ match_NN had_VBD been_VBN pulled_VBN together_RB by_IN a_DT common_JJ family_NN friend_NN ._.
+Mrs._NNP Gupta_NNP was_VBD an_DT affable_JJ lady_NN ._.
+She_PRP took_VBD an_DT immediate_JJ liking_NN to_TO her_PRP$ prospective_JJ daughter-in-law_NN ._.
+Sunita_NNP was_VBD in_IN her_PRP$ final_JJ year_NN of_IN Home_NNP Science_NNP ,_, and_CC Mrs._NNP Gupta_NNP insisted_VBD that_IN she_PRP complete_VB her_PRP$ degree_NN after_IN the_DT marriage_NN ._.
+That_DT was_VBD also_RB the_DT time_NN when_WRB Dr._NNP Gupta_NNP was_VBD setting_VBG up_RP his_PRP$ own_JJ practice_NN ._.
+After_IN clearing_VBG her_PRP$ exams_NNS ,_, Sunita_NNP offered_VBD to_TO manage_VB the_DT administrative_JJ affairs_NNS of_IN the_DT practice_NN for_IN Dr._NNP Saab_NNP ,_, as_IN she_PRP called_VBD him_PRP respectfully_RB ._.
+oeLet_NNP him_PRP focus_VB on_IN his_PRP$ \*_SYM doctori_NN \*_SYM and_CC leave_VB the_DT rest_NN to_TO me_PRP ,_, ''_'' she_PRP suggested_VBD to_TO Mrs._NNP Gupta_NNP ._.
+Mrs._NNP Gupta_NNP warmed_VBD up_RP to_TO the_DT idea_NN immediately_RB and_CC championed_VBD it_PRP as_IN if_IN it_PRP were_VBD her_PRP$ own_JJ ._.
+oeOf_NNP course_NN !_.
+Who_WP better_JJR than_IN you_PRP to_TO manage_VB the_DT clinic_NN ?_. ''_''
+she_PRP said_VBD marveling_NN at_IN the_DT beauty_NN of_IN the_DT arrangement_NN ._.
+oeAnd_VB what_WP better_JJR than_IN this_DT for_IN you_PRP ?_.
+Home_NNP \*_SYM and_CC \*_SYM science_NN !_. ''_''
+Chuffed_VBN with_IN her_PRP$ own_JJ line_NN ,_, she_PRP repeated_VBD it_PRP to_TO every_DT relative_JJ and_CC neighbor_NN till_IN it_PRP became_VBD part_NN of_IN family_NN lore_NN ._.
+That_DT managing_VBG the_DT clinic_NN was_VBD neither_DT home_NN nor_CC science_NN bothered_VBN no_DT one_NN ,_, least_JJS of_IN all_DT Sunita_NNP ._.
+She_PRP had_VBD grown_VBN up_RB in_IN a_DT lower-middle_JJ class_NN family_NN with_IN five_CD siblings_NNS and_CC considered_VBN herself_PRP lucky_JJ to_TO have_VB a_DT degree_NN in_IN any_DT subject_NN at_IN all_DT ._.
+She_PRP proved_VBD herself_PRP more_JJR than_IN capable_JJ ._.
+She_PRP booked_VBD appointments_NNS for_IN her_PRP$ husband_NN ,_, and_CC when_WRB his_PRP$ diary_NN was_VBD full_JJ ,_, she_PRP sneaked_VBD in_IN walk-in_NN patients_NNS whenever_WRB she_PRP could_MD ._.
+She_PRP took_VBD over_RP the_DT medicine_NN supplies_NNS and_CC entertained_VBD the_DT medical_JJ reps._NN The_DT clinic_NN became_VBD more_RBR crowded_JJ than_IN before_RB and_CC a_DT shade_NN disorderly_JJ with_IN magazines_NNS and_CC newspapers_NNS lying_VBG around_IN ,_, but_CC Dr._NNP Gupta_NNP was_VBD happy_JJ to_TO be_VB relieved_VBN of_IN administrative_JJ distractions_NNS and_CC focused_VBD solely_RB on_IN his_PRP$ practice_NN ._.
+For_IN her_PRP$ part_NN ,_, Mrs._NNP Gupta_NNP looked_VBD after_IN the_DT house_NN and_CC continued_VBD her_PRP$ benevolent_JJ reign_NN over_IN the_DT kitchen_NN ._.
+When_WRB Megha_NNP was_VBD born_VBN a_DT year_NN later_RB ,_, she_PRP took_VBD on_RP her_PRP$ new_JJ responsibilities_NNS of_IN a_DT Dadi_NNP with_IN such_JJ energy_NN and_CC enthusiasm_NN ,_, that_IN Sunita_NNP had_VBD no_DT qualms_NNS going_VBG back_RB to_TO the_DT clinic_NN as_RB soon_RB as_IN the_DT forty_JJ days_NNS were_VBD over_RB ._.
+Dr._NNP Gupta_NNP was_VBD a_DT devout_JJ Hindu_NNP and_CC believed_VBN in_IN good_JJ \*_SYM karma_FW \*_SYM ._.
+Grateful_NNP for_IN a_DT healthy_JJ child_NN ,_, he_PRP decided_VBD to_TO do_VB pro_FW bono_FW work_NN ._.
+Every_DT day_NN ,_, from_IN five_CD to_TO six_CD pm_NN he_PRP opened_VBD the_DT clinic_NN to_TO the_DT poor_JJ for_IN free_JJ treatment_NN ._.
+The_DT word_NN spread_NN and_CC maid_NN servants_NNS ,_, \*_SYM ricksha_NN \*_SYM \*_SYM wallahs_NNS ,_, \*_SYM manual_NN labourers_NNS and_CC their_PRP$ children_NNS flocked_VBD to_TO the_DT clinic_NN ._.
+All_DT her_PRP$ growing_VBG years_NNS ,_, Sunita_NNP had_VBD struggled_VBN to_TO make_VB ends_NNS meet_VB and_CC had_VBD little_JJ regard_NN for_IN charity_NN ._.
+She_PRP resented_VBD these_DT people_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ claim_NN to_TO her_PRP$ husband_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ time_NN and_CC to_TO her_PRP$ clinic_NN which_WDT ,_, for_IN that_DT one_CD hour_NN ,_, smelled_VBN of_IN filth_NN ,_, of_IN days_NNS <sup>_VBP TM_NNP </sup>_NNP old_JJ sweat_NN ,_, of_IN strife_NN and_CC suffering_NN ,_, things_NNS that_IN she_PRP had_VBD been_VBN happy_JJ to_TO leave_VB behind_RB ._.
+oeThey_NNP should_MD go_VB to_TO the_DT government_NN hospital_NN if_IN they_PRP want_VBP free_JJ treatment_NN ,_, ''_'' she_PRP had_VBD argued_VBN when_WRB she_PRP first_RB came_VBD to_TO know_VB about_IN it_PRP ._.
+oeThis_NNP is_VBZ your_PRP$ clinic_NN ,_, not_RB a_DT refugee_NN camp_NN ._. ''_''
+oeThey_NNP have_VBP to_TO wait_VB for_IN hours_NNS there_RB ._.
+And_CC do_VB you_PRP know_VB ,_, they_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD even_RB have_VB any_DT medicines_NNS most_JJS of_IN the_DT time_NN ,_, ''_'' he_PRP said_VBD ._.
+oeIt_NNP is_VBZ only_RB one_CD hour_NN ,_, Sunita_NNP \*_SYM ji_FW \*_SYM ._.
+How_WRB does_VBZ it_PRP matter_VB ?_. ''_''
+oeHow_NNP does_VBZ it_PRP matter_VB ?_.
+You_PRP could_MD see_VB four_CD or_CC five_CD \*_SYM real_JJ \*_SYM patients_NNS in_IN that_DT time_NN ._. ''_''
+oeWe_NNP have_VBP enough_RB ,_, by_IN God_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ grace_NN ,_, ''_'' he_PRP said_VBD ._.
+She_PRP was_VBD far_RB from_IN convinced_JJ ,_, but_CC it_PRP did_VBD not_RB look_VB like_IN a_DT battle_NN she_PRP was_VBD going_VBG to_TO win_VB ,_, so_IN she_PRP left_VBD it_PRP at_IN that_DT ._.
+Now_RB that_IN Megha_NNP was_VBD old_JJ enough_RB ,_, for_IN that_DT one_CD hour_NN ,_, Sunita_NNP told_VBD her_PRP to_TO go_VB out_RP and_CC play_VB ._.
+The_DT house_NN next_JJ door_NN had_VBD recently_RB changed_VBN hands_NNS ._.
+The_DT new_JJ owners_NNS were_VBD pulling_VBG it_PRP down_RB and_CC building_VBG a_DT new_JJ house_NN in_IN its_PRP$ stead_NN ._.
+The_DT construction_NN work_NN mesmerized_VBN Megha_NNP ._.
+She_PRP sat_VBD on_IN a_DT mound_NN of_IN gravel_NN outside_IN the_DT gate_NN of_IN the_DT house_NN with_IN her_PRP$ book_NN and_CC stared_VBD at_IN the_DT iron_NN rods_NNS sticking_VBG out_IN of_IN the_DT ground_NN like_IN fingers_NNS of_IN a_DT hungry_JJ monster_NN ._.
+The_DT pile_NN of_IN red_JJ bricks_NNS near_IN the_DT gate_NN diminished_VBN and_CC systematically_RB resurfaced_VBD on_IN the_DT other_JJ side_NN in_IN the_DT form_NN of_IN low_JJ red_JJ walls_NNS ._.
+The_DT men_NNS sawed_VBD iron_NN rods_NNS and_CC slapped_VBD bricks_NNS with_IN cement_NN to_TO the_DT rhythm_NN of_IN drilling_NN ,_, knocking_VBG and_CC hammering_VBG ._.
+They_PRP waved_VBD to_TO her_PRP ._.
+Sometimes_RB she_PRP waved_VBD back_RB ,_, in_IN awkward_JJ jerky_JJ movements_NNS ._.
+Sometimes_RB she_PRP ran_VBD away_RB ._.
+It_PRP took_VBD her_PRP a_DT few_JJ weeks_NNS to_TO read_VB one_CD of_IN the_DT new_JJ mysteries_NNS ._.
+After_IN she_PRP put_VBD it_PRP down_RP ,_, she_PRP felt_VBD an_DT uncontrollable_JJ urge_NN to_TO do_VB some_DT on-the-ground_JJ detective_NN work_NN herself_PRP ._.
+Not_RB to_TO be_VB left_VBN out_IN of_IN the_DT fun_NN ,_, Mrs._NNP Gupta_NNP made_VBD her_PRP a_DT special_JJ note_NN book_NN with_IN unused_JJ papers_NNS from_IN last_JJ year_NN <sup>_IN TM_NNP </sup>_NNP s_VBZ notebooks_NNS sown_VBN together_RB ._.
+She_PRP made_VBD a_DT cloth_NN cover_NN from_IN a_DT printed_VBN handkerchief_NN with_IN oeMegha_NNP ''_'' embroidered_VBN on_IN it_PRP in_IN chain_NN stitch_NN ._.
+Megha_NNP wrote_VBD her_PRP$ name_NN on_IN the_DT first_JJ page_NN and_CC drew_VBD a_DT line_NN down_IN the_DT second_JJ page_NN and_CC labeled_VBD the_DT two_CD columns_NNS <sup>_VBP ~_CD </sup>_JJ Clues_NNS <sup>_VBP TM_NNP </sup>_NNP and_CC <sup>_NNP ~_NNP </sup>_NNP Suspects_VBZ <sup>_JJ TM_NNP </sup>_NNP ._.
+oeBut_NNP what_WDT are_VBP you_PRP going_VBG to_TO look_VB for_IN ?_. ''_''
+Mrs._NNP Gupta_NNP asked_VBD ,_, with_IN a_DT twinkle_NN in_IN her_PRP$ eye_NN ._.
+oeI_NNP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD know_VB ..._: clues_NNS ,_, ''_'' said_VBD Megha_NNP ._.
+oeClues_NNS to_TO what_WP ?_. ''_''
+oeTo_NNP a_DT mystery_NN ._. ''_''
+oeWhat_NNP is_VBZ the_DT mystery_NN ?_. ''_''
+oeI_NNP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD know_VB yet_RB ._.
+I_PRP need_VBP to_TO find_VB that_IN too_RB ,_, ''_'' Megha_NNP said_VBD ,_, with_IN fervor_NN ._.
+oeOk_NNP ,_, tell_VBP me_PRP what_WP you_PRP find_VBP ._.
+I_PRP can_MD be_VB your_PRP$ assistant_NN !_. ''_''
+she_PRP said_VBD ._.
+In_IN the_DT afternoon_NN ,_, armed_VBN with_IN a_DT notebook_NN ,_, pencil_NN and_CC a_DT small_JJ polythene_NN bag_NN ,_, and_CC with_IN Tixy_NNP in_IN tow_NN ,_, Megha_NNP set_VBD about_IN looking_VBG for_IN clues_NNS ._.
+No_DT one_NN had_VBD gone_VBN missing_JJ and_CC nothing_NN had_VBD been_VBN reported_VBN stolen_VBN ,_, not_RB as_IN far_RB as_IN she_PRP knew_VBD ._.
+But_CC as_IN she_PRP had_VBD learned_VBN ,_, a_DT true_JJ detective_NN did_VBD not_RB wait_VB for_IN things_NNS to_TO happen_VB ._.
+The_DT new_JJ house_NN looked_VBD like_IN a_DT good_JJ place_NN to_TO begin_VB ._.
+She_PRP started_VBD at_IN the_DT gravel_NN mound_NN and_CC took_VBD slow_JJ steps_NNS ,_, scanning_VBG the_DT ground_NN for_IN anything_NN unusual_JJ ._.
+Patches_NNS of_IN brown_JJ grass_NN stared_VBD back_RB at_IN her_PRP ._.
+Along_IN the_DT wall_NN ,_, where_WRB muddy_JJ water_NN had_VBD collected_VBN ,_, fresh_JJ green_JJ leaves_NNS were_VBD peeking_VBG out_IN of_IN the_DT ground_NN ,_, and_CC amongst_IN them_PRP were_VBD tiny_JJ ,_, light_JJ purple_JJ flowers_NNS with_IN a_DT yellow_JJ center_NN ._.
+The_DT same_JJ flowers_NNS grew_VBD by_IN the_DT side_NN of_IN her_PRP$ school_NN wall_NN ._.
+Encouraged_JJ ,_, she_PRP trudged_VBD on_IN ._.
+She_PRP picked_VBD a_DT scrap_NN of_IN paper_NN with_IN something_NN scribbled_VBD in_IN \*_SYM Hindi_NNP \*_SYM ._.
+She_PRP saw_VBD a_DT green_JJ marble_NN and_CC a_DT burnt_JJ end_NN of_IN a_DT \*_NN beedi_NN \*_SYM she_PRP had_VBD often_RB seen_VBN the_DT workers_NNS smoke_NN and_CC that_IN went_VBD in_IN the_DT bag_NN too_RB ._.
+Inside_IN the_DT gate_NN was_VBD an_DT L-shaped_JJ corridor_NN running_VBG down_IN the_DT left_JJ side_NN ,_, for_IN car_NN parking_NN ,_, all_PDT the_DT way_NN to_TO the_DT back_NN ._.
+The_DT back_JJ wall_NN was_VBD up_RB and_CC she_PRP could_MD hear_VB men_NNS at_IN work_NN behind_IN it_PRP ._.
+Tixy_NNP ,_, hot_JJ on_IN the_DT trail_NN of_IN something_NN ,_, tugged_VBN at_IN her_PRP$ socks_NNS impatiently_RB to_TO walk_VB along_IN the_DT corridor_NN which_WDT was_VBD lined_VBN with_IN more_JJR \*_SYM beedi_FW \*_SYM ends_VBZ ._.
+As_IN they_PRP approached_VBD the_DT end_NN of_IN the_DT passage_NN and_CC turned_VBD right_RB ,_, Megha_NNP saw_VBD a_DT man_NN squatting_VBG under_IN the_DT shade_NN of_IN a_DT ledge_NN ,_, smoking_VBG a_DT \*_SYM beedi_FW \*_SYM ._.
+He_PRP was_VBD dark_JJ and_CC looked_VBD very_RB strong_JJ ._.
+He_PRP wore_VBD a_DT skull_NN cap_NN and_CC had_VBD a_DT pencil_NN wedged_VBD behind_IN his_PRP$ left_JJ ear_NN ._.
+Behind_IN him_PRP was_VBD a_DT big_JJ wooden_JJ table_NN with_IN tools_NNS of_IN all_DT shapes_NNS and_CC sizes_NNS ._.
+The_DT floor_NN was_VBD strewn_VBN with_IN wood_NN shavings_NNS ,_, spiral_NN flowers_NNS ,_, big_JJ and_CC small_JJ ,_, smelling_VBG of_IN freshly_RB cut_VBN wood_NN ._.
+One_CD of_IN the_DT saws_NNS was_VBD as_RB long_JJ as_IN her_PRP$ arm_NN ._.
+Megha_NNP wondered_VBD if_IN they_PRP had_VBD found_VBN their_PRP$ first_JJ suspect_NN ._.
+oeAre_NNP you_PRP cleaning_VBG this_DT place_NN ?_. ''_''
+he_PRP grinned_VBD and_CC asked_VBD ,_, looking_VBG at_IN her_PRP$ bag_NN ._.
+He_PRP had_VBD yellow_JJ teeth_NNS ,_, brown_JJ at_IN the_DT edges_NNS ._.
+She_PRP mutely_RB shook_VBD her_PRP$ head_NN ._.
+oeYou_NNP are_VBP the_DT doctor_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ girl_NN ,_, isn_FW <sup>_FW TM_FW </sup>_FW t_FW it_PRP ?_. ''_''
+She_PRP nodded_VBD slowly_RB ._.
+oeWhat_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ the_DT name_NN ?_. ''_''
+he_PRP asked_VBD ._.
+oeMegha_NNP ,_, ''_'' she_PRP mumbled_VBD ._.
+oeAre_NNP you_PRP going_VBG to_TO be_VB a_DT doctor_NN too_RB when_WRB you_PRP grow_VBP up_RP ?_. ''_''
+With_IN a_DT close-lipped_JJ smile_NN ,_, she_PRP shook_VBD her_PRP$ head_NN slowly_RB from_IN side_NN to_TO side_NN ._.
+She_PRP leaned_VBD toward_IN him_PRP ,_, opened_VBD her_PRP$ mouth_NN revealing_VBG two_CD missing_JJ upper_JJ teeth_NNS ,_, said_VBD ,_, oeDetective_NNP ,_, ''_'' and_CC scooted_VBD out_IN of_IN there_EX back_RB to_TO the_DT clinic_NN ,_, with_IN Tixy_NNP on_IN her_PRP$ heels_NNS ._.
+She_PRP quickly_RB opened_VBD her_PRP$ notebook_NN and_CC documented_VBD all_PDT the_DT clues_NNS she_PRP had_VBD collected_VBN ._.
+Under_IN Suspects_NNPS ,_, she_PRP wrote_VBD <sup>_NNP ~_NNP </sup>_NNP \*_SYM Man_NN with_IN brown_JJ teeth_NNS <sup>_VBP TM_NNP </sup>_NNP \*_SYM ._.
+She_PRP was_VBD not_RB entirely_RB sure_JJ about_IN him_PRP ,_, but_CC not_RB having_VBG a_DT single_JJ suspect_NN after_IN an_DT entire_JJ afternoon_NN of_IN sleuthing_NN would_MD not_RB do_VB ._.
+The_DT next_JJ afternoon_NN ,_, the_DT duo_NN set_VBN forth_RB again_RB ._.
+She_PRP was_VBD lingering_VBG at_IN the_DT gate_NN when_WRB she_PRP heard_VBD a_DT shout_NN ._.
+The_DT man_NN with_IN brown_JJ teeth_NNS was_VBD gesturing_VBG her_PRP$ to_TO come_VB inside_RB ._.
+She_PRP looked_VBD down_RP as_IN Tixy_NNP for_IN opinion_NN ._.
+oeDo_NNP you_PRP think_VBP he_PRP is_VBZ dangerous_JJ ?_. ''_''
+Tixy_NNP wagged_VBD her_PRP$ tail_NN enthusiastically_RB ,_, and_CC so_IN they_PRP both_DT went_VBD ahead_RB ._.
+The_DT man_NN held_VBN out_RP in_IN his_PRP$ hand_NN a_DT perfectly_RB round_JJ sphere_NN made_VBN of_IN wood_NN ,_, about_IN an_DT inch_NN in_IN diameter_NN ._.
+oeTake_VB it_PRP ,_, ''_'' he_PRP said_VBD and_CC shoved_VBD it_PRP gently_RB to_TO her_PRP ._.
+She_PRP picked_VBD it_PRP from_IN his_PRP$ hand_NN and_CC looked_VBD it_PRP over_RP ._.
+It_PRP rolled_VBD smoothly_RB on_IN her_PRP$ palm_NN ._.
+oeWhat_NNP is_VBZ it_PRP ?_. ''_''
+she_PRP asked_VBD ._.
+oeYou_NNP like_IN marbles_NNS ,_, no_DT ?_.
+This_DT is_VBZ for_IN you_PRP ,_, ''_'' he_PRP said_VBD ._.
+She_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD particularly_RB ,_, but_CC it_PRP seemed_VBD rude_JJ to_TO say_VB no_DT ,_, so_IN she_PRP took_VBD it_PRP ._.
+She_PRP examined_VBD it_PRP closely_RB but_CC remained_VBN by_IN and_CC large_JJ unimpressed_JJ ._.
+oeWhere_NNP did_VBD you_PRP find_VB it_PRP ?_. ''_''
+oeI_NNP made_VBD it_PRP ,_, ''_'' he_PRP said_VBD ,_, pointing_VBG to_TO his_PRP$ work_NN bench_NN ._.
+oeDid_NNP you_PRP make_VBP these_DT flowers_NNS too_RB ?_. ''_''
+She_PRP pointed_VBD to_TO the_DT spiral_NN shavings_VBZ on_IN the_DT floor_NN ._.
+This_DT amused_VBD the_DT man_NN ._.
+oeThese_VB ?_. ''_''
+he_PRP asked_VBD and_CC scooped_VBD up_RP a_DT handful_NN and_CC gave_VBD them_PRP to_TO Megha_NNP ._.
+She_PRP said_VBD a_DT hurried_VBN thank_VBP you_PRP and_CC ran_VBD back_RB ._.
+He_PRP was_VBD turning_VBG out_RP be_VB an_DT unlikely_JJ suspect_NN ._.
+She_PRP took_VBD up_RP the_DT matter_NN with_IN her_PRP$ assistant_NN in_IN the_DT evening_NN ._.
+Mrs._NNP Gupta_NNP was_VBD reading_VBG her_PRP$ Hindi_NNP newspaper_NN when_WRB Megha_NNP came_VBD to_TO her_PRP ._.
+The_DT front_JJ page_NN had_VBD pictures_NNS of_IN a_DT golden_JJ chariot_NN ,_, decorated_VBN with_IN garlands_NNS of_IN marigolds_NNS and_CC roses_NNS ._.
+In_IN it_PRP ,_, were_VBD two_CD old_JJ men_NNS ,_, smiling_VBG and_CC holding_VBG large_JJ swords_NNS ._.
+oeWhat_NNP are_VBP they_PRP doing_VBG ?_. ''_''
+Megha_NNP asked_VBD ,_, leaning_VBG on_IN her_PRP ._.
+The_DT year_NN was_VBD 1992_CD and_CC the_DT men_NNS were_VBD leaders_NNS of_IN the_DT right_JJ wing_NN political_JJ party_NN who_WP were_VBD claiming_VBG that_IN the_DT historical_JJ mosque_NN in_IN the_DT nearby_JJ city_NN of_IN Ayodhya_NNP had_VBD no_DT business_NN being_VBG there_RB ,_, because_IN the_DT site_NN was_VBD the_DT birthplace_NN of_IN the_DT Hindu_NNP god_NN ,_, Lord_NNP Ram_NNP ._.
+They_PRP were_VBD threatening_VBG to_TO demolish_VB it_PRP and_CC construct_VB a_DT temple_NN instead_RB ._.
+oeThey_NNP are_VBP going_VBG to_TO pull_VB down_RP a_DT mosque_NN and_CC build_VB a_DT temple_NN in_IN its_PRP$ place_NN ,_, ''_'' she_PRP replied_VBD ._.
+oeWhy_NNP ?_. ''_''
+oeThey_NNP say_VBP that_IN place_NN belongs_VBZ to_TO their_PRP$ god_NN ''_'' oeBut_NNP you_PRP said_VBD god_NN is_VBZ everywhere_RB ,_, no_DT ?_. ''_''
+oeYes_NNS ,_, my_PRP$ dear_RB ._.
+But_CC so_RB is_VBZ evil_JJ ,_, ''_'' oeWhat_NNP is_VBZ evil_JJ ?_. ''_''
+oeBad_JJ people_NNS ._. ''_''
+oeLike_NNP these_DT men_NNS ?_. ''_''
+oeMaybe_NN ._.
+There_EX is_VBZ good_JJ and_CC evil_JJ in_IN all_DT of_IN us_PRP ._.
+But_CC leave_VB all_PDT this_DT ._. ''_''
+She_PRP folded_VBD the_DT newspaper_NN and_CC kept_VBD it_PRP on_IN aside_RB ._.
+oeYou_NNP tell_VBP me_PRP ,_, did_VBD you_PRP find_VB any_DT clues_NNS today_NN ?_. ''_''
+Megha_NNP produced_VBD the_DT wooden_JJ marble_NN and_CC asked_VBD if_IN she_PRP thought_VBD the_DT man-with-brown-teeth_NN was_VBD evil_JJ too_RB ._.
+oeNo_NNP ,_, ''_'' she_PRP clicked_VBD her_PRP$ tongue_NN definitively_RB ._.
+oeHe_NNP is_VBZ just_RB a_DT poor_JJ man_NN with_IN a_DT kind_NN heart_NN ._. ''_''
+She_PRP pressed_VBD the_DT wooden_JJ ball_NN tightly_RB between_IN her_PRP$ hands_NNS and_CC rolled_VBD it_PRP ,_, massaging_VBG her_PRP$ palms_NNS ._.
+oeIt_NNP is_VBZ not_RB in_IN the_DT teeth_NNS ,_, it_PRP is_VBZ in_IN the_DT eyes_NNS ._.
+Next_JJ time_NN you_PRP are_VBP looking_VBG for_IN someone_NN suspicious_JJ ,_, look_VB at_IN their_PRP$ eyes_NNS ,_, ''_'' she_PRP said_VBD ._.
+oeBut_NNP how_WRB will_MD I_PRP know_VB if_IN a_DT person_NN is_VBZ a_DT suspect_NN ?_. ''_''
+oeOh_NNP ,_, you_PRP <sup>_VBP TM_NNP </sup>_NNP ll_NN know_VBP ,_, I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN telling_VBG you_PRP ._. ''_''
+Megha_NNP looked_VBD deflated_VBN ._.
+oeI_NNP won_VBD <sup>_JJ TM_NNP </sup>_NNP t._IN I_PRP <sup>_VBP TM_NNP </sup>_NNP ll_VBD never_RB become_VBN a_DT clever_JJ detective_NN ._.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ been_VBN two_CD days_NNS and_CC I_PRP am_VBP not_RB finding_VBG anything_NN ._.
+I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD know_VB where_WRB to_TO look_VB ,_, what_WP to_TO look_VB for_IN ._. ''_''
+oe_NN \*_SYM Arre_NN !_.
+\*_SYM What_WP is_VBZ the_DT big_JJ deal_NN in_IN that_DT ._.
+Didn_NNP <sup>_NNP TM_NNP </sup>_NNP t_VB your_PRP$ detective_NN friends_NNS tell_VBP you_PRP ,_, all_DT a_DT good_JJ detective_NN has_VBZ to_TO do_VB is_VBZ to_TO keep_VB her_PRP$ eyes_NNS open_VB all_PDT the_DT time_NN ._.
+Who_WP knows_VBZ ,_, you_PRP might_MD find_VB someone_NN right_RB here_RB ,_, inside_IN this_DT house_NN ,_, ''_'' she_PRP said_VBD and_CC made_VBD a_DT fierce_JJ face_NN with_IN her_PRP$ nose_NN scrunched_VBD and_CC eyes_NNS opened_VBD wide_JJ ._.
+But_CC all_DT Megha_NNP saw_VBD in_IN them_PRP was_VBD herself_PRP and_CC laughed_VBD ._.
+One_CD chilly_JJ morning_NN in_IN early_JJ December_NNP ,_, Megha_NNP arose_VBD up_RP to_TO realize_VB that_IN no_DT one_NN had_VBD woken_VBN her_PRP$ to_TO go_VB to_TO school_NN ._.
+She_PRP shuffled_VBD to_TO the_DT living_NN room_NN and_CC found_VBD her_PRP$ parents_NNS and_CC grandmother_NN sitting_VBG on_IN the_DT sofa_NN ,_, listening_VBG intently_RB to_TO news_NN on_IN the_DT television_NN ._.
+Their_PRP$ living_NN room_NN consisted_VBD of_IN a_DT dining_NN area_NN and_CC a_DT lounge_NN with_IN a_DT television_NN ._.
+No_DT one_NN spoke_VBD ._.
+Megha_NNP was_VBD thrilled_VBN with_IN the_DT unexpected_JJ holiday_NN and_CC did_VBD not_RB understand_VB why_WRB everyone_NN looked_VBD grim_JJ ._.
+Over_IN a_DT glass_NN of_IN warm_JJ milk_NN her_PRP$ grandmother_NN told_VBD her_PRP that_IN school_NN was_VBD closed_VBN that_DT day_NN ._.
+In_IN fact_NN ,_, the_DT whole_JJ town_NN was_VBD closed_VBN ._.
+The_DT mosque_NN in_IN Ayodhya_NNP had_VBD been_VBN demolished_VBN ._.
+Riots_NNS had_VBD broken_VBN out_RP between_IN the_DT Hindu_NNP and_CC Muslim_NNP communities_NNS in_IN other_JJ cities_NNS across_IN the_DT state_NN and_CC it_PRP was_VBD not_RB safe_JJ to_TO leave_VB the_DT house_NN ._.
+oeWhy_NNP are_VBP these_DT people_NNS fighting_VBG ?_. ''_''
+Megha_NNP asked_VBD ._.
+For_IN once_RB ,_, Mrs._NNP Gupta_NNP was_VBD at_IN a_DT loss_NN for_IN words_NNS ._.
+How_WRB was_VBD she_PRP to_TO explain_VB the_DT hatred_NN and_CC violence_NN to_TO the_DT child_NN ._.
+oeThey_NNP are_VBP angry_JJ that_IN their_PRP$ mosque_NN was_VBD broken_VBN ,_, ''_'' she_PRP replied_VBD ._.
+oeWho_NNP is_VBZ winning_VBG ,_, the_DT good_JJ people_NNS or_CC the_DT bad_JJ people_NNS ?_. ''_''
+she_PRP asked_VBD ._.
+Sunita_NNP jumped_VBD in_IN to_TO her_PRP$ mother-in-law_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ rescue_NN and_CC asked_VBD Megha_NNP ,_, oeSo_NNP ,_, do_VBP you_PRP want_VBP to_TO come_VB with_IN us_PRP to_TO the_DT clinic_NN or_CC stay_VB at_IN home_NN with_IN Dadi_NNP ?_. ''_''
+oeYou_NNP are_VBP opening_VBG the_DT clinic_NN today_NN ?_.
+Isn_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD everything_NN closed_VBN ?_. ''_''
+she_PRP asked_VBD ._.
+oeOur_NNP area_NN is_VBZ quite_RB safe_JJ ,_, nothing_NN will_MD happen_VB ,_, ''_'' Sunita_NNP sad_JJ ._.
+oeAnd_NNP in_IN case_NN something_NN does_VBZ happen_VB ,_, we_PRP should_MD be_VB there_RB to_TO help_VB ,_, ''_'' Dr._NNP Gupta_NNP added_VBD ._.
+This_DT was_VBD not_RB Sunita_NNP had_VBD in_IN mind_NN ,_, but_CC the_DT words_NNS had_VBD been_VBN said_VBN ,_, and_CC heard_VBD ._.
+If_IN doctors_NNS needed_VBN to_TO be_VB there_RB ,_, so_RB did_VBD detectives_NNS ._.
+Megha_NNP eagerly_RB got_VBD ready_JJ ,_, packed_VBD her_PRP$ water_NN bottle_NN ,_, notebook_NN and_CC pencil_NN and_CC went_VBD with_IN her_PRP$ parents_NNS ._.
+As_IN she_PRP was_VBD leaving_VBG ,_, Mrs._NNP Gupta_NNP called_VBD out_RP to_TO her_PRP ._.
+oeIf_NNP you_PRP see_VB your_PRP$ marble-friend_NN ,_, tell_VB him_PRP to_TO be_VB careful_JJ ,_, alright_NN ?_. ''_''
+oeWhy_NNP ?_. ''_''
+oeJust_NNP like_IN that_DT ._.
+Now_RB go_VB ._. ''_''
+As_RB soon_RB as_IN they_PRP opened_VBD the_DT clinic_NN ,_, Sunita_NNP switched_VBD on_IN the_DT news_NN in_IN the_DT waiting_VBG room_NN television_NN ._.
+The_DT clinic_NN was_VBD quiet_JJ that_IN morning_NN and_CC Dr._NNP Gupta_NNP sat_VBD in_IN the_DT waiting_VBG room_NN with_IN them_PRP ,_, watching_VBG the_DT news_NN ._.
+Around_IN noon_NN ,_, Mrs._NNP Gupta_NNP telephoned_VBD to_TO say_VB that_IN she_PRP had_VBD heard_VBN about_IN some_DT skirmishes_NNS in_IN their_PRP$ neighborhood_NN as_RB well_RB ._.
+oeLooks_NNS like_IN the_DT afternoon_NN is_VBZ going_VBG to_TO be_VB busy_JJ ,_, ''_'' Sunita_NNP said_VBD ._.
+After_IN lunch_NN the_DT first_JJ casualties_NNS started_VBD coming_VBG in_IN ._.
+Two_CD young_JJ men_NNS brought_VBN in_IN an_DT elderly_JJ man_NN who_WP had_VBD been_VBN injured_VBN ._.
+One_CD of_IN them_PRP held_VBD a_DT cloth_NN to_TO the_DT man_NN <sup>_VBN TM_NNP </sup>_NNP s_VBZ forehead_NN to_TO stop_VB the_DT bleeding_NN ._.
+The_DT other_JJ one_CD held_VBD his_PRP$ spectacles_NNS ._.
+One_CD of_IN the_DT lenses_NNS had_VBD cracked_VBN ._.
+The_DT injured_JJ man_NN <sup>_VBN TM_NNP </sup>_NNP s_VBZ white_JJ \*_SYM kurta_FW \*_SYM had_VBD turned_VBN red_JJ around_IN the_DT collar_NN ._.
+People_NNS were_VBD throwing_VBG stones_NNS at_IN each_DT other_JJ ,_, they_PRP said_VBD ._.
+The_DT elderly_JJ man_NN had_VBD gone_VBN out_RP to_TO the_DT street_NN to_TO stop_VB them_PRP but_CC had_VBD been_VBN caught_VBN in_IN the_DT pelting_JJ himself_PRP ._.
+Megha_NNP was_VBD used_VBN to_TO seeing_VBG blood_NN ._.
+She_PRP could_MD tell_VB that_IN the_DT wound_NN was_VBD deep_JJ and_CC estimated_VBD that_IN he_PRP would_MD get_VB nine_CD stitches_NNS ._.
+But_CC it_PRP was_VBD the_DT glasses_NNS she_PRP could_MD not_RB take_VB her_PRP$ eyes_NNS off_RP ._.
+The_DT men_NNS left_VBD it_PRP on_IN the_DT center_NN table_NN in_IN the_DT waiting_VBG room_NN and_CC went_VBD in_IN with_IN Dr._NNP Saab_NNP ._.
+The_DT crack_NN was_VBD on_IN the_DT left_JJ corner_NN of_IN the_DT left_JJ lens_NN ,_, and_CC looked_VBD like_IN a_DT spider_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ web_NN ._.
+Megha_NNP was_VBD drawn_VBN to_TO it_PRP like_IN an_DT insect_NN ._.
+She_PRP walked_VBD over_IN to_TO the_DT table_NN ,_, knelt_NN on_IN the_DT floor_NN and_CC stared_VBD through_IN the_DT broken_JJ lens_NN ._.
+It_PRP trapped_VBD sunlight_NN from_IN the_DT window_NN and_CC broke_VBD it_PRP into_IN tiny_JJ rainbows_NNS ._.
+The_DT glass_NN around_IN the_DT cracks_NNS had_VBD turned_VBN a_DT powdery_NN opaque_NN and_CC allowed_VBD only_RB fuzzy_JJ silhouettes_NNS of_IN the_DT newspapers_NNS ,_, the_DT table_NN ,_, the_DT green_JJ carpet_NN and_CC the_DT black_JJ dust_NN bin_NN ._.
+The_DT right_JJ lens_NN was_VBD intact_JJ ,_, and_CC showed_VBD the_DT world_NN with_IN a_DT sharp_JJ clarity_NN ,_, although_IN severely_RB bent_JJ and_CC much_JJ too_RB small_JJ ,_, as_IN if_IN she_PRP was_VBD looking_VBG down_RP a_DT steep_JJ hill_NN ._.
+She_PRP rested_VBD her_PRP$ chin_NN on_IN the_DT table_NN and_CC rocked_VBD her_PRP$ head_NN from_IN one_CD lens_NN to_TO another_DT ,_, like_IN a_DT pendulum_NN ,_, wondering_VBG if_IN the_DT two_CD visions_NNS would_MD merge_VB if_IN she_PRP oscillated_VBD fast_RB enough_RB ._.
+oeThat_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ enough_RB ,_, ''_'' Sunita_NNP said_VBD to_TO her_PRP$ crossly_RB ,_, as_IN she_PRP came_VBD out_IN of_IN the_DT clinic_NN ._.
+Dr._NNP Saab_NNP had_VBD just_RB told_VBN her_PRP not_RB to_TO charge_VB the_DT elderly_JJ man_NN or_CC anyone_NN else_RB who_WP was_VBD injured_VBN in_IN the_DT fight_NN ._.
+oeIt_JJ doesn_NN <sup>_NN TM_NNP </sup>_NNP t_VBD feel_VB right_RB ,_, ''_'' he_PRP said_VBD ._.
+Sunita_NNP was_VBD annoyed_VBN ._.
+This_DT was_VBD not_RB something_NN she_PRP had_VBD agreed_VBN to_TO ,_, but_CC now_RB was_VBD not_RB the_DT time_NN to_TO argue_VB ._.
+More_RBR wounded_JJ men_NNS streamed_VBN in_IN ._.
+Megha_NNP decided_VBD to_TO take_VB Tixy_NNP for_IN a_DT walk_NN and_CC pass_VB Dadi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ message_NN to_TO the_DT man-with-brown-teeth_NN ._.
+But_CC the_DT gate_NN next_JJ door_NN was_VBD locked_VBN and_CC there_EX was_VBD no_DT work_NN being_VBG done_VBN in_IN the_DT house_NN ._.
+Bored_JJ ,_, she_PRP sauntered_VBD back_RB into_IN the_DT clinic_NN ,_, which_WDT was_VBD now_RB buzzing_VBG with_IN activity_NN ._.
+As_IN Sunita_NNP scurried_VBD between_IN the_DT doctor_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ chamber_NN and_CC the_DT medicine_NN room_NN ,_, Megha_NNP listened_VBD to_TO what_WP Dr._NNP Gupta_NNP needed_VBD ,_, got_VBD it_PRP down_RP from_IN the_DT shelves_NNS and_CC kept_VBD it_PRP ready_JJ before_IN Sunita_NNP arrived_VBD ._.
+Cotton_NN ,_, gauze_NN ,_, tincture_NN ,_, soframycin_NN ,_, codeine_NN ._.
+Sunita_NNP was_VBD about_IN to_TO tell_VB her_PRP to_TO sit_VB quietly_RB and_CC not_RB mess_NN with_IN medicines_NNS but_CC was_VBD relieved_VBN to_TO see_VB that_IN she_PRP was_VBD more_JJR help_NN than_IN trouble_NN ._.
+She_PRP checked_VBD the_DT expiry_NN dates_NNS before_IN taking_VBG the_DT bottles_NNS from_IN Megha_NNP back_RB to_TO the_DT doctor_NN ._.
+The_DT evening_NN wore_VBD on_IN ._.
+They_PRP had_VBD seen_VBN eleven_JJ men_NNS and_CC the_DT waiting_VBG room_NN was_VBD finally_RB empty_JJ ._.
+The_DT last_JJ patient_NN in_IN the_DT chamber_NN came_VBD with_IN a_DT broken_JJ arm_NN and_CC injuries_NNS to_TO his_PRP$ forehead_NN ._.
+Dr._NNP Saab_NNP called_VBD for_IN tincture_NN from_IN his_PRP$ clinic_NN ._.
+oeThe_NNP one_CD that_WDT finished_VBD was_VBD the_DT last_JJ one_CD ,_, ''_'' Megha_NNP said_VBD ,_, worried_VBN ._.
+oeWe_NNP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_NN have_VBP any_DT more_JJR ._. ''_''
+The_DT nearest_JJS chemist_NN was_VBD a_DT five-minute_JJ \*_SYM ricksha_NN \*_SYM ride_NN away_RB and_CC even_RB if_IN they_PRP were_VBD able_JJ to_TO find_VB a_DT \*_NN ricksha_NN \*_SYM ,_, it_PRP was_VBD not_RB safe_JJ to_TO go_VB out_RP ._.
+oeNo_NNP ,_, no_DT ,_, I_PRP have_VBP a_DT new_JJ bottle_NN in_IN the_DT store_NN ,_, ''_'' Sunita_NNP said_VBD ._.
+She_PRP dug_VBD out_RP a_DT four_CD hundred_CD ml_NN bottle_NN of_IN Compound_NN Benzoin_NNP Tincture_NNP from_IN a_DT stack_VB of_IN cartons_NNS in_IN the_DT store_NN ,_, dusted_VBD it_PRP clean_JJ and_CC rolled_VBD it_PRP in_IN her_PRP$ hands_NNS to_TO check_VB the_DT date_NN ._.
+It_PRP had_VBD expired_VBN a_DT month_NN ago_RB ._.
+Her_PRP$ brows_NNS burrowed_VBN ,_, and_CC she_PRP took_VBD a_DT deep_JJ inhale_NN ._.
+oeWhat_NNP happened_VBD ?_. ''_''
+Megha_NNP asked_VBD ,_, having_VBG read_VBN and_CC confirmed_VBN the_DT name_NN on_IN the_DT label_NN ._.
+Sunita_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ legs_NNS felt_VBD heavy_JJ with_IN exhaustion_NN ._.
+It_PRP was_VBD past_JJ six_CD in_IN the_DT evening_NN and_CC dark_JJ outside_NN ._.
+This_DT was_VBD the_DT last_JJ patient_NN ._.
+Megha_NNP needed_VBD to_TO bathe_VB ,_, eat_VB and_CC sleep_VB ._.
+Hopefully_RB schools_NNS would_MD reopen_VB tomorrow_NN ._.
+Although_IN ,_, she_PRP could_MD hear_VB the_DT news_NN reporter_NN announcing_VBG that_IN incidents_NNS of_IN violence_NN were_VBD spreading_VBG to_TO other_JJ parts_NNS of_IN the_DT country_NN now_RB ,_, and_CC in_IN all_DT likelihood_NN the_DT \*_NN bandh_NN \*_SYM would_MD continue_VB ._.
+oeTincture_NNP ,_, ''_'' Dr._NNP Saab_NNP called_VBD gently_RB from_IN the_DT other_JJ room_NN ,_, oblivious_JJ to_TO the_DT rumblings_NNS in_IN the_DT world_NN outside_IN of_IN his_PRP$ sanctum_NN ._.
+For_IN a_DT moment_NN ,_, Sunita_NNP stared_VBD at_IN the_DT chamber_NN door_NN blankly_RB ,_, not_RB focused_VBN on_IN anything_NN ._.
+Then_RB she_PRP transferred_VBD some_DT of_IN orange_NN liquid_NN from_IN the_DT big_JJ bottle_NN into_IN the_DT small_JJ one_CD in_IN her_PRP$ hand_NN and_CC rushed_VBD back_RB inside_RB ._.
+Megha_NNP pored_VBD over_IN the_DT label_NN of_IN big_JJ bottle_NN ,_, but_CC those_DT were_VBD big_JJ words_NNS and_CC numbers_NNS in_IN very_RB small_JJ print_NN ,_, and_CC they_PRP didn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD tell_VB her_PRP$ anything_NN ._.
+The_DT next_JJ evening_NN ,_, Sunita_NNP came_VBD home_NN alone_RB ._.
+Dr._NNP Gupta_NNP had_VBD received_VBN a_DT phone_NN call_NN from_IN the_DT family_NN of_IN one_CD his_PRP$ patients_NNS and_CC had_VBD gone_VBN for_IN a_DT home_NN visit_NN ._.
+Megha_NNP and_CC Mrs._NNP Gupta_NNP had_VBD eaten_VBN while_IN Sunita_NNP waited_VBD for_IN Dr._NNP Saab_NNP ,_, to_TO eat_VB together_RB ._.
+Mrs._NNP Gupta_NNP sat_VBD on_IN the_DT sofa_NN ,_, knitting_VBG a_DT multi-colored_JJ sweater_NN for_IN Megha_NNP and_CC catching_VBG up_RP on_IN the_DT day_NN <sup>_VB TM_NNP </sup>_NNP s_VBZ events_NNS with_IN Sunita_NNP ._.
+Megha_NNP lay_VBD with_IN a_DT new_JJ mystery_NN book_NN ,_, her_PRP$ head_NN in_IN her_PRP$ Dadi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ lap_NN ._.
+Every_DT few_JJ minutes_NNS ,_, she_PRP looked_VBD up_RB and_CC followed_VBD Dadi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ fingers_NNS as_IN they_PRP danced_VBD nimbly_RB ,_, one_CD stitch_NN after_IN another_DT ,_, without_IN having_VBG to_TO look_VB at_IN the_DT needles_NNS ._.
+The_DT only_JJ time_NN she_PRP had_VBD to_TO ,_, was_VBD when_WRB she_PRP completed_VBD two_CD rows_NNS and_CC had_VBD to_TO change_VB to_TO a_DT different_JJ colored_VBN yarn_NN ._.
+The_DT soft_JJ fabric_NN that_WDT grew_VBD from_IN those_DT needles_NNS waved_VBD gently_RB with_IN every_DT knit_VBN and_CC brushed_VBN against_IN Megha_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ face_NN ._.
+Dr._NNP Gupta_NNP came_VBD home_NN around_IN nine_CD pm_NN ,_, scrubbed_VBD and_CC changed_VBD before_IN sitting_VBG down_RP to_TO eat_VB ._.
+He_PRP told_VBD them_PRP about_IN the_DT emergency_NN ._.
+Sunita_NNP served_VBD food_NN in_IN both_DT their_PRP$ plates_NNS while_IN Megha_NNP and_CC Mrs._NNP Gupta_NNP listened_VBD from_IN the_DT sofa_NN ._.
+It_PRP turned_VBD out_RP to_TO be_VB one_CD of_IN the_DT men_NNS he_PRP had_VBD seen_VBN the_DT day_NN before_RB ._.
+He_PRP had_VBD high_JJ fever_NN and_CC the_DT skin_NN around_IN his_PRP$ wound_NN had_VBD blisters_NNS ._.
+oeIt_NNP got_VBD infected_VBN ._.
+I_PRP took_VBD him_PRP to_TO the_DT government_NN hospital_NN and_CC got_VBD him_PRP admitted_VBN ._. ''_''
+oeIs_NNS he_PRP going_VBG to_TO be_VB alright_VBN ?_. ''_''
+Mrs._NNP Gupta_NNP asked_VBD ._.
+Sunita_NNP was_VBD staring_VBG blankly_RB at_IN the_DT table_NN ,_, her_PRP$ brows_NNS coming_VBG together_RB ._.
+oeShould_NNP be_VB ._.
+We_PRP <sup>_VBP TM_NNP </sup>_NNP ll_NN know_VBP tomorrow_NN ._.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP ll_NN check_NN on_IN him_PRP in_IN the_DT morning_NN before_IN clinic_NN ,_, ''_'' he_PRP said_VBD ._.
+Megha_NNP sprang_VBD and_CC turned_VBD around_RP to_TO face_VB them_PRP ._.
+oeWas_NNS he_PRP the_DT last_JJ one_CD yesterday_NN ?_. ''_''
+He_PRP had_VBD seen_VBN far_RB too_RB many_JJ patients_NNS in_IN the_DT last_JJ two_CD days_NNS to_TO remember_VB this_DT and_CC looked_VBD at_IN her_PRP$ blankly_NN ._.
+oeThe_NNP one_CD with_IN the_DT broken_JJ arm_NN ?_.
+Right_RB ,_, Mummy_NNP ?_. ''_''
+she_PRP prodded_VBD ,_, now_RB looking_VBG at_IN Sunita_NNP ,_, her_PRP$ head_NN bursting_VBG with_IN possibilities_NNS ._.
+Sunita_NNP was_VBD jerked_VBN out_IN of_IN her_PRP$ reverie_NN and_CC turned_VBD to_TO Megha_NNP ._.
+She_PRP did_VBD not_RB say_VB anything_NN ._.
+Megha_NNP looked_VBD at_IN her_PRP$ mother_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ eyes_NNS and_CC saw_VBD the_DT answer_NN staring_VBG at_IN her_PRP ._.
+Silence_NN hung_VBD heavy_JJ in_IN the_DT air_NN ._.
+Megha_NNP slumped_VBD back_RB into_IN the_DT sofa_NN and_CC sunk_VBD her_PRP$ face_NN in_IN the_DT warmth_NN of_IN her_PRP$ grandmother_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ fold_VB ._.
+End_NN

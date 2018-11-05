@@ -1,0 +1,95 @@
+Police_NN
+in_PIN
+Pakistan_NN
+say_VPRT [PUBV]
+a_DT
+methane_NN
+gas_NN
+explosion_NN
+in_PIN
+a_DT
+coal_NN
+mine_NN
+has_VPRT [PEAS]
+killed_VBN
+at_PIN
+least_JJ
+four_CD
+miners_NN
+and_CC
+trapped_VBN
+13_CD
+others_NN
+._.
+Local_JJ
+police_NN
+official_JJ
+Wajeet_NN
+Khan_NN
+says_VPRT [PUBV] [THATD]
+the_DT
+blast_NN
+happened_VBD
+Sunday_NN
+in_PIN
+the_DT
+village_NN
+of_PIN
+Sanjdi_NN
+,_,
+about_IN
+50_CD
+kilometers_NN
+-LRB-_-LRB-
+30_CD
+miles_NN
+-RRB-_-RRB-
+east_PLACE
+of_PIN
+Quetta_NN
+._.
+He_TPP3
+says_VPRT [PUBV] [THATD]
+rescuers_NN
+have_VPRT [PEAS]
+retrieved_VBN
+four_CD
+bodies_NN
+and_CC
+that_THVC
+13_CD
+other_JJ
+miners_NN
+are_VPRT
+missing_VBG
+and_PHC
+feared_VBN [PRIV]
+dead_JJ
+,_,
+with_PIN
+rescue_NN
+operations_NOMZ
+hindered_VBN [WZPAST]
+by_PIN
+the_DT
+gas_NN
+leak_NN
+._.
+Cave-ins_NN
+and_CC
+other_JJ
+mining_NN
+accidents_NN
+in_PIN
+Pakistan_NN
+are_VPRT [SPAU] [PASS]
+often_RB
+attributed_VBN
+to_PIN
+the_DT
+poor_JJ
+enforcement_NOMZ
+of_PIN
+safety_NN
+regulations_NOMZ
+._.

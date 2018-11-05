@@ -1,0 +1,262 @@
+Info_NNP has_VBZ been_VBN found_VBN -LRB-_-LRB- +_CD \/_SYM -_: 100_CD pages_NNS ,_, and_CC 4.5_CD MB_NN of_IN ._.
+pdf_NN files_NNS -RRB-_-RRB- Now_RB i_FW have_VBP to_TO wait_VB untill_JJ our_PRP$ team_NN leader_NN has_VBZ processed_VBN it_PRP and_CC learns_VBZ html_NN ._.
+These_DT are_VBP the_DT team_NN members_NNS :_: Drewes_NNS van_NN der_NN Laag_NNP mail_NN Ruiyu_NNP Xie_NNP mail_NN Bryan_NNP Aaldering_NNP -LRB-_-LRB- me_PRP -RRB-_-RRB- mail_NN In_IN het_NN kader_NN van_NN kernfusie_NN op_NN aarde_NN :_: MAAK_NNP JE_NNP EIGEN_NNP WATERSTOFBOM_NNP How_WRB to_TO build_VB an_DT H-Bomb_NN From_IN :_: ascott@tartarus.uwa.edu.au_NN -LRB-_-LRB- Andrew_NNP Scott_NNP -RRB-_-RRB- Newsgroups_NNS :_: rec_NN ._.
+humor_NN Subject_NNP :_: How_WRB To_TO Build_VB An_DT H-Bomb_JJ -LRB-_-LRB- humorous_JJ !_. -RRB-_-RRB-
+Date_NN :_: 7_CD Feb_NNP 1994_CD 07:41:14_CD GMT_NNP Organization_NNP :_: The_NNP University_NNP of_IN Western_NNP Australia_NNP Original_NNP file_NN dated_VBN 12th_JJ November_NNP 1990_CD ._.
+Seemed_VBN to_TO be_VB a_DT transcript_NN of_IN a_DT ``_`` Seven_CD Days_NNS ''_'' article_NN ._.
+Poorly_RB formatted_VBN and_CC corrupted_VBN ._.
+I_PRP have_VBP added_VBN the_DT text_NN between_IN ``_`` examine_VB under_IN a_DT microscope_NN ''_'' and_CC ``_`` malleable_JJ ,_, like_IN gold_NN ,_, ''_'' as_IN it_PRP was_VBD missing_VBG ._.
+If_IN anyone_NN has_VBZ the_DT full_JJ text_NN ,_, please_VB distribute_VB ._.
+I_PRP am_VBP not_RB responsible_JJ for_IN the_DT accuracy_NN of_IN this_DT information_NN ._.
+Converted_VBN to_TO HTML_NNP by_IN Dionisio@InfiNet.com_NNP 11\/13\/98_CD ._.
+-LRB-_-LRB- Did_VBD a_DT little_JJ spell-checking_NN and_CC some_DT minor_JJ edits_NNS too_RB ._. -RRB-_-RRB-
+Stolen_NNP from_IN http:\/\/my.ohio.voyager.net\/~dionisio\/fun\/m...own-h-bomb.html_JJ and_CC reformatted_VBD the_DT HTML_NNP ._.
+It_PRP now_RB validates_VBZ to_TO XHTML_NNP 1.0_CD Strict_JJ ._.
+How_WRB to_TO Build_VB an_DT H-Bomb_JJ Making_VBG and_CC owning_VBG an_DT H-bomb_NN is_VBZ the_DT kind_NN of_IN challenge_NN real_JJ Americans_NNPS seek_VBP ._.
+Who_WP wants_VBZ to_TO be_VB a_DT passive_NN victim_NN of_IN nuclear_JJ war_NN when_WRB ,_, with_IN a_DT little_JJ effort_NN ,_, you_PRP can_MD be_VB an_DT active_JJ participant_NN ?_.
+Bomb_NN shelters_NNS are_VBP for_IN losers_NNS ._.
+Who_WP wants_VBZ to_TO huddle_VB together_RB underground_JJ eating_NN canned_VBD Spam_NNP ?_.
+Winners_NNS want_VBP to_TO push_VB the_DT button_NN themselves_PRP ._.
+Making_VBG your_PRP$ own_JJ H-bomb_NN is_VBZ a_DT big_JJ step_NN in_IN nuclear_JJ assertiveness_NN training_NN --_: it_PRP 's_VBZ called_VBN Taking_VBG Charge_NNP ._.
+We_PRP 're_VBP sure_JJ you_PRP 'll_MD enjoy_VB the_DT risks_NNS and_CC the_DT heady_JJ thrill_NN of_IN playing_VBG nuclear_JJ chicken_NN ._.
+Introduction_NN When_WRB the_DT Feds_NNP clamped_VBD down_RP on_IN The_DT Progressive_JJ magazine_NN for_IN attempting_VBG to_TO publish_VB an_DT article_NN on_IN the_DT manufacture_NN of_IN the_DT hydrogen_NN bomb_NN ,_, it_PRP piqued_VBD our_PRP$ curiosity_NN ._.
+Was_VBD it_PRP really_RB true_JJ that_IN atomic_JJ and_CC hydrogen_NN bomb_NN technology_NN was_VBD so_RB simple_JJ you_PRP could_MD build_VB an_DT H-bomb_NN in_IN your_PRP$ own_JJ kitchen_NN ?_.
+Seven_CD Days_NNS decided_VBD to_TO find_VB out_RP ._.
+Food_NNP editor_NN Barbara_NNP Ehrenreich_NNP ,_, investigative_JJ reporter_NN Peter_NNP Biskind_NNP ,_, Photographer_NNP Jane_NNP Melnick_NNP and_CC nuclear_JJ scientist_NN Michio_NNP Kaku_NNP were_VBD given_VBN three_CD days_NNS to_TO cook_VB up_RP a_DT workable_JJ H-bomb_NN ._.
+They_PRP did_VBD and_CC we_PRP have_VBP decided_VBN to_TO share_VB their_PRP$ culinary_JJ secrets_NNS with_IN you_PRP ._.
+Not_RB that_IN Seven_CD Days_NNS supports_VBZ nuclear_JJ terrorism_NN ._.
+We_PRP do_VBP n't_RB ._.
+We_PRP would_MD prefer_VB to_TO die_VB slowly_RB from_IN familiar_JJ poisons_NNS like_IN low-level_JJ radiation_NN ,_, microwaves_NNS ,_, DDT_NNP ,_, DBCP_NNP ,_, aflatoxins_NNS ,_, PBBs_NNS ,_, PBCs_NNS ,_, or_CC food_NN dyes_NNS ,_, rather_RB than_IN unexpectedly_RB ,_, say_VBP as_IN hostage_NN to_TO a_DT Latvian_JJ nationalist_JJ brandishing_VBG a_DT homemade_NN bomb_NN ._.
+In_IN our_PRP$ view_NN the_DT real_JJ terrorists_NNS are_VBP the_DT governments_NNS ,_, American_NNP ,_, Soviet_NNP ,_, French_NNP ,_, Chinese_NNP ,_, and_CC British_NNP ,_, that_WDT are_VBP hoarding_VBG H-bombs_NNS for_IN their_PRP$ own_JJ use_NN ,_, and_CC worse_JJR still_RB ,_, those_DT governments_NNS -LRB-_-LRB- U.S._NNP ,_, French_NNP and_CC German_NNP -RRB-_-RRB- that_WDT are_VBP eagerly_RB peddling_VBG advanced_JJ nuclear_JJ technology_NN to_TO countries_NNS like_IN South_NNP Africa_NNP ,_, Brazil_NNP ,_, and_CC Argentina_NNP so_IN that_IN they_PRP can_MD make_VB their_PRP$ own_JJ bombs_NNS ._.
+When_WRB these_DT bombs_NNS are_VBP used_VBN ,_, and_CC they_PRP will_MD be_VB ,_, it_PRP will_MD be_VB the_DT world_NN 's_POS big-time_JJ nuclear_JJ peddlers_NNS ,_, along_IN with_IN corporate_JJ suppliers_NNS like_IN General_NNP Electric_NNP ,_, Westinghouse_NNP ,_, and_CC Gulf_NNP Oil_NNP ,_, that_IN we_PRP can_MD thank_VB for_IN it_PRP ._.
+Gagging_NNP The_NNP Progressive_NNP will_MD do_VB no_DT more_JJR for_IN national_JJ security_NN than_IN backyard_NN bomb_NN shelters_NNS because_IN like_IN it_PRP or_CC not_RB the_DT news_NN is_VBZ out_RB ._.
+The_DT heart_NN of_IN the_DT successful_JJ H-bomb_NN is_VBZ the_DT successful_JJ A-bomb_NN ._.
+Once_RB you_PRP 've_VBP got_VBN your_PRP$ A-bombs_NNS made_VBD the_DT rest_NN is_VBZ frosting_VBG on_IN the_DT cake_NN ._.
+All_DT you_PRP have_VBP to_TO do_VB is_VBZ set_VB them_PRP up_RP so_RB that_IN when_WRB they_PRP detonate_VBP they_PRP 'll_MD start_VB off_RP a_DT hydrogen-fusion_NN reaction_NN ._.
+Part_NNP 1_CD :_: Making_VBG Your_PRP$ Bomb_NNP Step_NN 1_CD :_: Getting_VBG the_DT Ingredients_NNPS Uranium_NNP is_VBZ the_DT basic_JJ ingredient_NN of_IN the_DT A-bomb_NNP ._.
+When_WRB a_DT uranium_NN atom_NN 's_POS nucleus_NN splits_VBZ apart_RB ,_, it_PRP releases_VBZ a_DT tremendous_JJ amount_NN of_IN energy_NN -LRB-_-LRB- for_IN its_PRP$ size_NN -RRB-_-RRB- ,_, and_CC it_PRP emits_VBZ neutrons_NNS which_WDT go_VBP on_IN to_TO split_VB other_JJ nearby_JJ uranium_NN nuclei_NNS ,_, releasing_VBG more_JJR energy_NN ,_, in_IN what_WP is_VBZ called_VBN a_DT `_`` chain_NN reaction_NN '_'' ._.
+-LRB-_-LRB- When_WRB atoms_NNS split_VBD ,_, matter_NN is_VBZ converted_VBN into_IN energy_NN according_VBG to_TO Einstein_NNP 's_POS equation_NN E_NNP =_SYM MC2_CD ._.
+What_WP better_JJR way_NN to_TO mark_VB his_PRP$ birthday_NN than_IN with_IN your_PRP$ own_JJ atomic_JJ fireworks_NNS ?_. -RRB-_-RRB-
+There_EX are_VBP two_CD kinds_NNS -LRB-_-LRB- isotopes_NNS -RRB-_-RRB- of_IN uranium_NN :_: the_DT rare_JJ U-235_NN ,_, used_VBN in_IN bombs_NNS ,_, and_CC the_DT more_RBR common_JJ ,_, heavier_JJR ,_, but_CC useless_JJ U-238_NN ._.
+Natural_JJ uranium_NN contains_VBZ less_JJR than_IN 1_CD percent_NN U-235_NN and_CC in_IN order_NN to_TO be_VB usable_JJ in_IN bombs_NNS it_PRP has_VBZ to_TO be_VB ``_`` enriched_VBN ''_'' to_TO 90_CD percent_NN U-235_NN and_CC only_RB 10_CD percent_NN U-238_NN ._.
+Plutonium-239_NN can_MD also_RB be_VB used_VBN in_IN bombs_NNS as_IN a_DT substitute_NN for_IN U-235_NN ._.
+Ten_CD pounds_NNS of_IN U-235_NN -LRB-_-LRB- or_CC slightly_RB less_JJR plutonium_NN -RRB-_-RRB- is_VBZ all_DT that_DT is_VBZ necessary_JJ for_IN a_DT bomb_NN ._.
+Less_RBR than_IN ten_CD pounds_NNS wo_MD n't_RB give_VB you_PRP a_DT critical_JJ mass_NN ._.
+So_RB purifying_VBG or_CC enriching_VBG naturally_RB occurring_VBG uranium_NN is_VBZ likely_JJ to_TO be_VB your_PRP$ first_JJ big_JJ hurdle_NN ._.
+It_PRP is_VBZ infinitely_RB easy_JJ to_TO steal_VB ready-to-use_JJ enriched_JJ uranium_NN or_CC plutonium_NN than_IN to_TO enrich_VB some_DT yourself_PRP ._.
+And_CC stealing_VBG uranium_NN is_VBZ not_RB as_RB hard_JJ as_IN it_PRP sounds_VBZ ._.
+There_EX are_VBP at_IN least_JJS three_CD sources_NNS of_IN enriched_JJ uranium_NN or_CC plutonium_NN ..._: Enriched_NNP uranium_NN is_VBZ manufactured_VBN at_IN a_DT gaseous_JJ diffusion_NN plant_NN in_IN Portsmouth_NNP ,_, Ohio_NNP ._.
+From_IN there_EX it_PRP is_VBZ shipped_VBN in_IN 10_CD liter_NN bottles_NNS by_IN airplane_NN and_CC trucks_NNS to_TO conversion_NN plants_NNS that_WDT turn_VBP it_PRP into_IN uranium_NN oxide_NN or_CC uranium_NN metal_NN ._.
+Each_DT 10_CD liter_NN bottle_NN contains_VBZ 7_CD kilograms_NNS of_IN U-235_NN ,_, and_CC there_EX are_VBP 20_CD bottles_NNS to_TO a_DT typical_JJ shipment_NN ._.
+Conversion_NNP facilities_NNS exist_VBP at_IN Hematite_NNP ,_, Missouri_NNP ;_: Apollo_NNP ,_, Pennsylvania_NNP ;_: and_CC Erwin_NNP ,_, Tennessee_NNP ._.
+The_DT Kerr-McGee_NNP plant_NN at_IN Crescent_NNP Oklahoma_NNP --_: where_WRB Karen_NNP Silkwood_NNP worked_VBD --_: was_VBD a_DT conversion_NN plant_NN that_IN ``_`` lost_VBN ''_'' 40_CD lbs_NNS of_IN plutonium_NN ._.
+Enriched_NNP uranium_NN can_MD be_VB stolen_VBN from_IN these_DT plants_NNS or_CC from_IN fuel-fabricating_JJ plants_NNS like_IN those_DT in_IN New_NNP Haven_NNP ,_, San_NNP Diego_NNP ;_: or_CC Lynchburg_NNP ,_, Virginia_NNP ._.
+-LRB-_-LRB- A_DT former_JJ Kerr-McGee_NNP supervisor_NN ,_, James_NNP V._NNP Smith_NNP ,_, when_WRB asked_VBN at_IN the_DT Silkwood_NNP trial_NN if_IN there_EX were_VBD any_DT security_NN precautions_NNS at_IN the_DT plant_NN to_TO prevent_VB theft_NN ,_, testified_VBD that_IN `_`` There_EX were_VBD none_NN of_IN any_DT kind_NN ,_, no_DT guards_NNS ,_, no_DT fences_NNS ,_, no_DT nothing_NN ._. '_'' -RRB-_-RRB-
+Plutonium_NN can_MD be_VB obtained_VBN from_IN places_NNS like_IN United_NNP Nuclear_NNP in_IN Pawling_NNP ,_, New_NNP York_NNP ;_: Nuclear_NNP Fuel_NN Services_NNPS in_IN Erwin_NNP ,_, Tennessee_NNP ;_: General_NNP Electric_NNP in_IN Pleasanton_NNP ,_, California_NNP ;_: Westinghouse_NNP in_IN Cheswick_NNP ,_, Pennsylvania_NNP ;_: Nuclear_NNP Materials_NNPS and_CC Equipment_NNP Corporation_NNP -LRB-_-LRB- NUMEC_NNP -RRB-_-RRB- in_IN Leechburg_NNP ,_, Pennsylvania_NNP ;_: and_CC plants_NNS in_IN Hanfford_NNP ,_, Washington_NNP and_CC Morris_NNP ,_, Illinois_NNP ._.
+According_VBG to_TO Rolling_NNP Stone_NNP magazine_NN the_DT Israelis_NNPS were_VBD involved_VBN in_IN the_DT theft_NN of_IN plutonium_NN from_IN NUMEC_NNP ._.
+Finally_RB you_PRP can_MD steal_VB enriched_JJ uranium_NN or_CC plutonium_NN while_IN it_PRP 's_VBZ en-route_JJ from_IN conversion_NN plants_NNS to_TO fuel_VB fabricating_VBG plants_NNS ._.
+It_PRP is_VBZ usually_RB transported_VBN -LRB-_-LRB- by_IN air_NN or_CC truck_NN -RRB-_-RRB- in_IN the_DT form_NN of_IN uranium_NN oxide_NN ,_, a_DT brownish_JJ powder_NN resembling_VBG instant_JJ coffee_NN ,_, or_CC as_IN a_DT metal_NN ,_, coming_VBG in_IN small_JJ chunks_NNS called_VBN ``_`` broken_VBN buttons_NNS ._. ''_''
+Both_DT forms_NNS are_VBP shipped_VBN in_IN small_JJ cans_NNS stacked_VBN in_IN 5-inch_JJ cylinders_NNS braced_VBN with_IN welded_VBN struts_NNS in_IN the_DT center_NN of_IN ordinary_JJ 55_CD gallon_NN steel_NN drums_NNS ._.
+The_DT drums_NNS weigh_VBP about_IN 100_CD pounds_NNS and_CC are_VBP clearly_RB marked_VBN ``_`` Fissible_NNP Material_NNP ''_'' or_CC ``_`` Danger_NNP ,_, Plutonium_NNP ._. ''_''
+A_DT typical_JJ shipment_NN might_MD go_VB from_IN the_DT enrichment_NN plant_NN at_IN Portsmouth_NNP ,_, Ohio_NNP to_TO the_DT conversion_NN plant_NN in_IN Hematite_NNP Missouri_NNP then_RB to_TO Kansas_NNP City_NNP by_IN truck_NN where_WRB it_PRP would_MD be_VB flown_VBN to_TO Los_NNP Angeles_NNP and_CC then_RB trucked_VBD down_RP to_TO the_DT General_NNP Atomic_NNP plant_NN in_IN San_NNP Diego_NNP ._.
+The_DT plans_NNS for_IN the_DT General_NNP Atomic_NNP plant_NN are_VBP on_IN file_NN at_IN the_DT Nuclear_NNP Regulatory_NNP Commission_NNP 's_POS reading_NN room_NN at_IN 1717_CD H_NNP Street_NNP NW_NNP Washington_NNP ._.
+A_DT Xerox_NNP machine_NN is_VBZ provided_VBN for_IN the_DT convenience_NN of_IN the_DT public_NN ._.
+If_IN you_PRP ca_MD n't_RB get_VB hold_VB of_IN any_DT enriched_JJ uranium_NN you_PRP 'll_MD have_VB to_TO settle_VB for_IN commercial_JJ grade_NN -LRB-_-LRB- 20_CD percent_NN U-235_NN -RRB-_-RRB- ._.
+This_DT can_MD be_VB stolen_VBN from_IN university_NN reactors_NNS of_IN a_DT type_NN called_VBN TRIGA_NNP Mark_NNP II_NNP ,_, where_WRB security_NN is_VBZ even_RB more_RBR casual_JJ than_IN at_IN commercial_JJ plants_NNS ._.
+If_IN stealing_VBG uranium_NN seems_VBZ too_RB tacky_JJ you_PRP can_MD buy_VB it_PRP ._.
+Unenriched_JJ uranium_NN is_VBZ available_JJ at_IN any_DT chemical_NN supply_NN house_NN for_IN $_$ 23_CD a_DT pound_NN ._.
+Commercial_JJ grade_NN -LRB-_-LRB- 3_CD to_TO 20_CD percent_NN enriched_VBN -RRB-_-RRB- is_VBZ available_JJ for_IN $_$ 40_CD a_DT pound_NN from_IN Gulf_NNP Atomic_NNP ._.
+You_PRP 'll_MD have_VB to_TO enrich_VB it_PRP further_JJ yourself_PRP ._.
+Quite_RB frankly_RB this_DT can_MD be_VB something_NN of_IN a_DT pain_NN in_IN the_DT ass_NN ._.
+You_PRP 'll_MD need_VB to_TO start_VB with_IN a_DT little_RB more_JJR than_IN 50_CD pounds_NNS of_IN commercial-grade_JJ uranium_NN ._.
+-LRB-_-LRB- It_PRP 's_VBZ only_RB 20_CD percent_NN U-235_NN at_IN best_JJS ,_, and_CC you_PRP need_VBP 10_CD pounds_NNS of_IN U-235_NNP so_RB ..._: -RRB-_-RRB- But_CC with_IN a_DT little_JJ kitchen-table_JJ chemistry_NN you_PRP 'll_MD be_VB able_JJ to_TO convert_VB the_DT solid_JJ uranium_NN oxide_NN you_PRP 've_VBP purchased_VBN into_IN a_DT liquid_JJ form_NN ._.
+Once_RB you_PRP 've_VBP done_VBN that_IN ,_, you_PRP 'll_MD be_VB able_JJ to_TO separate_VB the_DT U-235_NN that_IN you_PRP 'll_MD need_VB from_IN the_DT U-238_NN ._.
+First_NNP pour_VBP a_DT few_JJ gallons_NNS of_IN concentrated_JJ hydrofluoric_JJ acid_NN into_IN your_PRP$ uranium_NN oxide_NN ,_, converting_VBG it_PRP to_TO uranium_VB tetrafluoride_NN ._.
+-LRB-_-LRB- Safety_NNP note_NN :_: Concentrated_JJ hydrofluoric_JJ acid_NN is_VBZ so_RB corrosive_JJ that_IN it_PRP will_MD eat_VB its_PRP$ way_NN through_IN glass_NN ,_, so_RB store_NN it_PRP only_RB in_IN plastic_NN ._.
+Used_VBN 1-gallon_JJ plastic_NN milk_NN containers_NNS will_MD do_VB ._. -RRB-_-RRB-
+Now_RB you_PRP have_VBP to_TO convert_VB your_PRP$ uranium_NN tetrafluoride_NN to_TO uranium_VB hexafluoride_NN ,_, the_DT gaseous_JJ form_NN of_IN uranium_NN ,_, which_WDT is_VBZ convenient_JJ for_IN separating_VBG out_RP the_DT isotope_NN U-235_NN from_IN U-238_NN ._.
+To_TO get_VB the_DT hexafluoride_NN form_NN ,_, bubble_NN fluorine_NN gas_NN into_IN your_PRP$ container_NN of_IN uranium_NN tetrafluoride_NN ._.
+Fluorine_NNP is_VBZ available_JJ in_IN pressurized_VBN tanks_NNS from_IN chemical-supply_JJ firms_NNS ._.
+Be_VB careful_JJ how_WRB you_PRP use_VBP it_PRP though_IN because_IN fluorine_NN is_VBZ several_JJ times_NNS more_RBR deadly_JJ than_IN chlorine_NN ,_, the_DT classic_JJ World_NNP War_NNP I_PRP poison_NN gas_NN ._.
+Chemists_NNS recommend_VBP that_IN you_PRP carry_VBP out_RP this_DT step_NN under_IN a_DT stove_JJ hood_NN -LRB-_-LRB- the_DT kind_NN used_VBN to_TO remove_VB unpleasant_JJ cooking_NN odors_NNS -RRB-_-RRB- ._.
+If_IN you_PRP 've_VBP done_VBN your_PRP$ chemistry_NN right_NN you_PRP should_MD now_RB have_VB a_DT generous_JJ supply_NN of_IN uranium_NN hexafluoride_NN ready_JJ for_IN enriching_VBG ._.
+In_IN the_DT old_JJ horse-and-buggy_JJ days_NNS of_IN A-bomb_JJ manufacture_NN the_DT enrichment_NN was_VBD carried_VBN out_RP by_IN passing_VBG the_DT uranium_NN hexafluoride_NN through_IN hundreds_NNS of_IN miles_NNS of_IN pipes_NNS ,_, tubes_NNS ,_, and_CC membranes_NNS ,_, until_IN the_DT U-235_NN was_VBD eventually_RB separated_VBN from_IN the_DT U-238_NN ._.
+This_DT gaseous-diffusion_JJ process_NN ,_, as_IN it_PRP was_VBD called_VBN is_VBZ difficult_JJ ,_, time-consuming_JJ ,_, and_CC expensive_JJ ._.
+Gaseous-diffusion_NN plants_NNS cover_VBP hundreds_NNS of_IN acres_NNS and_CC cost_NN in_IN the_DT neighborhood_NN of_IN $_$ 2-billion_JJ each_DT ._.
+So_RB forget_VB it_PRP ._.
+There_EX are_VBP easier_JJR ,_, and_CC cheaper_JJR ,_, ways_NNS to_TO enrich_VB your_PRP$ uranium_NN ._.
+First_NNP transform_VB the_DT gas_NN into_IN a_DT liquid_NN by_IN subjecting_VBG it_PRP to_TO pressure_NN ._.
+You_PRP can_MD use_VB a_DT bicycle_NN pump_NN for_IN this_DT ._.
+Then_RB make_VB a_DT simple_JJ home_NN centrifuge_NN ._.
+Fill_VB a_DT standard-size_JJ bucket_NN one-quarter_NN full_JJ of_IN liquid_JJ uranium_NN hexafluoride_NN ._.
+Attach_VB a_DT six-foot_JJ rope_NN to_TO the_DT bucket_NN handle_VB ._.
+Now_RB swing_VBP the_DT rope_NN -LRB-_-LRB- and_CC attached_VBN bucket_NN -RRB-_-RRB- around_IN your_PRP$ head_NN as_IN fast_JJ as_IN possible_JJ ._.
+Keep_VB this_DT up_RP for_IN about_IN 45_CD minutes_NNS ._.
+Slow_VB down_RP gradually_RB ,_, and_CC very_RB gently_RB put_VB the_DT bucket_NN on_IN the_DT floor_NN ._.
+The_DT U-235_NN ,_, which_WDT is_VBZ lighter_JJR ,_, will_MD have_VB risen_VBN to_TO the_DT top_NN ,_, where_WRB it_PRP can_MD be_VB skimmed_VBN off_RP like_IN cream_NN ._.
+Repeat_NN this_DT step_NN until_IN you_PRP have_VBP the_DT required_VBN 10_CD pounds_NNS of_IN uranium_NN ._.
+-LRB-_-LRB- Safety_NNP note_NN :_: Do_VBP n't_RB put_VB all_DT your_PRP$ enriched_VBN uranium_NN hexafluoride_NN in_IN one_CD bucket_NN ._.
+Use_NN at_IN least_JJS two_CD or_CC three_CD buckets_NNS and_CC keep_VB them_PRP in_IN separate_JJ corners_NNS of_IN the_DT room_NN ._.
+This_DT will_MD prevent_VB the_DT premature_JJ build-up_NN of_IN a_DT critical_JJ mass_NN ._. -RRB-_-RRB-
+Now_RB it_PRP 's_VBZ time_NN to_TO convert_VB your_PRP$ enriched_JJ uranium_NN back_RB to_TO metal_NN form_NN ._.
+This_DT is_VBZ easily_RB enough_JJ accomplished_VBN by_IN spooning_VBG several_JJ ladlefuls_NNS of_IN calcium_NN -LRB-_-LRB- available_JJ in_IN tablet_NN form_NN from_IN your_PRP$ drugstore_NN -RRB-_-RRB- into_IN each_DT bucket_NN of_IN uranium_NN ._.
+The_DT calcium_NN will_MD react_VB with_IN the_DT uranium_NN hexafluoride_NN to_TO produce_VB calcium_NN fluoride_NN ,_, a_DT colorless_JJ salt_NN which_WDT can_MD be_VB easily_RB be_VB separated_VBN from_IN your_PRP$ pure_JJ enriched_JJ uranium_NN metal_NN ._.
+A_DT few_JJ precautions_NNS :_: •_VB While_IN uranium_NN is_VBZ not_RB dangerously_RB radioactive_JJ in_IN the_DT amounts_NNS you_PRP 'll_MD be_VB handling_VBG ,_, if_IN you_PRP plan_VBP to_TO make_VB more_JJR than_IN one_CD bomb_NN it_PRP might_MD be_VB wise_JJ to_TO wear_VB gloves_NNS and_CC a_DT lead_NN apron_NN ,_, the_DT kind_NN you_PRP can_MD buy_VB in_IN dental_JJ supply_NN stores_NNS ._.
+•_RB Plutonium_NNP is_VBZ one_CD of_IN the_DT most_RBS toxic_JJ substances_NNS known_VBN ._.
+If_IN inhaled_JJ ,_, a_DT thousandth_NN of_IN a_DT gram_NN can_MD cause_VB massive_JJ fibrosis_NN of_IN the_DT lungs_NNS ,_, a_DT painful_JJ way_NN to_TO go_VB ._.
+Even_RB a_DT millionth_NN of_IN a_DT gram_NN in_IN the_DT lungs_NNS will_MD cause_VB cancer_NN ._.
+If_IN eaten_VBN plutonium_NN is_VBZ metabolized_VBN like_IN calcium_NN ._.
+It_PRP goes_VBZ straight_RB to_TO the_DT bones_NNS where_WRB it_PRP gives_VBZ out_RP alpha_NN particles_NNS preventing_VBG bone_NN marrow_NN from_IN manufacturing_VBG red_JJ blood_NN cells_NNS ._.
+The_DT best_JJS way_NN to_TO avoid_VB inhaling_VBG plutonium_NN is_VBZ to_TO hold_VB your_PRP$ breath_NN while_IN handling_VBG it_PRP ._.
+If_IN this_DT is_VBZ too_RB difficult_JJ wear_NN a_DT mask_NN ._.
+To_TO avoid_VB ingesting_VBG plutonium_NN orally_RB follow_VB this_DT simple_JJ rule_NN :_: never_RB make_VBP an_DT A-bomb_NN on_IN an_DT empty_JJ stomach_NN ._.
+•_RB If_IN you_PRP find_VBP yourself_PRP dozing_VBG off_RP while_IN you_PRP 're_VBP working_VBG ,_, or_CC if_IN you_PRP begin_VBP to_TO glow_NN in_IN the_DT dark_JJ ,_, it_PRP might_MD be_VB wise_JJ to_TO take_VB a_DT blood_NN count_NN ._.
+Prick_VB your_PRP$ finger_NN with_IN a_DT sterile_JJ pin_NN ,_, place_VBP a_DT drop_NN of_IN blood_NN on_IN a_DT microscope_NN slide_NN ,_, cover_VB it_PRP with_IN a_DT cover_NN slip_NN ,_, and_CC examine_VB under_IN a_DT microscope_NN ._.
+-LRB-_-LRB- Best_JJS results_NNS are_VBP obtained_VBN in_IN the_DT early_JJ morning_NN ._. -RRB-_-RRB-
+When_WRB you_PRP get_VBP leukemia_NN ,_, immature_NN cells_NNS are_VBP released_VBN into_IN the_DT bloodstream_NN ,_, and_CC usually_RB the_DT number_NN of_IN white_JJ cells_NNS increases_NNS -LRB-_-LRB- though_IN this_DT increase_NN might_MD take_VB almost_RB 2_CD weeks_NNS -RRB-_-RRB- ._.
+Red_NNP blood_NN cells_NNS look_VBP kind_NN of_IN like_IN donuts_NNS -LRB-_-LRB- without_IN the_DT hole_NN -RRB-_-RRB- ,_, and_CC are_VBP slightly_RB smaller_JJR than_IN the_DT white_JJ cells_NNS ,_, each_DT of_IN which_WDT has_VBZ a_DT nucleus_NN ._.
+Immature_NNP red_JJ cells_NNS look_VBP similar_JJ to_TO white_JJ cells_NNS -LRB-_-LRB- i.e._FW ._.
+slightly_RB larger_JJR and_CC have_VBP a_DT nucleus_NN -RRB-_-RRB- ._.
+If_IN you_PRP have_VBP more_JJR than_IN about_IN 1_CD white_JJ cell_NN -LRB-_-LRB- including_VBG immature_JJ ones_NNS -RRB-_-RRB- to_TO 400_CD red_JJ cells_NNS then_RB start_VBP to_TO worry_VB ._.
+But_CC ,_, depending_VBG upon_IN your_PRP$ plans_NNS for_IN the_DT eventual_JJ use_NN of_IN the_DT bomb_NN ,_, a_DT short_JJ life_NN expectancy_NN might_MD not_RB be_VB a_DT problem_NN ._.
+Step_NN 2_CD :_: Assembling_VBG the_DT A-Bomb_NNP Now_RB that_IN you_PRP 've_VBP acquired_VBN the_DT enriched_JJ uranium_NN ,_, all_DT that_DT 's_VBZ left_VBN is_VBZ to_TO assemble_VB your_PRP$ A-bomb_NN ._.
+Go_VB find_VB a_DT couple_NN of_IN stainless_JJ steel_NN salad_NN bowls_VBZ ._.
+You_PRP also_RB want_VBP to_TO separate_VB your_PRP$ 10_CD pounds_NNS of_IN U-235_NN into_IN two_CD hunks_NNS ._.
+-LRB-_-LRB- Keep_VB them_PRP apart_RB !_. -RRB-_-RRB-
+The_DT idea_NN is_VBZ to_TO push_VB each_DT half_NN your_PRP$ uranium_NN into_IN the_DT inside_NN of_IN a_DT bowl_NN ._.
+Take_VB one_CD hunk_NN of_IN your_PRP$ uranium_NN and_CC beat_VB it_PRP into_IN the_DT inside_NN of_IN the_DT first_JJ bowl_NN ._.
+Uranium_NNP is_VBZ malleable_JJ ,_, like_IN gold_NN ,_, so_RB you_PRP should_MD have_VB no_DT trouble_NN hammering_VBG it_PRP into_IN the_DT bowl_NN to_TO get_VB a_DT good_JJ fit_NN ._.
+Take_VB another_DT five-pound_JJ hunk_NN of_IN uranium_NN and_CC fit_VB it_PRP into_IN a_DT second_JJ stainless_JJ steel_NN bowl_NN ._.
+These_DT two_CD bowls_VBZ of_IN U-235_NN are_VBP the_DT ``_`` subcritical_JJ masses_NNS ''_'' which_WDT ,_, when_WRB brought_VBN together_RB forcefully_RB ,_, will_MD provide_VB the_DT critical_JJ mass_NN that_WDT makes_VBZ your_PRP$ A-bomb_JJ go_NN ._.
+Keep_VB them_PRP a_DT respectful_JJ distance_NN apart_RB while_IN working_VBG because_IN you_PRP do_VBP n't_RB want_VB them_PRP to_TO ``_`` go_VB critical_JJ ''_'' on_IN you_PRP ..._: At_IN least_JJS not_RB yet_RB ._.
+Now_RB hollow_JJ out_IN the_DT body_NN of_IN an_DT old_JJ vacuum_NN cleaner_JJR and_CC place_VB your_PRP$ two_CD hemispherical_JJ bowls_VBZ inside_RB ,_, open_JJ ends_NNS facing_VBG each_DT other_JJ ,_, no_DT less_JJR than_IN seven_CD inches_NNS apart_RB ,_, using_VBG masking_VBG tape_NN to_TO set_VB them_PRP up_RP in_IN position_NN ._.
+The_DT reason_NN for_IN the_DT steel_NN bowls_VBZ and_CC the_DT vacuum_NN cleaner_JJR ,_, in_IN case_NN you_PRP 're_VBP wondering_VBG ,_, is_VBZ that_IN these_DT help_NN reflect_VB the_DT neutrons_NNS back_RB into_IN the_DT uranium_NN for_IN a_DT more_RBR efficient_JJ explosion_NN ._.
+``_`` A_DT loose_JJ neutron_NN is_VBZ a_DT useless_JJ neutron_NN ''_'' as_IN the_DT A-bomb_JJ pioneers_NNS used_VBN to_TO say_VB ._.
+As_IN far_RB as_IN the_DT A-bomb_NN goes_VBZ ,_, you_PRP 're_VBP almost_RB done_VBN ._.
+The_DT final_JJ problem_NN is_VBZ to_TO figure_VB out_RP how_WRB to_TO get_VB the_DT two_CD U-235_NN hemispheres_NNS to_TO smash_VB into_IN each_DT other_JJ with_IN sufficient_JJ force_NN to_TO set_VB off_RP a_DT truly_RB effective_JJ fission_NN reaction_NN ._.
+Almost_RB any_DT type_NN of_IN explosive_JJ can_MD be_VB used_VBN to_TO drive_VB them_PRP together_RB ._.
+Gunpowder_NNP ,_, for_IN example_NN ,_, is_VBZ easily_RB made_VBN at_IN home_NN from_IN potassium_NN nitrate_NN ,_, sulfur_NN ,_, and_CC carbon_NN ._.
+Or_CC ,_, you_PRP can_MD get_VB some_DT blasting_JJ caps_NNS or_CC TNT_NNP ._.
+-LRB-_-LRB- Buy_VB them_PRP or_CC steal_VB them_PRP from_IN a_DT construction_NN site_NN ._. -RRB-_-RRB-
+Best_JJS of_IN all_DT is_VBZ C4_JJ plastic_NN explosive_JJ ._.
+You_PRP can_MD mold_NN it_PRP around_IN your_PRP$ bowls_VBZ ,_, and_CC it_PRP 's_VBZ fairly_RB safe_JJ to_TO work_VB with_IN ._.
+-LRB-_-LRB- But_CC ,_, it_PRP might_MD be_VB wise_JJ to_TO shape_VB it_PRP around_IN an_DT extra_JJ salad_NN bowl_NN in_IN another_DT room_NN ,_, and_CC THEN_RB fit_VB it_PRP to_TO your_PRP$ uranium-packed_JJ bowls_VBZ ._.
+This_DT is_VBZ particularly_RB true_JJ in_IN winter_NN ,_, when_WRB a_DT stray_JJ static_JJ electrical_JJ charge_NN might_MD induce_VB ignition_NN in_IN the_DT C4_NN ._.
+A_DT responsible_JJ bomb_NN maker_NN considers_VBZ it_PRP impolite_VB to_TO accidentally_RB destroy_VB more_JJR of_IN the_DT neighborhood_NN than_IN absolutely_RB necessary_JJ ._. -RRB-_-RRB-
+Once_RB the_DT explosives_NNS are_VBP in_IN place_NN all_DT you_PRP need_VBP to_TO do_VB is_VBZ hook_NN up_IN a_DT simple_JJ detonation_NN device_NN with_IN a_DT few_JJ batteries_NNS ,_, a_DT switch_NN ,_, and_CC some_DT wire_NN ._.
+Remember_VB though_IN that_IN it_PRP is_VBZ essential_JJ that_IN the_DT two_CD charges_NNS --_: one_CD on_IN each_DT side_NN of_IN the_DT casing_NN --_: go_VB off_RP simultaneously_RB ._.
+Now_RB put_VB the_DT whole_JJ thing_NN in_IN the_DT casing_NN of_IN an_DT old_JJ Hoover_NNP vacuum_NN cleaner_JJR and_CC you_PRP 're_VBP finished_VBN with_IN this_DT part_NN of_IN the_DT process_NN ._.
+The_DT rest_NN is_VBZ easy_JJ ._.
+Step_NN 3_CD :_: Make_NNP More_RBR A-Bombs_JJ Following_VBG the_DT Directions_NNPS Above_NNP A_NNP Word_NNP to_TO the_DT Wise_NNP About_IN Wastes_NNP After_IN your_PRP$ A-bomb_NN is_VBZ completed_VBN you_PRP 'll_MD have_VB a_DT pile_NN of_IN moderately_RB fatal_JJ radioactive_JJ wastes_NNS like_IN U-238_NN ._.
+These_DT are_VBP not_RB dangerous_JJ ,_, but_CC you_PRP do_VBP have_VB to_TO get_VB rid_JJ of_IN them_PRP ._.
+You_PRP can_MD flush_VB leftovers_NNS down_IN the_DT toilet_NN ._.
+-LRB-_-LRB- Do_VBP n't_RB worry_VB about_IN polluting_VBG the_DT ocean_NN ,_, there_EX is_VBZ already_RB so_RB much_JJ radioactive_JJ waste_NN there_RB ,_, a_DT few_JJ more_JJR bucketfuls_NNS wo_MD n't_RB make_VB any_DT waves_NNS whatsoever_RB ._. -RRB-_-RRB-
+If_IN you_PRP 're_VBP the_DT fastidious_JJ type_NN --_: the_DT kind_NN who_WP never_RB leaves_VBZ gum_NN under_IN their_PRP$ seat_NN at_IN the_DT movies_NNS --_: you_PRP can_MD seal_VB the_DT nasty_JJ stuff_NN in_IN coffee_NN cans_NNS and_CC bury_VB it_PRP in_IN the_DT backyard_NN ,_, just_RB like_IN Uncle_NNP Sam_NNP does_VBZ ._.
+If_IN the_DT neighbor_NN kids_NNS have_VBP a_DT habit_NN of_IN trampling_VBG the_DT lawn_NN ,_, tell_VBP them_PRP to_TO play_VB over_RP by_IN the_DT waste_NN ._.
+You_PRP 'll_MD soon_RB find_VB that_IN they_PRP 're_VBP spending_VBG most_JJS of_IN their_PRP$ time_NN in_IN bed_NN ._.
+Going_VBG First_JJ Class_NNP If_IN you_PRP 're_VBP like_IN us_PRP ,_, you_PRP 're_VBP feeling_VBG the_DT economic_JJ pinch_NN ,_, and_CC you_PRP 'll_MD want_VB to_TO make_VB your_PRP$ bomb_NN as_IN inexpensively_RB as_IN possible_JJ ,_, consonant_JJ of_IN course_NN with_IN reasonable_JJ yield_NN ._.
+The_DT recipe_NN we_PRP 've_VBP given_VBN is_VBZ for_IN a_DT budget-pleasing_JJ H-bomb_NN ,_, no_DT frills_NNS ,_, no_DT flourishes_NNS ;_: it_PRP 's_VBZ just_RB a_DT simple_JJ 5-megaton_JJ bomb_NN ,_, capable_JJ of_IN wiping_VBG out_RP the_DT New_NNP York_NNP metropolitan_JJ area_NN ,_, the_DT San_NNP Francisco_NNP Bay_NNP area_NN ,_, or_CC Boston_NNP ._.
+But_CC do_VBP n't_RB forget_VB ,_, your_PRP$ H-bomb_NN will_MD only_RB be_VB as_RB good_JJ as_IN the_DT A-bombs_NNS in_IN it_PRP ._.
+If_IN you_PRP want_VBP to_TO spend_VB a_DT little_RB more_JJR money_NN you_PRP can_MD punch-up_VB your_PRP$ A-bomb_JJ considerably_RB ._.
+Instead_RB of_IN centrifuging_VBG your_PRP$ uranium_NN by_IN hand_NN ,_, you_PRP can_MD buy_VB a_DT commercial_JJ centrifuge_NN ._.
+-LRB-_-LRB- Fisher_NNP Scientific_NNP sells_VBZ one_CD for_IN about_RB $_$ 1000_CD ._. -RRB-_-RRB-
+You_PRP also_RB might_MD want_VB to_TO be_VB fussier_JJR about_IN your_PRP$ design_NN ._.
+The_DT Hiroshima_NNP bomb_NN ,_, a_DT relatively_RB crude_JJ one_CD ,_, only_RB fissioned_VBD 1_CD percent_NN of_IN it_PRP 's_VBZ uranium_NN and_CC yielded_VBD only_RB 13_CD kilotons_NNS ._.
+In_IN order_NN to_TO fission_VB more_JJR of_IN the_DT uranium_NN ,_, the_DT force_NN of_IN your_PRP$ explosive_JJ ``_`` trigger_NN ''_'' needs_VBZ to_TO be_VB evenly_RB diffused_VBN around_IN the_DT sphere_NN ;_: the_DT same_JJ pressure_NN has_VBZ to_TO be_VB exerted_VBN on_IN every_DT point_NN of_IN the_DT sphere_NN simultaneously_RB ._.
+-LRB-_-LRB- It_PRP was_VBD a_DT technique_NN for_IN producing_VBG this_DT sort_NN of_IN simultaneous_JJ detonation_NN by_IN fashioning_VBG the_DT explosives_NNS into_IN lenses_NNS that_IN the_DT government_NN accused_VBD Julius_NNP and_CC Ethel_NNP Rosenberg_NNP of_IN trying_VBG to_TO steal_VB -RRB-_-RRB- ._.
+Part_NNP 2_CD :_: Putting_VBG Your_PRP$ H-Bomb_NNP Together_RB The_DT heart_NN of_IN the_DT H-bomb_NNP is_VBZ the_DT fusion_NN process_NN ._.
+Several_JJ A-bombs_NNS are_VBP detonated_VBN in_IN such_JJ a_DT way_NN as_IN to_TO create_VB the_DT extremely_RB high_JJ temperature_NN -LRB-_-LRB- 100_CD million_CD degrees_NNS C_$ -RRB-_-RRB- necessary_JJ to_TO fuse_NN lithium_NN deuteride_NN -LRB-_-LRB- LiD_NNP -RRB-_-RRB- into_IN helium_NN ._.
+When_WRB the_DT lithium_NN nucleus_NN slams_VBZ into_IN the_DT deuterium_NN nucleus_NN ,_, two_CD helium_NN nuclei_NNS are_VBP created_VBN ,_, and_CC if_IN this_DT happens_VBZ to_TO enough_JJ deuterium_NN nuclei_NN rapidly_RB enough_RB ,_, the_DT result_NN is_VBZ an_DT enormous_JJ amount_NN of_IN energy_NN :_: the_DT energy_NN of_IN the_DT H-bomb_NNP ._.
+You_PRP do_VBP n't_RB have_VB to_TO worry_VB about_IN stealing_VBG lithium_NN deuteride_NN ,_, it_PRP can_MD be_VB purchased_VBN from_IN any_DT chemical-supply_JJ house_NN ._.
+It_PRP costs_VBZ $_$ 1000_CD a_DT pound_NN ._.
+If_IN your_PRP$ budget_NN wo_MD n't_RB allow_VB it_PRP you_PRP can_MD substitute_VB lithium_NN hydride_NN at_IN $_$ 40_CD a_DT pound_NN ._.
+You_PRP will_MD need_VB at_IN least_JJS 100_CD pounds_NNS ._.
+It_PRP 's_VBZ a_DT corrosive_JJ and_CC toxic_JJ powder_NN so_RB be_VB careful_JJ ._.
+Place_VB the_DT lithium_NN deuteride_NN or_CC hydride_NN in_IN glass_NN jars_NNS and_CC surround_VB it_PRP with_IN four_CD A-bombs_NNS in_IN their_PRP$ casings_NNS ._.
+Attach_VB them_PRP to_TO the_DT same_JJ detonator_NN so_IN that_IN they_PRP will_MD go_VB off_RP simultaneously_RB ._.
+The_DT container_NN for_IN the_DT whole_JJ thing_NN is_VBZ no_DT problem_NN ._.
+They_PRP can_MD be_VB placed_VBN anywhere_RB :_: Inside_IN an_DT old_JJ stereo_NN console_NN ,_, a_DT discarded_VBN refrigerator_NN ,_, etc._FW ._. ._.
+When_WRB the_DT detonator_NN sets_VBZ off_RP the_DT four_CD A-bombs_NNS all_DT eight_CD hemispheres_NNS of_IN fissionable_JJ material_NN will_MD slam_VB into_IN each_DT other_JJ at_IN the_DT same_JJ time_NN creating_VBG four_CD critical_JJ masses_NNS and_CC four_CD detonations_NNS ._.
+This_DT will_MD raise_VB the_DT temperature_NN of_IN the_DT lithium_NN deuteride_NN to_TO 100_CD million_CD degrees_NNS C_$ fast_RB enough_RB -LRB-_-LRB- a_DT few_JJ billionths_NNS of_IN a_DT second_JJ -RRB-_-RRB- so_RB that_IN the_DT lithium_NN will_MD not_RB be_VB blown_VBN all_DT over_IN the_DT neighborhood_NN before_IN the_DT nuclei_NNS have_VBP time_NN to_TO fuse_NN ._.
+The_DT result_NN ,_, at_IN least_JJS 1000_CD times_NNS the_DT punch_NN of_IN the_DT puny_JJ A-bomb_NN that_WDT leveled_VBD Hiroshima_NNP -LRB-_-LRB- 20_CD million_CD tons_NNS of_IN TNT_NNP vs._CC 20_CD thousand_CD tons_NNS ._. -RRB-_-RRB-
+Part_NNP 3_CD :_: What_WP to_TO do_VB With_IN Your_PRP$ Bomb_NNP Now_RB that_IN you_PRP have_VBP a_DT fully_RB assembled_VBN H-bomb_JJ housed_VBN in_IN an_DT attractive_JJ console_NN of_IN your_PRP$ choice_NN you_PRP may_MD be_VB wondering_VBG ,_, ``_`` What_WP should_MD I_PRP do_VB with_IN it_PRP ?_. ''_''
+Every_DT family_NN will_MD have_VB to_TO answer_VB this_DT question_NN according_VBG to_TO its_PRP$ own_JJ tastes_NNS and_CC preferences_NNS ,_, but_CC you_PRP may_MD want_VB to_TO explore_VB some_DT possibilities_NNS which_WDT have_VBP been_VBN successfully_RB pioneered_VBN by_IN the_DT American_JJ government_NN ._.
+1_LS ._.
+Sell_VB Your_PRP$ Bomb_NN and_CC Make_VB a_DT Pile_NN of_IN Money_NNP In_IN these_DT days_NNS of_IN rising_VBG inflation_NN ,_, increasing_VBG unemployment_NN ,_, and_CC an_DT uncertain_JJ economic_JJ outlook_NN ,_, few_JJ businesses_NNS make_VBP as_RB much_JJ sense_NN as_IN weapons_NNS production_NN ._.
+If_IN your_PRP$ career_NN forecast_NN is_VBZ cloudy_JJ ,_, bomb_NN sales_NNS may_MD be_VB the_DT only_JJ sure_JJ way_NN to_TO avoid_VB the_DT humiliation_NN of_IN receiving_VBG welfare_NN ,_, or_CC unemployment_NN ._.
+Regardless_RB of_IN your_PRP$ present_JJ income_NN level_NN ,_, a_DT home_NN H-bomb_NN business_NN can_MD be_VB an_DT invaluable_JJ income_NN supplement_NN ,_, and_CC certainly_RB a_DT profitable_JJ alternative_NN to_TO selling_VBG Tupperware_NNP or_CC pirated_VBD Girl_NNP Scout_NNP cookies_NNS ._.
+Unfortunately_RB for_IN the_DT family_NN bomb_NN business_NN ,_, big_JJ government_NN has_VBZ already_RB cornered_VBN a_DT large_JJ part_NN of_IN the_DT world_NN market_NN ._.
+But_CC this_DT does_VBZ not_RB mean_VB that_IN there_EX is_VBZ a_DT shortage_NN of_IN potential_JJ customers_NNS ._.
+The_DT raid_NN on_IN Entebee_NNP was_VBD the_DT Waterloo_NNP of_IN hijacking_NN ,_, and_CC many_JJ nationalist_JJ groups_NNS are_VBP now_RB on_IN the_DT alert_NN for_IN new_JJ means_NNS to_TO get_VB their_PRP$ message_NN across_IN ._.
+They_PRP 'd_MD jump_VB at_IN the_DT chance_NN to_TO get_VB hold_VB of_IN an_DT H-bomb_NN ._.
+Emerging_VBG nations_NNS which_WDT ca_MD n't_RB ante_NN up_RP enough_JJ rice_NN or_CC sugar_NN to_TO buy_VB themselves_PRP a_DT reactor_NN from_IN G.E._NNP or_CC Westinghouse_NNP are_VBP also_RB shopping_VBG around_RB ._.
+You_PRP may_MD wonder_VB about_IN the_DT ethics_NNS of_IN selling_VBG to_TO nations_NNS ,_, or_CC groups_NNS ,_, whose_WP$ goals_NNS you_PRP may_MD disapprove_VB of_IN ._.
+But_CC here_RB again_RB ,_, take_VB a_DT tip_NN from_IN our_PRP$ government_NN :_: forget_VB ideology_NN --_: it_PRP 's_VBZ cash_NN that_IN counts_NNS ._.
+And_CC remember_VB ,_, H-bomb_JJ sales_NNS have_VBP a_DT way_NN of_IN escalating_NN ,_, almost_RB like_IN a_DT chain_NN reaction_NN ._.
+Suppose_VB you_PRP make_VB a_DT sale_NN to_TO South_NNP Yemen_NNP which_WDT you_PRP believe_VBP to_TO be_VB a_DT Soviet_JJ puppet_NN ._.
+Well_RB within_IN a_DT few_JJ days_NNS some_DT discrete_JJ inquiries_NNS from_IN North_NNP Yemen_NNP and_CC possibly_RB the_DT Saudis_NNP ,_, the_DT Egyptians_NNPS and_CC the_DT Ethiopians_NNPS as_RB well_RB can_MD be_VB expected_VBN ._.
+Similarly_RB ,_, a_DT sale_NN to_TO the_DT IRA_NNP will_MD generate_VB a_DT sale_NN to_TO the_DT Ulster_NNP government_NN ;_: and_CC a_DT sale_NN to_TO the_DT Tanzanians_NNPS will_MD bring_VB the_DT Ugandans_NNPS running_VBG ,_, and_CC so_RB forth_RB ._.
+It_PRP does_VBZ n't_RB matter_VB WHICH_WDT side_NN you_PRP 're_VBP on_IN ,_, only_RB how_WRB many_JJ sides_NNS there_EX are_VBP ._.
+Do_VBP n't_RB forget_VB about_IN the_DT possibility_NN of_IN repeat_NN sales_NNS to_TO the_DT same_JJ customer_NN ._.
+As_IN the_DT experience_NN of_IN both_DT the_DT U.S._NNP and_CC the_DT U.S.S.R._NNP has_VBZ shown_VBN ,_, each_DT individual_JJ nation_NN has_VBZ a_DT potentially_RB infinite_JJ need_NN for_IN H-bombs_NNS ._.
+No_DT customer_NN --_: no_DT matter_NN how_WRB small_JJ --_: can_MD ever_RB have_VB too_RB many_JJ ._.
+2_LS ._.
+Use_NNP Your_PRP$ Bomb_NN at_IN Home_NNP Many_JJ families_NNS are_VBP attracted_VBN to_TO the_DT H-bomb_JJ simply_RB as_IN a_DT ``_`` deterrent_NN ._. ''_''
+A_DT discrete_JJ sticker_NN on_IN the_DT door_NN or_CC on_IN the_DT living_NN room_NN window_NN saying_VBG ``_`` This_NNP Home_NNP Protected_NNP by_IN H-bomb_NNP ''_'' will_MD discourage_VB IRS_NNP investigators_NNS ,_, census_NN takers_NNS ,_, and_CC Jehovah_NNP 's_POS Witnesses_NNS ._.
+You_PRP 'll_MD be_VB surprised_VBN how_WRB fast_RB the_DT crime_NN rate_NN will_MD go_VB down_RB and_CC property_NN values_NNS will_MD go_VB up_RP ._.
+And_CC once_RB the_DT news_NN gets_VBZ out_RP that_IN you_PRP are_VBP a_DT home_NN H-bomb_NN owner_NN you_PRP 'll_MD find_VB that_IN you_PRP have_VBP unexpected_JJ leverage_NN in_IN neighborhood_NN disputes_NNS over_IN everything_NN from_IN parking_NN places_NNS and_CC stereo_NN noise_NN levels_NNS to_TO school_VB tax_NN rates_NNS ._.
+So_RB relax_VB and_CC enjoy_VB the_DT pride_NN and_CC excitement_NN of_IN home_NN H-bomb_JJ ownership_NN !_.
+Is_VBZ It_PRP For_IN You_PRP ?_.
+Let_NNP 's_POS be_VB honest_JJ ._.
+The_DT H-bomb_NNP is_VBZ n't_RB for_IN everyone_NN ._.
+Frankly_RB there_EX are_VBP people_NNS who_WP ca_MD n't_RB handle_VB it_PRP ._.
+They_PRP break_VBP out_RP in_IN hives_NNS at_IN the_DT very_RB mention_NN of_IN mega-death_NN ,_, fallout_NN ,_, or_CC radiation_NN sickness_NN ._.
+The_DT following_VBG quiz_NN will_MD help_VB you_PRP find_VB out_RP whether_IN you_PRP have_VBP what_WP it_PRP takes_VBZ for_IN home_NN H-bomb_JJ ownership_NN ._.
+If_IN you_PRP can_MD answer_VB ``_`` yes_UH ''_'' to_TO six_CD or_CC more_JJR of_IN these_DT questions_NNS ,_, then_RB you_PRP 're_VBP emotionally_RB eligible_JJ to_TO join_VB the_DT nuclear_JJ club_NN ._.
+If_IN not_RB ,_, a_DT more_RBR conventional_JJ weapon_NN may_MD be_VB more_RBR your_PRP$ cup_NN of_IN tea_NN ,_, try_VB botulism-toxin_NN ,_, laser_NN rays_NNS ,_, or_CC nerve_NN gas_NN ._.
+1_LS ._.
+I_PRP ignore_VBP the_DT demands_NNS of_IN others_NNS ._.
+2_LS ._.
+I_PRP subscribe_VBP to_TO one_CD or_CC more_JJR of_IN the_DT following_NN :_: Soldier_NN of_IN Fortune_NNP ,_, Hustler_NNP ,_, Popular_NNP Mechanics_NNPS ,_, Self_NNP ._.
+3_LS ._.
+Though_IN I_PRP have_VBP many_JJ interesting_JJ acquaintances_NNS ,_, I_PRP am_VBP my_PRP$ own_JJ best_JJS friend_NN ._.
+4_LS ._.
+I_PRP know_VBP what_WP to_TO say_VB after_IN you_PRP say_VBP ``_`` Hello_UH ,_, ''_'' but_CC I_PRP am_VBP seldom_RB interested_JJ in_IN pursuing_VBG the_DT conversation_NN ._.
+5_CD ._.
+I_PRP have_VBP seen_VBN the_DT movie_NN ``_`` The_DT Deer_NNS Hunter_NNP ''_'' more_JJR than_IN once_RB ._.
+6_CD ._.
+I_PRP know_VBP that_IN everyone_NN can_MD be_VB a_DT winner_NN if_IN they_PRP want_VBP to_TO ,_, and_CC I_PRP resent_VBP whiners_NNS ._.
+7_CD ._.
+I_PRP own_VBP one_CD or_CC more_JJR of_IN the_DT following_NN :_: handgun_NN ,_, video_NN game_NN ,_, trash_NN compactor_NN ,_, snowmobile_NN ._.
+8_CD ._.
+I_PRP am_VBP convinced_VBN that_IN leukemia_NN is_VBZ psychosomatic_JJ ._.
+9_CD ._.
+I_PRP am_VBP aware_JJ that_IN most_JJS vegetarians_NNS are_VBP sexually_RB impotent_JJ ._.
+10_CD ._.
+I_PRP have_VBP read_VBN evidence_NN that_IN solar_JJ energy_NN is_VBZ a_DT Communist_JJ conspiracy_NN ._.
+Myths_NNS About_IN Nuclear_NNP War_NNP Ever_RB since_IN the_DT first_JJ mushroom_NN cloud_NN over_IN Hiroshima_NNP ushered_VBD in_IN the_DT atomic_JJ age_NN ,_, a_DT small_JJ group_NN of_IN nay-sayers_NNS and_CC doom-mongers_NNS has_VBZ lobbied_VBN ,_, campaigned_VBN and_CC demonstrated_VBN to_TO convince_VB Americans_NNS that_WDT H-bomb_VBP ownership_NN ,_, along_IN with_IN nuclear_JJ power_NN ,_, is_VBZ dangerous_JJ and_CC unhealthy_JJ ._.
+Using_VBG their_PRP$ virtual_JJ stranglehold_NN over_IN the_DT media_NNS ,_, these_DT people_NNS have_VBP tried_VBN to_TO discredit_VB everything_NN nuclear_JJ from_IN energy_NN to_TO war_NN ._.
+They_PRP have_VBP vastly_RB overrated_VBN the_DT risks_NNS of_IN nuclear_JJ bombs_NNS and_CC left_VBD many_JJ Americans_NNPS feeling_VBG demoralized_VBN and_CC indecisive_JJ ;_: not_RB sure_JJ where_WRB the_DT truth_NN lies_VBZ ._.
+Well_RB ,_, here_RB are_VBP the_DT myths_NNS ,_, and_CC here_RB are_VBP the_DT facts_NNS ._.
+Myth_NNP :_: After_IN a_DT nuclear_JJ exchange_NN the_DT earth_NN will_MD no_RB longer_RB be_VB suitable_JJ for_IN human_JJ habitation_NN ._.
+Fact_NN :_: This_DT is_VBZ completely_RB false_JJ ._.
+According_VBG to_TO one_CD scientist_NN -LRB-_-LRB- quoted_VBN in_IN John_NNP McPee_NNP 's_POS The_DT Curve_NN of_IN Binding_NNP Energy_NNP -RRB-_-RRB- ``_`` The_DT largest_JJS bomb_NN that_WDT has_VBZ ever_RB been_VBN exploded_VBN anywhere_RB was_VBD 60_CD megatons_NNS ,_, and_CC that_DT is_VBZ one-thousandth_JJ the_DT force_NN of_IN an_DT earthquake_NN ,_, one-thousandth_JJ the_DT force_NN of_IN a_DT hurricane_NN ._.
+We_PRP have_VBP lived_VBN with_IN earthquakes_NNS and_CC hurricanes_NNS for_IN a_DT long_JJ time_NN ._. ''_''
+Another_DT scientist_NN adds_VBZ ,_, ``_`` It_PRP is_VBZ often_RB assumed_VBN that_IN a_DT full_JJ blown_VBN nuclear_JJ war_NN would_MD be_VB the_DT end_NN of_IN life_NN on_IN earth_NN ._.
+That_DT is_VBZ far_RB from_IN the_DT truth_NN ._.
+To_TO end_VB life_NN on_IN earth_NN would_MD take_VB at_IN least_JJS a_DT thousand_CD times_NNS the_DT total_JJ yield_NN of_IN all_PDT the_DT nuclear_JJ explosives_NNS existing_VBG in_IN the_DT world_NN ,_, and_CC probably_RB a_DT lot_NN more_RBR ._. ''_''
+Even_RB if_IN humans_NNS succumbed_VBN ,_, many_JJ forms_NNS of_IN life_NN would_MD survive_VB a_DT nuclear_JJ free-for-all_NN ,_, cockroaches_NNS ,_, certain_JJ forms_NNS of_IN bacteria_NNS ,_, and_CC lichens_NNS ,_, for_IN instance_NN ._.
+Myth_NNP :_: Radiation_NNP is_VBZ bad_JJ for_IN you_PRP ._.
+Fact_NN :_: Everything_NN is_VBZ bad_JJ for_IN you_PRP if_IN you_PRP have_VBP too_RB much_JJ of_IN it_PRP ._.
+If_IN you_PRP eat_VBP too_RB many_JJ bananas_NNS you_PRP 'll_MD get_VB a_DT stomach-ache_NN ._.
+If_IN you_PRP get_VBP too_RB much_JJ sun_NN you_PRP can_MD get_VB sunburned_VBN -LRB-_-LRB- or_CC even_RB skin_NN cancer_NN -RRB-_-RRB- ._.
+Same_JJ thing_NN with_IN radiation_NN ._.
+Too_RB much_RB may_MD make_VB you_PRP feel_VB under_IN the_DT weather_NN ,_, but_CC nuclear_JJ industry_NN officials_NNS insist_VBP that_IN there_EX is_VBZ no_DT evidence_NN that_IN low-level_JJ radiation_NN has_VBZ any_DT really_RB serious_JJ adverse_JJ effects_NNS ._.
+And_CC ,_, high-level_JJ radiation_NN may_MD bring_VB unexpected_JJ benefits_NNS ._.
+It_PRP speeds_VBZ up_RP evolution_NN by_IN weeding_VBG out_RP unwanted_JJ genetic_JJ types_NNS and_CC creating_VBG new_JJ ones_NNS ._.
+-LRB-_-LRB- Remember_VB the_DT old_JJ saying_VBG ,_, ``_`` Two_CD heads_NNS are_VBP better_JJR than_IN one_CD ._. ''_'' -RRB-_-RRB-
+Nearer_IN to_TO home_NN ,_, it_PRP 's_VBZ plain_JJ that_IN radiation_NN will_MD get_VB rid_VB of_IN pesky_JJ crab_NN grass_NN and_CC weeds_NNS ,_, and_CC teenagers_NNS will_MD find_VB that_DT brief_JJ exposure_NN to_TO a_DT nuclear_JJ burst_NN vaporizes_NNS acne_NN and_CC other_JJ skin_NN blemishes_NNS ._.
+-LRB-_-LRB- Many_JJ survivors_NNS of_IN the_DT Hiroshima_NNP bomb_NN found_VBD that_IN they_PRP were_VBD free_JJ from_IN skin_NN and_CC it_PRP 's_VBZ attendant_JJ problems_NNS forever_RB ._. -RRB-_-RRB-
+We_PRP hope_VBP this_DT clears_VBZ up_RP any_DT misconceptions_NNS you_PRP may_MD have_VB had_VBN ._.
+Enjoy_VB your_PRP$ H-Bomb_NN !_.
+testing_NN !!!_CD testing_NN !!!_NN

@@ -5,9 +5,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.PosScorerImpl;
+import com.outofprintmagazine.nlp.scores.Score;
 
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.CoreDocument;

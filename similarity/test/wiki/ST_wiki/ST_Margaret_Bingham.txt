@@ -1,0 +1,15 @@
+Margaret_NNP Bingham_NNP ,_, Countess_NNP of_IN Lucan_NNP -LRB-_-LRB- 1740_CD ''_'' 27_CD February_NNP 1814_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- -RRB-_-RRB- was_VBD a_DT British_JJ painter_NN ,_, copyist_NN ,_, and_CC poet_NN ._.
+Her_PRP$ art_NN was_VBD much_JJ admired_VBN by_IN Horace_NNP Walpole_NNP ._.
+Margaret_NNP Bingham_NNP was_VBD born_VBN Margaret_NNP Smyth_NNP in_IN Devon_NNP ,_, England_NNP ,_, the_DT younger_JJR of_IN the_DT two_CD daughters_NNS of_IN James_NNP Smith_NNP MP_NNP of_IN Canons-Leigh_NNP ,_, Devon_NNP ,_, and_CC his_PRP$ wife_NN Grace_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP married_VBD Charles_NNP Bingham_NNP ,_, later_RB 1st_CD Earl_NNP of_IN Lucan_NNP ,_, in_IN 1760_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP died_VBD in_IN 1814_CD at_IN St_NNP James_NNP 's_POS Place_NNP in_IN London_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC was_VBD survived_VBN by_IN five_CD children_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- As_IN an_DT artist_NN ,_, Bingham_NNP often_RB copied_VBD the_DT work_NN of_IN others_NNS ,_, as_RB well_RB as_IN painting_NN portrait_NN miniatures_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Her_PRP$ work_NN was_VBD collected_VBN in_IN the_DT United_NNP Kingdom_NNP and_CC in_IN France_NNP ._.
+In_IN Paris_NNP she_PRP was_VBD given_VBN access_NN to_TO the_DT Palais-Royal_NNP to_TO copy_VB works_NNS of_IN the_DT artists_NNS on_IN display_NN there_RB ,_, which_WDT were_VBD owned_VBN by_IN the_DT Duke_NNP of_IN Orléans_NNPS ._.
+Her_PRP$ foremost_JJ work_NN was_VBD to_TO supply_VB miniatures_NNS and_CC illuminations_NNS for_IN a_DT five-volume_JJ edition_NN of_IN Shakespeare_NNP 's_POS historical_JJ plays_NNS ,_, for_IN the_DT library_NN at_IN Althorp_NNP ,_, Northamptonshire_NNP ._.
+This_DT took_VBD 16_CD years_NNS to_TO complete_VB ._.
+She_PRP also_RB painted_VBD portraits_NNS ,_, still_RB lifes_NNS ,_, and_CC landscapes_NNS ._.
+She_PRP was_VBD greatly_RB admired_VBN by_IN Horace_NNP Walpole_NNP and_CC there_EX are_VBP several_JJ flattering_JJ allusions_NNS to_TO her_PRP$ in_IN his_PRP$ letters_NNS ._.
+In_IN his_PRP$ Anecdotes_NNP Walpole_NNP attributes_VBZ to_TO her_PRP$ ``_`` a_DT genius_NN that_WDT almost_RB depreciates_VBZ those_DT masters_NNS -LRB-_-LRB- from_IN whom_WP she_PRP copied_VBD ,_, -RRB-_-RRB- when_WRB we_PRP consider_VBP that_IN they_PRP spent_VBD their_PRP$ lives_NNS in_IN attaining_VBG perfection_NN ._. ''_''
+-LRB-_-LRB- 1_CD -RRB-_-RRB- As_IN a_DT writer_NN Lady_NNP Lucan_NNP published_VBD around_IN 1778_CD Verses_NNS on_IN the_DT Present_NNP State_NNP of_IN Ireland_NNP ,_, a_DT strong_JJ poetic_JJ protest_NN against_IN Britain_NNP 's_POS treatment_NN of_IN Ireland_NNP ._.
+It_PRP was_VBD published_VBN in_IN Dublin_NNP under_IN the_DT pseudonym_NN Lady_NNP L_NNP ``_`` n._FW -LRB-_-LRB- 2_LS -RRB-_-RRB-

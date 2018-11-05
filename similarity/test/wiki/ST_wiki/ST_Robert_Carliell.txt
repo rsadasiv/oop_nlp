@@ -1,0 +1,13 @@
+Robert_NNP Carliell_NNP or_CC Carleill_NNP -LRB-_-LRB- died_VBD c._NN 1622_CD -RRB-_-RRB- was_VBD an_DT English_JJ didactic_NN poet_NN ._.
+Carliell_NNP is_VBZ remembered_VBN mainly_RB for_IN a_DT verse_JJ defense_NN of_IN the_DT new_JJ Church_NNP of_IN England_NNP and_CC diatribe_NN against_IN the_DT Roman_NNP Catholic_NNP Church_NNP :_: Britaine_NNP 's_POS glorie_NN ,_, or_CC An_DT allegoricall_NN dreame_NN with_IN the_DT exposition_NN thereof_RB :_: containing_VBG The_DT Heathens_NNP infidelitie_NN in_IN religion_NN ._.
+The_DT Turkes_NNPS blasphemie_NN in_IN religion_NN ._.
+The_DT Popes_NNP hypocrisie_NN in_IN religion_NN ._.
+Amsterdams_NNP varietie_NN in_IN religion_NN ._.
+The_DT Church_NNP of_IN Englands_NNP veritie_NN in_IN religion_NN ._.
+Conceiued_NNP and_CC written_VBN by_IN Robert_NNP Carliell_NNP Gent_NNP ._.
+It_PRP was_VBD dedicated_VBN ``_`` to_TO all_DT vertuous_JJ Nobilitie_NNP and_CC well_RB affected_JJ Gentrie_NNP ''_'' ,_, to_TO whom_WP he_PRP wished_VBD ``_`` Grace_NNP ,_, Mercy_NNP ,_, and_CC Peace_NNP in_IN Jesus_NNP Christ_NNP ''_'' ._.
+This_DT didactic_JJ poem_NN of_IN 42_CD six-line_JJ stanzas_NNS was_VBD first_JJ published_VBN ,_, accompanied_VBN by_IN a_DT prose_NN exposition_NN ,_, in_IN 1619_CD by_IN G._NNP Eld_NNP and_CC M._NNP Flesher_NNP of_IN London_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN his_PRP$ exposition_NN he_PRP likens_VBZ Roman_JJ Catholics_NNPS and_CC Protestant_JJ schismatics_NNS to_TO tobacco_NN ,_, for_IN ``_`` so_RB doth_JJ their_PRP$ profession_NN and_CC their_PRP$ faith_NN in_IN their_PRP$ Religion_NNP make_VBP their_PRP$ soules_NNS black_JJ ,_, and_CC cause_VB filthy_JJ blasphemies_NNS to_TO come_VB out_IN of_IN their_PRP$ mouthes_NNS ._. ''_''
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT poet_NN is_VBZ thought_VBN to_TO have_VB been_VBN the_DT Robert_NNP Carleill_NNP who_WP was_VBD a_DT citizen_NN of_IN London_NNP and_CC a_DT leather_NN seller_NN ,_, and_CC who_WP left_VBD a_DT legacy_NN to_TO an_DT estranged_VBN son_NN Robert_NNP ,_, in_IN a_DT will_MD dated_VBN 9_CD October_NNP 1622_CD ._.
+His_PRP$ wife_NN 's_POS name_NN was_VBD Frances_NNP and_CC he_PRP had_VBD owned_VBN property_NN in_IN Bell_NNP Alley_NNP ,_, off_IN Coleman_NNP Street_NNP ,_, in_IN the_DT parish_NN of_IN St_NNP Botolph-without-Bishopsgate_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

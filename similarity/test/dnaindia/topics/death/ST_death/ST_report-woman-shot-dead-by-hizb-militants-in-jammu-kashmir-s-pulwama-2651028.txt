@@ -1,0 +1,4 @@
+A_DT woman_NN was_VBD shot_VBN dead_JJ by_IN suspected_VBN militants_NNS of_IN the_DT Hizbul_NNP Mujahideen_NNP in_IN Jammu_NNP and_CC Kashmir_NNP 's_POS Pulwama_NNP district_NN today_NN ,_, police_NN said_VBD ._.
+Shameema_NNP Bano_NNP ,_, a_DT resident_NN of_IN Quil_NNP ,_, was_VBD shot_VBN in_IN the_DT Drubgam_NNP area_NN of_IN Pulwama_NNP ,_, an_DT official_NN said_VBD ._.
+He_PRP said_VBD the_DT woman_NN was_VBD rushed_VBN to_TO a_DT hospital_NN where_WRB doctors_NNS declared_VBD her_PRP$ dead_JJ ._.
+A_DT police_NN spokesman_NN said_VBD banned_VBN militant_JJ outfit_NN Hizbul_NNP Mujahideen_NNP was_VBD behind_IN the_DT killing_VBG of_IN the_DT woman_NN ._.

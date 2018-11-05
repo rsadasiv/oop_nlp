@@ -1,0 +1,376 @@
+Taking_VBG [PRESP]
+a_DT
+leaf_NN
+out_PIN
+of_PIN
+Yogi_NN
+Adityanath_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+book_NN
+,_,
+Himachal_NN
+Pradesh_NN
+Chief_NN
+Minister_NN
+Jai_NN
+Ram_NN
+Thakur_NN
+is_VPRT
+looking_VBG
+for_PIN
+renaming_VBG
+capital_NN
+city_NOMZ
+Shimla_NN
+._.
+According_VBG [PRESP]
+to_PIN
+a_DT
+report_NN
+by_PIN
+The_DT
+Hindustan_NN
+Times_NN
+,_,
+the_DT
+Himachal_NN
+Pradesh_NN
+government_NOMZ
+wants_VPRT
+to_TO
+rename_VB
+Shimla_NN
+as_IN
+Shyamala_NN
+._.
+Thakur_NN
+will_PRMD
+seek_VB
+public_JJ
+opinion_NN
+for_PIN
+the_DT
+renaming_VBG
+exercise_NN
+,_,
+the_DT
+report_NN
+said_VBD [PUBV]
+._.
+Before_IN
+this_DEMO
+in_PIN
+2016_CD
+,_,
+the_DT
+then_RB
+Chief_NN
+Minister_NN
+Virbhadra_NN
+Singh_NN
+had_VBD [PEAS]
+rejected_VBN
+such_JJ
+demands_NN
+and_CC
+said_VBD [PUBV] [THATD]
+that_DEMP
+being_VBG [BEMA]
+a_DT
+global_JJ
+tourist_NN
+destination_NOMZ
+,_,
+there_EX
+was_VBD
+no_SYNE
+need_NN
+to_TO
+change_VB
+the_DT
+name_NN
+of_PIN
+Shimla_NN
+._.
+But_CC
+,_,
+the_DT
+present_JJ
+BJP_NN
+government_NOMZ
+and_CC
+its_PIT
+ministers_NN
+think_VPRT [PRIV]
+otherwise_CONJ
+._.
+Himachal_NN
+health_NN
+minister_NN
+Vipin_NN
+Parmar_NN
+believes_VPRT [PRIV]
+that_THVC
+there_EX
+is_VPRT
+<sup>_PRED
+~_CD
+</sup>_IN
+no_SYNE
+harm_NN
+<sup>_VPRT
+TM_NN
+</sup>_NN
+in_PIN
+changing_VBG
+the_DT
+name_NN
+._.
+The_DT
+Vishwa_NN
+Hindu_NN
+Parishad_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+one_CD
+of_PIN
+the_DT
+major_JJ
+voices_NN
+of_PIN
+changing_VBG
+name_NN
+of_PIN
+Shimla_NN
+._.
+VHP_NN
+state_NN
+chief_NN
+Aman_NN
+Puri_NN
+says_VPRT [PUBV]
+that_THVC
+the_DT
+British_JJ
+could_POMD
+not_XX0
+say_VB [PUBV]
+Shyamala_NN
+properly_RB
+and_ANDC
+hence_CONJ
+they_TPP3
+changed_VBD
+the_DT
+anme_NN
+to_PIN
+Shimla_NN
+._.
+He_TPP3
+says_VPRT [PUBV]
+that_THVC
+since_OSUB
+India_NN
+is_VPRT [BEMA]
+free_JJ
+country_NN
+now_TIME
+,_,
+we_FPP1
+can_POMD
+go_VB
+back_RB
+to_PIN
+the_DT
+old_JJ
+names_NN
+._.
+Continuing_VBG [PRESP]
+with_PIN
+the_DT
+names_NN
+given_VBN [WZPAST]
+by_PIN
+the_DT
+British_NN
+is_VPRT [BEMA]
+a_DT
+sign_NN
+of_PIN
+`_``
+mental_JJ
+slavery_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+,_,
+the_DT
+VHP_NN
+said_VBD [PUBV]
+._.
+Last_JJ
+week_NN
+,_,
+Uttar_NN
+Pradesh_NN
+cabinet_NN
+had_VBD [PEAS]
+approved_VBN
+a_DT
+proposal_NN
+to_TO
+rename_VB
+Allahabad_NN
+as_IN
+Prayagraj_NN
+._.
+The_DT
+decision_NN
+was_VBD [PASS]
+taken_VBN
+at_PIN
+a_DT
+cabinet_NN
+meeting_GER
+presided_VBD
+over_RP
+by_PIN
+Chief_NN
+Minister_NN
+Yogi_NN
+Adityanath_NN
+._.
+Briefing_GER
+reporters_NN
+after_IN
+the_DT
+meeting_GER
+,_,
+senior_JJ
+Cabinet_NN
+minister_NN
+Siddhartha_NN
+Nath_NN
+Singh_NN
+said_VBD [PUBV]
+,_,
+``_``
+The_DT
+renaming_GER
+of_PIN
+Allahabad_NN
+as_IN
+Prayagraj_NN
+before_IN
+Kumbh_NN
+Mela_NN
+came_VBD
+for_PIN
+approval_NN
+in_PIN
+the_DT
+meeting_GER
+and_CC
+I_FPP1
+am_VPRT [BEMA]
+happy_PRED
+to_TO
+say_VB [PUBV] [THATD]
+Allahabad_NN
+will_PRMD [SPAU]
+now_TIME
+be_VB [PASS]
+known_VBN [PRIV]
+as_IN
+Prayagraj_NN
+._.
+''_''
+``_``
+Rig_NN
+Veda_NN
+,_,
+Mahabharat_NN
+and_PHC
+Ramayana_NN
+also_RB
+mention_VB [PUBV]
+Prayagraj_NN
+-LRB-_-LRB-
+for_PIN
+Allahabad_NN
+-RRB-_-RRB-
+,_,
+''_''
+he_TPP3
+noted_VBD [PRIV]
+._.
+``_``
+The_DT
+people_NN
+of_PIN
+entire_JJ
+Allahabad_NN
+,_,
+the_DT
+sages_NN
+and_PHC
+seers_NN
+wanted_VBD
+that_DEMO
+Allahabad_NN
+should_NEMD
+be_VB [PASS]
+known_VBN [PRIV]
+as_IN
+Prayagraj_NN
+._.
+Two_CD
+days_NN
+back_RB
+,_,
+when_RB
+the_DT
+chief_NN
+minister_NN
+had_VBD [PEAS]
+chaired_VBN
+a_DT
+meeting_GER
+pertaining_VBG [WZPRES]
+to_PIN
+Kumbh_NN
+there_RB
+,_,
+he_TPP3
+had_VBD [PEAS]
+himself_TPP3
+mooted_VBD
+that_DEMO
+Allahabad_NN
+should_NEMD
+be_VB [PASS]
+called_VBN
+Prayagraj_NN
+._.
+All_QUAN
+the_DT
+sages_NN
+and_PHC
+seers_NN
+had_VBD [PEAS]
+given_VBN
+their_TPP3
+unanimous_JJ
+approval_NN
+for_PIN
+the_DT
+same_JJ
+,_,
+''_''
+he_TPP3
+had_VBD [PEAS]
+said_VBN [PUBV]
+._.

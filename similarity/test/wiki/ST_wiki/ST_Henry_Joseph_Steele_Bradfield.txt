@@ -1,0 +1,18 @@
+Henry_NNP Joseph_NNP Steele_NNP Bradfield_NNP -LRB-_-LRB- 1805_CD ``_`` 1852_CD -RRB-_-RRB- was_VBD a_DT colonial_JJ official_NN and_CC author_NN ._.
+Bradfield_NNP was_VBD born_VBN on_IN 18_CD May_NNP 1805_CD in_IN Derby_NNP Street_NNP ,_, Westminster_NNP ,_, where_WRB his_PRP$ father_NN ,_, Thomas_NNP Bradfield_NNP ,_, was_VBD a_DT coal_NN merchant_NN ._.
+Whilst_NNP still_RB under_IN age_NN he_PRP published_VBD in_IN 1825_CD Waterloo_NNP ,_, or_CC the_DT British_JJ Minstrel_NNP ,_, a_DT poem_NN ._.
+He_PRP was_VBD bred_VBN to_TO the_DT art_NN of_IN surgery_NN ,_, and_CC on_IN 26_CD April_NNP 1826_CD left_VBD England_NNP in_IN the_DT schooner_NN Unicorn_NNP in_IN Lord_NNP Cochrane_NNP 's_POS expedition_NN to_TO Greece_NNP ,_, during_IN which_WDT he_PRP was_VBD present_JJ in_IN several_JJ engagements_NNS by_IN land_NN and_CC sea_NN ._.
+After_IN his_PRP$ return_NN he_PRP published_VBD The_DT Athenaid_NNP ,_, or_CC Modern_NNP Grecians_NNPS ,_, a_DT poem_NN ,_, 1830_CD ;_: Tales_NNS of_IN the_DT Cyclades_NNS ,_, poems_NNS ,_, 1830_CD ;_: and_CC in_IN 1839_CD edited_VBD a_DT work_NN entitled_VBN A_DT Russian_NNP 's_POS Reply_NNP to_TO the_DT Marquis_NNP de_IN Custine_NNP 's_POS oeRussia_NNP ._. ''_''
+On_IN 1_CD September_NNP 1832_CD he_PRP received_VBD from_IN the_DT King_NNP of_IN the_DT Belgians_NNPS a_DT commission_NN as_IN sous-lieutenant_JJ in_IN the_DT Bataillon_NNP Etranger_NNP of_IN Belgium_NNP ,_, and_CC was_VBD appointed_VBN to_TO the_DT 1st_CD regiment_NN of_IN lancers_NNS ._.
+At_IN one_CD time_NN he_PRP held_VBD a_DT commission_NN in_IN the_DT Royal_NNP West_NNP Middlesex_NNP Militia_NNP ._.
+He_PRP was_VBD appointed_VBN on_IN 31_CD December_NNP 1835_CD stipendiary_JJ magistrate_NN in_IN Tobago_NNP ,_, from_IN which_WDT he_PRP was_VBD removed_VBN to_TO Trinidad_NNP on_IN 13_CD May_NNP 1836_CD ._.
+He_PRP was_VBD reappointed_VBN to_TO the_DT southern_JJ or_CC Cedros_NNP district_NN on_IN 13_CD April_NNP 1839_CD ,_, but_CC soon_RB returned_VBD to_TO England_NNP ,_, having_VBG been_VBN superseded_VBN in_IN consequence_NN of_IN a_DT quarrel_VB with_IN some_DT other_JJ colonial_JJ officer_NN ._.
+In_IN 1841_CD he_PRP again_RB went_VBD to_TO the_DT West_NNP Indies_NNP in_IN the_DT capacity_NN of_IN private_JJ secretary_NN to_TO Colonel_NNP Macdonald_NNP ,_, lieutenant-governor_NN of_IN Dominica_NNP ,_, and_CC in_IN 1842_CD he_PRP acted_VBD for_IN some_DT time_NN as_IN colonial_NN secretary_NN in_IN Barbados_NNP ._.
+The_DT charges_NNS which_WDT had_VBD occasioned_VBN his_PRP$ previous_JJ return_NN were_VBD ,_, however_RB ,_, renewed_VBN ,_, and_CC the_DT government_NN canceled_VBD his_PRP$ appointment_NN ._.
+From_IN that_DT period_NN he_PRP lived_VBD very_RB precariously_RB ._.
+He_PRP turned_VBD his_PRP$ moderate_JJ literary_JJ talents_NNS to_TO account_VB ,_, and_CC among_IN some_DT communications_NNS he_PRP made_VBD to_TO the_DT Gentleman_NNP 's_POS Magazine_NN were_VBD articles_NNS on_IN ``_`` The_DT Last_JJ of_IN the_DT Paleologi_NNP ''_'' in_IN January_NNP 1843_CD ,_, and_CC a_DT ``_`` Memoir_NNP of_IN Major-general_JJ Thomas_NNP Dundas_NNP and_CC the_DT Expedition_NN to_TO Gaudaloupe_NNP ''_'' in_IN August_NNP ,_, September_NNP ,_, and_CC October_NNP in_IN the_DT same_JJ year_NN ._.
+Latterly_RB he_PRP practiced_VBD all_PDT the_DT arts_NNS of_IN the_DT professional_JJ mendicant_NN ._.
+He_PRP committed_VBD suicide_NN in_IN a_DT London_NNP hotel_NN on_IN 11_CD October_NNP 1852_CD ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Bradfield_NNP ,_, Henry_NNP Joseph_NNP Steele_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

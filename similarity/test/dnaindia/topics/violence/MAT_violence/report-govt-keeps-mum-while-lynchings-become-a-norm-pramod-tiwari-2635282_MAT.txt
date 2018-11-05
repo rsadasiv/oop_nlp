@@ -1,0 +1,368 @@
+Stating_VBG [PUBV] [PRESP]
+that_THVC
+so_RB
+far_PLACE
+61_CD
+mob_NN
+attacks_NN
+,_,
+all_QUAN
+caused_VBN
+by_PIN
+rumors_NN
+circulated_VBN [WZPAST]
+on_PIN
+social_JJ
+media_NN
+,_,
+have_VPRT [PEAS]
+been_VBN [PASS]
+reported_VBN [PUBV]
+in_PIN
+the_DT
+country_NN
+since_OSUB
+January_NN
+,_,
+Congress_NN
+leader_NN
+Pramod_NN
+Tiwari_NN
+said_VBD [PUBV]
+that_THVC
+these_DEMO
+lynchings_GER
+are_VPRT [SPAU]
+now_TIME
+becoming_VBG
+the_DT
+norm_NN
+of_PIN
+the_DT
+day_NN
+._.
+He_TPP3
+alleged_VBD [PUBV] [THATD]
+the_DT
+government_NOMZ
+has_VPRT [PEAS]
+not_XX0
+yet_RB
+done_VBN
+anything_QUPR
+to_TO
+ensure_VB [SUAV] [PRIV]
+law_NN
+and_PHC
+order_NN
+in_PIN
+cases_NN
+as_IN
+such_JJ
+._.
+``_``
+PM_NN
+Narendra_NN
+Modi_NN
+'s_POS
+criminal_JJ
+silence_NN
+on_PIN
+the_DT
+growing_VBG
+incidents_NN
+is_VPRT
+deafening_VBG
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+He_TPP3
+said_VBD [PUBV]
+there_EX
+has_VPRT [PEAS]
+been_VBN
+4.5_CD
+times_NN
+increase_NN
+in_PIN
+attacks_NN
+and_CC
+a_DT
+twofold_JJ
+rise_NN
+in_PIN
+deaths_NN
+due_JJ
+to_PIN
+mob_NN
+lynching_VBG [WZPRES]
+under_IN
+PM_NN
+Modi_NN
+'_POS
+swatch_NN
+._.
+``_``
+The_DT
+responsibility_NOMZ
+of_PIN
+maintaining_VBG [PUBV]
+law_NN
+and_PHC
+order_NN
+is_VPRT
+that_DEMO
+of_PIN
+the_DT
+elected_VBN
+government_NOMZ
+._.
+These_DEMP
+growing_VBG
+incidents_NN
+of_PIN
+violence_NN
+show_NN
+that_TOBJ
+people_NN
+have_VPRT [PEAS]
+lost_VBN
+their_TPP3
+faith_NN
+in_PIN
+the_DT
+BJP_NN
+government_NOMZ
+._.
+The_DT
+tacit_JJ
+support_NN
+offered_VBN [WZPAST]
+by_PIN
+the_DT
+BJP_NN
+to_PIN
+those_DEMP
+accused_VBN
+and_PHC
+convicted_VBN
+of_PIN
+such_JJ
+crimes_NN
+is_VPRT [BEMA]
+more_EMPH
+than_PIN
+evident_JJ
+when_RB
+Civil_NN
+Aviation_NOMZ
+MoS_NN
+Jayant_NN
+Sinha_NN
+garlanded_VBD
+those_DEMP
+convicted_VBN
+in_PIN
+the_DT
+Ramgarh_NN
+mob_NN
+lynching_VBG [WZPRES]
+incident_NN
+,_,
+or_CC
+when_RB
+MSME_NN
+MoS_NN
+Giriraj_NN
+Singh_NN
+specially_RB
+paid_VBD
+a_DT
+visit_NN
+in_PIN
+jail_NN
+to_PIN
+those_DEMP
+accused_VBN
+of_PIN
+inciting_VBG
+communal_JJ
+violence_NN
+,_,
+or_CC
+when_RB
+MoS_NN
+Culture_NN
+&_CC
+Environment_NOMZ
+Dr_NN
+Mahesh_NN
+Sharma_NN
+visited_VBD
+the_DT
+accused_VBN
+in_PIN
+Dadri_NN
+mob_NN
+lynching_VBG [WZPRES]
+case_NN
+and_CC
+went_VBD
+to_PIN
+the_DT
+extent_NN
+of_PIN
+draping_VBG
+the_DT
+coffin_NN
+of_PIN
+one_CD
+of_PIN
+the_DT
+accused_VBN
+with_PIN
+the_DT
+tricolor_NN
+,_,
+''_''
+said_VBD [PUBV]
+Tiwari_NN
+._.
+Tiwari_NN
+said_VBD [PUBV]
+that_THVC
+BJP_NN
+president_NN
+Amit_NN
+Shah_NN
+has_VPRT [SPAU] [PEAS]
+also_RB
+refrained_VBN
+from_PIN
+taking_VBG
+any_QUAN
+action_NOMZ
+on_PIN
+any_QUAN
+of_PIN
+these_DEMO
+ministers_NN
+and_PHC
+party_NN
+members_NN
+._.
+``_``
+Those_DEMP
+who_WP
+stay_VPRT
+silent_JJ
+and_CC
+act_NN
+as_IN
+mute_JJ
+spectators_NN
+,_,
+will_PRMD
+be_VB [PASS]
+considered_VBN [PRIV]
+complicit_NN
+in_PIN
+these_DEMO
+crimes_NN
+,_,
+''_''
+said_VBD [PUBV]
+Tiwari_NN
+._.
+According_VBG [PRESP]
+to_PIN
+data_NN
+from_PIN
+the_DT
+National_NN
+Crime_NN
+Records_NN
+Bureau_NN
+,_,
+in_PIN
+Tamil_NN
+Nadu_NN
+which_WDT [WHSUB]
+is_VPRT [PASS]
+ranked_VBN
+18th_JJ
+in_PIN
+terms_NN
+of_PIN
+child_NN
+abduction_NOMZ
+numbers_NN
+,_,
+four_CD
+people_NN
+have_VPRT [PEAS]
+died_VBN
+due_JJ
+to_PIN
+child-lifting_JJ
+rumors_NN
+,_,
+while_OSUB
+12_CD
+have_VPRT [PEAS]
+been_VBN [PASS]
+injured_VBN
+._.
+In_PIN
+Rajasthan_NN
+,_,
+ranked_VBD
+10th_JJ
+,_,
+one_CD
+person_NN
+has_VPRT [PEAS]
+died_VBN
+and_CC
+another_DT
+injured_VBN
+._.
+In_PIN
+Odisha_NN
+,_,
+which_WDT [SERE]
+ranks_VPRT
+13th_JJ
+,_,
+one_CD
+person_NN
+has_VPRT [PEAS]
+died_VBN
+and_CC
+15_CD
+injured_JJ
+due_JJ
+to_PIN
+these_DEMO
+rumors_NN
+._.
+And_ANDC
+in_PIN
+Jharkhand_NN
+,_,
+which_WDT [SERE]
+ranks_VPRT
+19th_JJ
+,_,
+seven_CD
+people_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+injured_VBN
+while_OSUB
+two_CD
+have_VPRT [PEAS]
+died_VBN
+._.

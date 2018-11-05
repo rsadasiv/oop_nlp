@@ -1,0 +1,251 @@
+A_DT
+suicide_NN
+bomber_NN
+blew_VBD
+himself_TPP3
+up_RP
+in_PIN
+the_DT
+Afghan_NN
+capital_NN
+on_PIN
+Saturday_NN
+,_,
+killing_VBG [PRESP]
+at_PIN
+least_JJ
+15_CD
+people_NN
+as_IN
+voting_NN
+concluded_VBD [PRIV]
+in_PIN
+parliamentary_JJ
+elections_NOMZ
+that_TSUB
+were_VBD [BYPA]
+overshadowed_VBN
+by_PIN
+the_DT
+threat_NN
+of_PIN
+attacks_NN
+and_CC
+serious_JJ
+organizational_JJ
+problems_NN
+._.
+Voting_GER
+should_NEMD
+have_VB [PEAS]
+been_VBN [BYPA]
+concluded_VBN [PRIV]
+by_PIN
+the_DT
+time_NN
+the_DT
+attacker_NN
+struck_VBD
+in_PIN
+an_DT
+area_NN
+to_PIN
+the_DT
+north_PLACE
+of_PIN
+Kabul_NN
+,_,
+but_CC
+polling_GER
+stations_NOMZ
+were_VBD [PASS]
+kept_VBN
+open_RB
+longer_RB
+than_PIN
+normal_JJ
+to_TO
+cope_VB
+with_PIN
+large_JJ
+numbers_NN
+of_PIN
+people_NN
+who_WP [WHSUB]
+had_VBD [PEAS]
+been_VBN [BEMA]
+unable_PRED
+to_TO
+vote_VB [SUAV]
+._.
+Ten_CD
+civilians_NN
+and_CC
+five_CD
+police_NN
+officers_NN
+were_VBD [PASS]
+killed_VBN
+when_RB
+the_DT
+bomber_NN
+tried_VBD
+to_TO
+enter_VB
+a_DT
+polling_GER
+station_NOMZ
+and_CC
+more_EMPH
+than_PIN
+25_CD
+were_VBD [PASS]
+wounded_VBN
+,_,
+a_DT
+senior_JJ
+security_NOMZ
+official_NN
+said_VBD [PUBV]
+._.
+The_DT
+attack_NN
+appeared_VBD [SMP]
+to_TO
+have_VB [PEAS]
+been_VBN [BEMA]
+the_DT
+most_EMPH
+serious_JJ
+of_PIN
+a_DT
+day_NN
+marked_VBN [WZPAST]
+by_PIN
+a_DT
+series_NN
+of_PIN
+smaller-scale_JJ
+incidents_NN
+that_TSUB
+caused_VBD
+dozens_NN
+of_PIN
+casualties_NN
+across_PLACE
+the_DT
+country_NN
+._.
+There_EX
+was_VBD
+no_SYNE
+immediate_JJ
+claim_NN
+of_PIN
+responsibility_NOMZ
+._.
+Taliban_NN
+militants_NN
+have_VPRT [PEAS]
+issued_VBN
+a_DT
+series_NN
+of_PIN
+statements_NOMZ
+telling_VBG [WZPRES]
+people_NN
+not_XX0
+to_TO
+take_VB
+part_NN
+in_PIN
+what_WP
+they_TPP3
+consider_VPRT [PRIV]
+a_DT
+foreign-imposed_JJ
+process_NN
+and_CC
+warning_VBG [PUBV]
+election_NOMZ
+centres_NN
+may_POMD
+be_VB [PASS]
+attacked_VBN
+._.
+Wider_JJ
+election_NOMZ
+concerns_NN
+have_VPRT [PEAS]
+centred_VBN
+on_PIN
+technical_JJ
+and_PHC
+organisational_JJ
+problems_NN
+with_PIN
+biometric_JJ
+voter-registration_NOMZ
+equipment_NOMZ
+,_,
+polling_GER
+stations_NOMZ
+not_XX0
+opening_VBG
+on_PIN
+time_NN
+,_,
+missing_VBG
+election_NOMZ
+materials_NN
+and_PHC
+delays_NN
+forcing_VBG [WZPRES]
+lengthy_JJ
+waits_VPRT
+._.
+The_DT
+Independent_NN
+Election_NOMZ
+Commission_NN
+-LRB-_-LRB-
+IEC_NN
+-RRB-_-RRB-
+,_,
+the_DT
+body_NN
+overseeing_VBG [WZPRES]
+the_DT
+ballot_NN
+,_,
+said_VBD [PUBV]
+voting_NN
+hours_NN
+would_PRMD
+be_VB [PASS]
+extended_VBN
+in_PIN
+some_QUAN
+centres_NN
+to_TO
+cope_VB
+with_PIN
+demand_NN
+and_CC
+some_QUAN
+polling_GER
+stations_NOMZ
+,_,
+which_WDT [SERE]
+had_VBD [PEAS]
+not_XX0
+opened_VBN
+at_PIN
+all_QUAN
+,_,
+would_PRMD
+be_VB [BEMA]
+open_PRED
+on_PIN
+Sunday_NN
+._.

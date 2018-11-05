@@ -1,0 +1,68 @@
+New_NN
+York_NN
+Fashion_NN
+Week_NN
+Spring_GER
+Summer_NN
+2019_CD
+collections_NOMZ
+are_VPRT
+being_VBG [PASS]
+showcased_VBN
+and_CC
+one_CD
+trend_NN
+which_WDT [WHSUB]
+has_VPRT [PEAS]
+emerged_VBN
+is_VPRT [BEMA]
+of_PIN
+perforated_JJ
+overlays_NN
+on_PIN
+dresses_NN
+._.
+From_PIN
+Area_NN
+to_PIN
+Cushnie_NN
+,_,
+from_PIN
+Dion_NN
+Lee_NN
+to_PIN
+Pyer_NN
+Moss_NN
+''_''
+designers_NN
+put_VBD
+the_DT
+focus_NN
+back_RB
+on_PIN
+the_DT
+latticed_JJ
+pieces_NN
+._.
+Some_QUAN
+of_PIN
+these_DEMO
+overlays_NN
+had_VBD
+tassel_NN
+accents_NN
+which_WDT [WHSUB]
+added_VBD [PUBV]
+to_PIN
+the_DT
+drama_NN
+of_PIN
+the_DT
+line-ups_NN
+as_IN
+models_NN
+swished_VBN
+down_IN
+the_DT
+runway_NN
+._.

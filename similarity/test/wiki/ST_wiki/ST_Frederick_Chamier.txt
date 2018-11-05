@@ -1,0 +1,20 @@
+Frederick_NNP Chamier_NNP -LRB-_-LRB- 1796_CD ''_'' 29_CD October_NNP 1870_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN ,_, autobiographer_NN and_CC naval_JJ captain_NN born_VBN in_IN London_NNP ._.
+He_PRP was_VBD author_NN of_IN several_JJ nautical_JJ novels_NNS that_WDT remained_VBD popular_JJ through_IN the_DT 19th_JJ century_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Chamier_JJR was_VBD the_DT son_NN of_IN an_DT Anglo-Indian_JJ official_NN ,_, John_NNP Ezechial_NNP Chamier_NNP and_CC his_PRP$ wife_NN Georgiana_NNP ,_, daughter_NN of_IN Vice-Admiral_NNP Sir_NNP William_NNP Burnaby_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP entered_VBD the_DT Royal_NNP Navy_NNP in_IN 1809_CD ,_, joining_VBG the_DT frigate_NN Salsette_NNP as_IN a_DT midshipman_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN May_NNP 1810_CD ,_, while_IN serving_VBG on_IN Salsette_NNP ,_, Chamier_NNP watched_VBD Lord_NNP Byron_NNP swim_VBP across_IN the_DT Hellespont_NNP at_IN the_DT second_JJ attempt_NN ._.
+He_PRP described_VBD the_DT episode_NN in_IN his_PRP$ autobiography_NN ._.
+After_IN service_NN on_IN the_DT 74-gun_JJ Fame_NNP ,_, he_PRP was_VBD transferred_VBN to_TO Arethusa_NNP fighting_VBG the_DT slave_NN trade_NN ,_, followed_VBN by_IN another_DT transfer_NN to_TO Menelaus_NNP ._.
+He_PRP briefly_RB commanded_VBD the_DT 10-gun_JJ brig_NN Britomart_NNP in_IN 1827_CD ,_, but_CC thereafter_RB was_VBD very_RB soon_RB paid_VBN off_RP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP took_VBD no_DT further_JJ employment_NN ,_, and_CC in_IN 1833_CD was_VBD placed_VBN on_IN the_DT retired_JJ list_NN of_IN the_DT navy_NN ,_, on_IN which_WDT he_PRP was_VBD promoted_VBN to_TO be_VB captain_NN on_IN 1_CD April_NNP 1856_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Retiring_VBG in_IN 1827_CD ,_, he_PRP wrote_VBD his_PRP$ autobiography_NN ,_, The_DT Life_NNP of_IN a_DT Sailor_NNP ,_, which_WDT was_VBD serialised_VBN in_IN The_DT Metropolitan_NNP Magazine_NNP -LRB-_-LRB- 1831_CD ``_`` 32_CD -RRB-_-RRB- ._.
+He_PRP also_RB wrote_VBD nautical_JJ novels_NNS somewhat_RB in_IN the_DT style_NN of_IN Marryat_NNP ,_, including_VBG The_DT Unfortunate_JJ Man_NN -LRB-_-LRB- 1835_CD -RRB-_-RRB- ,_, Ben_NNP Brace_NNP ,_, the_DT Last_JJ of_IN Nelson_NNP 's_POS Agamemnons_NNPS -LRB-_-LRB- 1836_CD -RRB-_-RRB- ,_, The_DT Arethusa_NNP -LRB-_-LRB- 1837_CD -RRB-_-RRB- ,_, Jack_NNP Adams_NNP ,_, the_DT Mutineer_NNP -LRB-_-LRB- 1838_CD -RRB-_-RRB- ,_, The_DT Spitfire_NNP -LRB-_-LRB- 1840_CD -RRB-_-RRB- ,_, Tom_NNP Bowling_NNP -LRB-_-LRB- 1841_CD -RRB-_-RRB- ,_, Jack_NNP Malcolm_NNP 's_POS Log_NNP -LRB-_-LRB- 1846_CD -RRB-_-RRB- ._.
+He_PRP continued_VBD William_NNP James_NNP 's_POS Naval_NNP History_NN and_CC wrote_VBD some_DT books_NNS of_IN travel_NN ._.
+Chamier_NNP 's_POS most_RBS popular_JJ books_NNS were_VBD :_: In_IN 1870_CD The_DT Times_NNP described_VBD Chamier_NNP as_IN ``_`` a_DT veteran_NN novelist_NN ,_, one_CD ,_, indeed_RB ,_, whose_WP$ sea_NN novels_NNS some_DT quarter_NN of_IN a_DT century_NN ago_RB were_VBD almost_RB as_IN universally_RB popular_JJ as_IN those_DT of_IN Captain_NNP Marryat_NNP ._. ''_''
+The_DT only_JJ detailed_JJ publication_NN on_IN Chamier_NNP 's_POS life_NN and_CC works_VBZ is_VBZ a_DT PhD_NNP dissertation_NN by_IN P._NNP J._NNP van_NNP der_NN Voort_NNP ,_, The_DT Pen_NNP and_CC the_DT Quarterdeck_NNP -LRB-_-LRB- Leiden_NNP University_NNP Press_NNP ,_, 1972_CD -RRB-_-RRB- ._.
+Frederick_NNP Chamier_NNP claimed_VBD to_TO be_VB descended_VBN from_IN the_DT 17th-century_JJ French_JJ Huguenot_NNP politician_NN Daniel_NNP Chamier_NNP ._.
+He_PRP died_VBD on_IN 29_CD October_NNP 1870_CD in_IN Paris_NNP and_CC was_VBD survived_VBN by_IN his_PRP$ wife_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cousin_NN ,_, John_NNP William_NNP -LRB-_-LRB- 1910_CD -RRB-_-RRB- ._.
+A_DT Short_JJ Biographical_NNP Dictionary_NNP of_IN English_NNP Literature_NNP ._.
+London_NNP :_: J._NNP M._NNP Dent_NNP &_CC Sons_NNP ._.
+Wikisource_NNP

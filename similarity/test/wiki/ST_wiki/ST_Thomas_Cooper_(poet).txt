@@ -1,0 +1,28 @@
+Thomas_NNP Cooper_NNP -LRB-_-LRB- 20_CD March_NNP 1805_CD ''_'' 15_CD July_NNP 1892_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN and_CC one_CD of_IN the_DT leading_VBG Chartists_NNS ._.
+He_PRP wrote_VBD poetry_NN ,_, notably_RB the_DT 944_CD stanzas_NNS of_IN his_PRP$ prison-rhyme_NN the_DT Purgatory_NNP of_IN Suicides_NNPS -LRB-_-LRB- 1845_CD -RRB-_-RRB- ,_, novels_NNS and_CC ,_, in_IN later_JJ life_NN ,_, religious_JJ texts_NNS ._.
+He_PRP was_VBD an_DT autodidact_NN ,_, working_VBG as_IN a_DT shoemaker_NN ,_, preacher_NN ,_, schoolmaster_NN and_CC journalist_NN before_IN taking_VBG up_RP Chartism_NNP in_IN 1840_CD ._.
+He_PRP was_VBD a_DT passionate_JJ ,_, determined_JJ and_CC fiery_JJ man_NN ._.
+Cooper_NNP was_VBD born_VBN in_IN Leicester_NNP ,_, and_CC apprenticed_VBD to_TO a_DT shoemaker_NN ._.
+In_IN spite_NN of_IN hardships_NNS and_CC difficulties_NNS ,_, he_PRP educated_VBD himself_PRP ,_, and_CC at_IN 23_CD was_VBD a_DT schoolmaster_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- After_IN journalistic_JJ work_NN in_IN Lincoln_NNP and_CC London_NNP he_PRP joined_VBD the_DT staff_NN of_IN the_DT Leicestershire_NNP Mercury_NNP in_IN 1840_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Leicester_NNP ,_, under_IN his_PRP$ leadership_NN ,_, became_VBD a_DT Chartist_NNP stronghold_NN ``_`` with_IN its_PRP$ own_JJ journals_NNS ,_, e.g._FW ._.
+The_DT Commonwealthman_NNP ,_, and_CC adult_NN school_NN ._.
+He_PRP became_VBD a_DT leader_NN and_CC lecturer_NN among_IN the_DT Chartists_NNP ,_, and_CC in_IN 1842_CD was_VBD imprisoned_VBN in_IN Stafford_NNP gaol_NN for_IN two_CD years_NNS after_IN the_DT riots_NNS in_IN the_DT potteries_NNS ,_, where_WRB he_PRP wrote_VBD his_PRP$ Purgatory_NNP of_IN Suicides_NNPS ,_, a_DT political_JJ epic_NN ._.
+Cooper_NNP abandoned_VBD full-time_JJ radicalism_NN on_IN his_PRP$ release_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- At_IN the_DT same_JJ time_NN he_PRP adopted_VBD sceptical_JJ views_NNS ,_, which_WDT he_PRP continued_VBD to_TO hold_VB until_IN 1855_CD ,_, when_WRB he_PRP became_VBD a_DT Christian_NNP ,_, joined_VBD the_DT Baptists_NNP ,_, and_CC was_VBD a_DT preacher_NN among_IN them_PRP ._.
+Though_IN still_RB calling_VBG himself_PRP a_DT Chartist_NNP ,_, he_PRP sought_VBD to_TO earn_VB a_DT living_NN and_CC a_DT reputation_NN as_IN a_DT writer_NN ._.
+In_IN addition_NN to_TO his_PRP$ poems_NNS he_PRP wrote_VBD several_JJ novels_NNS ._.
+However_RB ,_, novels_NNS like_IN Alderman_NNP Ralph_NNP -LRB-_-LRB- 1853_CD -RRB-_-RRB- failed_VBD on_IN both_DT those_DT counts_NNS ._.
+Having_VBG abandoned_VBN his_PRP$ religious_JJ beliefs_NNS at_IN the_DT time_NN of_IN his_PRP$ imprisonment_NN ,_, Cooper_NNP was_VBD dramatically_RB re-converted_JJ to_TO Christianity_NNP in_IN 1855_CD ._.
+He_PRP spent_VBD the_DT next_JJ thirty_CD years_NNS as_IN a_DT lecturer_NN in_IN defense_NN of_IN Christianity_NNP ,_, attacking_VBG the_DT evolutionary_JJ theories_NNS of_IN Charles_NNP Darwin_NNP and_CC Ernst_NNP Haeckel_NNP ._.
+He_PRP authored_VBD Evolution_NN ,_, The_DT Stone_NNP Book_NNP ,_, and_CC The_DT Mosaic_NNP Record_NNP of_IN Creation_NNP -LRB-_-LRB- 1878_CD -RRB-_-RRB- which_WDT argued_VBD for_IN creationism_NN and_CC rejected_VBD evolution_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN his_PRP$ latter_JJ years_NNS he_PRP settled_VBD down_RB into_IN an_DT old-fashioned_JJ Radical_NNP ._.
+His_PRP$ friends_NNS in_IN 1867_CD raised_VBD an_DT annuity_NN for_IN him_PRP ,_, and_CC in_IN the_DT last_JJ year_NN of_IN his_PRP$ life_NN he_PRP received_VBD a_DT government_NN pension_NN ._.
+He_PRP died_VBD at_IN Lincoln_NNP on_IN 15_CD July_NNP 1892_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP married_VBD in_IN 1834_CD ,_, but_CC his_PRP$ wife_NN died_VBD in_IN 1880_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Somewhat_RB impulsive_JJ ,_, he_PRP was_VBD an_DT honest_JJ and_CC sincere_JJ man_NN ._.
+His_PRP$ autobiography_NN -LRB-_-LRB- 1872_CD -RRB-_-RRB- is_VBZ regarded_VBN as_IN a_DT minor_JJ Victorian_JJ classic_NN ._.
+Thomas_NNP Cooper_NNP was_VBD buried_VBN in_IN Lincoln_NNP ._.
+In_IN addition_NN to_TO the_DT various_JJ papers_NNS with_IN which_WDT he_PRP was_VBD connected_VBN ,_, Cooper_NNP in_IN 1850_CD ran_VBD Cooper_NNP 's_POS Journal_NNP ,_, but_CC only_RB a_DT few_JJ issues_NNS appeared_VBD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- His_PRP$ major_JJ works_NNS were_VBD :_: -LRB-_-LRB- 3_LS -RRB-_-RRB- Cooper_NNP 's_POS collected_VBN Poetical_NNP Works_NNP were_VBD published_VBN in_IN London_NNP ,_, 1877_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

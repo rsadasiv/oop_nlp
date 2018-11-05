@@ -1,0 +1,17 @@
+The_DT Central_NNP Vigilance_NNP Commission_NNP -LRB-_-LRB- CVC_NNP -RRB-_-RRB- has_VBZ submitted_VBN a_DT detailed_JJ report_NN on_IN the_DT top_JJ 100_CD frauds_NNS in_IN the_DT banking_NN system_NN to_TO the_DT Reserve_NNP Bank_NNP of_IN India_NNP -LRB-_-LRB- RBI_NNP -RRB-_-RRB- and_CC the_DT Economic_NNP Offences_NNPS Wing_NNP -LRB-_-LRB- EOW_NNP -RRB-_-RRB- and_CC the_DT ministry_NN of_IN corporate_JJ affairs_NNS ._.
+The_DT first_JJ of_IN its_PRP$ kind_NN analysis_NN found_VBD loopholes_NNS in_IN the_DT lending_NN process_NN ,_, over-invoicing_NN and_CC fake_JJ bill_NN discounting_VBG as_IN modus_NN operandi_NNS used_VBN by_IN companies_NNS to_TO divert_VB bank_NN finance_NN from_IN the_DT core_NN business_NN ._.
+The_DT biggest_JJS banking_NN fraud_NN so_RB far_RB ,_, the_DT Rs_NNS 13,000_CD crore_NN scam_NN by_IN Nirav_NNP Modi_NNP ,_, was_VBD in_IN the_DT gems_NNS and_CC jewellery_NN segment_NN ._.
+The_DT CVC_NNP analysis_NN mentions_VBZ the_DT sector_NN as_IN a_DT major_JJ area_NN of_IN concern_NN ,_, followed_VBN by_IN manufacturing_NN ,_, aviation_NN ,_, services_NNS and_CC project_NN ,_, trading_NN ,_, the_DT information_NN technology_NN sectors_NNS ._.
+Discounting_NN of_IN cheques_NNS and_CC the_DT fixed_VBN deposit_NN frauds_NNS dominate_VBP the_DT top_JJ 100_CD banking_NN frauds_NNS in_IN the_DT country_NN ._.
+The_DT commission_NN says_VBZ that_IN in_IN the_DT gems_NNS and_CC jewellery_NN sector_NN ,_, three_CD companies_NNS adopted_VBD a_DT similar_JJ fraudulent_JJ business_NN model_NN ._.
+They_PRP imported_VBD gold_NN or_CC gems_NNS through_IN foreign_JJ banks_NNS or_CC private_JJ parties_NNS against_IN a_DT letter_NN of_IN credit_NN or_CC cash_NN credit_NN offered_VBN by_IN a_DT bank_NN ._.
+The_DT value-added_JJ jewellery_NN was_VBD exported_VBN ;_: the_DT value_NN of_IN diamonds_NNS was_VBD inflated_VBN to_TO get_VB higher_JJR credit_NN facilities_NNS ._.
+``_`` Export_NNP bills_NNS ,_, which_WDT remained_VBD unpaid_JJ on_IN the_DT due_JJ date_NN ,_, were_VBD purchased_VBN by_IN a_DT consortium_NN of_IN banks_NNS ,_, ''_'' the_DT analysis_NN noted_VBD ._.
+``_`` Simultaneously_RB ,_, the_DT disruption_NN of_IN cash_NN flow_NN led_VBD to_TO devolvement_NN of_IN Standby_NNP Letters_NNP of_IN Credit_NNP -LRB-_-LRB- SBLCs_NNP -RRB-_-RRB- and_CC outstanding_JJ cash_NN credit_NN remained_VBD unpaid_JJ ._.
+The_DT companies_NNS then_RB complained_VBD that_IN their_PRP$ receivables_NNS are_VBP not_RB being_VBG realized_VBN ,_, but_CC only_RB after_IN availing_VBG the_DT pre-shipment_NN as_IN SBLC_NNP ._. ''_''
+The_DT manufacturing_NN sector_NN was_VBD another_DT area_NN where_WRB CVC_NNP studied_VBD frauds_NNS perpetrated_VBN by_IN five_CD companies_NNS in_IN Pharmacy_NNP ,_, Textiles_NNP and_CC Ferrous_NNP metals_NNS ._.
+``_`` One_CD company_NN made_VBD purchases_NNS to_TO the_DT tune_NN of_IN Rs_NNS 6,740_CD crore_NN ._.
+Out_IN of_IN this_DT ,_, Rs_NNP 1,679.45_CD crore_NN was_VBD for_IN the_DT purchase_NN of_IN fancy_JJ shirting_NN ,_, ''_'' CVC_NNP noted_VBD ._.
+However_RB ,_, the_DT commission_NN was_VBD unable_JJ to_TO confirm_VB the_DT physical_JJ movement_NN of_IN the_DT material_NN ._.
+Mismatches_NNS were_VBD found_VBN in_IN products_NNS mentioned_VBN in_IN invoice_NN documents_NNS and_CC products_NNS mentioned_VBN in_IN the_DT books_NNS of_IN the_DT company_NN ._.
+Across_IN sectors_NNS ,_, the_DT commission_NN found_VBD over-invoicing_JJ issues_NNS ,_, fake_JJ bill_NN of_IN discounting_VBG and_CC diversion_NN of_IN funds_NNS as_IN the_DT major_JJ concerns_NNS ._.

@@ -1,0 +1,213 @@
+In_PIN
+Bollywood_NN
+,_,
+there_EX
+<sup>_VPRT
+TM_NN
+</sup>_NN
+s_VPRT [PASS]
+been_VBN [BEMA]
+a_DT
+notion_NOMZ
+that_DEMO
+marriage_NN
+affects_VPRT
+an_DT
+actress_NN
+<sup>_VPRT
+TM_NN
+</sup>_NN
+career_NN
+and_CC
+weakens_VPRT
+her_TPP3
+brand_NN
+equity_NOMZ
+._.
+But_CC
+that_DEMP
+has_VPRT [PEAS]
+been_VBN
+changing_VBG
+and_CC
+now_TIME
+Anushka_NN
+Sharma_NN
+is_VPRT [BEMA]
+in_PIN
+the_DT
+forefront_NN
+._.
+Post_NN
+her_TPP3
+wedding_GER
+,_,
+the_DT
+Pari_NN
+actress_NN
+is_VPRT
+being_VBG [PASS]
+seen_VBN [PRIV]
+as_IN
+the_DT
+face_NN
+of_PIN
+five_CD
+big_JJ
+mass_NN
+brands_NN
+._.
+oeFor_NN
+long_RB
+,_,
+the_DT
+industry_NN
+has_VPRT [PEAS]
+said_VBN [PUBV]
+that_THVC
+mass_JJ
+appeal_NN
+of_PIN
+an_DT
+actress_NN
+goes_VPRT
+down_RB
+post_VB
+their_TPP3
+wedding_GER
+._.
+By_PIN
+marrying_VBG
+before_IN
+she_TPP3
+turned_VBD
+30_CD
+,_,
+Anushka_NN
+showed_VBD [PRIV] [THATD]
+that_DEMP
+this_DEMP
+is_VPRT [BEMA]
+a_DT
+stereotype_NN
+she_TPP3
+wanted_VBD
+to_TO
+take_VB
+head-on_PIN [STPR]
+,_,
+''_''
+observes_VPRT [PRIV]
+our_FPP1
+source_NN
+,_,
+adding_VBG [PUBV]
+,_,
+oeShe_NN
+has_VPRT
+some_QUAN
+of_PIN
+the_DT
+biggest_JJ
+films_NN
+up_RP
+for_PIN
+release_NN
+this_DEMO
+year_NN
+-LRB-_-LRB-
+Zero_NN
+,_,
+Sui_NN
+Dhaaga_NN
+,_,
+an_DT
+important_JJ
+cameo_NN
+in_PIN
+Sanju_NN
+-RRB-_-RRB-
+and_ANDC
+now_TIME
+she_TPP3
+has_VPRT [PEAS]
+signed_VBN
+five_CD
+big_JJ
+brands_NN
+,_,
+taking_VBG [PRESP]
+her_TPP3
+total_JJ
+tally_NN
+of_PIN
+brands_NN
+to_PIN
+17_CD
+!_.
+''_''
+The_DT
+source_NN
+adds_VPRT [PUBV]
+,_,
+oeBrands_NN
+believe_VPRT [PRIV]
+that_THVC
+Anushka_NN
+resonates_VPRT
+across_PLACE
+the_DT
+country_NN
+and_CC
+across_PLACE
+all_QUAN
+age_NN
+groups_NN
+._.
+After_IN
+her_TPP3
+wedding_GER
+,_,
+Anushka_NN
+had_VBD
+launches_NN
+of_PIN
+three_CD
+new_JJ
+brand_NN
+campaigns_NN
+._.
+She_TPP3
+has_VPRT [SPAU] [PEAS]
+also_RB
+signed_VBN
+two_CD
+more_EMPH
+mass_NN
+brands_NN
+''_''
+a_DT
+leading_VBG
+mouth_NN
+freshener_NN
+company_NN
+which_WDT [WHSUB]
+will_PRMD
+be_VB [PASS]
+announced_VBN [PUBV]
+soon_TIME
+and_CC
+a_DT
+legging_VBG
+label_NN
+for_PIN
+which_WDT [PIRE]
+she_TPP3
+will_PRMD
+be_VB
+shooting_VBG
+their_TPP3
+brand_NN
+campaign_NN
+._.
+''_''

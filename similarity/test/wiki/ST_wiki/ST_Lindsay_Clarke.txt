@@ -1,0 +1,14 @@
+Lindsay_NNP Clarke_NNP -LRB-_-LRB- born_VBN 1939_CD ,_, Halifax_NNP ,_, West_NNP Yorkshire_NNP -RRB-_-RRB- is_VBZ a_DT British_JJ novelist_NN ._.
+He_PRP was_VBD educated_VBN at_IN Heath_NNP Grammar_NNP School_NNP in_IN Halifax_NNP and_CC at_IN King_NNP 's_POS College_NNP Cambridge_NNP ._.
+He_PRP worked_VBD in_IN education_NN for_IN many_JJ years_NNS ,_, in_IN Africa_NNP ,_, America_NNP and_CC the_DT UK_NNP ,_, before_IN becoming_VBG a_DT full-time_JJ writer_NN ._.
+Clarke_NNP lectures_VBZ in_IN creative_JJ writing_NN at_IN Cardiff_NNP University_NNP ,_, is_VBZ a_DT Creative_JJ Consultant_NN to_TO The_DT Pushkin_NNP Trust_NNP in_IN Northern_NNP Ireland_NNP ,_, and_CC teaches_VBZ writing_VBG workshops_NNS in_IN Frome_NNP and_CC London_NNP ._.
+Four_CD radio_NN plays_NNS were_VBD broadcast_VBN by_IN BBC_NNP Radio_NNP 4_CD ,_, and_CC a_DT number_NN of_IN his_PRP$ articles_NNS and_CC reviews_NNS have_VBP been_VBN published_VBN in_IN Resurgence_NN and_CC The_DT London_NNP Magazine_NNP ._.
+Lindsay_NNP has_VBZ one_CD daughter_NN from_IN his_PRP$ first_JJ marriage_NN ._.
+In_IN 2014_CD he_PRP was_VBD awarded_VBN a_DT Civil_JJ List_NN Pension_NN ``_`` in_IN recognition_NN of_IN services_NNS to_TO literature_NN ._. ''_''
+His_PRP$ novel_NN The_DT Chymical_NNP Wedding_NN ,_, partly_RB inspired_VBN by_IN the_DT life_NN of_IN Mary_NNP Anne_NNP Atwood_NNP ,_, won_VBD the_DT Whitbread_NNP Prize_NNP in_IN 1989_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Clarke_NNP 's_VBZ most_RBS recent_JJ novel_NN is_VBZ The_DT Water_NNP Theatre_NNP -LRB-_-LRB- published_VBN in_IN September_NNP 2010_CD by_IN Alma_NNP Booka_NNP -RRB-_-RRB- ,_, of_IN which_WDT a_DT review_NN by_IN Antonia_NNP Senior_NNP in_IN The_DT Times_NNP of_IN 28_CD August_NNP said_VBD ``_`` There_EX is_VBZ nothing_NN small_JJ about_IN this_DT book_NN ._.
+It_PRP is_VBZ huge_JJ in_IN scope_NN ,_, in_IN energy_NN ,_, in_IN heart_NN ..._: It_PRP is_VBZ difficult_JJ to_TO remember_VB a_DT recent_JJ book_NN that_WDT is_VBZ at_IN once_RB so_RB beautiful_JJ and_CC yet_RB so_RB thought_VBD provoking_VBG ._. ''_''
+The_DT Water_NNP Theatre_NNP was_VBD selected_VBN as_IN a_DT winner_NN of_IN the_DT inaugural_JJ Fiction_NNP Uncovered_NNP competition_NN in_IN 2011_CD and_CC was_VBD included_VBN among_IN The_DT Times_NNP 's_POS Books_NNPS of_IN the_DT Year_NN ._.
+In_IN 2012_CD The_DT Water_NNP Theatre_NNP was_VBD chosen_VBN as_IN the_DT inaugural_JJ e-book_NN publication_NN of_IN The_DT New_NNP York_NNP Review_NNP of_IN Books_NNPS under_IN their_PRP$ NYRB_NNP Lit_VBD imprint_NN ._.
+Stoker_NNP ,_, a_DT selection_NN of_IN verse_JJ by_IN Lindsay_NNP Clarke_NNP appeared_VBD as_IN a_DT Phoenix_NNP Poetry_NNP Pamphlet_NNP in_IN 2006_CD ._.
+Imagining_VBG Otherwise_RB -LRB-_-LRB- 2004_CD GreenSpirit_NNP Pamphlet_NNP No_NNP 6_CD -RRB-_-RRB- ISBN_NNP 0-9532551-7-4_CD

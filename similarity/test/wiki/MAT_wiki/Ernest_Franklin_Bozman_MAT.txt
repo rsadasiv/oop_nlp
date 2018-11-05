@@ -1,0 +1,23 @@
+Ernest_NN
+Franklin_NN
+Bozman_NN
+-LRB-_-LRB-
+1895_CD
+``_``
+1968_CD
+-RRB-_-RRB-
+is_VPRT [BEMA]
+a_DT
+British_JJ
+author_NN
+and_CC
+the_DT
+editor_NN
+of_PIN
+two_CD
+editions_NOMZ
+of_PIN
+Everyman_NN
+'s_POS
+Encyclopaedia_NN
+._.

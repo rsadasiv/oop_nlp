@@ -1,0 +1,11 @@
+Judith_NNP Cutler_NNP is_VBZ a_DT writer_NN of_IN crime_NN fiction_NN whose_WP$ novels_NNS are_VBP mostly_RB in_IN series_NN :_: ten_VB in_IN the_DT series_NN about_IN amateur_JJ sleuth_NN and_CC lecturer_NN Sophie_NNP Rivers_NNP ;_: six_CD about_IN Detective_NNP Sergeant_NNP Kate_NNP Power_NNP ;_: six_CD about_IN antique_JJ restorer_NN Lina_NNP Townend_NNP and_CC five_CD about_IN Detective_NNP Superintendent_NNP Fran_NNP Harman_NNP ._.
+Most_JJS are_VBP set_VBN in_IN the_DT present_JJ day_NN ,_, in_IN or_CC around_IN Birmingham_NNP ._.
+Born_VBN in_IN 1946_CD in_IN the_DT Black_NNP Country_NNP ,_, Cutler_NNP later_RB moved_VBD to_TO the_DT Birmingham_NNP suburb_NN of_IN Harborne_NNP ._.
+She_PRP started_VBD writing_VBG while_IN at_IN Oldbury_NNP Grammar_NNP School_NNP ,_, winning_VBG the_DT Critical_JJ Quarterly_JJ Short_JJ Story_NNP prize_NN ._.
+She_PRP read_VBD English_NNP at_IN university_NN ,_, but_CC wrote_VBD nothing_NN more_JJR until_IN in_IN her_PRP$ thirties_NNS ._.
+While_IN suffering_VBG from_IN chickenpox_NN ,_, she_PRP started_VBD her_PRP$ first_JJ ,_, unpublished_JJ ,_, novel_NN ._.
+Two_CD further_JJ unpublished_JJ works_NNS followed_VBD ._.
+She_PRP taught_VBD English_NNP at_IN a_DT Further_JJ Education_NNP College_NNP in_IN Birmingham_NNP ,_, but_CC quit_VBD after_IN the_DT publication_NN of_IN her_PRP$ first_JJ novel_NN ,_, and_CC moved_VBD to_TO the_DT suburb_NN of_IN Kings_NNPS Heath_NNP ._.
+For_IN many_JJ years_NNS she_PRP was_VBD a_DT trustee_NN of_IN the_DT City_NNP of_IN Birmingham_NNP Symphony_NNP Orchestra_NNP 's_POS Benevolent_NNP Fund_NNP and_CC on_IN the_DT Committee_NNP of_IN Birmingham_NNP Chamber_NNP Music_NNP Society_NNP ._.
+Her_PRP$ partner_NN is_VBZ Keith_NNP Miles_NNP ._.
+Cutler_NNP has_VBZ also_RB written_VBN several_JJ successful_JJ short_JJ stories_NNS ,_, for_IN Radio_NNP 4_CD ,_, Bella_NNP magazine_NN and_CC others_NNS ._.

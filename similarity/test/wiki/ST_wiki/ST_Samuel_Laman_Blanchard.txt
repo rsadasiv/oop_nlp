@@ -1,0 +1,12 @@
+Samuel_NNP Laman_NNP Blanchard_NNP -LRB-_-LRB- 15_CD May_NNP 1804_CD ''_'' 15_CD February_NNP 1845_CD -RRB-_-RRB- was_VBD a_DT British_JJ author_NN and_CC journalist_NN ._.
+The_DT son_NN of_IN a_DT painter_NN and_CC glazier_NN ,_, he_PRP was_VBD born_VBN at_IN Great_NNP Yarmouth_NNP ._.
+He_PRP was_VBD educated_VBN at_IN St_NNP Olave_NNP 's_POS school_NN ,_, Southwark_NNP ,_, and_CC then_RB became_VBD clerk_NN to_TO a_DT proctor_NN in_IN Doctors_NNS '_POS Commons_NNPS ._.
+At_IN an_DT early_JJ age_NN he_PRP developed_VBD an_DT interest_NN in_IN literature_NN ,_, contributing_VBG dramatic_JJ sketches_NNS to_TO a_DT paper_NN called_VBN Drama_NNP ._.
+For_IN a_DT short_JJ time_NN he_PRP belonged_VBD to_TO a_DT traveling_VBG theater_NN company_NN ,_, but_CC then_RB became_VBD a_DT proof-reader_NN in_IN London_NNP ,_, and_CC wrote_VBD for_IN the_DT Monthly_JJ Magazine_NN ._.
+In_IN 1827_CD he_PRP was_VBD made_VBN secretary_NN of_IN the_DT Zoological_NNP Society_NNP ,_, a_DT post_NN he_PRP held_VBD for_IN three_CD years_NNS ._.
+Over-work_NN broke_VBD down_RP his_PRP$ strength_NN and_CC ,_, after_IN his_PRP$ wife_NN died_VBD in_IN December_NNP 1844_CD of_IN a_DT painful_JJ illness_NN ,_, Blanchard_NNP entered_VBD a_DT depression_NN from_IN which_WDT he_PRP never_RB recovered_VBD ._.
+He_PRP committed_VBD suicide_NN with_IN a_DT razor_NN ,_, and_CC was_VBD buried_VBN at_IN West_NNP Norwood_NNP Cemetery_NNP In_IN 1828_CD he_PRP published_VBD Lyric_NNP Offerings_NNPS ,_, dedicated_VBN to_TO Charles_NNP Lamb_NNP ._.
+He_PRP had_VBD a_DT very_RB varied_JJ journalistic_JJ experience_NN ,_, editing_NN in_IN succession_NN the_DT Monthly_JJ Magazine_NN ,_, the_DT True_JJ Sun_NNP ,_, the_DT Constitutional_NNP ,_, the_DT Court_NNP Journal_NNP ,_, the_DT Courier_NN ,_, and_CC George_NNP Cruikshank_NNP 's_POS Omnibus_NNP ;_: and_CC from_IN 1841_CD till_IN his_PRP$ death_NN he_PRP was_VBD connected_VBN with_IN the_DT Examiner_NNP ._.
+In_IN 1846_CD Edward_NNP Bulwer-Lytton_NNP collected_VBD some_DT of_IN his_PRP$ prose-essays_NNS under_IN the_DT title_NN Sketches_NNS of_IN Life_NNP ,_, to_TO which_WDT a_DT memoir_NN of_IN the_DT author_NN was_VBD prefixed_VBN ._.
+His_PRP$ verse_NN was_VBD collected_VBN in_IN 1876_CD by_IN William_NNP Blanchard_NNP Jerrold_NNP ._.
+His_PRP$ eldest_JJS son_NN was_VBD Sidney_NNP Laman_NNP Blanchard_NNP ,_, the_DT author_NN of_IN Yesterday_NN and_CC To-day_NN in_IN India_NNP ._.

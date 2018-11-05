@@ -1,0 +1,216 @@
+Raffaella_NN
+Flora_NN
+Barker_NN
+-LRB-_-LRB-
+born_VBN
+24_CD
+November_NN
+1964_CD
+-RRB-_-RRB-
+is_VPRT [BEMA]
+an_DT
+English_JJ
+author_NN
+._.
+Born_VBN [PASTP]
+in_PIN
+London_NN
+,_,
+she_TPP3
+moved_VBD [SUAV]
+when_RB [WHCL]
+she_TPP3
+was_VBD [BEMA]
+three_CD
+and_CC
+was_VBD [PASS]
+brought_VBN
+up_RP
+in_PIN
+the_DT
+Norfolk_NN
+countryside_NN
+._.
+She_TPP3
+is_VPRT [BEMA]
+the_DT
+one_CD
+of_PIN
+the_DT
+poet_NN
+George_NN
+Barker_NN
+'s_POS
+fifteen_JJ
+children_NN
+,_,
+the_DT
+eldest_JJ
+of_PIN
+the_DT
+five_CD
+he_TPP3
+had_VBD
+with_PIN
+novelist_NN
+Elspeth_NN
+Barker_NN
+._.
+She_TPP3
+lives_VPRT
+in_PIN
+Norfolk_NN
+,_,
+England_NN
+with_PIN
+her_TPP3
+family_NN
+._.
+Raffaella_NN
+was_VBD [PASS]
+born_VBN
+24_CD
+November_NN
+1964_CD
+and_CC
+was_VBD [PASS]
+brought_VBN
+up_RP
+in_PIN
+Itteringham_NN
+-LRB-_-LRB-
+1_CD
+-RRB-_-RRB-
+in_PIN
+Norfolk_NN
+._.
+After_IN
+attending_VBG
+Norwich_NN
+High_NN
+School_NN
+for_PIN
+Girls_NN
+,_,
+Raffaella_NN
+left_VBD
+Norfolk_NN
+for_PIN
+London_NN
+where_RB
+she_TPP3
+moved_VBD [SUAV]
+through_PIN
+life_NN
+modeling_GER
+,_,
+film-editing_JJ
+and_CC
+journalism_NN
+before_IN
+she_TPP3
+began_VBD
+writing_VBG [PUBV]
+novels_NN
+._.
+To_PIN
+date_NN
+,_,
+she_TPP3
+has_VPRT [PEAS]
+written_VBN [PUBV]
+nine_CD
+novels_NN
+,_,
+including_VBG [PRESP]
+one_CD
+for_PIN
+young_JJ
+adults_NN
+-LRB-_-LRB-
+see_VB [PRIV]
+``_``
+Publications_NOMZ
+''_''
+-RRB-_-RRB-
+._.
+She_TPP3
+has_VPRT [SPAU] [PEAS]
+also_RB
+written_VBN [PUBV]
+short_JJ
+stories_NN
+for_PIN
+the_DT
+radio_NN
+,_,
+worked_VBD
+at_PIN
+Harpers_NN
+&_CC
+Queen_NN
+magazine_NN
+,_,
+as_IN
+a_DT
+columnist_NN
+for_PIN
+Country_NN
+Life_NN
+and_CC
+has_VPRT [PEAS]
+been_VBN [BEMA]
+a_DT
+regular_JJ
+contributor_NN
+for_PIN
+the_DT
+Sunday_NN
+Times_NN
+,_,
+the_DT
+Sunday_NN
+Telegraph_NN
+,_,
+Harpers_NN
+Bazaar_NN
+and_CC
+the_DT
+Spectator_NN
+._.
+She_TPP3
+also_RB
+teaches_VPRT
+on_PIN
+the_DT
+English_NN
+Literature_NN
+and_PHC
+Creative_NN
+Writing_VBG [PUBV] [WZPRES]
+BA_NN
+at_PIN
+the_DT
+University_NOMZ
+of_PIN
+East_NN
+Anglia_NN
+and_CC
+the_DT
+Guardian_NN
+Novel_NN
+Writing_VBG [PUBV] [WZPRES]
+Masterclass_NN
+._.
+-LRB-_-LRB-
+2_LS
+-RRB-_-RRB-
+-LRB-_-LRB-
+3_LS
+-RRB-_-RRB-
+-LRB-_-LRB-
+4_LS
+-RRB-_-RRB-
+-LRB-_-LRB-
+5_CD
+-RRB-_-RRB-

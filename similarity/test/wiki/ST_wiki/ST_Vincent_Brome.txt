@@ -1,0 +1,19 @@
+Vincent_NNP Brome_NNP \/_NNP bruːm_VBD \/_CD ;_: -LRB-_-LRB- 14_CD July_NNP 1910_CD ''_'' 16_CD October_NNP 2004_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ,_, who_WP gradually_RB established_VBD himself_PRP as_IN a_DT man_NN of_IN letters_NNS ._.
+He_PRP is_VBZ best_RB known_VBN for_IN a_DT series_NN of_IN biographies_NNS of_IN politicians_NNS ,_, writers_NNS and_CC followers_NNS of_IN Sigmund_NNP Freud_NNP ._.
+He_PRP also_RB wrote_VBD numerous_JJ novels_NNS ,_, and_CC was_VBD a_DT dramatist_NN ._.
+He_PRP was_VBD born_VBN and_CC brought_VBN up_RP in_IN London_NNP ,_, and_CC educated_VBN at_IN Streatham_NNP Grammar_NNP School_NNP and_CC Elleston_NNP School_NNP ._.
+He_PRP failed_VBD to_TO enter_VB university_NN ,_, and_CC was_VBD found_VBN a_DT job_NN at_IN a_DT tea_NN broker_NN ._.
+He_PRP left_VBD home_NN at_IN 18_CD determined_VBN to_TO write_VB for_IN a_DT living_NN ._.
+He_PRP took_VBD up_RP residence_NN in_IN Bloomsbury_NNP ,_, where_WRB he_PRP would_MD live_VB for_IN the_DT rest_NN of_IN his_PRP$ life_NN ._.
+Brome_NNP began_VBD his_PRP$ career_NN as_IN a_DT journalist_NN and_CC magazine_NN editor_NN ,_, his_PRP$ first_JJ short_JJ story_NN anthology_NN was_VBD published_VBN in_IN 1936_CD ._.
+Having_VBG been_VBN declared_VBN unfit_JJ for_IN active_JJ duty_NN ,_, he_PRP worked_VBD for_IN the_DT British_NNP Ministry_NNP of_IN Information_NNP during_IN World_NNP War_NNP II_NNP ._.
+After_IN the_DT war_NN Brome_NNP worked_VBD under_IN Michael_NNP Young_NNP as_IN a_DT Labor_NNP Party_NNP researcher_NN ._.
+Following_VBG the_DT electoral_JJ success_NN of_IN the_DT Labor_NNP Party_NNP in_IN 1945_CD ,_, Brome_NNP turned_VBD his_PRP$ hand_NN to_TO biography_NN writing_NN ._.
+Fittingly_RB ,_, his_PRP$ first_JJ subject_NN was_VBD the_DT new_JJ Prime_NNP Minister_NNP :_: Clement_NNP Attlee_NNP ._.
+He_PRP went_VBD on_IN to_TO receive_VB some_DT critical_JJ and_CC commercial_JJ success_NN with_IN his_PRP$ second_JJ work_NN ,_, H.G._NNP Wells_NNP in_IN 1950_CD ._.
+Brome_NNP went_VBD on_IN to_TO chronicle_NN the_DT lives_NNS of_IN such_JJ men_NNS as_IN Sigmund_NNP Freud_NNP ,_, Carl_NNP Jung_NNP ,_, Frank_NNP Harris_NNP ,_, J._NNP B._NNP Priestley_NNP ,_, and_CC Havelock_NNP Ellis_NNP to_TO wide_JJ acclaim_NN ._.
+Two_CD of_IN his_PRP$ literary_JJ works_NNS ,_, The_DT Surgeon_NNP and_CC The_NNP Embassy_NNP ,_, were_VBD international_JJ bestsellers_NNS ._.
+However_RB ,_, his_PRP$ works_NNS were_VBD not_RB always_RB treated_VBN so_RB kindly_RB by_IN critics_NNS ;_: his_PRP$ biography_NN of_IN Aneurin_NNP Bevan_NNP was_VBD particularly_RB poorly_RB received_VBN ._.
+Brome_NNP was_VBD a_DT regular_JJ at_IN the_DT British_JJ Library_NNP ,_, and_CC was_VBD a_DT member_NN of_IN its_PRP$ advisory_JJ committee_NN from_IN 1975_CD until_IN 1982_CD ._.
+He_PRP was_VBD a_DT vocal_JJ supporter_NN of_IN the_DT library_NN 's_POS move_NN from_IN the_DT British_JJ Museum_NNP to_TO its_PRP$ own_JJ purpose_NN built_VBN building_NN in_IN St._NNP Pancras_NNP ,_, even_RB writing_VBG numerous_JJ letters_NNS to_TO such_JJ organs_NNS as_IN The_DT Times_NNP and_CC the_DT Times_NNP Literary_NNP Supplement_NNP praising_VBG the_DT move_NN ._.
+At_IN the_DT time_NN of_IN his_PRP$ death_NN Brome_NNP still_RB occupied_VBD the_DT third_JJ story_NN flat_JJ he_PRP had_VBD lived_VBN in_IN for_IN fifty_JJ years_NNS despite_IN growing_VBG frailty_NN and_CC deafness_NN ._.

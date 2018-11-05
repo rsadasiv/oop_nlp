@@ -1,0 +1,14 @@
+Clifford_NNP Edmund_NNP Bosworth_NNP FBA_NNP -LRB-_-LRB- 29_CD December_NNP 1928_CD ''_'' 28_CD February_NNP 2015_CD -RRB-_-RRB- was_VBD an_DT English_JJ historian_NN and_CC Orientalist_NNP ,_, specialising_VBG in_IN Arabic_NNP and_CC Iranian_JJ studies_NNS ._.
+Bosworth_NNP was_VBD born_VBN in_IN Sheffield_NNP ,_, Yorkshire_NNP ._.
+He_PRP received_VBD his_PRP$ Bachelor_NN of_IN Arts_NNS degree_NN from_IN the_DT University_NNP of_IN Oxford_NNP and_CC MA_NNP and_CC PhD_NNP degrees_NNS from_IN the_DT University_NNP of_IN Edinburgh_NNP ._.
+He_PRP held_VBD permanent_JJ posts_NNS at_IN the_DT University_NNP of_IN St_NNP Andrews_NNP ,_, University_NNP of_IN Manchester_NNP ,_, and_CC at_IN the_DT Center_NNP for_IN the_DT Humanities_NNP at_IN Princeton_NNP University_NNP ._.
+He_PRP was_VBD a_DT visiting_VBG professor_NN at_IN the_DT University_NNP of_IN Exeter_NNP ,_, where_WRB he_PRP held_VBD the_DT post_NN since_IN 2004_CD ._.
+Bosworth_NNP died_VBD on_IN 28_CD February_NNP 2015_CD ,_, Yeovil_NNP ,_, Somerset_NNP ._.
+He_PRP is_VBZ the_DT author_NN of_IN hundreds_NNS of_IN articles_NNS in_IN academic_JJ journals_NNS and_CC composite_JJ volumes_NNS ._.
+His_PRP$ other_JJ contributions_NNS include_VBP nearly_RB 200_CD articles_NNS in_IN the_DT Encyclopaedia_NNP of_IN Islam_NNP and_CC some_DT 100_CD articles_NNS in_IN the_DT Encyclopædia_NNP Iranica_NNP ,_, as_RB well_RB as_IN articles_NNS for_IN Encyclopædia_NNP Britannica_NNP and_CC Encyclopedia_NNP Americana_NNS ._.
+He_PRP was_VBD the_DT chief_NN editor_NN of_IN the_DT Encyclopaedia_NNP of_IN Islam_NNP and_CC a_DT consulting_NN editor_NN of_IN Encyclopædia_NNP Iranica_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ book_NN The_DT Islamic_NNP Dynasties_NNP has_VBZ been_VBN translated_VBN to_TO Arabic_NNP and_CC Persian_NNP ._.
+Some_DT 100_CD articles_NNS in_IN learned_VBN journals_NNS ,_, composite_JJ volumes_NNS ,_, etc._FW ;_: some_DT 200_CD articles_NNS in_IN the_DT Encyclopaedia_NNP of_IN Islam_NNP ,_, new_JJ ed._NN ;_: some_DT 100_CD articles_NNS in_IN the_DT Encyclopaedia_NNP Iranica_NNP ;_: articles_NNS in_IN the_DT Encyclopaedia_NNP Americana_NNS ,_, the_DT Dictionary_NNP of_IN the_DT Middle_NNP Ages_NNPS ;_: article_NN ``_`` Caliphate_NNP ,_, empire_NN of_IN the_DT ''_'' in_IN Encyclopædia_NNP Britannica_NNP ,_, 15th_JJ edition_NN ,_, Macropaedia_NNP ;_: chapters_NNS in_IN The_DT Cambridge_NNP History_NN of_IN Iran_NNP ,_, vols_NNS ._.
+III_NNP ,_, IV_NNP ,_, V_NNP ,_, in_IN The_DT Cambridge_NNP History_NN of_IN Arabic_NNP Literature_NNP ,_, vols_NNS ._.
+I_PRP ,_, III_NNP ,_, and_CC in_IN UNESCO_NNP History_NN of_IN Civilizations_NNS of_IN Central_NNP Asia_NNP ,_, vols_NNS ._.
+IV_NNP ,_, V_NNP ;_: etc._FW ._.

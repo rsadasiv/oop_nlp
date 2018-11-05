@@ -1,0 +1,30 @@
+Maurice_NNP Anthony_NNP Ash_NNP -LRB-_-LRB- 31_CD October_NNP 1917_CD ''_'' 27_CD January_NNP 2003_CD -RRB-_-RRB- was_VBD an_DT environmentalist_NN ,_, writer_NN ,_, and_CC planner_NN ._.
+He_PRP was_VBD chairman_NN of_IN the_DT Town_NNP and_CC Country_NNP Planning_NNP Association_NNP and_CC of_IN the_DT Dartington_NNP Trust_NNP ._.
+Maurice_NNP Anthony_NNP Ash_NNP was_VBD born_VBN at_IN Hazaribagh_NNP ,_, India_NNP on_IN 31_CD October_NNP 1917_CD ._.
+His_PRP$ father_NN ,_, Wilfred_NNP Cracroft_NNP Ash_NNP ,_, was_VBD a_DT successful_JJ civil_JJ engineer_NN in_IN British_JJ India_NNP who_WP also_RB made_VBD a_DT large_JJ engineering_NN contribution_NN to_TO the_DT 1939-1945_CD War_NNP against_IN the_DT Nazis_NNPS ._.
+He_PRP was_VBD a_DT co-founder_NN of_IN the_DT construction_NN company_NN Gilbert-Ash_NNP and_CC is_VBZ noted_VBN for_IN technological_JJ inventions_NNS in_IN pre-stressed_JJ concrete_NN ._.
+Ash_NNP 's_POS grandfather_NN ,_, Gilbert_NNP Ash_NNP ,_, was_VBD a_DT property_NN developer_NN who_WP left_VBD him_PRP a_DT large_JJ fortune_NN ._.
+The_DT mathematician_NN and_CC brewer_NN ,_, Michael_NNP Ash_NNP ,_, was_VBD his_PRP$ brother_NN ._.
+Ash_NNP was_VBD educated_VBN at_IN Gresham_NNP 's_POS School_NNP ,_, Holt_NNP ,_, the_DT London_NNP School_NNP of_IN Economics_NNP -LRB-_-LRB- where_WRB he_PRP read_VBD economics_NNS -RRB-_-RRB- and_CC at_IN Yale_NNP ._.
+At_IN LSE_NNP ,_, he_PRP met_VBD Michael_NNP Young_NNP ,_, later_RB Lord_NNP Young_NNP of_IN Dartington_NNP ,_, who_WP became_VBD a_DT lifelong_JJ friend_NN ._.
+During_IN the_DT Second_NNP World_NNP War_NNP ,_, Ash_NNP served_VBD in_IN the_DT British_JJ 23rd_JJ Armoured_NNP Brigade_NNP in_IN North_NNP Africa_NNP ,_, Italy_NNP and_CC Greece_NNP ._.
+In_IN 1944_CD ,_, he_PRP was_VBD mentioned_VBN in_IN dispatches_NNS ._.
+He_PRP later_RB wrote_VBD a_DT history_NN of_IN his_PRP$ regiment_NN ._.
+After_IN the_DT war_NN ,_, his_PRP$ friend_NN Young_NNP introduced_VBD him_PRP to_TO the_DT Dartington_NNP Hall_NNP Trust_NNP ._.
+The_DT rundown_NN 1,000_CD acre_NN -LRB-_-LRB- 4_CD km_NN ²_NN -RRB-_-RRB- estate_NN of_IN Dartington_NNP ,_, near_IN Totnes_NNP in_IN Devon_NNP ,_, had_VBD been_VBN bought_VBN by_IN Leonard_NNP and_CC Dorothy_NNP Elmhirst_NNP in_IN the_DT 1920s_CD ._.
+With_IN ideas_NNS from_IN the_DT philosopher_NN Rabindranath_NNP Tagore_NNP and_CC money_NN Dorothy_NNP Elmhirst_NNP inherited_VBD from_IN her_PRP$ family_NN -LRB-_-LRB- the_DT American_NNP Whitneys_NNP -RRB-_-RRB- the_DT Elmhirsts_NNPS rescued_VBD a_DT medieval_JJ hall_NN and_CC developed_VBD the_DT estate_NN ,_, creating_VBG craft_NN workshops_NNS and_CC founding_VBG a_DT famous_JJ design_NN school_NN ._.
+After_IN farming_VBG in_IN Essex_NNP ,_, Ash_NNP was_VBD interested_JJ in_IN the_DT postwar_JJ plans_NNS for_IN new_JJ towns_NNS such_JJ as_IN Welwyn_NNP Garden_NNP City_NNP and_CC joined_VBD the_DT Town_NNP and_CC Country_NNP Planning_NNP Association_NNP ,_, becoming_VBG its_PRP$ chairman_NN and_CC later_RB its_PRP$ vice-president_NN ._.
+The_DT TCPA_NNP published_VBD the_DT influential_JJ magazine_NN Bulletin_NNP of_IN Environmental_NNP Education_NNP ._.
+Ash_NNP promoted_VBD enlightened_VBN development_NN ._.
+Ash_NNP also_RB became_VBD chairman_NN of_IN the_DT Dartington_NNP Trust_NNP ._.
+While_IN some_DT Dartington_NNP activities_NNS were_VBD given_VBN up_RP ,_, others_NNS started_VBD ._.
+Dartington_NNP glass_NN and_CC the_DT Schumacher_NNP College_NNP continued_VBD ._.
+Ash_NNP also_RB backed_VBD a_DT magazine_NN called_VBN The_DT Vole_NNP ._.
+In_IN writing_VBG about_IN the_DT great_JJ private_JJ estates_NNS which_WDT followed_VBD the_DT dissolution_NN of_IN the_DT English_NNP monasteries_NNS ,_, Ash_NNP argued_VBD that_IN they_PRP had_VBD been_VBN failures_NNS in_IN any_DT civilising_VBG sense_NN ._.
+Monasteries_NNS had_VBD been_VBN centres_NNS of_IN learning_VBG and_CC innovation_NN ._.
+He_PRP argued_VBD for_IN re-establishing_VBG such_JJ communities_NNS ._.
+Broadly_RB ,_, his_PRP$ philosophy_NN followed_VBD Wittgenstein_NNP and_CC rejected_VBD Descartes_NNS ._.
+His_PRP$ published_VBN books_NNS include_VBP -_: Ash_NNP met_VBD the_DT Elmhirsts_NNPS '_POS daughter_NN Ruth_NNP and_CC in_IN 1947_CD ,_, they_PRP were_VBD married_VBN ._.
+They_PRP had_VBD a_DT son_NN and_CC three_CD daughters_NNS ._.
+In_IN 1962_CD ,_, the_DT Ashes_NNP bought_VBD Sharpham_NNP House_NNP ,_, Ashprington_NNP ,_, near_IN Totnes_NNP ,_, in_IN Devon_NNP ,_, a_DT large_JJ Palladian_NNP house_NN designed_VBN by_IN Robert_NNP Taylor_NNP ._.
+A_DT 100-acre_JJ -LRB-_-LRB- 400,000_CD m2_NN -RRB-_-RRB- farm_NN there_EX was_VBD run_VBN on_IN Rudolf_NNP Steiner_NNP principles_NNS ,_, and_CC also_RB vineyards_NNS ,_, a_DT Buddhist_NNP community_NN and_CC college_NN ,_, and_CC the_DT Robert_NNP Owen_NNP Foundation_NNP ,_, a_DT charity_NN which_WDT provided_VBD agricultural_JJ experience_NN for_IN people_NNS with_IN mental_JJ disabilities_NNS ._.

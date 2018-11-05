@@ -1,0 +1,331 @@
+DUYAN_NNP Narito_NNP sa_NN opisina_NN ,_, Linggo_NNP ,_, may_MD mga_VB gagawin_NN ._.
+Dapat_NNP ._.
+Pero_NNP heto_NN ,_, nakikinig_NN kay_NN Manong_NNP Joey_NNP ._.
+Kanina_NNP pag_NN punta_NN ko_NN sa_NN kanila_NN para_NN kunin_NN ang_NN album_NN ,_, hindi_FW ko_FW alam_FW kung_FW paano_FW ko_FW babanggitin_NN ang_NN pangalan_NN niya_NN sa_NN anak_NN na_TO bumungad_NN sa_NN akin_JJ :_: Joey_NNP A._NN ._. ._.
+Mr._NNP A._NNP ..._: Joey_NNP Ayala_NNP ._.
+Sa_NNP wakas_NNS ,_, ang_NN album_NN na_TO bukas_NNS ay_IN nasa_NN Mindanao_NNP na_TO ,_, sa_NN gabing_NN ito_NN ,_, nasa_NN kamay_NN ko_NN muna_NNS ,_, kasama_NN sa_NN pag-iisa_NN ._.
+Sa_NNP husay_JJ ng_NN kalabit_NN sa_NN kuwerdas_NNS at_IN sa_NN maamong_NN tinig_NN ,_, tinatangay_NN ang_NN isip_NN ko_FW palabas_FW sa_FW konkretong_FW kinalalagyan_FW ._.
+Ang_NNP mga_NN musikero_NN at_IN ang_NN kanilang_NN kababalaghan_NN ._.
+Salamat_NNP sa_NNP Diyos_NNP at_IN naisipan_JJ niyang_NN isama_NN sila_NN sa_NN kanyang_NN listahan_NN ng_NN mabubuting_VBG bagay_NN sa_NN mundo_NN ._.
+Naalala_NNP ko_NN noong_NN Hunyo_NNP nang_VBD akon_NN '_'' y_JJ nasa_NN Misamis_NNP Oriental_JJ para_NN sa_NN isang_NN training_NN ._.
+Pagkatapos_NNP ng_NN isang_NN araw_NN ng_NN pagiiscuba_NN diving_NN ,_, may_MD oras_VB para_NN humimlay_NN sa_NN mga_NN lambat_NN na_TO duyang_NN nakatali_NNS sa_VBP mga_NN puno_NN ._.
+Pagkatapos_NNP ng_NN duyan_NN ng_NN tubig_NN ,_, hangin_NN naman_NN ._.
+Aaaayyyyy_NNP ,_, sarap_NN ng_NN alaala_NN ._.
+Para_NNP sa_NN kaibigang_NN tatanda_NN sa_NN Martes_NNP ,_, ay_NN kaypalad_NN ._.
+Para_NNP sa_NN kanya_NN ang_NN unang_JJ kopya_NN ._.
+Kaibigang_NNP bigay_NN ng_NN biyaheng_NN iyon_NN sa_NN Misamis_NNP Oriental_JJ ._.
+Kaibigang_NNP baka_NN magpapaalam_NN na_TO naman_NN sa_NN Disyembre_NNP ._.
+Haaaaayyyyy_NNP ,_, buhay_NN ._.
+Ang_NNP duyan_JJ ng_NN buhay_NN ._.
+Hindi_NNP namang_VBD masarap_NN na_TO nakahiga_NN doon_NN parati_NNS ._.
+Nakakahilo_NNP pag_NN tagal_JJ nang_NN nakatitig_NN sa_NN langit_NN at_IN malamig_NN na_TO kapag_NN naabutan_NN ka_FW ng_FW gabi_FW ._.
+Ngunit_NNP masarap_NN na_TO isiping_VBG nandiyan_JJ lang_NN sa_NN tabi_NN pag_NN kailangan_NN mong_NN tumigil_NN ,_, manahimik_NN ,_, magpahinga_NN ._.
+BAKASYON_NNP GRANDE_NNP Kahapon_NNP ginamit_NN ko_NN ang_NN forced-leave_JJ credit_NN ko_NN sa_NN opisina_NN ._.
+Forced_VBN talaga_NN dahil_NN tatlong_JJ linggo_NN na_TO ng_NN overtawad_NN at_IN wala_NN halos_NNS sabado_VBP at_IN linggong_JJ hindi_NN ako_NN pumupunta_NN sa_NN opis_NNS ._.
+Kinailangan_NNP na_TO ng_NN magpumulit_NN ng_NN aking_VBG katawang_NN papagpahingahin_NN siya_NN ng_NN aking_VBG baluktot_NN na_TO isipan_NN ._.
+Bukas_NNP ,_, lilipad_NN ako_NN patungong_NN Cebu_NNP ._.
+Oo_NNP Cebu_NNP ``_`` B_NNP ''_'' --_: linya_NN sa_NN isang_NN lumang_VBD TV_NN commercial_JJ sa_NN mga_NN nakakatanda_NN pa._NN ._.
+Ang_NNP sarap_NN sanang_NN magnakaw_NN ng_NN panahon_NN para_NN tumawid_VBD na_TO rin_VB papuntang_NN Dumaguete_NNP pero_NN hindi_NN mangyayari_NN ._.
+Wala_NNP ang_NN aking_NN dapat_NN na_TO tour_NN guide_NN ._.
+Isang_NNP hamon_NN din_NN ang_NN binigay_NN ko_FW sa_FW sarili_FW para_FW sa_FW biyaheng_FW ito_FW ._.
+Dapat_NNP isang_VBD bag_NN lang_NN ng_NN gamit_NN ang_NN dala_NN ,_, dahil_NN overnight_JJ lang_NN naman_NN ._.
+Naisip_NNP ko_NN ,_, pangarap_NN ko_NN nga_NN palang_NN maging_VBG isang_JJ jetsetter_NN ._.
+Sabi_NNP ng_NNP Hyperdictionary_NNP ,_, ``_`` JET_NNP SET_NNP Definition_NNP :_: -LRB-_-LRB- n_VBN -RRB-_-RRB- a_DT set_NN of_IN rich_JJ and_CC fashionable_JJ people_NNS who_WP travel_VBP widely_RB for_IN pleasure_NN ''_'' ._.
+Yan_JJ ang_NN gusto_NN kong_NN maging_VBG ._.
+Yung_NNP pag_NN naisipang_NN gustong_NN pumunta_NN sa_NN ganito_NN at_IN ganyang_NN lugar_NN ,_, handa_NN ang_NN pasaporte_NN ,_, walang_NN iniisip_NN na_TO hahadlang_NN trabaho_NN na_TO maiiwan_NN ,_, walang_NN bagaheng_NN mabibigat_NN :_: shirt_NN ,_, shorts_NNS ,_, bikini_NN at_IN ngiting_VBG nakapinta_NN hanggang_NN sa_NN langit_NN ._.
+Noong_NNP isang_VBD araw_NN ,_, bago_NN naalala_NN ng_NN aking_VBG tumatandang_NN utak_NN na_TO may_MD lakad_VB nga_NN ako_NN sa_NN Cebu_NNP ,_, biglang_NN kinati_NNS ang_NN aking_NN paa_NN ,_, sa_NN isip_NN nakaramdam_NN ng_NN biglang_NN pangungulila_NN sa_NN pagbibiyahe_NN ._.
+Inakalang_NNP hindi_NNS ko_VBP na_TO ito_VB magagawa_NN dahil_NN sa_NN Nobyembre_NNP ,_, balik_NN eskuwela_NN ako_NN ._.
+Tapos_NNS kahapon_VBP lang_NN ,_, nanonood_NN ng_NN palabas_NNS sa_VBP TV_NN tungkol_NN sa_NN ganda_NN ng_NN ibang_NN lugar_NN ,_, naisip_NN ko_NN na_TO naman_NN ,_, ang_NN sarap_NN magbiyaheng_NN bakasyon_NN ang_NN dahilan_NN ._.
+Yung_NNP wala_NN kang_NN dapat_NN tapusin_NN munang_NN trabaho_NN bago_NN magpakasaya_NN ._.
+Yung_NNP bang_NN unang_JJ hakbang_NN palang_NN ng_NN paa_NN palabas_NNS ng_VBP pinto_NN ,_, wala_NN ng_NN sasayangin_NN kundi_NN sa_NN pagsasaya_NN ._.
+Sa_NNP Nobyembre_NNP ,_, umaasa_NN akong_NN isang_NN bakasyon_NN na_TO rin_NN yun_NN ._.
+Isang_NNP buwang_NN madaliang_NN pag-aaral_JJ ng_NN isang_NN kursong_NN dapat_NN sana_NN ay_NN isang_NN taon_NN ._.
+Hmmm_NNP ,_, paanong_NN mangyayari_NN ang_NN aking_VBG bakasyon_NN ?_.
+Marami_NNP raw_JJ pag-aaralan_NN ,_, mga_NN kilay_NN na_TO susunugin_NN para_NN masulit_NN ang_NN dolyares_VBZ na_TO inutang_JJ ng_NN bayan_NN para_NN ipangmatrikula_NN ko_NN ._.
+Utang_NNP na_TO utang_JJ ko_NN rin_NN ._.
+Pero_NNP kahit_NN ganoon_NN ,_, bakasyon_NN pa_NN rin_NN ._.
+Walang_NNP mga_NN kontratang_NN hahabulin_NN ,_, gagawan_JJ ng_NN sulat_NN at_IN ipagmamakaawa_NN at_IN ipagpepenitensiyang_NN pirmahan_NN ng_NN mga_NN diyos_NNS at_IN diyosa_NN sa_NN gobyerno_NN ._.
+Walang_NNP mga_NN buhay_NN na_TO iisipin_VB dahil_NN nakakabit_NN sa_NN mga_NN papeles_NNS na_TO nakatambak_NN sa_NN aking_VBG mesa_NN ._.
+Walang_NNP magulong_JJ kuwartong_NN uuwian_NN at_IN paulit-ulit_JJ na_TO iisipin_VB kung_JJ saan_JJ sisimulang_NN lilinisin_NN ._.
+Kaso_NNP ,_, kakambal_JJ ng_NN bakasyon_NN ay_NN pamamaalam_NN ._.
+Paalam_NNP sandali_NNS sa_VBP magulong_JJ buhay_NN ._.
+Tapos_NNS ,_, maya-maya_JJ lang_NN ,_, paalam_NN na_TO naman_NN sa_NN katahimikan_NN at_IN sa_NN pamamahinga_NN ._.
+Nakakapagod_NNP ,_, gugustuhin_NN mo_NN uling_VBG magbakasyon_NN ._.
+Sabi_NNP ng_NN aming_NN piloto_NN sa_NN opisina_NN ,_, kapag_NN nasa_NN Cebu_NNP na_TO ,_, huwag_JJ kalimutang_NN tikman_NN ang_NN beer_NN doon_NN ._.
+May_NNP kakaibang_NN sarap_NN raw_JJ ._.
+Maaring_VBG sa_NN tubig_NN na_TO ginagamit_NN ._.
+Naisip_NNP ko_NN ,_, oo_NN nga_NN ,_, teka_FW ,_, Octoberfest_NNP at_IN wala_NN pa_NN akong_JJ tagayang_NN pinagpiyestahan_NN ._.
+Bukas_NNP nga_NN kabawasan_NN sa_NN aking_VBG alcohol_NN quota_NN ._.
+May_NNP magpapainom_NN ,_, walang_NN hahawak_NN ng_NN aking_VBG baso_NN ._.
+Pero_NNP tiyak_NN may_MD kabawasan_VB din_NN sa_FW saya_FW ng_FW kanilang_FW gabi_FW ._.
+Sabi_NNP rin_NN pala_NN sa_NN akin_JJ ,_, ang_NN Beer_NNP Grande_NNP ay_NN nagsimula_NN sa_NN Cebu_NNP ._.
+Hmmm_NNP ,_, parang_NN napapaisip_NN ako_NN ._.
+Kelan_JJ kaya_NN darating_VBG ang_NN araw_NN na_TO magtatagpo_NN ang_NN Bakasyon_NNP at_IN Grande_NNP ?_.
+Pag_NNP dumating_VBG iyon_NN ,_, sasabayan_JJ ko_FW ng_FW awit_FW ng_FW isang_FW lumang_FW kanta_FW ,_, ``_`` Come_VBD Fly_VB with_IN Me_PRP ''_'' ..._: ._.
+ISYU_NNP LANG_NNP ``_`` I_PRP was_VBD heading_VBG towards_IN Lefty_NNP but_CC a_DT group_NN started_VBD asking_VBG him_PRP questions_NNS ._.
+It_PRP was_VBD Ely_NNP Buendia_NNP ,_, his_PRP$ wife_NN and_CC their_PRP$ kid_NN ._.
+The_DT kid_NN was_VBD cute_JJ I_PRP was_VBD standing_VBG a_DT couple_NN of_IN paces_NNS from_IN them_PRP ._. ''_''
+Hiniram_NNP ko_FW mula_FW sa_FW --_: paanipedro.blogspot.com_NN --_: ._.
+Hay_NN ,_, buhay_NN nga_NN naman_NN ._.
+Ang_NNP kinabaliwan_NN ko_NN sa_NN college_NN bago_NN pa_NN man_NN siya_NN inangkin_JJ ng_NN masa_NN ,_, aba_NN '_'' y_JJ tatay_NN na_TO ._.
+Samantala_NNP ._.
+Eto_NNP ako_NN ._.
+Namamangha_NNP pa_NN rin_NN sa_NN relasyon_NN ng_NN iba_NN ._.
+Nag-aabang_JJ pero_NN kasabay_NN ring_NN isinusuko_NN ang_NN anumang_NN posibilidad_NN na_TO darating_VBG rin_NN ako_NN roon_NN ._.
+Ang_NNP mga_FW lalaki_FW sa_FW buhay_FW ko_FW ,_, ang_NN karamihan_NN dumaan_NN nang_VBD hindi_JJ man_NN lang_NN namalayang_NN dumaan_NN sila_NN ._.
+Na_NNP sinundan_JJ ko_NN sila_NN ng_NN tingin_NN ._.
+Hindi_NNP naman_NN sa_NN pinag-isipan_JJ ko_FW sila_FW ng_FW masama_FW pero_FW kasinungalingan_FW kung_FW di_FW ko_FW sasabihing_VBG hindi_JJ ko_NN sila_NN tinawag_NN na_TO mga_NN hangal_NN at_IN bulag_NN at_IN walang_NN kuwenta_NN nang_VBD di_FW nila_FW pinatulan_FW ang_FW mga_FW tingin_FW ko_FW ._.
+Ngayon_NNP ,_, napapansin_NN ko_NN ,_, aba_NN ,_, may_MD bago_VB akong_JJ isyu_NN tungkol_NN sa_NN mga_NN lalaking_VBG pinagtutuunan_JJ ko_NN ng_NN pansin_NN ._.
+Ewan_JJ ko_NN ba_NN pero_NN ,_, sila_NN yung_NN mga_NN madaling_VBG kagaangan_NN ng_NN loob_NN ,_, maalalahanin_NN ,_, masarap_NN kausap_NN pero_NN masarap_NN ding_NN kasama_NN lang_VBD sa_NN katahimikan_NN ._.
+Ayos_NNP na_TO sana_VB `_`` no_DT ?_.
+Kaso_NNP sila_NN rin_NN yung_VBN misteryoso_NN ang_NN dating_VBG ,_, yung_JJ kaya_NN tuloy_NN pinahihinalaan_NN na_TO para_NN bang_NN may_MD mga_VB itinatago_NN sa_NN kung_NN saan_NN ,_, partikular_JJ na_TO e_SYM sa_FW kung_FW ano_FW ..._: tulad_NN na_TO lang_NN ng_NN isang_NN aparador_NN ._.
+Pero_NNP tulad_NN ng_NN mga_NN nakasarang_NN pinto_NN ,_, puro_NN hinuha_NN lamang_VBD ang_NN mahahawakan_NN mo_NN at_IN yun_NN ang_NN nakakabaliw_NN ._.
+Partikular_JJ eto_FW sa_FW isang_FW tao_FW hanep_FW kung_FW pagukulan_FW ko_FW ng_FW panahon_NN at_IN kung_JJ anek-anek_JJ pa_NN ,_, ikanga_NN ng_NN isang_NN ``_`` masayang_NN ''_'' kaibigan_NN ._.
+Nasabi_NNP ko_FW na_TO minsan_VB ,_, na_TO sa_VB akin_JJ ,_, sa_JJ edad_NN kong_NN ito_NN ,_, hindi_NN na_TO isyu_VB ang_NN oryentasyon_NN ._.
+Kaya_NNP nga_FW ba_FW nagpapagkasya_FW ko_FW ang_FW saya_FW ko_FW sa_FW anumang_NN maliit_NN na_TO pahiwatig_NN na_TO pinaaabot_NN sa_NN aking_VBG daraanan_NN ._.
+Pero_NNP isyu_NN kapag_NN ang_NN saya_NN biglang_NN dumadausdos_NNS ._.
+Lalo_NNP na_TO kung_VB dahil_NN sa_NN mga_NN maliliit_NN na_TO datos_NNS na_TO nakakalap_JJ na_TO kapag_VB pinagtagpi-tagpi_JJ ay_NN bumubuo_NN ng_NN larawang_NN masakit_NN ang_NN kulay_NN sa_NN mata_NN ,_, tulad_NN na_TO lamang_NN ng_NN fuschia_NN ._.
+Bakit_NNP ba_NN kailangan_NN pa_NN yung_NN idagdag_NN e_SYM sa_FW simpleng_FW spektrum_FW ng_FW liwanag_NN ,_, wala_NN naman_NN iyon_NN ?_.
+Kahit_NNP pa_NN sister_NN niya_NN ang_NN kulay_NN na_TO rosas_NNS ,_, nunca_NN naging_VBG kaaya-aya_JJ iyon_NN sa_NN aking_VBG paningin_NN ._.
+Isyu_NNP talaga_NN ._.
+Ay_NNP sa_NN madaling_VBG salita_NN ,_, ano_NN na_TO nga_NN bang_NN sinasabi_JJ ko_NN ?_.
+Na_NNP apektado_NN ako_NN ,_, may_MD mga_VB minamahal_JJ na_TO at_IN pamilya_NN ang_NN aking_VBG mga_NN kakontemporaryo_NN at_IN ako_NN ay_NN wala_NN pa._NN ._.
+Wala_NNP na_TO nga_NN dahil_NN limitado_NN and_CC oportunidad_NN ,_, at_IN kung_JJ nagkakataong_NN meron_NN ,_, di_FW kami_FW talo_FW ._.
+Talo_NNP ako_NN ._.
+Iyon_NNP ang_NN isyu_NN ..._: BLEEDING_VBG TO_TO LIFE_NNP I_PRP remember_VBP one_CD retreat_NN speaker_NN tells_VBZ us_PRP this_DT remark_NN she_PRP heard_VBD from_IN a_DT man_NN ._.
+He_PRP says_VBZ he_PRP finds_VBZ it_PRP amazing_JJ how_WRB women_NNS can_MD actually_RB bleed_VB for_IN 5_CD days_NNS and_CC not_RB die_VB ._.
+I_PRP 've_VBP got_VBN to_TO give_VB him_PRP credit_NN for_IN such_JJ introspection_NN ._.
+I_PRP 've_VBP got_VBN my_PRP$ second_JJ day_NN of_IN period_NN ._.
+It_PRP 's_VBZ a_DT particlarly_RB heavy_JJ but_CC none_NN of_IN those_DT terrible_JJ pains_NNS for_IN once_RB ._.
+May_MD be_VB this_DT is_VBZ why_WRB I_PRP 've_VBP this_DT capacity_NN to_TO look_VB at_IN it_PRP with_IN grace_NN and_CC seeing_VBG red_JJ made_VBD me_PRP realize_VB the_DT power_NN that_WDT flows_VBZ from_IN me_PRP as_IN a_DT woman_NN Even_RB if_IN that_DT cycle_NN means_VBZ another_DT one_CD less_JJR from_IN my_PRP$ resources_NNS -LRB-_-LRB- there_EX goes_VBZ another_DT egg_NN down_IN the_DT drain_NN -RRB-_-RRB- ,_, another_DT could-be_NN life_NN not_RB met_VBD ,_, still_RB I_PRP am_VBP grateful_JJ ._.
+It_PRP is_VBZ a_DT reminder_NN that_IN I_PRP have_VBP the_DT gift_NN to_TO help_VB bring_VB life_NN ._.
+Maybe_RB not_RB now_RB or_CC not_RB anytime_RB soon_RB but_CC the_DT possibility_NN remains_VBZ ._.
+For_IN now_RB ,_, if_IN there_EX is_VBZ a_DT resource_NN that_IN I_PRP am_VBP learning_VBG to_TO give_VB birth_NN to_TO ,_, its_PRP$ name_NN is_VBZ Patience_NN ._.
+A_DT few_JJ nights_NNS ago_RB ,_, I_PRP had_VBD this_DT dream_NN ._.
+I_PRP was_VBD trying_VBG to_TO go_VB up_RP some_DT uneven_JJ thing_NN ._.
+It_PRP was_VBD a_DT difficult_JJ climb_NN ._.
+I_PRP felt_VBD my_PRP$ side_NN hurt_VBN after_IN ._.
+Just_RB then_RB a_DT panic_NN thought_VBD came_VBD ._.
+I_PRP am_VBP pregnant_JJ ,_, I_PRP forgot_VBD ._.
+A_DT life_NN is_VBZ within_IN and_CC I_PRP forgot_VBD ._.
+I_PRP felt_VBD all_DT of_IN me_PRP suddenly_RB have_VBP only_RB thought_VBN and_CC concern_NN and_CC love_NN and_CC fear_NN for_IN that_DT which_WDT is_VBZ inside_IN my_PRP$ body_NN ._.
+I_PRP never_RB thought_VBD it_PRP could_MD feel_VB as_IN real_JJ and_CC as_RB close_JJ as_IN that_DT ._.
+I_PRP 've_VBP always_RB feared_VBN the_DT thought_NN of_IN carrying_VBG another_DT life_NN ._.
+For_IN the_DT pain_NN ,_, for_IN the_DT discomfort_NN ,_, for_IN the_DT risks_NNS ,_, the_DT could-be_NN tragedies_NNS and_CC the_DT what-nows_NNS ._.
+But_CC remembering_VBG that_IN dream_NN on_IN my_PRP$ way_NN to_TO work_VB ,_, I_PRP felt_VBD again_RB the_DT power_NN of_IN that_DT feeling_NN within_IN ._.
+Dreamt_NNP ,_, imagined_VBD ,_, hoped_VBD for_IN ,_, feared_VBN ._.
+While_IN it_PRP sits_VBZ inside_IN in_IN silence_NN ,_, it_PRP speaks_VBZ ,_, and_CC breathes_NNS and_CC beats_NNS at_IN my_PRP$ breast_NN ,_, my_PRP$ womb_NN and_CC my_PRP$ veins_NNS and_CC I_PRP felt_VBD my_PRP$ eyes_NNS bleed_VB ._.
+-----------_JJ Image_NN Source_NN :_: Google.com\/www.4girls.gov_NNP BORED_NNP ,_, DRAINED_NNP AND_CC PAINFULLY_NNP SINGLE_NNP It_PRP is_VBZ early_JJ evening_NN of_IN Saturday_NNP in_IN my_PRP$ time_NN zone_NN ._.
+Had_VBD to_TO be_VB in_IN the_DT office_NN and_CC that_DT is_VBZ ok_NN ._.
+I_PRP 've_VBP got_VBN tons_NNS of_IN work_NN I_PRP need_VBP to_TO finish_VB ,_, work_VB that_IN I_PRP like_VBP doing_VBG and_CC that_IN I_PRP believe_VBP in_IN ._.
+But_CC what_WP is_VBZ bothersome_JJ is_VBZ this_DT thought_NN that_IN I_PRP have_VBP no_DT gimick_NN to_TO go_VB to_TO afterwards_RB ,_, no_DT friends_NNS available_JJ to_TO accompany_VB me_PRP not_RB even_RB for_IN a_DT simple_JJ movie_NN date_NN or_CC cup_NN of_IN coffee_NN ._.
+But_CC as_IN great_JJ single_JJ women_NNS would_MD have_VB it_PRP ,_, there_EX 's_VBZ just_RB too_RB much_JJ good_JJ attitude_NN to_TO opt_VB for_IN ._.
+With_IN the_DT CD-ROM_NN ,_, I_PRP suddenly_RB found_VBD Spiral_NNP Starecase_NNP keeping_VBG me_PRP company_NN and_CC keeping_VBG me_PRP sane_VB enough_RB to_TO dance_VB the_DT night_NN away_RB in_IN my_PRP$ office_NN cubicle_NN ._.
+Then_RB there_EX were_VBD the_DT texts_NNS for_IN and_CC from_IN my_PRP$ birthday_NN brother_NN ._.
+Me_PRP -_: ``_`` So_IN what_WP do_VBP you_PRP want_VBP ,_, a_DT small_JJ cake_NN or_CC a_DT small_JJ ice-cream_NN ?_. ''_''
+He_PRP 's_VBZ reply_NN --_: ``_`` of_IN course_NN a_DT big_JJ cake_NN and_CC a_DT big_JJ ice_NN cream_NN ''_'' ._.
+Cute_JJ ._.
+Well_UH still_RB all_DT of_IN the_DT above_JJ ,_, toss_VB in_IN hungry_JJ but_CC could_MD n't_RB say_VB I_PRP am_VBP not_RB grateful_JJ ._.
+Original_NNP manuscript_NN created_VBN Friday_NNP the_DT 13th_JJ ,_, 2004_CD 11:46_CD PM_NNP On_IN the_DT eve_NN of_IN my_PRP$ 33rd_CD Valentine-less_JJ Valentine_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Day_NNP ,_, I_PRP launch_VBP this_DT campaign_NN ._.
+No_DT ,_, this_DT is_VBZ not_RB the_DT same_JJ environmental_JJ cause_NN that_WDT Silliman_NNP University_NNP embarked_VBD with_IN Ford_NNP or_CC HP_NNP Foundation_NNP ._.
+But_CC it_PRP is_VBZ somehow_RB related_VBN ._.
+Even_RB if_IN only_RB vaguely_RB ._.
+Well_RB for_IN one_CD ,_, it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ about_IN conservation_NN ._.
+RATIONALE_NN :_: Seahorse_NNP is_VBZ one_CD of_IN those_DT creatures_NNS catalogued_VBD to_TO be_VB threatened_VBN if_IN not_RB fast_JJ becoming_VBG extinct_JJ ._.
+It_PRP is_VBZ said_VBN to_TO be_VB a_DT most_RBS sought_VBN after_IN commodity_NN for_IN its_PRP$ medicinal_JJ and_CC economic_JJ value_NN ._.
+But_CC more_RBR than_IN these_DT ,_, this_DT aquatic_JJ creature_NN possesses_VBZ great_JJ qualities_NNS to_TO be_VB admired_VBN in_IN this_DT generation_NN of_IN metrosexuals_NNS :_: it_PRP is_VBZ monogamous_JJ and_CC it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ the_DT male_NN species_NNS that_WDT carry_VBP the_DT maternal_JJ burden_NN ._.
+Now_RB what_WP does_VBZ it_PRP have_VB to_TO do_VB with_IN me_PRP ?_.
+Well_RB ,_, not_RB only_RB to_TO me_PRP but_CC to_TO a_DT hundred_CD thousand_CD other_JJ single_JJ women_NNS out_IN there_RB waiting_VBG for_IN that_DT one_CD true_JJ elusive_JJ love_NN ._.
+We_PRP barf_VBP at_IN the_DT thought_NN ,_, so_IN we_PRP independent_JJ women_NNS say_VBP ,_, but_CC alone_RB in_IN our_PRP$ room_NN ,_, sick_JJ with_IN flu_NN while_IN the_DT rest_NN of_IN coupledom_NN is_VBZ busy_JJ braving_VBG the_DT traffic_NN and_CC foolishly_RB being_VBG affectionate_JJ ,_, we_PRP sigh_NN with_IN such_JJ sighing_VBG even_RB the_DT dead_JJ would_MD wake_VB up_RP before_IN judgment_NN day_NN ._.
+In_IN this_DT day_NN and_CC age_NN of_IN halfhearted_JJ vows_VBZ ,_, FFs_NNP and_CC KFs_NNP and_CC all_DT sorts_NNS of_IN intimacy_NN play_NN but_CC no_DT commitment_NN for_IN and_CC during_IN a_DT lifetime_NN ,_, of_IN single_JJ ,_, straight_JJ and_CC secure_JJ men_NNS fast_RB disappearing_VBG ,_, we_PRP can_MD only_RB continue_VB to_TO hold_VB on_RP to_TO our_PRP$ childlike_JJ hope_NN and_CC faith_NN ._.
+A_DT magnificent_JJ ,_, beautiful_JJ seahorse_NN waits_VBZ as_IN I_PRP wait_VBP ._.
+OBJECTIVES_NNS :_: -LRB-_-LRB- 1_CD -RRB-_-RRB- To_TO devise_VB means_NNS by_IN which_WDT one_CD <sup>_NN TM_NNP </sup>_NNP s_VBZ self_NN will_MD never_RB give_VB up_RP on_IN finding_VBG one_CD <sup>_JJ TM_NNP </sup>_NNP s_VBZ seahorse_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- To_TO put_VB in_RP mind_NN that_IN oneself_NN is_VBZ good_JJ and_CC deserve_VB no_DT less_JJR better_JJR than_IN one_CD truly_RB desire_NN for_IN ;_: -LRB-_-LRB- 3_LS -RRB-_-RRB- To_TO never_RB stop_VB in_IN growing_VBG as_IN an_DT individual_JJ ,_, loving_JJ and_CC allowing_VBG one_CD <sup>_JJ TM_NNP </sup>_NNP s_VBZ self_NN to_TO be_VB loved_VBN ._.
+STRATEGIES_NNS :_: -LRB-_-LRB- 1_LS -RRB-_-RRB- Create_VB a_DT life_NN outside_IN of_IN the_DT workplace_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- Renew_VB constantly_RB ties_NNS with_IN friends_NNS and_CC welcome_JJ and_CC even_RB make_VB opportunities_NNS for_IN new_JJ relationships_NNS ;_: -LRB-_-LRB- 3_LS -RRB-_-RRB- Choose_VB wisely_RB the_DT relationships_NNS that_WDT would_MD be_VB given_VBN extra_JJ attention_NN ,_, time_NN and_CC consideration_NN ,_, asking_VBG if_IN there_EX <sup>_VBZ TM_NNP </sup>_NNP s_VBZ a_DT future_NN with_IN it_PRP worth_JJ pursuing_VBG ;_: -LRB-_-LRB- 4_LS -RRB-_-RRB- Be_VB thankful_JJ for_IN all_PDT the_DT special_JJ though_IN temporary_JJ relationships_NNS that_WDT come_VBP and_CC hold_VBP it_PRP with_IN fondness_NN but_CC not_RB to_TO cling_VB to_TO it_PRP ._.
+There_EX are_VBP more_RBR postings_NNS to_TO come_VB ._.
+For_IN now_RB ,_, I_PRP end_VBP with_IN these_DT ._.
+For_IN the_DT first_JJ time_NN in_IN years_NNS ,_, I_PRP noticed_VBD a_DT lone_JJ star_NN outside_IN my_PRP$ window_NN directly_RB across_IN where_WRB I_PRP lie_VBP in_IN bed_NN every_DT night_NN ._.
+Next_JJ to_TO the_DT window_NN is_VBZ this_DT glow-in-the-dark_JJ star_NN I_PRP placed_VBD a_DT couple_NN of_IN years_NNS back_RB ._.
+There_EX were_VBD two_CD stars_NNS then_RB ,_, a_DT kind_NN of_IN a_DT silent_JJ wish_NN for_IN a_DT heart_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ desire_NN back_RB then_RB and_CC though_RB there_EX is_VBZ only_RB one_CD left_NN ,_, still_RB the_DT desire_NN remains_VBZ ._.
+And_CC since_IN I_PRP <sup>_VBP TM_NNP </sup>_NNP ve_VBD never_RB given_VBN up_RP on_IN my_PRP$ childhood_NN ,_, I_PRP look_VBP now_RB on_IN these_DT two_CD stars_NNS that_WDT are_VBP on_IN my_PRP$ same_JJ visual_JJ plane_NN ,_, one_CD out_IN there_RB and_CC real_RB though_IN might_MD have_VB already_RB burned_VBN light_JJ years_NNS and_CC light_JJ years_NNS away_RB and_CC one_CD that_WDT <sup>_VBP TM_NNP </sup>_NNP s_VBZ stuck_VBN on_IN my_PRP$ wall_NN glowing_JJ after_IN I_PRP turn_VBP off_RP the_DT lights_NNS and_CC dream_NN my_PRP$ dreams_NNS ._.
+Happy_JJ Valentine_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Day_NNP Nanay_NNP ..._: I_PRP love_VBP and_CC miss_VBP you_PRP still_RB 1:14_CD am_VBP St._NNP Valentine_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Day_NNP -------------------------_NNP \*_SYM The_DT beautiful_JJ image_NN was_VBD sourced_VBN from_IN www.barbjanisch.com_JJ \/_NN seahorse_NN ._.
+html_NN OH_NNP BROTHERS_NNP !_.
+Amazing_JJ how_WRB songs_NNS find_VBP their_PRP$ way_NN to_TO you_PRP like_IN a_DT child_NN that_WDT suddenly_RB climbs_VBZ up_RP your_PRP$ lap_NN just_RB when_WRB you_PRP 're_VBP trying_VBG to_TO remember_VB what_WP it_PRP is_VBZ that_DT has_VBZ just_RB crossed_VBN your_PRP$ mind_NN ._.
+It_PRP 's_VBZ for_IN those_DT moments_NNS when_WRB there_EX is_VBZ that_IN that_IN you_PRP feel_VBP but_CC just_RB could_MD n't_RB name_VB ._.
+For_IN us_PRP who_WP 've_VBP been_VBN there_RB ,_, and_CC are_VBP still_RB there_RB ,_, here_RB 's_VBZ an_DT Ira_NNP and_CC George_NNP Gershwin_NNP creation_NN -LRB-_-LRB- and_CC I_PRP thought_VBD they_PRP 're_VBP wife_NN and_CC husband_NN team_NN -RRB-_-RRB- ._.
+They_PRP too_RB are_VBP responsible_JJ for_IN another_DT song_NN that_WDT speaks_VBZ to_TO some_DT lone_JJ figures_NNS in_IN some_DT dark_JJ corners_NNS ,_, Someone_NN to_TO Watch_NNP Over_IN Me_PRP ._.
+Comfort_NN while_IN your_PRP$ hands_NNS beat_VB away_RP on_IN keyboards_NNS on_IN a_DT night_NN of_IN all_DT work_NN and_CC nothing_NN else_RB in_IN sight_NN ._.
+\*_SYM \*_SYM But_CC Not_RB for_IN Me_PRP They_PRP 're_VBP writing_VBG songs_NNS of_IN love_NN ,_, but_CC not_RB for_IN me_PRP ._.
+A_DT lucky_JJ star_NN 's_POS above_JJ ,_, but_CC not_RB for_IN me_PRP ._.
+With_IN love_NN to_TO lead_VB the_DT way_NN I_PRP 've_VBP found_VBN more_RBR clouds_NNS of_IN gray_JJ than_IN any_DT Russian_JJ play_NN could_MD guarantee_VB ._.
+I_PRP was_VBD a_DT fool_NN to_TO fall_VB and_CC get_VB that_DT way_NN ;_: Heigh-ho_JJ !_.
+Alas_NNP !_.
+And_CC also_RB ,_, lack-a-day_JJ !_.
+Although_IN I_PRP ca_MD n't_RB dismiss_VB the_DT mem_NN `_`` ry_NN of_IN his_PRP$ kiss_NN ,_, I_PRP guess_VBP he_PRP 's_VBZ not_RB for_IN me_PRP ._.
+He_PRP 's_VBZ knocking_VBG on_IN a_DT door_NN ,_, but_CC not_RB for_IN me_PRP ._.
+He_PRP 'll_MD plan_VB a_DT two_CD by_IN four_CD ,_, but_CC not_RB for_IN me_PRP ._.
+I_PRP know_VBP that_IN love_NN 's_POS a_DT game_NN ;_: I_PRP 'm_VBP puzzled_VBN ,_, just_RB the_DT same_JJ ,_, was_VBD I_PRP the_DT moth_NN or_CC flame_NN ?_.
+I_PRP 'm_VBP all_DT at_IN sea_NN ._.
+It_PRP all_DT began_VBD so_RB well_RB ,_, but_CC what_WP an_DT end_NN !_.
+This_DT is_VBZ the_DT time_NN a_DT feller_NN needs_VBZ a_DT friend_NN ,_, -LRB-_-LRB- this_DT time_NN a_DT girl_NN could_MD sure_RB use_VB a_DT friend_NN -RRB-_-RRB- when_WRB ev'ry_JJ happy_JJ plot_NN ends_VBZ with_IN the_DT marriage_NN knot_NN ,_, and_CC there_EX 's_VBZ no_DT knot_NN for_IN me_PRP ._.
+-----------_JJ Image1_NNP Source_NN :_: http:\/\/treasuringmemories.com\/images\/Die_cuts\/My_Minds_Eye\/My_hero\/Big_hero_star.jpg_NNP This_DT image_NN may_MD be_VB subject_JJ to_TO copyright_NN ._.
+http:\/\/treasuringmemories.com\/Die_cuts_pages\/MME_My_Hero.htm_NNP Image2_NNP Source_NNP :_: http:\/\/images-eu.amazon.com\/images\/P\/0306807394.01.LZZZZZZZ.jpg_NN This_DT image_NN may_MD be_VB subject_JJ to_TO copyright_NN ._.
+http:\/\/www.amazon.co.uk\/exec\/obidos\/ASIN\/0306807394\/geometrynet-21_JJ CHILDREN_NNS 'S_POS SOUP_NNP FOR_IN THE_DT SINGLE_NNP SOUL_NNP The_DT kind_NN of_IN men_NNS I_PRP 've_VBP been_VBN blessed_VBN ,_, or_CC cursed_VBN -LRB-_-LRB- depending_VBG on_IN what_WP season_NN I_PRP am_VBP in_IN and_CC what_WP they_PRP 've_VBP done_VBN right_JJ or_CC wrong_JJ -RRB-_-RRB- to_TO have_VB encountered_VBN can_MD be_VB described_VBN in_IN the_DT context_NN of_IN acronyms_NNS --_: HHWW_NNP ,_, TNT_NNP ,_, SOB_NNP ,_, and_CC as_IN declared_VBN by_IN the_DT Guinness_NNP Book_NNP of_IN World_NNP Records_NNP to_TO be_VB the_DT world_NN 's_POS longest_JJS acronym_NN ,_, NIIOMTPLABOPARMBETZHELBETRABSBOMONIMONKONOTDTEKHSTROMONT_NNP -LRB-_-LRB- as_IN found_VBN from_IN the_DT Concise_NNP Dictionary_NNP of_IN Soviet_NNP Terminology_NNP ,_, which_WDT translates_VBZ to_TO ``_`` The_DT laboratory_NN for_IN shuttering_VBG ,_, reinforcement_NN ,_, concrete_JJ and_CC ferroconcrete_JJ operations_NNS for_IN composite-monolithic_JJ and_CC monolithic_JJ constructions_NNS of_IN the_DT Department_NNP of_IN the_DT Technology_NN of_IN Building-assembly_JJ operations_NNS of_IN the_DT Scientific_NNP Research_NNP Institute_NNP of_IN the_DT Organization_NNP for_IN building_VBG mechanization_NN and_CC technical_JJ aid_NN of_IN the_DT Academy_NNP of_IN Building_NNP and_CC Architecture_NNP of_IN the_DT USSR_NNP ''_'' -RRB-_-RRB- ._.
+A_DT jargon_NN of_IN their_PRP$ own_JJ ._.
+But_CC apart_RB from_IN a_DT particular_JJ context_NN ,_, meaningless_JJ ._.
+They_PRP come_VBP stringed_VBN ,_, punctuated_VBN or_CC not_RB ,_, initialized_JJ ,_, abbreviated_JJ or_CC assimilated_VBN ._.
+Annoying_VBG but_CC has_VBZ a_DT purpose_NN ._.
+And_CC so_IN it_PRP is_VBZ fascinating_JJ the_DT first_JJ time_NN I_PRP heard_VBD these_DT guys_NNS whose_WP$ work_NN I_PRP borrow_VBP below_IN ._.
+I_PRP thought_VBD ,_, wow_NN ,_, scorned_VBD angry_JJ men_NNS and_CC no_DT abstractions_NNS about_IN it_PRP ._.
+Candid_JJ and_CC honest_JJ without_IN being_VBG pathetically_RB syrupy_JJ about_IN it_PRP ._.
+That_DT 's_VBZ something_NN new_JJ ._.
+My_PRP$ kind_NN of_IN men_NNS ._.
+I_PRP 've_VBP yet_RB to_TO read_VB about_IN their_PRP$ demography_NN ,_, politics_NNS and_CC psychology_NN so_IN I_PRP beg_VBP your_PRP$ indulgence_NN ._.
+I_PRP am_VBP merely_RB basing_VBG these_DT from_IN what_WP I_PRP 've_VBP heard_VBN on_IN their_PRP$ other_JJ tracks_NNS ._.
+No_DT painted_VBN whitewashed_JJ paradise_NN ._.
+More_JJR like_IN overcast_NN to_TO stormy_JJ skies_NNS ._.
+The_DT female_JJ face_NN is_VBZ n't_RB even_RB painted_VBN well_RB in_IN some_DT instances_NNS but_CC still_RB I_PRP am_VBP drawn_VBN to_TO listen_VB ._.
+There_EX is_VBZ so_RB much_JJ to_TO relate_VB to_TO ._.
+For_IN one_CD ,_, I_PRP feel_VBP like_IN I_PRP am_VBP the_DT reason_NN for_IN those_DT songs_NNS coming_VBG to_TO existence_NN ._.
+You_PRP can_MD sue_VB me_PRP if_IN you_PRP think_VBP otherwise_RB ._.
+But_CC if_IN you_PRP too_RB are_VBP single_JJ ,_, full-blooded_JJ ,_, biologically_RB female_JJ ,_, and_CC all-too-100_JJ %_NN -_: complex-wanting-simplicity_NN ,_, you_PRP are_VBP free_JJ to_TO relate_VB ._.
+So_RB from_IN A.C.R.O.N.Y.M.S._NNP to_TO ABC_NNP soup_NN ._.
+It_PRP 's_VBZ not_RB sweet_JJ ._.
+It_PRP is_VBZ n't_RB supposed_VBN to_TO be_VB ._.
+Some_DT salt_NN ,_, some_DT spice_NN ._.
+Comfort_NN food_NN ._.
+Childlike_JJ joy_NN floating_VBG on_IN warm_JJ ,_, clear_JJ ,_, light_JJ perspective_NN ._.
+Have_VBP some_DT ._.
+It_PRP 's_VBZ rainy_NN out_IN there_RB ._.
+Must_MD Get_VB Out_IN ._.
+Maroon5_NNS ._.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP ve_VBP been_VBN the_DT needle_NN and_CC the_DT threadWeaving_JJ figure_NN eights_NNS and_CC circles_NNS round_VBP your_PRP$ headI_NNP try_VB to_TO laugh_NN but_CC cry_NN insteadPatiently_RB wait_VB to_TO hear_VB the_DT words_NNS you_PRP <sup>_VBP TM_NNP </sup>_NNP ve_NN never_RB said_VBD Fumbling_NNP through_IN your_PRP$ dresser_NN drawer_NN forgot_VBN what_WP I_PRP was_VBD looking_VBG forTry_NNP to_TO guide_VB me_PRP in_IN the_DT right_JJ directionMaking_NN use_NN of_IN all_PDT this_DT timeKeeping_VBG everything_NN insideClose_NNP my_PRP$ eyes_NNS and_CC listen_VB to_TO you_PRP cry_VBP I_PRP 'm_VBP lifting_VBG you_PRP upI_NNP 'm_VBP letting_VBG you_PRP downI_NNP 'm_VBP dancing_VBG till_IN dawnI_NNP 'm_VBP fooling_VBG aroundI_NNP 'm_VBP not_RB giving_VBG upI_NNP 'm_VBP making_VBG your_PRP$ loveThis_NNP city_NN 's_POS made_VBN us_PRP crazy_JJ and_CC we_PRP must_MD get_VB outThis_NNP is_VBZ not_RB goodbye_VB she_PRP saidIt_NNP is_VBZ just_RB time_NN for_IN me_PRP to_TO rest_VB my_PRP$ headShe_NNP does_VBZ not_RB walk_VB she_PRP runs_VBZ insteadDown_JJ these_DT jagged_JJ streets_NNS and_CC into_IN my_PRP$ bedFumbling_VBG through_IN your_PRP$ dresser_NN drawer_NN forgot_VBN what_WP I_PRP was_VBD looking_VBG forTry_NNP to_TO guide_VB me_PRP in_IN the_DT right_JJ direction_NN Making_VBG use_NN of_IN all_PDT this_DT timeKeeping_VBG everything_NN insideClose_NNP my_PRP$ eyes_NNS and_CC listen_VB to_TO you_PRP cryI_VBP 'm_VBP lifting_VBG you_PRP up_IN I_PRP 'm_VBP letting_VBG you_PRP down_IN I_PRP 'm_VBP dancing_VBG till_IN dawn_NN I_PRP 'm_VBP fooling_VBG around_IN I_PRP 'm_VBP not_RB giving_VBG upI_NNP 'm_VBP making_VBG your_PRP$ loveThis_NNP city_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ made_VBN us_PRP crazy_JJ and_CC we_PRP must_MD get_VB outThere_NNP <sup>_VB TM_NNP </sup>_NNP s_VBZ only_RB so_RB much_JJ I_PRP can_MD do_VB for_IN youAfter_NNP all_DT of_IN the_DT things_NNS you_PRP put_VBP me_PRP through_IN I_PRP 'm_VBP lifting_VBG you_PRP up_IN I_PRP 'm_VBP letting_VBG you_PRP down_IN I_PRP 'm_VBP dancing_VBG till_IN dawn_NN I_PRP 'm_VBP fooling_VBG around_IN I_PRP 'm_VBP not_RB giving_VBG up_RP I_PRP 'm_VBP making_VBG your_PRP$ loveThis_NNP city_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ made_VBN us_PRP crazy_JJ and_CC we_PRP must_MD get_VB outI_NNP 'm_VBP lifting_VBG you_PRP upI_NNP 'm_VBP letting_VBG you_PRP downI_NNP 'm_VBP dancing_VBG till_IN dawnI_NNP 'm_VBP fooling_VBG aroundI_NNP 'm_VBP not_RB giving_VBG up_RP I_PRP 'm_VBP making_VBG your_PRP$ love_NN This_DT city_NN <sup>_VB TM_NNP </sup>_NNP s_VBZ made_VBN us_PRP crazy_JJ and_CC we_PRP must_MD get_VB out_RP ----------_JJ Info_NNP Source_NN :_: http:\/\/www.wordiq.com\/definition\/Acronym_NNP Image_NN Source_NN :_: http:\/\/images.google.com.ph\/imgres?imgurl=http:\/\/www.toddparr.com\/imgs\/gallery\/abcsoup.gif_JJ Another_DT thing_NN caught_VBD my_PRP$ attention_NN on_IN the_DT WordIQ_NNP site_NN ._.
+Check_VB it_PRP out_RP ._.
+Again_RB us_PRP on_IN the_DT map_NN :_: -RRB-_-RRB- http:\/\/www.wordiq.com\/definition\/Acronyms_in_the_Philippines_VBZ H_NNP A_NNP P_NNP P_NNP Y._NNP That_WDT 's_VBZ how_WRB I_PRP am_VBP these_DT days_NNS ._.
+I_PRP could_MD still_RB cry_VB over_IN this_DT someone_NN I_PRP finally_RB chose_VBD to_TO give_VB up_RP but_CC no_RB longer_RBR out_IN of_IN despair_NN ._.
+I_PRP could_MD still_RB cry_VB over_IN work_NN but_CC frustration_NN would_MD no_RB longer_RB be_VB the_DT motivation_NN ._.
+I_PRP looked_VBD over_IN to_TO where_WRB his_PRP$ table_NN is_VBZ and_CC rejoiced_VBD at_IN the_DT thought_NN ,_, finally_RB I_PRP can_MD fall_VB again_RB ._.
+Fall_NN down_RB hard_RB possibly_RB ._.
+Yet_RB find_VB comfort_NN in_IN knowing_VBG that_IN it_PRP can_MD cause_VB another_DT inch_NN of_IN growth_NN ._.
+Or_CC growth_NN spurt_NN ._.
+I_PRP paused_VBD and_CC thought_VBD I_PRP 've_VBP been_VBN happy_JJ for_IN a_DT whole_JJ week_NN now_RB and_CC not_RB exactly_RB because_IN of_IN the_DT possibility_NN of_IN romance_NN but_CC simply_RB because_IN I_PRP see_VBP myself_PRP capable_JJ of_IN going_VBG through_IN the_DT ugliest_JJS and_CC most_RBS miserable_JJ of_IN feelings_NNS and_CC situations_NNS ,_, run_VBP away_RB almost_RB for_IN dear_RB life_NN and_CC in_IN it_PRP all_DT had_VBD the_DT courage_NN to_TO go_VB back_RB and_CC face_VB what_WP 's_VBZ seething_JJ beneath_IN ._.
+Yes_UH ,_, I_PRP am_VBP a_DT woman_NN ._.
+To_TO my_PRP$ mind_NN going_VBG 4o_CD and_CC all_DT things_NNS in_IN between_IN ._.
+I_PRP am_VBP a_DT hammock_NN and_CC a_DT trampoline_NN ._.
+I_PRP am_VBP company_NN and_CC solitude_NN ._.
+I_PRP am_VBP power_NN and_CC surrender_NN ._.
+Ah_UH great_JJ great_JJ to_TO be_VB a_DT woman_NN ._.
+--------------_JJ Image_NN Source_NN :_: http:\/\/images.google.com.ph\/imgresimgurl=http:\/\/www.toddparr.com\/imgs\/gallery\/abcsoup.gif_JJ --------------------_JJ paano_NN bang_NN inaabot_NN ang_NN lalim_NN ng_NN lungkot_NN ?_.
+anim_NN na_TO talampakang_NN ayaw_NN magpaabot_NN saang_NN araw_NN makikiusap_NN hihiram_NN ng_NN init_NN at_IN liwanag_NN puting_VBG tuldok_NN tanda_NN sa_NN dulo_NN ng_NN makipot_NN na_TO daan_JJ natatanaw_NN man_NN hindi_NNS naman_VBP malakaran_JJ ulang_NN bumubuhos_NNS umaagos_VBZ papalayo_NN pakiusap_NN :_: anurin_NN ,_, dalhin_NN itong_NN bigat_NN ng_NN damdmin_NN ------------------------_NN mula_NN sa_NN aking_VBG baul_NN ..._: Nais_NNP kong_NN di_FW ka_FW umimik_FW :_: na_TO parang_NN di_FW ka_FW narito_FW At_IN marinig_NN mo_NN ako_NN mula_NN sa_NN malayo_NN at_IN ang_NN tinig_NN ko_FW <sup>_FW TM_FW </sup>_FW y_FW di_FW ka_FW maabot_FW Para_FW bang_NN ang_NN mga_NN mata_NN mo_NN <sup>_VBD TM_NNP </sup>_NNP y_JJ lumipad_NN papalayo_NN At_IN parang_NN isang_NN halik_NN ang_NN nagtupi_NN ng_NN iyong_NN bibig_NN Kung_NNP paanong_NN ang_NN lahat_NN ng_NN bagay_NN ay_NN puno_NN ng_NN aking_VBG kaluluwa_NN Ikaw_NNP ay_JJ nagmumula_NN sa_NN mga_NN bagay_NN ,_, puno_NN ng_NN aking_VBG kaluluwa_NN Paruparo_NNP ng_NNP guni-guni_NNS ,_, tulad_NN ka_FW ng_FW aking_FW kaluluwa_FW At_IN katulad_NN ka_FW ng_FW salitang_NN --_: lumbay_NN Nais_NNP kong_NN di_FW ka_FW umimik_FW ,_, at_IN mukha_NN ka_FW ngang_FW malayo_FW Para_FW bang_NN ika_FW <sup>_FW TM_FW </sup>_FW y_FW nanaghoy_FW ,_, isang_JJ paruparo_NN ,_, humuhuning_VBG parang_NN ibon_NN At_IN narinig_NN mo_NN ako_NN sa_NN malayo_NN ,_, at_IN ang_NN tinig_NN ko_NN di_FW ka_FW maabot_FW :_: Hayaan_JJ mo_NN akong_NN lumapit_NN at_IN di_FW umimik_FW kasama_FW ng_FW iyong_FW katahimikan_FW At_IN hayaan_NN mo_NN akong_NN kausapin_NN ka_FW sa_FW iyong_FW pananahimik_NN Na_NNP sing-liwanag_JJ ng_NN gasera_NN ,_, payak_NN tulad_NN ng_NN singsing_VBG ._.
+Tulad_NNP ka_FW ng_FW gabi_FW ,_, ng_JJ mga_NN konstelasyong_NN walang_NN kibo_NN Ang_NNP iyong_JJ pananahimik_NN parang_NN bituin_NN ,_, malayo_NN at_IN walang_NN tinatago_NN Nais_NNP kong_NN di_FW ka_FW umimik_FW :_: na_TO parang_NN di_FW ka_FW narito_FW Malayo_FW at_IN labis_JJ ang_NN lungkot_NN na_TO para_NN bang_NN ikaw_VB ay_RB namatay_JJ Kaya_NNP isang_NN salita_NN lang_NN ,_, isang_NN ngiti_NNS ,_, tama_NN na_TO ._.
+At_IN ako_NN <sup>_NN TM_NNP </sup>_NNP y_JJ masaya_NN ,_, masayang_NN hindi_NN yuon_NN totoo_NN ._.
+SALIN_NNP MULA_NNP SA_NNP TULA_NNP NI_NNP PABLO_NNP NERUDA_NNP 6\/21\/01_CD I_PRP LIKE_IN FOR_IN YOU_PRP TO_TO BE_VB STILL_NNP Pablo_NNP Neruda_NNP I_PRP like_VBP for_IN you_PRP to_TO be_VB still_RB It_PRP is_VBZ as_IN though_IN you_PRP were_VBD absent_JJ And_CC you_PRP hear_VBP me_PRP from_IN far_RB away_RB And_CC my_PRP$ voice_NN does_VBZ not_RB touch_VB you_PRP It_PRP seems_VBZ that_IN your_PRP$ eyes_NNS have_VBP flown_VBN away_RB And_CC a_DT kiss_NN has_VBZ sealed_VBN your_PRP$ mouth_NN As_IN all_DT things_NNS are_VBP filled_VBN with_IN my_PRP$ soul_NN You_PRP emerge_VBP from_IN the_DT things_NNS filled_VBN with_IN my_PRP$ soul_NN You_PRP are_VBP like_IN my_PRP$ soul_NN A_DT butterfly_NN of_IN dream_NN And_CC you_PRP are_VBP like_IN the_DT word_NN ''_'' melancholy_JJ I_PRP like_VBP for_IN you_PRP to_TO be_VB still_RB And_CC you_PRP seemed_VBD far_RB away_RB It_PRP sounds_VBZ as_IN though_IN you_PRP were_VBD lamenting_VBG A_DT butterfly_NN cooing_VBG like_IN a_DT dove_VBN And_CC you_PRP hear_VBP me_PRP from_IN far_RB away_RB And_CC my_PRP$ voice_NN does_VBZ not_RB reach_VB you_PRP Let_VB me_PRP come_VB to_TO be_VB still_RB in_IN your_PRP$ in_IN silence_NN And_CC let_VB me_PRP talk_VB to_TO you_PRP with_IN your_PRP$ silence_NN That_DT is_VBZ bright_JJ as_IN a_DT lamp_NN ,_, simple_JJ as_IN a_DT ring_NN You_PRP are_VBP like_IN the_DT night_NN With_IN its_PRP$ stillness_NN and_CC constellations_NNS Your_PRP$ silence_NN is_VBZ that_IN of_IN a_DT star_NN As_IN remote_JJ and_CC candid_JJ I_PRP <sup>_VBP TM_NNP </sup>_NNP d_SYM like_IN for_IN you_PRP to_TO be_VB still_RB It_PRP is_VBZ as_IN though_IN you_PRP were_VBD absent_JJ Distant_JJ and_CC full_JJ of_IN sorrow_NN As_IN though_IN you_PRP had_VBD died_VBN One_CD word_NN then_RB ,_, one_CD smile_NN is_VBZ enough_JJ And_CC I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN happy_JJ ,_, happy_JJ that_IN it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ not_RB true_JJ ._.
+TRANSCRIBED_NNP FROM_NNP ``_`` IL_NNP POSTINO_NNP ''_'' OST_NNP BY_NNP MIRAMAX_NNP MOTION_NNP PICTURE_NNP ------------------------_NN another_DT day_NN another_DT difficult_JJ day_NN of_IN counting_VBG my_PRP$ blessings_NNS tomorrow_NN another_DT day_NN one_CD i_FW hope_NN i_FW wo_MD n't_RB be_VB starting_VBG off_RP again_RB cursing_NN a_DT set_NN of_IN returned_VBN vouchers_NNS and_CC the_DT f-of-a-word_JJ bureaucratic_JJ system_NN that_WDT goes_VBZ with_IN it_PRP -------------------------_NN can_MD u_VB believe_VB this_DT crap_NN ?_.
+..._: MWAHAHAHAHAHA_NNP !!!_CD On_IN a_DT scale_NN of_IN 1_CD to_TO 10_CD you_PRP are_VBP a_DT 7_CD ._.
+You_PRP are_VBP obviously_RB evil_JJ and_CC there_EX are_VBP not_RB very_RB many_JJ that_WDT are_VBP in_IN your_PRP$ league_NN ._.
+You_PRP belong_VBP behind_IN bars_NNS to_TO keep_VB the_DT general_JJ population_NN safe_JJ from_IN you_PRP ._.
+Unfortunitly_RB as_IN crafty_JJ as_IN you_PRP are_VBP this_DT will_MD probably_RB not_RB happen_VB until_IN many_JJ lives_NNS have_VBP been_VBN destroyed_VBN ._.
+To_TO improve_VB your_PRP$ level_NN of_IN evil_JJ and_CC become_VB a_DT Vampire_NNP CLICK_NNP HERE_RB to_TO join_VB the_DT game_NN ._.
+How_WRB Evil_NNP Are_VBP You_PRP ?_.
+brought_VBN to_TO you_PRP by_IN Quizilla_NNP ---------------------_NNP sabi_FW ko_FW na_TO nga_FW ba_FW e_SYM :_: -RRB-_-RRB- My_PRP$ inner_JJ child_NN is_VBZ ten_CD years_NNS old_JJ !_.
+The_DT adult_NN world_NN is_VBZ pretty_RB irrelevant_JJ to_TO me_PRP ._.
+Whether_IN I_PRP 'm_VBP off_RP on_IN my_PRP$ bicycle_NN -LRB-_-LRB- or_CC pony_NN -RRB-_-RRB- exploring_VBG ,_, lost_VBN in_IN a_DT good_JJ book_NN ,_, or_CC giggling_NN with_IN my_PRP$ best_JJS friend_NN ,_, I_PRP live_VBP in_IN a_DT world_NN apart_RB ,_, one_CD full_JJ of_IN adventure_NN and_CC wonder_NN and_CC other_JJ stuff_NN adults_NNS do_VBP n't_RB understand_VB ._.
+How_WRB Old_NNP is_VBZ Your_PRP$ Inner_JJ Child_NN ?_.
+brought_VBN to_TO you_PRP by_IN Quizilla_NNP ------------------------------------_NNP hey_NN ,_, have_VBP u_JJ heard_VBN ?_.
+today_NN 's_POS the_DT 100th_JJ day_NN before_IN Krismas_NNP !!!_NNP but_CC guess_VB what_WP i_FW 've_VBP been_VBN thinking_VBG and_CC which_WDT many_JJ friends_NNS reminded_VBD me_PRP of_IN today_NN ?_.
+d_LS e_SYM a_DT t_NN h_NN if_IN i_FW stare_VB long_RB enough_RB at_IN it_PRP that_IN 5-letter_JJ word_NN wo_MD n't_RB seem_VB to_TO mean_VB a_DT thing_NN and_CC so_RB i_FW hope_NN but_CC then_RB we_PRP all_DT concerned_JJ parties_NNS know_VBP that_IN it_PRP will_MD still_RB do_VB was_VBD talking_VBG with_IN zeny_NN about_IN our_PRP$ mothers_NNS ,_, their_PRP$ similarities_NNS --_: ugali_NNS ,_, charm_NN ,_, sickness_NN ,_, their_PRP$ deaths_NNS of_IN us_PRP missing_VBG them_PRP even_RB after_IN all_PDT these_DT years_NNS and_CC then_RB thinking_VBG what_WP it_PRP would_MD be_VB like_IN when_WRB our_PRP$ similar_JJ time_NN comes_VBZ later_RB this_DT evening_NN a_DT young_JJ friend_NN told_VBD me_PRP he_PRP almost_RB got_VBD killed_VBN on_IN the_DT road_NN last_JJ week_NN slowing_VBG down_RP before_IN he_PRP even_RB knew_VBD something_NN 's_POS gonna_NN hit_VBD him_PRP saved_VBD him_PRP then_RB opening_VBG my_PRP$ email_NN ,_, i_FW was_VBD reminded_VBN to_TO ask_VB what_WP to_TO me_PRP matters_VBZ ?_.
+really_RB matters_VBZ yesterday_NN my_PRP$ greatest_JJS thought_NN for_IN the_DT day_NN was_VBD :_: hope_NN i_FW 'd_MD be_VB dead_JJ by_IN the_DT end_NN of_IN the_DT day_NN that_WDT would_MD mean_VB no_DT more_JJR work_NN to_TO get_VB pissed_VBN over_IN but_CC then_RB like_IN in_IN all_DT other_JJ matters_NNS ,_, no_DT such_JJ luck_NN :_: -RRB-_-RRB- still_RB here_RB looking_VBG over_IN there_EX to_TO where_WRB i_FW believe_VBP things_NNS would_MD be_VB better_JJR where_WRB people_NNS who_WP mean_VBP to_TO me_PRP would_MD be_VB waiting_VBG but_CC for_IN now_RB for_IN here_RB to_TO keep_VB my_PRP$ thoughts_NNS of_IN death_NN company_NN to_TO make_VB it_PRP something_NN beautiful_JJ something_NN to_TO look_VB forward_RB to_TO as_RB much_JJ as_IN this_DT we_PRP call_VBP ``_`` haaayyy_JJ buhay_NN ''_'' i_FW choose_VB this_DT i_FW w_FW i_FW l_NN l_NN b_NN e_SYM g_FW r_SYM a_DT t_NN e_SYM f_SYM u_FW l_NN for_IN every_DT single_JJ day_NN for_IN every_DT single_JJ -LRB-_-LRB- even_RB if_IN coupled_VBN -RRB-_-RRB- person_NN for_IN every_DT single_JJ me_PRP -LRB-_-LRB- the_DT very_RB ,_, very_RB single_JJ me_PRP -RRB-_-RRB- and_CC my_PRP$ life_NN and_CC my_PRP$ would-be_JJ death_NN dahil_NN gusto_NN ko_NN pag_NN tinatanong_VBG na_TO ako_FW yung_FW isasagot_FW ko_FW yun-na-yun_FW parang_FW si_FW susan_FW ..._: ----------------_JJ SUSAN_NNP Where_WRB are_VBP you_PRP going_VBG ?_.
+SETH_NNP -LRB-_-LRB- MAN_NNP -RRB-_-RRB- Home_NNP ._.
+SUSAN_NNP Can_MD Mommy_NNP Come_VBN ?_.
+SETH_NNP No._NN ._.
+SUSAN_NNP She_PRP wo_MD n't_RB understand_VB ._.
+SETH_NNP She_PRP will_MD ,_, someday_RB ._.
+He_PRP holds_VBZ out_RP his_PRP$ hand_NN ._.
+She_PRP takes_VBZ it_PRP ._.
+He_PRP leads_VBZ her_PRP$ away_RB ,_, as_IN the_DT edges_NNS of_IN what_WP is_VBZ familiar_JJ in_IN the_DT hospital_NN corridor_NN become_VBN fuzzy_JJ ,_, suffused_VBN with_IN light_NN ..._: SETH_NNP Can_MD I_PRP ask_VB you_PRP something_NN ?_.
+SUSAN_NNP Yes_NNP ._.
+SETH_NNP What_WP did_VBD you_PRP like_IN best_JJS ?_.
+SUSAN_NNP -LRB-_-LRB- thinking_NN -RRB-_-RRB- Pajamas_NNPS ._.
+-------------------------_JJ 1998_CD city_NN of_IN angels_NNS 1998_CD nanay_JJ 1998_CD j_NN ----------------------------------------------------------------_NN i_FW almost_RB passed_VBN up_RP this_DT time_NN to_TO post_VB something_NN for_IN today_NN how_WRB could_MD i_FW ?_.
+it_PRP 's_VBZ a_DT FOOLMOON_NNP night_NN !!!!_NN though_IN sad_JJ still_RB to_TO remember_VB the_DT significance_NN of_IN today_NN 's_POS number_NN ..._: in_IN a_DT little_JJ while_IN i_FW 'm_VBP going_VBG to_TO the_DT launch_NN of_IN joey_NN ayala_NN 's_POS love_NN song_NN album_NN heard_VBD it_PRP 's_VBZ quite_RB a_DT collection_NN -LRB-_-LRB- well_RB i_FW 've_VBP got_VBN my_PRP$ album_NN collection_NN ,_, collecting_VBG dust_NN ..._: love_NN collection_NN ???_CD hmmm_NN --_: next_JJ item_NN please_VB -RRB-_-RRB- in_IN a_DT little_JJ while_NN ,_, i_FW 'll_MD be_VB walking_VBG home_NN alone_RB marveling_VBG at_IN the_DT moon_NN again_RB ''_'' hi_FW MOON_FW ..._: ''_'' i_FW 'd_MD say_VB as_IN i_FW 've_VBP said_VBN before_IN for_IN not_RB less_JJR than_IN 59_CD times_NNS and_CC then_RB would_MD go_VB missing_VBG two_CD people_NNS one_PRP who_WP was_VBD as_IN foolish_JJ as_IN that_DT sphere_NN hanging_VBG so_RB far_RB away_RB one_CD who_WP was_VBD as_IN beautiful_JJ as_IN the_DT light_NN that_WDT travels_VBZ to_TO visit_VB so_RB silently_RB but_CC both_DT so_RB loved_VBN so_RB missed_VBN still_RB foolish_JJ love_NN songs_NNS on_IN a_DT full_JJ moon_NN mine_NN and_CC theirs_JJ for_IN nanay_NN &_CC j_NN from_IN wherever_WRB spot_NN you_PRP both_DT are_VBP hope_NN you_PRP get_VBP to_TO listen_VB to_TO them_PRP and_CC hear_VB my_PRP$ foolishness_NN loving_VBG you_PRP still_RB -------------------_JJ i_FW need_VBP to_TO silence_NN duncan_NN for_IN a_DT while_NN my_PRP$ fingers_NNS been_VBN itching_VBG to_TO update_VB my_PRP$ blog_NN but_CC for_IN some_DT reason_NN now_RB i_FW ca_MD n't_RB seem_VB to_TO rack_VB my_PRP$ brains_NNS enough_RB to_TO come_VB up_RP with_IN something_NN worthy_JJ of_IN the_DT white_JJ page_NN electronic_JJ ink_NN blot_NN ..._: spread_NN this_DT way_NN and_CC that_IN ..._: more_JJR ink_NN blot_NN ..._: ah_NN !_.
+today_NN ,_, i_FW got_VBD to_TO show_VB tintin_IN some_DT poems_NNS i_FW made_VBN on_IN that_DT particularly_RB productive_JJ and_CC creatively_RB schmultzy_JJ -LRB-_-LRB- ?_. -RRB-_-RRB-
+day_NN of_IN August_NNP 16_CD i_FW 'm_VBP still_RB wringing_VBG out_RP from_IN her_PRP$ some_DT true_JJ blue_JJ literary_JJ critique_NN well_RB she_PRP 's_VBZ my_PRP$ friend_NN --_: hello_UH friend_NN :_: -RRB-_-RRB- she_PRP would_MD have_VB to_TO come_VB up_RP with_IN something_NN tough_JJ job_NN you_PRP see_VBP i_FW 've_VBP been_VBN the_DT type_NN of_IN person_NN who_WP way_RB way_RB back_RB in_IN shool_NN gets_VBZ disturbed_VBN when_WRB there_EX are_VBP no_DT other_JJ markings_NNS on_IN my_PRP$ submitted_VBN papers_NNS except_IN one_CD of_IN those_DT general_JJ ratings_NNS i_FW always_RB thought_VBD that_IN meant_VBN ``_`` there_EX was_VBD nothing_NN much_JJ to_TO notice_VB ''_'' red_JJ marks_NNS would_MD have_VB meant_VBN ``_`` evocative_JJ ''_'' whether_IN positive_JJ or_CC negative_JJ well_RB time_NN machine_NN to_TO today_NN at_IN least_JJS for_IN one_CD of_IN those_DT i_FW wrote_VBD this_DT one_CD she_PRP liked_VBD and_CC i_FW liked_VBD too_RB back_RB when_WRB i_FW was_VBD wringing_VBG them_PRP out_IN of_IN my_PRP$ digestive_JJ system_NN ._. ._.
+ON_IN AN_DT ISLAND_NNP ON_NNP A_NNP WEEKEND_NNP 'S_POS MORNING_NN AT_NNP A_NNP FEW_NNP FEET_NNP 'S_POS PACE_NN BEAUTY_NN ,_, ACHE_NNP ,_, REST_NNP NOISE_NNP ,_, UNDERCURRENT_NNP ,_, BRIGHT_NNP LIGHT_NNP THE_DT SEA_NNP 'S_POS BREATH_NNP AND_CC CREAKING_VBG BEDS_NNS I_PRP TAKE_VBP ALL_NNP IN_IN I_PRP TAKE_VBP YOU_PRP IN_IN FROM_NNP A_NNP FEW_NNP FEET_NNP 'S_POS PACE_NN I_PRP TAKE_VBP LIFE_NN IN_IN ..._: 5_LS September_NNP 03_CD \*_SYM FRI_NNP sabi_FW ng_FW bespren_FW ko_FW sa_FW opis_FW ,_, ganda_NN raw_JJ ng_NN personality_NN quiz_NN na_TO to_TO -LRB-_-LRB- though_IN mejo_NN ilag_NN ako_NN sa_NN mga_NN bagay_NN na_TO sinasabing_VBG ``_`` ultimate_JJ ''_'' ,_, parang_NN ``_`` intimate_JJ ''_'' ba_NN ?_. -RRB-_-RRB-
+heniwey_NN ,_, ito_NN ang_NN resulta_NN ..._: kinda_NN me_PRP nga_NN but_CC there_EX 's_VBZ also_RB the_DT masokista_NN type_NN na_TO ilang_NN beses_NNS ng_VBP ginamit_JJ ng_NN aking_NN mga_NN butihing_VBG mga_NN kaibigan_NN :_: -RRB-_-RRB- so_RB tiyagain_JJ natin_NN ..._: Seer_NNP The_NNP ULTIMATE_NNP personality_NN test_NN brought_VBD to_TO you_PRP by_IN Quizilla_NNP 1_CD September_NNP 2003_CD korni_NNS ._.
+pero_NN meri_NN krismas_NNS !_.
+yesterday_NN ,_, i_FW saved_VBN this_DT in_IN my_PRP$ fone_NN ``_`` broke_VBD and_CC broken-hearted_JJ ,_, that_DT 's_VBZ what_WP i_FW am_VBP today_NN ''_'' first_JJ characters_NNS i_FW keyed_VBN in_IN in_IN my_PRP$ pc_NN this_DT morning_NN ``_`` broken_JJ spirit_NN ''_'' this_DT evening_NN ,_, i_FW chat_VB with_IN a_DT good_JJ friend_NN in_IN germany_NN ``_`` now_RB by_IN grace_NN ,_, i_FW come_VBN to_TO the_DT end_NN of_IN the_DT day_NN ,_, still_RB broke_VBD ,_, still_RB broken-hearted_JJ but_CC my_PRP$ spirit_NN smiles_VBZ at_IN the_DT brokeness_NN ''_'' pasko_NN na_TO nga_NN :_: -RRB-_-RRB- border_NN =_SYM ``_`` 1_CD ''_'' color_NN =_SYM ``_`` 000000_CD ''_'' alt_IN =_SYM ``_`` i_FW have_VBP blogger_NN power_NN !_. ''_'' -RRB-_-RRB-
+-------------_JJ POETRY_NN IN_IN A_DT BOTTLE_NN ``_`` A_DT stunning_JJ perfume_NN overwhelming_JJ and_CC irresistible_JJ like_IN the_DT joy_NN of_IN living_VBG Surprising_NNP and_CC colored_VBN :_: the_DT liveliness_NN of_IN Sicilian_NNP citron_VBP the_DT happiness_NN of_IN Granny_NNP smith_NN apple_NN the_DT spontaneity_NN of_IN Bluebells_NNP Feminine_NNP and_CC resolute_VB :_: the_DT intensity_NN of_IN jasmine_NN the_DT freshness_NN of_IN bamboo_NN the_DT charm_NN of_IN white_JJ rose_VBD Deep_NNP and_CC true_JJ :_: the_DT character_NN of_IN cedar_NN wood_NN the_DT fullness_NN of_IN amber_NN the_DT embrace_VB of_IN musk_NN ._. ''_''
+\*_SYM seeps_NNS tru_VBP my_PRP$ skin_NN ,_, my_PRP$ flesh_NN ,_, my_PRP$ marrow_NN ,_, stays_VBZ in_IN the_DT memory_NN ..._: then_RB stings_VBZ the_DT eyes_NNS ----------------_JJ got_VBD this_DT from_IN tin-tin_JJ tried_VBD putting_VBG in_IN one_CD at_IN a_DT time_NN part_NN of_IN my_PRP$ so-called_JJ ``_`` official_JJ ''_'' name_NN the_DT relpies_NNS that_WDT followed_VBD are_VBP really_RB amusing_JJ from_IN just_RB one_CD person_NN 's_POS name_NN here_RB 's_POS part_NN 1_CD What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP Burned_VBN by_IN a_DT pyromaniac_NN ._.
+Past_NNP Life_NNP History_NN teacher_NN ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_.
+..._: then_RB part_NN 2_CD ._.
+my_PRP$ kind_NN of_IN death_NN ._.
+and_CC past_JJ life_NN well_RB i_FW was_VBD rolling_VBG on_IN the_DT floor_NN What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP In_IN sleep_NN ,_, peacefully_RB ._.
+LUCKY_NN !_.
+Past_NNP Life_NNP Maths_NNP teacher_NN ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_.
+..._: then_RB combo_VBP What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP In_IN sleep_NN ,_, peacefully_RB ._.
+LUCKY_NN !_.
+Past_NNP Life_NNP Amazon_NNP ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_.
+..._: then_RB the_DT first_JJ of_IN the_DT real_JJ names_NNS ._.
+tin_NN ,_, will_MD it_PRP be_VB you_PRP ?_.
+:_: -RRB-_-RRB- What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP Murdered_NNP by_IN a_DT good_JJ friend_NN ._.
+Past_NNP Life_NNP Wolf_NNP ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_. ._. ._.
+and_CC another_DT ._.
+past_JJ life_NN gives_VBZ me_PRP credit_NN this_DT time_NN What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP Burned_VBN by_IN a_DT pyromaniac_NN ._.
+Past_NNP Life_NNP Human_NNP ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_.
+..._: and_CC all_DT together_RB now_RB ,_, let_VB 's_POS see_VB What_WP is_VBZ your_PRP$ past_JJ life_NN ?_.
+How_WRB did_VBD you_PRP die_VB ?_.
+by_IN whisperinghope_NN Name_NN Age_NNP Way_NNP Murdered_NNP by_IN a_DT good_JJ friend_NN ._.
+Past_NNP Life_NNP Human_NNP in_IN Roman_NNP times_NNS ._.
+Created_VBN with_IN quill18_NN 's_POS MemeGen_NNP !_.
+fini_NN !_.
+------------------------_JJ another_DT foolmoon_NN on_IN a_DT 10-10_CD of_IN 2003_CD feel_VB better_JJR not_RB necessarily_RB 10-10_CD but_CC learning_VBG or_CC so_RB fly_VB me_PRP to_TO the_DT moon_NN ..._: again_RB for_IN beauuuuuutifuuuulllllll_NN tintin_NN ----------------_NN my_PRP$ apologies_NNS ,_, I_PRP was_VBD not_RB able_JJ to_TO get_VB the_DT source_NN of_IN this_DT beautiful_JJ image_NN ._.
+might_MD be_VB funny_JJ greetings_NNS or_CC another_DT e-card_JJ site_NN ._.
+anyway_RB thank_VB you_PRP thank_VB you_PRP for_IN sharing_VBG hello_UH tintin_NN 4_CD u_NN ---------------_NN hey_NN ,_, it_PRP 's_VBZ a_DT new_JJ year_NN 's_POS entry_NN but_CC i_FW guess_NN flashbacks_NNS are_VBP what_WP i_FW 'm_VBP most_RBS up_RB to_TO these_DT days_NNS i_FW do_VBP n't_RB know_VB might_MD be_VB my_PRP$ sick_JJ ,_, fatalistic_JJ ,_, tragic-oriented_JJ mind_NN that_WDT 's_VBZ causing_VBG me_PRP some_DT paranoia_NN about_IN 2004_CD that_WDT from_IN last_JJ year_NN that_WDT 's_VBZ a_DT good_JJ one_CD to_TO ..._: well_RB let_VB me_PRP not_RB mention_VB it_PRP lest_IN the_DT power_NN of_IN words_NNS year_NN 2003_CD is_VBZ something_NN to_TO be_VB remembered_VBN with_IN fondness_NN and_CC then_RB there_EX is_VBZ 1998_CD it_PRP was_VBD a_DT year_NN in_IN black_JJ but_CC something_NN i_FW will_MD not_RB want_VB erased_VBN either_RB because_IN of_IN sentiments_NNS such_JJ as_IN these_DT from_IN an_DT October_NNP 18_CD journal_NN entry_NN back_RB to_TO Saturday_NNP of_IN October_NNP 18_CD ..._: I_PRP am_VBP going_VBG back_RB to_TO writing_VBG --_: if_IN only_RB for_IN my_PRP$ sanity_NN ._.
+No_DT matter_NN how_WRB bad_JJ it_PRP may_MD turn_VB out_RP ,_, still_RB I_PRP will_MD write_VB ._.
+I_PRP will_MD write_VB with_IN all_DT that_IN I_PRP can_MD share_VB ._.
+Write_VB with_IN pictures_NNS if_IN I_PRP ca_MD n't_RB do_VB it_PRP with_IN words_NNS ._.
+The_DT important_JJ thing_NN is_VBZ to_TO never_RB stop_VB to_TO get_VB in_IN touch_NN with_IN a_DT medium_NN without_IN so_RB as_IN to_TO reach_VB that_IN which_WDT is_VBZ so_RB hidden_VBN within_IN ._.
+I_PRP am_VBP writing_VBG that_IN I_PRP may_MD be_VB helped_VBN to_TO remember_VB ,_, that_IN forgetting_VBG would_MD not_RB be_VB as_RB often_RB ._.
+That_DT my_PRP$ memory_NN would_MD serve_VB me_PRP right_RB would_MD be_VB something_NN definite_JJ and_CC not_RB with_IN a_DT question_NN mark_NN ._.
+I_PRP am_VBP writing_VBG and_CC will_MD write_VB again_RB with_IN light_NN ._.
+Go_VB back_RB to_TO film_NN ,_, to_TO animate_VB and_CC be_VB alive_JJ again_RB no_DT matter_NN how_WRB much_JJ death_NN there_EX is_VBZ in_IN life_NN ._.
+I_PRP just_RB gotta_VBP write_VB ._.
+Write_VB til_NN its_PRP$ all_DT right_NN ._.
+IT_PRP WAS_VBD A_DT GOOD_NNP NUMBER_NNP Original_NNP Manuscript_NNP started_VBD 24_CD July_NNP 2004_CD Cagayan_NNP de_IN Oro_NNP City_NNP I_PRP am_VBP letting_VBG go_NN of_IN 33_CD in_IN a_DT few_JJ hours_NNS ._.
+And_CC here_RB I_PRP am_VBP spending_VBG the_DT morning_NN writing_VBG on_IN my_PRP$ txt_NN journal_NN ,_, feet_NNS and_CC legs_NNS in_IN the_DT air_NN ,_, tummy_NN on_IN the_DT bed_NN ,_, mind_NN on_IN the_DT memories_NNS of_IN years_NNS past_JJ and_CC burnt_JJ heart_NN set_VBN on_IN being_VBG gratefully_RB happy_JJ ._.
+If_IN I_PRP could_MD only_RB press_VB my_PRP$ oxygen-starved_JJ brain_NN onto_IN these_DT pages_NNS and_CC let_VB all_DT its_PRP$ taho-like_JJ content_NN seep_NN into_IN them_PRP ._. ._.
+It_PRP is_VBZ good_JJ to_TO be_VB alone_RB ._.
+No_DT one_NN but_CC myself_PRP present_RB to_TO myself_PRP ._.
+It_PRP is_VBZ good_JJ to_TO laze_VB around_RP in_IN my_PRP$ sleepwear_NN and_CC not_RB be_VB harassed_VBN by_IN the_DT thought_NN of_IN my_PRP$ hotel_NN 's_POS check_NN out_IN time_NN nor_CC by_IN my_PRP$ plane_NN 's_POS etd_NN ._.
+I_PRP lie_VBP on_IN my_PRP$ back_NN from_IN time_NN to_TO time_NN and_CC look_VB up_RP ,_, out_IN my_PRP$ window_NN and_CC see_VB clouds_NNS that_WDT look_VBP back_RB at_IN me_PRP ._.
+Christ_NNP died_VBD at_IN 33_CD ._.
+September_NNP of_IN 2003_CD ,_, I_PRP had_VBD nothing_NN but_CC thoughts_NNS of_IN death_NN and_CC dying_VBG ._.
+And_CC in_IN between_IN Christ_NNP and_CC dying_VBG ,_, it_PRP 's_VBZ amazing_JJ how_WRB obsessed_VBN one_CD can_MD be_VB about_RB so_RB many_JJ things_NNS ._.
+In_IN my_PRP$ younger_JJR years_NNS ,_, I_PRP wanted_VBD to_TO be_VB a_DT missionary_JJ ._.
+A_DT few_JJ years_NNS later_RB ,_, I_PRP want_VBP to_TO be_VB the_DT blackest_JJS black_JJ sheep_NN in_IN town_NN ._.
+Those_DT were_VBD the_DT few_JJ years_NNS when_WRB all_DT I_PRP had_VBD were_VBD deaths_NNS ._.
+I_PRP recently_RB rediscovered_VBD C.S._NNP Lewis_NNP '_POS A_DT Grief_NN Observed_VBN ._.
+Once_RB again_RB I_PRP felt_VBD connected_VBN ._.
+My_PRP$ life_NN is_VBZ never_RB without_IN a_DT link_NN to_TO someone_NN else_RB 's_POS ._.
+I_PRP am_VBP never_RB truly_RB alone_RB though_IN I_PRP am_VBP always_RB gifted_JJ with_IN some_DT time_NN for_IN solitude_NN ._.
+And_CC though_IN I_PRP feel_VBP like_IN being_VBG dead_JJ to_TO the_DT world_NN and_CC the_DT world_NN to_TO me_PRP ,_, it_PRP is_VBZ never_RB truly_RB as_IN I_PRP feel_VBP ._.
+So_RB long_RB as_IN some_DT individual_NN is_VBZ happy_JJ as_IN he_PRP or_CC she_PRP lies_VBZ on_IN her_PRP$ bed_NN thinking_VBG the_DT best_JJS of_IN days_NNS or_CC someone_NN is_VBZ out_IN there_RB rushing_VBG on_IN the_DT street_NN eager_JJ to_TO be_VB someplace_JJ else_RB ,_, so_RB long_RB as_IN these_DT things_NNS happen_VB ,_, life_NN happens_VBZ ._.
+And_CC even_RB when_WRB death_NN comes_VBZ to_TO pay_VB a_DT visit_NN ,_, it_PRP is_VBZ so_RB that_IN life_NN may_MD be_VB welcomed_VBN in_IN another_DT 's_POS ._.
+Life_NNP and_CC death_NN ._.
+At_IN times_NNS it_PRP is_VBZ good_JJ to_TO see_VB them_PRP both_DT as_IN companion_NN ._.
+Not_RB one_CD any_DT less_JJR than_IN the_DT other_JJ ._.
+HERE_RB IS_VBZ MY_NNP LIFE-DEATH-LIFE_NNP LIST_NNP FOR_IN 33RD_NNP YEAR_NNP :_: First_NNP niece_JJ turned_VBD 1_CD in_IN July_NNP ,_, a_DT year_NN earlier_RBR tried_VBD to_TO she_PRP really_RB made_VBD it_PRP a_DT point_NN to_TO rush_VB out_RP and_CC make_VB it_PRP still_RB in_IN time_NN for_IN my_PRP$ birth_NN month_NN Another_DT niece_NN came_VBD in_IN October_NNP ,_, my_PRP$ Tatay_NNP and_CC Nanay_NNP 's_POS birthmonth_NN August_NNP ,_, 5_CD years_NNS of_IN Nanay_NNP being_VBG physically_RB away_RB from_IN us_PRP Went_VBD back_RB to_TO school_NN in_IN November_NNP ,_, less_JJR than_IN 30_CD days_NNS of_IN learning_VBG about_IN development_NN work_NN and_CC developing_VBG relationships_NNS Fell_NNP in_IN love_NN for_IN the_DT 2nd_JJ time_NN ,_, almost_RB fell_VBD for_IN the_DT 3rd_CD 3_CD days_NNS before_IN birthday_NN ,_, gained_VBD 3_CD new_JJ friends_NNS Another_DT death_NN among_IN friends_NNS just_RB after_IN New_NNP Year_NNP Revelations_NNPS about_IN 3_CD friends_NNS whom_WP I_PRP will_MD never_RB look_VB at_IN the_DT same_JJ way_NN again_RB but_CC love_VBP nonetheless_RB Countless_JJ friends_NNS who_WP have_VBP stuck_VBN throught_NN he_PRP years_NNS and_CC new_JJ ones_NNS whom_WP I_PRP feel_VBP will_MD stick_VB One_CD CV_NNP passed_VBD to_TO about_IN 3_CD possible_JJ employers_NNS 138_CD photos_NNS ,_, 31_CD trackbacks_NNS ,_, 1_CD lifeline_NN moblog_NN community_NN

@@ -1,0 +1,17 @@
+Peter_NNP Bayley_NNP -LRB-_-LRB- 1778_CD ?_.
+``_`` 1823_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN and_CC poet_NN ._.
+Bayley_NNP was_VBD the_DT son_NN of_IN Peter_NNP Bayley_NNP ,_, a_DT solicitor_NN at_IN Nantwich_NNP ._.
+In_IN 1790_CD he_PRP entered_VBD Rugby_NNP School_NNP ,_, and_CC in_IN February_NNP 1796_CD ,_, at_IN the_DT age_NN of_IN seventeen_NN ,_, Merton_NNP College_NNP ,_, Oxford_NNP ._.
+He_PRP did_VBD not_RB take_VB a_DT degree_NN ._.
+He_PRP was_VBD called_VBN to_TO the_DT bar_NN at_IN the_DT Temple_NNP ,_, but_CC made_VBD no_DT serious_JJ effort_NN to_TO pursue_VB his_PRP$ profession_NN ._.
+His_PRP$ interest_NN in_IN music_NN and_CC the_DT drama_NN rendered_VBD him_PRP neglectful_JJ of_IN the_DT dictates_VBZ of_IN prudence_NN ._.
+<sup>_NNP ~_NNP </sup>_NNP Instead_RB of_IN following_VBG the_DT law_NN ,_, <sup>_VB TM_NNP </sup>_NNP he_PRP ,_, as_IN it_PRP was_VBD said_VBN ,_, <sup>_VB ~_CD </sup>_NN allowed_VBD the_DT law_NN to_TO follow_VB him_PRP ,_, <sup>_VB TM_NNP </sup>_VB until_IN he_PRP found_VBD himself_PRP in_IN prison_NN for_IN debt_NN ._.
+Subsequently_RB ,_, he_PRP turned_VBD his_PRP$ attention_NN to_TO literature_NN ,_, and_CC became_VBD editor_NN of_IN the_DT Museum_NNP ,_, a_DT weekly_JJ periodical_JJ ._.
+He_PRP died_VBD suddenly_RB on_IN his_PRP$ way_NN to_TO the_DT opera_NN ,_, on_IN 25_CD January_NNP 1823_CD ._.
+Bayley_NNP published_VBD a_DT volume_NN of_IN poems_NNS in_IN 1803_CD ,_, and_CC ,_, besides_IN contributing_VBG occasional_JJ verses_NNS to_TO periodicals_NNS ,_, printed_VBN for_IN private_JJ circulation_NN ,_, at_IN an_DT early_JJ period_NN ,_, several_JJ specimens_NNS of_IN an_DT epic_NN poem_NN founded_VBN on_IN the_DT conquest_NN of_IN Wales_NNP ,_, which_WDT appeared_VBD posthumously_RB in_IN 1824_CD under_IN the_DT title_NN of_IN <sup>_NNP ~_NNP </sup>_NNP Idwal_NNP ._.
+<sup>_VB TM_NNP </sup>_VB In_IN 1820_CD ,_, under_IN the_DT pseudonym_NN of_IN Giorgione_NNP di_NNP Castel_NNP Chiuso_NNP ,_, he_PRP published_VBD a_DT volume_NN of_IN verse_JJ ,_, entitled_VBN <sup>_NNP ~_NNP </sup>_NNP Sketches_NNPS from_IN St_NNP George_NNP 's_POS -_: in-the-Fields_JJ ,_, <sup>_JJ TM_NNP </sup>_NNP containing_VBG clever_JJ and_CC graphic_JJ descriptions_NNS of_IN various_JJ phases_NNS of_IN London_NNP life_NN and_CC therefore_RB possessing_VBG now_RB considerable_JJ antiquarian_JJ and_CC social_JJ interest_NN ._.
+A_DT second_JJ series_NN appeared_VBD in_IN 1821_CD ._.
+A_DT posthumous_JJ volume_NN of_IN <sup>_NNP ~_NNP </sup>_NNP Poetry_NNP <sup>_NNP TM_NNP </sup>_NNP by_IN Bayley_NNP was_VBD published_VBN in_IN 1824_CD ,_, and_CC on_IN 20_CD April_NNP 1825_CD a_DT tragedy_NN ,_, <sup>_VB ~_CD </sup>_NNP Orestes_NNP ,_, <sup>_NNP TM_NNP </sup>_NNP left_VBD by_IN him_PRP in_IN manuscript_NN ,_, was_VBD brought_VBN out_RP at_IN Covent_NNP Garden_NNP with_IN Charles_NNP Kemble_NNP in_IN the_DT principal_JJ part_NN ,_, one_CD of_IN the_DT most_RBS successful_JJ of_IN Kemble_NNP 's_POS impersonations_NNS ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Bayley_NNP ,_, Peter_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

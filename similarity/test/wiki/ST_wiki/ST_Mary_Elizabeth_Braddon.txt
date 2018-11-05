@@ -1,0 +1,38 @@
+Mary_NNP Elizabeth_NNP Braddon_NNP -LRB-_-LRB- 4_CD October_NNP 1835_CD ''_'' 4_CD February_NNP 1915_CD -RRB-_-RRB- was_VBD an_DT English_JJ popular_JJ novelist_NN of_IN the_DT Victorian_JJ era_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP is_VBZ best_RB known_VBN for_IN her_PRP$ 1862_CD sensation_NN novel_NN Lady_NNP Audley_NNP 's_POS Secret_JJ ,_, which_WDT has_VBZ also_RB been_VBN dramatised_VBN and_CC filmed_VBN several_JJ times_NNS ._.
+Born_VBN in_IN London_NNP ,_, Mary_NNP Elizabeth_NNP Braddon_NNP was_VBD privately_RB educated_VBN ._.
+Her_PRP$ mother_NN Fanny_NNP separated_VBD from_IN her_PRP$ father_NN Henry_NNP in_IN 1840_CD ,_, when_WRB Mary_NNP was_VBD five_CD ._.
+When_WRB Mary_NNP was_VBD ten_CD years_NNS old_JJ ,_, her_PRP$ brother_NN Edward_NNP Braddon_NNP left_VBD for_IN India_NNP and_CC later_RB Australia_NNP ,_, where_WRB he_PRP became_VBD Premier_NNP of_IN Tasmania_NNP ._.
+Mary_NNP worked_VBD as_IN an_DT actress_NN for_IN three_CD years_NNS when_WRB she_PRP was_VBD befriended_VBN by_IN Clara_NNP and_CC Adelaide_NNP Biddle_NNP ._.
+They_PRP were_VBD only_RB playing_VBG minor_JJ roles_NNS but_CC Braddon_NNP was_VBD able_JJ to_TO support_VB herself_PRP and_CC her_PRP$ mother_NN ._.
+Adelaide_NNP noted_VBD that_IN Braddon_NNP 's_POS interest_NN in_IN acting_VBG waned_VBD as_IN she_PRP took_VBD an_DT interest_NN in_IN writing_VBG novels_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1860_CD ,_, Mary_NNP met_VBD John_NNP Maxwell_NNP -LRB-_-LRB- 1824_CD ``_`` 1895_CD -RRB-_-RRB- ,_, a_DT publisher_NN of_IN periodicals_NNS ._.
+She_PRP started_VBD living_VBG with_IN him_PRP in_IN 1861_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- However_RB ,_, Maxwell_NNP was_VBD already_RB married_VBN with_IN five_CD children_NNS ,_, and_CC his_PRP$ wife_NN was_VBD living_VBG in_IN an_DT asylum_NN in_IN Ireland_NNP ._.
+Mary_NNP acted_VBD as_IN stepmother_NN to_TO his_PRP$ children_NNS until_IN 1874_CD ,_, when_WRB Maxwell_NNP 's_POS wife_NN died_VBD and_CC they_PRP were_VBD able_JJ to_TO get_VB married_VBN ._.
+She_PRP had_VBD six_CD children_NNS by_IN him_PRP ._.
+The_DT eldest_NN daughter_NN was_VBD Fanny_NNP Margaret_NNP Maxwell_NNP -LRB-_-LRB- 1863-1955_CD -RRB-_-RRB- ._.
+Fanny_NN married_VBN to_TO the_DT naturalist_NN Edmund_NNP Selous_NNP on_IN 13_CD January_NNP 1886_CD ._.
+In_IN the_DT 1920s_NN they_PRP lived_VBD in_IN Wyke_NNP Castle_NNP ._.
+In_IN 1923_CD Fanny_NNP founded_VBD the_DT local_JJ branch_NN of_IN the_DT Woman_NNP 's_POS Institute_NNP ._.
+She_PRP became_VBD the_DT first_JJ president_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT second_JJ eldest_NN son_NN was_VBD the_DT novelist_NN William_NNP Babington_NNP Maxwell_NNP -LRB-_-LRB- 1866-1939_CD -RRB-_-RRB- ._.
+Mary_NNP Elizabeth_NNP Brandon_NNP died_VBD on_IN 4_CD February_NNP 1915_CD in_IN Richmond_NNP -LRB-_-LRB- at_IN the_DT time_NN a_DT borough_NN in_IN Surrey_NNP ,_, but_CC now_RB part_NN of_IN Greater_NNP London_NNP -RRB-_-RRB- ,_, and_CC is_VBZ interred_VBN in_IN Richmond_NNP Cemetery_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Her_PRP$ home_NN had_VBD been_VBN Lichfield_NNP House_NNP in_IN the_DT center_NN of_IN the_DT town_NN ,_, which_WDT was_VBD replaced_VBN by_IN a_DT block_NN of_IN flats_NNS in_IN 1936_CD ,_, Lichfield_NNP Court_NNP ,_, now_RB listed_VBN ._.
+She_PRP has_VBZ a_DT plaque_NN in_IN Richmond_NNP parish_VBP church_NN which_WDT calls_VBZ her_PRP$ simply_RB `_`` Miss_NNP Braddon_NNP '_POS ._.
+A_DT number_NN of_IN streets_NNS in_IN the_DT area_NN are_VBP named_VBN after_IN characters_NNS in_IN her_PRP$ novels_NNS ''_'' her_PRP$ husband_NN was_VBD a_DT property_NN developer_NN in_IN the_DT area_NN ._.
+Braddon_NNP was_VBD a_DT prolific_JJ writer_NN ,_, producing_VBG more_JJR than_IN 80_CD novels_NNS with_IN inventive_JJ plots_NNS ._.
+The_DT most_RBS famous_JJ is_VBZ Lady_NNP Audley_NNP 's_POS Secret_JJ -LRB-_-LRB- 1862_CD -RRB-_-RRB- ,_, which_WDT won_VBD her_PRP recognition_NN ,_, and_CC a_DT fortune_NN as_IN a_DT bestseller_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- It_PRP has_VBZ remained_VBN in_IN print_NN since_IN its_PRP$ publication_NN and_CC been_VBN dramatised_VBN and_CC filmed_VBN several_JJ times_NNS ._.
+R._NNP D._NNP Blackmore_NNP 's_POS anonymous_JJ sensation_NN novel_NN Clara_NNP Vaughan_NNP -LRB-_-LRB- 1864_CD -RRB-_-RRB- was_VBD wrongly_RB attributed_VBN to_TO her_PRP$ by_IN some_DT critics_NNS ._.
+Braddon_NNP wrote_VBD several_JJ works_NNS of_IN supernatural_JJ fiction_NN ,_, including_VBG the_DT pact_NN with_IN the_DT devil_NN story_NN Gerald_NNP ,_, or_CC the_DT World_NNP ,_, the_DT Flesh_NN and_CC the_DT Devil_NNP -LRB-_-LRB- 1891_CD -RRB-_-RRB- ,_, and_CC the_DT ghost_NN stories_NNS ``_`` The_DT Cold_NNP Embrace_NNP ''_'' ,_, ``_`` Eveline_NNP 's_POS Visitant_NNP ''_'' and_CC ``_`` At_IN Chrighton_NNP Abbey_NNP ''_'' ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- From_IN the_DT 1930s_CD onwards_NNS ,_, these_DT stories_NNS were_VBD often_RB anthologised_VBN in_IN collections_NNS such_JJ as_IN Montague_NNP Summers_NNPS 's_POS The_DT Supernatural_NNP Omnibus_NNP -LRB-_-LRB- 1931_CD -RRB-_-RRB- and_CC Fifty_NNP Years_NNS of_IN Ghost_NN Stories_NNP -LRB-_-LRB- 1935_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- Braddon_NNP 's_POS legacy_NN is_VBZ tied_VBN to_TO the_DT sensation_NN fiction_NN of_IN the_DT 1860s_NNS ._.
+Braddon_NNP also_RB founded_VBD Belgravia_NNP magazine_NN -LRB-_-LRB- 1866_CD -RRB-_-RRB- ,_, which_WDT presented_VBD readers_NNS with_IN serialised_JJ sensation_NN novels_NNS ,_, poems_NNS ,_, travel_NN narratives_NNS and_CC biographies_NNS ,_, as_RB well_RB as_IN essays_NNS on_IN fashion_NN ,_, history_NN and_CC science_NN ._.
+The_DT magazine_NN was_VBD accompanied_VBN by_IN lavish_JJ illustrations_NNS and_CC offered_VBD readers_NNS a_DT source_NN of_IN literature_NN at_IN an_DT affordable_JJ cost_NN ._.
+She_PRP also_RB edited_VBD Temple_NNP Bar_NNP magazine_NN ._.
+There_EX is_VBZ a_DT critical_JJ essay_NN on_IN Braddon_NNP 's_POS work_NN in_IN Michael_NNP Sadleir_NNP 's_POS book_NN Things_NNS Past_NNP -LRB-_-LRB- 1944_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 2014_CD the_DT Mary_NNP Elizabeth_NNP Braddon_NNP Association_NNP was_VBD founded_VBN to_TO pay_VB tribute_NN to_TO Braddon_NNP 's_POS life_NN and_CC work_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Some_DT of_IN the_DT bibliographical_JJ material_NN in_IN this_DT incomplete_JJ list_NN has_VBZ been_VBN taken_VBN from_IN the_DT Jarndyce_NNP booksellers_NNS '_POS catalogue_NN Women_NNP 's_POS Writers_NNPS 1795_CD ``_`` 1927_CD ._.
+Part_NN I_NN :_: A_DT ``_`` F_NN -LRB-_-LRB- Summer_NNP 2017_CD -RRB-_-RRB- ._.
+Several_JJ of_IN Braddon_NNP 's_POS works_NNS have_VBP been_VBN dramatised_VBN ,_, including_VBG :_: Works_NNP written_VBN by_IN or_CC about_IN Mary_NNP Elizabeth_NNP Braddon_NNP at_IN Wikisource_NNP

@@ -1,0 +1,112 @@
+Chinese_JJ
+scientists_NN
+have_VPRT [PEAS]
+developed_VBN
+a_DT
+new_JJ
+nanogenerator_NN
+that_TSUB
+can_POMD
+harvest_VB
+energy_NN
+from_PIN
+human_JJ
+motions_NOMZ
+to_TO
+continuously_RB
+power_NN
+wearable_JJ
+electronic_JJ
+devices_NN
+,_,
+state-run_JJ
+media_NN
+reported_VBD [PUBV]
+._.
+Scientists_NN
+at_PIN
+Zhengzhou_NN
+University_NOMZ
+have_VPRT [PEAS]
+developed_VBN
+a_DT
+washable_JJ
+and_PHC
+wearable_JJ
+nanogenerator_NN
+based_VBN [WZPAST]
+on_PIN
+hydrophobic_JJ
+nanofiber_NN
+._.
+It_PIT
+has_VPRT
+a_DT
+woven_VBN
+structure_NN
+and_CC
+can_POMD
+be_VB [PASS]
+attached_VBN
+to_PIN
+clothes_NN
+to_TO
+convert_VB
+the_DT
+mechanical_JJ
+energy_NN
+generated_VBN [WZPAST]
+by_PIN
+human_JJ
+activities_NOMZ
+into_PIN
+electrical_JJ
+energy_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+state-run_JJ
+China_NN
+Science_NN
+Daily_NN
+._.
+This_DEMO
+washable_JJ
+nanogenerator_NN
+with_PIN
+its_PIT
+woven_VBN
+structure_NN
+has_VPRT [PEAS]
+provided_VBN
+new_JJ
+opportunities_NOMZ
+for_PIN
+the_DT
+development_NOMZ
+of_PIN
+self-powered_JJ
+wearable_JJ
+electronics_NN
+,_,
+state-owned_JJ
+Xinhua_NN
+news_NN
+agency_NN
+said_VBD [PUBV]
+,_,
+citing_VBG [PRESP]
+the_DT
+report_NN
+._.
+The_DT
+research_NN
+was_VBD [PASS]
+published_VBN
+in_PIN
+the_DT
+Journal_NN
+of_PIN
+Materials_NN
+Chemistry_NN
+A._NN

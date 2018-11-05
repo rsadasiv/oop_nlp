@@ -1,0 +1,8 @@
+Samuel_NNP Bishop_NNP -LRB-_-LRB- 21_CD September_NNP 1731_CD ''_'' 17_CD November_NNP 1795_CD -RRB-_-RRB- was_VBD a_DT poet_NN born_VBN in_IN London_NNP ,_, and_CC educated_VBN at_IN Merchant_NN Taylors_NNS '_POS School_NNP and_CC Oxford_NNP University_NNP ._.
+He_PRP then_RB took_VBD orders_NNS and_CC served_VBD as_IN Headmaster_NNP of_IN Merchant_NN Taylor_NNP 's_POS School_NNP -LRB-_-LRB- 1783-1795_CD -RRB-_-RRB- ._.
+His_PRP$ poems_NNS on_IN miscellaneous_JJ subjects_NNS fill_VBP two_CD quarto_JJ volumes_NNS and_CC the_DT best_JJS of_IN them_PRP are_VBP those_DT to_TO his_PRP$ wife_NN and_CC daughter_NN ._.
+He_PRP also_RB published_VBD essays_NNS ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cousin_NN ,_, John_NNP William_NNP -LRB-_-LRB- 1910_CD -RRB-_-RRB- ._.
+A_DT Short_JJ Biographical_NNP Dictionary_NNP of_IN English_NNP Literature_NNP ._.
+London_NNP :_: J._NNP M._NNP Dent_NNP &_CC Sons_NNP ._.
+Wikisource_NNP

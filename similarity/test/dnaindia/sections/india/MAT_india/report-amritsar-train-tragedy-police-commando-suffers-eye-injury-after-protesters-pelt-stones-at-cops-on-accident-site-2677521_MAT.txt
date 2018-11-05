@@ -1,0 +1,368 @@
+Protesters_NN
+clashed_VBD
+with_PIN
+security_NOMZ
+personnel_NN
+and_CC
+pelted_VBD
+them_TPP3
+with_PIN
+stones_NN
+at_PIN
+the_DT
+Amritsar_NN
+train_NN
+accident_NN
+site_NN
+after_IN
+they_TPP3
+were_VBD [PASS]
+removed_VBN
+from_PIN
+the_DT
+railway_NN
+tracks_NN
+,_,
+police_NN
+officials_NN
+said_VBD [PUBV]
+._.
+A_DT
+Punjab_NN
+Police_NN
+commando_NN
+and_CC
+a_DT
+photojournalist_NN
+were_VBD [PASS]
+injured_VBN
+as_IN
+the_DT
+protestors_NN
+,_,
+who_WP
+were_VBD
+staging_VBG
+a_DT
+sit-in_PIN
+at_PIN
+the_DT
+site_NN
+,_,
+started_VBD
+pelting_VBG
+stones_NN
+and_CC
+indulged_VBN
+in_PIN
+brick-batting_GER
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+situation_NOMZ
+is_VPRT [BEMA]
+tense_PRED
+at_PIN
+and_CC
+around_PLACE
+the_DT
+site_NN
+and_CC
+a_DT
+huge_JJ
+police_NN
+deployment_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+to_TO
+maintain_VB [PUBV]
+law_NN
+and_PHC
+order_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+Officials_NN
+said_VBD [PUBV]
+that_THVC
+personnel_NN
+from_PIN
+the_DT
+Punjab_NN
+Police_NN
+and_PHC
+Rapid_NN
+Action_NOMZ
+Force_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+deployed_VBN
+alongside_PLACE
+the_DT
+state_NN
+police_NN
+commandos_NN
+._.
+The_DT
+clash_NN
+started_VBD
+minutes_NN
+after_IN
+the_DT
+security_NOMZ
+forces_NN
+removed_VBD
+the_DT
+protestors_NN
+,_,
+numbering_VBG [PRESP]
+in_PIN
+hundreds_NN
+,_,
+from_PIN
+the_DT
+track_NN
+to_TO
+clear_VB
+it_PIT
+for_PIN
+traffic_NN
+,_,
+the_DT
+officials_NN
+said_VBD [PUBV]
+._.
+Local_JJ
+residents_NN
+have_VPRT [PEAS]
+been_VBN
+protesting_VBG [PUBV]
+at_PIN
+the_DT
+site_NN
+and_CC
+blocking_VBG
+the_DT
+railway_NN
+track_NN
+since_OSUB
+Friday_NN
+evening_GER
+when_RB
+59_CD
+Dussehra_NN
+revellers_NN
+were_VBD [PASS]
+mowed_VBN
+down_RP
+by_PIN
+a_DT
+speeding_GER
+train_NN
+._.
+Police_NN
+are_VPRT [SPAU]
+also_RB
+making_VBG
+announcement_NOMZ
+on_PIN
+loudspeakers_NN
+asking_VBG [SUAV] [WZPRES]
+people_NN
+to_TO
+remain_VB
+inside_PLACE
+their_TPP3
+houses_NN
+._.
+On_PIN
+Saturday_NN
+,_,
+after_IN
+visiting_VBG
+the_DT
+accident_NN
+site_NN
+and_CC
+the_DT
+hospitals_NN
+where_RB
+the_DT
+injured_VBN
+were_VBD [PASS]
+admitted_VBN [PUBV]
+,_,
+Chief_NN
+Minister_NN
+Amarinder_NN
+Singh_NN
+had_VBD [PEAS]
+said_VBN [PUBV] [THATD]
+59_CD
+people_NN
+were_VBD [PASS]
+killed_VBN
+and_CC
+57_CD
+injured_JJ
+._.
+Sub-divisional_JJ
+magistrate_NN
+Rajesh_NN
+Sharma_NN
+,_,
+however_CONJ
+,_,
+said_VBD [PUBV] [THATD]
+61_CD
+people_NN
+lost_VBD
+their_TPP3
+lives_NN
+._.
+At_PIN
+the_DT
+Sunday_NN
+protest_NN
+,_,
+another_DT
+local_JJ
+,_,
+named_VBN
+Raju_NN
+,_,
+said_VBD [PUBV] [THATD]
+a_DT
+man_NN
+was_VBD [SPAU]
+still_RB
+looking_VBG
+for_PIN
+the_DT
+body_NN
+of_PIN
+his_TPP3
+father_NN
+who_WP [WHSUB]
+died_VBD
+in_PIN
+the_DT
+incident_NN
+._.
+``_``
+He_TPP3
+had_VBD [PEAS]
+gone_VBN
+to_TO
+collect_VB
+a_DT
+piece_NN
+of_PIN
+cloth_NN
+to_TO
+cover_VB
+the_DT
+body_NN
+of_PIN
+his_TPP3
+father_NN
+,_,
+but_CC
+when_RB
+he_TPP3
+returned_VBD
+he_TPP3
+could_POMD
+not_XX0
+find_VB [PRIV]
+the_DT
+body_NN
+,_,
+''_''
+said_VBD [PUBV]
+Raju_NN
+._.
+Another_DT
+local_JJ
+,_,
+Ram_NN
+Kumar_NN
+,_,
+claimed_VBD [PUBV]
+that_THVC
+four_CD
+members_NN
+of_PIN
+Kajal_NN
+'s_POS
+family_NN
+,_,
+who_WP
+are_VPRT
+vegetable-sellers_NN
+,_,
+are_VPRT
+missing_VBG
+._.
+Anju_NN
+,_,
+whose_WPS
+brothers_NN
+Vikas_NN
+and_PHC
+Ninderpal_NN
+were_VBD [PASS]
+killed_VBN
+in_PIN
+the_DT
+incident_NN
+,_,
+accused_VBD
+leaders_NN
+of_PIN
+indulging_VBG
+in_PIN
+politics_NN
+over_IN
+this_DEMO
+incident_NN
+._.
+``_``
+When_RB
+everybody_QUPR
+knows_VPRT [PRIV]
+that_THVC
+Dussehra_NN
+function_NOMZ
+had_VBD [PEAS]
+been_VBN [PASS]
+organised_VBN
+here_RB
+for_PIN
+the_DT
+past_JJ
+several_QUAN
+years_NN
+,_,
+appropriate_JJ
+steps_NN
+should_NEMD
+have_VB [PEAS]
+been_VBN [PASS]
+taken_VBN
+beforehand_RB
+to_TO
+prevent_VB
+such_JJ
+kind_NN
+of_PIN
+tragedy_NN
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.

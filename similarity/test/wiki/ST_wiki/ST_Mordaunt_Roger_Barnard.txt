@@ -1,0 +1,9 @@
+Mordaunt_NNP Roger_NNP Barnard_NNP ,_, Rev._NNP -LRB-_-LRB- 22_CD December_NNP 1828_CD ''_'' 2_CD July_NNP 1906_CD -RRB-_-RRB- was_VBD a_DT Church_NN of_IN England_NNP clergyman_NN and_CC translator_NN of_IN works_NNS from_IN Scandinavian_JJ languages_NNS ._.
+He_PRP was_VBD the_DT eldest_JJS son_NN of_IN Mordaunt_NNP Barnard_NNP ,_, Rector_NNP of_IN Preston_NNP Bagot_NNP ,_, a_DT rural_JJ dean_NN and_CC JP_NNP for_IN Essex_NNP ._.
+He_PRP was_VBD born_VBN in_IN Thornton-In-Craven_NNP ,_, Yorkshire_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Charterhouse_NNP and_CC Rugby_NNP schools_NNS and_CC at_IN Christ_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, graduating_VBG BA_NNP in_IN 1851_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD ordained_VBN as_IN a_DT deacon_NN in_IN Rochester_NNP in_IN 1851_CD and_CC as_IN a_DT priest_NN in_IN 1852_CD ._.
+He_PRP served_VBD as_IN British_JJ Chaplain_NNP in_IN Oslo_NNP from_IN 1858_CD until_IN 1862_CD and_CC as_IN a_DT vicar_NN in_IN the_DT village_NN of_IN Margaretting_VBG in_IN Essex_NNP from_IN 1863_CD until_IN 1906_CD ._.
+He_PRP was_VBD a_DT member_NN of_IN the_DT Chelmsford_NNP Board_NNP of_IN Guardians_NNPS for_IN nearly_RB 30_CD years_NNS ._.
+He_PRP translated_VBD the_DT first_JJ English_JJ edition_NN of_IN Valdemar_NNP Adolph_NNP Thisted_NNP 's_POS novel_NN Letters_NNS from_IN Hell_NNP ._.
+He_PRP also_RB translated_VBD The_DT Odyssey_NNP into_IN English_NNP blank_JJ verse_NN ._.

@@ -1,0 +1,157 @@
+A_DT
+man_NN
+allegedly_RB
+beheaded_VBD
+his_TPP3
+65-year-old_JJ
+mother_NN
+in_PIN
+Jharkhand_NN
+'s_POS
+Dumka_NN
+district_NN
+today_TIME
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+man_NN
+identified_VBN
+as_IN
+35-year-old_JJ
+Champai_NN
+Marandi_NN
+allegedly_RB
+beheaded_VBD
+his_TPP3
+mother_NN
+and_CC
+then_RB
+tried_VBD
+to_TO
+flee_VB
+with_PIN
+the_DT
+severed_VBN
+head_NN
+but_CC
+was_VBD [BYPA]
+caught_VBN
+by_PIN
+the_DT
+villagers_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+villagers_NN
+caught_VBD
+Marandi_NN
+when_RB
+he_TPP3
+tried_VBD
+to_TO
+escape_VB
+with_PIN
+the_DT
+severed_VBN
+head_NN
+of_PIN
+his_TPP3
+mother_NN
+,_,
+which_WDT [SERE]
+he_TPP3
+had_VBD [PEAS]
+wrapped_VBN
+in_PIN
+cloth_NN
+,_,
+police_NN
+said_VBD [PUBV]
+adding_VBG [PUBV]
+that_THVC
+the_DT
+people_NN
+of_PIN
+Siltha_NN
+B_NN
+village_NN
+handed_VBD
+him_TPP3
+to_PIN
+police_NN
+,_,
+who_WP
+arrested_VBD
+him_TPP3
+._.
+The_DT
+severed_VBN
+head_NN
+as_RB
+well_RB
+as_IN
+the_DT
+body_NN
+of_PIN
+the_DT
+woman_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+recovered_VBN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+Officer-in-charge_NN
+of_PIN
+the_DT
+Ramgarh_NN
+police_NN
+station_NOMZ
+,_,
+Sanjay_NN
+Kumar_NN
+said_VBD [PUBV] [THATD]
+the_DT
+woman_NN
+was_VBD
+sitting_VBG
+at_PIN
+the_DT
+door_NN
+of_PIN
+her_TPP3
+house_NN
+when_RB
+Marandi_NN
+arrived_VBD
+in_PIN
+an_DT
+inebriated_JJ
+state_NN
+and_CC
+beheaded_VBD
+her_TPP3
+with_PIN
+a_DT
+sharp_JJ
+weapon_NN
+._.
+Marandi_NN
+was_VBD [BEMA]
+a_DT
+habitual_JJ
+drunkard_NN
+and_CC
+was_VBD [BEMA]
+also_RB
+unemployed_PRED
+,_,
+the_DT
+OC_NN
+added_VBD [PUBV]
+._.

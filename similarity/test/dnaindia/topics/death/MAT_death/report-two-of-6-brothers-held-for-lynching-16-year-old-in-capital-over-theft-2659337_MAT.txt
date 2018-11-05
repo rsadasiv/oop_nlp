@@ -1,0 +1,651 @@
+Six_CD
+persons_NN
+,_,
+all_QUAN
+brothers_NN
+,_,
+allegedly_RB
+lynched_VBD
+a_DT
+16-year-old_JJ
+on_PIN
+Tuesday_NN
+on_PIN
+the_DT
+suspicion_NN
+of_PIN
+committing_VBG
+theft_NN
+in_PIN
+their_TPP3
+home_NN
+in_PIN
+northwest_RB
+Delhi_NN
+'s_POS
+Mukundpur_NN
+area_NN
+on_PIN
+Tuesday_NN
+morning_GER
+._.
+Police_NN
+have_VPRT [PEAS]
+arrested_VBN
+two_CD
+brothers_NN
+''_''
+Nand_NN
+and_PHC
+Raj_NN
+Kishore_NN
+''_''
+while_OSUB
+the_DT
+remaining_VBG
+four_CD
+''_''
+Triveni_NN
+,_,
+Deshraj_NN
+,_,
+Sant_NN
+Lal_NN
+and_PHC
+Sohan_NN
+Lal_NN
+''_''
+are_VPRT [BEMA]
+on_PIN
+the_DT
+run_NN
+._.
+Residents_NN
+of_PIN
+the_DT
+narrow_JJ
+lane_NN
+in_PIN
+Burari_NN
+woke_VBD
+up_RP
+to_PIN
+a_DT
+commotion_NOMZ
+as_IN
+a_DT
+crowd_NN
+gathered_VBD [PRIV]
+around_PLACE
+the_DT
+body_NN
+of_PIN
+a_DT
+16-year-old_JJ
+lying_VBG
+next_JJ
+to_PIN
+an_DT
+exposed_VBN
+gutter_NN
+._.
+Most_EMPH
+of_PIN
+the_DT
+houses_NN
+in_PIN
+the_DT
+crammed_VBN
+lane_NN
+have_VPRT [PEAS]
+exposed_VBN
+brick_NN
+work_NN
+and_PHC
+pathway_NN
+is_VPRT [BYPA]
+overhung_VBN
+by_PIN
+cables_NN
+._.
+Police_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+brothers_NN
+caught_VBD
+the_DT
+victim_NN
+,_,
+whose_WPS
+name_NN
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+released_VBN
+since_OSUB
+he_TPP3
+is_VPRT [BEMA]
+minor_PRED
+,_,
+stealing_VBG [PRESP]
+from_PIN
+their_TPP3
+house_NN
+and_CC
+thrashed_VBD
+him_TPP3
+up_RP
+._.
+Heavy_JJ
+police_NN
+presence_NN
+was_VBD [PASS]
+deployed_VBN
+in_PIN
+the_DT
+area_NN
+after_IN
+the_DT
+incident_NN
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+at_PIN
+around_PLACE
+3.30_CD
+am_VPRT
+but_CC
+police_NN
+say_VPRT [PUBV] [THATD]
+they_TPP3
+were_VBD [SPAU] [BYPA]
+only_DWNT
+informed_VBN
+by_PIN
+around_PLACE
+6.30_CD
+am_VPRT
+._.
+``_``
+We_FPP1
+received_VBD
+a_DT
+call_NN
+saying_VBG [PUBV] [WZPRES]
+the_DT
+residents_NN
+of_PIN
+Mukundpur_NN
+have_VPRT [PEAS]
+caught_VBN
+a_DT
+thief_NN
+,_,
+''_''
+said_VBD [PUBV]
+Aslam_NN
+Khan_NN
+,_,
+deputy_NN
+commissioner_NN
+of_PIN
+police_NN
+-LRB-_-LRB-
+Northwest_NN
+-RRB-_-RRB-
+,_,
+``_``
+When_RB
+the_DT
+team_NN
+reached_VBD
+the_DT
+spot_NN
+,_,
+they_TPP3
+found_VBD [PRIV] [THATD]
+a_DT
+teenager_NN
+lying_VBG [WZPRES]
+unconscious_JJ
+near_PLACE
+a_DT
+drain_NN
+._.
+He_TPP3
+was_VBD [PASS]
+rushed_VBN
+to_PIN
+a_DT
+nearby_PLACE
+hospital_NN
+,_,
+which_WDT [SERE]
+declared_VBD [PUBV] [THATD]
+him_TPP3
+brought_VBD
+dead_JJ
+in_PIN
+arrival_NN
+._.
+``_``
+The_DT
+police_NN
+are_VPRT
+investigating_VBG
+why_RB
+they_TPP3
+were_VBD [PASS]
+alerted_VBN
+after_IN
+a_DT
+long_JJ
+gap_NN
+of_PIN
+three_CD
+years_NN
+._.
+``_``
+We_FPP1
+have_VPRT [PEAS]
+arrested_VBN
+two_CD
+men_NN
+,_,
+Rajkumar_NN
+and_PHC
+Nand_NN
+Kishor_NN
+,_,
+who_WP
+allegedly_RB
+thrashed_VBD
+the_DT
+boy_NN
+for_PIN
+entering_VBG
+their_TPP3
+house_NN
+and_CC
+stealing_VBG
+valuables_NN
+We_FPP1
+are_VPRT
+trying_VBG
+to_TO
+find_VB [PRIV]
+out_PIN
+what_WP
+the_DT
+accused_VBN
+did_VBD [PROD]
+with_PIN
+the_DT
+victim_NN
+for_PIN
+three_CD
+hours_NN
+,_,
+''_''
+said_VBD [PUBV]
+Khan_NN
+,_,
+adding_VBG [PUBV]
+,_,
+``_``
+We_FPP1
+found_VBD [PRIV]
+the_DT
+accused_VBN
+'s_POS
+phone_NN
+in_PIN
+the_DT
+deceased_VBN
+'s_POS
+pocket_NN
+._.
+A_DT
+case_NN
+under_IN
+Section_NOMZ
+304_CD
+-LRB-_-LRB-
+Punishment_NOMZ
+for_PIN
+culpable_JJ
+homicide_NN
+not_XX0
+amounting_VBG
+to_PIN
+murder_NN
+-RRB-_-RRB-
+of_PIN
+the_DT
+Indian_JJ
+Penal_NN
+Code_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+registered_VBN
+at_PIN
+Bhalaswa_NN
+Dairy_NN
+police_NN
+station_NOMZ
+._.
+''_''
+A_DT
+case_NN
+of_PIN
+trespassing_GER
+and_PHC
+theft_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+registered_VBN
+against_PIN
+the_DT
+deceased_JJ
+._.
+According_VBG [PRESP]
+to_PIN
+Mushahid_NN
+,_,
+the_DT
+dead_JJ
+teen_NN
+'s_POS
+elder_JJ
+brother_NN
+,_,
+he_TPP3
+was_VBD [PASS]
+informed_VBN
+about_IN
+the_DT
+incident_NN
+by_PIN
+neighbors_NN
+at_PIN
+around_PLACE
+7_CD
+am_VPRT
+._.
+The_DT
+family_NN
+says_VPRT [PUBV] [THATD]
+the_DT
+boy_NN
+was_VBD [BEMA]
+not_XX0
+a_DT
+thief_NN
+and_CC
+the_DT
+fatal_JJ
+attack_NN
+was_VBD [BYPA]
+instigated_VBN
+by_PIN
+another_DT
+reason_NN
+._.
+``_``
+I_FPP1
+rushed_VBD
+to_PIN
+the_DT
+other_JJ
+lane_NN
+where_RB
+my_FPP1
+brother_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+,_,
+''_''
+says_VPRT [PUBV]
+Mushahid_NN
+,_,
+who_WP
+works_VPRT
+as_IN
+a_DT
+plumber_NN
+._.
+``_``
+He_TPP3
+had_VBD [PEAS]
+cut_VBN
+marks_NN
+on_PIN
+his_TPP3
+body_NN
+and_PHC
+marks_NN
+on_PIN
+his_TPP3
+hands_NN
+that_TSUB
+indicated_VBD [PRIV] [THATD]
+he_TPP3
+had_VBD [PEAS]
+been_VBN [PASS]
+tied_VBN
+up_RP
+._.
+There_EX
+were_VBD
+bruises_NN
+on_PIN
+the_DT
+legs_NN
+and_PHC
+arms_NN
+._.
+When_RB
+I_FPP1
+saw_VBD [PRIV]
+him_TPP3
+last_JJ
+night_NN
+,_,
+which_WDT [SERE]
+was_VBD [BEMA]
+the_DT
+last_JJ
+time_NN
+I_FPP1
+saw_VBD [PRIV]
+him_TPP3
+,_,
+he_TPP3
+was_VBD
+wearing_VBG
+a_DT
+black_JJ
+vest_NN
+._.
+But_CC
+he_TPP3
+was_VBD [PASS]
+found_VBN [PRIV]
+wearing_VBG
+a_DT
+white_JJ
+vest_NN
+._.
+''_''
+Police_NN
+have_VPRT [PEAS]
+added_VBN [PUBV]
+Section_NOMZ
+201_CD
+-LRB-_-LRB-
+causing_VBG
+disappearance_NN
+of_PIN
+evidence_NN
+of_PIN
+offence_NN
+,_,
+or_CC
+giving_VBG
+false_JJ
+information_NOMZ
+to_PIN
+screen_NN
+offender_NN
+-RRB-_-RRB-
+and_ANDC
+34_CD
+34_CD
+-LRB-_-LRB-
+Acts_VPRT
+done_VBN [PROD]
+by_PIN
+several_QUAN
+persons_NN
+in_PIN
+furtherance_NN
+of_PIN
+common_JJ
+intention_NOMZ
+-RRB-_-RRB-
+of_PIN
+the_DT
+IPC_NN
+to_TO
+probe_VB
+tampering_VBG
+with_PIN
+evidence_NN
+._.
+Autopsy_NN
+reports_NN
+of_PIN
+the_DT
+teenager_NN
+are_VPRT [PASS]
+awaited_VBN
+to_TO
+ascertain_VB [PRIV]
+injury_NN
+details_NN
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+Locals_NN
+claimed_VBD [PUBV]
+that_THVC
+they_TPP3
+found_VBD [PRIV]
+out_PIN
+about_IN
+the_DT
+incident_NN
+in_PIN
+the_DT
+morning_GER
+and_CC
+did_VBD
+not_XX0
+hear_VB [PRIV]
+any_QUAN
+sounds_NN
+of_PIN
+scuffle_NN
+at_PIN
+night_NN
+._.
+``_``
+I_FPP1
+came_VBD
+out_PIN
+of_PIN
+my_FPP1
+house_NN
+and_CC
+saw_VBD [PRIV]
+a_DT
+crowd_NN
+in_PIN
+the_DT
+lane_NN
+outside_PLACE
+,_,
+''_''
+says_VPRT [PUBV]
+Rita_NN
+a_DT
+neighbor_NN
+._.
+``_``
+When_RB
+I_FPP1
+inquired_VBD
+what_WP
+the_DT
+commotion_NOMZ
+was_VBD
+about_RB
+,_,
+I_FPP1
+found_VBD [PRIV]
+that_THVC
+a_DT
+boy_NN
+was_VBD
+lying_VBG
+dead_JJ
+outside_PLACE
+a_DT
+house_NN
+._.
+His_TPP3
+clothes_NN
+were_VBD [PASS]
+torn_VBN
+and_CC
+he_TPP3
+had_VBD
+bruises_NN
+on_PIN
+his_TPP3
+thighs_NN
+and_CC
+several_QUAN
+other_JJ
+parts_NN
+of_PIN
+his_TPP3
+body_NN
+._.
+People_NN
+informed_VBD
+me_FPP1
+that_DEMO
+he_TPP3
+had_VBD [PEAS]
+been_VBN [PASS]
+beaten_VBN
+for_PIN
+suspicion_NN
+of_PIN
+theft_NN
+but_CC
+we_FPP1
+did_VBD
+n't_XX0 [CONT]
+hear_VB [PRIV]
+any_QUAN
+ruckus_NN
+at_PIN
+night_NN
+._.
+''_''

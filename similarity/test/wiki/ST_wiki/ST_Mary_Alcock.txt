@@ -1,0 +1,13 @@
+Mary_NNP Alcock_NNP -LRB-_-LRB- née_FW Cumberland_NNP -RRB-_-RRB- -LRB-_-LRB- c._FW 1742_CD ``_`` 1798_CD -RRB-_-RRB- ,_, was_VBD a_DT British_JJ poet_NN ,_, essayist_NN ,_, and_CC philanthropist_NN ._.
+Mary_NNP was_VBD the_DT youngest_JJS child_NN of_IN Joanna_NNP Bentley_NNP -LRB-_-LRB- 1704\/5_CD ``_`` 1775_CD -RRB-_-RRB- and_CC Bishop_NNP Denison_NNP Cumberland_NNP -LRB-_-LRB- 1705\/6_CD ``_`` 1774_CD -RRB-_-RRB- ._.
+Richard_NNP Bentley_NNP ,_, classicist_NN and_CC master_NN of_IN Trinity_NNP College_NNP ,_, Cambridge_NNP ,_, was_VBD her_PRP$ maternal_JJ grandfather_NN ,_, and_CC Richard_NNP Cumberland_NNP -LRB-_-LRB- 1732_CD ``_`` 1811_CD -RRB-_-RRB- ,_, playwright_NN ,_, was_VBD her_PRP$ brother_NN ._.
+She_PRP spent_VBD her_PRP$ childhood_NN in_IN Stanwick_NNP ,_, Northamptonshire_NNP ,_, and_CC Fulham_NNP ._.
+In_IN 1762_CD the_DT family_NN relocated_VBD to_TO the_DT Kingdom_NNP of_IN Ireland_NNP when_WRB Denison_NNP Cumberland_NNP 's_POS father_NN was_VBD appointed_VBN chaplain_NN to_TO George_NNP Montagu-Dunk_NNP ,_, 2nd_CD Earl_NNP of_IN Halifax_NNP ,_, Lord_NNP Lieutenant_NNP of_IN Ireland_NNP ._.
+It_PRP was_VBD there_RB that_IN she_PRP married_VBD ,_, in_IN or_CC around_IN 1770_CD ,_, though_IN the_DT identity_NN of_IN Alcock_NNP ,_, her_PRP$ husband_NN ,_, has_VBZ not_RB been_VBN satisfactorily_RB established_VBN ._.
+Her_PRP$ husband_NN 's_POS mental_JJ health_NN would_MD seem_VB to_TO have_VB been_VBN fragile_JJ and_CC the_DT marriage_NN was_VBD likely_JJ unhappy_JJ ._.
+She_PRP nursed_VBD her_PRP$ parents_NNS through_IN long_JJ illnesses_NNS until_IN their_PRP$ deaths_NNS and_CC cared_VBN for_IN her_PRP$ seven_CD nieces_NNS after_IN the_DT death_NN of_IN her_PRP$ sister_NN Elizabeth_NNP Hughes_NNP in_IN 1770_CD ._.
+A_DT widow_NN by_IN the_DT early_JJ 1780s_CD ,_, she_PRP moved_VBD to_TO Bath_NNP ,_, Somerset_NNP ,_, where_WRB she_PRP was_VBD part_NN of_IN the_DT literary_JJ circle_NN of_IN Lady_NNP Anne_NNP Miller_NNP -LRB-_-LRB- 1741_CD ``_`` 1781_CD -RRB-_-RRB- ._.
+She_PRP engaged_VBD in_IN various_JJ charitable_JJ activities_NNS ._.
+Never_RB robust_JJ ,_, she_PRP died_VBD at_IN the_DT age_NN of_IN fifty-seven_JJ in_IN Northamptonshire_NNP ._.
+Her_PRP$ niece_JJ Joanna_NNP Hughes_NNP edited_VBD her_PRP$ collected_VBN works_NNS after_IN her_PRP$ death_NN :_: some_DT 183_CD pages_NNS of_IN poems_NNS and_CC essays_NNS ._.
+The_DT collection_NN received_VBD little_JJ critical_JJ interest_NN though_IN subscribers_NNS included_VBD Charles_NNP Burney_NNP ,_, Elizabeth_NNP Carter_NNP ,_, William_NNP Cowper_NNP ,_, Hannah_NNP More_RBR ,_, and_CC various_JJ members_NNS of_IN royalty_NN ._.

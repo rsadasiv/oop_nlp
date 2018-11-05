@@ -1,0 +1,8 @@
+William_NNP Branthwaite_NNP D.D._NNP -LRB-_-LRB- died_VBD 1619_CD -RRB-_-RRB- was_VBD an_DT English_JJ scholar_NN and_CC translator_NN ._.
+Branthwaite_JJ studied_VBN at_IN Clare_NNP Hall_NNP ,_, Cambridge_NNP and_CC ,_, in_IN 1584_CD became_VBD a_DT founding_JJ fellow_NN of_IN Emmanuel_NNP College_NNP under_IN Laurence_NNP Chaderton_NNP ._.
+This_DT position_NN he_PRP retained_VBD until_IN his_PRP$ subsequent_JJ selection_NN as_IN master_NN ._.
+He_PRP was_VBD the_DT first_JJ of_IN eighteen_JJ members_NNS of_IN his_PRP$ family_NN to_TO enter_VB ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1607_CD he_PRP was_VBD appointed_VBN Master_NNP of_IN Gonville_NNP and_CC Caius_NNP by_IN royal_JJ mandate_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP also_RB served_VBD in_IN the_DT ``_`` Second_JJ Cambridge_NNP Company_NN ''_'' charged_VBN by_IN James_NNP I_NNP of_IN England_NNP with_IN translating_VBG the_DT Apocrypha_NNP for_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ._.
+He_PRP died_VBD ,_, whilst_NN Vice-chancellor_NN ,_, in_IN January_NNP 1619_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

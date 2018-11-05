@@ -1,0 +1,167 @@
+EasyJet_NN
+has_VPRT [PEAS]
+launched_VBN
+a_DT
+new_JJ
+app_NN
+that_TSUB
+allows_VPRT [SUAV]
+people_NN
+to_TO
+book_VB
+a_DT
+flight_NN
+using_VBG [WZPRES]
+Instagram_NN
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+strategy_NN
+borrowed_VBN [WZPAST]
+from_PIN
+fashion_NN
+apps_NN
+such_JJ
+as_IN
+Like_IN
+to_PIN
+Know_NN
+It_PIT
+,_,
+which_WDT [SERE]
+allow_VPRT [SUAV]
+fashionistas_NN
+to_TO
+shop_VB
+the_DT
+looks_NN
+of_PIN
+their_TPP3
+favorite_JJ
+influencers_NN
+straight_RB
+from_PIN
+Instagram_NN
+._.
+Called_VBN
+Look_VB
+&_CC
+Book_NN
+,_,
+the_DT
+EasyJet_NN
+app_NN
+is_VPRT [BEMA]
+for_PIN
+Instagram_NN
+users_NN
+who_WP [WHSUB]
+likewise_CONJ
+seek_VPRT
+travel_NN
+inspo_NN
+on_PIN
+the_DT
+photo-sharing_JJ
+site_NN
+._.
+Users_NN
+will_PRMD
+be_VB [BEMA]
+able_PRED
+to_TO
+find_VB [PRIV]
+out_PIN
+where_RB
+an_DT
+Instagram_NN
+photo_NN
+was_VBD [PASS]
+taken_VBN
+-LRB-_-LRB-
+in_PIN
+cases_NN
+where_RB
+they_TPP3
+'re_VPRT [CONT] [BEMA]
+not_XX0
+geo-tagged_PRED
+or_CC
+identified_VBN
+-RRB-_-RRB-
+,_,
+look_VB
+up_RP
+flight_NN
+information_NOMZ
+,_,
+and_ANDC
+book_VB
+their_TPP3
+trip_NN
+on_PIN
+their_TPP3
+smartphone_NN
+._.
+After_IN
+uploading_VBG
+screenshots_NN
+of_PIN
+a_DT
+destination_NOMZ
+from_PIN
+Instagram_NN
+into_PIN
+Look_VB
+&_CC
+Book_NN
+,_,
+the_DT
+app_NN
+will_PRMD
+identify_VB
+the_DT
+destination_NOMZ
+,_,
+and_ANDC
+offer_VB
+up_RP
+flight_NN
+options_NOMZ
+._.
+The_DT
+feature_NN
+is_VPRT [BEMA]
+available_JJ
+only_DWNT
+for_PIN
+European_JJ
+destinations_NOMZ
+._.
+Earlier_TIME
+this_DEMO
+year_NN
+,_,
+Instagram_NN
+also_RB
+unveiled_VBD
+``_``
+action_NOMZ
+buttons_NN
+''_''
+allowing_VBG [SUAV]
+users_NN
+to_PIN
+book_NN
+restaurant_NN
+reservations_NOMZ
+and_PHC
+event_NN
+tickets_NN
+and_CC
+directly_RB
+from_PIN
+the_DT
+app_NN
+._.

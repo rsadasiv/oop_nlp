@@ -1,0 +1,4 @@
+John_NNP Griffith_NNP Bowen_NNP -LRB-_-LRB- born_VBN 5_CD November_NNP 1924_CD -RRB-_-RRB- is_VBZ a_DT British_JJ playwright_NN and_CC novelist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN in_IN Calcutta_NNP ,_, India_NNP ,_, studied_VBD at_IN the_DT University_NNP of_IN Oxford_NNP -LRB-_-LRB- at_IN Pembroke_NNP College_NNP and_CC St_NNP Antony_NNP 's_POS College_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- -RRB-_-RRB- and_CC worked_VBD in_IN publishing_NN ,_, drama_NN and_CC television_NN ._.
+Bowen_NNP started_VBD writing_VBG books_NNS in_IN the_DT mid-1950s_NNS ._.
+In_IN the_DT mid-1960s_CD Bowen_NNP switched_VBD to_TO writing_VBG plays_NNS for_IN theater_NN and_CC television_NN ._.

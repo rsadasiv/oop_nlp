@@ -1,0 +1,23 @@
+Violent_JJ flares_NNS from_IN the_DT host_NN star_NN may_MD make_VB planets_NNS orbiting_VBG it_PRP uninhabitable_JJ by_IN affecting_VBG their_PRP$ atmospheres_NNS ,_, scientists_NNS using_VBG NASA_NNP 's_POS Hubble_NNP Space_NNP Telescope_NNP have_VBP found_VBN ._.
+Hubble_NNP is_VBZ observing_VBG such_JJ stars_NNS through_IN a_DT large_JJ program_NN called_VBN HAZMAT_NNP --_: Habitable_JJ Zones_NNS and_CC M_NNP dwarf_VBP Activity_NN across_IN Time_NNP ,_, NASA_NNP said_VBD in_IN a_DT statement_NN ._.
+``_`` M_NNP dwarf_NN ''_'' is_VBZ the_DT astronomical_JJ term_NN for_IN a_DT red_JJ dwarf_NN star_NN --_: the_DT smallest_JJS ,_, most_RBS abundant_JJ and_CC longest-lived_JJ type_NN of_IN star_NN in_IN our_PRP$ galaxy_NN ,_, according_VBG to_TO the_DT study_NN published_VBN in_IN The_DT Astrophysical_NNP Journal_NNP ._.
+The_DT HAZMAT_NNP program_NN is_VBZ an_DT ultraviolet_NN survey_NN of_IN red_JJ dwarfs_VBZ at_IN three_CD different_JJ ages_NNS :_: young_JJ ,_, intermediate_JJ ,_, and_CC old_JJ ._.
+Stellar_JJ flares_NNS from_IN red_JJ dwarfs_VBZ are_VBP particularly_RB bright_JJ in_IN ultraviolet_NN wavelengths_NNS ,_, compared_VBN with_IN Sun-like_JJ stars_NNS ,_, according_VBG to_TO NASA_NNP ._.
+Hubble_NNP 's_POS ultraviolet_NN sensitivity_NN makes_VBZ the_DT telescope_NN very_RB valuable_JJ for_IN observing_VBG these_DT flares_NNS ._.
+The_DT flares_NNS are_VBP believed_VBN to_TO be_VB powered_VBN by_IN intense_JJ magnetic_JJ fields_NNS that_WDT get_VBP tangled_VBN by_IN the_DT roiling_VBG motions_NNS of_IN the_DT stellar_JJ atmosphere_NN ._.
+When_WRB the_DT tangling_NN gets_VBZ too_RB intense_JJ ,_, the_DT fields_NNS break_NN and_CC reconnect_NN ,_, unleashing_VBG tremendous_JJ amounts_NNS of_IN energy_NN ._.
+The_DT team_NN has_VBZ found_VBN that_IN the_DT flares_NNS from_IN the_DT youngest_JJS red_JJ dwarfs_VBZ they_PRP surveyed_VBD --_: just_RB about_IN 40_CD million_CD years_NNS old_JJ --_: are_VBP 100_CD to_TO 1,000_CD times_NNS more_RBR energetic_JJ than_IN when_WRB the_DT stars_NNS are_VBP older_JJR ._.
+This_DT younger_JJR age_NN is_VBZ when_WRB terrestrial_JJ planets_NNS are_VBP forming_VBG around_IN their_PRP$ stars_NNS ,_, NASA_NNP said_VBD ._.
+About_IN three-quarters_NNS of_IN the_DT stars_NNS in_IN our_PRP$ galaxy_NN are_VBP red_JJ dwarfs_VBZ ._.
+Most_JJS of_IN the_DT galaxy_NN 's_POS ``_`` habitable-zone_NN ''_'' planets_NNS --_: planets_NNS orbiting_VBG their_PRP$ stars_NNS at_IN a_DT distance_NN where_WRB temperatures_NNS are_VBP moderate_JJ enough_RB for_IN liquid_JJ water_NN to_TO exist_VB on_IN their_PRP$ surface_NN --_: likely_JJ orbit_NN red_JJ dwarfs_VBZ ._.
+In_IN fact_NN ,_, the_DT nearest_JJS star_NN to_TO our_PRP$ Sun_NNP ,_, a_DT red_JJ dwarf_NN named_VBN Proxima_NNP Centauri_NNP ,_, has_VBZ an_DT Earth-size_JJ planet_NN in_IN its_PRP$ habitable_JJ zone_NN ._.
+However_RB ,_, young_JJ red_JJ dwarfs_VBZ are_VBP active_JJ stars_NNS ,_, producing_VBG ultraviolet_NN flares_NNS that_WDT blast_VBP out_RP so_RB much_JJ energy_NN that_IN they_PRP could_MD influence_VB atmospheric_JJ chemistry_NN and_CC possibly_RB strip_VB off_RP the_DT atmospheres_NNS of_IN these_DT fledgling_JJ planets_NNS ._.
+The_DT study_NN examined_VBD the_DT flare_JJ frequency_NN of_IN 12_CD young_JJ red_JJ dwarfs_VBZ ._.
+The_DT observing_VBG program_NN detected_VBD one_CD of_IN the_DT most_RBS intense_JJ stellar_JJ flares_NNS ever_RB observed_VBN in_IN ultraviolet_NN light_NN ._.
+Dubbed_VBN the_DT ``_`` Hazflare_NNP ,_, ''_'' this_DT event_NN was_VBD more_RBR energetic_JJ than_IN the_DT most_RBS powerful_JJ flare_NN from_IN our_PRP$ Sun_NNP ever_RB recorded_VBD ._.
+``_`` Flares_NNS like_IN we_PRP observed_VBD have_VBP the_DT capacity_NN to_TO strip_VB away_RP the_DT atmosphere_NN from_IN a_DT planet_NN ._.
+But_CC that_DT does_VBZ n't_RB necessarily_RB mean_VB doom_NN and_CC gloom_NN for_IN life_NN on_IN the_DT planet_NN ,_, ''_'' said_VBD Parke_NNP Loyd_NNP from_IN Arizona_NNP State_NNP University_NNP in_IN the_DT US_NNP ._.
+``_`` It_PRP just_RB might_MD be_VB different_JJ life_NN than_IN we_PRP imagine_VBP ._.
+Or_CC there_EX might_MD be_VB other_JJ processes_NNS that_WDT could_MD replenish_VB the_DT atmosphere_NN of_IN the_DT planet_NN ._.
+It_PRP is_VBZ certainly_RB a_DT harsh_JJ environment_NN ,_, but_CC I_PRP would_MD hesitate_VB to_TO say_VB that_IN it_PRP is_VBZ a_DT sterile_JJ environment_NN ,_, ''_'' Loyd_NNP said_VBD ._.
+``_`` The_DT goal_NN of_IN the_DT HAZMAT_NNP program_NN is_VBZ to_TO help_VB understand_VB the_DT habitability_NN of_IN planets_NNS around_IN low-mass_JJ stars_NNS ,_, ''_'' said_VBD Arizona_NNP State_NNP University_NNP 's_POS Evgenya_NNP Shkolnik_NNP ,_, the_DT program_NN 's_POS principal_JJ investigator_NN ._.

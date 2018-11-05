@@ -1,0 +1,19 @@
+Dorothea_NNP Celesia_NNP -LRB-_-LRB- bap_NN ._.
+1738_CD ,_, died_VBD 1790_CD -RRB-_-RRB- was_VBD a_DT poet_NN and_CC playwright_NN best_RB known_VBN for_IN Almida_NNP ,_, her_PRP$ translation_NN of_IN Voltaire_NNP 's_POS Tancrède_NNP -LRB-_-LRB- 1760_CD -RRB-_-RRB- ._.
+She_PRP was_VBD the_DT youngest_JJS child_NN of_IN David_NNP Mallet_NNP -LRB-_-LRB- ca_MD ._.
+1701_CD ``_`` 1765_CD -RRB-_-RRB- ,_, playwright_NN and_CC poet_NN ,_, and_CC his_PRP$ first_JJ wife_NN ,_, Susanna_NNP -LRB-_-LRB- d._FW 1742_CD -RRB-_-RRB- ._.
+She_PRP was_VBD educated_VBN at_IN home_NN ,_, and_CC in_IN 1758_CD she_PRP married_VBD Pietro_NNP Paolo_NNP Celesia_NNP -LRB-_-LRB- d._FW 1806_CD -RRB-_-RRB- ,_, Ambassador_NNP to_TO England_NNP -LRB-_-LRB- 1755_CD to_TO 1759_CD -RRB-_-RRB- ._.
+She_PRP moved_VBD with_IN her_PRP$ husband_NN to_TO Genoa_NNP in_IN 1759_CD and_CC remained_VBD there_EX until_IN her_PRP$ death_NN ._.
+David_NNP Garrick_NNP visited_VBD her_PRP$ when_WRB in_IN Italy_NNP and_CC produced_VBD her_PRP$ blank_JJ verse_JJ tragedy_NN ,_, Almida_NNP ,_, at_IN the_DT Drury_NNP Lane_NNP Theatre_NNP in_IN 1771_CD ._.
+The_DT play_NN had_VBD a_DT successful_JJ run_NN of_IN ten_NN nights_NNS and_CC afforded_VBN Celesia_NNP with_IN some_DT short-lived_JJ celebrity_NN ._.
+Her_PRP$ version_NN is_VBZ notable_JJ for_IN its_PRP$ shift_NN of_IN focus_NN from_IN the_DT warrior_NN Tancred_NNP ,_, as_IN in_IN Voltaire_NNP 's_POS original_JJ ,_, to_TO Almida_NNP ,_, the_DT heroine_NN ,_, and_CC the_DT latter_NN 's_POS assertion_NN of_IN her_PRP$ right_NN to_TO choose_VB her_PRP$ own_JJ spouse_NN ._.
+Celesia_NNP 's_POS second_JJ major_JJ work_NN was_VBD a_DT long_JJ poem_NN in_IN blank_JJ verse_NN ,_, Indolence_NNP -LRB-_-LRB- 1772_CD -RRB-_-RRB- ._.
+Her_PRP$ proposed_VBN translation_NN of_IN Voltaire_NNP 's_POS heroic_JJ tragedy_NN Sémiramis_NNP -LRB-_-LRB- 1746_CD -RRB-_-RRB- never_RB materialized_VBD ._.
+Breen_NNP ,_, Jennifer_NNP ._.
+``_`` Celesia_NNP ,_, Dorothea_NNP -LRB-_-LRB- bap_NN ._.
+1738_CD ,_, d._FW 1790_CD -RRB-_-RRB- ._. ''_''
+Oxford_NNP Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+Ed_NNP ._.
+H._NNP C._NNP G._NNP Matthew_NNP and_CC Brian_NNP Harrison_NNP ._.
+Oxford_NNP :_: OUP_NNP ,_, 2004_CD ._.
+22_CD Jan._NNP 2007_CD ._.

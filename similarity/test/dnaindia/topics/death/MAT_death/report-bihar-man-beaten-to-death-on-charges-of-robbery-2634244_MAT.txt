@@ -1,0 +1,156 @@
+A_DT
+man_NN
+was_VBD [SPAU] [PASS]
+allegedly_RB
+beaten_VBN
+to_PIN
+death_NN
+by_PIN
+locals_NN
+in_PIN
+Bihar_NN
+'s_POS
+Vaishali_NN
+on_PIN
+charges_NN
+of_PIN
+robbery_NN
+._.
+40-year-old_JJ
+Mohammed_NN
+Riyaz_NN
+was_VBD [PASS]
+thrashed_VBN
+on_PIN
+July_NN
+4_CD
+in_PIN
+Manpura_NN
+village_NN
+._.
+Upon_PIN
+knowing_VBG [PRIV]
+of_PIN
+the_DT
+incident_NN
+,_,
+the_DT
+family_NN
+,_,
+who_WP
+was_VBD [BEMA]
+in_PIN
+Kolkata_NN
+,_,
+requested_VBD [SUAV]
+the_DT
+police_NN
+to_TO
+keep_VB
+the_DT
+body_NN
+until_IN
+they_TPP3
+arrive_VPRT
+._.
+However_CONJ
+,_,
+the_DT
+family_NN
+of_PIN
+the_DT
+deceased_JJ
+alleged_VBN [PUBV]
+that_THVC
+the_DT
+police_NN
+conducted_VBD
+the_DT
+post-mortem_NN
+and_CC
+cremated_VBD
+the_DT
+man_NN
+without_PIN
+informing_VBG
+them_TPP3
+._.
+``_``
+We_FPP1
+were_VBD [BEMA]
+in_PIN
+Kolkata_NN
+and_CC
+asked_VBD [SUAV]
+them_TPP3
+to_TO
+keep_VB
+the_DT
+body_NN
+._.
+But_CC
+later_TIME
+when_RB
+we_FPP1
+came_VBD
+to_PIN
+the_DT
+police_NN
+station_NOMZ
+,_,
+we_FPP1
+were_VBD [PASS]
+informed_VBN
+that_DEMO
+the_DT
+body_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+buried_VBN
+,_,
+''_''
+said_VBD [PUBV]
+the_DT
+mother_NN
+._.
+Furious_JJ
+over_IN
+the_DT
+same_JJ
+,_,
+the_DT
+deceased_VBN
+'s_POS
+family_NN
+staged_VBD
+a_DT
+protest_NN
+earlier_TIME
+in_PIN
+the_DT
+day_NN
+alleging_VBG [PUBV] [WZPRES]
+negligence_NN
+on_PIN
+the_DT
+part_NN
+of_PIN
+the_DT
+police_NN
+._.
+The_DT
+protest_NN
+resulted_VBD
+in_PIN
+roads_NN
+being_VBG [WZPRES] [PASS]
+jammed_VBN
+as_IN
+the_DT
+vehicular_JJ
+movement_NOMZ
+came_VBD
+to_PIN
+a_DT
+halt_NN
+._.

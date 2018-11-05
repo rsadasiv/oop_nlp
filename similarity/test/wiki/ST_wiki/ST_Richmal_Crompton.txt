@@ -1,0 +1,42 @@
+Richmal_NNP Crompton_NNP Lamburn_NNP -LRB-_-LRB- 15_CD November_NNP 1890_CD ''_'' 11_CD January_NNP 1969_CD -RRB-_-RRB- was_VBD initially_RB trained_VBN as_IN a_DT schoolmistress_NN but_CC later_RB became_VBD a_DT popular_JJ English_NNP writer_NN ,_, best_JJS known_VBN for_IN her_PRP$ Just_RB William_NNP series_NN of_IN books_NNS ,_, humorous_JJ short_JJ stories_NNS ,_, and_CC to_TO a_DT lesser_JJR extent_NN adult_NN fiction_NN books_NNS ._.
+Richmal_NNP Crompton_NNP Lamburn_NNP was_VBD born_VBN in_IN Bury_NNP ,_, Lancashire_NNP ,_, the_DT second_JJ child_NN of_IN the_DT Rev._NNP Edward_NNP John_NNP Sewell_NNP Lamburn_NNP ,_, a_DT Classics_NNS master_NN at_IN Bury_NNP Grammar_NNP School_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC his_PRP$ wife_NN Clara_NNP -LRB-_-LRB- née_FW Crompton_NNP -RRB-_-RRB- ._.
+Her_PRP$ brother_NN ,_, John_NNP Battersby_NNP Crompton_NNP Lamburn_NNP ,_, also_RB became_VBD a_DT writer_NN ,_, remembered_VBN under_IN the_DT name_NN John_NNP Lambourne_NNP for_IN his_PRP$ fantasy_NN novel_NN The_DT Kingdom_NNP That_WDT Was_VBD -LRB-_-LRB- 1931_CD -RRB-_-RRB- and_CC under_IN the_DT name_NN ``_`` John_NNP Crompton_NNP ''_'' for_IN his_PRP$ books_NNS on_IN natural_JJ history_NN ._.
+Richmal_NNP Crompton_NNP attended_VBD St_NNP Elphin_NNP 's_POS Boarding_NNP School_NNP for_IN the_DT daughters_NNS of_IN the_DT clergy_NNS ,_, originally_RB based_VBN in_IN Warrington_NNP ,_, Lancashire_NNP ._.
+She_PRP later_RB moved_VBD with_IN the_DT school_NN to_TO a_DT new_JJ location_NN in_IN Darley_NNP Dale_NNP ,_, near_IN Matlock_NNP ,_, Derbyshire_NNP in_IN 1904_CD ._.
+In_IN order_NN to_TO further_VB her_PRP$ chosen_VBN career_NN as_IN a_DT schoolteacher_NN ,_, she_PRP won_VBD a_DT scholarship_NN to_TO Royal_NNP Holloway_NNP College_NNP ,_, part_NN of_IN the_DT University_NNP of_IN London_NNP in_IN Englefield_NNP Green_NNP ,_, Surrey_NNP ._.
+Crompton_NNP graduated_VBD in_IN 1914_CD with_IN a_DT BA_NNP honors_NNS degree_NN in_IN Classics_NNS -LRB-_-LRB- II_NNP class_NN -RRB-_-RRB- ._.
+She_PRP took_VBD part_NN in_IN the_DT Women_NNP 's_POS Suffrage_NNP movement_NN ._.
+In_IN 1914_CD ,_, she_PRP returned_VBD to_TO St_NNP Elphin_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ as_IN a_DT Classics_NNS mistress_NN and_CC later_RB ,_, at_IN age_NN 27_CD ,_, moved_VBD to_TO Bromley_NNP High_NNP School_NNP in_IN southeast_NN London_NNP where_WRB she_PRP began_VBD her_PRP$ writing_NN in_IN earnest_NN ._.
+Cadogan_NNP -LRB-_-LRB- 1993_CD -RRB-_-RRB- shows_VBZ that_IN she_PRP was_VBD an_DT excellent_JJ and_CC committed_JJ teacher_NN at_IN both_DT schools_NNS ._.
+Having_VBG contracted_VBN poliomyelitis_NNS ,_, she_PRP was_VBD left_VBN without_IN the_DT use_NN of_IN her_PRP$ right_JJ leg_NN in_IN 1923_CD ._.
+She_PRP gave_VBD up_RP her_PRP$ teaching_NN career_NN and_CC began_VBD to_TO write_VB full-time_JJ ._.
+Later_RB in_IN her_PRP$ forties_NNS ,_, she_PRP suffered_VBD from_IN breast_NN cancer_NN and_CC had_VBD a_DT mastectomy_NN ._.
+She_PRP never_RB married_JJ and_CC had_VBD no_DT children_NNS although_IN she_PRP was_VBD aunt_NN and_CC great-aunt_NN to_TO other_JJ members_NNS of_IN her_PRP$ family_NN ._.
+Her_PRP$ William_NNP stories_NNS and_CC her_PRP$ other_JJ literature_NN were_VBD extremely_RB successful_JJ and_CC ,_, three_CD years_NNS after_IN she_PRP retired_VBD from_IN teaching_NN ,_, Crompton_NNP was_VBD able_JJ to_TO afford_VB to_TO have_VB a_DT house_NN -LRB-_-LRB- The_DT Glebe_NNP -RRB-_-RRB- built_VBN in_IN Bromley_NNP Common_NNP for_IN herself_PRP and_CC her_PRP$ mother_NN ,_, Clara_NNP ._.
+In_IN spite_NN of_IN her_PRP$ disabilities_NNS ,_, during_IN the_DT Second_NNP World_NNP War_NNP she_PRP volunteered_VBD for_IN the_DT Fire_NNP Service_NNP ._.
+She_PRP died_VBD in_IN 1969_CD in_IN Farnborough_NNP Hospital_NNP ,_, Kent_NNP ._.
+Crompton_NNP 's_POS best_JJS known_VBN books_NNS are_VBP the_DT William_NNP stories_NNS ,_, about_IN a_DT mischievous_JJ 11-year-old_JJ schoolboy_NN and_CC his_PRP$ band_NN of_IN friends_NNS ,_, known_VBN as_IN ``_`` The_DT Outlaws_NNP ''_'' ._.
+Her_PRP$ first_JJ short_JJ story_NN featuring_VBG William_NNP to_TO be_VB published_VBN was_VBD ``_`` Rice_NNP Mould_NNP Pudding_NN ''_'' ,_, published_VBN in_IN Home_NNP Magazine_NNP in_IN 1919_CD ._.
+-LRB-_-LRB- She_PRP had_VBD written_VBN ``_`` The_DT Outlaws_NNP ''_'' in_IN 1917_CD ,_, but_CC it_PRP was_VBD not_RB published_VBN until_IN later_RB ._. -RRB-_-RRB-
+In_IN 1922_CD ,_, the_DT first_JJ collection_NN ,_, entitled_VBN Just_RB William_NNP ,_, was_VBD published_VBN ._.
+She_PRP wrote_VBD 38_CD other_JJ William_NNP books_NNS throughout_IN her_PRP$ life_NN ._.
+The_DT last_JJ ,_, William_NNP the_DT Lawless_NNP ,_, was_VBD published_VBN posthumously_RB in_IN 1970_CD ._.
+The_DT William_NNP books_NNS sold_VBD over_IN twelve_CD million_CD copies_NNS in_IN the_DT United_NNP Kingdom_NNP alone_RB ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- They_PRP have_VBP been_VBN adapted_VBN for_IN films_NNS ,_, stage-plays_NNS ,_, and_CC numerous_JJ radio_NN and_CC television_NN series_NN ._.
+Illustrations_NNS by_IN Thomas_NNP Henry_NNP contributed_VBD to_TO their_PRP$ success_NN ._.
+Crompton_NNP saw_VBD her_PRP$ real_JJ work_NN as_IN writing_VBG adult_NN fiction_NN ._.
+Starting_VBG with_IN The_DT Innermost_NNP Room_NNP -LRB-_-LRB- 1923_CD -RRB-_-RRB- ,_, she_PRP wrote_VBD 41_CD novels_NNS for_IN adults_NNS and_CC published_VBN nine_CD collections_NNS of_IN short_JJ stories_NNS ._.
+Their_PRP$ focus_NN was_VBD generally_RB village_NN life_NN in_IN the_DT Home_NNP Counties_NNPS ;_: though_IN these_DT novels_NNS have_VBP the_DT same_JJ inventiveness_NN and_CC lack_NN of_IN sentimentality_NN as_IN the_DT `_`` William_NNP '_'' books_NNS ,_, after_IN the_DT Second_NNP World_NNP War_NNP ,_, such_JJ literature_NN had_VBD an_DT increasingly_RB limited_JJ appeal_NN ._.
+Even_RB William_NNP was_VBD originally_RB created_VBN for_IN a_DT grown-up_JJ audience_NN ,_, as_IN she_PRP saw_VBD Just_RB William_NNP as_IN a_DT potboiler_NN -LRB-_-LRB- Cadogan_NNP ,_, 1993_CD -RRB-_-RRB- ._.
+She_PRP was_VBD pleased_VBN by_IN its_PRP$ success_NN ,_, but_CC seemed_VBD frustrated_JJ that_IN her_PRP$ other_JJ novels_NNS and_CC short_JJ stories_NNS did_VBD not_RB receive_VB the_DT same_JJ recognition_NN ._.
+Her_PRP$ first_JJ published_VBN tale_NN was_VBD published_VBN in_IN The_DT Girl_NNP 's_POS Own_NNP Paper_NNP in_IN 1918_CD ,_, concerning_VBG a_DT little_JJ boy_NN named_VBN Thomas_NNP ,_, a_DT forerunner_NN of_IN William_NNP who_WP reacts_VBZ against_IN authority_NN ._.
+Crompton_NNP tried_VBD several_JJ times_NNS to_TO reformulate_VB William_NNP for_IN other_JJ audiences_NNS ._.
+Jimmy_NNP -LRB-_-LRB- 1949_CD -RRB-_-RRB- was_VBD aimed_VBN at_IN younger_JJR children_NNS ,_, and_CC Enter_VB -_: Patricia_NNP -LRB-_-LRB- 1927_CD -RRB-_-RRB- at_IN girls_NNS ._.
+Crompton_NNP wrote_VBD two_CD more_JJR Jimmy_NNP books_NNS ,_, but_CC no_DT more_JJR Patricia_NNP ,_, and_CC neither_DT was_VBD as_RB successful_JJ as_IN William_NNP ._.
+According_VBG to_TO the_DT actor_NN John_NNP Teed_NNP ,_, whose_WP$ family_NN lived_VBD next_JJ door_NN to_TO Crompton_NNP ,_, the_DT model_NN for_IN William_NNP was_VBD Crompton_NNP 's_POS nephew_NN Tommy_NNP ._.
+Crompton_NNP 's_POS fiction_NN centres_VBZ around_IN family_NN and_CC social_JJ life_NN ,_, dwelling_NN on_IN the_DT constraints_NNS that_IN they_PRP place_VBP on_IN individuals_NNS while_IN also_RB nurturing_VBG them_PRP ._.
+This_DT is_VBZ best_RB seen_VBN in_IN her_PRP$ depiction_NN of_IN children_NNS as_IN puzzled_VBN onlookers_NNS of_IN society_NN 's_POS ways_NNS ._.
+Nevertheless_RB ,_, the_DT children_NNS ,_, particularly_RB William_NNP and_CC his_PRP$ Outlaws_NNP ,_, almost_RB always_RB emerge_VB triumphant_NN ._.
+The_DT William_NNP books_NNS have_VBP been_VBN translated_VBN into_IN nine_CD languages_NNS and_CC have_VBP been_VBN sold_VBN all_DT over_IN the_DT world_NN ._.
+The_DT publication_NN dates_NNS are_VBP for_IN the_DT UK_NNP ._.
+Richmal_NNP Crompton_NNP 's_POS archives_NNS are_VBP held_VBN at_IN Roehampton_NNP University_NNP ,_, London_NNP and_CC at_IN Wat_NNP Tyler_NNP Country_NNP Park_NNP ,_, Pitsea_NNP ,_, where_WRB some_DT family_NN lived_VBD ._.

@@ -1,0 +1,11 @@
+Patricia_NNP Beer_NNP -LRB-_-LRB- 4_CD November_NNP 1924_CD ''_'' 15_CD August_NNP 1999_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN and_CC critic_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP was_VBD born_VBN in_IN Exmouth_NNP ,_, Devon_NNP into_IN a_DT family_NN of_IN Plymouth_NNP Brethren_NNP ._.
+Her_PRP$ mother_NN died_VBD when_WRB she_PRP was_VBD fourteen_CD and_CC it_PRP affected_VBD her_PRP$ entire_JJ life_NN and_CC the_DT way_NN she_PRP saw_VBD death_NN ._.
+Patricia_NNP Beer_NNP was_VBD strongly_RB influenced_VBN by_IN the_DT Plymouth_NNP Brethren_NNP Church_NNP ,_, a_DT loosely_RB structured_VBN ,_, fundamentalist_JJ sect_NN ._.
+She_PRP moved_VBD away_RB from_IN her_PRP$ religious_JJ background_NN as_IN a_DT young_JJ adult_NN ,_, becoming_VBG a_DT teacher_NN and_CC academic_JJ ._.
+She_PRP began_VBD to_TO write_VB poetry_NN after_IN World_NNP War_NNP II_NNP ,_, while_IN living_VBG in_IN Italy_NNP ;_: she_PRP is_VBZ most_RBS often_RB classified_VBN as_IN a_DT `_`` New_JJ Romantic_JJ '_'' poet_NN comparable_JJ to_TO John_NNP Heath-Stubbs_NNP ._.
+On_IN her_PRP$ own_JJ account_NN ,_, however_RB ,_, there_EX is_VBZ a_DT discontinuity_NN in_IN her_PRP$ work_NN ._.
+Devon_NNP is_VBZ a_DT major_JJ presence_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP was_VBD married_VBN twice_RB ;_: first_JJ to_TO the_DT writer_NN P.N._NNP Furbank_NNP ,_, and_CC then_RB to_TO Damien_NNP Parsons_NNP ,_, an_DT architect_NN ,_, settling_VBG in_IN Upottery_NNP ,_, near_IN Honiton_NNP ,_, England_NNP ._.
+From_IN the_DT later_JJ 1960s_CD she_PRP wrote_VBD full-time_JJ ._.
+She_PRP edited_VBD several_JJ significant_JJ anthologies_NNS ,_, broadcast_NN ,_, and_CC contributed_VBD to_TO literary_JJ reviews_NNS ._.

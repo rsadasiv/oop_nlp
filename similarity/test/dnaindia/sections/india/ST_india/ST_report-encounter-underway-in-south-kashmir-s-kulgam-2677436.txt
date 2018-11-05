@@ -1,0 +1,4 @@
+An_DT encounter_NN is_VBZ underway_JJ between_IN terrorists_NNS and_CC the_DT security_NN forces_NNS in_IN Larro_NNP area_NN of_IN Kulgam_NNP district_NN of_IN South_NNP Kashmir_NNP ._.
+One_CD or_CC two_CD terrorists_NNS are_VBP believed_VBN to_TO be_VB holed_VBN up_RP in_IN a_DT house_NN ._.
+The_DT encounter_NN comes_VBZ two_CD days_NNS after_IN two_CD terrorists_NNS were_VBD gunned_VBN down_RP when_WRB they_PRP tried_VBD to_TO attack_VB the_DT police_NN in_IN the_DT Kralhaar_NNP area_NN of_IN Baramulla_NNP district_NN in_IN north_JJ Kashmir_NNP ._.
+The_DT police_NN recovered_VBD two_CD AK-47_NNP rifles_NNS with_IN Under_IN Barrel_NNP Grenade_NNP Launcher_NNP ,_, three_CD grenades_NNS ,_, two_CD Chinese_JJ pistols_NNS and_CC other_JJ weapons_NNS from_IN their_PRP$ possession_NN ._.

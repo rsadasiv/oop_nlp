@@ -1,0 +1,6 @@
+Singer_NNP Demi_NNP Lovato_NNP ,_, who_WP has_VBZ been_VBN dealing_VBG with_IN bipolar_JJ disorder_NN for_IN several_JJ years_NNS ,_, thinks_VBZ it_PRP is_VBZ okay_JJ to_TO have_VB a_DT mental_JJ illness_NN ._.
+The_DT 22-year-old_JJ singer_NN launched_VBD her_PRP$ own_JJ campaign_NN aimed_VBN at_IN tackling_VBG the_DT negative_JJ stigma_NN against_IN mental_JJ illness_NN ,_, reported_VBD People_NNS magazine_NN ._.
+``_`` I_PRP just_RB think_VBP mental_JJ illness_NN is_VBZ something_NN people_NNS need_VBP to_TO learn_VB more_JJR about_IN ._.
+I_PRP want_VBP people_NNS to_TO know_VB it_PRP 's_VBZ okay_JJ to_TO ask_VB for_IN help_NN and_CC it_PRP 's_VBZ okay_JJ to_TO have_VB a_DT mental_JJ illness_NN ,_, ''_'' she_PRP said_VBD ._.
+The_DT chart-topping_JJ performer_NN ,_, who_WP was_VBD diagnosed_VBN as_IN bulimic_JJ ,_, bipolar_JJ and_CC addicted_VBN to_TO drugs_NNS and_CC alcohol_NN in_IN 2011_CD ,_, explained_VBD that_IN her_PRP$ father_NN ,_, Patrick_NNP ,_, suffered_VBD from_IN similar_JJ illnesses_NNS before_IN he_PRP passed_VBD away_RB in_IN 2013_CD ._.
+``_`` I_PRP watched_VBD him_PRP live_VB a_DT very_RB unfortunate_JJ life_NN because_IN of_IN the_DT lack_NN of_IN access_NN to_TO treatment_NN ,_, ''_'' she_PRP said_VBD ._.

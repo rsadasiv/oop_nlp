@@ -1,0 +1,188 @@
+The_DT
+body_NN
+of_PIN
+a_DT
+11-year-old_JJ
+boy_NN
+,_,
+whose_WPS
+throat_NN
+had_VBD [PEAS]
+been_VBN [BEMA]
+slit_PRED
+,_,
+was_VBD [PASS]
+found_VBN [PRIV]
+in_PIN
+a_DT
+house_NN
+in_PIN
+Ulhasnagar_NN
+township_NN
+in_PIN
+Maharashtra_NN
+'s_POS
+Thane_NN
+district_NN
+,_,
+police_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+body_NN
+of_PIN
+Harsh_NN
+Alhat_NN
+,_,
+student_NN
+of_PIN
+a_DT
+local_JJ
+school_NN
+,_,
+was_VBD [PASS]
+found_VBN [PRIV]
+at_PIN
+10pm_CD
+yesterday_TIME
+in_PIN
+a_DT
+house_NN
+some_QUAN
+distance_NN
+away_PLACE
+from_PIN
+the_DT
+victim_NN
+'s_POS
+residence_NN
+,_,
+a_DT
+police_NN
+official_NN
+said_VBD [PUBV]
+._.
+``_``
+The_DT
+boy_NN
+was_VBD [BEMA]
+with_PIN
+his_TPP3
+parents_NN
+till_IN
+late_TIME
+evening_GER
+yesterday_TIME
+._.
+We_FPP1
+suspect_VPRT [PRIV] [THATD]
+he_TPP3
+was_VBD
+abducted_NN
+and_CC
+then_RB
+killed_VBN
+with_PIN
+a_DT
+kitchen_NN
+knife_NN
+._.
+His_TPP3
+throat_NN
+was_VBD [BEMA]
+slit_PRED
+,_,
+''_''
+the_DT
+official_NN
+said_VBD [PUBV]
+._.
+Ulhasnagar_NN
+Zone_NN
+IV_NN
+Deputy_NN
+Commissioner_NN
+of_PIN
+Police_NN
+Ankit_NN
+Goyal_NN
+told_VBD
+PTI_NN
+that_TOBJ
+an_DT
+offence_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+registered_VBN
+against_PIN
+unidentified_JJ
+persons_NN
+under_IN
+sections_NOMZ
+302_CD
+-LRB-_-LRB-
+murder_NN
+-RRB-_-RRB-
+,_,
+364_CD
+-LRB-_-LRB-
+kidnapping_GER
+-RRB-_-RRB-
+and_ANDC
+342_CD
+-LRB-_-LRB-
+wrongful_JJ
+confinement_NOMZ
+-RRB-_-RRB-
+of_PIN
+the_DT
+Indian_JJ
+Penal_NN
+Code_NN
+._.
+Some_QUAN
+people_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+detained_VBN
+in_PIN
+connection_NOMZ
+with_PIN
+the_DT
+crime_NN
+and_CC
+are_VPRT
+being_VBG [PASS]
+questioned_VBD
+currently_RB
+,_,
+Goyal_NN
+informed_VBD
+._.
+He_TPP3
+said_VBD [PUBV]
+that_THVC
+police_NN
+teams_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+formed_VBN
+to_TO
+track_VB
+down_RP
+the_DT
+killers_NN
+and_PHC
+investigations_NOMZ
+were_VBD [BEMA]
+underway_PRED
+to_TO
+find_VB [PRIV]
+out_PIN
+the_DT
+motive_NN
+behind_PLACE
+the_DT
+crime_NN
+._.

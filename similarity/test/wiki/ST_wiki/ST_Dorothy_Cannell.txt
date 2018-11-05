@@ -1,0 +1,10 @@
+Dorothy_NNP Cannell_NNP is_VBZ an_DT English-American_JJ mystery_NN writer_NN ._.
+Dorothy_NNP Cannell_NNP was_VBD born_VBN in_IN London_NNP ,_, England_NNP ._.
+She_PRP moved_VBD to_TO the_DT United_NNP States_NNPS in_IN 1963_CD at_IN the_DT age_NN of_IN 20_CD ._.
+She_PRP married_VBD Julian_NNP Cannell_NNP in_IN 1964_CD and_CC they_PRP lived_VBD in_IN Peoria_NNP ,_, Illinois_NNP ,_, for_IN many_JJ years_NNS before_IN moving_VBG to_TO Belfast_NNP ,_, Maine_NNP ._.
+She_PRP is_VBZ a_DT mother_NN of_IN four_CD and_CC a_DT grandmother_NN of_IN ten_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Cannell_NNP writes_VBZ mysteries_NNS featuring_VBG Ellie_NNP Haskell_NNP ,_, interior_JJ decorator_NN ,_, and_CC Ben_NNP Haskell_NNP ,_, writer_NN and_CC chef_NN ,_, and_CC Hyacinth_NNP and_CC Primrose_NNP Tramwell_NNP ,_, a_DT pair_NN of_IN dotty_JJ sisters_NNS and_CC owners_NNS of_IN the_DT Flowers_NNP Detection_NNP Agency_NNP ._.
+Her_PRP$ first_JJ Ellie_NNP Haskell_NNP novel_NN ,_, The_DT Thin_NNP Woman_NNP ,_, was_VBD selected_VBN as_IN one_CD of_IN the_DT ``_`` 100_CD Favorite_NNP Mysteries_NNPS of_IN the_DT Twentieth_NNP Century_NNP ''_'' by_IN the_DT Independent_NNP Mystery_NNP Booksellers_NNP Association_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Cannell_NNP 's_POS 1988_CD novel_NN The_DT Widows_NNP Club_NNP was_VBD nominated_VBN for_IN the_DT ``_`` Best_JJS Novel_NN ''_'' award_NN at_IN the_DT 1989_CD Anthony_NNP Awards_NNPS and_CC the_DT Agatha_NNP Awards_NNPS in_IN the_DT same_JJ year_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB- She_PRP was_VBD also_RB nominated_VBN for_IN a_DT ``_`` Best_JJS Short_JJ Story_NNP ''_'' Agatha_NNP Award_NNP in_IN 1991_CD ,_, for_IN ``_`` The_NNP High_NNP Cost_NN of_IN Living_VBG ''_'' ;_: 1992_CD ,_, for_IN ``_`` The_DT January_NNP Sales_NNS Stowaway_NNP ''_'' ;_: and_CC 1996_CD ,_, for_IN ``_`` Cupid_NNP 's_POS Arrow_NNP ''_'' ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 8_CD -RRB-_-RRB- In_IN 2014_CD Cannell_NNP received_VBD the_DT Malice_NNP Domestic_NNP Award_NNP for_IN Lifetime_NNP Achievement_NNP ._.

@@ -1,0 +1,651 @@
+Actress_NN
+Neena_NN
+Gupta_NN
+,_,
+who_WP
+has_VPRT [PEAS]
+essayed_VBN
+roles_NN
+on-screen_JJ
+that_THAC
+have_VPRT [PEAS]
+challenged_VBN
+social_JJ
+norms_NN
+,_,
+in_PIN
+real_JJ
+life_NN
+,_,
+says_VPRT [PUBV]
+that_THVC
+men_NN
+became_VBD
+a_DT
+priority_NOMZ
+and_CC
+her_TPP3
+focus_NN
+shifted_VBD
+from_PIN
+career_NN
+to_TO
+finding_VBG [PRIV]
+the_DT
+right_JJ
+partner_NN
+._.
+The_DT
+64-year-old_JJ
+actress_NN
+,_,
+who_WP
+is_VPRT [PASS]
+known_VBN [PRIV]
+for_PIN
+her_TPP3
+performance_NN
+in_PIN
+TV_NN
+shows_NN
+,_,
+including_VBG
+Khandaan_NN
+,_,
+Bharat_NN
+Ek_NN
+Khoj_NN
+and_PHC
+Saans_NN
+and_PHC
+films_NN
+such_JJ
+as_IN
+Woh_NN
+Chokri_NN
+,_,
+Gandhi_NN
+and_PHC
+Muhafiz_NN
+,_,
+says_VPRT [PUBV]
+her_TPP3
+desire_NN
+to_TO
+have_VB
+a_DT
+healthy_JJ
+relationship_NN
+diverted_VBD
+her_TPP3
+attention_NOMZ
+from_PIN
+work_NN
+._.
+``_``
+I_FPP1
+always_RB
+wanted_VBD
+to_TO
+do_VB [PROD]
+good_JJ
+work_NN
+and_CC
+play_VB
+strong_JJ
+parts_NN
+._.
+But_CC
+when_RB
+I_FPP1
+look_VPRT
+back_RB
+now_TIME
+,_,
+I_FPP1
+feel_VPRT [PRIV] [THATD]
+men_NN
+became_VBD
+my_FPP1
+priority_NOMZ
+and_CC
+it_PIT
+was_VBD [BEMA]
+a_DT
+big_JJ
+mistake_NN
+._.
+My_FPP1
+focus_NN
+shifted_VBD
+from_PIN
+career_NN
+to_TO
+finding_VBG [PRIV]
+the_DT
+right_JJ
+man_NN
+._.
+Men_NN
+should_NEMD [SPAU]
+never_RB
+be_VB [BEMA]
+the_DT
+prime_JJ
+focus_NN
+of_PIN
+women_NN
+'s_POS
+life_NN
+,_,
+''_''
+Neena_NN
+Gupta_NN
+told_VBD
+PTI_NN
+._.
+``_``
+I_FPP1
+was_VBD
+doing_VBG
+really_EMPH
+well_RB
+._.
+I_FPP1
+was_VBD
+writing_VBG [PUBV]
+,_,
+directing_VBG
+and_PHC
+producing_VBG
+some_QUAN
+great_JJ
+things_NN
+on_PIN
+television_NN
+._.
+What_WP
+I_FPP1
+went_VBD
+through_PIN
+in_PIN
+personal_JJ
+life_NN
+had_VBD
+a_DT
+big_JJ
+impression_NN
+on_PIN
+my_FPP1
+professional_JJ
+choices_NN
+,_,
+''_''
+she_TPP3
+added_VBD [PUBV]
+._.
+The_DT
+veteran_NN
+actress_NN
+believes_VPRT [PRIV] [THATD]
+women_NN
+are_VPRT [PASS]
+conditioned_VBN
+to_TO
+keep_VB
+their_TPP3
+relationships_NN
+above_PLACE
+their_TPP3
+personal_JJ
+goals_NN
+._.
+``_``
+As_IN
+women_NN
+,_,
+we_FPP1
+always_RB
+crave_VPRT
+for_PIN
+family_NN
+and_CC
+a_DT
+loving_JJ
+partner_NN
+and_CC
+in_PIN
+our_FPP1
+quest_NN
+to_TO
+find_VB [PRIV]
+that_THVC
+happy_JJ
+space_NN
+we_FPP1
+overlook_VPRT
+a_EMPH
+lot_NULL
+of_PIN
+things_NN
+._.
+I_FPP1
+now_TIME
+understand_VPRT [PRIV] [THATD]
+I_FPP1
+should_NEMD
+have_VB [PEAS]
+prioritised_VBN
+things_NN
+better_JJ
+,_,
+''_''
+she_TPP3
+added_VBD [PUBV]
+._.
+The_DT
+mother_NN
+of_PIN
+famous_JJ
+designer_NN
+,_,
+Masaba_NN
+Gupta_NN
+,_,
+Neena_NN
+also_RB
+went_VBD
+on_PIN
+to_TO
+say_VB [PUBV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+still_RB
+hard_PRED
+for_PIN
+women_NN
+to_TO
+have_VB
+a_DT
+life_NN
+they_TPP3
+aspire_VPRT
+to_TO
+and_CC
+be_VB [BEMA]
+with_PIN
+a_DT
+man_NN
+who_WP [WHSUB]
+treats_VPRT
+them_TPP3
+as_IN
+an_DT
+individual_NN
+._.
+``_``
+It_PIT
+is_VPRT [BEMA]
+close_PRED
+to_PIN
+impossible_JJ
+to_TO
+find_VB [PRIV]
+a_DT
+man_NN
+who_WP [WHSUB]
+can_POMD
+bear_VB
+with_PIN
+a_DT
+woman_NN
+,_,
+who_WP
+is_VPRT [BEMA]
+a_DT
+notch_NN
+above_PLACE
+or_CC
+equal_JJ
+to_PIN
+him_TPP3
+._.
+Such_JJ
+men_NN
+are_VPRT
+still_RB
+not_XX0
+there_RB
+in_PIN
+this_DEMO
+world_NN
+._.
+It_PIT
+is_VPRT
+like_IN
+we_FPP1
+will_PRMD [SPAU]
+always_RB
+be_VB
+facing_VBG
+trouble_NN
+in_PIN
+our_FPP1
+lives_NN
+._.
+If_COND
+we_FPP1
+act_VPRT
+strong_JJ
+it_PIT
+is_VPRT [BEMA]
+a_DT
+problem_NN
+,_,
+and_ANDC
+if_COND
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+it_PIT
+is_VPRT [BEMA]
+a_DT
+problem_NN
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+if_COND
+any_QUAN
+woman_NN
+is_VPRT [BEMA]
+completely_AMP
+happy_PRED
+with_PIN
+the_DT
+way_NN
+she_TPP3
+leads_VPRT
+her_TPP3
+life_NN
+or_CC
+with_PIN
+the_DT
+way_NN
+people_NN
+treat_VB
+her_TPP3
+,_,
+''_''
+she_TPP3
+further_RB
+said_VBD [PUBV]
+._.
+The_DT
+actress_NN
+,_,
+however_CONJ
+,_,
+believes_VPRT [PRIV]
+#MeToo_NN
+movement_NOMZ
+in_PIN
+India_NN
+will_PRMD
+change_VB
+the_DT
+status_NN
+quo_NN
+._.
+''_''
+#MeToo_NN
+has_VPRT [PEAS]
+shaken_VBN
+the_DT
+whole_JJ
+industry_NN
+._.
+But_CC
+the_DT
+sad_JJ
+part_NN
+is_VPRT
+that_DEMO
+it_PIT
+is_VPRT [BEMA]
+so_EMPH
+hard_PRED
+to_TO
+prove_VB [PRIV]
+such_JJ
+incidents_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+been_VBN [BEMA]
+on_PIN
+my_FPP1
+own_JJ
+for_PIN
+the_DT
+longest_JJ
+time_NN
+and_CC
+have_VPRT [PEAS]
+faced_VBN
+a_EMPH
+lot_NULL
+of_PIN
+such_JJ
+incidents_NN
+during_PIN
+my_FPP1
+days_NN
+in_PIN
+college_NN
+,_,
+National_NN
+School_NN
+of_PIN
+Drama_NN
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+how_RB [WHCL]
+we_FPP1
+can_POMD
+get_VB
+a_DT
+proof_NN
+of_PIN
+a_DT
+person_NN
+groping_VBG [WZPRES]
+us_FPP1
+or_CC
+touching_VBG
+us_FPP1
+inappropriately_RB
+._.
+All_QUAN
+we_FPP1
+could_POMD
+do_VB [PROD]
+at_PIN
+that_DEMO
+time_NN
+was_VBD
+get_VB
+used_VBN
+to_PIN
+it_PIT
+or_CC
+try_VB
+our_FPP1
+best_JJ
+to_TO
+avoid_VB
+it_PIT
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+She_TPP3
+hopes_VPRT [PRIV] [THATD]
+the_DT
+movement_NOMZ
+will_PRMD [SPAU]
+probably_RB
+instill_VB
+some_QUAN
+fear_NN
+in_PIN
+people_NN
+who_WP [WHSUB]
+abuse_VPRT
+their_TPP3
+power_NN
+._.
+``_``
+I_FPP1
+am_VPRT [BEMA]
+hopeful_PRED
+that_THAC
+some_QUAN
+change_NN
+will_PRMD
+come_VB
+._.
+The_DT
+movement_NOMZ
+will_PRMD
+be_VB [BEMA]
+able_PRED
+to_TO
+instill_VB
+some_QUAN
+fear_NN
+._.
+But_CC
+it_PIT
+will_PRMD
+take_VB
+time_NN
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+actress_NN
+,_,
+who_WP
+will_PRMD [SPAU]
+next_RB
+be_VB [PASS]
+seen_VBN [PRIV]
+in_PIN
+Badhaai_NN
+Ho_NN
+,_,
+said_VBD [PUBV]
+to_TO
+change_VB
+the_DT
+way_NN
+men_NN
+treat_VPRT
+women_NN
+,_,
+society_NN
+,_,
+especially_RB
+mothers_NN
+,_,
+need_VPRT
+to_TO
+get_VB
+rid_JJ
+of_PIN
+the_DT
+patriarchal_JJ
+mindset_NN
+._.
+``_``
+Men_NN
+can_POMD [SPAU]
+only_DWNT
+change_VB
+if_COND
+they_TPP3
+are_VPRT [PASS]
+taught_VBN
+right_JJ
+things_NN
+by_PIN
+their_TPP3
+mothers_NN
+._.
+I_FPP1
+hope_VPRT [PRIV]
+the_DT
+coming_VBG
+generations_NOMZ
+of_PIN
+men_NN
+will_PRMD
+be_VB [BEMA]
+much_QUAN
+more_EMPH
+sensitive_JJ
+towards_PIN
+women_NN
+._.
+Sadly_RB
+mothers_NN
+of_PIN
+my_FPP1
+age_NN
+still_RB
+have_VPRT
+the_DT
+same_JJ
+patriarchal_JJ
+mindset_NN
+,_,
+''_''
+she_TPP3
+went_VBD
+on_PIN
+to_TO
+say_VB [PUBV]
+._.
+Badhaai_NN
+Ho_NN
+,_,
+directed_VBN [PASTP]
+by_PIN
+Amit_NN
+Sharma_NN
+and_CC
+also_RB
+featuring_VBG
+Ayushmann_NN
+Khurrana_NN
+,_,
+Sanya_NN
+Malhotra_NN
+,_,
+Gajraj_NN
+Rao_NN
+,_,
+releases_NN
+on_PIN
+October_NN
+18_CD
+._.

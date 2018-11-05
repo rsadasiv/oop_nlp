@@ -1,0 +1,19 @@
+Peter_NNP Armstrong_NNP -LRB-_-LRB- born_VBN in_IN 1957_CD in_IN Blaydon_NNP ,_, County_NNP Durham_NNP ,_, England_NNP -RRB-_-RRB- is_VBZ a_DT poet_NN and_CC psychotherapist_NN ._.
+Armstrong_NNP was_VBD educated_VBN at_IN local_JJ schools_NNS and_CC then_RB read_VB philosophy_NN and_CC English_NNP at_IN Sunderland_NNP Polytechnic_NNP -LRB-_-LRB- now_RB the_DT University_NNP of_IN Sunderland_NNP -RRB-_-RRB- ._.
+While_IN at_IN polytechnic_NN ,_, he_PRP was_VBD converted_VBN from_IN Roman_JJ Catholicism_NNP to_TO Evangelical_NNP Protestantism_NNP ,_, but_CC more_RBR recently_RB has_VBZ described_VBN himself_PRP as_IN an_DT ``_`` Anglo-Catholic_JJ agnostic_JJ ''_'' ._.
+He_PRP trained_VBD as_IN a_DT teacher_NN but_CC then_RB turned_VBD to_TO psychiatric_JJ nursing_NN ,_, and_CC now_RB works_VBZ as_IN a_DT cognitive_JJ behavioural_JJ psychotherapist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP lives_VBZ in_IN Stocksfield_NNP ,_, Northumberland_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Armstrong_NNP began_VBD to_TO publish_VB his_PRP$ poetry_NN in_IN the_DT late_JJ 1970s_NNS ,_, contributing_VBG to_TO magazines_NNS and_CC to_TO Ten_CD North-East_NNP Poets_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- The_DT Firebox_NNP ._.
+Poetry_NNP in_IN Britain_NNP and_CC Ireland_NNP after_IN 1945_CD ,_, -LRB-_-LRB- 4_LS -RRB-_-RRB- and_CC Last_JJ Words_NNS :_: New_NNP Poetry_NNP for_IN the_DT New_NNP Century_NNP ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- and_CC other_JJ collections_NNS ._.
+He_PRP won_VBD an_DT Eric_NNP Gregory_NNP Award_NNP from_IN the_DT Society_NNP of_IN Authors_NNPS in_IN 1984_CD ._.
+His_PRP$ first_JJ volume_NN of_IN poetry_NN ,_, Risings_NNP ,_, appeared_VBD in_IN 1988_CD and_CC has_VBZ been_VBN followed_VBN by_IN three_CD others_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Armstrong_NNP is_VBZ one_CD of_IN the_DT editors_NNS of_IN the_DT Newcastle-based_JJ magazine_NN Other_JJ Poetry_NNP ,_, which_WDT was_VBD revived_VBN in_IN 1995_CD and_CC appears_VBZ three_CD times_NNS a_DT year_NN ._.
+He_PRP is_VBZ also_RB a_DT member_NN of_IN the_DT Northern_NNP Poets_NNP '_POS Workshop_NNP ._.
+His_PRP$ work_NN is_VBZ marked_VBN by_IN joint_JJ preoccupations_NNS with_IN religion_NN and_CC the_DT landscape_NN --_: of_IN his_PRP$ native_JJ North-East_NNP ,_, but_CC also_RB of_IN the_DT Hebrides_NNPS and_CC of_IN a_DT notional_JJ American_JJ drawn_VBN from_IN road_NN movies_NNS and_CC cigarette_NN advertising_NN ._.
+His_PRP$ verse_NN has_VBZ been_VBN influenced_VBN more_RBR recently_RB by_IN his_PRP$ work_NN as_IN a_DT cognitive_JJ therapist_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Source_NN :_: British_JJ Library_NNP Integrated_NNP Catalogue_NNP :_: Five_CD poems_NNS by_IN Peter_NNP Armstrong_NNP -LRB-_-LRB- born_VBN 1939_CD -RRB-_-RRB- appeared_VBD in_IN 1969_CD in_IN the_DT anthology_NN Children_NNP of_IN Albion_NNP :_: Poetry_NNP of_IN the_DT Underground_JJ in_IN Britain_NNP ,_, edited_VBN by_IN Michael_NNP Horovitz_NNP and_CC dedicated_VBN to_TO Allen_NNP Ginsberg_NNP ._.
+These_DT were_VBD taken_VBN from_IN the_DT booklet_NN 28_CD Poems_NNP -LRB-_-LRB- Bristol_NNP :_: View_NNP Publications_NNP ,_, 1966_CD -RRB-_-RRB- ._.
+Otterburn_NNP 1388_CD ._.
+Bloody_JJ Border_NN Conflict_NN by_IN Peter_NNP Armstrong_NNP -LRB-_-LRB- Illustrated_NNP by_IN Stephen_NNP Walsh_NNP ._.
+Oxford_NNP :_: Osprey_NNP ,_, 2006_CD ._.
+ISBN_NNP 1-84176-980-0_CD -RRB-_-RRB- tells_VBZ the_DT story_NN of_IN a_DT medieval_JJ battle_NN between_IN England_NNP and_CC Scotland_NNP ._.

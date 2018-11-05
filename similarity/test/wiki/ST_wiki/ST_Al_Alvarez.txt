@@ -1,0 +1,14 @@
+Alfred_NNP Alvarez_NNP -LRB-_-LRB- born_VBN 5_CD August_NNP 1929_CD -RRB-_-RRB- is_VBZ an_DT English_JJ poet_NN ,_, novelist_NN ,_, essayist_NN and_CC critic_NN who_WP publishes_VBZ under_IN the_DT name_NN A._NN Alvarez_NNP and_CC Al_NNP Alvarez_NNP ._.
+Alfred_NNP Alvarez_NNP was_VBD born_VBN in_IN London_NNP ,_, to_TO an_DT English_JJ mother_NN and_CC father_NN of_IN Spanish_JJ descent_NN ._.
+He_PRP was_VBD educated_VBN at_IN The_DT Hall_NNP School_NNP in_IN Hampstead_NNP ,_, London_NNP ,_, and_CC then_RB Oundle_NNP School_NNP and_CC Corpus_NNP Christi_NNP College_NNP ,_, Oxford_NNP ,_, where_WRB he_PRP took_VBD a_DT First_NNP in_IN English_NNP ._.
+He_PRP was_VBD subsequently_RB elected_VBN as_IN a_DT Jane_NNP Eliza_NNP Procter_NNP Visiting_VBG Fellow_NNP at_IN Princeton_NNP University_NNP ._.
+After_IN teaching_VBG briefly_NN in_IN Oxford_NNP and_CC the_DT United_NNP States_NNPS ,_, he_PRP became_VBD a_DT full-time_JJ writer_NN in_IN his_PRP$ late_JJ twenties_NNS ._.
+From_IN 1956_CD to_TO 1966_CD ,_, he_PRP was_VBD the_DT poetry_NN editor_NN and_CC critic_NN for_IN The_DT Observer_NNP ,_, where_WRB he_PRP introduced_VBD British_JJ readers_NNS to_TO John_NNP Berryman_NNP ,_, Robert_NNP Lowell_NNP ,_, Sylvia_NNP Plath_NNP ,_, Zbigniew_NNP Herbert_NNP ,_, and_CC Miroslav_NNP Holub_NNP ._.
+Alvarez_NNP is_VBZ the_DT author_NN of_IN many_JJ non-fiction_JJ books_NNS ._.
+He_PRP is_VBZ best_RB known_VBN for_IN his_PRP$ study_NN of_IN suicide_NN ,_, The_DT Savage_NNP God_NNP ,_, which_WDT gained_VBD added_VBN resonance_NN from_IN his_PRP$ friendship_NN with_IN Plath_NNP ._.
+He_PRP has_VBZ also_RB written_VBN on_IN divorce_NN -LRB-_-LRB- Life_NNP After_IN Marriage_NNP -RRB-_-RRB- ,_, dreams_VBZ -LRB-_-LRB- Night_NNP -RRB-_-RRB- ,_, and_CC the_DT oil_NN industry_NN -LRB-_-LRB- Offshore_NNP -RRB-_-RRB- ,_, as_RB well_RB as_IN his_PRP$ hobbies_NNS of_IN poker_NN -LRB-_-LRB- The_DT Biggest_JJS Game_NN In_NNP Town_NNP -RRB-_-RRB- and_CC mountaineering_VBG -LRB-_-LRB- Feeding_NNP the_DT Rat_NNP ,_, a_DT profile_NN of_IN his_PRP$ frequent_JJ climbing_VBG partner_NN Mo_NNP Anthoine_NNP -RRB-_-RRB- ._.
+His_PRP$ 1999_CD autobiography_NN is_VBZ entitled_VBN Where_WRB Did_VBD It_PRP All_DT Go_NNP Right_NNP ?_.
+His_PRP$ 1962_CD poetry_NN anthology_NN The_DT New_NNP Poetry_NNP was_VBD hailed_VBN at_IN the_DT time_NN as_IN a_DT fresh_JJ departure_NN ._.
+It_PRP championed_VBD the_DT American_JJ style_NN ,_, in_IN relation_NN to_TO the_DT perceived_VBN excessive_JJ `_`` gentility_NN '_'' of_IN British_JJ poetry_NN of_IN the_DT time_NN ._.
+In_IN 2010_CD he_PRP was_VBD awarded_VBN the_DT A.C._NNP Benson_NNP Medal_NNP by_IN the_DT Royal_NNP Society_NNP of_IN Literature_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Alvarez_NNP was_VBD portrayed_VBN by_IN Jared_NNP Harris_NNP in_IN the_DT 2003_CD film_NN Sylvia_NNP ,_, which_WDT chronicles_VBZ the_DT troubled_JJ relationship_NN between_IN Plath_NNP and_CC her_PRP$ husband_NN Ted_NNP Hughes_NNP ._.

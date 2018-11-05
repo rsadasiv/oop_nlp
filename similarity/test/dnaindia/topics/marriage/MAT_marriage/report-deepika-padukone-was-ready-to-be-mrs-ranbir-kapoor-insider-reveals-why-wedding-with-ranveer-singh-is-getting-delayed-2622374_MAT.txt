@@ -1,0 +1,410 @@
+Bollywood_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+abuzz_PRED
+with_PIN
+Deepika_NN
+Padukone_NN
+and_PHC
+Ranveer_NN
+Singh_NN
+'s_POS
+impending_JJ
+marriage_NN
+rumors_NN
+since_OSUB
+more_EMPH
+than_PIN
+a_DT
+year_NN
+._.
+Though_CONC
+the_DT
+actors_NN
+themselves_TPP3
+never_RB
+confirmed_VBD [PUBV]
+it_PIT
+,_,
+insiders_NN
+had_VBD
+it_PIT
+that_DEMO
+the_DT
+couple_NN
+would_PRMD
+tie_VB
+the_DT
+knot_NN
+by_PIN
+the_DT
+end_NN
+of_PIN
+2018_CD
+in_PIN
+Switzerland_NN
+._.
+However_CONJ
+,_,
+it_PIT
+now_TIME
+seems_VPRT [SMP]
+the_DT
+wedding_GER
+might_POMD
+get_VB
+further_JJ
+delayed_VBN
+._.
+As_IN
+per_PIN
+a_DT
+recent_JJ
+report_NN
+in_PIN
+Deccan_NN
+Chronicle_NN
+,_,
+`_``
+DeepVeer_NN
+'_''
+fans_NN
+might_POMD
+have_VB
+to_TO
+wait_VB
+a_DT
+little_RB
+longer_JJ
+to_TO
+hear_VB [PRIV]
+the_DT
+wedding_GER
+bells_NN
+of_PIN
+the_DT
+power_NN
+couple_NN
+because_CAUS
+Deepika_NN
+is_VPRT [PASS]
+rumored_VBN
+to_TO
+be_VB
+getting_VBG
+cold-feet_NN
+._.
+While_OSUB
+Ranveer_NN
+is_VPRT [BEMA]
+ready_PRED
+to_TO
+say_VB [PUBV]
+``_``
+I_FPP1
+do_VPRT [PROD]
+''_''
+,_,
+the_DT
+actress_NN
+is_VPRT [SPAU]
+reportedly_RB
+having_VBG
+commitment_NOMZ
+issues_NN
+._.
+oeRanveer_NN
+is_VPRT [SPAU] [PASS]
+completely_AMP
+committed_VBN
+to_PIN
+the_DT
+relationship_NN
+and_CC
+wholeheartedly_RB
+devoted_VBN
+to_PIN
+her_TPP3
+._.
+But_CC
+Deepika_NN
+fears_VPRT [PRIV] [THATD]
+her_TPP3
+heart_NN
+may_POMD
+be_VB [PASS]
+broken_VBN
+again_TIME
+and_CC
+this_DEMO
+time_NN
+she_TPP3
+won_VBD
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+be_VB [BEMA]
+able_PRED
+to_TO
+take_VB
+it_PIT
+,_,
+''_''
+a_DT
+director_NN
+friend_NN
+of_PIN
+Deepika_NN
+told_VBD
+the_DT
+daily_JJ
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+not_XX0
+a_DT
+hidden_JJ
+fact_NN
+that_TOBJ
+Deepika_NN
+Padukone_NN
+has_VPRT
+earlier_TIME
+dated_JJ
+Ranbir_NN
+Kapoor_NN
+._.
+Their_TPP3
+break-up_NN
+had_VBD [PEAS]
+had_VBN
+an_DT
+adverse_JJ
+affect_VB
+on_PIN
+DP_NN
+'s_POS
+emotional_JJ
+health_NN
+and_ANDC
+while_OSUB
+Ranbir_NN
+has_VPRT [SPAU] [PEAS]
+clearly_RB
+moved_VBN [SUAV]
+on_PIN [STPR]
+,_,
+Deepika_NN
+has_VPRT [PEAS]
+n't_XX0 [CONT]
+really_EMPH
+been_VBN [BEMA]
+able_PRED
+to_TO
+make_VB
+peace_NN
+with_PIN
+her_TPP3
+past_NN
+._.
+The_DT
+actress_NN
+is_VPRT [BEMA]
+still_RB
+reluctant_PRED
+to_TO [SPIN]
+completely_AMP
+commit_VB
+herself_TPP3
+into_PIN
+a_DT
+romantic_JJ
+relationship_NN
+._.
+oeShe_NN
+was_VBD
+looking_VBG
+at_PIN
+a_DT
+life_NN
+ahead_PLACE
+with_PIN
+Ranbir_NN
+._.
+She_TPP3
+wanted_VBD
+marriage_NN
+and_PHC
+babies_NN
+and_CC
+was_VBD [BEMA]
+even_RB
+ready_PRED
+to_TO
+give_VB
+up_RP
+her_TPP3
+career_NN
+to_TO
+be_VB
+Mrs_NN
+Ranbir_NN
+Kapoor_NN
+._.
+They_TPP3
+broke_VBD
+up_RB
+and_CC
+Ranbir_NN
+moved_VBD [SUAV]
+on_PIN [STPR]
+,_,
+''_''
+a_DT
+close_JJ
+friend_NN
+told_VBD
+Deccan_NN
+Chronicle_NN
+._.
+Earlier_TIME
+while_OSUB
+speaking_VBG
+to_PIN
+a_DT
+leading_VBG
+daily_JJ
+during_PIN
+the_DT
+promotions_NOMZ
+of_PIN
+Tamasha_NN
+,_,
+when_RB
+Deepika_NN
+was_VBD [PASS]
+asked_VBN [SUAV]
+if_COND
+she_TPP3
+still_RB
+loves_VPRT
+Ranbir_NN
+Kapoor_NN
+,_,
+she_TPP3
+had_VBD [PEAS]
+said_VBN [PUBV]
+,_,
+``_``
+Of_PIN
+course_NN
+I_FPP1
+do_VPRT
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+think_VB [PRIV]
+that_THVC
+every_QUAN
+feeling_GER
+has_VPRT
+to_TO
+be_VB [PASS]
+broken_VBN
+down_RP
+as_IN
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+believe_VB [PRIV]
+that_THVC
+emotions_NOMZ
+are_VPRT [BEMA]
+unidimensional_JJ
+anyway_RB
+._.
+Feelings_GER
+and_PHC
+emotions_NOMZ
+are_VPRT [BEMA]
+very_AMP
+layered_PRED
+._.
+''_''
+After_IN
+this_DEMO
+latest_JJ
+piece_NN
+of_PIN
+information_NOMZ
+,_,
+we_FPP1
+are_VPRT [BEMA]
+sure_PRED
+the_DT
+fans_NN
+of_PIN
+the_DT
+actors_NN
+will_PRMD
+believe_VB [PRIV]
+the_DT
+actors_NN
+'_POS
+wedding_GER
+news_NN
+only_DWNT
+when_RB
+the_DT
+actors_NN
+themselves_TPP3
+confirm_VPRT [PUBV]
+it_PIT
+and_CC
+not_XX0
+``_``
+a_DT
+source_NN
+._.
+''_''
+On_PIN
+the_DT
+work_NN
+front_NN
+,_,
+Ranveer_NN
+Singh_NN
+is_VPRT [SPAU]
+currently_RB
+filming_VBG
+Gully_NN
+Boy_NN
+and_CC
+has_VPRT [SPAU] [PEAS]
+also_RB
+signed_VBN
+up_RP
+for_PIN
+Rohit_NN
+Shetty_NN
+'s_POS
+Simmba_NN
+and_PHC
+Kabir_NN
+Khan_NN
+'s_POS
+'_''
+83_CD
+._.
+Deepika_NN
+Padukone_NN
+has_VPRT [PEAS]
+n't_XX0 [CONT]
+announced_VBD [PUBV]
+her_TPP3
+next_JJ
+project_NN
+yet_RB
+._.

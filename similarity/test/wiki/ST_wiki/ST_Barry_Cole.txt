@@ -1,0 +1,12 @@
+Barry_NNP Cole_NNP -LRB-_-LRB- 13_CD November_NNP 1936_CD ''_'' 26_CD June_NNP 2014_CD -RRB-_-RRB- was_VBD a_DT British_JJ poet_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Cole_NNP was_VBD born_VBN in_IN Woking_NNP ,_, Surrey_NNP ,_, and_CC was_VBD educated_VBN at_IN Balham_NNP Secondary_JJ School_NNP in_IN London_NNP ._.
+He_PRP did_VBD military_JJ service_NN in_IN the_DT Royal_NNP Air_NNP Force_NNP from_IN 1955_CD to_TO 1957_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ subsequent_JJ career_NN included_VBD 1958_CD employment_NN with_IN Reuters_NNP news_NN agency_NN in_IN London_NNP ,_, working_VBG as_IN a_DT reporter_NN -LRB-_-LRB- 1965_CD ``_`` 70_CD -RRB-_-RRB- ,_, as_IN a_DT senior_JJ editor_NN -LRB-_-LRB- 1974_CD ``_`` 94_CD -RRB-_-RRB- at_IN the_DT Central_NNP Office_NNP of_IN Information_NNP ,_, London_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD Northern_JJ Arts_NNS Fellow_NNP at_IN the_DT University_NNP of_IN Newcastle-upon-Tyne_NNP and_CC Durham_NNP University_NNP -LRB-_-LRB- 1970_CD ``_`` 72_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP published_VBD several_JJ collections_NNS of_IN poems_NNS and_CC four_CD novels_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- His_PRP$ 1968_CD poetry_NN collection_NN ,_, Moonsearch_NNP ,_, was_VBD a_DT Poetry_NNP Book_NNP Society_NNP recommendation_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 2015_CD ,_, Shoestring_NNP Press_NNP published_VBD a_DT festschrift_NN celebrating_VBG his_PRP$ life_NN ,_, edited_VBN by_IN John_NNP Lucas_NNP ._.
+This_DT included_VBD poems_NNS ,_, a_DT story_NN ,_, photographs_NNS ,_, essays_NNS and_CC Cole_NNP 's_POS final_JJ ,_, innovative_JJ sequence_NN of_IN 13_CD poems_NNS ,_, Broken_NNP Sonnets_NNPS ,_, which_WDT are_VBP marked_VBN by_IN the_DT use_NN of_IN ellipses_NNS to_TO suggest_VB gaps_NNS of_IN memory_NN or_CC words_NNS that_WDT are_VBP too_RB painful_JJ to_TO be_VB given_VBN expression_NN ._.
+In_IN 1959_CD ,_, he_PRP married_VBD Rita_NNP Linihan_NNP -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC they_PRP had_VBD three_CD daughters_NNS ,_, Celia_NNP ,_, Rebecca_NNP ,_, and_CC Jessica_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- He_PRP was_VBD a_DT close_JJ friend_NN of_IN the_DT writer_NN Bryan_NNP Johnson_NNP ,_, whose_WP$ 1973_CD suicide_NN had_VBD a_DT traumatic_JJ effect_NN on_IN Cole_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Poetry_NNP Novels_NNS

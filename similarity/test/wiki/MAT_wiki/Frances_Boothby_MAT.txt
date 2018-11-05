@@ -1,0 +1,74 @@
+Frances_NN
+Boothby_NN
+-LRB-_-LRB-
+floruit_JJ
+1669_CD
+``_``
+1670_CD
+-RRB-_-RRB-
+was_VBD [BEMA]
+an_DT
+English_JJ
+playwright_NN
+,_,
+the_DT
+first_JJ
+woman_NN
+to_TO
+have_VB
+a_DT
+play_NN
+produced_VBN [WZPAST]
+in_PIN
+London_NN
+;_:
+her_TPP3
+tragicomedy_NN
+Marcelia_NN
+,_,
+or_CC
+,_,
+The_DT
+Treacherous_NN
+Friend_NN
+-LRB-_-LRB-
+published_VBN
+1670_CD
+-RRB-_-RRB-
+was_VBD [BYPA]
+performed_VBN
+by_PIN
+the_DT
+King_NN
+'s_POS
+Company_NN
+at_PIN
+the_DT
+Theatre_NN
+Royal_NN
+in_PIN
+1669_CD
+._.
+The_DT
+plot_NN
+involves_VPRT
+romantic_JJ
+difficulties_NN
+and_PHC
+deceit_NN
+._.
+It_PIT
+is_VPRT [BEMA]
+her_TPP3
+only_DWNT
+work_NN
+extant_NN
+,_,
+and_ANDC
+little_JJ
+else_JJ
+is_VPRT [PASS]
+known_VBN [PRIV]
+of_PIN
+her_TPP3
+._.

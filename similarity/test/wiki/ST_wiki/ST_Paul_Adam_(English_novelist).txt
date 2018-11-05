@@ -1,0 +1,6 @@
+Paul_NNP Adam_NNP -LRB-_-LRB- born_VBN 1958_CD in_IN Coventry_NNP -RRB-_-RRB- is_VBZ an_DT English_JJ writer_NN of_IN novels_NNS for_IN both_DT adults_NNS and_CC younger_JJR readers_NNS ._.
+Adam_NNP moved_VBD to_TO Sheffield_NNP before_IN the_DT age_NN of_IN one_CD ._.
+He_PRP studied_VBD law_NN at_IN the_DT University_NNP of_IN Nottingham_NNP ,_, then_RB began_VBD a_DT career_NN in_IN journalism_NN ,_, working_VBG both_DT in_IN England_NNP ,_, in_IN his_PRP$ childhood_NN town_NN of_IN Sheffield_NNP ,_, and_CC Rome_NNP ._.
+Since_IN then_RB he_PRP has_VBZ written_VBN 11_CD critically_RB acclaimed_JJ thrillers_NNS for_IN adults_NNS and_CC the_DT Max_NNP Cassidy_NNP series_NN of_IN thrillers_NNS for_IN younger_JJR readers_NNS about_IN a_DT teenage_JJ escapologist_NN ,_, the_DT first_JJ of_IN which_WDT ,_, Escape_VB from_IN Shadow_NNP Island_NNP ,_, won_VBD the_DT Salford_NNP Children_NNP 's_POS Book_NNP Award_NNP ._.
+He_PRP has_VBZ also_RB written_VBN film_NN and_CC television_NN scripts_NNS ._.
+Adam_NNP lived_VBD in_IN Nottingham_NNP for_IN many_JJ years_NNS but_CC now_RB lives_VBZ in_IN Sheffield_NNP with_IN his_PRP$ wife_NN and_CC two_CD children_NNS ._.

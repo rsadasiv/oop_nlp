@@ -1,0 +1,210 @@
+A_DT
+priest_NN
+of_PIN
+a_DT
+church_NN
+was_VBD [SPAU] [BYPA]
+allegedly_RB
+attacked_VBN
+by_PIN
+two_CD
+men_NN
+who_WP [WHSUB]
+pelted_VBD
+stones_NN
+at_PIN
+him_TPP3
+after_IN
+they_TPP3
+were_VBD [PASS]
+stopped_VBN
+from_PIN
+eating_VBG
+at_PIN
+a_DT
+gathering_GER
+in_PIN
+north_PLACE
+Delhi_NN
+'s_POS
+Gulabi_NN
+Bagh_NN
+area_NN
+,_,
+police_NN
+said_VBD [PUBV]
+Saturday_NN
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+on_PIN
+August_NN
+28_CD
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+priest_NN
+had_VBD [PEAS]
+organised_VBN
+a_DT
+gathering_GER
+near_PLACE
+his_TPP3
+residence_NN
+in_PIN
+Gulabi_NN
+Bagh_NN
+as_IN
+it_PIT
+was_VBD [BEMA]
+his_TPP3
+daughter_NN
+'s_POS
+birthday_NN
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+accused_VBN
+who_WP
+were_VBD
+passing_VBG
+by_PIN
+the_DT
+street_NN
+asked_VBD [SUAV]
+the_DT
+priest_NN
+to_TO
+pave_VB
+way_NN
+for_PIN
+them_TPP3
+as_IN
+the_DT
+function_NOMZ
+was_VBD
+being_VBG [PASS]
+organised_VBN
+inside_PLACE
+a_DT
+tent_NN
+._.
+The_DT
+two_CD
+men_NN
+later_TIME
+asked_VBD [SUAV]
+for_PIN
+food_NN
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+priest_NN
+,_,
+however_CONJ
+,_,
+told_VBD
+the_DT
+men_NN
+that_TOBJ
+they_TPP3
+would_PRMD
+be_VB [PASS]
+served_VBN
+food_NN
+once_TIME
+the_DT
+guests_NN
+left_VBD
+,_,
+Nupur_NN
+Prasad_NN
+,_,
+Deputy_NN
+Commissioner_NN
+of_PIN
+Police_NN
+-LRB-_-LRB-
+North_NN
+-RRB-_-RRB-
+,_,
+said_VBD [PUBV]
+._.
+Enraged_JJ
+over_IN
+being_VBG [PASS]
+denied_VBN [PUBV]
+food_NN
+,_,
+one_CD
+among_PIN
+the_DT
+duo_NN
+allegedly_RB
+pelted_VBD
+stones_NN
+at_PIN
+the_DT
+priest_NN
+and_CC
+fled_VBD
+from_PIN
+the_DT
+spot_NN
+,_,
+she_TPP3
+said_VBD [PUBV]
+._.
+Based_VBN [PASTP]
+on_PIN
+a_DT
+complaint_NN
+,_,
+a_DT
+case_NN
+was_VBD [PASS]
+registered_VBN
+._.
+The_DT
+two_CD
+accused_VBN
+were_VBD [PASS]
+arrested_VBN
+on_PIN
+August_NN
+30_CD
+from_PIN
+Gulabi_NN
+Bagh_NN
+,_,
+the_DT
+official_NN
+said_VBD [PUBV]
+._.
+The_DT
+accused_VBN
+have_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Manish_NN
+-LRB-_-LRB-
+22_CD
+-RRB-_-RRB-
+and_ANDC
+Vishal_NN
+-LRB-_-LRB-
+18_CD
+-RRB-_-RRB-
+,_,
+police_NN
+added_VBD [PUBV]
+._.

@@ -1,0 +1,8 @@
+John_NNP Conybeare_NNP DD_NNP -LRB-_-LRB- 31_CD January_NNP 1692_CD ''_'' 13_CD July_NNP 1755_CD -RRB-_-RRB- was_VBD Bishop_NNP of_IN Bristol_NNP and_CC one_CD of_IN the_DT most_RBS notable_JJ theologians_NNS of_IN the_DT 18th_JJ century_NN ._.
+Conybeare_NNP was_VBD born_VBN at_IN Pinhoe_NNP ,_, where_WRB his_PRP$ father_NN was_VBD vicar_NN ,_, and_CC educated_VBN at_IN Blundell_NNP 's_POS School_NNP and_CC Exeter_NNP College_NNP ,_, Oxford_NNP ._.
+He_PRP was_VBD elected_VBN a_DT Probationary_NNP Fellow_NNP of_IN Exeter_NNP College_NNP in_IN 1710_CD ,_, took_VBD his_PRP$ B.A._NNP degree_NN in_IN 1713_CD and_CC was_VBD appointed_VBN a_DT year_NN later_RB as_RB Praelector_NNP in_IN Philosophy_NNP ._.
+On_IN 27_CD May_NNP 1716_CD Conybeare_NNP was_VBD ordained_VBN as_IN a_DT priest_NN by_IN the_DT Bishop_NNP of_IN Winchester_NNP ,_, Sir_NNP Jonathan_NNP Trelawney_NNP and_CC took_VBD a_DT curacy_NN in_IN Surrey_NNP ._.
+He_PRP returned_VBD to_TO Oxford_NNP a_DT year_NN later_RB and_CC became_VBD a_DT well_RB known_VBN preacher_NN ._.
+His_PRP$ subsequent_JJ appointments_NNS included_VBD :_: Conybeare_NNP was_VBD known_VBN for_IN the_DT publication_NN of_IN his_PRP$ book_NN Calumny_NNP Refuted_NNP ,_, an_DT answer_NN to_TO the_DT personal_JJ slander_NN of_IN Dr._NNP Richard_NNP Newton_NNP ._.
+Conybeare_NNP was_VBD the_DT father_NN of_IN Dr_NNP William_NNP Conybeare_NNP ,_, the_DT well_RB known_VBN rector_NN of_IN Bishopsgate_NNP ,_, and_CC grandfather_NN to_TO the_DT famous_JJ geologist_NN William_NNP Conybeare_NNP ._.
+He_PRP is_VBZ buried_VBN in_IN Bristol_NNP Cathedral_NNP ._.

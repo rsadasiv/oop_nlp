@@ -1,0 +1,246 @@
+A_DT
+nine-year-old_JJ
+boy_NN
+from_PIN
+Bolangir_NN
+district_NN
+,_,
+whose_WPS
+decapitated_JJ
+body_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+earlier_TIME
+this_DEMO
+week_NN
+,_,
+was_VBD [BEMA]
+a_DT
+victim_NN
+of_PIN
+human_JJ
+sacrifice_NN
+,_,
+police_NN
+said_VBD [PUBV]
+Saturday_NN
+._.
+Police_NN
+have_VPRT [PEAS]
+arrested_VBN
+two_CD
+people_NN
+for_PIN
+their_TPP3
+alleged_JJ
+involvement_NOMZ
+in_PIN
+the_DT
+brutal_JJ
+killing_GER
+--_:
+the_DT
+boy_NN
+'s_POS
+uncle_NN
+and_PHC
+brother_NN
+--_:
+one_CD
+of_PIN
+whom_WP [PIRE]
+have_VPRT [PEAS]
+confessed_VBN [PUBV]
+to_PIN
+the_DT
+crime_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+Titlagarh_NN
+Sub-Divisional_NN
+Police_NN
+Officer_NN
+-LRB-_-LRB-
+SDPO_NN
+-RRB-_-RRB-
+Saroj_NN
+Mohapatra_NN
+said_VBD [PUBV]
+the_DT
+accused_VBN
+persons_NN
+had_VBD [PEAS]
+sacrificed_VBN
+the_DT
+boy_NN
+to_TO
+``_``
+appease_VB
+goddess_NN
+Durga_NN
+for_PIN
+fulfilment_NOMZ
+of_PIN
+their_TPP3
+wishes_NN
+''_''
+._.
+``_``
+We_FPP1
+had_VBD [PEAS]
+started_VBN
+investigation_NOMZ
+suspecting_VBG [PRIV] [WZPRES]
+it_PIT
+to_TO
+be_VB [BEMA]
+a_DT
+case_NN
+of_PIN
+human_JJ
+sacrifice_NN
+._.
+During_PIN
+interrogation_NOMZ
+,_,
+one_CD
+of_PIN
+the_DT
+two_CD
+accused_VBN
+persons_NN
+confessed_VBD [PUBV]
+to_PIN
+the_DT
+crime_NN
+,_,
+''_''
+Mohapatra_NN
+told_VBD
+reporters_NN
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+on_PIN
+October_NN
+13_CD
+at_PIN
+Sundhimunda_NN
+village_NN
+which_WDT [WHSUB]
+comes_VPRT
+under_IN
+the_DT
+jurisdiction_NOMZ
+of_PIN
+Sindehekela_NN
+police_NN
+station_NOMZ
+in_PIN
+Bolangir_NN
+district_NN
+._.
+The_DT
+boy_NN
+,_,
+identified_VBN
+as_IN
+Ghanashyam_NN
+Rana_NN
+,_,
+went_VBD
+missing_VBG
+the_DT
+same_JJ
+day_NN
+and_CC
+his_TPP3
+family_NN
+members_NN
+had_VBD [PEAS]
+lodged_VBN
+a_DT
+complaint_NN
+with_PIN
+Sindhekela_NN
+police_NN
+on_PIN
+October_NN
+14_CD
+._.
+Mohapatra_NN
+said_VBD [PUBV] [THATD]
+police_NN
+found_VBD [PRIV]
+the_DT
+decapitated_VBN
+body_NN
+of_PIN
+the_DT
+minor_JJ
+boy_NN
+buried_VBN
+under_IN
+the_DT
+sand_NN
+near_PLACE
+Undei_JJ
+river_NN
+bank_NN
+on_PIN
+the_DT
+outskirts_NN
+of_PIN
+Sundhimunda_NN
+village_NN
+on_PIN
+October_NN
+18_CD
+._.
+His_TPP3
+head_NN
+was_VBD [SPAU] [PASS]
+also_RB
+traced_VBN
+nearby_PLACE
+._.
+The_DT
+accused_VBN
+persons_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Kunja_NN
+Rana_NN
+,_,
+the_DT
+uncle_NN
+,_,
+and_ANDC
+Shobhaban_NN
+Rana_NN
+,_,
+the_DT
+brother_NN
+of_PIN
+the_DT
+deceased_JJ
+._.
+Police_NN
+have_VPRT [PEAS]
+seized_VBN
+the_DT
+knife_NN
+used_VBN [WZPAST]
+in_PIN
+the_DT
+crime_NN
+and_CC
+a_DT
+motorcycle_NN
+._.

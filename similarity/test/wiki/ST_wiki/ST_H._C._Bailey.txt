@@ -1,0 +1,8 @@
+Henry_NNP Christopher_NNP Bailey_NNP -LRB-_-LRB- 1878_CD ``_`` 1961_CD -RRB-_-RRB- was_VBD an_DT English_JJ author_NN of_IN detective_NN fiction_NN ._.
+Bailey_NNP wrote_VBD mainly_RB short_JJ stories_NNS featuring_VBG a_DT medically_RB qualified_VBN detective_NN called_VBN Reggie_NNP Fortune_NNP ._.
+Fortune_NNP 's_POS mannerisms_NNS and_CC speech_NN put_VBD him_PRP into_IN the_DT same_JJ class_NN as_IN Lord_NNP Peter_NNP Wimsey_NNP but_CC the_DT stories_NNS are_VBP much_JJ darker_JJR ,_, and_CC often_RB involve_VBP murderous_JJ obsession_NN ,_, police_NN corruption_NN ,_, financial_JJ skulduggery_NN ,_, child_NN abuse_NN and_CC miscarriages_NNS of_IN justice_NN ._.
+Although_IN Mr_NNP Fortune_NNP is_VBZ seen_VBN at_IN his_PRP$ best_JJS in_IN short_JJ stories_NNS ,_, he_PRP also_RB appears_VBZ in_IN several_JJ novels_NNS ._.
+A_DT second_JJ series_NN character_NN ,_, Joshua_NNP Clunk_NNP ,_, is_VBZ a_DT sanctimonious_JJ lawyer_NN who_WP exposes_VBZ corruption_NN and_CC blackmail_VB in_IN local_JJ politics_NNS ,_, and_CC who_WP manages_VBZ to_TO profit_VB from_IN the_DT crimes_NNS ._.
+He_PRP appears_VBZ in_IN eleven_JJ novels_NNS published_VBN between_IN 1930_CD and_CC 1950_CD ,_, including_VBG The_DT Sullen_NNP Sky_NNP Mystery_NNP -LRB-_-LRB- 1935_CD -RRB-_-RRB- ,_, widely_RB regarded_VBN as_IN Bailey_NNP 's_POS magnum_NN opus_NN ._.
+Bailey_NNP 's_POS works_NNS were_VBD published_VBN in_IN a_DT number_NN of_IN magazines_NNS ,_, primarily_RB The_DT Windsor_NNP Magazine_NNP but_CC also_RB Adventure_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC Ellery_NNP Queen_NNP 's_POS Mystery_NNP Magazine_NNP ._.
+See_VB Radio_NNP plays_NNS and_CC talks_NNS also_RB

@@ -1,0 +1,22 @@
+a._IN There_EX is_VBZ an_DT enormous_JJ amount_NN of_IN data_NNS available_JJ on_IN soil_NN ,_, plant_NN ,_, animal_NN and_CC human_JJ nutrition_NN ._.
+However_RB ,_, we_PRP have_VBP not_RB developed_VBN any_DT analytical_JJ platform_NN which_WDT can_MD connect_VB the_DT variables_NNS for_IN tracking_VBG eco-system_JJ health_NN and_CC ensuring_VBG preventive_JJ crop_NN ,_, animal_NN and_CC human_JJ nutrition_NN ._.
+b._FW The_DT majority_NN of_IN the_DT farmer_NN machinery_NN whether_IN manual_NN ,_, bullock_NN drawn_VBN or_CC motorized_VBN do_VBP not_RB have_VB feedback_NN control_NN system_NN ._.
+Most_JJS mechanical_JJ machineries_NNS have_VBP practically_RB no_DT electronic_JJ applications_NNS ._.
+Dynamic_NNP feedback_NN from_IN individual_JJ farm_NN does_VBZ not_RB get_VB aggregated_VBN at_IN eco-system_JJ level_NN and_CC therefore_RB knowledge_NN based_VBN efficiency_NN inputs_NNS are_VBP not_RB available_JJ to_TO farmers_NNS ._.
+Given_VBN the_DT agrological_JJ diversity_NN response_NN variabilities_NNS of_IN inputs_NNS such_JJ as_IN water_NN ,_, seed_NN and_CC other_JJ chemical_NN &_CC non_NN chemical_NN inputs_NNS is_VBZ not_RB analyzed_VBN dynamically_RB to_TO generate_VB mid-course_JJ correction_NN ._.
+c._FW Given_VBN large_JJ scale_NN climatic_JJ fluctuation_NN is_VBZ super_JJ imposed_VBN on_IN graphic_JJ and_CC agro_JJ ecological_JJ variability_NN requires_VBZ development_NN of_IN dynamic_JJ contingency_NN option_NN ._.
+Such_JJ advice_NN can_MD be_VB generated_VBN only_RB with_IN development_NN of_IN expert_NN systems_NNS capable_JJ of_IN using_VBG macro_NN ,_, miso_NN and_CC micro_NN level_NN agro_NN meteorological_JJ data_NNS ._.
+Innovative_JJ coping_VBG strategies_NNS can_MD neither_RB be_VB tracked_VBN nor_CC disseminated_VBN without_IN using_VBG AI_NNP applications_NNS ,_, big_JJ data_NNS &_CC deep_JJ learning_NN ._.
+d._FW The_DT point_NN of_IN care_NN devices_NNS for_IN identifying_VBG pest_NN and_CC diseases_NNS for_IN plants_NNS ,_, animals_NNS and_CC human_JJ require_VBP deep_JJ learning_NN tools_NNS ._.
+While_IN such_JJ devices_NNS for_IN human_JJ use_NN is_VBZ being_VBG developed_VBN without_IN always_RB being_VBG contextualized_VBN ._.
+The_DT probabilities_NNS of_IN adverse_JJ consequences_NNS of_IN different_JJ socio_NN ecological_JJ and_CC health_NN interaction_NN can_MD be_VB worked_VBN out_RP better_RB with_IN the_DT AI_NNP tools_NNS ._.
+e._FW Point_NNP of_IN care_NN diagnostics_NNS and_CC treatment_NN advisory_NN for_IN animals_NNS has_VBZ only_RB recently_RB began_VBD to_TO develop_VB ._.
+-LRB-_-LRB- ss.sristi.org_NN -RRB-_-RRB- Since_IN livestock_NN distribution_NN is_VBZ much_RB less_RBR in_IN equities_NNS then_RB land_VBP distribution_NN application_NN of_IN AI_NNP tools_NNS will_MD have_VB much_RB higher_JJR social_JJ welfare_NN impact_NN ._.
+a._IN Leading_VBG public_JJ hospitals_NNS such_JJ as_IN AIIMS_NNP &_CC PGI_NNP get_VBP as_IN many_JJ as_IN 10,000_CD patients_NNS a_DT day_NN ._.
+No_DT analytical_JJ tool_NN is_VBZ used_VBN to_TO analyze_VB the_DT interaction_NN between_IN treatment_NN ,_, disease_NN variability_NN ,_, gender_NN ,_, age_NN and_CC other_JJ variables_NNS ._.
+While_IN intuitive_JJ understanding_NN just_RB grows_VBZ among_IN experts_NNS ._.
+In_IN the_DT absence_NN of_IN analytical_JJ tools_NNS ,_, patterns_NNS can_MD not_RB be_VB identified_VBN easily_RB ._.
+b._NN In_IN many_JJ small_JJ places_NNS ,_, advance_NN diagnostic_JJ facilities_NNS such_JJ as_IN MRI_NNP and_CC basic_JJ diagnostic_JJ tool_NN such_JJ as_IN X_NNP Ray_NNP are_VBP not_RB available_JJ ._.
+India_NNP has_VBZ reported_VBN less_JJR than_IN 10,000_CD radiologists_NNS ._.
+A_DT few_JJ startups_NNS have_VBP come_VBN up_RP to_TO convert_VB 2D_NNP XRay_NNP into_IN 3D_NNP images_NNS -LRB-_-LRB- Saket_NNP ,_, IIT_NNP Bombay_NNP -RRB-_-RRB- and_CC deep_JJ learning_NN interpretation_NN of_IN XRay_NNP -LRB-_-LRB- IIT_NNP Madras_NNP -RRB-_-RRB- ._.
+The_DT author_NN is_VBZ founder_NN of_IN Honey_NNP Bee_NNP Network_NNP &_CC visiting_VBG faculty_NN at_IN IIM-Aanilgb@gmail.com_NN

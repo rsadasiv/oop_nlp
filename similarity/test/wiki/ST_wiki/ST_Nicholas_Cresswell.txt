@@ -1,0 +1,10 @@
+Nicholas_NNP Cresswell_NNP -LRB-_-LRB- 5_CD January_NNP 1750_CD ''_'' 26_CD July_NNP 1804_CD -RRB-_-RRB- was_VBD an_DT English_JJ diarist_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cresswell_NNP was_VBD the_DT son_NN of_IN a_DT landowner_NN and_CC sheep_NN farmer_NN in_IN Crowden-le-Booth_NNP ,_, Edale_NNP ,_, Derbyshire_NNP ._.
+At_IN the_DT age_NN of_IN 24_CD he_PRP sailed_VBD to_TO the_DT American_JJ colonies_NNS after_IN becoming_VBG acquainted_VBN with_IN a_DT native_NN of_IN Edale_NNP who_WP was_VBD now_RB resident_JJ in_IN Alexandria_NNP ,_, Virginia_NNP ._.
+For_IN the_DT next_JJ three_CD years_NNS he_PRP kept_VBD a_DT journal_NN of_IN his_PRP$ experiences_NNS ,_, along_IN with_IN comments_NNS on_IN political_JJ issues_NNS ._.
+He_PRP became_VBD unpopular_JJ due_JJ to_TO his_PRP$ opposition_NN to_TO the_DT independence_NN cause_NN in_IN the_DT American_NNP War_NNP of_IN Independence_NNP ._.
+Cresswell_NNP returned_VBD to_TO England_NNP ,_, and_CC after_IN a_DT failed_JJ attempt_NN to_TO receive_VB a_DT commission_NN from_IN the_DT ex-governor_NN of_IN Virginia_NNP ,_, John_NNP Murray_NNP ,_, 4th_JJ Earl_NNP of_IN Dunmore_NNP ,_, he_PRP returned_VBD to_TO Edale_NNP to_TO resume_VB farming_VBG ._.
+He_PRP died_VBD in_IN Idridgehay_NNP in_IN 1804_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP wrote_VBD a_DT journal_NN while_IN he_PRP was_VBD in_IN the_DT Americas_NNPS ._.
+He_PRP recorded_VBD most_JJS of_IN his_PRP$ time_NN alive_JJ ._.
+Now_RB the_DT journal_NN is_VBZ very_RB famous_JJ ._.

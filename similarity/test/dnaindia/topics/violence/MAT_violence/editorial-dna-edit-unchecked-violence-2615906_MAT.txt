@@ -1,0 +1,349 @@
+It_PIT
+is_VPRT [BEMA]
+no_SYNE
+secret_NN
+that_TOBJ
+West_NN
+Bengal_NN
+has_VPRT
+a_DT
+long_JJ
+and_CC
+blood_NN
+history_NN
+of_PIN
+poll_NN
+violence_NN
+,_,
+and_ANDC
+with_PIN
+the_DT
+recent_JJ
+violence_NN
+in_PIN
+the_DT
+Panchayat_NN
+polls_NN
+''_''
+where_RB
+25_CD
+people_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+reported_VBN [PUBV]
+dead_JJ
+''_''
+little_JJ
+seems_VPRT [SMP]
+to_TO
+have_VB [PEAS]
+changed_VBN
+._.
+A_DT
+communally_RB
+sensitive_JJ
+state_NN
+,_,
+West_NN
+Bengal_NN
+has_VPRT [PEAS]
+seen_VBN [PRIV]
+unprecedented_JJ
+levels_NN
+of_PIN
+violence_NN
+,_,
+used_VBN [PASTP]
+by_PIN
+major_JJ
+parties_NN
+here_RB
+,_,
+especially_RB
+when_RB
+in_PIN
+power_NN
+._.
+The_DT
+Congress_NN
+was_VBD [BEMA]
+not_XX0
+averse_PRED
+to_TO
+attacking_VBG
+political_JJ
+opponents_NN
+while_OSUB
+it_PIT
+was_VBD [BEMA]
+in_PIN
+power_NN
+till_IN
+the_DT
+late_TIME
+sixties_NN
+and_CC
+the_DT
+Left_VBN
+Front_NN
+continued_VBD
+this_DEMO
+trend_NN
+not_XX0
+,_,
+just_EMPH
+against_PIN
+political_JJ
+opponents_NN
+and_CC
+not_XX0
+just_EMPH
+during_PIN
+the_DT
+polling_GER
+time_NN
+._.
+Nandigram_NN
+was_VBD [BEMA]
+a_DT
+key_JJ
+case_NN
+in_PIN
+point_NN
+._.
+The_DT
+situation_NOMZ
+doesn_NN
+<sup>_VBD
+TM_NN
+</sup>_NN
+t_VBD
+seem_VPRT [SMP]
+to_TO
+have_VB [PEAS]
+changed_VBN
+much_QUAN
+under_IN
+Mamata_NN
+Banerjee_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+Trinamool_NN
+Congress_NN
+-LRB-_-LRB-
+TMC_NN
+-RRB-_-RRB-
+._.
+Both_DT
+the_DT
+BJP_NN
+and_CC
+the_DT
+CPI_NN
+-LRB-_-LRB-
+M_NN
+-RRB-_-RRB-
+have_VPRT [PEAS]
+indicted_VBN
+the_DT
+state_NN
+government_NOMZ
+for_PIN
+violence_NN
+in_PIN
+the_DT
+recent_JJ
+polls_NN
+with_PIN
+Prime_NN
+Minister_NN
+Modi_NN
+even_RB
+commenting_VBG [PUBV]
+that_THVC
+democracy_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+<sup>_VBN
+~_CD
+</sup>_JJ
+murdered_VBN
+<sup>_NN
+TM_NN
+</sup>_NN
+for_PIN
+<sup>_NN
+~_NN
+</sup>_NN
+narrow_JJ
+political_JJ
+interests_NN
+<sup>_VPRT
+TM_NN
+</sup>_NN
+._.
+Indeed_RB
+,_,
+the_DT
+high_JJ
+death_NN
+toll_NN
+shows_VPRT [PRIV]
+how_RB [WHCL]
+hollow_JJ
+the_DT
+promises_NN
+of_PIN
+Mamata_NN
+Banerjee_NN
+really_EMPH
+are_VPRT
+._.
+Mamata_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+elected_VBN
+as_IN
+CM_NN
+on_PIN
+the_DT
+promise_NN
+of_PIN
+parivartan_NN
+-LRB-_-LRB-
+change_NN
+-RRB-_-RRB-
+,_,
+but_CC
+so_RB
+far_PLACE
+there_EX
+seems_VPRT [SMP]
+to_TO
+be_VB [BEMA]
+rather_RB
+little_PRED
+to_TO
+differentiate_VB
+her_TPP3
+rule_NN
+from_PIN
+that_DEMO
+of_PIN
+the_DT
+Left_VBN
+._.
+It_PIT
+is_VPRT
+not_XX0
+just_EMPH
+the_DT
+Chief_NN
+Minister_NN
+though_CONC
+._.
+Questions_NOMZ
+must_NEMD
+be_VB [PASS]
+raised_VBN
+about_IN
+the_DT
+role_NN
+of_PIN
+police_NN
+authorities_NOMZ
+and_CC
+the_DT
+State_NN
+Election_NOMZ
+Commission_NN
+-LRB-_-LRB-
+SEC_NN
+-RRB-_-RRB-
+._.
+Why_RB [WHQU]
+were_VBD
+police_NN
+authorities_NOMZ
+unable_JJ
+to_TO
+stop_VB
+TMC_NN
+workers_NN
+who_WP [WHSUB]
+jammed_VBD
+polling_GER
+booths_NN
+,_,
+and_ANDC
+allegedly_RB
+indulged_VBD
+in_PIN
+bogus_JJ
+voting_NN
+._.
+Why_RB [WHQU]
+were_VBD
+pleas_NN
+before_IN
+the_DT
+Calcutta_NN
+High_NN
+Court_NN
+,_,
+asking_VBG [SUAV] [PRESP]
+for_PIN
+Central_NN
+forces_NN
+before_IN
+the_DT
+polls_NN
+ignored_VBN
+?_.
+The_DT
+Centre_NN
+has_VPRT [SPAU] [PEAS]
+already_RB
+asked_VBN [SUAV]
+for_PIN
+a_DT
+report_NN
+on_PIN
+the_DT
+poll_NN
+violence_NN
+,_,
+but_CC
+it_PIT
+is_VPRT [BEMA]
+likely_PRED
+that_THAC
+the_DT
+TMC_NN
+will_PRMD
+manage_VB
+to_TO
+block_VB
+any_QUAN
+demands_NN
+for_PIN
+a_DT
+proper_JJ
+inquiry_NN
+._.
+This_DEMP
+will_PRMD [SPAU]
+only_DWNT
+ensure_VB [SUAV] [PRIV]
+that_THVC
+violence_NN
+and_PHC
+mayhem_NN
+will_PRMD
+continue_VB
+unchecked_JJ
+in_PIN
+Bengal_NN
+._.

@@ -1,0 +1,10 @@
+Raffaella_NNP Flora_NNP Barker_NNP -LRB-_-LRB- born_VBN 24_CD November_NNP 1964_CD -RRB-_-RRB- is_VBZ an_DT English_JJ author_NN ._.
+Born_VBN in_IN London_NNP ,_, she_PRP moved_VBD when_WRB she_PRP was_VBD three_CD and_CC was_VBD brought_VBN up_RP in_IN the_DT Norfolk_NNP countryside_NN ._.
+She_PRP is_VBZ the_DT one_CD of_IN the_DT poet_NN George_NNP Barker_NNP 's_POS fifteen_JJ children_NNS ,_, the_DT eldest_JJS of_IN the_DT five_CD he_PRP had_VBD with_IN novelist_NN Elspeth_NNP Barker_NNP ._.
+She_PRP lives_VBZ in_IN Norfolk_NNP ,_, England_NNP with_IN her_PRP$ family_NN ._.
+Raffaella_NN was_VBD born_VBN 24_CD November_NNP 1964_CD and_CC was_VBD brought_VBN up_RP in_IN Itteringham_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- in_IN Norfolk_NNP ._.
+After_IN attending_VBG Norwich_NNP High_NNP School_NNP for_IN Girls_NNP ,_, Raffaella_NNP left_VBD Norfolk_NNP for_IN London_NNP where_WRB she_PRP moved_VBD through_IN life_NN modeling_NN ,_, film-editing_JJ and_CC journalism_NN before_IN she_PRP began_VBD writing_VBG novels_NNS ._.
+To_TO date_NN ,_, she_PRP has_VBZ written_VBN nine_CD novels_NNS ,_, including_VBG one_CD for_IN young_JJ adults_NNS -LRB-_-LRB- see_VB ``_`` Publications_NNP ''_'' -RRB-_-RRB- ._.
+She_PRP has_VBZ also_RB written_VBN short_JJ stories_NNS for_IN the_DT radio_NN ,_, worked_VBD at_IN Harpers_NNP &_CC Queen_NNP magazine_NN ,_, as_IN a_DT columnist_NN for_IN Country_NNP Life_NNP and_CC has_VBZ been_VBN a_DT regular_JJ contributor_NN for_IN the_DT Sunday_NNP Times_NNP ,_, the_DT Sunday_NNP Telegraph_NNP ,_, Harpers_NNP Bazaar_NNP and_CC the_DT Spectator_NNP ._.
+She_PRP also_RB teaches_VBZ on_IN the_DT English_NNP Literature_NNP and_CC Creative_NNP Writing_VBG BA_NNP at_IN the_DT University_NNP of_IN East_NNP Anglia_NNP and_CC the_DT Guardian_NNP Novel_NNP Writing_VBG Masterclass_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- -LRB-_-LRB- 5_CD -RRB-_-RRB-

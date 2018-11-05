@@ -1,0 +1,31 @@
+HMD_NNP Global_NNP has_VBZ slashed_VBN prices_NNS for_IN the_DT Nokia_NNP 3.1_CD ,_, Nokia_NNP 5.1_CD ,_, Nokia_NNP 6.1_CD and_CC the_DT Nokia_NNP 8_CD Sirocco_NNP in_IN India_NNP ._.
+The_DT Nokia_NNP 3.1_CD for_IN the_DT 3GB_NNP RAM_NNP ,_, 32GB_NNP internal_JJ storage_NN ,_, which_WDT was_VBD earlier_JJR priced_VBN at_IN Rs_NNP 11,999_CD will_MD now_RB receive_VB a_DT discount_NN of_IN Rs_NNS 1,000_CD and_CC is_VBZ now_RB available_JJ for_IN Rs_NNS 10,999_CD ._.
+The_DT Nokia_NNP 5.1_CD for_IN the_DT 3GB_NNP RAM_NNP ,_, 32GB_NNP internal_JJ storage_NN ,_, which_WDT was_VBD earlier_JJR priced_VBN at_IN Rs_NNP 14,449_CD will_MD now_RB receive_VB a_DT discount_NN of_IN Rs_NNS 1,500_CD and_CC is_VBZ now_RB available_JJ for_IN Rs_NNS 12,999_CD ._.
+The_DT Nokia_NNP 6.1_CD for_IN the_DT 3GB_NNP RAM_NNP and_CC 32GB_NNP internal_JJ storage_NN will_MD now_RB be_VB priced_VBN at_IN Rs_NNP 13,499_CD while_IN the_DT 4GB_NNP RAM_NNP and_CC 64GB_NNP internal_JJ storage_NN will_MD retail_VB for_IN Rs_NNS 16,499_CD ._.
+Lastly_RB ,_, the_DT Nokia_NNP 8_CD Sirocco_NNP gets_VBZ a_DT major_JJ price_NN cut_NN of_IN Rs_NNS 13,000_CD and_CC is_VBZ now_RB priced_VBN at_IN Rs_NNP 36,999_CD Nokia_NNP 3.1_CD In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 5.2-inch_JJ HD_NNP +_CD display_NN with_IN a_DT 720x1440_JJ pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT 1.5_CD GHz_NNP octa-core_NN MediaTek_NNP MT6750N_NNP chipset_NN ,_, paired_VBN with_IN 3GB_NNP RAM_NNP ._.
+It_PRP will_MD include_VB an_DT internal_JJ storage_NN of_IN 16GB_NNP ,_, which_WDT can_MD be_VB further_JJ expanded_VBN up_RP to_TO 128GB_NNP via_IN microSD_NNP card_NN ._.
+It_PRP comes_VBZ equipped_VBN with_IN a_DT 13MP_NNP rear_JJ camera_NN with_IN f\/2_CD .0_CD and_CC an_DT LED_VBN flash_NN along_IN with_IN an_DT 8MP_NNP front-facing_NN camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP LTE_NNP ,_, Wi-Fi_NNP 802.11_CD ac_NN ,_, Bluetooth_NNP v5_CD .0_CD ,_, GPS_NNP \/_CD A-GPS_NNP ,_, GLONASS_NNP and_CC microUSB_NNP ._.
+A_DT 2,990_CD mAh_NNP battery_NN completes_VBZ the_DT package_NN ._.
+Nokia_NNP 5.1_CD In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 5.5-inch_JJ HD_NNP +_CD display_NN with_IN a_DT 1080_CD x_SYM 2160_CD pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN an_DT octa-core_JJ MediaTek_NNP MT6755S_NNP chipset_NN ,_, paired_VBN with_IN 3GB_NNP RAM_NNP ._.
+It_PRP will_MD include_VB an_DT internal_JJ storage_NN of_IN 32GB_NNP ._.
+It_PRP comes_VBZ equipped_VBN with_IN a_DT 16MP_NNP rear_JJ sensor_NN with_IN LED_NNP flash_VBP along_IN with_IN an_DT 8MP_NNP front-facing_NN camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP LTE_NNP ,_, Wi-Fi_NNP 802.11_CD ac_NN ,_, Bluetooth_NNP v5_CD .0_CD ,_, GPS_NNP \/_CD A-GPS_NNP ,_, GLONASS_NNP and_CC microUSB_NNP ._.
+A_DT 3000mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.
+It_PRP will_MD be_VB available_JJ in_IN Copper_NN ,_, Tempered_NNP Blue_NNP ,_, and_CC Black_NNP color_NN variants_NNS via_IN offline_JJ retailers_NNS <sup>_VBP TM_NNP </sup>_NNP offline_NN ,_, Paytm_NNP Mall_NNP and_CC Nokia_NNP 's_POS online_JJ store_NN ._.
+Nokia_NNP 6.1_CD The_DT Nokia_NNP 6.1_CD comes_VBZ with_IN a_DT 5.5-inch_JJ full-HD_JJ 16:9_CD aspect_NN ratio_NN screen_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT Qualcomm_NNP Snapdragon_NNP 630_CD SoC_NNP ,_, and_CC comes_VBZ in_IN two_CD variants_NNS ''_'' 3GB_NNP RAM_NNP and_CC 32GB_NNP internal_JJ storage_NN and_CC 4GB_NNP RAM_NNP with_IN 64GB_NNP internal_JJ storage_NN ._.
+The_DT phone_NN is_VBZ an_DT upgrade_NN from_IN last_JJ year_NN <sup>_IN TM_NNP </sup>_NNP s_VBZ version_NN of_IN the_DT Nokia_NNP 6_CD ,_, which_WDT came_VBD with_IN the_DT Qualcomm_NNP Snapdragon_NNP 430_CD SoC_NNP ._.
+Additionally_RB ;_: the_DT phone_NN has_VBZ a_DT 3,000_CD mAh_NNP battery_NN ,_, and_CC runs_VBZ Android_NNP Oreo_NNP out-of-the-box_NN ._.
+The_DT Nokia_NNP 6.1_CD is_VBZ also_RB an_DT Android_NNP One_CD device_NN ,_, which_WDT means_VBZ that_IN it_PRP runs_VBZ a_DT stock_NN version_NN of_IN Android_NNP OS_NNP and_CC receives_VBZ frequent_JJ software_NN updates_NNS and_CC security_NN patches_NNS ._.
+You_PRP also_RB get_VBP a_DT 16-megapixel_JJ rear_JJ camera_NN ,_, 8-megapixel_JJ front_NN camera_NN ,_, fingerprint_NN sensor_NN ,_, USB_NNP Type-C_NNP port_NN for_IN connectivity_NN and_CC charging_VBG ._.
+Nokia_NNP 8_CD Sirocco_NNP It_PRP features_VBZ a_DT 5.5-inch_JJ edge-to-edge_NN 2K_JJ resolution_NN display_NN along_IN with_IN Corning_NNP Gorilla_NNP Glass_NNP 5_CD for_IN protection_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT Qualcomm_NNP Snapdragon_NNP 835_CD processor_NN ,_, paired_VBN with_IN 6GB_CD RAM_NNP ._.
+It_PRP includes_VBZ an_DT internal_JJ storage_NN of_IN 128GB_NNP ._.
+Running_VBG Android_NNP Oreo_NNP out-of-the-box_NN ,_, as_IN a_DT part_NN of_IN Google_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Android_NNP One_CD ,_, it_PRP is_VBZ equipped_VBN with_IN a_DT dual-camera_NN setup_NN which_WDT comprises_VBZ of_IN a_DT 12MP_NNP rear_JJ camera_NN along_IN with_IN a_DT 13MP_JJ telephoto_NN for_IN 2x_JJ optical_JJ zoom_NN ._.
+It_PRP also_RB packs_VBZ in_IN a_DT 5MP_NNP front-facing_NN camera_NN ._.
+A_DT 3260_CD mAh_NNP battery_NN completes_VBZ the_DT package_NN ._.
+It_PRP also_RB supports_VBZ Qi_NNP wireless_JJ charging_VBG and_CC fast_RB charging_VBG that_IN promises_VBZ 50_CD percent_NN in_IN 30_CD minutes_NNS ._.
+It_PRP is_VBZ priced_VBN at_IN 799_CD EUR_NNP -LRB-_-LRB- approximately_RB Rs_VBZ 63,500_CD -RRB-_-RRB- ._.

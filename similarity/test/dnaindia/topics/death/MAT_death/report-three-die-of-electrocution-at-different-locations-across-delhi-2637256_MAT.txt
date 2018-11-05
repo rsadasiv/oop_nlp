@@ -1,0 +1,285 @@
+Three_CD
+people_NN
+died_VBD
+of_PIN
+electrocution_NOMZ
+at_PIN
+three_CD
+different_JJ
+locations_NOMZ
+across_PLACE
+the_DT
+Capital_NN
+on_PIN
+Friday_NN
+._.
+The_DT
+deaths_NN
+were_VBD [PASS]
+reported_VBN [PUBV]
+from_PIN
+Mayur_NN
+Vihar_NN
+,_,
+New_NN
+Ashok_NN
+Nagar_NN
+and_CC
+from_PIN
+Jamia_NN
+Nagar_NN
+._.
+FIRs_NN
+in_PIN
+all_QUAN
+the_DT
+three_CD
+incidents_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+registered_VBN
+and_CC
+the_DT
+investigation_NOMZ
+is_VPRT [BEMA]
+on_PIN [STPR]
+._.
+In_PIN
+Jamia_NN
+Nagar_NN
+,_,
+a_DT
+10-year-old_JJ
+boy_NN
+was_VBD [PASS]
+killed_VBN
+when_RB
+he_TPP3
+came_VBD
+in_PIN
+contact_NN
+with_PIN
+an_DT
+e-rickshaw_NN
+that_TSUB
+was_VBD
+being_VBG [PASS]
+charged_VBN
+._.
+Police_NN
+said_VBD [PUBV] [THATD]
+e-rickshaw_JJ
+batteries_NN
+were_VBD
+being_VBG [PASS]
+charged_VBN
+when_RB
+the_DT
+10-year-old_JJ
+Sultan_NN
+stepped_VBD
+on_PIN
+one_CD
+of_PIN
+the_DT
+wires_NN
+._.
+The_DT
+child_NN
+was_VBD [SPAU] [PASS]
+immediately_TIME
+rushed_VBN
+to_PIN
+a_DT
+hospital_NN
+but_CC
+he_TPP3
+was_VBD [PASS]
+declared_VBN [PUBV]
+dead_JJ
+on_PIN
+arrival_NN
+._.
+The_DT
+child_NN
+was_VBD [BYPA]
+accompanied_VBN
+by_PIN
+his_TPP3
+sister_NN
+when_RB
+the_DT
+incident_NN
+took_VBD
+place_NN
+._.
+He_TPP3
+has_VPRT
+six_CD
+siblings_GER
+._.
+``_``
+We_FPP1
+have_VPRT [PEAS]
+registered_VBN
+a_DT
+case_NN
+for_PIN
+causing_VBG
+death_NN
+due_JJ
+to_PIN
+negligence_NN
+under_IN
+Section_NOMZ
+304A_NN
+._.
+The_DT
+miscreant_JJ
+is_VPRT
+being_VBG [PASS]
+identified_VBN
+and_CC
+will_PRMD [SPAU]
+soon_TIME
+be_VB [PASS]
+arrested_VBN
+,_,
+''_''
+Deputy_NN
+Commissioner_NN
+of_PIN
+Police_NN
+-LRB-_-LRB-
+southeast_NN
+-RRB-_-RRB-
+,_,
+Chinmoy_NN
+Biswal_NN
+said_VBD [PUBV]
+._.
+In_PIN
+New_NN
+Ashok_NN
+Nagar_NN
+incident_NN
+,_,
+a_DT
+20-year-old_JJ
+boy_NN
+died_VBD
+when_RB
+his_TPP3
+bike_NN
+slipped_VBD
+on_PIN
+a_DT
+road_NN
+and_CC
+he_TPP3
+fell_VBD
+on_PIN
+a_DT
+high_JJ
+mast_NN
+electric_JJ
+pole_NN
+._.
+The_DT
+boy_NN
+died_VBD
+on_PIN
+the_DT
+spot_NN
+._.
+Police_NN
+are_VPRT [SPAU]
+now_TIME
+trying_VBG
+to_TO
+investigate_VB
+and_PHC
+find_VB [PRIV]
+out_PIN
+to_PIN
+which_WDT [PIRE]
+department_NOMZ
+did_VBD [PROD]
+the_DT
+electric_JJ
+pole_NN
+belong_VPRT
+to_TO
+so_RB
+that_DEMO
+action_NOMZ
+can_POMD
+be_VB [PASS]
+taken_VBN
+in_PIN
+the_DT
+case_NN
+._.
+The_DT
+victim_NN
+was_VBD [PASS]
+identified_VBN
+as_IN
+Rahul_NN
+Thakkar_NN
+._.
+In_PIN
+Mayur_NN
+Vihar_NN
+,_,
+20-year-old_JJ
+Mohammad_NN
+Meharban_NN
+died_VBD
+while_OSUB
+he_TPP3
+was_VBD
+walking_VBG
+on_PIN
+a_DT
+service_NN
+lane_NN
+near_PLACE
+a_DT
+mall_NN
+after_IN
+rain_NN
+._.
+According_VBG [PRESP]
+to_PIN
+the_DT
+locals_NN
+,_,
+when_RB
+he_TPP3
+was_VBD
+walking_VBG
+,_,
+he_TPP3
+came_VBD
+in_PIN
+contact_NN
+with_PIN
+an_DT
+electrical_JJ
+wire_NN
+and_CC
+got_VBD
+electrocuted_JJ
+._.
+Meharban_NN
+was_VBD [BEMA]
+a_DT
+resident_NN
+of_PIN
+Chilla_NN
+village_NN
+near_PLACE
+Yamuna_NN
+Khadar_NN
+._.

@@ -1,0 +1,357 @@
+One_CD
+of_PIN
+the_DT
+most_EMPH
+gracious_JJ
+and_PHC
+beautiful_JJ
+actresses_NN
+of_PIN
+all_QUAN
+times_NN
+,_,
+and_ANDC
+a_DT
+loving_JJ
+mother_NN
+to_PIN
+her_TPP3
+two_CD
+daughter_NN
+-_:
+Renee_NN
+and_PHC
+Alisah_NN
+,_,
+Sushmita_NN
+Sen_NN
+is_VPRT [BEMA]
+a_DT
+lady_NN
+,_,
+several_QUAN
+women_NN
+look_VPRT
+up_RP
+to_TO
+._.
+Sushmita_NN
+,_,
+a_DT
+single_JJ
+mother_NN
+,_,
+was_VBD [SPAU]
+earlier_TIME
+dating_VBG
+Ritik_NN
+Bhasin_NN
+but_CC
+had_VBD [PEAS]
+called_VBN
+quits_VPRT
+with_PIN
+him_TPP3
+a_DT
+while_OSUB
+back_RB
+._.
+And_ANDC
+now_TIME
+,_,
+according_VBG [PRESP]
+to_PIN
+reports_NN
+the_DT
+model-actress_NN
+is_VPRT
+dating_VBG
+Rohman_NN
+Shawl_NN
+,_,
+who_WP
+too_RB
+is_VPRT [BEMA]
+a_DT
+model_NN
+._.
+Sushmita_NN
+met_VBD
+Rohman_NN
+at_PIN
+a_DT
+fashion_NN
+event_NN
+two_CD
+months_NN
+ago_RB
+and_CC
+hit_VB
+off_PIN
+instantly_TIME
+._.
+Recently_TIME
+,_,
+Rohman_NN
+was_VBD [PASS]
+seen_VBN [PRIV]
+cheering_VBG
+the_DT
+actress_NN
+at_PIN
+Neeta_NN
+Lulla_NN
+'s_POS
+fashion_NN
+show_NN
+,_,
+and_ANDC
+was_VBD [SPAU] [PASS]
+also_RB
+seen_VBN [PRIV]
+interacting_VBG
+with_PIN
+Sushmita_NN
+'s_POS
+kids_NN
+._.
+And_ANDC
+,_,
+while_OSUB
+the_DT
+two_CD
+have_VPRT [PEAS]
+not_XX0
+confirmed_VBN [PUBV]
+their_TPP3
+relationship_NN
+,_,
+a_DT
+source_NN
+close_RB
+to_PIN
+SpotBoye_NN
+has_VPRT [PEAS]
+said_VBN [PUBV]
+that_THVC
+Sushmita_NN
+and_PHC
+Rohman_NN
+are_VPRT
+`_``
+more_EMPH
+than_PIN
+friends_NN
+._.
+'_''
+``_``
+It_PIT
+<sup>_VPRT
+TM_NN
+</sup>_NN
+s_VPRT [BEMA]
+too_RB
+early_TIME
+to_TO
+comment_VB [PUBV]
+on_PIN
+their_TPP3
+relationship_NN
+status_NN
+but_CC
+they_TPP3
+are_VPRT [BEMA]
+definitely_RB
+more_EMPH
+than_PIN
+just_EMPH
+friends_NN
+,_,
+''_''
+said_VBD [PUBV]
+the_DT
+source_NN
+._.
+The_DT
+same_JJ
+report_NN
+also_RB
+states_VPRT [PUBV]
+that_THVC
+Rohman_NN
+gets_VPRT
+along_RB
+well_RB
+with_PIN
+Sushmita_NN
+'s_POS
+daughters_NN
+-_:
+Renee_NN
+and_PHC
+Alisah_NN
+._.
+And_ANDC
+since_OSUB
+they_TPP3
+have_VPRT [SPAU] [PEAS]
+just_EMPH
+begun_VBN
+seeing_VBG [PRIV]
+each_QUAN
+other_JJ
+,_,
+they_TPP3
+are_VPRT
+not_XX0
+making_VBG
+it_PIT
+official_JJ
+anytime_RB
+soon_TIME
+._.
+Talking_VBG
+about_IN
+Sushmita_NN
+Sen_NN
+'s_POS
+previous_JJ
+relationship_NN
+,_,
+the_DT
+actress_NN
+was_VBD [BEMA]
+in_PIN
+love_NN
+with_PIN
+a_DT
+Ritik_NN
+Bhasin_NN
+._.
+However_CONJ
+,_,
+they_TPP3
+ended_VBD
+their_TPP3
+relationship_NN
+last_JJ
+year_NN
+but_CC
+are_VPRT [BEMA]
+still_RB
+on_PIN
+good_JJ
+terms_NN
+with_PIN
+each_QUAN
+other_JJ
+._.
+Here_RB
+,_,
+take_VB
+a_DT
+look_NN
+at_PIN
+the_DT
+pictures_NN
+of_PIN
+Sushmita_NN
+'s_POS
+new_JJ
+found_VBN [PRIV]
+love_NN
+here_RB
+!_.
+T_NN
+DT_NN
+On_PIN
+the_DT
+professional_JJ
+front_NN
+,_,
+Sushmita_NN
+Sen_NN
+has_VPRT [PEAS]
+not_XX0
+signed_VBN
+any_QUAN
+project_NN
+yet_RB
+._.
+But_CC
+,_,
+she_TPP3
+is_VPRT [BEMA]
+open_PRED
+to_TO
+mark_VB
+her_TPP3
+comeback_NN
+in_PIN
+Bollywood_NN
+._.
+Earlier_TIME
+in_PIN
+an_DT
+interview_NN
+with_PIN
+India_NN
+Today_TIME
+,_,
+she_TPP3
+had_VBD [PEAS]
+said_VBN [PUBV]
+,_,
+``_``
+I_FPP1
+have_VPRT [PEAS]
+been_VBN
+looking_VBG
+at_PIN
+scripts_NN
+again_TIME
+for_PIN
+the_DT
+past_JJ
+one_CD
+and_CC
+a_DT
+half_NN
+year_NN
+._.
+I_FPP1
+think_VPRT [PRIV] [THATD]
+I_FPP1
+am_VPRT [BEMA]
+ready_PRED
+to_TO
+commit_VB
+six_CD
+months_NN
+of_PIN
+my_FPP1
+life_NN
+to_PIN
+a_DT
+film_NN
+._.
+But_CC
+,_,
+just_EMPH
+because_CAUS
+I_FPP1
+am_VPRT [BEMA]
+ready_PRED
+,_,
+does_VPRT
+n't_XX0 [CONT]
+mean_VB [PRIV] [THATD]
+the_DT
+perfect_JJ
+script_NN
+is_VPRT [BEMA]
+ready_PRED
+for_PIN
+me_FPP1
+._.
+''_''

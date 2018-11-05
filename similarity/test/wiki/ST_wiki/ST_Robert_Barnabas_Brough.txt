@@ -1,0 +1,38 @@
+Robert_NNP Barnabas_NNP Brough_NNP -LRB-_-LRB- 10_CD April_NNP 1828_CD ''_'' 26_CD June_NNP 1860_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ._.
+He_PRP wrote_VBD poetry_NN ,_, novels_NNS and_CC plays_NNS and_CC was_VBD a_DT contributor_NN to_TO many_JJ periodicals_NNS ._.
+Brough_NNP was_VBD born_VBN on_IN 10_CD April_NNP 1828_CD in_IN London_NNP ,_, the_DT son_NN of_IN Barnabas_NNP Brough_NNP -LRB-_-LRB- c._FW 1795-1854_CD -RRB-_-RRB- ,_, a_DT brewer_NN and_CC wine_NN merchant_NN and_CC Frances_NNP Whiteside_NNP ,_, a_DT poet_NN ._.
+His_PRP$ brothers_NNS were_VBD William_NNP ,_, also_RB a_DT playwright_NN ,_, John_NNP Cargill_NNP Brough_NNP -LRB-_-LRB- 1834_CD ``_`` 1872_CD -RRB-_-RRB- ,_, a_DT science_NN writer_NN ,_, and_CC Lionel_NNP ,_, a_DT comic_JJ actor_NN ._.
+The_DT family_NN moved_VBD to_TO Pontypool_NNP in_IN Monmouthshire_NNP ,_, where_WRB his_PRP$ father_NN ran_VBD a_DT brewery_NN and_CC public_JJ house_NN ._.
+His_PRP$ father_NN was_VBD briefly_RB kidnapped_VBN by_IN the_DT Chartists_NNS in_IN 1839_CD and_CC was_VBD a_DT crown_NN witness_NN at_IN the_DT trial_NN of_IN the_DT Chartist_NNP leader_NN John_NNP Frost_NNP ,_, which_WDT resulted_VBD in_IN Frost_NNP 's_POS deportation_NN to_TO Australia_NNP ._.
+The_DT family_NN was_VBD ostracized_VBN and_CC ruined_VBN financially_RB as_IN a_DT result_NN ,_, and_CC moved_VBD to_TO Manchester_NNP in_IN 1843_CD ,_, where_WRB Brough_NNP worked_VBD as_IN a_DT clerk_NN in_IN order_NN to_TO contribute_VB to_TO the_DT family_NN income_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1847_CD ,_, Brough_NNP established_VBD the_DT Liverpool_NNP Lion_NNP ,_, a_DT comic_JJ periodical_JJ ,_, writing_VBG satiric_JJ articles_NNS and_CC drawings_NNS ._.
+He_PRP worked_VBD with_IN his_PRP$ brother_NN William_NNP to_TO write_VB a_DT Victorian_JJ burlesque_JJ play_NN ,_, The_DT Enchanted_NNP Isle_NNP ,_, which_WDT was_VBD produced_VBN in_IN Liverpool_NNP in_IN 1848_CD before_IN transferring_VBG to_TO London_NNP ._.
+Moving_VBG to_TO London_NNP ,_, he_PRP wrote_VBD other_JJ successful_JJ burlesques_NNS including_VBG Medea_NNP -LRB-_-LRB- 1856_CD -RRB-_-RRB- and_CC Masaniello_NNP -LRB-_-LRB- 1857_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN other_JJ collaborative_JJ productions_NNS with_IN his_PRP$ brother_NN William_NNP including_VBG The_DT Sphinx_NNP -LRB-_-LRB- 1849_CD -RRB-_-RRB- and_CC The_DT Last_JJ Edition_NN of_IN Ivanhoe_NNP -LRB-_-LRB- 1850_CD -RRB-_-RRB- ._.
+Brough_NNP also_RB wrote_VBD essays_NNS and_CC poems_NNS for_IN journals_NNS and_CC newspapers_NNS ,_, including_VBG for_IN a_DT period_NN being_VBG the_DT Brussels_NNP correspondent_NN of_IN the_DT Sunday_NNP Times_NNP ._.
+Songs_NNS of_IN the_DT Governing_NNP Classes_NNS -LRB-_-LRB- 1855_CD -RRB-_-RRB- ,_, a_DT book_NN of_IN radical_JJ poems_NNS ,_, is_VBZ his_PRP$ best_JJS known_VBN work_NN ._.
+In_IN it_PRP ,_, Brough_NNP critiqued_VBD the_DT handling_NN of_IN the_DT Crimean_JJ war_NN and_CC launched_VBD an_DT attack_NN on_IN the_DT upper_JJ classes_NNS through_IN his_PRP$ satiric_JJ fictional_JJ portraits_NNS of_IN aristocratic_JJ figures_NNS ._.
+Brough_NNP also_RB penned_VBD a_DT parody_NN of_IN Edgar_NNP Allan_NNP Poe_NNP 's_POS ``_`` The_DT Raven_NNP ''_'' called_VBN ``_`` The_DT Vulture_NNP ;_: An_DT Ornithological_NNP Study_NNP ''_'' which_WDT was_VBD published_VBN in_IN the_DT December_NNP 1853_CD issue_NN of_IN Graham_NNP 's_POS Magazine_NNP ,_, though_IN he_PRP was_VBD not_RB credited_VBN ._.
+The_DT poem_NN was_VBD later_RB reprinted_VBN in_IN William_NNP Evans_NNP Burton_NNP 's_POS Cyclopedia_NNP of_IN Wit_NNP and_CC Humor_NNP -LRB-_-LRB- 1858_CD -RRB-_-RRB- ,_, this_DT time_NN with_IN his_PRP$ name_NN attached_VBN ._.
+It_PRP was_VBD also_RB published_VBN ,_, however_RB ,_, a_DT year_NN earlier_RBR on_IN the_DT front_JJ page_NN of_IN the_DT December_NNP 18_CD ,_, 1852_CD edition_NN of_IN The_DT Carpet-Bag_NNP in_IN Boston_NNP ._.
+In_IN this_DT earlier_JJR printing_NN ,_, it_PRP was_VBD also_RB not_RB credited_VBN ,_, but_CC this_DT attribution_NN to_TO Brough_NNP is_VBZ therefore_RB uncertain_JJ ._.
+He_PRP also_RB published_VBD much-praised_JJ translations_NNS of_IN poetry_NN ,_, including_VBG those_DT of_IN Victor_NNP Hugo_NNP ._.
+In_IN 1860_CD Robert_NNP Brough_NNP edited_VBD the_DT magazine_NN the_DT Welcome_VB Guest_NNP for_IN John_NNP Maxwell_NNP ,_, and_CC was_VBD editor_NN at_IN the_DT time_NN of_IN the_DT first_JJ contribution_NN by_IN Mary_NNP Elizabeth_NNP Braddon_NNP ._.
+In_IN 1859_CD Brough_JJ published_VBN a_DT short_JJ story_NN entitled_VBN ``_`` Calmuck_NNP ''_'' in_IN Charles_NNP Dickens_NNP '_POS magazine_NN Household_NNP Words_NNP ._.
+It_PRP was_VBD a_DT thinly_RB disguised_VBN account_NN of_IN William_NNP Holman_NNP Hunt_NNP 's_POS experience_NN painting_NN his_PRP$ picture_NN The_DT Hireling_NNP Shepherd_NNP and_CC of_IN his_PRP$ relations_NNS with_IN his_PRP$ model_NN Emma_NNP Watkins_NNP ._.
+Hunt_NNP wrote_VBD an_DT outraged_JJ letter_NN to_TO Dickens_NNP ,_, who_WP claimed_VBD to_TO be_VB unaware_JJ that_IN the_DT story_NN was_VBD based_VBN on_IN real_JJ events_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Brough_NNP was_VBD a_DT popular_JJ member_NN of_IN a_DT ``_`` bohemian_NN ''_'' circle_NN of_IN journalists_NNS ,_, writers_NNS and_CC playwrights_NNS ._.
+In_IN 1857_CD ,_, together_RB with_IN his_PRP$ brothers_NNS ,_, Brough_NNP was_VBD a_DT founding_JJ member_NN of_IN the_DT Savage_NNP Club_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP helped_VBD support_VB the_DT families_NNS of_IN deceased_JJ writers_NNS and_CC numerous_JJ working-class_JJ causes_NNS through_IN benefit_NN performances_NNS ._.
+He_PRP married_VBD actress_NN Elizabeth_NNP Romer_NNP ._.
+They_PRP had_VBD three_CD children_NNS including_VBG a_DT daughter_NN ,_, Frances_NNP ``_`` Fanny_NNP ''_'' Whiteside_NNP Brough_NNP -LRB-_-LRB- 1852_CD ``_`` 1914_CD -RRB-_-RRB- ,_, an_DT actress_NN known_VBN for_IN her_PRP$ portrayal_NN of_IN Kitty_NNP Warren_NNP in_IN the_DT 1905_CD staging_NN of_IN George_NNP Bernard_NNP Shaw_NNP 's_POS Mrs._NNP Warren_NNP 's_POS Profession_NNP ;_: and_CC a_DT son_NN ,_, Lionel_NNP Barnabas_NNP Brough_NNP -LRB-_-LRB- 1857_CD ``_`` 1906_CD -RRB-_-RRB- ,_, known_VBN professionally_RB as_IN Robert_NNP Brough_NNP ,_, who_WP became_VBD an_DT actor-manager_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Robert_NNP Barnabas_NNP Brough_NNP was_VBD also_RB related_VBN to_TO Robert_NNP Brough_NNP Smyth_NNP ._.
+On_IN 26_CD June_NNP 1860_CD ,_, Robert_NNP Brough_NNP died_VBD at_IN 8_CD Boundary_NNP Street_NNP ,_, Hulme_NNP ,_, near_IN Manchester_NNP ,_, leaving_VBG his_PRP$ widow_NN and_CC three_CD children_NNS with_IN little_JJ money_NN to_TO support_VB them_PRP ._.
+The_DT Savage_NNP Club_NNP ,_, with_IN the_DT help_NN of_IN five_CD leading_VBG London_NNP theaters_NNS ,_, arranged_VBD a_DT benefit_NN performance_NN to_TO establish_VB a_DT fund_NN to_TO support_VB them_PRP ,_, with_IN Charles_NNP Dickens_NNP as_IN a_DT trustee_NN ._.
+``_`` Robert_NNP Barnabas_NNP Brough_NNP ''_'' ._.
+Oxford_NNP Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+Oxford_NNP University_NNP Press_NNP ._.
+2004_CD ._.
+``_`` John_NNP Cargill_NNP Brough_NNP ''_'' ._.
+Oxford_NNP Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+Oxford_NNP University_NNP Press_NNP ._.
+2004_CD ._.

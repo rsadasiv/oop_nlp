@@ -1,0 +1,16 @@
+General_NNP insurance_NN companies_NNS will_MD soon_RB offer_VB health_NN insurance_NN policies_NNS to_TO cover_VB treatment_NN of_IN mental_JJ illness_NN ._.
+Asking_VBG insurance_NN companies_NNS to_TO comply_VB with_IN the_DT Mental_NNP Healthcare_NNP Act_NNP 2017_CD with_IN immediate_JJ effect_NN ,_, the_DT Insurance_NNP Regulatory_NNP and_CC Development_NNP Authority_NNP of_IN India_NNP -LRB-_-LRB- Irdai_NNP -RRB-_-RRB- on_IN Thursday_NNP ,_, said_VBD ,_, ``_`` Every_DT insurer_NN shall_MD make_VB provision_NN for_IN medical_JJ insurance_NN for_IN treatment_NN of_IN mental_JJ illness_NN on_IN the_DT same_JJ basis_NN as_IN is_VBZ available_JJ for_IN treatment_NN of_IN physical_JJ illness_NN ._. ''_''
+The_DT draft_NN version_NN of_IN the_DT Mental_NNP Healthcare_NNP Act_NNP ,_, issued_VBN last_JJ year_NN ,_, had_VBD asked_VBN insurance_NN companies_NNS not_RB to_TO discriminate_JJ between_IN patients_NNS suffering_VBG from_IN mental_JJ ailments_NNS ._.
+The_DT act_NN came_VBD into_IN force_NN in_IN May_NNP 2018_CD ._.
+Irdai_NNP 's_POS guideline_NN is_VBZ following_VBG this_DT ._.
+While_IN there_EX is_VBZ a_DT genuine_JJ need_NN to_TO cover_VB mental_JJ ailments_NNS ,_, there_EX are_VBP issues_NNS and_CC the_DT existing_VBG product_NN structures_NNS may_MD not_RB allow_VB it_PRP ,_, said_VBD insurance_NN company_NN officials_NNS ._.
+According_VBG to_TO Nikhil_NNP Apte_NNP ,_, chief_JJ product_NN officer-product_NN factory_NN -LRB-_-LRB- health_NN -RRB-_-RRB- ,_, Royal_NNP Sundaram_NNP General_NNP Insurance_NNP ,_, one_CD of_IN the_DT challenge_NN is_VBZ that_IN a_DT lot_NN of_IN treatment_NN for_IN mental_JJ ailments_NNS is_VBZ Out_IN Patient_NNP Department_NNP treatment_NN ._.
+In-patient_JJ treatment_NN is_VBZ in_IN very_RB serious_JJ cases_NNS ._.
+This_DT makes_VBZ it_PRP tough_JJ for_IN companies_NNS to_TO structure_VB the_DT product_NN ._.
+Insurance_NN companies_NNS will_MD have_VB to_TO make_VB modifications_NNS in_IN existing_VBG product_NN features_NNS to_TO cover_VB it_PRP ._.
+``_`` The_DT need_NN is_VBZ genuine_JJ ._.
+But_CC if_IN there_EX is_VBZ non-disclosure_NN of_IN the_DT disease_NN by_IN the_DT customer_NN ,_, then_RB it_PRP could_MD lead_VB to_TO anti-selection_JJ ._.
+We_PRP do_VBP underwriting_VBG basis_NN age_NN ,_, sum_NN insured_VBN and_CC declaration_NN ._.
+We_PRP take_VBP blood_NN ,_, urine_NN sample_NN ,_, electrocardiogram_NN -LRB-_-LRB- ECG_NNP -RRB-_-RRB- ,_, etc._FW ._.
+But_CC an_DT ailment_NN like_IN schizophrenia_NN will_MD not_RB be_VB evident_JJ to_TO the_DT insurer_NN ,_, ''_'' he_PRP said_VBD ._.
+One_CD way_NN out_IN could_MD be_VB to_TO set_VB sub-limits_NNS for_IN such_JJ ailments_NNS and_CC increase_VB the_DT sub-limits_NNS ,_, gradually_RB or_CC offer_VB coverage_NN after_IN a_DT certain_JJ number_NN of_IN years_NNS ,_, he_PRP added_VBD ._.

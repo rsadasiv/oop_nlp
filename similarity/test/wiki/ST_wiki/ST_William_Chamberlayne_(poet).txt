@@ -1,0 +1,7 @@
+William_NNP Chamberlayne_NNP -LRB-_-LRB- 1619_CD ''_'' 11_CD July_NNP 1679_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- or_CC 1689_CD -LRB-_-LRB- 2_LS -RRB-_-RRB- -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ._.
+Nothing_NN is_VBZ known_VBN of_IN his_PRP$ history_NN except_IN that_IN he_PRP practiced_VBD as_IN a_DT physician_NN at_IN Shaftesbury_NNP in_IN Dorset_NNP and_CC fought_VBD on_IN the_DT Royalist_NNP side_NN at_IN the_DT Second_JJ Battle_NNP of_IN Newbury_NNP ._.
+His_PRP$ works_NNS are_VBP :_: A_DT prose_NN version_NN of_IN Pharonnida_NNP ,_, entitled_VBN Eromena_NNP ,_, or_CC the_DT Noble_NNP Stranger_NNP ,_, appeared_VBD in_IN 1683_CD ._.
+Robert_NNP Southey_NNP speaks_VBZ of_IN him_PRP as_IN ``_`` a_DT poet_NN to_TO whom_WP I_PRP am_VBP indebted_JJ for_IN many_JJ hours_NNS of_IN delight_NN ._. ''_''
+Pharonnida_NNP was_VBD reprinted_VBN by_IN S._NNP W._NNP Singer_NNP in_IN 1820_CD and_CC again_RB in_IN 1905_CD by_IN George_NNP Saintsbury_NNP in_IN Minor_NNP Poets_NNP of_IN the_DT Caroline_NNP Period_NNP -LRB-_-LRB- vol_NN ._.
+i_FW -RRB-_-RRB- ._.
+The_DT poem_NN is_VBZ loose_JJ in_IN construction_NN but_CC contains_VBZ some_DT passages_NNS of_IN great_JJ beauty_NN ._.

@@ -1,0 +1,73 @@
+On_IN duty_NN again_RB ._.
+Past_JJ few_JJ days_NNS difficult_JJ ._.
+Received_VBD a_DT Vappor_NNP works_VBZ high_JJ rise_NN for_IN my_PRP$ Spyder_NNP ._.
+My_PRP$ paintball_NN gun_NN is_VBZ getting_VBG better_JJR and_CC better_JJR ._.
+Received_VBD a_DT Gentoo_NNP Linux_NNP CD_NNP set_NN -LRB-_-LRB- generic_JJ install_VB ,_, Pentium4_NNP specific_NN ,_, AthlonXP_NNP specific_NN -RRB-_-RRB- and_CC a_DT Gentoo_NNP t-shirt_NN ._.
+Hope_NNP the_DT guy_NN who_WP created_VBD Gentoo_NNP Linux_NNP gets_VBZ enough_RB support_NN to_TO repay_VB his_PRP$ debts_NNS ._.
+His_PRP$ product_NN is_VBZ amazing_JJ ._.
+Too_RB bad_JJ he_PRP left_VBD the_DT developement_NN ..._: F_NN \*\*_SYM K_NNP !!!_CD My_PRP$ freedom_NN day_NN has_VBZ moved_VBN further_RB away_RB ..._: I_PRP thought_VBD i_FW would_MD be_VB free_JJ at_IN the_DT 1st_CD of_IN July_NNP but_CC apparently_RB it_PRP wo_MD n't_RB happen_VB until_IN the_DT 20th_JJ of_IN that_DT month_NN ..._: 20_CD More_JJR days_NNS of_IN service_NN ..._: AAAARGH_NNP !!!!_CD Had_VBD a_DT few_JJ moments_NNS to_TO work_VB on_IN my_PRP$ software_NN project_NN with_IN minimal_JJ results_NNS if_IN any_DT ..._: I_PRP need_VBP more_JJR time_NN ..._: maybe_RB i_FW should_MD move_VB it_PRP to_TO one_CD of_IN my_PRP$ servers_NNS so_RB as_IN to_TO work_VB on_IN it_PRP over_IN the_DT internet_NN ..._: Over_IN the_DT next_JJ few_JJ days_NNS i_FW will_MD have_VB many_JJ ``_`` social_JJ obligations_NNS ''_'' ._.
+I_PRP hate_VBP loosing_VBG my_PRP$ time_NN like_IN this_DT ._.
+Stil_NNP have_VBP n't_RB received_VBN my_PRP$ Hackademy_NNP Magazine_NNP ..._: Why_WRB does_VBZ it_PRP take_VB so_RB many_JJ days_NNS for_IN something_NN to_TO get_VB from_IN France_NNP to_TO Greece_NNP ??_NNP It_PRP is_VBZ three_CD hours_NNS to_TO travel_VB from_IN Athens_NNP to_TO Paris_NNP on_IN airplane_NN ,_, but_CC it_PRP is_VBZ almost_RB two_CD weeks_NNS since_IN i_FW made_VBN my_PRP$ order_NN ._.
+Maybe_RB i_FW should_MD start_VB investigating_VBG the_DT possibility_NN of_IN mail_NN loss_NN ..._: After_IN spending_VBG a_DT day_NN and_CC a_DT half_NN inside_IN the_DT camp_NN i_FW got_VBD home_NN yesterday_NN at_IN 16:00_CD just_RB to_TO leave_VB again_RB for_IN a_DT meeting_NN ._.
+I_PRP met_VBD with_IN my_PRP$ father_NN and_CC an_DT associate_NN to_TO discuss_VB the_DT new_JJ company_NN i_FW will_MD set_VB -_: up_RP ._.
+Our_PRP$ targets_NNS are_VBP realistic_JJ and_CC may_MD father_NN being_VBG a_DT salesman_NN for_IN 35_CD +_CD years_NNS will_MD be_VB of_IN great_JJ assistance_NN ._.
+I_PRP slept_VBD at_IN 00:15_CD and_CC got_VBD up_RP at_IN 12:07_CD ._.
+I_PRP needed_VBD that_IN sleep_NN ._.
+Today_NN I_NNP fixed_VBN Helen_NNP 's_POS -LRB-_-LRB- my_PRP$ girlfriend_NN 's_POS -RRB-_-RRB- car_NN and_CC just_RB sent_VBN -LRB-_-LRB- FINALLY_NNP -RRB-_-RRB- the_DT update_VBP to_TO my_PRP$ client_NN in_IN Rhodes_NNP island_NN ,_, since_IN I_PRP did_VBD n't_RB have_VB the_DT time_NN to_TO send_VB it_PRP earlier_RBR ._.
+I_PRP will_MD start_VB two_CD projects_NNS ._.
+One_CD is_VBZ a_DT software_NN project_NN I_PRP have_VBP been_VBN designing_VBG for_IN a_DT long_JJ time_NN now_RB and_CC the_DT second_NN is_VBZ a_DT secret_JJ project_NN -LRB-_-LRB- sorry_JJ ca_MD n't_RB disclose_VB details_NNS if_IN it_PRP goes_VBZ on_RB well_RB i_FW will_MD release_VB it_PRP in_IN public_NN -RRB-_-RRB- ._.
+The_DT software_NN project_NN will_MD be_VB L.A.M.P._NNP -_: J._NNP based_VBN -LRB-_-LRB- Linux_NNP apache_NN MySQL_NNP php_NN with_IN a_DT littil_NN bit_NN o_NN '_'' Java_NNP -RRB-_-RRB- and_CC will_MD for_IN the_DT basis_NN for_IN all_PDT the_DT intranet_JJ projects_NNS i_FW will_MD undertake_VB from_IN its_PRP$ completion_NN and_CC on_IN ._.
+The_DT goal_NN is_VBZ to_TO create_VB a_DT SAP-like_JJ base_NN which_WDT will_MD be_VB transformable_JJ to_TO any_DT data_NNS manipulation_NN project_NN the_DT client_NN will_MD need_VB ._.
+I_PRP already_RB have_VBP a_DT crude_NN first_RB version_NN available_JJ but_CC i_FW will_MD start_VB from_IN scratch_NN so_RB as_IN to_TO cure_VB all_DT problems_NNS i_FW found_VBN in_IN the_DT course_NN of_IN the_DT first_JJ experiment_NN ._.
+I_PRP will_MD have_VB an_DT e-mail_NN for_IN communication_NN about_IN my_PRP$ blog_NN and_CC what_WP i_FW write_VB in_IN it_PRP ,_, since_IN i_FW do_VBP n't_RB want_VB my_PRP$ primary_JJ email_NN to_TO be_VB flooded_VBN with_IN spam_NN -LRB-_-LRB- no_DT offence_NN for_IN any_DT one_CD legitimate_JJ e-mailer_NN no_DT matter_NN what_WP he_PRP says_VBZ in_IN his_PRP$ email_NN ,_, i_FW mean_VB these_DT stupid_JJ people_NNS who_WP try_VBP to_TO extract_VB emails_NNS from_IN such_JJ pages_NNS so_RB as_IN to_TO send_VB their_PRP$ useless_JJ and_CC annoying_JJ ads_NNS -RRB-_-RRB- ._.
+Today_NN i_FW picked_VBD up_RP the_DT present_NN for_IN Helen_NNP ._.
+-LRB-_-LRB- The_DT saint_NN who_WP has_VBZ her_PRP$ name_NN is_VBZ celebrated_VBN at_IN 21st_CD May_NNP ._.
+In_IN my_PRP$ country_NN it_PRP is_VBZ a_DT tradition_NN to_TO celebrate_VB one_CD 's_POS name_NN the_DT day_NN that_IN the_DT corresponding_JJ saint_NN is_VBZ celebrated_VBN ,_, i_FW do_VBP n't_RB know_VB if_IN this_DT happens_VBZ in_IN other_JJ countries_NNS too_RB ..._: -RRB-_-RRB- I_PRP still_RB wait_VB for_IN a_DT few_JJ parts_NNS for_IN my_PRP$ paintball_NN gun_NN ._.
+I_PRP will_MD describe_VB my_PRP$ Spyder_NNP in_IN a_DT later_JJ post_NN ,_, when_WRB i_FW receive_VB the_DT parts_NNS i_FW wait_VB for_IN ._.
+Too_RB bad_JJ i_FW do_VBP n't_RB have_VB much_JJ money_NN to_TO buy_VB a_DT better_JJR board_NN for_IN it_PRP ,_, to_TO brake_VB the_DT 13bps_NNS limit_NN ._.
+I_PRP think_VBP i_FW will_MD get_VB the_DT T-board_NN ._.
+Or_CC should_MD i_FW take_VB the_DT IS-board_NNP ???_NNP But_CC only_RB when_WRB i_FW find_VB some_DT money_NN ..._: I_PRP will_MD definitely_RB get_VB a_DT Q-loader_NN ._.
+I_PRP believe_VBP that_IN it_PRP is_VBZ really_RB innovating_JJ and_CC worth_JJ a_DT look_NN ._.
+It_PRP is_VBZ cheaper_JJR than_IN a_DT Halo_NNP B_NNP and_CC feeds_VBZ more_JJR than_IN 30BPS_CD !!!_CD SH_NNP \*\*_SYM !!_FW i_FW need_NN to_TO get_VB some_DT more_JJR money_NN !_.
+I_PRP may_MD start_VB teaching_VBG programming_NN ..._: or_CC maybe_RB put_VBD a_DT classified_JJ ad_NN in_IN the_DT papers_NNS to_TO find_VB some_DT more_JJR clients_NNS for_IN network_NN servicing_NN ..._: Tomorrow_NN is_VBZ the_DT supermarket_NN day_NN ._.
+Got_NNP to_TO go_VB shopping_NN for_IN home_NN ._.
+Helen_NNP is_VBZ passing_VBG an_DT ``_`` Entry_NN ''_'' examination_NN tomorrow_NN in_IN English_NNP ._.
+If_IN she_PRP passes_VBZ the_DT test_NN with_IN a_DT good_JJ grade_NN she_PRP will_MD be_VB able_JJ to_TO go_VB for_IN the_DT ``_`` Proficiency_NNP ''_'' diploma_NN in_IN six_CD months_NNS if_IN she_PRP does_VBZ n't_RB get_VB a_DT good_JJ grade_NN she_PRP will_MD be_VB examined_VBN for_IN ``_`` Proficiency_NNP ''_'' in_IN a_DT year_NN ._.
+Good_JJ Luck_NNP Helen_NNP ..._: Ok_NNP ,_, got_VBD the_DT fax_NN and_CC spare_JJ parts_NNS for_IN the_DT car_NN ._.
+I_PRP will_MD install_VB the_DT car_NN parts_NNS Friday_NNP morning_NN ._.
+I_PRP should_MD n't_RB forget_VB that_DT Thursday_NNP afternoon_NN i_FW should_MD review_VB the_DT PSDs_NNS i_FW got_VBD ._.
+On_IN my_PRP$ way_NN to_TO check_VB that_DT internet_NN connection_NN ._.
+When_WRB i_FW return_NN i_FW will_MD run_VB the_DT tests_NNS and_CC email_VB the_DT upgrades_NNS ._. ._.
+I_PRP should_MD start_VB making_VBG a_DT list_NN of_IN things_NNS to_TO buy_VB for_IN project_NN HydroTunnel_NNP ._.
+More_RBR on_IN what_WP this_DT is_VBZ later_RB ..._: Today_NN 's_POS mission_NN \/_NN todo_NN list_NN :_: a_DT -RRB-_-RRB- retrieve_VB my_PRP$ fax_NN machine_NN from_IN my_PRP$ ex_FW -_: partners_NNS '_POS office_NN and_CC install_VB it_PRP in_IN mine_NN ._.
+b_NN -RRB-_-RRB- buy_VB a_DT spare_JJ thermostat_NN for_IN my_PRP$ girlfriend_NN 's_POS car_NN and_CC install_VB it_PRP if_IN possible_JJ ._.
+c_NN -RRB-_-RRB- check_VB the_DT internet_NN connrction_NN of_IN a_DT client_NN ._.
+d_LS -RRB-_-RRB- e-mail_NN to_TO a_DT client_NN in_IN Rhodes_NNP island_NN an_DT update_VB for_IN the_DT publishing_NN program_NN i_FW wrote_VBD for_IN them_PRP ._.
+Comments_NNS :_: a_LS -RRB-_-RRB- Before_IN joining_VBG the_DT army_NN i_FW had_VBD a_DT company_NN setup_NN with_IN 3_CD more_JJR associates_NNS ._.
+When_WRB i_FW was_VBD called_VBN for_IN duty_NN they_PRP broke_VBD up_IN the_DT company_NN and_CC started_VBD their_PRP$ own_JJ ._.
+They_PRP took_VBD most_JJS of_IN my_PRP$ stuff_NN with_IN them_PRP ._.
+Gradually_RB i_FW took_VBD everything_NN back_RB now_RB that_IN my_PRP$ service_NN is_VBZ reaching_VBG the_DT end_NN -LRB-_-LRB- no_DT fights_NNS or_CC anything_NN ,_, we_PRP are_VBP ok_RB ,_, just_RB do_VBP n't_RB do_VB business_NN together_RB any_DT more_JJR -RRB-_-RRB- ._.
+My_PRP$ Fax_NN machine_NN and_CC a_DT few_JJ Photoshop_NNP PSDs_NNPS is_VBZ what_WP remains_VBZ to_TO be_VB retrieved_VBN which_WDT i_FW hope_NN to_TO do_VB right_RB now_RB ._.
+b_NN -RRB-_-RRB- My_PRP$ girlfriend_NN bought_VBD a_DT used_VBN 20_CD years_NNS old_JJ Zastava_NNP Yugo_NNP -LRB-_-LRB- Yugoslavian_JJ cars_NNS with_IN Fiat_NNP internals_NNS -RRB-_-RRB- ._.
+She_PRP intends_VBZ to_TO get_VB used_VBN to_TO driving_VBG with_IN it_PRP ._.
+Although_IN she_PRP has_VBZ her_PRP$ license_NN many_JJ years_NNS now_RB ,_, she_PRP has_VBZ ,_, virtually_RB ,_, no_DT driving_VBG experience_NN ._.
+A_DT few_JJ days_NNS ago_RB ,_, while_IN she_PRP was_VBD driving_VBG around_IN our_PRP$ home_NN looking_VBG for_IN a_DT place_NN to_TO park_NN ,_, vapor_NN came_VBD out_IN of_IN the_DT hood_NN ._.
+Verdict_NN :_: destroyed_VBN thermostat_RB ._.
+Lucky_JJ we_PRP did_VBD n't_RB ``_`` burn_VBP ''_'' the_DT poor_JJ engine_NN ..._: I_PRP will_MD buy_VB a_DT couple_NN of_IN these_DT AND_CC install_VB a_DT bypass_NN switch_NN for_IN the_DT ventilator_NN so_RB as_IN not_RB to_TO have_VB any_DT such_JJ trouble_NN again_RB ._.
+c_NN -RRB-_-RRB- A_DT router_NN gone_VBN bananas_NNS dialed_VBD to_TO the_DT internet_NN all_DT day_NN for_IN a_DT couple_NN of_IN months_NNS charging_VBG a_DT client_NN about_IN 2k_CD ,_, ._.
+He_PRP canceled_VBD the_DT phone_NN line_NN and_CC now_RB that_IN the_DT router_NN is_VBZ fixed_VBN he_PRP ordered_VBD the_DT line_NN again_RB ._.
+My_PRP$ task_NN is_VBZ to_TO do_VB the_DT final_JJ check_NN and_CC make_VB sure_JJ all_DT is_VBZ ok_NN ._.
+d_LS -RRB-_-RRB- Emailing_VBG an_DT update_VB is_VBZ no_DT big_JJ deal_NN ..._: The_DT problem_NN is_VBZ that_IN i_FW have_VBP to_TO test_VB it_PRP first_RB and_CC that_DT is_VBZ a_DT BORING_JJ thing_NN to_TO do_VB ..._: This_DT is_VBZ my_PRP$ first_JJ Blog_NNP ._.
+Content_NN posted_VBD here_RB is_VBZ my_PRP$ thoughts_NNS ,_, research_NN and_CC projects_NNS ._.
+I_PRP am_VBP interested_JJ in_IN anything_NN so_RB email_VB me_PRP interesting_JJ stuf_NN on_IN technology_NN ,_, physics_NNS etc._FW ._. ._.
+<warining>_JJ my_PRP$ english_JJ sux_NN !_.
+</warning>_NN ._.
+I_PRP spent_VBD quite_RB some_DT time_NN today_NN searching_VBG the_DT net_NN for_IN info_NN on_IN carbon_NN fiber_NN materials_NNS ._.
+Amazingly_RB enough_RB ,_, quite_RB some_DT people_NNS in_IN the_DT states_NNS make_VBP racing_VBG bicycles_NNS using_VBG these_DT materials_NNS ._.
+Prices_NNS are_VBP quite_RB elevated_VBN :_: $_$ 5_CD +_NN for_IN a_DT yard_NN of_IN carbon_NN fiber_NN cloth_NN about_IN 6_CD inches_NNS wide_JJ ..._: Plus_CC the_DT materials_NNS you_PRP need_VBP to_TO do_VB the_DT job_NN -LRB-_-LRB- epoxy_JJ et_FW al_FW -RRB-_-RRB- ._.
+Phew_NNP !_.
+No_DT wonder_NN they_PRP charge_VBP so_RB much_JJ for_IN stuf_NN made_VBN by_IN CF_NNP ..._: I_PRP intend_VBP to_TO try_VB locating_VBG such_JJ stuf_NN in_IN my_PRP$ country_NN ._.
+i_FW would_MD like_VB to_TO build_VB things_NNS from_IN it_PRP ._.
+A_DT small_JJ car_NN chasis_NN would_MD be_VB one_CD ,_, for_IN sure_JJ ,_, but_CC that_DT would_MD cost_VB quite_RB a_DT bit_NN ._.
+hmmm_NN ..._: Let_VB 's_POS see_VB ..._: Errr_NNP ..._: nope_NN ,_, ca_MD n't_RB calculate_VB how_WRB much_JJ ._.
+over_IN ,_, 2k5_NNS -LRB-_-LRB- that_DT 's_VBZ $_$ 3k_CD -RRB-_-RRB- for_IN sure_JJ ..._:

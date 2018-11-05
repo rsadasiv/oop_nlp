@@ -1,0 +1,10 @@
+Florence_NNP Caddy_NNP -LRB-_-LRB- 1837_CD ``_`` 1923_CD -RRB-_-RRB- was_VBD an_DT English_JJ non-fiction_NN writer_NN from_IN Middlesex_NNP ._.
+She_PRP wrote_VBD the_DT first_JJ well-known_JJ book_NN on_IN household_NN management_NN ._.
+She_PRP was_VBD born_VBN in_IN Middlesex_NNP -LRB-_-LRB- now_RB part_NN of_IN London_NNP -RRB-_-RRB- in_IN 1837_CD ,_, as_IN Florence_NNP Tompson_NNP ._.
+She_PRP married_VBD John_NNP Turner_NNP Caddy_NNP in_IN 1857_CD at_IN Church_NNP of_IN Christ_NNP the_DT King_NNP ,_, Bloomsbury_NNP in_IN London_NNP and_CC had_VBD five_CD children_NNS :_: John_NNP Francis_NNP in_IN 1857_CD ,_, Florence_NNP in_IN 1863_CD ,_, Arnold_NNP in_IN 1866_CD ,_, Hermione_NNP Helena_NNP in_IN 1869_CD and_CC Adrian_NNP in_IN 1879_CD ._.
+Her_PRP$ husband_NN died_VBD in_IN 1902_CD and_CC she_PRP died_VBD in_IN 1923_CD in_IN Plymouth_NNP ._.
+Caddy_NNP 's_POS 1877_CD Household_NNP Organization_NNP covers_VBZ most_RBS aspects_NNS of_IN housekeeping_NN in_IN its_PRP$ 84_CD pages_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Her_PRP$ 1886_CD book_NN on_IN Joan_NNP of_IN Arc_NNP was_VBD described_VBN in_IN a_DT review_NN in_IN The_DT Spectator_NNP as_IN ``_`` eminently_RB readable_JJ ''_'' ._.
+However_RB ,_, the_DT reviewer_NN notes_VBZ that_IN she_PRP ``_`` does_VBZ not_RB belong_VB to_TO the_DT sceptical_JJ school_NN of_IN historians_NNS ._.
+Believing_VBG Jeanne_NNP to_TO have_VB been_VBN a_DT divinely_RB inspired_VBN heroine_NN ,_, she_PRP casts_VBZ no_DT doubt_NN on_IN the_DT reality_NN of_IN her_PRP$ voices_NNS and_CC visions_NNS ._. ''_''
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

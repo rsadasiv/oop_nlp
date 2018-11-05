@@ -1,0 +1,10 @@
+NASA_NNP scientists_NNS are_VBP yet_RB to_TO hear_VB from_IN the_DT Mars_NNP Opportunity_NNP Rover_NNP ,_, which_WDT has_VBZ been_VBN silent_JJ since_IN a_DT global_JJ dust_NN storm_NN enshrouded_VBD the_DT red_JJ planet_NN ._.
+According_VBG to_TO the_DT US_NNP space_NN agency_NN ,_, it_PRP is_VBZ possible_JJ that_IN a_DT layer_NN of_IN dust_NN deposited_VBN on_IN the_DT rover_NN 's_POS solar_JJ panels_NNS by_IN the_DT dust_NN storm_NN is_VBZ blocking_VBG sunlight_NN that_WDT could_MD recharge_VB its_PRP$ batteries_NNS ._.
+No_DT one_NN can_MD tell_VB just_RB how_WRB much_JJ dust_NN has_VBZ been_VBN deposited_VBN on_IN its_PRP$ panels_NNS ,_, NASA_NNP said_VBD in_IN a_DT statement_NN ._.
+The_DT agency_NN 's_POS Jet_NNP Propulsion_NNP Laboratory_NNP is_VBZ employing_VBG a_DT combination_NN of_IN listening_VBG and_CC commanding_VBG methods_NNS in_IN case_NN Opportunity_NNP is_VBZ still_RB operational_JJ ._.
+A_DT windy_JJ period_NN on_IN Mars_NNP --_: known_VBN to_TO Opportunity_NNP 's_POS team_NN as_IN ``_`` dust-clearing_JJ season_NN ''_'' --_: occurs_VBZ in_IN the_DT November-to-January_JJ time_NN frame_NN and_CC has_VBZ helped_VBN clean_VB the_DT rover_NN 's_POS panels_NNS in_IN the_DT past_NN ._.
+The_DT team_NN remains_VBZ hopeful_JJ that_IN some_DT dust_NN clearing_NN may_MD result_VB in_IN hearing_NN from_IN the_DT rover_NN in_IN this_DT period_NN ._.
+Opportunity_NNP has_VBZ exceeded_VBN its_PRP$ expected_VBN lifespan_JJ many_JJ times_NNS over_IN ._.
+Both_DT Opportunity_NNP and_CC its_PRP$ twin_NN ,_, Spirit_NN ,_, were_VBD designed_VBN to_TO last_VB only_RB 90_CD days_NNS on_IN the_DT Martian_JJ surface_NN ,_, with_IN the_DT expectation_NN that_IN the_DT planet_NN 's_POS extreme_JJ winters_NNS and_CC dust_NN storms_NNS could_MD cut_VB their_PRP$ mission_NN short_RB ._.
+The_DT rover_NN has_VBZ lasted_VBN nearly_RB 15_CD years_NNS ._.
+It_PRP last_JJ communicated_VBN on_IN June_NNP 10_CD before_IN being_VBG forced_VBN into_IN hibernation_NN by_IN the_DT growing_VBG dust_NN storm_NN ._.

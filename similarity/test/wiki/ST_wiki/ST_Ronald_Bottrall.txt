@@ -1,0 +1,5 @@
+-LRB-_-LRB- Francis_NNP James_NNP -RRB-_-RRB- Ronald_NNP Bottrall_NNP -LRB-_-LRB- 2_CD September_NNP 1906_CD ,_, Camborne_NNP ,_, Cornwall-25_NNP June_NNP 1989_CD -RRB-_-RRB- was_VBD a_DT Cornish_NNP poet_NN ._.
+He_PRP was_VBD praised_VBN highly_RB by_IN F.R._NNP Leavis_NNP and_CC Martin_NNP Seymour-Smith_NNP ._.
+Education_NNP :_: Redruth_NNP Grammar_NNP School_NNP ;_: Pembroke_NNP College_NNP ,_, Cambridge_NNP ._.
+He_PRP was_VBD the_DT father_NN of_IN Anthony_NNP Bottrall_NNP ,_, the_DT diplomat_NN ,_, expert_NN in_IN developmental_JJ agriculture_NN and_CC politician_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

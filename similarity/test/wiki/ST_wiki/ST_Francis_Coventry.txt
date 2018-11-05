@@ -1,0 +1,5 @@
+Francis_NNP Coventry_NNP -LRB-_-LRB- 1725_CD ''_'' 1754_CD ?_. -RRB-_-RRB-
+was_VBD an_DT English_JJ cleric_NN and_CC novelist_NN ,_, best_JJS known_VBN for_IN The_DT History_NN of_IN Pompey_NNP the_DT Little_NNP ._.
+A_DT native_NN of_IN Cambridgeshire_NNP ,_, he_PRP was_VBD educated_VBN at_IN Magdalene_NNP College_NNP ,_, Cambridge_NNP ,_, where_WRB he_PRP proceeded_VBD B.A._NNP 1748_CD and_CC M.A._NNP 1752_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD appointed_VBN by_IN his_PRP$ kinsman_NN the_DT Earl_NNP of_IN Coventry_NNP to_TO the_DT perpetual_JJ curacy_NN of_IN Edgware_NNP ,_, and_CC died_VBD of_IN smallpox_NN at_IN Whitchurch_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Coventry_NNP was_VBD the_DT author_NN of_IN :_: -LRB-_-LRB- 2_LS -RRB-_-RRB-

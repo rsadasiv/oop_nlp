@@ -1,0 +1,60 @@
+George_NNP Bentham_NNP CMG_NNP FRS_NNP FLS_NNP -LRB-_-LRB- 22_CD September_NNP 1800_CD ''_'' 10_CD September_NNP 1884_CD -RRB-_-RRB- was_VBD an_DT English_JJ botanist_NN ,_, described_VBN by_IN the_DT weed_NN botanist_NN Duane_NNP Isely_NNP as_IN ``_`` the_DT premier_NN systematic_JJ botanist_NN of_IN the_DT nineteenth_JJ century_NN ''_'' ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Bentham_NNP was_VBD born_VBN in_IN Stoke_NNP ,_, Plymouth_NNP ,_, on_IN 22_CD September_NNP 1800_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ father_NN ,_, Sir_NNP Samuel_NNP Bentham_NNP ,_, a_DT naval_JJ architect_NN ,_, was_VBD the_DT only_JJ brother_NN of_IN Jeremy_NNP Bentham_NNP to_TO survive_VB into_IN adulthood_NN ._.
+His_PRP$ mother_NN ,_, Mary_NNP Sophia_NNP Bentham_NNP ,_, was_VBD a_DT botanist_NN and_CC author_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- George_NNP Bentham_NNP had_VBD no_DT formal_JJ education_NN ,_, but_CC had_VBD a_DT remarkable_JJ linguistic_JJ aptitude_NN ._.
+By_IN the_DT age_NN of_IN seven_CD he_PRP could_MD speak_VB French_JJ ,_, German_JJ and_CC Russian_JJ ,_, and_CC he_PRP learned_VBD Swedish_NNP during_IN a_DT short_JJ residence_NN in_IN Sweden_NNP while_IN still_RB a_DT child_NN ._.
+The_DT family_NN made_VBD a_DT long_JJ tour_NN through_IN France_NNP ,_, staying_VBG two_CD years_NNS at_IN Montauban_NNP ,_, where_WRB Bentham_NNP studied_VBD Hebrew_NNP and_CC mathematics_NNS in_IN the_DT Protestant_JJ Theological_NNP School_NNP ._.
+They_PRP eventually_RB settled_VBD near_IN Montpellier_NNP where_WRB Sir_NNP Samuel_NNP bought_VBD a_DT large_JJ estate_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- While_IN studying_VBG at_IN Angoulême_NNP ,_, Bentham_NNP came_VBD across_IN a_DT copy_NN of_IN A._NN P._NNP de_NNP Candolle_NNP 's_POS Flore_NNP française_NN ,_, and_CC became_VBD interested_JJ in_IN the_DT analytical_JJ tables_NNS for_IN identifying_VBG plants_NNS ._.
+He_PRP immediately_RB tested_VBD them_PRP on_IN the_DT first_JJ plant_NN he_PRP saw_VBD ._.
+The_DT result_NN was_VBD successful_JJ and_CC he_PRP applied_VBD it_PRP to_TO every_DT plant_NN he_PRP came_VBD across_IN ._.
+In_IN London_NNP in_IN 1823_CD ,_, he_PRP met_VBD English_NNP botanists_NNS ._.
+His_PRP$ uncle_NN pushed_VBD him_PRP to_TO study_VB law_NN at_IN Lincoln_NNP 's_POS Inn_NNP ._.
+He_PRP was_VBD Call_VB to_TO the_DT bar_NN and_CC in_IN 1832_CD held_VBD his_PRP$ first_JJ and_CC only_JJ legal_JJ brief_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- However_RB ,_, his_PRP$ interest_NN in_IN botany_NN never_RB flagged_VBD and_CC he_PRP became_VBD secretary_NN of_IN the_DT Horticultural_NNP Society_NNP of_IN London_NNP from_IN 1829_CD to_TO 1840_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 1832_CD ,_, he_PRP inherited_VBD the_DT property_NN of_IN his_PRP$ uncle_NN ,_, Jeremy_NNP Bentham_NNP ._.
+Having_VBG inherited_VBN his_PRP$ father_NN 's_POS estate_NN the_DT previous_JJ year_NN ,_, he_PRP was_VBD now_RB sufficiently_RB well_RB off_IN to_TO do_VB whatever_WDT he_PRP wanted_VBD ,_, which_WDT was_VBD botany_NN ,_, jurisprudence_NN and_CC logic_NN ._.
+Bentham_NNP married_JJ Sarah_NNP Jones_NNP -LRB-_-LRB- 1798_CD ``_`` 1881_CD -RRB-_-RRB- ,_, daughter_NN of_IN Sir_NNP Harford_NNP Jones_NNP Brydges_NNP ,_, on_IN 11_CD April_NNP 1833_CD ;_: they_PRP did_VBD not_RB have_VB children_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Bentham_NNP died_VBD at_IN his_PRP$ London_NNP home_NN on_IN 10_CD September_NNP 1884_CD ,_, aged_VBN 83_CD ._.
+He_PRP was_VBD laid_VBN to_TO rest_VB in_IN Brompton_NNP Cemetery_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Bentham_NNP 's_POS life_NN spanned_VBD the_DT Darwinian_JJ revolution_NN ,_, and_CC his_PRP$ young_JJ colleague_NN Joseph_NNP Dalton_NNP Hooker_NNP was_VBD Darwin_NNP 's_POS closest_JJS friend_NN and_CC one_CD of_IN the_DT first_JJ to_TO accept_VB Darwin_NNP 's_POS ideas_NNS ._.
+Until_IN then_RB ,_, Bentham_NNP unquestioningly_RB believed_VBD that_IN species_NNS were_VBD fixed_VBN ._.
+In_IN 1874_CD he_PRP wrote_VBD that_IN ``_`` Fifteen_CD years_NNS have_VBP sufficed_VBN to_TO establish_VB a_DT theory_NN -LRB-_-LRB- of_IN evolution_NN by_IN natural_JJ selection_NN -RRB-_-RRB- ''_'' ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- Bentham_NNP 's_POS conversion_NN to_TO the_DT new_JJ line_NN of_IN thought_NN was_VBD complete_JJ ,_, and_CC included_VBD a_DT change_NN from_IN typology_NN in_IN taxonomy_NN to_TO an_DT appreciation_NN that_IN ``_`` We_PRP can_MD not_RB form_VB an_DT idea_NN of_IN a_DT species_NNS from_IN a_DT single_JJ individual_NN ,_, nor_CC of_IN a_DT genus_NN from_IN a_DT single_JJ one_CD of_IN its_PRP$ species_NNS ._.
+We_PRP can_MD no_RB more_RBR set_VBN up_RP a_DT typical_JJ species_NNS than_IN a_DT typical_JJ individual_NN ._. ''_''
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Bentham_NNP was_VBD awarded_VBN the_DT Royal_NNP Medal_NNP of_IN the_DT Royal_NNP Society_NNP in_IN 1859_CD and_CC elected_VBD a_DT Fellow_NNP in_IN 1862_CD ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- He_PRP served_VBD as_IN president_NN of_IN the_DT Linnean_NNP Society_NNP of_IN London_NNP from_IN 1861_CD to_TO 1874_CD ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- He_PRP was_VBD elected_VBN a_DT Foreign_JJ Honorary_NNP Member_NNP of_IN the_DT American_NNP Academy_NNP of_IN Arts_NNS and_CC Sciences_NNPS in_IN 1866_CD ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- He_PRP was_VBD appointed_VBN CMG_NNP -LRB-_-LRB- Companion_NNP of_IN St_NNP Michael_NNP &_CC St_NNP George_NNP -RRB-_-RRB- in_IN 1878_CD ._.
+His_PRP$ foreign_JJ awards_NNS included_VBD the_DT Clarke_NNP Medal_NNP of_IN the_DT Royal_NNP Society_NNP of_IN New_NNP South_NNP Wales_NNP in_IN 1879_CD ._.
+Bentham_NNP 's_POS first_JJ publication_NN was_VBD his_PRP$ Catalogue_NN des_FW plantes_FW indigènes_FW des_FW Pyrénées_FW et_FW du_NNP Bas_NNP Languedoc_NNP -LRB-_-LRB- Paris_NNP 1826_CD -RRB-_-RRB- ,_, the_DT result_NN of_IN a_DT careful_JJ exploration_NN of_IN the_DT Pyrenees_NNPS in_IN company_NN with_IN G._NNP A._NNP Walker_NNP Arnott_NNP -LRB-_-LRB- 1799_CD ``_`` 1868_CD -RRB-_-RRB- ,_, afterwards_RB professor_NN of_IN botany_NN in_IN the_DT University_NNP of_IN Glasgow_NNP ._.
+In_IN the_DT catalogue_NN Bentham_NNP adopted_VBD the_DT principle_NN from_IN which_WDT he_PRP never_RB deviated_VBD ,_, of_IN citing_VBG nothing_NN at_IN second-hand_NN ._.
+This_DT was_VBD followed_VBN by_IN articles_NNS on_IN various_JJ legal_JJ subjects_NNS :_: on_IN codification_NN ,_, in_IN which_WDT he_PRP disagreed_VBD with_IN his_PRP$ uncle_NN ,_, on_IN the_DT laws_NNS affecting_VBG larceny_NN and_CC on_IN the_DT law_NN of_IN real_JJ property_NN ._.
+But_CC the_DT most_RBS remarkable_JJ production_NN of_IN this_DT period_NN was_VBD the_DT Outline_NNP of_IN a_DT new_JJ system_NN of_IN logic_NN ,_, with_IN a_DT critical_JJ examination_NN of_IN Dr_NNP Whately_NNP 's_POS Elements_NNS of_IN Logic_NNP -LRB-_-LRB- 1827_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- In_IN this_DT the_DT principle_NN of_IN the_DT quantification_NN of_IN the_DT predicate_NN was_VBD first_JJ explicitly_RB stated_VBN ._.
+This_DT Stanley_NNP Jevons_NNP declared_VBD to_TO be_VB undoubtedly_RB the_DT most_RBS fruitful_JJ discovery_NN made_VBN in_IN abstract_JJ logical_JJ science_NN since_IN the_DT time_NN of_IN Aristotle_NNP ._.
+Before_IN sixty_JJ copies_NNS had_VBD been_VBN sold_VBN the_DT publisher_NN became_VBD bankrupt_JJ and_CC the_DT stock_NN went_VBD for_IN wastepaper_NN ._.
+The_DT book_NN passed_VBD into_IN oblivion_NN ,_, and_CC it_PRP was_VBD not_RB till_IN 1873_CD that_WDT Bentham_NNP 's_POS claims_NNS to_TO priority_NN were_VBD finally_RB vindicated_VBN against_IN those_DT of_IN Sir_NNP William_NNP Hamilton_NNP by_IN Herbert_NNP Spencer_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1836_CD he_PRP published_VBD his_PRP$ Labiatarum_NNP genera_NN et_FW species_NNS ._.
+In_IN preparing_VBG this_DT work_NN he_PRP visited_VBD ,_, between_IN 1830_CD ``_`` 1834_CD ,_, every_DT European_JJ herbarium_NN ,_, several_JJ more_JJR than_IN once_RB ._.
+The_DT following_VBG winter_NN was_VBD passed_VBN in_IN Vienna_NNP ,_, where_WRB he_PRP produced_VBD his_PRP$ Commentationes_NNP de_IN Leguminosarum_NNP generibus_NN ,_, published_VBN in_IN the_DT annals_NN of_IN the_DT Vienna_NNP Museum_NNP ._.
+In_IN 1842_CD he_PRP moved_VBD to_TO Pontrilas_NNP in_IN Herefordshire_NNP ._.
+His_PRP$ chief_JJ occupation_NN for_IN the_DT next_JJ few_JJ years_NNS was_VBD his_PRP$ contributions_NNS to_TO the_DT Prodromus_NNP Systematis_NNP Naturalis_NNP Regni_NNP Vegetabilis_NNP ,_, which_WDT was_VBD being_VBG carried_VBN on_IN by_IN his_PRP$ friend_NN ,_, A._NN P._NNP de_NNP Candolle_NNP ._.
+In_IN all_DT these_DT dealt_VBN with_IN some_DT 4,730_CD species_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1844_CD ,_, he_PRP provided_VBD the_DT botanical_JJ descriptions_NNS for_IN The_DT Botany_NNP of_IN the_DT Voyage_NN of_IN H.M.S._NNP Sulphur_NNP ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- The_DT editor_NN ,_, Richard_NNP Brinsley_NNP Hinds_NNP ,_, had_VBD been_VBN surgeon_NN on_IN HMS_NNP Sulphur_NNP 1835-41_CD while_IN she_PRP explored_VBD the_DT Pacific_NNP coast_NN of_IN the_DT Americas_NNPS ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- In_IN 1854_CD he_PRP found_VBD the_DT maintenance_NN of_IN a_DT herbarium_NN and_CC library_NN too_RB expensive_JJ ._.
+He_PRP therefore_RB offered_VBD them_PRP to_TO the_DT government_NN on_IN the_DT understanding_NN that_IN they_PRP should_MD form_VB the_DT foundation_NN of_IN such_JJ necessary_JJ aids_NNS to_TO research_NN in_IN the_DT Royal_NNP Botanic_NNP Gardens_NNP ,_, Kew_NNP ._.
+At_IN the_DT same_JJ time_NN he_PRP contemplated_VBD the_DT abandonment_NN of_IN botanical_JJ work_NN ._.
+However_RB ,_, he_PRP yielded_VBD to_TO the_DT persuasion_NN of_IN Sir_NNP William_NNP Jackson_NNP Hooker_NNP ,_, John_NNP Lindley_NNP and_CC other_JJ scientific_JJ friends_NNS ._.
+In_IN 1855_CD he_PRP took_VBD up_RP his_PRP$ residence_NN in_IN London_NNP ,_, and_CC worked_VBD at_IN Kew_NNP for_IN five_CD days_NNS a_DT week_NN ,_, with_IN a_DT brief_JJ summer_NN holiday_NN ,_, from_IN this_DT time_NN onwards_VBZ till_IN the_DT end_NN of_IN his_PRP$ life_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1857_CD ,_, the_DT government_NN sanctioned_VBD a_DT scheme_NN for_IN the_DT preparation_NN of_IN a_DT series_NN of_IN Floras_NNP or_CC descriptions_NNS in_IN the_DT English_NNP language_NN of_IN the_DT indigenous_JJ plants_NNS of_IN British_JJ colonies_NNS and_CC possessions_NNS ._.
+Bentham_NNP began_VBD with_IN the_DT Flora_NNP Hongkongensis_NNP in_IN 1861_CD ,_, which_WDT was_VBD the_DT first_RB comprehensive_JJ work_NN on_IN any_DT part_NN of_IN the_DT little-known_JJ flora_NNS of_IN China_NNP and_CC Hong_NNP Kong_NNP ,_, including_VBG Hong_NNP Kong_NNP Croton_NNP ._.
+This_DT was_VBD followed_VBN by_IN the_DT Flora_NNP Australiensis_NNP ,_, in_IN seven_CD volumes_NNS -LRB-_-LRB- 1863_CD ``_`` 1878_CD -RRB-_-RRB- ,_, the_DT first_JJ flora_NNS of_IN any_DT large_JJ continental_JJ area_NN that_WDT had_VBD ever_RB been_VBN finished_VBN ._.
+His_PRP$ greatest_JJS work_NN was_VBD the_DT Genera_NNP Plantarum_NNP ,_, begun_VBN in_IN 1862_CD ,_, and_CC concluded_VBD in_IN 1883_CD in_IN collaboration_NN with_IN Joseph_NNP Dalton_NNP Hooker_NNP ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- His_PRP$ most_RBS famous_JJ work_NN ,_, however_RB ,_, was_VBD the_DT Handbook_NNP of_IN the_DT British_JJ flora_NNS ,_, begun_VBN in_IN 1853_CD and_CC first_JJ published_VBN in_IN 1858_CD ._.
+This_DT was_VBD used_VBN by_IN students_NNS for_IN over_IN a_DT century_NN ,_, running_VBG into_IN many_JJ editions_NNS ._.
+After_IN his_PRP$ death_NN it_PRP was_VBD edited_VBN by_IN Hooker_NNP ,_, and_CC was_VBD known_VBN simply_RB as_IN Bentham_NNP &_CC Hooker_NNP ._.
+He_PRP is_VBZ most_RBS famous_JJ for_IN his_PRP$ extensive_JJ and_CC excellent_JJ classification_NN of_IN plants_NNS ,_, especially_RB angiosperms_NNS ,_, along_IN with_IN Hooker_NNP ,_, forming_VBG the_DT ``_`` Bentham_NNP &_CC Hooker_NNP system_NN ''_'' ,_, which_WDT was_VBD published_VBN in_IN three_CD volumes_NNS as_IN Genera_NNP Plantarum_NNP between_IN 1862_CD and_CC 1883_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT following_VBG plants_NNS have_VBP been_VBN named_VBN in_IN his_PRP$ honor_NN :_:

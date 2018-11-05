@@ -1,0 +1,4 @@
+Police_NNS in_IN Pakistan_NNP say_VBP a_DT methane_NN gas_NN explosion_NN in_IN a_DT coal_NN mine_NN has_VBZ killed_VBN at_IN least_JJS four_CD miners_NNS and_CC trapped_VBN 13_CD others_NNS ._.
+Local_JJ police_NNS official_JJ Wajeet_NNP Khan_NNP says_VBZ the_DT blast_NN happened_VBD Sunday_NNP in_IN the_DT village_NN of_IN Sanjdi_NNP ,_, about_IN 50_CD kilometers_NNS -LRB-_-LRB- 30_CD miles_NNS -RRB-_-RRB- east_JJ of_IN Quetta_NNP ._.
+He_PRP says_VBZ rescuers_NNS have_VBP retrieved_VBN four_CD bodies_NNS and_CC that_IN 13_CD other_JJ miners_NNS are_VBP missing_VBG and_CC feared_VBN dead_JJ ,_, with_IN rescue_NN operations_NNS hindered_VBN by_IN the_DT gas_NN leak_NN ._.
+Cave-ins_NNS and_CC other_JJ mining_NN accidents_NNS in_IN Pakistan_NNP are_VBP often_RB attributed_VBN to_TO the_DT poor_JJ enforcement_NN of_IN safety_NN regulations_NNS ._.

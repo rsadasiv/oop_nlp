@@ -1,0 +1,695 @@
+Why_WRB work_NN ,_, when_WRB you_PRP can_MD play_VB miniature_JJ golf_NN ._. ._.
+Tee_NN off_IN Remember_VB to_TO read_VB the_DT ``_`` Howto_NNP play_NN ''_'' first_RB ._. ._.
+New_NNP version_NN of_IN iTunes_NNP -LRB-_-LRB- for_IN Win_NNP &_CC Mac_NNP -RRB-_-RRB- is_VBZ out_RB ._.
+Featuring_VBG new_JJ Party_NNP Shuffle_NNP ,_, iMix_NNP -LRB-_-LRB- for_IN sharing_VBG your_PRP$ playlists_NNS -RRB-_-RRB- and_CC Apple_NNP Lossless_NNP Encoder_NNP ._. ._.
+Pick_VB it_PRP up_RP here_RB !_.
+Whether_IN you_PRP have_VBP come_VBN here_RB intentionally_RB -LRB-_-LRB- which_WDT would_MD be_VB quite_RB surprising_JJ -RRB-_-RRB- ,_, or_CC completely_RB by_IN mistake_NN and_CC have_VBP decided_VBN to_TO read_VB on_IN ,_, I_PRP have_VBP to_TO warn_VB you_PRP that_IN once_RB in_IN a_DT while_NN ,_, my_PRP$ cheerful_JJ amigo_NN there_EX mich_NN ,_, will_MD produce_VB an_DT unlimited_JJ amount_NN of_IN uncomprehensible_JJ psychobabble_NN which_WDT sounds_VBZ something_NN like_IN this_DT :_: :_: ``_`` The_DT `_`` vacuum_NN `_`` command_NN -LRB-_-LRB- or_CC the_DT vacuumdb_NN shell_NN script_NN -RRB-_-RRB- will_MD garbage_NN collect_VB your_PRP$ db_NN ._.
+If_IN you_PRP run_VBP it_PRP together_RB with_IN the_DT analyzer_NN option_NN ,_, it_PRP will_MD calculate_VB statistics_NNS for_IN use_NN by_IN the_DT optimizer_NN ..._: As_IN an_DT example_NN ,_, I_PRP just_RB gained_VBD a_DT factor_NN 30_CD of_IN increased_VBN query_NN speed_NN on_IN a_DT table_NN in_IN one_CD of_IN my_PRP$ databases_NNS ''_'' This_DT is_VBZ due_JJ to_TO a_DT condition_NN which_WDT has_VBZ surfaced_VBN in_IN the_DT last_JJ couple_NN of_IN years_NNS ,_, closely_RB associated_VBN with_IN Turret_NNP 's_POS syndrome_NN and_CC manic_JJ depressive_JJ confinement_NN ._.
+It_PRP is_VBZ not_RB dangerous_JJ at_IN first_RB ,_, but_CC is_VBZ utterly_RB USELESS_NNP to_TO most_JJS people_NNS who_WP have_VBP enough_JJ neurons_NNS to_TO make_VB that_DT whole_JJ `_`` hand-eye_JJ coordination_NN '_'' thing_NN work_NN ._.
+I_PRP suggest_VBP that_IN when_WRB you_PRP see_VBP this_DT gagababble_NN ,_, simply_RB run_VB to_TO the_DT next_JJ paragraph_NN ,_, basically_RB ,_, to_TO what_WP I_PRP have_VBP to_TO say_VB ._.
+-LRB-_-LRB- unless_IN of_IN course_NN mich_NN has_VBZ a_DT moment_NN of_IN lucidity_NN and_CC writes_VBZ anything_NN about_IN jugs_NNS ,_, sex_NN ,_, beer_NN ,_, dumps_NNS ,_, blogs_NNS ,_, ghettos_NNS and_CC hoes_NNS ._.
+You_PRP 've_VBP been_VBN warned_VBN Tada_NNP If_IN you_PRP are_VBP a_DT postgresql_NN user\/admin_NN and_CC you_PRP 've_VBP never_RB used_VBN `_`` vacuum_NN analyze_VB `_`` -_: then_RB you_PRP are_VBP in_IN for_IN a_DT treat_NN ._.
+The_DT `_`` vacuum_NN `_`` command_NN -LRB-_-LRB- or_CC the_DT vacuumdb_NN shell_NN script_NN -RRB-_-RRB- will_MD garbage_NN collect_VB your_PRP$ db_NN ._.
+If_IN you_PRP run_VBP it_PRP together_RB with_IN the_DT analyzer_NN option_NN ,_, it_PRP will_MD calculate_VB statistics_NNS for_IN use_NN by_IN the_DT optimizer_NN ..._: As_IN an_DT example_NN ,_, I_PRP just_RB gained_VBD a_DT factor_NN 30_CD of_IN increased_VBN query_NN speed_NN on_IN a_DT table_NN in_IN one_CD of_IN my_PRP$ databases_NNS ..._: All_DT hail_NN postgres_VBZ ._. ._.
+Now_RB with_IN comments_NNS ._. ._.
+The_DT title_NN really_RB says_VBZ it_PRP all_DT -_: now_RB go_VBP away_RB ._.
+Yo_NNP ,_, speaking_NN of_IN the_DT music_NN industry_NN ._. ._.
+they_PRP are_VBP having_VBG some_DT trouble_NN ._. ._.
+EMI_NNP France_NNP just_RB laid_VBD off_RP a_DT couple_NN singers_NNS -_: Ophelie_NNP Winter_NNP ,_, etc._FW ._.
+I_PRP say_VBP this_DT is_VBZ doing_VBG the_DT music_NN industry_NN some_DT good_JJ !_.
+at_IN least_JJS we_PRP do_VBP n't_RB have_VB to_TO listen_VB to_TO shit_VB like_IN Ophelie_NNP anymore_RB ._. ._.
+SURVIVAL_NN OF_IN THE_DT FITTEST_NN !_.
+Deal_NNP with_IN it_PRP you_PRP BASTARDS_NNPS !_.
+But_CC seriously_RB ,_, do_VBP they_PRP think_VBP they_PRP 're_VBP going_VBG to_TO convince_VB us_PRP to_TO give_VB them_PRP any_DT MORE_JJR money_NN ?_.
+I_PRP mean_VBP why_WRB pay_NN for_IN the_DT music_NN that_WDT is_VBZ already_RB free_JJ ._. ._.
+hmmm_NN ._. ._.
+I_PRP do_VBP n't_RB get_VB that_DT logic_NN at_IN all_DT ._.
+For_IN once_RB we_PRP 're_VBP showing_VBG those_DT greedy_JJ bastards_NNS at_IN the_DT top_NN that_IN they_PRP ,_, too_RB ,_, can_MD experience_VB the_DT well_RB known_VBN sensation_NN of_IN SHIT_NNP HITTING_NNP THE_DT FAN_NNP ,_, which_WDT all_DT of_IN us_PRP normal_JJ earthlings_NNS deal_VBP with_IN daily_JJ ._.
+I_PRP say_VBP ``_`` long_JJ live_VBP the_DT internet_NN ''_'' ._. ._.
+and_CC beer_NN so_RB here_RB 's_POS my_PRP$ first_JJ post_NN on_IN our_PRP$ much-loved_JJ blog_NN ._.
+yeah_NN ,_, work_NN as_RB usual_JJ ,_, the_DT weather_NN 's_POS great_JJ ,_, and_CC I_PRP 'm_VBP really_RB looking_VBG forward_RB to_TO getting_VBG some_DT food_NN ,_, although_IN i_FW get_VB that_DT feeling_NN all_PDT the_DT time_NN ..._: I_PRP love_VBP food_NN ._. ._.
+mmm_NN fooood_NN ._.
+I_PRP think_VBP i_FW 'm_VBP going_VBG home_NN ,_, I_PRP 'm_VBP sick_JJ of_IN work_NN for_IN today_NN ._. ._.
+that_DT 's_VBZ it_PRP ,_, I_PRP 've_VBP had_VBD enough_RB ._.
+Oh_UH ._. ._.
+increasing_VBG the_DT price_NN for_IN online_JJ music_NN -_: that_WDT 's_VBZ going_VBG to_TO help_VB the_DT improve_VB sales_NNS ._. ._.
+According_VBG to_TO Macworld_NNP five_CD of_IN the_DT top_JJ labels_NNS are_VBP pushing_VBG for_IN the_DT increase_NN -_: and_CC a_DT song_NN from_IN iTunes_NNS could_MD increase_VB from_IN 99_CD cents_NNS to_TO a_DT whopping_JJ $_$ 2.49_CD -_: making_VBG it_PRP -LRB-_-LRB- alot_NN -RRB-_-RRB- more_RBR expensive_JJ to_TO download_VB the_DT songs_NNS ,_, than_IN to_TO purchase_VB the_DT album_NN ._.
+The_DT blog_NN is_VBZ online_JJ and_CC ready_JJ for_IN abuse_NN ._. ._.
+so_RB here_RB goes_VBZ ._. ._.
+Well_RB ,_, today_NN was_VBD another_DT one_CD of_IN those_DT days_NNS ,_, where_WRB I_PRP wished_VBD I_PRP could_MD stay_VB home_NN and_CC sleep_NN ._. ._.
+They_PRP seem_VBP to_TO follow_VB each_DT other_JJ closer_JJR and_CC closer_JJR every_DT day_NN ._.
+Convinced_VBN `_`` da_NN boss_NN '_'' that_IN we_PRP need_VBP to_TO do_VB major_JJ upgrades_NNS in_IN our_PRP$ test_NN lab_NN ._. ._.
+The_DT home-built_JJ table_NN on_IN which_WDT we_PRP test_VBP fairly_RB expensive_JJ network_NN equipment_NN ,_, needs_VBZ to_TO be_VB changed_VBN -_: one_CD of_IN those_DT roller-tables_NNS is_VBZ what_WP we_PRP need_VBP ._. ._.
+Also_RB need_VB a_DT couple_NN of_IN TFT_NNP monitors_NNS ,_, so_IN we_PRP can_MD move_VB the_DT monitors_NNS around_IN without_IN breaking_VBG our_PRP$ backs_NNS !!_VBP FREAK_NNP !_.
+Welcome_VB I_PRP was_VBD here_RB first_JJ ..._: Exactemundo_NN !_.
+That_DT 's_VBZ right_JJ !_.
+We_PRP are_VBP almost_RB homefree_NN ,_, just_RB another_DT couple_NN of_IN hours_NNS to_TO go_VB ._.
+This_DT time_NN the_DT weekend_NN brings_VBZ us_PRP another_DT small_JJ surprise_NN :_: Monday_NNP is_VBZ a_DT bank_NN holiday_NN !_.
+Yes_UH ,_, sir-eee-bob_NN !_.
+A_DT cool_JJ three_CD days_NNS of_IN not_RB going_VBG to_TO work_VB ._.
+So_RB ,_, what_WDT are_VBP my_PRP$ plans_NNS for_IN these_DT work-free_JJ days_NNS ?_.
+Nothing_NN much_RB !_.
+I_PRP think_VBP I_PRP 'll_MD try_VB and_CC cook_VB some_DT traditional_JJ Danish_JJ food_NN ,_, as_IN it_PRP has_VBZ been_VBN a_DT long_JJ time_NN since_IN I_PRP got_VBD some_DT of_IN that_DT -_: and_CC our_PRP$ kitchen_NN closets_NNS could_MD need_VB some_DT cleaning_NN up_RP as_RB well_RB ._. ._.
+Exciting_JJ ,_, is_VBZ n't_RB it_PRP ?_.
+Furthermore_RB ,_, I_PRP 'm_VBP on_IN the_DT lookout_NN for_IN a_DT wet-stone_NN for_IN sharpening_VBG my_PRP$ global_JJ knives_NNS ,_, anyone_NN know_VBP where_WRB I_PRP can_MD get_VB those_DT around_IN Paris_NNP ?_.
+That_DT 's_VBZ it_PRP for_IN me_PRP ,_, have_VBP a_DT good_JJ one_CD ._.
+So_RB ,_, Portugal_NNP won_VBD over_IN Monaco_NNP in_IN some_DT lame_JJ soccer_NN match_NN last_JJ night_NN -_: big_JJ fucking_JJ deal_NN !_.
+People_NNS go_VBP on_IN the_DT street_NN and_CC yell_NN of_IN joy_NN ,_, they_PRP disturb_VBP a_DT normal_JJ peaceful_JJ neighborhood_NN with_IN their_PRP$ noise_NN and_CC spectacle_NN ._.
+Police_NNS ,_, apparently_RB ,_, let_VB them_PRP be_VB -_: because_RB ,_, you_PRP know_VBP ,_, their_PRP$ team_NN won_VBD a_DT stupid_JJ match_NN ._.
+They_PRP get_VBP to_TO drive_VB their_PRP$ cars_NNS up_RB and_CC down_RB Champs-Elysees_NNP hanging_VBG out_RP the_DT window_NN ,_, while_IN honking_VBG their_PRP$ horns_NNS ._. ._.
+on_IN any_DT other_JJ day_NN ,_, you_PRP would_MD get_VB a_DT ticket_NN for_IN that_DT -_: but_CC again_RB the_DT cops_NNS let_VBP it_PRP slide_NN ..._: So_CC here_RB 's_POS my_PRP$ question_NN ._. ._.
+Next_JJ time_NN Tiger_NNP Woods_NNP bring_VB home_NN the_DT PGA_NNP trophy_NN ,_, would_MD it_PRP be_VB acceptable_JJ for_IN me_PRP to_TO drive_VB down_RP Champs-Elysees_NNP ,_, while_IN honking_VBG my_PRP$ horn_NN and_CC screaming_VBG like_IN a_DT madman_NN out_IN of_IN the_DT window_NN ?_.
+Can_MD I_PRP walk_VB around_IN small_JJ streets_NNS in_IN normally_RB quiet_JJ neighborhoods_NNS yelling_VBG and_CC screaming_VBG ?_.
+Can_MD I_PRP light_VB up_RP flares_NNS in_IN the_DT middle_NN of_IN street_NN ,_, and_CC sing_VB songs_NNS about_IN Tiger_NNP ?_.
+I_PRP hate_VBP soccer_NN ,_, it_PRP 's_VBZ a_DT lame-ass_JJ sport_NN -_: and_CC big_JJ part_NN of_IN the_DT audience_NN are_VBP a_DT bunch_NN of_IN uneducated_JJ morons_NNS !_.
+Let_NNP 's_POS ban_NN this_DT sports_NNS once_RB and_CC for_IN all_DT ,_, along_IN with_IN religion_NN and_CC tofu-food_NN !_.
+Good_JJ news_NN !_.
+Apparently_RB Microsoft_NNP has_VBZ decided_VBN to_TO integrate_VB the_DT MS_NNP `_`` Called_VBN ID_NNP '_POS system_NN ,_, into_IN the_DT efforts_NNS of_IN the_DT SPF_NNP project_NN -LRB-_-LRB- Sender_NNP Policy_NNP Framework_NNP -RRB-_-RRB- ._.
+This_DT a_DT major_JJ win_VBP for_IN the_DT project_NN ,_, that_WDT has_VBZ already_RB been_VBN recognized_VBN by_IN big_JJ players_NNS like_IN Google_NNP ,_, AOL_NNP and_CC Earthlink_NNP ._.
+Perhaps_RB we_PRP can_MD finally_RB start_VB to_TO fight_VB the_DT ever_RB increasing_VBG spam_NN problem_NN ._. ._.
+Read_VB more_JJR about_IN the_DT SPF_NNP project_NN here_RB ._.
+Recently_RB -LRB-_-LRB- well_UH actually_RB something_NN like_IN 3_CD weeks_NNS ago_IN -RRB-_-RRB- I_PRP decided_VBD to_TO purchase_VB a_DT Secure_NNP Digital_NNP 512MB_NNP expansion_NN kit_NN for_IN my_PRP$ iPaq_NNP ._.
+So_IN I_PRP browsed_VBD around_RP on_IN the_DT net_NN ,_, to_TO figure_VB out_RP where_WRB I_PRP could_MD get_VB a_DT good_JJ deal_NN ._.
+FNAC_NNP and_CC DARTY_NNP were_VBD both_DT well_RB over_IN 200_CD EUR_NNP for_IN the_DT card_NN ,_, and_CC being_VBG a_DT cheapo_NN as_IN I_PRP am_VBP -_: I_PRP found_VBD that_IN a_DT bit_NN steep_JJ ._.
+I_PRP found_VBD sweet_JJ offer_NN through_IN Kelkoo_NNP with_IN Nomatica_NNP ;_: basically_RB I_PRP could_MD get_VB it_PRP for_IN something_NN like_IN 160_CD EUR_NNP ._.
+Well_RB ._. ._.
+wonderful_JJ ,_, good_JJ ,_, great_JJ ,_, etc_FW etc._FW ._. ._.
+Though_NNP ,_, I_PRP 've_VBP been_VBN waiting_VBG 3_CD weeks_NNS for_IN those_DT fuckwits_NNS to_TO ship_VB it_PRP to_TO me_PRP !!_VBP I_PRP 've_VBP sent_VBN a_DT couple_NN of_IN emails_NNS ,_, querying_VBG them_PRP -_: only_RB one_CD of_IN them_PRP got_VBD a_DT reply_NN ,_, and_CC it_PRP was_VBD useless_JJ ._. ._.
+I_PRP called_VBD them_PRP a_DT couple_NN of_IN times_NNS ,_, each_DT time_NN they_PRP promise_VBP me_PRP that_IN it_PRP is_VBZ being_VBG shipped_VBN pronto_NN ._. ._.
+Damn_RB it_PRP !_.
+It_PRP 's_VBZ not_RB rocket-science_NN do_VBP put_VB an_DT item_NN in_IN a_DT box_NN ,_, and_CC ship_VB it_PRP -_: I_PRP mean_VBP ,_, am_VBP I_PRP being_VBG too_RB demanding_VBG ?_.
+I_PRP 'll_MD give_VB them_PRP until_IN Monday_NNP ,_, if_IN not_RB the_DT card_NN is_VBZ on_IN my_PRP$ table_NN by_IN then_RB -_: I_PRP 'll_MD start_VB a_DT holy_JJ war_NN with_IN them_PRP ._. ._.
+ps_NNS ._.
+Yes_UH !_.
+I_PRP did_VBD choose_VB the_DT more_RBR expensive_JJ shipping_NN facility_NN ,_, not_RB ''_'' El_NNP Poste_NNP ''_'' where_WRB only_RB 40_CD %_NN of_IN your_PRP$ packages_NNS are_VBP being_VBG delivered_VBN ._.
+Here_RB 's_VBZ what_WP you_PRP need_VBP :_: 2_LS Tablespoons_NNPS of_IN olive_JJ oil_NN 4_CD Chicken_NNP filets_NNS 3_CD Thinly_RB sliced_VBD ,_, skinned_VBD ,_, seeded_VBD tomatoes_NNS 2_CD cloves_NNS of_IN crushed_JJ garlic_NN 1_CD Tablespoon_NNP on_IN of_IN Balsamic_JJ vinegar_NN oil_NN 2_CD Tablespoons_NNS of_IN brown_JJ sugar_NN Half_NN an_DT onion_NN -LRB-_-LRB- Thinly_RB sliced_VBN -RRB-_-RRB- A_DT couple_NN of_IN fresh_JJ shredded_JJ basil_NN leaves_VBZ Heat_NNP the_DT oil_NN in_IN a_DT large_JJ frying_JJ pan_VBP ,_, and_CC cook_VB the_DT filets_NNS until_IN cooked_VBN through_IN ,_, and_CC browned_VBN on_IN the_DT sides_NNS ._.
+Place_VB the_DT filets_NNS on_IN some_DT absorbent_JJ paper_NN ,_, and_CC cover_NN ._.
+On_IN the_DT same_JJ pan_VBP ,_, add_VBP the_DT garlic_JJ and_CC cook_NN until_IN soft_JJ ;_: then_RB add_VB the_DT sliced_JJ tomatoes_NNS ,_, onion_NN ,_, vinegar_NN and_CC brown_JJ sugar_NN ._.
+Cook_NNP ,_, while_IN stirring_VBG until_IN the_DT sugar_NN has_VBZ completely_RB melted_VBN ._.
+Then_RB ,_, leave_VBP simmering_VBG for_IN about_IN 5_CD minutes_NNS or_CC until_IN the_DT tomato-sauce_JJ thickens_NNS ._.
+Serve_VB the_DT chicken_NN with_IN the_DT sauce_NN on_IN top_NN ,_, spread_VBD a_DT bit_NN of_IN basil_NN over_IN the_DT sauce_NN ._.
+Can_MD be_VB served_VBN with_IN rice_NN ,_, pasta_NN or_CC potatoes_NNS ._.
+Bon_NNP appetit_NN !_.
+One_CD sunny_JJ day_NN in_IN 2005_CD an_DT old_JJ man_NN approached_VBD the_DT White_NNP House_NNP from_IN across_IN Pennsylvania_NNP Avenue_NNP ,_, where_WRB he_PRP 'd_MD been_VBN sitting_VBG on_IN a_DT park_NN bench_NN ._.
+He_PRP spoke_VBD to_TO the_DT U._NNP S._NNP Marine_NNP standing_VBG guard_NN and_CC said_VBD ,_, ``_`` I_PRP would_MD like_VB to_TO go_VB in_IN and_CC meet_VB with_IN President_NNP Bush_NNP ._. ''_''
+The_DT Marine_NNP looked_VBD at_IN the_DT man_NN and_CC said_VBD ,_, ``_`` Sir_NNP ,_, Mr._NNP Bush_NNP is_VBZ no_RB longer_RBR president_NN and_CC no_RB longer_RBR resides_VBZ here_RB ._. ''_''
+The_DT old_JJ man_NN said_VBD ,_, ``_`` Okay_UH ''_'' and_CC walked_VBD away_RB ._.
+The_DT following_JJ day_NN ,_, the_DT same_JJ man_NN approached_VBD the_DT White_NNP House_NNP and_CC said_VBD to_TO the_DT same_JJ Marine_NNP ,_, ``_`` I_PRP would_MD like_VB to_TO go_VB in_IN and_CC meet_VB with_IN President_NNP Bush_NNP ._. ''_''
+The_DT Marine_NNP again_RB told_VBD the_DT man_NN ,_, ``_`` Sir_NNP ,_, as_IN I_PRP said_VBD yesterday_NN ,_, Mr._NNP Bush_NNP is_VBZ no_RB longer_RBR president_NN and_CC no_RB longer_RBR resides_VBZ here_RB ._. ''_''
+The_DT man_NN thanked_VBD him_PRP and_CC ,_, again_RB ,_, just_RB walked_VBD away_RB ._.
+The_DT third_JJ day_NN ,_, the_DT same_JJ man_NN approached_VBD the_DT White_NNP House_NNP and_CC spoke_VBD to_TO the_DT very_RB same_JJ U._NNP S._NNP Marine_NNP ,_, saying_VBG ``_`` I_PRP would_MD like_VB to_TO go_VB in_IN and_CC meet_VB with_IN President_NNP Bush_NNP ._. ''_''
+The_DT Marine_NNP ,_, understandably_RB agitated_VBN at_IN this_DT point_NN ,_, looked_VBD at_IN the_DT man_NN and_CC said_VBD ,_, ``_`` Sir_NNP ,_, this_DT is_VBZ the_DT third_JJ day_NN in_IN a_DT row_NN you_PRP have_VBP been_VBN here_RB asking_VBG to_TO speak_VB to_TO Mr._NNP Bush_NNP ._.
+I_PRP 've_VBP told_VBN you_PRP already_RB that_IN Mr._NNP Bush_NNP is_VBZ no_RB longer_RB the_DT president_NN and_CC no_RB longer_RBR resides_VBZ here_RB ._.
+Do_VBP n't_RB you_PRP understand_VB ?_. ''_''
+The_DT old_JJ man_NN looked_VBD at_IN the_DT Marine_NNP and_CC said_VBD ,_, ``_`` Oh_UH ,_, I_PRP understand_VBP ._.
+I_PRP just_RB love_VBP hearing_VBG it_PRP ._. ''_''
+The_DT Marine_NNP snapped_VBD to_TO attention_NN ,_, saluted_VBD ,_, and_CC said_VBD ,_, ``_`` See_VB you_PRP tomorrow_NN ._. ''_''
+After_IN a_DT nice_JJ -LRB-_-LRB- short_JJ -RRB-_-RRB- vacation_NN ,_, and_CC a_DT shitload_NN of_IN cold_JJ brewskies_NNS -_: I_PRP 'm_VBP back_RB at_IN the_DT what-have-ya_NN ,_, work_NN ._. ._.
+As_IN Dim_NNP clearly_RB states_VBZ ,_, why_WRB the_DT hell_NN do_VBP time_NN pass_NN by_IN soooooo_NN fast_RB when_WRB you_PRP are_VBP not_RB at_IN work_NN ?_.
+So_IN I_PRP 'm_VBP sitting_VBG here_RB typing_VBG like_IN a_DT jackass_NN on_IN my_PRP$ keyboard_NN ,_, waiting_VBG for_IN Friday_NNP to_TO emerge_VB ._. ._.
+Physically_RB I_PRP know_VBP it_PRP 's_VBZ only_JJ Tuesday_NNP ,_, but_CC mentally_RB I_PRP 'm_VBP way_NN off_RB into_IN the_DT weekend_NN -_: needless_JJ to_TO say_VB the_DT weather_NN is_VBZ awesome_JJ ,_, which_WDT makes_VBZ it_PRP so_RB much_RB harder_JJR to_TO sit_VB at_IN a_DT desk_NN -_: obviously_RB it_PRP 'll_MD change_VB for_IN monsoon_NN or_CC snow-storm_NN by_IN the_DT time_NN we_PRP hit_VBD Friday_NNP afternoon_NN ._. ._.
+Crap_NN ._. ._.
+Oh_UH ,_, by_IN the_DT way_NN ,_, I_PRP signed_VBD up_RP for_IN my_PRP$ one-month_JJ free_JJ trial_NN period_NN with_IN DVDchezvous_NNP ,_, so_IN it_PRP 'll_MD be_VB interesting_JJ to_TO see_VB how_WRB it_PRP works_VBZ out_RP -_: I_PRP 'll_MD keep_VB you_PRP updated_VBN ._. ._.
+Got_NNP this_DT from_IN a_DT buddy_NN ,_, and_CC it_PRP shows_VBZ you_PRP the_DT hell_NN IT_PRP can_MD be_VB ._. ._.
+\*\*\*\*_NNP Costello_NNP Wants_VBZ to_TO buy_VB a_DT Computer_NN from_IN Abbott_NNP \*\*\*\*_NNP ABBOTT_NNP :_: Super_NNP Duper_NNP computer_NN store_NN ._.
+Can_MD I_PRP help_VB you_PRP ?_.
+COSTELLO_NNP :_: Thanks_NNS ._.
+I_PRP 'm_VBP setting_VBG up_RP an_DT office_NN in_IN my_PRP$ den_NN ,_, and_CC I_PRP 'm_VBP thinking_VBG about_IN buying_VBG a_DT computer_NN ._.
+ABBOTT_NNP :_: Mac_NNP ?_.
+COSTELLO_NNP :_: No_UH ,_, the_DT name_NN 's_POS Lou_NNP ._.
+ABBOTT_NNP :_: Your_PRP$ computer_NN ?_.
+COSTELLO_NNP :_: I_PRP do_VBP n't_RB own_VB a_DT computer_NN ._.
+I_PRP want_VBP to_TO buy_VB one_CD ._.
+ABBOTT_NNP :_: Mac_NNP ?_.
+COSTELLO_NNP :_: I_PRP told_VBD you_PRP ,_, my_PRP$ name_NN 's_POS Lou_NNP ._.
+ABBOTT_NNP :_: What_WP about_IN Windows_NNS ?_.
+COSTELLO_NNP :_: Why_WRB ?_.
+Will_MD it_PRP get_VB stuffy_JJ in_IN here_RB ?_.
+ABBOTT_NNP :_: Do_VBP you_PRP want_VBP a_DT computer_NN with_IN Windows_NNS ?_.
+COSTELLO_NNP :_: I_PRP do_VBP n't_RB know_VB ._.
+What_WP will_MD I_PRP see_VB when_WRB I_PRP look_VBP in_IN the_DT windows_NNS ?_.
+ABBOTT_NNP :_: Wallpaper_NN ._.
+COSTELLO_NNP :_: Never_RB mind_VB the_DT windows_NNS ._.
+I_PRP need_VBP a_DT computer_NN and_CC software_NN ._.
+ABBOTT_NNP :_: Software_NNP for_IN Windows_NNP ?_.
+COSTELLO_NNP :_: No._NN ._.
+On_IN the_DT computer_NN !_.
+I_PRP need_VBP something_NN I_PRP can_MD use_VB to_TO write_VB proposals_NNS ,_, track_NN expenses_NNS and_CC run_VB my_PRP$ business_NN ._.
+What_WP have_VBP you_PRP got_VBN ?_.
+ABBOTT_NNP :_: Office_NNP ._.
+COSTELLO_NNP :_: Yeah_UH ,_, for_IN my_PRP$ office_NN ._.
+Can_MD you_PRP recommend_VB anything_NN ?_.
+ABBOTT_NNP :_: I_PRP just_RB did_VBD ._.
+COSTELLO_NNP :_: You_PRP just_RB did_VBD what_WP ?_.
+ABBOTT_NNP :_: Recommend_VB something_NN ._.
+COSTELLO_NNP :_: You_PRP recommended_VBD something_NN ?_.
+ABBOTT_NNP :_: Yes_UH ._.
+COSTELLO_NNP :_: For_IN my_PRP$ office_NN ?_.
+ABBOTT_NNP :_: Yes_UH ._.
+COSTELLO_NNP :_: OK_UH ,_, what_WP did_VBD you_PRP recommend_VB for_IN my_PRP$ office_NN ?_.
+ABBOTT_NNP :_: Office_NNP ._.
+COSTELLO_NNP :_: Yes_UH ,_, for_IN my_PRP$ office_NN !_.
+ABBOTT_NNP :_: I_PRP recommend_VBP Office_NNP with_IN Windows_NNPS ._.
+COSTELLO_NNP :_: I_PRP already_RB have_VBP an_DT office_NN and_CC it_PRP has_VBZ windows_NNS !_.
+OK_UH ,_, lets_VBZ just_RB say_VB ,_, I_PRP 'm_VBP sitting_VBG at_IN my_PRP$ computer_NN and_CC I_PRP want_VBP to_TO type_NN a_DT proposal_NN ._.
+What_WP do_VBP I_PRP need_VB ?_.
+ABBOTT_NNP :_: Word_NN ._.
+COSTELLO_NNP :_: What_WP word_NN ?_.
+ABBOTT_NNP :_: Word_NN in_IN Office_NNP ._.
+COSTELLO_NNP :_: The_NNP only_RB word_NN in_IN office_NN is_VBZ office_NN ._.
+ABBOTT_NNP :_: The_DT Word_NN in_IN Office_NNP for_IN Windows_NNP ._.
+COSTELLO_NNP :_: Which_WDT word_NN in_IN office_NN for_IN windows_NNS ?_.
+ABBOTT_NNP :_: The_DT Word_NN you_PRP get_VBP when_WRB you_PRP click_VBP the_DT blue_JJ ``_`` W._NNP ''_'' COSTELLO_NNP :_: I_PRP 'm_VBP going_VBG to_TO click_VB you_PRP 're_VBP blue_JJ ``_`` W_NNP ''_'' if_IN you_PRP do_VBP n't_RB start_VB with_IN some_DT straight_JJ answers_NNS ._.
+OK_UH ,_, forget_VB that_DT ._.
+Can_MD I_PRP watch_VB movies_NNS on_IN the_DT Internet_NNP ?_.
+ABBOTT_NNP :_: Yes_UH ,_, you_PRP want_VBP Real_JJ One_CD ._.
+COSTELLO_NNP :_: Maybe_RB a_DT real_JJ one_CD ,_, maybe_RB a_DT cartoon_NN ._.
+What_WP I_PRP watch_VBP is_VBZ none_NN of_IN your_PRP$ business_NN ._.
+Just_RB tell_VB me_PRP what_WP I_PRP need_VBP !_.
+ABBOTT_NNP :_: Real_NNP One_CD ._.
+COSTELLO_NNP :_: If_IN its_PRP$ a_DT long_JJ movie_NN I_PRP also_RB want_VBP to_TO see_VB reel_NN 2,3_CD &_CC 4_CD ._.
+Can_MD I_PRP watch_VB them_PRP ?_.
+ABBOTT_NNP :_: Of_IN course_NN ._.
+COSTELLO_NNP :_: Great_NNP ,_, with_IN what_WP ?_.
+ABBOTT_NNP :_: Real_NNP One_CD ._.
+COSTELLO_NNP ;_: OK_UH ,_, I_PRP 'm_VBP at_IN my_PRP$ computer_NN and_CC I_PRP want_VBP to_TO watch_VB a_DT movie_NN ._.
+What_WP do_VBP I_PRP do_VB ?_.
+ABBOTT_NNP :_: You_PRP click_VBP the_DT blue_JJ ``_`` 1_CD ._. ''_''
+COSTELLO_NNP :_: I_PRP click_VBP the_DT blue_JJ one_CD what_WDT ?_.
+ABBOTT_NNP :_: The_DT blue_JJ ``_`` 1_CD ._. ''_''
+COSTELLO_NNP :_: Is_VBZ that_IN different_JJ from_IN the_DT blue_JJ ``_`` W_NNP ''_'' ?_.
+ABBOTT_NNP :_: The_DT blue_JJ ``_`` 1_CD ''_'' is_VBZ Real_NNP One_CD and_CC the_DT blue_JJ ``_`` W_NNP ''_'' is_VBZ Word_NNP ._.
+COSTELLO_NNP :_: What_WP word_NN ?_.
+ABBOTT_NNP :_: The_DT Word_NN in_IN Office_NNP for_IN Windows_NNP ._.
+COSTELLO_NNP :_: But_CC there_EX 's_VBZ three_CD words_NNS in_IN ``_`` office_NN for_IN windows_NNS ''_'' !_.
+ABBOTT_NNP :_: No_UH ,_, just_RB one_CD ._.
+but_CC it_PRP 's_VBZ the_DT most_RBS popular_JJ Word_NN in_IN the_DT world_NN ._.
+COSTELLO_NNP :_: It_PRP is_VBZ ?_.
+ABBOTT_NNP :_: Yes_UH ,_, but_CC to_TO be_VB fair_JJ ,_, there_EX are_VBP n't_RB many_JJ other_JJ Words_NNS left_VBD ._.
+It_PRP pretty_RB much_RB wiped_VBD out_RP all_PDT the_DT other_JJ Words_NNS out_IN there_RB ._.
+COSTELLO_NNP :_: And_CC that_IN word_NN is_VBZ real_JJ one_CD ?_.
+ABBOTT_NNP :_: Real_NNP One_CD has_VBZ nothing_NN to_TO do_VB with_IN Word_NNP ._.
+Real_JJ One_CD is_VBZ n't_RB even_RB part_NN of_IN Office_NNP ._.
+COSTELLO_NNP :_: Stop_VB !_.
+Do_VBP n't_RB start_VB that_DT again_RB ._.
+What_WP about_IN financial_JJ bookkeeping_NN ,_, you_PRP have_VBP anything_NN I_PRP can_MD track_VB my_PRP$ money_NN with_IN ?_.
+ABBOTT_NNP :_: Money_NN ._.
+COSTELLO_NNP :_: That_DT 's_VBZ right_NN ._.
+What_WP do_VBP you_PRP have_VB ?_.
+ABBOTT_NNP :_: Money_NN ._.
+COSTELLO_NNP :_: I_PRP need_VBP money_NN to_TO track_VB my_PRP$ money_NN ?_.
+ABBOTT_NNP :_: It_PRP comes_VBZ bundled_VBN with_IN your_PRP$ computer_NN ._.
+COSTELLO_NNP :_: What_WP 's_VBZ bundled_VBN to_TO my_PRP$ computer_NN ?_.
+ABBOTT_NNP :_: Money_NN ._.
+COSTELLO_NNP :_: Money_NN comes_VBZ with_IN my_PRP$ computer_NN ?_.
+ABBOTT_NNP :_: Yes_UH ._.
+No_DT extra_JJ charge_NN ._.
+COSTELLO_NNP :_: I_PRP get_VBP a_DT bundle_NN of_IN money_NN with_IN my_PRP$ computer_NN ?_.
+How_WRB much_RB ?_.
+ABBOTT_NNP :_: One_CD copy_NN ._.
+COSTELLO_NNP :_: Is_VBZ n't_RB it_PRP illegal_JJ to_TO copy_VB money_NN ?_.
+ABBOTT_NNP :_: Microsoft_NNP gave_VBD us_PRP a_DT license_NN to_TO copy_VB Money_NN ._.
+COSTELLO_NNP :_: They_PRP can_MD give_VB you_PRP a_DT license_NN to_TO copy_VB money_NN ?_.
+ABBOTT_NNP :_: Why_WRB not_RB ?_.
+THEY_NNP OWN_NNP IT_PRP !_.
+COSTELLO_NNP :_: How_WRB do_VBP I_PRP turn_VB my_PRP$ computer_NN off_IN ??_CD ABBOTT_NNP :_: Click_VB on_IN ``_`` START_NNP ''_'' ._. ._.
+As_IN per_IN Camel_NNP 's_POS request_NN ,_, here_RB is_VBZ the_DT way_NN I_PRP make_VBP a_DT Flaming_NNP Dr._NNP Pepper_NNP ._.
+This_DT is_VBZ another_DT one_CD of_IN those_DT fun_NN little_JJ drinking_NN that_WDT tend_VBP to_TO hurt_VB quite_RB a_DT bit_NN the_DT morning_NN after_IN ..._: Now_RB there_EX are_VBP quite_RB a_DT few_JJ ways_NNS to_TO make_VB this_DT ,_, and_CC I_PRP 've_VBP added_VBN a_DT recipe_NN for_IN a_DT similar_JJ drink_NN at_IN the_DT end_NN of_IN the_DT blog_NN as_RB well_RB ._.
+For_IN this_DT conconction_NN ,_, you_PRP will_MD need_VB :_: Amaretto_NNP White_NNP or_CC Dark_JJ Rum_NN -LRB-_-LRB- I_PRP prefer_VBP dark_JJ -RRB-_-RRB- Beer_NNP ._.
+There_EX is_VBZ a_DT couple_NN steps_NNS in_IN this_DT ,_, so_RB be_VB attentive_JJ ._. ._.
+-_: Fill_VB a_DT pint_NN glass_NN just_RB over_IN half_DT way_NN with_IN some_DT cheap-ass_JJ lager_NN -LRB-_-LRB- aka_FW beer_NN ,_, normal_JJ beer_NN -RRB-_-RRB- ._.
+Leave_VB aside_RB -_: Fill_VB half_PDT a_DT shot_NN glass_NN with_IN Ameretto_NNP ,_, and_CC float_VB the_DT rum_NN to_TO fill_VB the_DT glass_NN ._.
+-LRB-_-LRB- to_TO float_VB an_DT alcohol_NN ,_, use_VBP the_DT back_NN of_IN a_DT spool_NN or_CC anything_NN that_WDT will_MD slow_VB the_DT speed_NN of_IN the_DT alcohol_NN pour_VBP ,_, hence_RB making_VBG it_PRP easier_JJR for_IN it_PRP to_TO float_VB on_IN a_DT heavier_JJR alcohol_NN -RRB-_-RRB- -_: With_IN a_DT lighter_JJR ,_, take_VB your_PRP$ time_NN and_CC light_NN the_DT rum_NN in_IN the_DT shot_NN glass_NN by_IN holding_VBG the_DT flame_NN to_TO the_DT side_NN of_IN the_DT shot_NN glass_NN ,_, and_CC turning_VBG it_PRP slowly_RB ,_, therefore_RB heating_VBG the_DT top_JJ layer_NN or_CC alcohol_NN ._.
+After_IN around_IN 20_CD seconds_NNS ,_, the_DT rum_NN should_MD light_VB ._.
+-_: Once_IN the_DT rum_NN is_VBZ lit_VBN ,_, tell_VBP the_DT dude_NN getting_VBG canned_VBN to_TO hold_VB the_DT half_NN full_JJ pint_NN glass_NN ,_, and_CC drop_VB the_DT flaming_NN shot_VBD into_IN it_PRP ._.
+He_PRP has_VBZ to_TO shoot_VB both_DT the_DT beer_NN and_CC the_DT shot_NN glass_NN in_IN the_DT pint_NN glass_NN ._.
+Voila_NN !_.
+Flaming_VBG Dr._NNP Pepper_NNP !_.
+Another_DT drink_NN ,_, same_JJ principle_NN ,_, less_JJR burning_NN ._.
+It_PRP 's_VBZ called_VBN an_DT Irish_JJ Car_NN Bomb_NN ._.
+instead_RB of_IN beer_NN ,_, use_VBP guinness_NN instead_RB of_IN amaretto_NN ,_, use_VBP baileys_NNS and_CC irish_JJ whisky_NN -LRB-_-LRB- like_IN Jameson_NNP 's_POS -RRB-_-RRB- You_PRP do_VBP n't_RB have_VB to_TO light_VB it_PRP ,_, just_RB drop_VB the_DT shot_NN in_IN the_DT guinness_NN and_CC chug_VB ._.
+voila_NN !_.
+Cheers_NNP !_.
+``_`` The_DT hard_JJ part_NN about_IN being_VBG a_DT bartender_NN is_VBZ figuring_VBG out_RP who_WP is_VBZ drunk_JJ and_CC who_WP is_VBZ just_RB stupid_JJ ._. ''_''
+-_: Richard_NNP Braunstein_NNP Ah_UH well_RB here_RB we_PRP are_VBP again_RB ,_, it_PRP 's_VBZ that_IN wonderful_JJ day_NN ,_, Friday_NNP ,_, the_DT day_NN when_WRB almost_RB anything_NN can_MD go_VB wrong_JJ ,_, and_CC I_PRP would_MD n't_RB give_VB a_DT crap_NN ,_, simply_RB because_IN I_PRP know_VBP ,_, I_PRP KNOW_VBP ,_, that_IN in_IN a_DT handful_NN of_IN hours_NNS ,_, I_PRP 'll_MD be_VB homefree_NN ._.
+The_DT only_JJ real_JJ problem_NN with_IN today_NN is_VBZ that_IN I_PRP also_RB know_VBP ,_, yes_UH I_PRP KNOW_VBP ,_, that_IN the_DT weekend_NN will_MD go_VB by_IN way_NN to_TO fucking_VBG quickly_RB -LRB-_-LRB- as_IN usual_JJ -RRB-_-RRB- ,_, and_CC it_PRP 'll_MD be_VB Monday_NNP before_IN I_PRP know_VBP it_PRP ._.
+Damn_RB !_.
+Why_WRB is_VBZ that_IN ?_.
+Why_WRB is_VBZ it_PRP that_IN work_NN days_NNS usually_RB take_VBP ages_NNS ,_, and_CC the_DT fun_NN times_NNS like_IN the_DT weekend_NN go_VB by_IN way_NN to_TO damn_RB quickly_RB ?_.
+I_PRP mean_VBP what_WP was_VBD that_IN supreme_NN being_VBG thinking_VBG when_WRB he_PRP put_VBD that_DT algorithm_NN in_IN our_PRP$ stupid_JJ human_JJ heads_NNS :_: `_`` Hey_NNP I_PRP know_VBP ,_, lets_VBZ make_VB these_DT beings_NNS '_POS brains_NNS function_VBP so_RB that_IN when_WRB everything_NN is_VBZ ok_RB ,_, it_PRP does_VBZ n't_RB last_JJ long_RB ,_, but_CC when_WRB things_NNS are_VBP fucking_VBG SHIT_NNP ,_, we_PRP 'll_MD double_VB the_DT amount_NN of_IN time_NN they_PRP percieve_VBP !_. '_''
+Way_NN to_TO go_VB on_IN that_DT one_CD G_NNP ,_, yippee_NN !_.
+But_CC I_PRP 'm_VBP still_RB pretty_RB content_JJ it_PRP 's_VBZ Friday_NNP ,_, I_PRP mean_VBP it_PRP 's_VBZ not_RB like_IN it_PRP 's_VBZ been_VBN a_DT hell_NN of_IN a_DT week_NN -LRB-_-LRB- we_PRP lazy_JJ French_JJ people_NNS had_VBD Thursday_NNP off_RB ,_, something_NN to_TO do_VB with_IN Jesus_NNP flying_VBG in_IN the_DT sky_NN -RRB-_-RRB- ,_, and_CC this_DT last_JJ week_NN has_VBZ been_VBN the_DT first_JJ time_NN the_DT weather_NN was_VBD decent_JJ enough_RB ,_, so_IN I_PRP ca_MD n't_RB complain_VB ._.
+Plus_CC ,_, I_PRP have_VBP n't_RB had_VBD to_TO deal_VB with_IN mich_NN 's_POS constant_JJ complaining_VBG ,_, bitching_VBG ,_, whining_NN ,_, so_IN it_PRP 's_VBZ been_VBN pretty_RB quiet_JJ ._.
+But_CC as_IN I_PRP said_VBD ,_, it_PRP went_VBD by_IN fast_RB ,_, and_CC GUESS_NNP WHAT_WDT !_.
+Mich_NNP is_VBZ back_RB on_IN Monday_NNP ,_, so_IN we_PRP 're_VBP in_IN for_IN a_DT hell_NN of_IN a_DT next_JJ week_NN ,_, I_PRP 'm_VBP telling_VBG ya_PRP ._.
+Yesterday_NN was_VBD good_JJ ,_, was_VBD invited_VBN to_TO a_DT nice_JJ little_JJ BBQ_NNP in_IN Paris_NNP ,_, yes_UH ,_, Intra_NNP muros_NNS ._. ._.
+Some_DT say_VBP it_PRP 's_VBZ not_RB too_RB legal_JJ ,_, but_CC we_PRP did_VBD it_PRP anyways_VBZ -_: damn_RB good_JJ merguez_NN too_RB -_: compliments_NNS to_TO the_DT Embassador_NNP ,_, Roger_NNP Hobby_NNP ._.
+after_IN a_DT couple_NN pint_NN glasses_NNS of_IN Pastis_NNP -LRB-_-LRB- heavily_RB dosed_VBN -RRB-_-RRB- ,_, and_CC listening_VBG to_TO Ryan_NNP bitching_VBG about_IN me_PRP not_RB being_VBG sexual_JJ enough_RB for_IN him_PRP lately_RB ,_, we_PRP went_VBD home_NN ,_, and_CC chilled_VBD ._.
+Overall_RB a_DT very_RB good_JJ little_JJ afternoon_NN ._.
+Well_RB that_DT 's_VBZ all_DT I_PRP have_VBP to_TO say_VB for_IN now_RB ,_, have_VBP a_DT good_JJ Friday_NNP and_CC weekend_NN ,_, and_CC goddamnit_NN ENJOY_VBP IT_PRP ,_, cuz_NN you_PRP know_VBP it_PRP 'll_MD be_VB Monday_NNP soon_RB ..._: DAMN_RB !_.
+Ahhh_NNP ,_, the_DT summer_NN has_VBZ finally_RB decided_VBN to_TO be_VB present_JJ in_IN France_NNP this_DT year_NN -_: I_PRP was_VBD starting_VBG to_TO worry_VB we_PRP 'd_MD be_VB wearing_VBG heavy_JJ leather_NN jackets_NNS all_DT of_IN 2004_CD ,_, damn_RB it_PRP ._.
+The_DT summer_NN is_VBZ good_JJ ,_, it_PRP 's_VBZ the_DT time_NN when_WRB you_PRP can_MD enjoy_VB the_DT sun_NN ,_, the_DT heat_NN ,_, and_CC show_VB off_RP the_DT fat_JJ you_PRP accumulated_VBN when_WRB you_PRP were_VBD stuffing_VBG yourself_PRP this_DT past_JJ winter_NN -_: yay_NN !_.
+I_PRP 'll_MD see_VB YOU_PRP by_IN the_DT pool_NN -_: walking_VBG aruond_NN in_IN your_PRP$ Hawaiian_JJ swimwear_NN ,_, looking_VBG like_IN a_DT toasted_VBN aspirin_NN ,_, with_IN your_PRP$ 30_CD pound_NN beer_NN gut_NN hangin_NN '_'' out_RP -_: ROCK_NN ON_IN !_.
+But_CC no_DT matter_NN what_WP ,_, it_PRP 's_VBZ the_DT summer_NN ,_, fuck_VB it_PRP ,_, let_VB 's_POS have_VB a_DT drink_NN and_CC chill_NN ._.
+What_WP better_JJR beverage_NN -LRB-_-LRB- apart_RB from_IN Jack_NNP of_IN course_NN -RRB-_-RRB- to_TO accompany_VB this_DT festive_JJ heat_NN wave_NN but_CC a_DT cold_JJ Mojito_NNP ,_, made_VBD the_DT RIGHT_NNP way_NN ._.
+Before_IN you_PRP start_VBP ,_, here_RB are_VBP the_DT magical_JJ ingredients_NNS ._. ._.
+-_: White_NNP Rum_NNP -LRB-_-LRB- get_VB some_DT Bacardi_NNP white_JJ rum_NN ,_, or_CC Havana_NNP Club_NNP should_MD do_VB the_DT trick_NN -RRB-_-RRB- -_: fresh_JJ mint_NN leaves_VBZ -LRB-_-LRB- not_RB mint_NN syrup_NN or_CC anything_NN but_CC real_JJ chlorophyll-filled_JJ leaves_NNS -RRB-_-RRB- -_: some_DT nice_JJ little_JJ limes_NNS -LRB-_-LRB- not_RB lime_JJ juice_NN ,_, or_CC sour_JJ mix_NN -_: real_JJ LIMES_NNP ,_, thank_VBP you_PRP ._. -RRB-_-RRB-
+-_: granulated_VBN brown_JJ suger_NN -LRB-_-LRB- sugar_NN cane_NN sugar_NN is_VBZ the_DT best_JJS way_NN to_TO go_VB ,_, although_IN it_PRP works_VBZ with_IN normal_JJ sugar_NN ,_, although_IN it_PRP 's_VBZ not_RB as_RB good_JJ -RRB-_-RRB- -_: if_IN you_PRP really_RB want_VBP to_TO make_VB it_PRP properly_RB ,_, have_VBP some_DT angostura_NN handy_JJ ._. ._.
+-_: some_DT ice_NN ,_, yeah_NN ,_, frozen_JJ water_NN works_NNS ._.
+OK_JJ In_IN a_DT NICE_JJ glass_NN ,_, preferably_RB something_NN with_IN a_DT large_JJ base_NN -LRB-_-LRB- whiskey_NN glass_NN ,_, lowball_NN ,_, etc_FW -RRB-_-RRB- put_VBD about_RB 2_CD teaspoons_NNS of_IN brown_JJ sugar_NN ._.
+Next_JJ squeeze_NN in_IN 2-3_CD wedges_NNS of_IN lime_NN ,_, and_CC add_VB about_IN 6_CD nice_JJ mint_NN leaves_VBZ ._.
+Mash_VB the_DT three_CD ingredients_NNS using_VBG something_NN like_IN a_DT pestle_NN -LRB-_-LRB- What_WP is_VBZ a_DT pestle_NN ?_.
+go_VB to_TO www.dictionary.com_VB ,_, and_CC search_NN for_IN pestle_NN -RRB-_-RRB- Once_RB all_DT of_IN this_DT has_VBZ become_VBN a_DT gooey_NN pulp_NN ,_, you_PRP 're_VBP ready_JJ for_IN the_DT next_JJ step_NN -_: adding_VBG the_DT crushed_JJ ice_NN ._.
+-_: here_RB 's_VBZ a_DT method_NN for_IN crushing_VBG ice_NN which_WDT work_NN and_CC is_VBZ n't_RB too_RB much_JJ of_IN a_DT hassle_NN ._.
+Take_VB a_DT couple_NN ice_NN cubes_NNS ,_, place_VBP them_PRP in_IN one_CD of_IN your_PRP$ cupped_JJ hands_NNS ,_, and_CC swing_VBP the_DT pestle_NN at_IN them_PRP ._.
+This_DT should_MD give_VB you_PRP some_DT uneven_JJ crushed_JJ ice_NN ,_, which_WDT is_VBZ perfect_JJ for_IN the_DT mojito_NN ._.
+I_PRP do_VBP n't_RB like_VB real_JJ crushed_JJ ice_NN ,_, because_IN as_IN i_FW 've_VBP said_VBN before_IN it_PRP tends_VBZ to_TO melt_VB too_RB quickly_RB ._.
+Fill_VB the_DT glass_NN up_IN to_TO the_DT top_NN with_IN crushed_JJ ice_NN ._.
+Add_VB a_DT couple_NN drops_NNS of_IN Angostura_NNP ._.
+Pour_VB the_DT white_JJ rum_NN over_IN the_DT crushed_JJ ice_NN up_IN to_TO the_DT top_NN of_IN the_DT glass_NN ._.
+Before_IN serving_VBG ,_, make_VB sure_JJ the_DT person_NN mixes_VBZ the_DT beverage_NN up_RB ,_, otherwise_RB all_PDT the_DT good_JJ stuff_NN stays_NNS at_IN the_DT bottom_NN ,_, and_CC the_DT person_NN gets_VBZ a_DT hard_JJ kick_NN of_IN really_RB cold_JJ RUM_NNP -LRB-_-LRB- which_WDT is_VBZ ok_RB too_RB -RRB-_-RRB- Serve_VB with_IN a_DT little_JJ straw_NN ,_, and_CC you_PRP 're_VBP golden_JJ !_.
+Go_VB sit_VB by_IN the_DT pool_NN ,_, chill_NN in_IN the_DT sun_NN ,_, and_CC sip_VB away_RB !_.
+BTW_NNP ,_, there_EX are_VBP quite_RB a_DT few_JJ other_JJ drinks_NNS you_PRP can_MD make_VB with_IN the_DT ingredients_NNS i_FW gave_VBD ya_PRP ,_, including_VBG a_DT ti_NN punch_NN ,_, caipirinha_NN ._.
+They_PRP are_VBP all_DT based_VBN on_IN the_DT same_JJ principle_NN :_: sugar_NN and_CC limes_NNS ._.
+For_IN the_DT Ti_NNP punch_NN ,_, do_VBP n't_RB add_VB any_DT mint_NN ,_, and_CC for_IN the_DT caipirinha_NN ,_, you_PRP have_VBP to_TO have_VB some_DT Cachaca_NNP handy_JJ ..._: More_JJR drinks_NNS to_TO come_VB ._.
+CHEERS_NNS !_.
+``_`` The_DT hard_JJ part_NN about_IN being_VBG a_DT bartender_NN is_VBZ figuring_VBG out_RP who_WP is_VBZ drunk_JJ and_CC who_WP is_VBZ just_RB stupid_JJ ._. ''_''
+-_: Richard_NNP Braunstein_NNP Yes_NNP ,_, Mich_NNP ,_, myself_PRP ,_, and_CC our_PRP$ two_CD lady_NN friends_NNS had_VBD a_DT wonderful_JJ fondue_NN session_NN last_JJ night_NN ,_, although_IN as_IN always_RB ,_, we_PRP had_VBD a_DT hard_JJ time_NN doing_VBG things_NNS in_IN a_DT civilized_JJ way_NN ._.
+Everything_NN started_VBD out_RP much_RB like_IN any_DT adult_NN thing_NN ,_, a_DT little_JJ aperitif_NN with_IN olives_NNS and_CC saucisson_NN ,_, nice_JJ little_JJ semi-educated_JJ chitchat_NN ,_, etc_FW etc._FW ._.
+We_PRP had_VBD a_DT couple_NN civilized_JJ drinks_NNS ,_, and_CC everything_NN was_VBD fine_JJ and_CC dandy_JJ -_: Until_IN the_DT Jack_NNP started_VBD hitting_VBG the_DT few_JJ tired_JJ neurons_NNS we_PRP have_VBP left_VBN ._.
+The_DT Fondue_NNP was_VBD a_DT big_JJ success_NN -_: it_PRP was_VBD the_DT first_JJ time_NN we_PRP tried_VBD making_VBG one_CD at_IN home_NN ,_, and_CC the_DT result_NN was_VBD very_RB very_RB nice_JJ ._. ._.
+I_PRP think_VBP the_DT Jack_NNP ,_, plus_CC the_DT 3\/4_CD of_IN a_DT bottle_NN of_IN white_JJ wine_NN and_CC the_DT Kirsch_NNP in_IN the_DT Fondue_NNP ._.
+We_PRP played_VBD some_DT Taboo_NNP in_IN Frenglish_NNP -LRB-_-LRB- props_NNS to_TO us_PRP though_RB ,_, the_DT chicks_NNS were_VBD constantly_RB cheating_NN ,_, and_CC plus_IN they_PRP 're_VBP sour_JJ losers_NNS -RRB-_-RRB- and_CC the_DT next_JJ thing_NN we_PRP knew_VBD ,_, it_PRP was_VBD 3am_JJ and_CC we_PRP were_VBD all_DT starting_VBG to_TO feel_VB very_RB very_RB very_RB ``_`` Tired_VBN ''_'' ,_, so_RB mich_JJ and_CC Karima_NNP got_VBD a_DT cab_NN home_NN ._.
+Drinks_NNS consumed_VBN :_: 2_CD bottles_NNS of_IN Jack_NNP Daniels_NNP Old_NNP No._NN 7_CD -LRB-_-LRB- That_DT 's_VBZ a_DT bottle_NN each_DT for_IN me_PRP and_CC mich_VB -RRB-_-RRB- Half_PDT a_DT bottle_NN of_IN Zubrovska_NNP vodka_NN -LRB-_-LRB- The_DT chicks_NNS -RRB-_-RRB- 1_CD bottle_NN of_IN white_JJ wine_NN ._.
+Mich_NNP ,_, you_PRP have_VBP to_TO come_VB over_RB soon_RB ,_, we_PRP 've_VBP got_VBN to_TO nail_VB that_DT Kahlua_NNP in_IN some_DT nice_JJ White_NNP Russians_NNPS dude_NN ._.
+I_PRP 'm_VBP gonna_NNS be_VB on_IN vacation_NN next_JJ week_NN ,_, hence_RB none_NN -LRB-_-LRB- or_CC very_RB little_JJ -RRB-_-RRB- blogging_VBG from_IN me_PRP -_: Dimitri_NNP will_MD put_VB forth_RB all_DT our_PRP$ bitterness_NN in_IN my_PRP$ absence_NN ._.
+Godspeed_NNP ,_, until_IN we_PRP meet_VBP again_RB ._.
+Sure_RB ._. ._.
+I_PRP 'll_MD be_VB a_DT cop_NN -_: as_RB long_RB as_IN you_PRP 'll_MD promise_VB me_PRP this_DT patrol_NN car_NN !_.
+Ok_NNP ,_, so_IN the_DT future_JJ King_NNP of_IN Denmark_NNP is_VBZ getting_VBG married_JJ today_NN ._. ._.
+Big_JJ deal_NN ._.
+Denmark_NNP and_CC Copenhagen_NNP especially_RB has_VBZ turned_VBN in_RP to_TO a_DT huge_JJ media_NNS frenzy_NN ,_, and_CC everyone_NN thinks_VBZ it_PRP is_VBZ soooo_JJ great_JJ !_.
+I_PRP wonder_VBP if_IN all_DT the_DT Danish_JJ tax_NN payers_NNS would_MD be_VB as_IN happy_JJ about_IN the_DT whole_JJ shebang_NN if_IN they_PRP saw_VBD the_DT total_JJ cost_NN of_IN the_DT wedding_NN -_: let_VB alone_RB the_DT cost_NN of_IN the_DT monarchy_NN all_DT together_RB ._. ._.
+Sure_RB ,_, they_PRP do_VBP some_DT PR_NNP for_IN the_DT nation_NN ,_, but_CC is_VBZ it_PRP really_RB worth_IN it_PRP ?_.
+Anywho_NNP ,_, I_PRP 'll_MD be_VB ``_`` celebrating_VBG ''_'' the_DT wedding_NN with_IN some_DT nice_JJ Jack_NNP D._NNP and_CC fondue_NN at_IN my_PRP$ buddy_NN Dim_NNP 's_POS palace_NN ,_, and_CC let_VB 's_POS see_VB for_IN how_WRB long_JJ the_DT Danish_JJ royal_NN family_NN will_MD be_VB on_IN our_PRP$ minds_NNS as_RB soon_RB as_IN the_DT Jack_NNP starts_VBZ to_TO flow_VB ._. ._.
+Thank_VB god_NN it_PRP 's_VBZ Friday_NNP ,_, and_CC GUD_NNP BEVARE_VBP DANMARK_SYM -_: and_CC God_NNP save_VBP the_DT queen_NN etc_NN etc_FW etc._FW ._. ._.
+Gotta_NNP love_NN my_PRP$ user_NN support_NN skills_NNS :_: -LRB-_-LRB- 11:08:57_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: hi_FW michael_FW -LRB-_-LRB- 11:09:05_CD -RRB-_-RRB- michIcom5412_NN :_: hello_UH -LRB-_-LRB- 11:09:31_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: Every_DT applicateion_NN on_IN PC_NN is_VBZ extremly_RB slow_JJ -LRB-_-LRB- 11:09:40_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: have_VB we_PRP got_VBD a_DT general_JJ problem_NN -LRB-_-LRB- 11:09:48_CD -RRB-_-RRB- michIcom5412_NN :_: no_DT -LRB-_-LRB- 11:09:48_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: or_CC can_MD i_FW do_VBP something_NN -LRB-_-LRB- 11:10:11_CD -RRB-_-RRB- michIcom5412_NN :_: must_MD be_VB your_PRP$ network_NN connection_NN -LRB-_-LRB- 11:10:16_CD -RRB-_-RRB- michIcom5412_NN :_: cause_VB all_DT is_VBZ good_JJ here_RB ._. ._.
+-LRB-_-LRB- 11:11:00_CD -RRB-_-RRB- michIcom5412_NN :_: Give_VB it_PRP 10_CD minutes_NNS and_CC let_VB me_PRP know_VB if_IN it_PRP is_VBZ better_RBR ,_, ok_VB ?_.
+-LRB-_-LRB- 11:11:07_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: ok_VB -LRB-_-LRB- 11:15:15_CD -RRB-_-RRB- Jurgen_NN xxx_NN :_: its_PRP$ ok_NN now_RB -LRB-_-LRB- 11:19:39_CD -RRB-_-RRB- michIcom5412_NN :_: goodie_NN Another_DT happy_JJ customer_NN ._. ._.
+UFO_NNP sighted_VBD in_IN Mexican_JJ airspace_NN -_: and_CC this_DT time_NN ,_, it_PRP is_VBZ not_RB some_DT stupid_JJ fanatics_NNS that_WDT claims_VBZ to_TO have_VB seen_VBN them_PRP -_: but_CC the_DT Mexican_NNP Air_NNP Force_NNP -LRB-_-LRB- I_PRP do_VBP n't_RB know_VB if_IN they_PRP are_VBP much_RB better_JJR ?_. -RRB-_-RRB-
+Well_RB ,_, I_PRP ,_, for_IN one_CD ,_, welcome_JJ our_PRP$ new_JJ superior_JJ saucer_NN flying_VBG overlords_NNS !_.
+Stop_NN in_IN ,_, have_VB a_DT taco_NN ._. ._.
+Here_RB 's_VBZ a_DT shot_NN that_WDT usually_RB put_VBP people_NNS on_IN the_DT floor_NN or_CC facing_VBG a_DT bucket_NN pretty_RB fast_RB ._.
+Most_JJS of_IN the_DT people_NNS I_PRP 've_VBP served_VBN this_DT to_TO have_VB been_VBN either_RB stupid_JJ teenagers_NNS that_WDT thought_VBD they_PRP could_MD drink_VB ,_, or_CC full_JJ out_IN boozers_NNS such_JJ as_IN mich._NN ._.
+If_IN you_PRP really_RB want_VBP to_TO put_VB someone_NN over_IN the_DT top_NN ,_, try_VB this_DT shot_NN ..._: Here_RB goes_VBZ ._.
+The_DT Ingredients_NNPS :_: Tequila_NNP ._.
+Triple_NNP Sec_NNP or_CC Cointreau_NNP ._.
+Kahlua_NNP ._.
+In_IN a_DT coffee_NN mug_NN -LRB-_-LRB- or_CC something_NN that_WDT resembles_VBZ it_PRP ,_, like_IN a_DT teacup_NN ,_, or_CC one_CD of_IN those_DT gay_JJ little_JJ tea_NN or_CC milk_NN pots_NNS -RRB-_-RRB- pour_VBP 1.5_CD centiliters_NNS of_IN each_DT ingredient_NN ._.
+Place_VB the_DT mug_NN in_IN a_DT microwave_NN oven_NN for_IN about_RB 15_CD seconds_NNS -LRB-_-LRB- just_RB so_IN the_DT liquid_NN is_VBZ hot_JJ -_: not_RB boiling_VBG ,_, unless_IN you_PRP hate_VBP the_DT fucker_NN your_PRP$ serving_VBG -RRB-_-RRB- ._.
+Once_RB out_IN of_IN the_DT microwave_NN ,_, pour_VBP the_DT nectar_NN into_IN a_DT shot_NN glass_NN ._.
+Now_RB since_IN a_DT normal_JJ shot_NN glass_NN is_VBZ around_IN 3.8_CD centiliters_NNS -LRB-_-LRB- although_IN bars_NNS say_VBP it_PRP 's_VBZ 4_CD centiliter_NN shots_NNS ,_, they_PRP 're_VBP actually_RB cheating_VBG you_PRP out_IN of_IN .2_CD cl_NN of_IN booze_NN -_: an_DT outright_JJ scandal_NN -RRB-_-RRB- ,_, you_PRP 'll_MD have_VB about_IN half_PDT a_DT shot_NN too_RB much_RB left_VBN in_IN the_DT mug_NN once_RB you_PRP 've_VBP filled_VBN the_DT shot_NN glass_NN ._.
+Pour_VB the_DT rest_NN of_IN the_DT liquid_NN around_IN the_DT shot_NN ,_, or_CC make_VB a_DT small_JJ line_NN with_IN it_PRP on_IN the_DT bar_NN leading_VBG up_RP to_TO the_DT glass_NN ._.
+Give_VB the_DT sorry_JJ bastard_NN a_DT straw_NN ,_, and_CC light_JJ the_DT bit_NN you_PRP poured_VBD on_IN the_DT bar_NN around_IN the_DT shotglass_NN ._.
+This_DT shit_NN will_MD ignite_VB like_IN Napalm_NNP ,_, so_RB be_VB careful_JJ ._.
+The_DT bit_NN on_IN the_DT bar_NN should_MD lead_VB up_RP the_DT shot_NN glass_NN and_CC light_NN that_IN as_RB well_RB ._.
+Once_RB lit_VBN ,_, tell_VBP the_DT bastard_NN to_TO shoot_VB it_PRP through_IN the_DT straw_NN ._.
+Tada_NN !_.
+you_PRP have_VBP a_DT Cucaracha_NNP ._.
+Note_NN :_: if_IN the_DT poor_JJ individual_JJ drinking_NN has_VBZ had_VBN a_DT few_JJ before_IN the_DT cucaracha_NN ,_, have_VBP a_DT bucket_NN handy_JJ ._. ._.
+trust_NN me_PRP ._.
+Cheers_NNP !!_NNP ``_`` The_DT hard_JJ part_NN about_IN being_VBG a_DT bartender_NN is_VBZ figuring_VBG out_RP who_WP is_VBZ drunk_JJ and_CC who_WP is_VBZ just_RB stupid_JJ ._. ''_''
+-_: Richard_NNP Braunstein_NNP Alright_NNP ,_, you_PRP guessed_VBD another_DT one_CD of_IN my_PRP$ passions_NNS is_VBZ good_JJ food_NN ._.
+I_PRP like_VBP preparing_VBG food_NN ,_, unfortunately_RB I_PRP do_VBP n't_RB get_VB around_IN doing_VBG it_PRP as_RB much_RB as_IN I_PRP 'd_MD like_VB to_TO -_: probably_RB because_IN I_PRP 'm_VBP a_DT lazy_JJ bastard_NN ._. ._.
+Oh_UH well_UH ._. ._.
+Anyways_NNP ,_, my_PRP$ wife_NN recently_RB purchased_VBD a_DT nice_JJ little_JJ book_NN with_IN a_DT few_JJ simply_RB dishes_NNS in_IN ,_, that_IN I_PRP will_MD try_VB and_CC experiment_NN with_IN ._. ._.
+I_PRP 'll_MD post_VB the_DT recipes_NNS and_CC conclusions_NNS on_IN this_DT blog_NN ._.
+Pork_NN Chops_VBZ Valenciana_NNP :_: A_NNP couple_NN of_IN not_RB too_RB thick_JJ pork_NN chops_NNS 175g_VBP Orange_NNP marmalade_NN 2_CD Tablespoons_NNP chili_NNS sauce_NN 1_CD Tablespoon_NNP cider_NN vinegar_NN 1_CD Teaspoon_NNP fresh_JJ grated_VBN ginger_NN 1_CD Teaspoon_NNP ground_NN cumin_NN 2_CD Green_NNP Onions_NNP Heat_NNP some_DT oil_NN on_IN large_JJ pan_VB ,_, and_CC fry_NN the_DT pork_NN chops_NNS until_IN brown_JJ on_IN each_DT side_NN and_CC well_RB cooked_VBD inside_RB ._.
+Meanwhile_RB ,_, add_VB orange_JJ marmalade_NN ,_, chili_JJ sauce_NN ,_, vinegar_NN ,_, ginger_NN and_CC cumin_NN into_IN a_DT sauce_NN pan\/pot_NN and_CC cook_NN while_IN stirring_VBG until_IN the_DT sauce_NN thickens_VBZ a_DT little_JJ bit_NN ._.
+Add_VB the_DT thinly_RB sliced_JJ green_JJ onions_NNS to_TO the_DT sauce_NN ,_, and_CC serve_VB the_DT pork_NN chops_NNS covered_VBN with_IN the_DT sauce_NN ._.
+Can_MD be_VB served_VBN with_IN any_DT boiled\/steamed_VBN vegetable_NN ,_, fx_NN ._.
+Potatoes_NNS or_CC asparagus_NN ._.
+The_DT whole_JJ thing_NN should_MD n't_RB take_VB more_JJR than_IN 20_CD minutes_NNS ._.
+I_PRP prepared_VBD the_DT dish_NN last_JJ night_NN ,_, and_CC the_DT sweet_JJ 'n'_CC sour_JJ sauce_NN really_RB went_VBD very_RB well_RB with_IN the_DT pork_NN chops_NNS -_: it_PRP is_VBZ definitely_RB not_RB the_DT last_JJ time_NN I_PRP make_VBP this_DT ._. ._.
+;_: -RRB-_-RRB- So_RB yesterday_NN I_PRP received_VBD a_DT new_JJ offer_NN from_IN my_PRP$ bank_NN -_: through_IN the_DT Premier_NNP service_NN I_PRP can_MD sign_VB up_RP for_IN DVDchezvous_JJ service_NN for_IN ,_, 28_CD \/_NN month_NN ._.
+It_PRP works_VBZ pretty_RB much_RB like_IN the_DT NetFlix_NNP service_NN in_IN the_DT US_NNP ._.
+It_PRP 's_VBZ a_DT great_JJ concept_NN ,_, but_CC I_PRP still_RB think_VBP that_IN the_DT price_NN is_VBZ a_DT bit_NN steep_JJ ._.
+Here_RB 's_VBZ how_WRB it_PRP works_VBZ :_: 1_LS ._.
+You_PRP go_VBP and_CC choose_VBP a_DT film_NN from_IN their_PRP$ website_NN ,_, or_CC place_VB a_DT call_NN to_TO their_PRP$ call_NN center_NN ._.
+2_LS ._.
+They_PRP send_VBP the_DT movie_NN -LRB-_-LRB- s_PRP -RRB-_-RRB- to_TO an_DT address_NN of_IN your_PRP$ choice_NN ._.
+-LRB-_-LRB- Meaning_VBG you_PRP can_MD still_RB get_VB your_PRP$ movie_NN -LRB-_-LRB- s_PRP -RRB-_-RRB- while_IN being_VBG on_IN vacation_NN -RRB-_-RRB- 3_LS ._.
+After_IN watching_VBG the_DT movie_NN -LRB-_-LRB- s_PRP -RRB-_-RRB- you_PRP put_VBP them_PRP in_IN the_DT envelope_NN -LRB-_-LRB- pre-stamped_JJ -RRB-_-RRB- and_CC post_VB it_PRP ._.
+You_PRP can_MD keep_VB the_DT movie_NN -LRB-_-LRB- s_PRP -RRB-_-RRB- for_IN as_RB long_JJ as_IN you_PRP desire_VBP ,_, but_CC you_PRP can_MD only_RB ``_`` rent_VB ''_'' two_CD movies_NNS at_IN a_DT time_NN ._.
+The_DT Premier_NNP service_NN offers_VBZ me_PRP a_DT 1-month_JJ trial_NN period_NN ,_, so_IN I_PRP might_MD try_VB it_PRP out_RP ._. ._.
+With_IN a_DT bit_NN of_IN luck_NN the_DT price_NN will_MD go_VB down_RB in_IN the_DT near_JJ future_NN ._.
+How_WRB come_VBN whenever_WRB you_PRP are_VBP in_IN a_DT shop\/service-center_NN -LRB-_-LRB- or_CC something_NN like_IN it_PRP -RRB-_-RRB- and_CC you_PRP are_VBP standing_VBG in_IN line_NN or_CC getting_VBG served_VBD -_: and_CC if_IN the_DT telephone_NN will_MD ring_VB they_PRP will_MD ALWAYS_RB answer_VB it_PRP and_CC make_VB you_PRP stand_VB and_CC wait_VB like_IN a_DT jackass_NN ._.
+How_WRB come_VBN clients_NNS sitting_VBG on_IN their_PRP$ fat_JJ behinds_NNS making_VBG a_DT telephone_NN call_NN ,_, will_MD be_VB priorities_NNS over_IN the_DT clients_NNS that_WDT have_VBP actually_RB gone_VBN through_IN the_DT trouble_NN to_TO show_VB up_RP ?_.
+I_PRP do_VBP n't_RB think_VB it_PRP makes_VBZ any_DT sense_NN ,_, and_CC I_PRP believe_VBP that_IN whenever_WRB you_PRP -LRB-_-LRB- the_DT consumer_NN -RRB-_-RRB- will_MD experience_VB this_DT ,_, it_PRP should_MD NOT_RB be_VB frowned_VBN upon_IN when_WRB you_PRP smack_VBP the_DT idiot_NN up_RB over_IN it_PRP ._. ._.
+Just_RB my_PRP$ 2_CD cents_NNS ._. ._.
+I_PRP recieved_VBD this_DT email_NN from_IN my_PRP$ friend_NN Paul_NNP R._NNP I_PRP find_VBP it_PRP so_RB true_JJ and_CC so_RB in_IN synch_NN with_IN what_WP i_FW feel_VBP that_IN I_PRP have_VBP left_VBN it_PRP untouched_JJ -_: so_RB here_RB you_PRP go_VBP ._.
+PS_NNP :_: Lewis_NNP ,_, do_VBP n't_RB think_VB I_PRP 'm_VBP plagiarizing_VBG ,_, this_DT is_VBZ for_IN the_DT good_JJ of_IN everyone_NN ._.
+Hello_UH ,_, my_PRP$ name_NN is_VBZ Lewis_NNP and_CC I_PRP suffer_VBP from_IN the_DT guilt_NN of_IN not_RB forwarding_NN 50_CD billion_CD fucking_NN chain_NN letters_NNS sent_VBN to_TO me_PRP by_IN people_NNS who_WP actually_RB believe_VBP that_IN if_IN you_PRP send_VBP them_PRP on_IN ,_, a_DT poor_JJ 6-year-old_JJ girl_NN in_IN Arkansas_NNP with_IN a_DT breast_NN on_IN her_PRP$ forehead_NN will_MD be_VB able_JJ to_TO raise_VB enough_JJ money_NN to_TO have_VB it_PRP removed_VBN before_IN her_PRP$ redneck_NN parents_NNS sell_VBP her_PRP$ to_TO a_DT traveling_VBG freak_NN show_NN ._.
+Do_VBP you_PRP honestly_RB believe_VBP that_IN Bill_NNP Gates_NNP is_VBZ going_VBG to_TO give_VB you_PRP ,_, and_CC everyone_NN to_TO whom_WP you_PRP send_VBP ``_`` his_PRP$ ''_'' email_NN ,_, $_$ 1000_CD ?_.
+How_WRB stupid_JJ are_VBP we_PRP ?_.
+``_`` Ooooh_NNP ,_, looky_JJ here_RB !_.
+If_IN I_PRP scroll_VBP down_RP this_DT page_NN and_CC make_VB a_DT wish_NN ,_, I_PRP 'll_MD get_VB laid_VBN by_IN a_DT model_NN I_PRP just_RB happen_VB to_TO run_VB into_IN the_DT next_JJ day_NN !_. ''_''
+What_WP a_DT bunch_NN of_IN bullshit_NN ._.
+Maybe_RB the_DT evil_JJ chain_NN letter_NN leprechauns_NNS will_MD come_VB into_IN my_PRP$ house_NN and_CC sodomize_VB me_PRP in_IN my_PRP$ sleep_NN for_IN not_RB continuing_VBG a_DT chain_NN letter_NN that_WDT was_VBD started_VBN by_IN Peter_NNP in_IN 5_CD AD_NN and_CC brought_VBD to_TO this_DT country_NN by_IN midget_NN pilgrims_NNS on_IN the_DT Mayflower_NNP ._.
+Fuck_NNP 'em_PRP ._.
+If_IN you_PRP 're_VBP going_VBG to_TO forward_RB something_NN ,_, at_IN least_JJS send_VB me_PRP something_NN mildly_RB amusing_JJ ._.
+I_PRP 've_VBP seen_VBN all_PDT the_DT ``_`` send_VB this_DT to_TO 10_CD of_IN your_PRP$ closest_JJS friends_NNS ,_, and_CC this_DT poor_JJ ,_, wretched_JJ excuse_NN for_IN a_DT human_JJ being_NN will_MD somehow_RB receive_VB a_DT nickel_NN from_IN some_DT omniscient_NN being_VBG ''_'' letters_NNS about_IN 90_CD times_NNS ._.
+I_PRP do_VBP n't_RB fucking_VBG care_NN ._.
+Show_NNP a_DT little_JJ intelligence_NN and_CC think_VB about_IN what_WP you_PRP 're_VBP actually_RB contributing_VBG to_TO by_IN sending_VBG out_RP these_DT forwards_RB ._.
+Chances_NNS are_VBP ,_, it_PRP 's_VBZ our_PRP$ own_JJ unpopularity_NN ._.
+The_DT point_NN being_VBG ?_.
+If_IN you_PRP get_VBP some_DT chain_NN letter_NN that_WDT 's_VBZ threatening_VBG to_TO leave_VB you_PRP shagless_JJ or_CC luckless_JJ for_IN the_DT rest_NN of_IN your_PRP$ life_NN ,_, delete_VB it_PRP ._.
+If_IN it_PRP 's_VBZ funny_JJ ,_, send_VB it_PRP on_IN ._.
+Do_VBP n't_RB piss_VB people_NNS off_RP by_IN making_VBG them_PRP feel_VB guilty_JJ about_IN a_DT leper_NN in_IN Botswana_NNP with_IN no_DT teeth_NNS who_WP has_VBZ been_VBN tied_VBN to_TO the_DT ass_NN of_IN a_DT dead_JJ elephant_NN for_IN 27_CD years_NNS and_CC whose_WP$ only_RB salvation_NN is_VBZ the_DT 5_CD cents_NNS per_IN letter_NN he_PRP 'll_MD receive_VB if_IN you_PRP forward_RB this_DT email_NN ._.
+Now_RB forward_RB this_DT to_TO everyone_NN you_PRP know_VBP ._.
+Otherwise_RB ,_, tomorrow_NN morning_NN your_PRP$ underwear_NN will_MD turn_VB carnivorous_JJ and_CC will_MD consume_VB your_PRP$ genitals_NNS Have_VBP a_DT nice_JJ day_NN ._.
+P.S._NNP Send_VB me_PRP a_DT 100_CD bucks_NNS ASAP_NNP ._.
+Lewis_NNP I_PRP really_RB get_VBP pissed_VBN off_RP when_WRB i_FW go_VB into_IN a_DT bar_NN and_CC see_VB the_DT bartender_NN making_VBG a_DT White_NNP Russian_NNP -_: 95_CD percent_NN of_IN the_DT time_NN ,_, the_DT bastard_NN behind_IN the_DT bar_NN does_VBZ not_RB know_VB what_WP the_DT hell_NN he_PRP 's_VBZ doing_VBG ,_, and_CC being_VBG a_DT former_JJ bartender_NN ,_, that_WDT just_RB makes_VBZ me_PRP want_VB to_TO jump_VB over_IN the_DT bar_NN and_CC beat_VB the_DT shit_NN out_IN of_IN him\/her_NN with_IN a_DT cocktail_NN shaker_NN ._.
+So_IN I_PRP 've_VBP decided_VBN to_TO post_VB a_DT series_NN of_IN blogs_NNS concerning_VBG this_DT issue_NN ,_, entitled_VBN ``_`` How_WRB I_PRP make_VBP a._NN ._. ._. ''_''
+I_PRP figure_VBP you_PRP should_MD trust_VB me_PRP ,_, if_IN not_RB in_IN anything_NN relatively_RB important_JJ in_IN life_NN ,_, at_IN least_JJS in_IN my_PRP$ ability_NN to_TO make\/drink_VB a_DT beverage_NN ._.
+So_RB here_RB goes_VBZ ._.
+A_DT White_NNP Russian_NNP has_VBZ three_CD ingredients_NNS -LRB-_-LRB- well_RB ,_, 4_CD if_IN you_PRP include_VBP the_DT ice_NN -RRB-_-RRB- Vodka_NN ._.
+Kahlua_NNP ._.
+Milk_NN \/_NN Cream_NNP ._.
+Contrary_JJ to_TO what_WP the_DT bastard_NN bartender_NN -LRB-_-LRB- mentioned_VBN above_IN -RRB-_-RRB- believes_VBZ ,_, a_DT white_JJ russian_NN is_VBZ a_DT built_VBN drink_NN ,_, not_RB a_DT shaken_VBN one_CD ._.
+DO_NNP NOT_NNP SHAKE_VB a_DT White_NNP Russian_NNP damn_NN it_PRP !_.
+It_PRP 's_VBZ fucking_VBG blasphemy_NN ._.
+Thank_VB you_PRP ._.
+This_DT is_VBZ how_WRB i_FW do_VBP it_PRP ._.
+Take_VB a_DT lowball_NN glass_NN -_: this_DT is_VBZ what_WP you_PRP would_MD refer_VB to_TO as_IN a_DT whisky_JJ glass_NN i_FW believe_VBP -_: a_DT short_JJ fat_JJ glass_NN ._.
+Add_VB a_DT couple_NN of_IN nice_JJ big_JJ ice_NN cubes_NNS in_IN there_EX -_: not_RB crushed_JJ ice_NN ._. ._.
+crushed_JJ ice_NN melts_VBZ too_RB quickly_RB and_CC renatured_VBD the_DT taste_NN of_IN the_DT ingredients_NNS ._.
+Over_IN the_DT ice_NN ,_, pour_VBP about_RB 3_CD to_TO 4_CD centiliters_NNS of_IN white_JJ ,_, unflavored_JJ vodka_NN -LRB-_-LRB- like_IN absolut_NN or_CC smirnoff_NN -_: not_RB something_NN like_IN absolut_JJ curant_JJ or_CC zubrovska_NN -RRB-_-RRB- ._.
+Over_IN the_DT vodka_NN ,_, pour_VBP about_IN the_DT same_JJ quantity_NN of_IN Kahlua_NNP ._.
+You_PRP still_RB with_IN me_PRP ?_.
+OK_JJ Now_RB float_VB the_DT milk\/cream_NN over_IN the_DT now_RB mixed_JJ vodka_NN and_CC kahlua_NN ._.
+You_PRP should_MD get_VB a_DT layer_NN of_IN brown_JJ -LRB-_-LRB- kahlua\/vodka_FW -RRB-_-RRB- and_CC a_DT layer_NN of_IN white_JJ -LRB-_-LRB- da_NN milk\/cream_NN -RRB-_-RRB- ._.
+Throw_VB a_DT couple_NN coffee_NN seeds_NNS on_IN top_NN of_IN the_DT milk\/cream_NN ,_, and_CC Voila_NNP !_.
+there_EX 's_VBZ your_PRP$ White_NNP Russian_NNP ._.
+Now_RB I_PRP tend_VBP to_TO like_VB my_PRP$ drinks_NNS steep_JJ -_: I_PRP just_RB think_VBP they_PRP taste_VB better_RBR that_DT way_NN -LRB-_-LRB- and_CC they_PRP do_VBP -RRB-_-RRB- ._.
+But_CC if_IN you_PRP 're_VBP a_DT sissy_NN ,_, a_DT loser_NN ,_, you_PRP can_MD lower_VB the_DT amount_NN of_IN booze_NN per_IN drink_NN ._.
+Also_RB do_VB me_PRP a_DT favor_NN ,_, the_DT next_JJ time_NN you_PRP go_VBP to_TO a_DT bar_NN ,_, ask_VB for_IN a_DT white_JJ russian_NN ._.
+If_IN the_DT bastard_NN does_VBZ n't_RB know_VB how_WRB to_TO make_VB it_PRP ,_, wack_VB him_PRP across_IN the_DT head_NN ,_, and_CC show_VB him_PRP how_WRB to_TO do_VB it_PRP ._. ._.
+Cheers_NNP !!_NNP ``_`` The_DT hard_JJ part_NN about_IN being_VBG a_DT bartender_NN is_VBZ figuring_VBG out_RP who_WP is_VBZ drunk_JJ and_CC who_WP is_VBZ just_RB stupid_JJ ._. ''_''
+-_: Richard_NNP Braunstein_NNP So_IN I_PRP finally_RB did_VBD it_PRP !_.
+I_PRP purchased_VBD a_DT GPS_NNP navigation_NN system_NN for_IN my_PRP$ car_NN ._.
+I_PRP had_VBD been_VBN on_IN the_DT look-out_NN for_IN a_DT quite_RB a_DT while_NN now_RB -_: but_CC I_PRP always_RB thought_VBD that_IN it_PRP was_VBD a_DT bit_NN pricy_NN ._. ._.
+-LRB-_-LRB- It_PRP still_RB is_VBZ ,_, but_CC less_RBR ._. ._. -RRB-_-RRB-
+Since_IN we_PRP are_VBP going_VBG on_IN a_DT little_JJ vacation_NN next_JJ week_NN ,_, I_PRP figured_VBD that_IN I_PRP might_MD as_RB well_RB get_VB it_PRP now_RB ._. ._.
+It_PRP also_RB did_VBD n't_RB help_VB that_IN Henrik_NNP has_VBZ just_RB been_VBN visiting_VBG me_PRP ,_, and_CC he_PRP works_VBZ for_IN Pioneer_NNP and_CC loves_VBZ to_TO tease_VB me_PRP with_IN all_PDT the_DT cool_JJ features_NNS of_IN a_DT navigation_NN system_NN ._.
+So_RB Saturday_NNP morning_NN -LRB-_-LRB- or_CC noon_NN -RRB-_-RRB- when_WRB I_PRP woke_VBD up_RP ,_, I_PRP went_VBD to_TO Darty_NNP in_IN Ternes_NNP to_TO purchase_VB my_PRP$ TomTom_NNP Wireless_NNP GPS_NNP system_NN ._.
+Unfortunantly_RB they_PRP were_VBD sold_VBN out_RP !_.
+But_CC that_DT did_VBD n't_RB stop_VB me_PRP ,_, I_PRP drove_VBD out_RP to_TO Darty_NNP in_IN Montparnasse_NNP where_WRB they_PRP had_VBD 4_CD left_VBD !_.
+The_DT pack_NN contains_VBZ :_: 1_CD HP_NNP IPaq_NNP PocketPC_NNP ,_, 1_CD GPS_NNP receiver_NN -LRB-_-LRB- Bluetooth_NNP -RRB-_-RRB- and_CC 1_CD car_NN installation_NN kit_NN ._.
+We_PRP took_VBD it_PRP out_RP for_IN a_DT test_NN drive_NN Sunday_NNP afternoon_NN ,_, and_CC it_PRP worked_VBD perfectly_RB !_.
+Now_RB I_PRP just_RB need_VBP to_TO get_VB someone_NN to_TO intall_VB all_PDT the_DT cables_NNS nicely_RB in_IN the_DT car_NN ,_, or_CC else_RB it_PRP 'll_MD end_VB up_RP looking_VBG like_IN my_PRP$ office_NN with_IN cables_NNS everywhere_RB -_: so_IN I_PRP am_VBP going_VBG up_RB to_TO Peugeot_NNP in_IN La_NNP Defense_NNP where_WRB I_PRP bought_VBD my_PRP$ car_NN tomorrow_NN !_.
+Blogger_NNP have_VBP added_VBN a_DT lot_NN of_IN new_JJ functionality_NN and_CC templates_NNS to_TO the_DT system_NN ,_, so_IN I_PRP decided_VBD to_TO update_VB the_DT blog_NN layout_NN ._.
+I_PRP hope_VBP you_PRP like_IN it_PRP !_.
+Comments_NNS are_VBP now_RB also_RB part_NN of_IN the_DT Blogger_NNP features_NNS ,_, so_IN I_PRP have_VBP removed_VBN the_DT old_JJ comments_NNS -_: and_CC added_VBD the_DT comment_NN functionality_NN ._.
+This_DT ,_, however_RB ,_, means_VBZ that_IN the_DT old_JJ comments_NNS are_VBP gone_VBN ._. ._.
+Yeah_UH ,_, that_DT 's_VBZ right_JJ -_: deal_NN with_IN it_PRP !_.
+Once_RB again_RB ,_, the_DT whole_JJ polemic_NN over_IN downloading_VBG music_NN ,_, and_CC the_DT music_NN industry_NN trying_VBG to_TO brainwash_VB us_PRP into_IN thinking_VBG it_PRP 's_VBZ not_RB morally_RB right_JJ ..._: What_WP i_FW do_VBP n't_RB find_VB morally_RB right_JJ is_VBZ that_IN when_WRB i_FW buy_VB a_DT CD_NN ,_, such_PDT an_DT infinitely_RB small_JJ amount_NN of_IN my_PRP$ hard_JJ earned_VBN cash_NN is_VBZ actually_RB going_VBG to_TO the_DT artist_NN ._.
+The_DT rest_NN of_IN my_PRP$ dosh_NN is_VBZ going_VBG to_TO some_DT bastard_NN sitting_VBG in_IN an_DT office_NN bigger_JJR than_IN my_PRP$ apartment_NN at_IN EMI_NNP or_CC Universal_NNP ._.
+Well_RB I_PRP say_VBP it_PRP was_VBD about_IN time_NN something_NN rocked_VBD the_DT boat_NN ._.
+This_DT is_VBZ putting_VBG the_DT majors_NNS at_IN risk_NN -LRB-_-LRB- -20_CD %_NN sales_NNS in_IN france_NN since_IN January_NNP -RRB-_-RRB- ,_, and_CC it_PRP 's_VBZ created_VBN a_DT time_NN when_WRB the_DT whole_JJ chabang_NN has_VBZ to_TO be_VB rethought_JJ ._. ._.
+They_PRP are_VBP trying_VBG to_TO tell_VB us_PRP it_PRP is_VBZ wrong_JJ to_TO download_NN ,_, yet_RB they_PRP have_VBP n't_RB yet_RB figured_VBN out_RP that_IN as_IN a_DT whole_JJ ,_, p2p_JJ users_NNS -LRB-_-LRB- in_IN the_DT millions_NNS -RRB-_-RRB- are_VBP a_DT lot_NN stronger_JJR then_RB them_PRP ,_, and_CC that_IN users_NNS will_MD always_RB find_VB an_DT alternate_JJ source_NN to_TO download_NN from_IN ,_, which_WDT has_VBZ happened_VBN in_IN the_DT past_NN -LRB-_-LRB- napster_NN -_: gnutella_NN -_: kazaa_SYM -_: kazaa_NN lite_NN -_: edonkey_SYM -_: emule_NN ,_, etc_FW ,_, etc_FW -RRB-_-RRB- ._.
+This_DT is_VBZ good_JJ for_IN everyone_NN ,_, the_DT internet_NN is_VBZ causing_VBG a_DT revolution_NN in_IN this_DT industry_NN that_WDT was_VBD much_JJ needed_VBN ._.
+Would_MD n't_RB it_PRP be_VB good_JJ to_TO be_VB able_JJ to_TO download_JJ directly_RB from_IN the_DT artist_NN ,_, and_CC either_DT donate\/buy_JJ their_PRP$ tracks_NNS ?_.
+Would_MD n't_RB the_DT artists_NNS also_RB prefer_VBP not_RB being_VBG tied_VBN down_RP by_IN the_DT majors_NNS ?_.
+And_CC what_WP about_IN all_PDT those_DT artists_NNS that_WDT do_VBP n't_RB have_VB a_DT contract_NN with_IN EMI_NNP ,_, Universal_NNP ,_, etc_FW ?_.
+Wo_NNP n't_RB they_PRP now_RB ,_, thanks_NNS to_TO the_DT internet_NN ,_, be_VB able_JJ to_TO have_VB their_PRP$ music_NN played_VBD out_IN there_RB ?_.
+Let_NNP 's_POS wait_NN and_CC see_VB ,_, shit_NN has_VBZ already_RB hit_VBN the_DT fan_NN ,_, and_CC they_PRP ca_MD n't_RB arrest_VB every_DT mp3_JJ downloader_NN ._.
+They_PRP 've_VBP got_VBN to_TO learn_VB to_TO live_VB with_IN it_PRP one_CD way_NN or_CC the_DT other_JJ ,_, so_RB things_NNS are_VBP going_VBG to_TO change_VB ._.
+A_DT nice_JJ response_NN to_TO the_DT SNEP_NNP anti_NNS p2p_VBP campaign_NN ._.
+Perhaps_RB if_IN the_DT artists_NNS were_VBD actually_RB making_VBG good_JJ music_NN ,_, and_CC not_RB just_RB cover_VB tracks_NNS of_IN cover_NN tracks_NNS ,_, and_CC ``_`` best_JJS of_IN ._. ._. ''_''
+releases_NNS -_: then_RB consumers_NNS would_MD probably_RB buy_VB more_JJR albums_NNS !_.
+I_PRP took_VBD the_DT Cisco_NNP ICND_NNP course_NN a_DT couple_NN of_IN years_NNS ago_IN -LRB-_-LRB- I_PRP also_RB attended_VBD the_DT CIT_NNP course_NN -RRB-_-RRB- -_: but_CC it_PRP is_VBZ just_RB recently_RB I_PRP thought_VBD it_PRP could_MD be_VB ``_`` fun_NN ''_'' to_TO actually_RB take_VB the_DT certifications_NNS -_: first_RB the_DT CCNA_NNP ,_, and_CC in_IN time_NN the_DT CCNP_NNP ._.
+I_PRP have_VBP contacted_VBN a_DT few_JJ Cisco_NNP learning_VBG partners_NNS here_RB in_IN France_NNP ,_, to_TO find_VB out_RP whether_IN or_CC not_RB I_PRP can_MD take_VB the_DT exam_NN in_IN English_NNP -LRB-_-LRB- it_PRP is_VBZ hard_JJ enough_RB without_IN me_PRP worrying_VBG about_IN the_DT language_NN barrier_NN -RRB-_-RRB- -_: while_IN I_PRP 'm_VBP waiting_VBG feedback_NN ,_, I_PRP have_VBP begun_VBN preparing_VBG for_IN the_DT test_NN ,_, and_CC I_PRP found_VBD an_DT online_JJ service_NN that_WDT can_MD give_VB me_PRP a_DT CCNA_NNP test_NN -LRB-_-LRB- find_VB it_PRP here_RB -RRB-_-RRB- for_IN free_JJ ._.
+The_DT test_NN is_VBZ harder_JJR than_IN I_PRP thought_VBD ,_, and_CC I_PRP 'll_MD probably_RB have_VB to_TO read_VB up_RP on_IN a_DT lot_NN of_IN stuff_NN -_: and_CC it_PRP is_VBZ not_RB helping_VBG that_IN the_DT margin_NN for_IN error_NN is_VBZ very_RB thin_JJ -_: you_PRP need_VBP 9_CD correct_JJ answers_NNS out_IN of_IN 10_CD !!_CD Wish_NNP me_PRP luck_NN ._. ._.
+Ah_UH ,_, I_PRP could_MD n't_RB resist_VB the_DT need_NN to_TO make_VB an_DT Ode_NNP to_TO my_PRP$ good_JJ old_JJ friend_NN the_DT Serbian_NNP Ice_NNP Tea_NNP and_CC his_PRP$ creator_NN the_DT one_CD and_CC only_RB Marko_NNP Jovanovic_NNP ._.
+If_IN you_PRP have_VBP n't_RB had_VBD the_DT chance_NN to_TO try_VB this_DT baby_NN out_RP ,_, print_NN out_IN the_DT following_VBG cocktail_NN recipe_NN ,_, and_CC stumble_VB on_IN over_IN to_TO your_PRP$ local_JJ bar_NN -LRB-_-LRB- which_WDT i_FW 'm_VBP assuming_VBG is_VBZ decent_JJ enough_RB to_TO have_VB the_DT ingredients_NNS needed_VBN -RRB-_-RRB- ASAP_NNP ,_, because_IN this_DT is_VBZ a_DT legend_NN ._.
+The_DT Details_NNS :_: -_: concocted_VBN for_IN the_DT first_JJ time_NN sometime_RB in_IN mid_NN to_TO end_VB 1997_CD at_IN the_DT Chesterfield_NNP Café_NNP -LRB-_-LRB- now_RB The_DT House_NNP of_IN Live_NNP -RRB-_-RRB- by_IN Doktor_NNP Marko_NNP -_: As_IN I_PRP remember_VBP it_PRP was_VBD a_DT Friday_NNP or_CC Saturday_NNP night_NN ,_, or_CC maybe_RB a_DT Wednesday_NNP ..._: or_CC ,_, well_RB ._. ._.
+-_: I_PRP got_VBD to_TO knowing_VBG the_DT recipe_NN well_RB because_IN i_FW later_RBR worked_VBD with_IN Marko_NNP in_IN 1999_CD at_IN The_DT Long_NNP Hop_NNP ._.
+Here_RB it_PRP is_VBZ :_: In_IN a_DT Pint_NNP Glass_NNP filled_VBD with_IN ice_NN :_: 1centiliter_NNS -LRB-_-LRB- cl_NN ._. -RRB-_-RRB-
+:_: Malibu_NNP 1cl_CD ._.
+:_: Southern_NNP Comfort_NNP 1cl_NN ._.
+:_: Peach_NNP schnapps_VBZ 1cl_CD ._.
+:_: Kahlua_NNP 1cl_CD ._.
+Triple_NNP Sec_NNP or_CC Cointreau_NNP 4_CD wedges_NNS of_IN lime_JJ squeezed_VBN ._.
+dash_NN of_IN Grenadine_NNP ._.
+-_: fill_NN to_TO about_IN 3\/4_CD of_IN the_DT glass_NN with_IN Cranberry_NNP Juice_NNP ._.
+-_: shake_NN furiously_RB ._.
+-_: top_NN the_DT concoction_NN with_IN some_DT 7up\/sprite_CD and_CC enjoy_VB ._.
+Now_RB i_FW have_VBP a_DT second_JJ recipe_NN ..._: the_DT one_CD i_FW make_VB ,_, which_WDT is_VBZ killer_NN -_: this_DT is_VBZ meant_VBN for_IN monsters_NNS who_WP can_MD take_VB the_DT alcohol_NN ,_, cuz_NN there_EX is_VBZ a_DT lot_NN of_IN it_PRP ._.
+It_PRP is_VBZ the_DT same_JJ as_IN above_RB ,_, except_IN you_PRP add_VBP :_: 2cl_JJ ._.
+of_IN dark_JJ rum_NN ,_, 2cl_JJ ._.
+of_IN vodka_NN ,_, and_CC another_DT cl_NN ._.
+of_IN Triple_NNP sec_FW ,_, which_WDT brings_VBZ the_DT alcohol_NN content_NN to_TO 20cl_VB ._.
+of_IN alcohol_NN ..._: More_JJR recipes_NNS to_TO come_VB -_: if_IN you_PRP have_VBP any_DT questions_NNS ,_, post_VB your_PRP$ comments_NNS and_CC i_FW 'll_MD get_VB back_RB to_TO ya_PRP ._.
+CHEERS_NNS !_.
+Seems_VBZ to_TO me_PRP that_IN Orkut_NNP are_VBP having_VBG some_DT difficulties_NNS ..._: mich_NN @_SYM ~_FW -RRB-_-RRB- host_NN www.orkut.com_NN Host_NNP not_RB found_VBD ,_, try_VB again_RB ._.
+``_`` Oh_UH ..._: The_DT euro_NN will_MD be_VB so_RB smart_JJ -_: cause_NN you_PRP can_MD go_VB around_RB to_TO all_DT countries_NNS in_IN Europe_NNP without_IN having_VBG to_TO worry_VB about_IN currency_NN exchanges_NNS etc_FW etc._FW ._. ''_''
+Bullshit_NNP !!_NNP When_WRB I_PRP travel_VBP around_IN Europe_NNP ,_, I_PRP usually_RB go_VBP to_TO either_CC the_DT UK_NNP or_CC Denmark_NNP -_: none_NN of_IN them_PRP have_VBP signed_VBN up_RP for_IN the_DT euro_NN -LRB-_-LRB- good_JJ for_IN them_PRP -RRB-_-RRB- -_: and_CC whether_IN they_PRP have_VBP or_CC nor_CC it_PRP would_MD n't_RB matter_VB ,_, as_IN I_PRP always_RB pay_VBP with_IN my_PRP$ visa_NN card_NN ._.
+So_RB let_VB 's_POS look_VB at_IN the_DT flip-side_NN on_IN having_VBG the_DT Euro_NNP ..._: On_IN the_DT day_NN ``_`` they_PRP ''_'' introduced_VBD the_DT euro_NN ,_, all_DT prices_NNS sky-rocketed_JJ ._. ._.
+And_CC I_PRP mean_VBP __CD all_DT __NN prices_NNS ._. ._.
+The_DT consumers_NNS -LRB-_-LRB- you_PRP and_CC me_PRP -RRB-_-RRB- were_VBD having_VBG trouble_NN doing_VBG the_DT exchanges_NNS in_IN their_PRP$ head_NN when_WRB they_PRP did_VBD their_PRP$ groceries_NNS ,_, so_RB by_IN the_DT time_NN they_PRP realized_VBD the_DT increase_NN -_: it_PRP was_VBD too_RB late_JJ ..._: And_CC now_RB ._. ._.
+Well_RB now_RB we_PRP 're_VBP just_RB stuck_VBN with_IN it_PRP !_.
+An_DT example_NN :_: Back_RB in_IN the_DT good_JJ old_JJ French_JJ Francs_NNS days_NNS ,_, I_PRP would_MD be_VB able_JJ to_TO go_VB to_TO my_PRP$ local_JJ brasserie_NN and_CC have_VB a_DT couple_NN of_IN pints_NNS of_IN Heineken_NNP for_IN about_RB 45_CD ,_, -_: FF_NN -LRB-_-LRB- max_FW -RRB-_-RRB- ._.
+Now_RB ,_, it_PRP 'll_MD cost_VB me_PRP 12,50_CD EUR_SYM -_: let_VB 's_POS see_VB ._. ._.
+-LRB-_-LRB- 12.50_CD x_SYM 6.56_CD -RRB-_-RRB- =_SYM 82_CD ,_, -_: FF_SYM -_: that_WDT 's_VBZ an_DT increase_NN on_IN almost_RB 82_CD %_NN -_: I_PRP mean_VBP ,_, what_WP the_DT hell_NN ?_.
+I_PRP miss_VBP the_DT French_JJ Francs_NNS ..._: And_CC what_WP the_DT fuck_NN is_VBZ up_RP with_IN the_DT garbage_NN trucks_NNS in_IN rush_NN hour_NN traffic_NN ?_.
+One_CD would_MD think_VB ,_, that_IN they_PRP have_VBP the_DT whole_JJ god_NN damn_NN day_NN to_TO collect_VB garbage_NN ,_, why_WRB mess_NN with_IN people_NNS between_IN 8h00_CD and_CC 9h00_CD when_WRB they_PRP are_VBP already_RB late_RB for_IN work_NN ..._: I_PRP mean_VBP ..._: what_WP 's_VBZ up_RP with_IN that_DT ?_.
+</rant>_NNP Another_DT on_IN of_IN those_DT days_NNS ._. ._.
+\*_SYM sigh_NN \*_SYM -LRB-_-LRB- Is_VBZ it_PRP Friday_NNP yet_RB ?_. -RRB-_-RRB-
+Put_VB our_PRP$ new_JJ spam-filter\/antivirus_JJ mail_NN gateway_NN online_NN today_NN ._. ._.
+Seems_VBZ to_TO work_VB pretty_RB well_RB -_: Up_RP on_IN until_IN today_NN we_PRP used_VBD Trend_NNP Interscan_NNP VirusWall_NNP for_IN Linux_NNP ._.
+I_PRP have_VBP been_VBN pretty_RB happy_JJ with_IN the_DT VirusWall_NNP ,_, but_CC a_DT have_VBP wanted_VBN to_TO change_VB it_PRP for_IN a_DT long_JJ time_NN ,_, because_IN :_: 1_LS ._.
+It_PRP runs_VBZ on_IN Linux_NNP 2_CD ._.
+It_PRP costs_VBZ money_NN We_PRP did_VBD not_RB have_VB any_DT spam_NN filtering_VBG until_IN now_RB ,_, and_CC frankly_RB ,_, it_PRP was_VBD about_IN damn_JJ time_NN ._. ._.
+Spammers_NNS were_VBD hitting_VBG our_PRP$ mailboxes_NNS by_IN the_DT thousands_NNS every_DT single_JJ day_NN ._. ._.
+Anywho_NNP ._. ._.
+I_PRP found_VBD a_DT nice_JJ HP_NNP server_NN for_IN the_DT purpose_NN ,_, spent_VBN yesterday_NN afternoon_NN installing_VBG FreeBSD_NNP and_CC doing_VBG the_DT basic_JJ configuration_NN ..._: Followed_VBN by_IN amavisd-new_NN ,_, clamav_NN and_CC p5-Mail-SpamAssassin_NN from_IN the_DT ports_NNS collection_NN ._.
+Did_VBD some_DT testing_NN this_DT morning_NN ,_, and_CC finally_RB put_VBD it_PRP into_IN production_NN at_IN noon_NN ._. ._.
+After_IN running_VBG for_IN 20_CD minutes_NNS ,_, it_PRP had_VBD already_RB caught_VBN 29_CD spam_NN messages_NNS !_.
+My_PRP$ friend_NN Henrik_NNP is_VBZ visiting_VBG from_IN Denmark_NNP ,_, and_CC tonight_NN we_PRP are_VBP all_DT going_VBG out_RP for_IN a_DT nice_JJ dinner_NN at_IN Anatole_NNP -_: a_DT small_JJ restaurant_NN close_NN to_TO where_WRB a_DT live_JJ ._.
+They_PRP make_VBP traditional_JJ French_JJ food_NN ,_, and_CC they_PRP make_VBP very_RB well_RB ;_: -RRB-_-RRB- I_PRP recently_RB discovered_VBD a_DT little_JJ util_NN named_VBN kblticker_NN ._.
+It_PRP is_VBZ a_DT tray-icon_NN application_NN for_IN KDE_NNP ._.
+Basically_RB what_WP it_PRP does_VBZ ,_, is_VBZ it_PRP contacts_NNS BlogLines_NNP every_DT x_SYM minutes_NNS ,_, and_CC checks_NNS to_TO see_VB whether_IN or_CC not_RB I_PRP have_VBP any_DT unread_JJ posts_NNS on_IN the_DT blogs_NNS I_PRP am_VBP subscribed_VBN to_TO ._.
+This_DT is_VBZ all_DT good_JJ and_CC nice_JJ ,_, however_RB I_PRP would_MD have_VB liked_VBN a_DT feature_NN that_WDT would_MD have_VB enabled_VBN me_PRP to_TO override_VB the_DT x_SYM minutes_NNS interval-check_JJ ,_, and_CC verify_VB the_DT status_NN of_IN my_PRP$ subscriptions_NNS immediately_RB ._.
+I_PRP wrote_VBD the_DT author_NN ,_, who_WP told_VBD me_PRP it_PRP was_VBD a_DT great_JJ idea_NN ,_, and_CC he_PRP ,_, himself_PRP ,_, would_MD like_VB such_PDT a_DT feature_NN as_RB well_RB -_: but_CC unfortunately_RB he_PRP was_VBD leaving_VBG for_IN vacation_NN -_: but_CC he_PRP promised_VBD me_PRP to_TO add_VB on_IN return_NN ..._: Since_IN the_DT program_NN is_VBZ open-source_JJ ,_, I_PRP had_VBD access_NN to_TO the_DT complete_JJ source_NN code_NN ,_, and_CC after_IN a_DT few_JJ changed_VBN source_NN files_NNS ,_, I_PRP could_MD recompile_VB the_DT program_NN with_IN ``_`` Poll_NNP Now_NNP ''_'' functionality_NN ._.
+Yay_NN !_.
+Even_RB trying_VBG to_TO imagine_VB such_PDT an_DT operation_NN on_IN a_DT Microsoft_NNP application_NN -LRB-_-LRB- or_CC other_JJ closed-source_NN project_NN -RRB-_-RRB- already_RB gives_VBZ me_PRP a_DT headache_NN ._. ._.
+Before_IN :_: After_IN :_: Well_RB well_RB ,_, it_PRP seems_VBZ like_IN just_RB 10_CD minutes_NNS ago_RB when_WRB i_FW last_JJ left_VBD this_DT office_NN ._. ._.
+and_CC here_RB i_FW am_VBP again_RB !_.
+WTF_NNP ._.
+I_PRP mean_VBP you_PRP leave_VB on_IN Friday_NNP saying_VBG ``_`` I_PRP am_VBP SO_RB going_VBG to_TO take_VB advantage_NN of_IN these_DT two_CD days_NNS off_RB ''_'' ,_, and_CC no_DT matter_NN WHAT_WDT you_PRP do_VBP ,_, it_PRP just_RB seems_VBZ like_IN the_DT weekend_NN is_VBZ compressed_VBN into_IN just_RB a_DT couple_NN minutes_NNS ,_, and_CC there_EX you_PRP are_VBP ,_, your_PRP$ dumb_JJ ass_NN sitting_VBG in_IN your_PRP$ stupid_JJ blue_JJ chair_NN ,_, looking_VBG at_IN a_DT dirty_JJ screen_NN full_JJ of_IN crap_NN ._. ._.
+yay_NN !_.
+But_CC what_WP 'd_MD ya_PRP want_VB to_TO do_VB ,_, that_DT 's_VBZ the_DT way_NN it_PRP is_VBZ ._.
+The_DT weekend_NN was_VBD good_JJ although_IN short_JJ as_IN usual_JJ ._.
+For_IN once_RB my_PRP$ sorry_JJ self_NN was_VBD invited_VBN to_TO a_DT birthday_NN party_NN ,_, which_WDT was_VBD pretty_RB sweet_JJ -LRB-_-LRB- yeah_JJ i_FW got_VBD myself_PRP a_DT couple_NN of_IN drinks_NNS with_IN mich_NN there_EX -RRB-_-RRB- We_PRP went_VBD and_CC shot_VBD some_DT pool_NN for_IN a_DT couple_NN of_IN hours_NNS -LRB-_-LRB- although_IN we_PRP probably_RB shot_VBD more_JJR heinekens_NNS then_RB balls_NNS really_RB -RRB-_-RRB- and_CC then_RB headed_VBD off_RP to_TO Hogans_NNP ,_, where_WRB we_PRP sat_VBD ,_, bullshitted_VBN ,_, and_CC ate_VBD Rota_NNP 's_POS very_RB own_JJ bar-made_JJ sandwiches_NNS ..._: yum_NN ._.
+I_PRP got_VBD sick_JJ of_IN mich_NN after_IN about_RB 60_CD minutes_NNS of_IN listening_VBG to_TO his_PRP$ constant_JJ moaning_NN and_CC bickering_NN ,_, so_IN we_PRP f_SYM \*\*_SYM ked_VBN off_RP to_TO the_DT VD_NNP ,_, had_VBD a_DT shot_NN with_IN Marko_NNP there_RB ,_, and_CC went_VBD home_NN to_TO pass_VB out_RP ._.
+Saturday_NNP ,_, did_VBD nothing_NN -LRB-_-LRB- another_DT birthday_NN that_WDT evening_NN -RRB-_-RRB- ;_: Sunday_NNP ,_, walked_VBD around_IN paris_NNS and_CC bought_VBD some_DT stuff_NN ,_, went_VBD home_NN ,_, had_VBD sushi_NN and_CC passed_VBD out_RP ._.
+SO_RB here_RB we_PRP go_VBP for_IN another_DT week_NN of_IN bloggin_VBG '_'' excitement_NN !!_CD Go_NNP Enterasys_NNPS !_.
+And_CC what_WP about_IN this_DT Sasser_NNP virus_NN ..._: i_FW want_VBP to_TO see_VB some_DT of_IN these_DT people_NNS 's_POS computers_NNS reboot_VBP when_WRB they_PRP 're_VBP in_IN the_DT middle_NN of_IN a_DT HUGE_NNP document_NN they_PRP have_VBP n't_RB saved_VBN ._. ._.
+heheheheh_NN Tada_NN !_.
+Trying_VBG to_TO test_VB a_DT Matrix_NNP E1_NNP switch_NN today_NN ._. ._.
+That_DT was_VBD lots_NNS of_IN fun_NN !_.
+We_PRP were_VBD n't_RB able_JJ to_TO figure_VB out_RP how_WRB to_TO get_VB console_JJ access_NN ._. ._.
+Spent_VB some_DT time_NN trying_VBG to_TO search_VB on_IN google_NN for_IN some_DT answers_NNS ._. ._.
+But_CC apparently_RB everyone_NN that_WDT owns_VBZ such_PDT a_DT switch_NN have_VBP not_RB experienced_VBN any_DT problems_NNS ._. ._.
+We_PRP tried_VBD connecting_VBG a_DT normal_JJ rollover_NN console_NN cable_NN ,_, a_DT straight-through_JJ cable_NN and_CC a_DT crossover_NN cable_NN -_: all_DT without_IN success_NN ._.
+Figured_VBN that_IN it_PRP might_MD be_VB hyperterminal_JJ that_DT was_VBD choking_VBG ,_, tried_VBD with_IN another_DT terminal_NN program_NN -_: still_RB without_IN success_NN ._.
+Unfortunately_RB the_DT com_NN port_NN on_IN my_PRP$ Unix_NNP box_NN is_VBZ dead_JJ ,_, so_IN I_PRP am_VBP forced_VBN to_TO use_VB the_DT windows_NNS box_NN -_: that_IN kinda_NN limits_NNS our_PRP$ debugging_VBG options_NNS ._. ._.
+Finally_RB gave_VBD up_RP ,_, and_CC sent_VBD it_PRP through_IN the_DT system_NN -_: I_PRP can_MD see_VB only_RB two_CD options_NNS :_: 1_LS ._.
+Both_DT console_JJ ports_NNS have_VBP been_VBN nuked_VBN 2_CD ._.
+We_PRP -LRB-_-LRB- Dim_NNP &_CC I_NNP -RRB-_-RRB- are_VBP too_RB stupid_JJ to_TO get_VB it_PRP working_VBG ._.
+Since_IN we_PRP experienced_VBD the_DT same_JJ behavior_NN on_IN both_DT switches_NNS ,_, I_PRP am_VBP tempted_VBN to_TO believe_VB in_IN the_DT second_JJ option_NN ..._: I_PRP do_VBP n't_RB know_VB what_WP it_PRP says_VBZ about_IN us_PRP ._. ._.
+Except_IN I_PRP hope_VBP I_PRP 'll_MD never_RB have_VB to_TO work_VB with_IN such_PDT a_DT piece_NN of_IN crap_NN again_RB ._.
+Big_JJ Burger_NNP Challenges_VBZ Gustatory_NNP Gladiators_NNP POSTED_VBD :_: 12:42_CD pm_NN EDT_NNP June_NNP 30_CD ,_, 2004_CD UPDATED_NNP :_: 1:01_CD pm_NN EDT_NNP June_NNP 30_CD ,_, 2004_CD CLEARFIELD_NNP ,_, Pa._NNP --_: Denny_NNP 's_POS Beer_NNP Barrel_NNP Pub_NNP has_VBZ a_DT challenge_NN --_: the_DT six-pound_JJ Burger_NNP Challenge_NNP ._.
+The_DT Clearfield_NNP ,_, Pa._NNP ,_, eatery_NN this_DT week_NN invited_VBN big_JJ eaters_NNS from_IN around_IN the_DT country_NN to_TO take_VB on_RP its_PRP$ biggest_JJS burger_NN ._.
+Here_RB 's_VBZ the_DT recipe_NN :_: six_CD pounds_NNS of_IN beef_NN ,_, one_CD large_JJ onion_NN ,_, two_CD whole_JJ tomatoes_NNS ,_, 1\/2_CD head_NN of_IN lettuce_NN ,_, one_CD and_CC 1\/4_CD pounds_NNS of_IN cheese_NN ,_, top_JJ and_CC bottom_JJ buns_NNS ,_, and_CC a_DT cup_NN each_DT of_IN mayonnaise_NN ,_, ketchup_NN ,_, mustard_NN ,_, relish_NN and_CC banana_NN peppers_NNS --_: all_DT topped_VBN off_RP with_IN some_DT pickles_NNS ._.
+The_DT folks_NNS at_IN Denny_NNP 's_POS Beer_NNP Barrel_NNP Pub_NNP says_VBZ no_DT one_NN has_VBZ been_VBN able_JJ to_TO eat_VB the_DT six-pound_JJ burger_NN in_IN the_DT required_VBN three_CD hours_NNS ._.
+Competitive_JJ eater_NN Eric_NNP ``_`` Badlands_NNP ''_'' Booker_NNP has_VBZ tried_VBN it_PRP three_CD times_NNS ._.
+On_IN his_PRP$ last_JJ attempt_NN ,_, he_PRP stayed_VBD at_IN the_DT restaurant_NN for_IN seven_CD 1\/2_CD hours_NNS and_CC ate_VBD the_DT whole_JJ thing_NN ._.
+Copyright_NN 2004_CD by_IN The_DT Associated_NNP Press_NNP ._.
+All_DT rights_NNS reserved_VBN ._.
+This_DT material_NN may_MD not_RB be_VB published_VBN ,_, broadcast_NN ,_, rewritten_VBN or_CC redistributed_VBD Info_NNP taken_VBN from_IN NBC51_NNP ._.
+com_NN I_PRP hate_VBP this_DT ,_, this_DT is_VBZ plain_JJ stupid_JJ ._.
+This_DT morning_NN i_FW wake_NN up_IN feeling_VBG like_IN shit_NN as_IN usual_JJ ,_, because_IN i_FW have_VBP to_TO get_VB my_PRP$ sorry_JJ ass_NN out_IN of_IN bed_NN and_CC to_TO work_VB by_IN nine_CD am_VBP ._.
+So_IN I_PRP take_VBP the_DT shower_VBP ,_, throw_VBP some_DT clothes_NNS on_IN ,_, and_CC head_VBP out_RP ,_, still_RB half_DT asleep_JJ ,_, thinking_VBG how_WRB horrible_JJ this_DT day_NN is_VBZ going_VBG to_TO be_VB ._.
+Oh_UH yeah_NN ,_, by_IN the_DT way_NN ,_, I_PRP was_VBD woken_VBN up_RP not_RB by_IN my_PRP$ already_RB annoying_VBG alarm_NN clock_NN ,_, but_CC by_IN guess_NN what_WP ?_.
+a_DT JACKHAMMER_NNP rattling_VBG away_RB outside_JJ my_PRP$ window_NN ._.
+GOD_NNP DAMN_NNP IT_PRP !_.
+So_RB anyways_NNS ,_, I_PRP 'm_VBP walking_VBG to_TO the_DT subway_NN feeling_NN like_IN shit_NN ,_, when_WRB i_FW remember_VBP that_IN Starbucks_NNP is_VBZ opening_VBG today_NN at_IN Odeon_NNP ,_, I_PRP remember_VBP because_IN it_PRP was_VBD posted_VBN on_IN the_DT store_NN yesterday_NN ._.
+So_IN I_PRP look_VBP over_RB and_CC sure_RB enough_RB ,_, the_DT place_NN is_VBZ lit_VBN up_RP ,_, all_DT ready_JJ to_TO go_VB ._.
+And_CC what_WP better_JJR than_IN a_DT nice_JJ Mocca_NNP Frappuccino_NNP to_TO start_VB up_RP the_DT day_NN !_.
+So_RB i_FW walk_NN over_IN there_RB and_CC step_VB in_IN ,_, 10_CD euros_NNS at_IN hand_NN ,_, when_WRB some_DT Dorky_NNP bastard_NN comes_VBZ up_RP to_TO me_PRP and_CC tells_VBZ me_PRP they_PRP ..._: ARE_VB NOT_RB OPEN_JJ YET_RB !_.
+It_PRP 's_VBZ 8:15_CD am_VBP ,_, and_CC they_PRP open_VBP at_IN ..._: 8-fucking-30_JJ !!!!_CD So_IN I_PRP bitched_VBD at_IN him_PRP ,_, well_RB I_PRP mumbled_VBD something_NN obscene_JJ at_IN the_DT guy_NN ,_, cuz_NN i_FW was_VBD still_RB asleep_JJ ,_, and_CC walked_VBD away_RP PO_NNP ._.
+Here_RB 's_VBZ what_WP i_FW do_VBP n't_RB get_VB ._.
+They_PRP open_VBP a_DT Starbucks_NNP in_IN a_DT prime_JJ location_NN right_NN in_IN the_DT middle_NN of_IN the_DT Latin_JJ quarter_NN ,_, and_CC the_DT fuckers_NNS open_JJ at_IN 8:30_CD ,_, when_WRB about_IN half_PDT the_DT fuckers_NNS craving_NN coffee_NN at_IN that_DT time_NN have_VBP already_RB taken_VBN the_DT subway_NN to_TO get_VB their_PRP$ sad_JJ asses_NNS to_TO work_VB ._. ._.
+Would_MD n't_RB it_PRP be_VB a_DT little_RB more_JJR logical_JJ to_TO open_VB at_IN like_IN 7:30_CD ,_, so_IN they_PRP could_MD attract_VB the_DT full_JJ monty_NN ?_.
+I_PRP mean_VBP jesus_NN !_.
+what_WP the_DT hell_NN !_.
+Maybe_RB Starbucks_NNP ,_, that_DT good_JJ old_JJ US_NNP corporation_NN ,_, has_VBZ had_VBN to_TO deal_VB with_IN our_PRP$ Socialist_JJ way_NN of_IN having_VBG unions_NNS ,_, who_WP knows_VBZ ._.
+In_IN any_DT case_NN I_PRP am_VBP pissed_VBN off_RP ._.
+Fucking_VBG pissed_VBN off_RP ._.
+Maybe_RB I_PRP 'll_MD go_VB over_IN there_RB and_CC bitch_NN ._.
+Signed_VBN the_DT papers_NNS today_NN ,_, and_CC 1st_CD of_IN August_NNP we_PRP 're_VBP outta_JJ here_RB ._. ._.
+yes-sir-eeeeee_JJ bob_NN !_.
+I_PRP 've_VBP heard_VBN a_DT lot_NN of_IN rumors_NNS out_IN there_RB on_IN gmail_NN and_CC it_PRP 's_VBZ manner_NN of_IN setting_VBG up_RP advertising_NN according_VBG to_TO email_VB content_NN ,_, and_CC a_DT lot_NN of_IN people_NNS have_VBP been_VBN bitching_VBG about_IN privacy_NN etc._FW ._.
+Granted_VBN it_PRP 's_VBZ a_DT bit_NN less_RBR privacy_NN than_IN we_PRP 're_VBP used_VBN to_TO on_IN other_JJ mail_NN services_NNS ..._: or_CC is_VBZ it_PRP ?_.
+I_PRP mean_VBP at_IN least_JJS Google_NNP is_VBZ honest_JJ about_IN how_WRB it_PRP 's_VBZ planning_VBG to_TO sell_VB advertising_NN ,_, but_CC no_DT one_NN can_MD say_VB that_IN Hotmail_NNP ,_, or_CC Yahoo_NNP ,_, or_CC any_DT other_JJ web-based_JJ mail_NN has_VBZ n't_RB been_VBN doing_VBG the_DT same_JJ for_IN years_NNS ._.
+I_PRP mean_VBP do_VB you_PRP really_RB think_VBP that_IN your_PRP$ hotmail_NN account_NN is_VBZ for_IN your_PRP$ eyes_NNS only_RB ?_.
+Do_VBP n't_RB you_PRP think_VBP there_EX are_VBP a_DT couple_NN techies_NNS having_VBG the_DT time_NN of_IN their_PRP$ lives_NNS looking_VBG at_IN your_PRP$ private_JJ life_NN !_.
+Come_VBN ON_IN !_.
+God_NNP knows_VBZ I_PRP 'd_MD be_VB looking_VBG at_IN inboxes_NNS all_PDT the_DT damn_JJ time_NN -_: if_IN I_PRP could_MD ._.
+So_IN I_PRP think_VBP this_DT whole_JJ polemic_NN on_IN gmail_NN and_CC how_WRB it_PRP 's_VBZ so_RB ``_`` bad_JJ ''_'' for_IN us_PRP is_VBZ full_JJ of_IN shit_NN ._.
+If_IN you_PRP 're_VBP stupid_JJ enough_JJ to_TO put_VB your_PRP$ CC_NNP information_NN in_IN a_DT banal_JJ email_NN ,_, then_RB you_PRP deserve_VBP to_TO get_VB riped_VBN off_RP ._.
+I_PRP figure_VBP email_NN is_VBZ about_IN getting_VBG a_DT message_NN from_IN A_DT to_TO B_NNP as_IN efficiently_RB as_IN possible_JJ ,_, and_CC gmail_NN does_VBZ this_DT better_JJR than_IN any_DT other_JJ web_NN based_VBN email_NN I_PRP 've_VBP found_VBN ._.
+I_PRP 've_VBP had_VBD a_DT gmail_NN account_NN now_RB for_IN a_DT week_NN or_CC so_RB ,_, and_CC i_FW find_VB the_DT interface_NN user_NN friendly_JJ ,_, efficient_JJ ,_, and_CC I_PRP actually_RB have_VBP n't_RB noticed_VBN the_DT advertising_NN yet_RB ,_, so_RB screw_VB it_PRP ._.
+To_TO me_PRP ,_, A_NNP -RRB-_-RRB- I_PRP can_MD send_VB an_DT email_NN in_IN a_DT couple_NN of_IN seconds_NNS ;_: B_NNP -RRB-_-RRB- I_PRP 've_VBP got_VBN shitloads_NNS of_IN space_NN to_TO store_VB those_DT emails_NNS ;_: C_NNP -RRB-_-RRB- it_PRP 's_VBZ free_JJ ,_, and_CC ;_: D_NNP -RRB-_-RRB- the_DT interface_NN rocks_NNS ._.
+And_CC to_TO all_DT those_DT not_RB happy_JJ about_IN gmail_NN ,_, here_RB 's_VBZ some_DT advice_NN -_: DO_NNP N'T_RB get_VB a_DT gmail_NN account_NN !!!_VB It_PRP 's_VBZ that_IN fucking_VBG easy_JJ !_.
+and_CC stop_VB bitching_VBG ,_, you_PRP 're_VBP fucking_VBG annoying_VBG me_PRP ._.
+I_PRP think_VBP that_IN we_PRP should_MD have_VB a_DT designated_VBN nap_NN time_NN ,_, like_IN in_IN Kindergarden_NNP ._.
+Do_VBP you_PRP guys_NNS remember_VBP those_DT ?_.
+I_PRP mean_VBP work_NN should_MD be_VB like_IN kindergarden_NN ,_, you_PRP come_VBP in_IN ,_, spend_VB a_DT few_JJ hours_NNS and_CC play_VB with_IN toys_NNS ,_, learn_VBP a_DT new_JJ letter_NN and_CC number_NN ,_, eat_VB ,_, take_VB the_DT NAP_NNP and_CC go_VB home_NN ._.
+I_PRP just_RB remember_VBP how_WRB damn_RB good_JJ it_PRP was_VBD ,_, to_TO be_VB laying_VBG down_RB in_IN that_DT big_JJ classroom_NN ,_, with_IN all_PDT the_DT blinds_NNS down_RB so_RB it_PRP was_VBD nice_JJ and_CC dark_JJ ,_, and_CC laying_VBG there_RB on_IN your_PRP$ damn_NN rubber_NN mat_NN ,_, you_PRP would_MD just_RB dose_NN off_RP for_IN an_DT hour_NN ._. ._.
+that_DT was_VBD nice_JJ ._.
+I_PRP think_VBP it_PRP would_MD be_VB pretty_RB damn_RB sweet_JJ if_IN you_PRP could_MD have_VB an_DT hour_NN nap_NN after_IN lunch_NN ._.
+I_PRP mean_VBP you_PRP 're_VBP full_JJ of_IN Flamkeuche_NNP or_CC Cote_NNP de_IN Boeuf_NNP ,_, had_VBD a_DT bit_NN of_IN wine_NN ,_, some_DT coffee_NN ._. ._.
+your_PRP$ body_NN needs_VBZ a_DT bit_NN of_IN time_NN to_TO absorb_VB those_DT calories_NNS -_: I_PRP mean_VBP it_PRP 's_VBZ healthy_JJ damn_NN it_PRP !_.
+For_IN our_PRP$ own_JJ HEALTH_NNP ,_, we_PRP should_MD demand_VB a_DT nap_NN time_NN at_IN work_NN ._.
+The_DT way_NN it_PRP is_VBZ right_RB now_RB ,_, we_PRP 're_VBP forcing_VBG our_PRP$ already_RB fucked_VBN up_RP bodies_NNS to_TO digest_VB fast_RB -LRB-_-LRB- a_DT cigarette_NN does_VBZ n't_RB help_VB ,_, you_PRP need_VBP da_NN sleep_NN -RRB-_-RRB- ,_, and_CC we_PRP still_RB have_VBP to_TO pretend_VB we_PRP 're_VBP actually_RB doing_VBG something_NN useful_JJ ._.
+I_PRP mean_VBP no_DT one_NN is_VBZ efficient_JJ after_IN lunch_NN ,_, I_PRP for_IN one_CD am_VBP drousy_NN and_CC would_MD n't_RB mind_VB curling_VBG up_RP in_IN the_DT space_NN under_IN my_PRP$ desk_NN ._.
+I_PRP mean_VBP technically_RB I_PRP could_MD do_VB it_PRP and_CC not_RB get_VB caught_VBN ,_, no_DT one_PRP would_MD notice_VB ..._: apart_RB from_IN the_DT occasional_JJ snoring_VBG ..._: Plus_CC they_PRP just_RB added_VBD a_DT new_JJ tint_NN on_IN our_PRP$ office_NN windows_NNS ,_, so_RB if_IN you_PRP turn_VBP off_RP the_DT lights_NNS and_CC close_VB the_DT blinds_NNS a_DT bit_NN ,_, it_PRP would_MD be_VB just_RB perfect_JJ for_IN you_PRP know_VBP what_WP ..._: fuck_NN ._. ._.
+here_RB we_PRP go_VBP ,_, back_RB to_TO work_VB ._.
+Congratulations_NNS Portugal_NNP ._.
+Looking_VBG forward_RB to_TO meeting_NN you_PRP in_IN the_DT semi_NN 's_POS ._. ._.
+ps_NNS ._.
+Yeah_UH ,_, yeah_SYM -_: I_PRP know_VBP I_PRP said_VBD that_IN soccer_NN is_VBZ a_DT lame-ass_JJ sport_NN ._. ._.
+and_CC that_IN still_RB stands_VBZ ,_, however_RB Euro_NNP cup_NN and_CC World_NNP cup_NN excluded_VBN ._.
+Went_VBD to_TO the_DT Metallica_NNP concert_NN at_IN Parc_NNP de_IN Princes_NNP last_JJ night_NN ._. ._.
+kinda_NN spontaneous_JJ ,_, as_IN we_PRP drove_VBD out_RP the_DT venue_NN without_IN tickets_NNS ._. ._.
+The_DT concert_NN had_VBD just_RB begun_VBN ,_, and_CC we_PRP were_VBD told_VBN that_IN we_PRP could_MD not_RB buy_VB any_DT tickets_NNS ._. ._.
+Then_RB this_DT small_JJ hustler_NN came_VBD along_RB ,_, and_CC asked_VBD if_IN we_PRP wanted_VBD to_TO purchase_VB a_DT couple_NN of_IN tickets_NNS ._. ._.
+Moments_NNS later_RB ,_, we_PRP are_VBP having_VBG great_JJ seats_NNS in_IN the_DT stadium_NN !_.
+Class_NN ._. ._.
+Metallica_NNP ,_, as_IN always_RB ,_, ROCKED_VBD !_.
+I_PRP have_VBP n't_RB seen_VBN them_PRP since_IN back_RB in_IN the_DT mid-nineties_NNS at_IN Gentofte_NNP ,_, Denmark_NNP ._.
+I_PRP stopped_VBD buying_VBG their_PRP$ albums_NNS after_IN ``_`` The_DT Black_NNP Album_NNP ''_'' -_: luckily_RB for_IN me_PRP ,_, they_PRP played_VBD a_DT lot_NN of_IN old_JJ stuff_NN -LRB-_-LRB- eg_FW ._.
+Seek_VB &_CC Destroy_NNP ,_, Master_NNP of_IN Puppets_NNPS ,_, Battery_NNP -RRB-_-RRB- -_: The_DT best_JJS track_NN ,_, was_VBD clearly_RB ``_`` Enter_VB Sandman_NNP ''_'' the_DT whole_JJ stadium_NN just_RB went_VBD at_IN it_PRP -_: crazy_JJ fucks_NNS dancing_VBG pogo_NN like_IN there_EX was_VBD no_DT tomorrow_NN ._. ._.
+I_PRP was_VBD looking_VBG at_IN our_PRP$ site_NN statistics_NNS ._. ._.
+-LRB-_-LRB- not_RB much_JJ to_TO look_VB at_IN really_RB -RRB-_-RRB- and_CC found_VBD the_DT top_JJ search_NN queries_NNS for_IN our_PRP$ blog_NN :_: \*_SYM Google_NNP zubrovska_NN vodka_NN \*_SYM Google_NNP ghettoclock_NN \*_SYM Google_NNP treat_VB turret_NN syndrome_NN \*_SYM Google_NNP jours_VBZ ouvres_NNS jours_VBZ ouvrables_NNS week_NN days_NNS \*_SYM Google_NNP dvdchezvous_JJ \*_SYM Google_NNP nomatica_NN comments_NNS \*_SYM Google_NNP chicken_NN cacciotore_NN Personally_RB ,_, I_PRP like_VBP ``_`` treat_VB turret_NN syndrome_NN ''_'' and_CC ``_`` ghettoclock_NN ''_'' -_: I_PRP hope_VBP they_PRP found_VBD what_WP they_PRP were_VBD looking_VBG for_IN ._. ._.
+I_PRP got_VBD some_DT Gmail_NNP invites_VBZ ,_, if_IN you_PRP want_VBP one_CD -_: leave_VB your_PRP$ email_NN addy_NN in_IN the_DT comments_NNS ._. ._.
+Update_NNP :_: That_IN being_VBG said_VBD ,_, I_PRP do_VBP n't_RB trust_VB any_DT mail_NN where_WRB I_PRP do_VBP n't_RB have_VB root_NN on_IN the_DT incoming_JJ mailserver_NN ;_: -RRB-_-RRB- I_PRP still_RB got_VBD a_DT couple_NN of_IN invites_VBZ left_VBN ._.
+Sorry_JJ there_EX old_JJ Ghettoblog_NNP ,_, i_FW 've_VBP been_VBN neglecting_VBG you_PRP as_IN of_IN lately_RB ._.
+I_PRP promise_VBP i_FW will_MD post_VB some_DT goo_NN on_IN you_PRP more_RBR often_RB from_IN now_RB on_IN ._.
+WHASSUP_NNP everyone_NN !_.
+well_RB it_PRP 's_VBZ the_DT SAME_NNP OLD_NNP SHIT_NNP !_.
+sleep_NN ,_, work_NN ,_, eat_VB ,_, sleep_VB ,_, etc_FW ,_, etc_FW ,_, but_CC we_PRP ca_MD n't_RB complain_VB ,_, we_PRP could_MD be_VB growing_VBG turnips_NNS for_IN .20_CD cents_NNS a_DT day_NN in_IN a_DT remote_JJ village_NN of_IN Zaire_NNP ._. ._.
+Things_NNS are_VBP a_DT lot_NN more_JJR supportable_JJ when_WRB put_VBN into_IN perspective_NN ._.
+Anyways_NNP ,_, just_RB wanted_VBD to_TO say_VB ,_, I_PRP found_VBD a_DT pretty_RB good_JJ Tech_NNP forum_NN ,_, it_PRP 's_VBZ really_RB more_JJR of_IN a_DT little_JJ community_NN ,_, and_CC you_PRP can_MD get_VB some_DT useful_JJ help_NN off_IN it_PRP ._.
+If_IN you_PRP do_VBP n't_RB know_VB it_PRP ,_, go_VB check_VB it_PRP out_RP at_IN www.tek-tips.com_NN ,_, get_VB yourself_PRP a_DT login_NN and_CC password_NN ,_, and_CC start_VB posting_VBG ._.
+Taking_VBG a_DT couple_NN days_NNS off_IN next_JJ week_NN for_IN ``_`` Fete_NNP de_NNP la_NNP Musique_NNP ''_'' -_: usually_RB quite_RB a_DT bit_NN of_IN fun_NN in_IN Paris_NNP ,_, seeing_VBG people_NNS high_JJ on_IN X_NNP and_CC Coke_NNP dancing_VBG to_TO some_DT crossbreed_NN techno\/deathmetal_JJ reggae_NN can_MD only_RB be_VB fun_NN ._.
+Planning_NNP on_IN having_VBG a_DT couple_NN drinks_NNS ,_, and_CC walking_VBG around_IN the_DT city_NN ,_, providing_VBG it_PRP does_VBZ n't_RB pour_VB down_RB ._.
+I_PRP 'll_MD be_VB back_RB on_IN here_RB some_DT more_RBR ,_, do_VBP n't_RB get_VB lonely_JJ blog_NN ,_, we_PRP have_VBP n't_RB forgotten_VBN ya_PRP -LRB-_-LRB- fucking_VBG fad_NN these_DT blogs_NNS -RRB-_-RRB- ._.
+The_DT title_NN really_RB says_VBZ it_PRP all_DT ._. ._.
+Read_VB more_JJR here_RB Or_CC here_RB They_PRP salesreps_VBZ at_IN our_PRP$ office_NN are_VBP using_VBG these_DT headsets_NNS with_IN their_PRP$ telephones_NNS ,_, and_CC recently_RB we_PRP ran_VBD out_RP ._. ._.
+We_PRP purchase_VBP batches_NNS of_IN them_PRP every_DT now_RB and_CC then_RB ._. ._.
+Those_DT industry_NN standard_NN do_VBP n't_RB come_VB cheap_JJ though_IN ._. ._.
+They_PRP are_VBP about_RB ,_, 100_CD a_DT pop_NN !_.
+Yeah_UH ,_, a_DT ridiculous_JJ price_NN for_IN something_NN pretty_RB basic_JJ ._. ._.
+The_DT last_JJ couple_NN of_IN months_NNS ,_, we_PRP have_VBP changed_VBN a_DT lot_NN of_IN them_PRP around_IN the_DT office_NN -LRB-_-LRB- I_PRP do_VBP n't_RB know_VB what_WP the_DT hell_NN those_DT salesreps_NNS are_VBP doing_VBG with_IN them_PRP -RRB-_-RRB- ._.
+Last_JJ week_NN ,_, we_PRP ran_VBD out_IN of_IN new_JJ headsets_NNS ._. ._.
+We_PRP requested_VBD upper-management_NN to_TO purchase_VB some_DT new_JJ ._. ._.
+Bad_JJ call_NN ._. ._.
+When_WRB our_PRP$ CEO_NNP saw_VBD the_DT price_NN on_IN those_DT headsets_NNS ,_, he_PRP made_VBD an_DT unpredictable_JJ move_NN ._.
+6_CD months_NNS ago_RB -LRB-_-LRB- or_CC so_RB -RRB-_-RRB- we_PRP tested_VBD out_RP Skype_NNP for_IN inter-office_JJ calls_NNS ,_, and_CC for_IN that_DT purpose_NN we_PRP bought_VBD a_DT shitload_NN of_IN cheapo_JJ pc-headsets_NNS -LRB-_-LRB- those_DT for_IN a_DT couple_NN a_DT euros_NNS a_DT piece_NN -RRB-_-RRB- -_: Yeah_UH ._. ._.
+That_DT 's_VBZ right_NN ._. ._.
+I_PRP trip_NN to_TO Castorama_NNP later_RB ,_, and_CC Dim_NNP and_CC I_PRP are_VBP sitting_VBG and_CC removing_VBG mini-jacks_NNS from_IN the_DT pc-headsets_NNS ,_, combining_VBG the_DT them_PRP with_IN the_DT connectors_NNS from_IN the_DT other_JJ headsets_NNS ._. ._.
+Electrical-tape_CD ,_, choc_NN blocks_NNS -LRB-_-LRB- thanks_NNS Lasse_NNP -RRB-_-RRB- and_CC a_DT lot_NN of_IN patience_NN ._. ._.
+A_DT real_JJ MacGyver_NNP solution_NN ._. ._.
+Result_NN :_: A_DT working_VBG headset_NN for_IN our_PRP$ phones_NNS ,_, ugly_JJ as_IN hell_NN -_: for_IN less_JJR than_IN 2_CD euros_NNS a_DT pop_NN ._.
+Pictures_NNS to_TO follow_VB ..._: Well_UH ,_, what_WP do_VB you_PRP know_VB ._.
+My_PRP$ SD-512MB_NN flash_NN card_NN from_IN Nomatica_NNP arrived_VBD yesterday_NN ._. ._.
+Well_RB ,_, actually_RB ``_`` La_NNP Poste_NNP ''_'' tried_VBD to_TO deliver_VB it_PRP last_JJ Saturday_NNP ,_, naturally_RB the_DT office_NN was_VBD closed_VBN ,_, so_IN they_PRP failed_VBD in_IN their_PRP$ attempt_NN ._.
+We_PRP called_VBD them_PRP Monday_NNP ;_: they_PRP told_VBD us_PRP that_IN since_IN they_PRP could_MD n't_RB deliver_VB it_PRP on_IN Saturday_NNP -_: the_DT package_NN would_MD be_VB shipped_VBN back_RB to_TO the_DT expediter_NN ._.
+-LRB-_-LRB- Enter_VB rage_NN -RRB-_-RRB- After_IN calming_JJ down_IN -LRB-_-LRB- with_IN beer_NN and_CC food_NN -_: the_DT only_JJ thing_NN that_WDT works_VBZ -RRB-_-RRB- -_: I_PRP decided_VBD to_TO have_VB Dim_NNP calling_VBG them_PRP again_RB -LRB-_-LRB- I_PRP was_VBD not_RB calm_JJ enough_JJ -RRB-_-RRB- -_: this_DT time_NN ,_, we_PRP actually_RB stumbled_VBD upon_IN a_DT savvy_JJ postal_JJ employee_NN -LRB-_-LRB- apparently_RB they_PRP \*_SYM do_VBP \*_SYM exist_VBP -RRB-_-RRB- -_: and_CC he_PRP opened_VBD a_DT ``_`` reclamation_NN ''_'' with_IN the_DT sorting_VBG center_NN etc_FW etc._FW ._.
+That_DT got_VBD things_NNS moving_VBG ,_, so_IN all_DT is_VBZ good_JJ now_RB ._.
+Actually_RB they_PRP even_RB called_VBD me_PRP this_DT morning_NN ,_, to_TO confirm_VB that_IN I_PRP did_VBD indeed_RB receive_VB the_DT package_NN ._.
+Bravo_NNP Mr._NNP Postal_NNP Employee_NNP ._. ._.
+Ahh_NNP the_DT summer_NN is_VBZ coming_VBG ,_, and_CC that_DT means_VBZ vacation_NN for_IN the_DT lucky_JJ few_JJ of_IN us_PRP who_WP :_: a_DT :_: -RRB-_-RRB- still_RB have_VBP some_DT dosh_NN in_IN order_NN to_TO do_VB something_NN other_JJ than_IN sit_VB in_IN the_DT apartment_NN and_CC b_NN :_: -RRB-_-RRB- have_VBP the_DT days_NNS off_RP ._. ._.
+So_IN it_PRP is_VBZ with_IN great_JJ joy_NN that_WDT i_FW am_VBP going_VBG -LRB-_-LRB- ceterus_NN paribas_NNS -RRB-_-RRB- to_TO the_DT south_NN of_IN France_NNP in_IN August_NNP for_IN 2_CD weeks_NNS ,_, and_CC bringing_VBG my_PRP$ chick_NN there_RB ._.
+Well_RB check_VB this_DT out_RP ,_, when_WRB she_PRP went_VBD and_CC asked_VBD for_IN her_PRP$ vacation_NN time_NN ,_, they_PRP told_VBD her_PRP they_PRP would_MD count_VB the_DT Saturday_NNP she_PRP was_VBD taking_VBG off_RP -LRB-_-LRB- yes_UH ,_, that_IN Saturday_NNP ,_, the_DT WEEKEND_NNP day_NN -RRB-_-RRB- as_IN a_DT vacation_NN day_NN ..._: ._.
+So_RB lets_VBZ get_VB this_DT straight_JJ :_: -_: She_PRP works_VBZ Monday_NNP through_IN Friday_NNP ,_, 7_CD hours_NNS a_DT day_NN ,_, for_IN a_DT grand_JJ total_NN of_IN 35_CD legal_JJ working_VBG hours_NNS ._.
+-_: On_IN her_PRP$ paychecks_NNS ,_, she_PRP gets_VBZ 2.5_CD something_NN days_NNS off_IN a_DT month_NN ,_, for_IN a_DT grand_JJ total_NN of_IN 30_CD days_NNS off_IN per_IN year_NN -_: the_DT legal_JJ 5_CD weeks_NNS vacation_NN in_IN France_NNP ._.
+-_: and_CC no_DT ,_, she_PRP does_VBZ n't_RB work_VB and_CC has_VBZ n't_RB worked_VBN any_DT Saturday_NNP ._. ._.
+and_CC has_VBZ not_RB had_VBN any_DT absences_NNS for_IN not_RB being_VBG at_IN work_NN on_IN saturdays_NNS ._.
+So_RB this_DT is_VBZ beautiful_JJ !_.
+I_PRP just_RB imagine_VBP myself_PRP in_IN this_DT situation_NN ,_, where_WRB i_FW work_NN all_DT year_NN ,_, Monday_NNP through_IN Friday_NNP ,_, and_CC when_WRB it_PRP comes_VBZ to_TO taking_VBG vacation_NN ,_, they_PRP count_VBP my_PRP$ saturdays_NNS in_IN my_PRP$ vacation_NN days_NNS !_.
+Is_VBZ n't_RB the_DT weekend_NN supposed_VBN to_TO be_VB free_JJ time_NN where_WRB you_PRP do_VBP n't_RB work_VB ?_.
+WTF_NNP !_.
+When_WRB asked_VBN about_IN this_DT little_JJ rule_NN they_PRP have_VBP -LRB-_-LRB- which_WDT in_IN the_DT end_NN helps_VBZ them_PRP out_RP ,_, because_IN you_PRP can_MD take_VB less_JJR work_NN days_NNS off_RB ,_, hence_RB work_VB more_RBR for_IN SHIT_NNP pay_NN -RRB-_-RRB- ,_, these_DT people_NNS said_VBD that_IN it_PRP was_VBD an_DT internal_JJ rule_NN that_IN the_DT director_NN -LRB-_-LRB- that_IN bitch_NN -RRB-_-RRB- implemented_VBN ,_, so_IN they_PRP could_MD n't_RB do_VB shit_VB about_IN it_PRP ._.
+Well_RB guess_VB what_WP ._. ._.
+I_PRP 've_VBP been_VBN investigating_VBG the_DT French_JJ Law_NN ._.
+And_CC you_PRP know_VBP what_WP ,_, what_WP they_PRP are_VBP doing_VBG is_VBZ LEGAL_NNP ._.
+You_PRP see_VBP ,_, French_JJ companies_NNS can_MD actually_RB calculate_VB your_PRP$ vacation_NN time_NN two_CD ways_NNS :_: 1_LS -RRB-_-RRB- by_IN the_DT days_NNS you_PRP actually_RB worked_VBD -LRB-_-LRB- jours_NNS ouvrés_NNS -RRB-_-RRB- 2_LS -RRB-_-RRB- by_IN the_DT days_NNS you_PRP COULD_NNP HAVE_NNP WORKED_VBD -LRB-_-LRB- jours_NNS ouvrables_NNS -RRB-_-RRB- ._.
+the_DT latter_JJ means_NNS that_WDT even_RB if_IN you_PRP do_VBP n't_RB work_VB on_IN Saturday_NNP ,_, they_PRP can_MD count_VB the_DT Saturday_NNP in_IN your_PRP$ vacation_NN time_NN ..._: NOW_RB THIS_VBZ IS_VBZ FUCKED_NNP UP_RP ._.
+The_DT only_JJ day_NN they_PRP ca_MD n't_RB take_VB off_RP you_PRP is_VBZ Sunday_NNP ..._: I_PRP mean_VBP i_FW know_VB this_DT is_VBZ a_DT lot_NN of_IN fuzz_NN over_IN one_CD day_NN ,_, but_CC imagine_VB how_WRB PO_NNP you_PRP would_MD be_VB if_IN you_PRP have_VBP to_TO take_VB your_PRP$ Saturday_NNP as_IN a_DT day_NN in_IN your_PRP$ vacation_NN ,_, when_WRB usually_RB it_PRP 's_VBZ your_PRP$ weekend_NN anyways_NNS and_CC you_PRP do_VBP n't_RB work_VB ._.
+And_CC I_PRP mean_VBP you_PRP could_MD try_VB to_TO just_RB take_VB the_DT week_NN days_NNS ,_, but_CC you_PRP are_VBP FORCED_VBN take_VB your_PRP$ Saturday_NNP as_RB well_RB ,_, you_PRP have_VBP no_DT fucking_NN CHOICE_NN ._.
+I_PRP am_VBP really_RB starting_VBG to_TO hate_VB this_DT fucking_NN place_NN ._. ._.
+But_CC then_RB I_PRP looked_VBD at_IN my_PRP$ paycheck_NN and_CC saw_VBD there_EX was_VBD a_DT slight_JJ difference_NN ._.
+I_PRP get_VBP 2.08_CD days_NNS off_IN a_DT month_NN for_IN a_DT total_NN of_IN 25_CD days_NNS off_IN a_DT year_NN ._.
+Those_DT days_NNS are_VBP Monday_NNP through_IN Friday_NNP -LRB-_-LRB- 5_CD days_NNS -RRB-_-RRB- She_PRP gets_VBZ 2.5_CD days_NNS off_IN a_DT month_NN for_IN a_DT total_NN of_IN 30_CD days_NNS off_IN a_DT year_NN ._.
+My_PRP$ assumption_NN is_VBZ that_IN from_IN the_DT beginning_NN ,_, they_PRP gave_VBD her_PRP$ vacation_NN time_NN on_IN her_PRP$ saturdays_NNS ,_, which_WDT would_MD make_VB the_DT extra_JJ day_NN vacation_NN she_PRP gets_VBZ a_DT month_NN -LRB-_-LRB- 25\/5_CD =_SYM 5_CD days_NNS of_IN work\/vacation_NN ;_: her_PRP$ 30\/5_CD =_SYM vacation_NN based_VBN on_IN 6_CD working_VBG days_NNS ,_, hence_RB Mon_SYM -_: Sat_NN ._. -RRB-_-RRB-
+I_PRP still_RB do_VBP n't_RB understand_VB why_WRB they_PRP do_VBP this_DT ,_, whatever_WDT ,_, fuck_VB it_PRP ,_, it_PRP 's_VBZ Friday_NNP and_CC I_PRP do_VBP n't_RB care_VB ,_, I_PRP 'm_VBP on_IN my_PRP$ weekend_NN in_IN a_DT couple_NN of_IN hours_NNS ._.
+That_DT 's_VBZ my_PRP$ bitching_NN for_IN today_NN ._.
+I_PRP 'll_MD have_VB more_RBR later_JJ -_: the_DT fumes_VBZ are_VBP still_RB hot_JJ ._.
+Very_RB busy_JJ pretending_VBG to_TO work_VB ,_, so_RB not_RB much_JJ happening_VBG here_RB ..._: I_PRP 'll_MD write_VB some_DT stuff_NN tomorrow_NN ._. ._.
+I_PRP swear_VBP ._. ._.
+-LRB-_-LRB- I_PRP really_RB do_VBP -RRB-_-RRB- Also_RB ,_, I_PRP 'll_MD kick_VB that_IN lazy_JJ boy_NN Dim_NNP ,_, so_RB he_PRP 'll_MD hopefully_RB write_VB something_NN tomorrow_NN as_RB well_RB !_.
+Btw_NNP ,_, Ben_NNP is_VBZ back_RB !!!_CD FB_NN here_RB we_PRP come_VBP ._. ._.
+Yeah_UH yeah_JJ yeah_NN ..._: We_PRP are_VBP not_RB writing_VBG here_RB as_RB much_JJ as_IN we_PRP want_VBP to_TO ._.
+If_IN only_RB we_PRP could_MD come_VB up_RP with_IN a_DT way_NN where_WRB we_PRP can_MD blog_VB and_CC do_VB real_JJ work_NN at_IN the_DT same_JJ time_NN ._. ._.
+oh_UH well_RB ,_, perhaps_RB someday_RB ._. ._.
+Anywho_NNP ,_, my_PRP$ ass_NN is_VBZ outta_JJ here_RB ._. ._.
+going_VBG a_DT couple_NN of_IN weeks_NNS to_TO Denmark_NNP to_TO chill_NN out_RP and_CC see_VB family_NN and_CC friends_NNS ._.
+-LRB-_-LRB- and_CC maybe_RB have_VBP a_DT beer_NN or_CC two_CD -RRB-_-RRB- ``_`` If_IN this_DT blog_NN is_VBZ rockin_VBG '_'' -_: do_VBP n't_RB come_VB knockin_VBG '_'' ''_'' -_: I_PRP 'll_MD leave_VB it_PRP to_TO Dim_NNP ._. ._.
+So_RB ,_, seee_NN ya_PRP -_: adios_SYM -_: ciao_NN ._. ._.
+or_CC as_IN Cartman_NNP might_MD put_VB it_PRP :_: Screw_VB you_PRP guys_NNS ,_, I_PRP 'm_VBP going_VBG hooooome_NN !_.
+First_JJ day_NN Dim_NNP is_VBZ not_RB here_RB ,_, and_CC our_PRP$ backup_NN solution_NN is_VBZ not_RB working_VBG as_IN expected_VBN ._. ._.
+well_RB ._. ._.
+perhaps_RB as_IN expected_VBN ._. ._.
+it_PRP did_VBD not_RB back_RB up_IN anything_NN last_JJ night_NN ._.
+We_PRP are_VBP using_VBG ARCserve_NNP on_IN MS_NNP -_: and_CC to_TO no_DT surprise_NN ,_, it_PRP blows_NNS ._.
+Every_DT other_JJ day_NN we_PRP are_VBP obliged_VBN to_TO kill_VB some_DT its_PRP$ processes_NNS as_IN it_PRP fails_VBZ to_TO shut_VB them_PRP down_RP properly_RB ._.
+Today_NN was_VBD no_DT exception_NN ,_, and_CC on_IN top_NN of_IN that_IN the_DT tape_NN would_MD not_RB eject_VB ._. ._.
+Useless_JJ crap_NN ._.
+Managed_VBN to_TO drop_VB by_IN castorama_NN in_IN my_PRP$ lunch_NN break_NN ,_, to_TO pick_VB up_RP some_DT wood_NN pillars_NNS I_PRP need_VBP for_IN support_NN in_IN my_PRP$ closet_NN -LRB-_-LRB- as_IN the_DT shelf_NN is_VBZ heavily_RB overloaded_JJ ,_, and_CC about_IN to_TO fall_VB down_RP -RRB-_-RRB- -_: wood_NN is_VBZ good_JJ ._. ._.
+Going_VBG out_RP to_TO Ikea_NNP tonight_NN to_TO look_VB for_IN a_DT small_JJ furniture_NN for_IN our_PRP$ kitchen_NN ,_, so_IN I_PRP imagine_VBP that_IN I_PRP 'll_MD enjoy_VB myself_PRP putting_VBG together_RP something_NN tonight_NN -_: I_PRP totally_RB suck_VBP at_IN it_PRP though_RB ._.
+It_PRP 's_VBZ kinda_NN like_IN a_DT jigsaw_NN puzzle_NN -_: but_CC for_IN adults_NNS ._. ._.
+On_IN a_DT side_NN note_NN ,_, I_PRP 'm_VBP happy_JJ to_TO report_VB that_DT GDF_NNP dropped_VBD by_IN today_NN and_CC opened_VBD for_IN the_DT gas_NN to_TO our_PRP$ apartment_NN ,_, so_IN we_PRP are_VBP actually_RB able_JJ to_TO cook_VB some_DT real_JJ food_NN tonight_NN !!_NNP Well_NNP ._. ._.
+It_PRP has_VBZ been_VBN way_RB too_RB long_JJ since_IN I_PRP 've_VBP bitched_VBN about_IN one_CD thing_NN or_CC another_DT ,_, but_CC truth_NN is_VBZ ,_, I_PRP have_VBP n't_RB had_VBD much_JJ to_TO bitch_NN about_IN ..._: Imagine_VB that_DT ._. ._.
+It_PRP 's_VBZ a_DT sad_JJ state_NN of_IN affairs_NNS !_.
+I_PRP 've_VBP been_VBN off_RP to_TO Denmark_NNP on_IN vacation_NN ,_, and_CC we_PRP have_VBP moved_VBN to_TO our_PRP$ new_JJ apartment_NN as_RB well_RB ._. ._.
+I_PRP guess_VBP I_PRP 've_VBP simply_RB been_VBN to_TO occupied_VBN to_TO complain_VB ._.
+Anyway_RB ,_, now_RB I_PRP 'm_VBP back_RB at_IN work_NN -LRB-_-LRB- damn_UH it_PRP -RRB-_-RRB- ,_, and_CC already_RB now_RB various_JJ things_NNS are_VBP starting_VBG to_TO make_VB my_PRP$ piss_NN boil_NN -_: that_IN coinciding_VBG with_IN Dimitri_NNP leaving_VBG for_IN vacation_NN tonight_NN is_VBZ not_RB exactly_RB helping_VBG out_RP the_DT situation_NN ._.
+I_PRP know_VBP ._. ._.
+yes_RB ._. ._.
+I_PRP know_VBP shit_NN will_MD hit_VB the_DT fan_NN as_RB soon_RB as_IN his_PRP$ dumb_JJ ass_NN has_VBZ left_VBN the_DT building_NN ._. ._.
+Printing_NN problems_NNS ,_, vira_NN shit_NN ,_, and_CC general_JJ PC_NN hardware_NN problems_NNS ._.
+I_PRP 've_VBP got_VBN to_TO be_VB honest_JJ with_IN you_PRP guys_NNS ,_, I_PRP 'm_VBP not_RB one_CD bit_NN too_RB happy_JJ about_IN him_PRP requiring_VBG vacation_NN ..._: Moving_VBG ._. ._.
+god_NN I_PRP hate_VBP moving_VBG ._.
+Actually_RB I_PRP like_IN it_PRP once_RB all_DT boxes\/furniture_NN have_VBP been_VBN moved_VBN -_: but_CC moving_VBG heavier-than-titanic_JJ furniture_NN -LRB-_-LRB- fridge_NN -RRB-_-RRB- three_CD floor_NN down_RB is_VBZ a_DT no-go_NN ._. ._.
+that_IN ,_, all_DT while_IN it_PRP is_VBZ 35_CD degrees_NNS Celsius_NNP outside_IN in_IN the_DT burning_NN sun_NN just_RB kills_VBZ me_PRP ._.
+It_PRP 's_VBZ all_DT done_VBN now_RB though_RB ._. ._.
+and_CC I_PRP love_VBP the_DT place_NN !_.
+We_PRP just_RB miss_VBP a_DT few_JJ furniture_NN for_IN the_DT kitchen_NN and_CC then_RB we_PRP are_VBP all_DT set_VBN to_TO go_VB ._.
+Alright_NNP ,_, I_PRP 'd_MD better_RBR get_VB back_RB to_TO work_VB ._. ._.
+gotta_NN write_VB that_DT code_NN ._. ._.
+does_VBZ n't_RB make_VB much_JJ of_IN a_DT difference_NN ._. ._.

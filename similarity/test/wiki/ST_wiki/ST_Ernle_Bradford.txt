@@ -1,0 +1,10 @@
+Ernle_NNP Dusgate_NNP Selby_NNP Bradford_NNP -LRB-_-LRB- 11_CD January_NNP 1922_CD ,_, Cole_NNP Green_NNP ,_, Norfolk_NNP ,_, England_NNP ''_'' 8_CD May_NNP 1986_CD -RRB-_-RRB- was_VBD a_DT noted_VBN 20th-century_JJ British_JJ historian_NN specializing_VBG in_IN the_DT Mediterranean_NNP world_NN and_CC naval_JJ topics_NNS ._.
+A_DT keen_JJ yachtsman_NN himself_PRP ,_, Bradford_NNP spent_VBD almost_RB 30_CD years_NNS sailing_VBG the_DT Mediterranean_NNP ,_, and_CC many_JJ of_IN his_PRP$ books_NNS are_VBP set_VBN there_RB ._.
+His_PRP$ book_NN ,_, The_DT Journeying_NNP Moon_NNP describes_VBZ some_DT of_IN these_DT voyages_NNS ._.
+It_PRP ends_VBZ with_IN the_DT sale_NN of_IN his_PRP$ Bristol_NNP Channel_NNP Pilot_NN Cutter_NNP ,_, Mischief_NNP ,_, to_TO HW_NNP Bill_NNP Tilman_NNP ,_, who_WP made_VBD a_DT number_NN of_IN significant_JJ voyages_NNS in_IN it_PRP to_TO high_JJ latitudes_NNS ._.
+Bradford_NNP lived_VBD in_IN Kalkara_NNP ,_, Malta_NNP for_IN a_DT number_NN of_IN years_NNS ._.
+Sometime_RB BBC_NNP broadcaster_NN and_CC magazine_NN editor_NN ,_, Bradford_NNP was_VBD a_DT prolific_JJ author_NN ._.
+The_DT son_NN of_IN Jocelyn_NNP Ernle_NNP Sydney_NNP Patton_NNP Bradford_NNP and_CC his_PRP$ wife_NN ,_, Ada_NNP Louise_NNP Dusgate_NNP ,_, he_PRP was_VBD educated_VBN at_IN Uppingham_NNP School_NNP ,_, Rutland_NNP ._.
+He_PRP also_RB served_VBD in_IN the_DT Royal_NNP Navy_NNP during_IN World_NNP War_NNP II_NNP ,_, finishing_VBG as_IN the_DT first_JJ Lieutenant_NN of_IN a_DT destroyer_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Softcover_NNP ,_, Penguin_NNP Books_NNPS ,_, Limited_NNP ._.
+Another_DT edition_NN :_: ISBN_NNP 0-340-12868-2_CD -LRB-_-LRB- 0-340-12868-2_CD -RRB-_-RRB- ,_, Hardcover_NNP ,_, Hodder_NNP General_NNP Publishing_NNP Division_NNP ._.

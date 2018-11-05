@@ -1,0 +1,5 @@
+Laura_NNP Mary_NNP Catherine_NNP Beatty_NNP -LRB-_-LRB- née_NN Keen_NNP ;_: born_VBN 1_CD May_NNP 1963_CD -RRB-_-RRB- is_VBZ a_DT writer_NN awarded_VBD the_DT Authors_NNPS '_POS Club_NNP First_NNP Novel_NNP Award_NNP for_IN her_PRP$ 2008_CD novel_NN Pollard_NNP ,_, also_RB shortlisted_VBD for_IN the_DT Ondaatje_NNP Prize_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP has_VBZ also_RB written_VBN two_CD biographies_NNS ,_, the_DT first_JJ about_IN Lillie_NNP Langtry_NNP which_WDT contained_VBD the_DT first_JJ publication_NN of_IN correspondence_NN between_IN Lillie_NNP and_CC her_PRP$ lover_NN Arthur_NNP Jones_NNP ._.
+She_PRP is_VBZ the_DT daughter_NN of_IN Charles_NNP Keen_NNP and_CC Lady_NNP Priscilla_NNP Mary_NNP Rose_NNP Curzon_NNP ,_, eldest_JJ daughter_NN of_IN Edward_NNP Curzon_NNP ,_, 6th_JJ Earl_NNP Howe_NNP ._.
+On_IN 29_CD September_NNP 1990_CD ,_, she_PRP married_VBD the_DT Hon._NNP Nicholas_NNP Beatty_NNP ,_, son_NN of_IN David_NNP Field_NNP Beatty_NNP ,_, 2nd_CD Earl_NNP Beatty_NNP ._.
+They_PRP have_VBP one_CD son_NN ,_, David_NNP Brin_NNP Charles_NNP Beatty_NNP -LRB-_-LRB- born_VBN 1992_CD -RRB-_-RRB- ._.

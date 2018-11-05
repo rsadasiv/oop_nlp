@@ -1,0 +1,8 @@
+Sharon_NNP Bolton_NNP is_VBZ an_DT English_JJ author_NN of_IN mystery_NN fiction_NN who_WP has_VBZ also_RB been_VBN published_VBN under_IN the_DT name_NN S.J._NNP Bolton_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Bolton_NNP is_VBZ the_DT author_NN of_IN ten_NN novels_NNS ,_, including_VBG the_DT Lacey_NNP Flint_NNP series_NN of_IN police_NN procedural_JJ novels_NNS ._.
+Lacey_NNP Flint_NNP is_VBZ a_DT female_JJ detective_NN constable_JJ with_IN London_NNP 's_POS Metropolitan_NNP police_NN ._.
+In_IN 2016_CD ,_, the_DT motion_NN picture_NN of_IN Sacrifice_NNP ,_, starring_VBG Radha_NNP Mitchell_NNP and_CC Rupert_NNP Graves_NNP ,_, and_CC directed_VBN by_IN Peter_NNP A._NNP Dowling_NNP ,_, was_VBD released_VBN by_IN Luminous_NNP Pictures_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bolton_NNP 's_POS second_JJ novel_NN ,_, Awakening_NNP ,_, won_VBD the_DT 2010_CD Mary_NNP Higgins_NNP Clark_NNP Award_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Blood_NNP Harvest_NNP ,_, her_PRP$ third_JJ book_NN ,_, was_VBD shortlisted_VBN for_IN the_DT 2010_CD Crime_NN Writers_NNP Association_NNP 's_POS -LRB-_-LRB- CWA_NNP -RRB-_-RRB- Gold_NNP Dagger_NNP Award_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 2014_CD ,_, she_PRP won_VBD the_DT CWA_NNP 's_POS Dagger_NNP in_IN the_DT Library_NNP award_NN for_IN her_PRP$ body_NN of_IN work_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

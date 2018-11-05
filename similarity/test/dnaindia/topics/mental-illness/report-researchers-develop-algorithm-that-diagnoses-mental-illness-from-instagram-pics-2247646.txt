@@ -1,0 +1,12 @@
+People who post greyer or darker coloured pictures on Instagram are more likely to be depressed compared to those who upload images with vibrant hues, scientists say.
+Researchers from Harvard University and the University of Vermont in the US have developed a new algorithm that checks photos on Instagram to diagnose depression and other mental illnesses at an early stage.
+According to the researchers, there is a connection between the usage of colour and the mental state of a person.
+They believe that those who post greyer or darker coloured images on Instagram are more likely to be depressed compared to those who upload pictures of vibrant colours.
+The algorithm spots depression in people by identifying the pictures they have uploaded.
+Researchers examined about 170 workers from Amazon's Mechanical Turk service who had Instagram accounts.
+All participants completed a questionnaire, which also included a standard clinical depression survey. They were also asked to share pictures from their Instagram account.
+Researchers selected about 100 images from each participant and asked people to rate them on a scale of 0 to 5 based on how interesting, sad or happy the photos looked, 'Tech Times' reported.
+The study also categorised the photos based on saturation, hue and the number of faces each picture had.
+Researchers found that decreased saturation and brightness, and increased hue predicted depression.
+Researchers also found the depressed and non-depressed people used filters differently. Depressed people were less likely to use filters.
+The algorithm was able to identify depression with a 70 percent success rate, researchers said.

@@ -1,0 +1,5 @@
+Mary_NNP ,_, Lady_NNP Carey_NNP -LRB-_-LRB- née_FW Jackson_NNP ,_, later_RB Peyler_NNP ;_: c._FW \/_FW 1609_CD ''_'' c._FW \/_FW 1680_CD -RRB-_-RRB- was_VBD the_DT author_NN of_IN poems_NNS and_CC meditations_NNS ._.
+Mary_NNP Carey_NNP was_VBD the_DT daughter_NN of_IN Sir_NNP John_NNP Jackson_NNP ._.
+She_PRP married_VBD Pelham_NNP Carey_NNP ,_, son_NN of_IN Henry_NNP ,_, 4th_JJ Lord_NNP Hunsdon_NNP -LRB-_-LRB- whom_WP King_NNP James_NNP I_PRP had_VBD created_VBN Viscount_NNP Rochford_NNP on_IN 6_CD July_NNP 1621_CD ;_: he_PRP was_VBD later_RB created_VBN 1st_CD Earl_NNP of_IN Dover_NNP by_IN King_NNP Charles_NNP I_PRP -RRB-_-RRB- ._.
+She_PRP subsequently_RB married_JJ George_NNP Peyler_NNP ,_, although_IN she_PRP was_VBD always_RB known_VBN as_IN Lady_NNP Carey_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

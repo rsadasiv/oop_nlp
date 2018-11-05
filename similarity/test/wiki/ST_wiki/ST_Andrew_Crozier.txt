@@ -1,0 +1,9 @@
+Andrew_NNP Thomas_NNP Knights_NNP Crozier_NNP -LRB-_-LRB- 26_CD July_NNP 1943_CD ''_'' 3_CD April_NNP 2008_CD -RRB-_-RRB- was_VBD a_DT poet_NN associated_VBN with_IN the_DT British_JJ Poetry_NNP Revival_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Crozier_NNP was_VBD educated_VBN at_IN Dulwich_NNP College_NNP ,_, and_CC later_RB Christ_NNP 's_POS College_NNP ,_, Cambridge_NNP ._.
+His_PRP$ 1976_CD book_NN Pleats_NNP won_VBD the_DT Alice_NNP Hunt_NNP Bartlett_NNP Prize_NNP ,_, awarded_VBD jointly_RB that_DT year_NN with_IN Lee_NNP Harwood_NNP ._.
+He_PRP was_VBD co-editor_NN of_IN the_DT important_JJ Revival_NNP magazine_NN The_DT English_NNP Intelligencer_NNP and_CC for_IN many_JJ years_NNS ran_VBD Ferry_NNP Press_NNP ,_, an_DT independent_JJ poetry_NN publisher_NN that_WDT issued_VBD books_NNS by_IN Anthony_NNP Barnett_NNP ,_, David_NNP Chaloner_NNP ,_, Douglas_NNP Oliver_NNP ,_, J._NNP H._NNP Prynne_NNP ,_, Peter_NNP Riley_NNP ,_, and_CC others_NNS ._.
+With_IN Tim_NNP Longville_NNP he_PRP edited_VBD the_DT influential_JJ anthology_NN A_DT Various_JJ Art_NN ._.
+He_PRP also_RB edited_VBD the_DT poems_NNS of_IN Carl_NNP Rakosi_NNP and_CC John_NNP Rodker_NNP ._.
+His_PRP$ collected_VBN poems_NNS ,_, All_DT Where_WRB Each_DT Is_VBZ was_VBD published_VBN in_IN 1985_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Crozier_NNP was_VBD Professor_NNP of_IN Prose_NNP at_IN the_DT University_NNP of_IN Sussex_NNP ,_, where_WRB his_PRP$ research_NN interests_NNS were_VBD listed_VBN as_IN English_NNP and_CC American_NNP poetry_NN and_CC poetics_NNS ,_, with_IN special_JJ reference_NN to_TO the_DT romantic_JJ and_CC modern_JJ periods_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Andrew_NNP Crozier_NNP died_VBD from_IN a_DT brain_NN tumor_NN on_IN 3_CD April_NNP 2008_CD ._.

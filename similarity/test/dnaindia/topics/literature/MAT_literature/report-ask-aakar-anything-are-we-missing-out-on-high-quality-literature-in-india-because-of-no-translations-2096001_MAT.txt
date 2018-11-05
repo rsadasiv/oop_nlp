@@ -1,0 +1,838 @@
+Anurag_NN
+:_:
+Do_VPRT
+we_FPP1
+often_RB
+miss_VPRT
+out_PIN
+on_PIN
+high-quality_JJ
+literature_NN
+in_PIN
+India_NN
+because_CAUS
+of_PIN
+no_SYNE
+translations_NOMZ
+?_.
+Are_VPRT [BEMA]
+there_RB
+any_QUAN
+regional_JJ
+writers_NN
+whose_WPS [WHOBJ]
+works_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+translated_VBN
+that_DEMO
+you_SPP2
+would_PRMD
+recommend_VB [SUAV]
+?_.
+And_ANDC
+would_PRMD [SPAU]
+also_RB
+recommend_VB [SUAV]
+some_QUAN
+notable_JJ
+ones_NN
+that_DEMO
+you_SPP2
+think_VPRT [PRIV]
+ought_NEMD
+to_TO
+be_VB [PASS]
+translated_VBN
+?_.
+''_''
+Aakar_NN
+:_:
+Hypothetically_NN
+,_,
+yes_UH
+,_,
+that_THVC
+I_FPP1
+suppose_VPRT [PRIV]
+that_THVC
+in_PIN
+a_DT
+nation_NOMZ
+with_PIN
+so_RB
+many_QUAN
+languages_NN
+,_,
+there_EX
+will_PRMD
+be_VB
+many_QUAN
+writers_NN
+who_WP [WHSUB]
+have_VPRT [PEAS]
+passed_VBN
+completely_AMP
+unobserved_JJ
+for_PIN
+most_EMPH
+people_NN
+who_WP [WHSUB]
+do_VPRT
+n't_XX0 [CONT]
+read_VB
+that_DEMO
+language_NN
+''_''
+might_POMD
+not_XX0
+even_RB
+know_VB [PRIV]
+their_TPP3
+names_NN
+._.
+But_CC
+,_,
+sadly_RB
+,_,
+I_FPP1
+think_VPRT [PRIV]
+for_PIN
+the_DT
+most_EMPH
+part_NN
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+not_XX0
+true_PRED
+that_THAC
+if_COND
+there_EX
+were_VBD
+truly_RB
+an_DT
+outstanding_JJ
+writer_NN
+who_WP [WHSUB]
+wrote_VBD [PUBV]
+about_IN
+a_DT
+human_JJ
+condition_NOMZ
+as_IN
+it_PIT
+is_VPRT [PASS]
+lived_VBN
+through_PIN
+in_PIN
+India_NN
+,_,
+we_FPP1
+would_PRMD
+have_VB [PEAS]
+noticed_VBN [PRIV]
+such_EMPH
+a_NULL
+writer_NN
+._.
+The_DT
+Russian_JJ
+greats_NN
+of_PIN
+the_DT
+19th_JJ
+century_NN
+such_JJ
+as_IN
+Tolstoy_NN
+and_PHC
+Dostoevsky_NN
+and_PHC
+people_NN
+like_IN
+that_DEMP
+''_''
+they_TPP3
+told_VBD
+their_TPP3
+country_NN
+what_WP
+it_PIT
+was_VBD
+,_,
+they_TPP3
+told_VBD
+Russians_NN
+what_WP
+Russia_NN
+was_VBD
+like_IN
+;_:
+they_TPP3
+told_VBD
+them_TPP3
+what_WP
+it_PIT
+mean_VB [PRIV]
+to_TO
+be_VB
+Russians_NN
+._.
+Do_VPRT
+we_FPP1
+have_VPRT
+such_JJ
+writers_NN
+in_PIN
+India_NN
+?_.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+think_VB [PRIV] [THATD]
+we_FPP1
+do_VPRT
+._.
+Personally_RB
+,_,
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+the_DT
+writer_NN
+that_TOBJ
+I_FPP1
+would_PRMD
+like_VB
+to_TO
+see_VB [PRIV]
+more_EMPH
+translated_VBN
+is_VPRT [BEMA]
+a_DT
+man_NN
+called_VBN
+Sheikh_NN
+Adam_NN
+Abuwala_NN
+,_,
+who_WP
+wrote_VBD [PUBV]
+in_PIN
+Gujarati_NN
+and_CC
+in_PIN
+Urdu_NN
+._.
+Most_EMPH
+people_NN
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+heard_VBN [PRIV]
+of_PIN
+him_TPP3
+,_,
+but_CC
+he_TPP3
+is_VPRT [BEMA]
+the_DT
+man_NN
+who_WP [WHSUB]
+wrote_VBD [PUBV]
+much_QUAN
+of_PIN
+Pankaj_NN
+Udhas_NN
+'_POS
+ghazals_NN
+;_:
+and_ANDC
+very_AMP
+diverse_JJ
+quality_NOMZ
+to_PIN
+his_TPP3
+writing_GER
+,_,
+great_JJ
+spectrum_NN
+,_,
+he_TPP3
+worked_VBD
+for_PIN
+a_DT
+German_JJ
+agency_NN
+._.
+I_FPP1
+think_VPRT [PRIV] [THATD]
+he_TPP3
+spoke_VBD
+of_PIN
+bit_NN
+of_PIN
+German_JJ
+,_,
+spoke_VBD
+Gujarati_NN
+and_PHC
+Urdu_NN
+and_PHC
+English_NN
+really_EMPH
+well_RB
+._.
+Wrote_VBD [PUBV]
+like_IN
+a_DT
+God_NN
+and_CC
+I_FPP1
+wish_VPRT
+that_DEMO
+he_TPP3
+were_VBD [BEMA]
+available_PRED
+in_PIN
+translation_NOMZ
+._.
+So_RB
+,_,
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+if_COND
+you_SPP2
+'re_VPRT [CONT]
+looking_VBG
+to_TO
+access_VB
+a_DT
+write_VB [PUBV]
+who_WP [WHCL]
+writes_VPRT [PUBV]
+about_IN
+us_FPP1
+quite_RB
+well_RB
+,_,
+but_CC
+has_VPRT [PEAS]
+n't_XX0 [CONT]
+been_VBN [PASS]
+noticed_VBN [PRIV]
+,_,
+I_FPP1
+would_PRMD
+point_VB
+you_SPP2
+to_PIN
+him_TPP3
+._.
+Latika_NN
+:_:
+What_WP [WHQU]
+do_VPRT
+you_SPP2
+think_VB [PRIV]
+of_PIN
+Chetan_NN
+Bhagat_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+performance_NN
+as_IN
+a_DT
+judge_NN
+of_PIN
+a_DT
+reality_NOMZ
+show_NN
+on_PIN
+TV_NN
+?_.
+Aakar_NN
+:_:
+Latika_NN
+,_,
+I_FPP1
+think_VPRT [PRIV]
+Chetan_NN
+Bhagat_NN
+is_VPRT [BEMA]
+fantastic_PRED
+as_IN
+a_DT
+judge_NN
+and_CC
+I_FPP1
+expected_VBD [PRIV]
+him_TPP3
+to_TO
+be_VB
+._.
+And_ANDC
+I_FPP1
+think_VPRT [PRIV] [THATD]
+he_TPP3
+is_VPRT [BEMA]
+A_DT
+VERY_AMP
+bright_JJ
+man_NN
+._.
+On_PIN
+TV_NN
+,_,
+he_TPP3
+understands_VPRT [PRIV]
+the_DT
+way_NN
+the_DT
+game_NN
+is_VPRT [PASS]
+played_VBN
+._.
+The_DT
+first_JJ
+thing_NN
+is_VPRT
+,_,
+he_TPP3
+puts_VPRT
+himself_TPP3
+out_PIN [STPR]
+,_,
+if_COND
+you_SPP2
+notice_VPRT [PRIV]
+,_,
+he_TPP3
+has_VPRT
+no_SYNE
+shyness_NOMZ
+in_PIN
+him_TPP3
+,_,
+or_CC
+if_COND
+he_TPP3
+had_VBD
+,_,
+he_TPP3
+sets_VPRT
+that_DEMO
+aside_RB
+and_CC
+he_TPP3
+goes_VPRT
+to_PIN
+the_DT
+stage_NN
+,_,
+and_ANDC
+does_VPRT [PROD]
+his_TPP3
+little_JJ
+antic_JJ
+for_PIN
+the_DT
+day_NN
+._.
+The_DT
+other_JJ
+thing_NN
+is_VPRT [BEMA]
+he_TPP3
+know_VB [PRIV]
+that_THVC
+in_PIN
+India_NN
+,_,
+celebrity_NOMZ
+is_VPRT
+everything_QUPR
+._.
+Ghalib_NN
+said_VBD [PUBV]
+,_,
+badnaam_NN
+hoenge_NN
+to_TO
+kya_VB
+naam_NN
+na_TO
+hoga_NN
+._.
+It_PIT
+doesn_VPRT
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+matter_NN
+what_WP
+it_PIT
+is_VPRT
+that_DEMO
+you_SPP2
+do_VPRT [PROD]
+,_,
+whether_IN
+you_SPP2
+achieve_VPRT
+fame_NN
+of_PIN
+notoriety_NN
+,_,
+as_OSUB
+long_NULL
+as_NULL
+you_SPP2
+are_VPRT [BEMA]
+in_PIN
+the_DT
+public_JJ
+eye_NN
+,_,
+you_SPP2
+are_VPRT [BEMA]
+good_PRED
+._.
+Chetan_NN
+Bhagat_NN
+understands_VPRT [PRIV] [THATD]
+that_DEMP
+._.
+Sameer_NN
+:_:
+Do_VPRT
+you_SPP2
+think_VPRT [PRIV]
+that_THVC
+restaurants_NN
+and_PHC
+bars_NN
+in_PIN
+big_JJ
+cities_NOMZ
+in_PIN
+India_NN
+are_VPRT [SPAU] [PASS]
+increasingly_RB
+atrociously_RB
+priced_VBN
+''_''
+we_FPP1
+seem_VPRT [SMP]
+to_TO
+have_VB
+first_JJ
+world_NN
+pricing_GER
+with_PIN
+none_INPR
+of_PIN
+the_DT
+first_JJ
+world_NN
+quality_NOMZ
+or_CC
+service_NN
+?_.
+Aakar_NN
+:_:
+I_FPP1
+think_VPRT [PRIV] [THATD]
+you_SPP2
+<sup>_VB
+TM_NN
+</sup>_NN
+re_VBD [BEMA]
+quite_RB
+right_PRED
+for_PIN
+the_DT
+most_EMPH
+part_NN
+._.
+Alcohol_NN
+in_PIN
+other_JJ
+counties_NN
+in_PIN
+our_FPP1
+part_NN
+of_PIN
+the_DT
+world_NN
+,_,
+say_VPRT [PUBV]
+south_PLACE
+east_PLACE
+Asia_NN
+''_''
+Thailand_NN
+,_,
+you_SPP2
+could_POMD
+get_VB
+a_DT
+large_JJ
+premium_NN
+whiskey_NN
+''_''
+a_DT
+Black_NN
+Label_NN
+''_''
+for_PIN
+about_RB
+200-250_CD
+Baht_NN
+,_,
+which_WDT [SERE]
+is_VPRT
+around_PLACE
+300_CD
+rupees_NN
+,_,
+I_FPP1
+think_VPRT [PRIV]
+,_,
+whereas_OSUB
+in_PIN
+India_NN
+,_,
+you_SPP2
+couldn_VPRT
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+get_VB
+it_PIT
+for_PIN
+less_JJ
+than_PIN
+six_CD
+or_CC
+seven_CD
+times_NN
+that_DEMP
+._.
+So_RB
+,_,
+it_PIT
+is_VPRT [SPAU] [PASS]
+outrageously_RB
+priced_VBN
+here_RB
+._.
+Part_NN
+of_PIN
+that_DEMP
+is_VPRT [BEMA]
+the_DT
+structure_NN
+of_PIN
+customs_NN
+and_PHC
+excise_NN
+,_,
+but_CC
+I_FPP1
+think_VPRT [PRIV]
+for_PIN
+the_DT
+most_EMPH
+part_NN
+,_,
+the_DT
+separation_NOMZ
+of_PIN
+society_NN
+in_PIN
+India_NN
+is_VPRT
+that_DEMO
+we_FPP1
+have_VPRT
+a_DT
+bunch_NN
+of_PIN
+people_NN
+who_WP [WHSUB]
+are_VPRT [BEMA]
+well_RB
+off_PIN
+and_CC
+a_DT
+bunch_NN
+of_PIN
+people_NN
+who_WP [WHSUB]
+can_POMD
+<sup>_VB
+TM_NN
+</sup>_NN
+t_VBD
+afford_VB
+much_QUAN
+at_PIN
+all_QUAN
+._.
+And_ANDC
+I_FPP1
+think_VPRT [PRIV]
+that_THVC
+restaurants_NN
+aim_VPRT
+for_PIN
+either_DT
+one_CD
+of_PIN
+the_DT
+other_JJ
+._.
+I_FPP1
+would_PRMD
+disagree_VB
+with_PIN
+one_CD
+facet_NN
+of_PIN
+what_WP
+you_SPP2
+said_VBD [PUBV]
+,_,
+which_WDT [SERE]
+is_VPRT [BEMA]
+one_CD
+the_DT
+service_NN
+side_NN
+._.
+I_FPP1
+think_VPRT [PRIV]
+service_NN
+in_PIN
+India_NN
+is_VPRT [BEMA]
+very_AMP
+good_PRED
+._.
+People_NN
+who_WP [WHSUB]
+travel_VPRT
+to_PIN
+India_NN
+from_PIN
+the_DT
+west_PLACE
+especially_RB
+are_VPRT [BYPA]
+struck_VBN
+by_PIN
+how_RB
+good_JJ
+our_FPP1
+service_NN
+is_VPRT [BEMA]
+at_PIN
+the_DT
+expensive_JJ
+places_NN
+._.
+At_PIN
+places_NN
+like_IN
+airlines_NN
+,_,
+in_PIN
+five_CD
+star_NN
+hotels_NN
+,_,
+in_PIN
+good_JJ
+restaurants_NN
+._.
+You_SPP2
+get_VPRT
+fantastic_JJ
+service_NN
+._.
+So_RB
+,_,
+I_FPP1
+think_VPRT [PRIV] [THATD]
+our_FPP1
+service_NN
+is_VPRT [BEMA]
+really_EMPH
+good_PRED
+,_,
+the_DT
+pricing_GER
+is_VPRT [BEMA]
+really_EMPH
+bad_PRED
+''_''
+some_QUAN
+of_PIN
+the_DT
+quality_NOMZ
+is_VPRT [BEMA]
+not_XX0
+that_DEMO
+good_JJ
+either_DT
+._.
+This_DEMP
+is_VPRT [BEMA]
+an_DT
+extract_VB
+from_PIN
+Ask_NN
+Aakar_NN
+Anything_QUPR
+,_,
+a_DT
+weekly_JJ
+podcast_NN
+._.
+You_SPP2
+can_POMD
+listen_VB
+to_PIN
+the_DT
+rest_NN
+of_PIN
+the_DT
+show_NN
+here_RB
+:_:
+www.audiomatic.in_PIN [STPR]
+._.
+DNA_NN
+readers_NN
+can_POMD
+send_VB
+their_TPP3
+questions_NOMZ
+for_PIN
+Aakar_NN
+Patel_NN
+to_TO
+aaa@audiomatic.in_PIN
+with_PIN
+DNA_NN
+in_PIN
+the_DT
+subject_JJ
+line_NN
+._.

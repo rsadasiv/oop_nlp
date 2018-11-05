@@ -1,0 +1,6 @@
+Canadian_JJ start-up_NN Kupol_NNP has_VBZ joined_VBN forces_NNS with_IN the_DT 3D_NNP printing_NN specialist_NN Sculpteo_NNP to_TO develop_VB and_CC manufacture_VB a_DT unique_JJ ,_, ready-to-market_JJ cycle_NN helmet_NN promising_VBG improved_JJ levels_NNS of_IN comfort_NN and_CC safety_NN ._.
+This_DT 3D_NNP printed_VBD helmet_NN has_VBZ a_DT proprietary_JJ three-layer_JJ protection_NN system_NN designed_VBN to_TO absorb_VB multidirectional_JJ impacts_NNS while_IN ensuring_VBG optimal_JJ comfort_NN and_CC breathability_NN ._.
+The_DT helmet_NN 's_POS ``_`` Kinetic_NNP Bumpers_NNP ''_'' absorb_VB low-speed_JJ impacts_NNS while_IN the_DT ``_`` 3D_NNP Kore_NNP ''_'' takes_VBZ the_DT brunt_NN of_IN larger_JJR hits_NNS ,_, from_IN all_DT angles_NNS ._.
+Finally_RB ,_, over_IN 100_CD sucker-shaped_JJ flexible_JJ ``_`` Oktopus_NNP ''_'' pods_NNS adjust_VBP to_TO the_DT wearer_NN 's_POS specific_JJ head_NN shape_NN while_IN also_RB providing_VBG protection_NN against_IN quick_JJ rotational_JJ movements_NNS ._.
+The_DT project_NN is_VBZ currently_RB the_DT subject_NN of_IN a_DT KickStarter_NNP campaign_NN where_WRB it_PRP can_MD be_VB pre-ordered_JJ from_IN CAD$_NNP 199_CD ._.
+It_PRP is_VBZ available_JJ in_IN six_CD sizes_NNS and_CC seven_CD colors_NNS ._.

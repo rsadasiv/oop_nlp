@@ -1,0 +1,4 @@
+Michael_NNP Bracewell_NNP -LRB-_-LRB- born_VBN 7_CD August_NNP 1958_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN and_CC novelist_NN ._.
+He_PRP was_VBD born_VBN in_IN London_NNP ,_, and_CC educated_VBN at_IN the_DT University_NNP of_IN Nottingham_NNP ,_, graduating_NN in_IN English_NNP and_CC American_NNP Studies_NNPS ._.
+A_DT comprehensive_JJ collection_NN of_IN Bracewell_NNP 's_POS essays_NNS can_MD be_VB found_VBN in_IN Michael_NNP Bracewell_NNP The_NNP Space_NNP Between_IN :_: Selected_VBN Writings_NNS on_IN Art_NNP ,_, edited_VBN by_IN Doro_NNP Globus_NNP and_CC published_VBN by_IN Ridinghouse_NNP in_IN 2012_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

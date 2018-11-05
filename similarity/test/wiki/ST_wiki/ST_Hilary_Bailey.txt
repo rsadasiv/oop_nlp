@@ -1,0 +1,9 @@
+Hilary_NNP Bailey_NNP -LRB-_-LRB- 19_CD September_NNP 1936_CD ''_'' 19_CD January_NNP 2017_CD -RRB-_-RRB- was_VBD a_DT British_JJ writer_NN ,_, critic_NN and_CC editor_NN ._.
+Bailey_NNP attended_VBD Newnham_NNP College_NNP ,_, University_NNP of_IN Cambridge_NNP ,_, where_WRB she_PRP was_VBD a_DT founder-member_NN of_IN the_DT Cambridge_NNP University_NNP Women_NNP 's_POS Union_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP was_VBD born_VBN in_IN Bromley_NNP ,_, Kent_NNP ._.
+Her_PRP$ books_NNS include_VBP Polly_NNP Put_VBD the_DT Kettle_NNP On_IN ,_, Mrs_NNP Mulvaney_NNP ,_, Hannie_NNP Richards_NNP and_CC All_PDT the_DT Days_NNS of_IN My_PRP$ Life_NNP ,_, with_IN a_DT heroine_NN who_WP suffers_VBZ the_DT fate_NN of_IN all_DT women_NNS who_WP step_VB away_RB from_IN what_WP is_VBZ expected_VBN of_IN them_PRP ._.
+She_PRP wrote_VBD a_DT biography_NN of_IN Vera_NNP Brittain_NNP ,_, and_CC sequels_NNS to_TO Jane_NNP Eyre_NNP and_CC The_DT Turn_NN of_IN the_DT Screw_NNP ,_, a_DT novel_NN called_VBN Miles_NNP and_CC Flora_NNP ,_, which_WDT takes_VBZ place_NN some_DT time_NN after_IN the_DT original_JJ and_CC resurrects_VBZ one_CD of_IN the_DT main_JJ characters_NNS ._.
+Bailey_NNP edited_VBD volumes_NNS 7_CD ``_`` 10_CD of_IN the_DT New_NNP Worlds_NNP Quarterly_JJ series_NN ,_, and_CC was_VBD coauthor_NN of_IN The_DT Black_NNP Corridor_NNP -LRB-_-LRB- 1969_CD -RRB-_-RRB- with_IN Michael_NNP Moorcock_NNP ,_, to_TO whom_WP she_PRP was_VBD married_VBN from_IN 1962_CD to_TO 1978_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP was_VBD editing_NN North_NNP Sea_NNP Island_NNP ,_, the_DT sequel_NN to_TO her_PRP$ book_NN Fifty-First_NNP State_NNP ,_, when_WRB her_PRP$ heart_NN stopped_VBD ._.
+Bailey_NNP had_VBD three_CD children_NNS ,_, Sophie_NNP ,_, Kate_NNP and_CC Max_NNP and_CC three_CD grandchildren_NNS Alex_NNP ,_, Tom_NNP and_CC Bobby_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

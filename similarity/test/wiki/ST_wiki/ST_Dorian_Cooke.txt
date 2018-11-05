@@ -1,0 +1,1 @@
+Dorian_NNP Cooke_NNP -LRB-_-LRB- 25_CD December_NNP 1916_SYM -_: 18_CD September_NNP 2005_CD -RRB-_-RRB- was_VBD a_DT poet_NN ,_, MI6_NNP operative_NN ,_, and_CC head_NN of_IN the_DT Yugoslav_NNP section_NN at_IN the_DT BBC_NNP ._.

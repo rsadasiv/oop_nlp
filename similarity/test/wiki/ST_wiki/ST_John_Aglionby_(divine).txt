@@ -1,0 +1,8 @@
+John_NNP Aglionby_NNP -LRB-_-LRB- died_VBD ca_MD ._.
+1610_CD -RRB-_-RRB- was_VBD an_DT eminent_JJ divine_NN ,_, of_IN a_DT family_NN whose_WP$ name_NN was_VBD De_NNP Aguilon_NNP ,_, corrupted_VBN into_IN Aglionby_NNP ._.
+The_DT son_NN of_IN Edward_NNP Aglionby_NNP and_CC Elizabeth_NNP Musgrave_NNP ,_, of_IN Crookdayke_NNP ,_, he_PRP was_VBD admitted_VBN as_IN a_DT student_NN to_TO Queen_NNP 's_POS College_NNP ,_, Oxford_NNP in_IN 1583_CD ._.
+He_PRP went_VBD into_IN orders_NNS and_CC became_VBD an_DT eloquent_JJ preacher_NN ._.
+He_PRP traveled_VBD abroad_RB ,_, where_WRB he_PRP formed_VBD an_DT acquaintance_NN with_IN cardinal_JJ Bellarmine_NNP ;_: on_IN his_PRP$ return_NN was_VBD made_VBN chaplain_NN to_TO Elizabeth_NNP ,_, and_CC took_VBD his_PRP$ degree_NN of_IN D.D._NNP in_IN 1600_CD ._.
+He_PRP took_VBD a_DT considerable_JJ share_NN in_IN the_DT translation_NN of_IN the_DT New_NNP Testament_NNP ordered_VBN by_IN King_NNP James_NNP I_NNP ,_, to_TO whom_WP he_PRP was_VBD also_RB chaplain_NN ;_: and_CC his_PRP$ name_NN occurs_VBZ among_IN those_DT of_IN other_JJ Oxford_NNP divines_NNS ,_, who_WP were_VBD to_TO translate_VB the_DT Gospels_NNP ,_, Acts_NNP ,_, and_CC Apocalypse_NNP ._.
+Dr._NNP Aglionby_NNP died_VBD at_IN Islip_NNP ,_, 6_CD Feb._NNP 1609\/10_CD ,_, aged_VBN 43_CD ._.
+He_PRP was_VBD deeply_RB read_VBN in_IN the_DT fathers_NNS ,_, and_CC also_RB a_DT distinguished_JJ scholar_NN and_CC critic_NN ._.

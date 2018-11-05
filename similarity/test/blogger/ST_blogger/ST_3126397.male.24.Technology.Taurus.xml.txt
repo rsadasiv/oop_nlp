@@ -1,0 +1,500 @@
+My_PRP$ first_JJ blog_NN post_NN ?_.
+Wow_UH ._. ._.
+a_DT brave_VB new_JJ world_NN ._.
+Firefox_NNP 0.9.1_CD ,_, and_CC Thunderbird_NNP 0.7.1_CD have_VBP been_VBN released_VBN to_TO fix_VB some_DT things_NNS ,_, and_CC to_TO show_VB off_RP the_DT new_JJ and_CC improved_JJ Firefox_NNP theme_NN !_.
+In_IN other_JJ Firefox_NNP news_NN ,_, apparently_RB all_DT of_IN the_DT viruses_NNS and_CC worms_NNS and_CC such_JJ are_VBP making_VBG strange_JJ bed-fellows_NNS ._.
+The_DT US-CERT_NNP -LRB-_-LRB- Computer_NNP Emergency_NNP Readiness_NNP Team_NNP -RRB-_-RRB- which_WDT is_VBZ a_DT division_NN of_IN the_DT Department_NNP of_IN Homeland_NNP Security_NNP is_VBZ advising_VBG that_IN people_NNS use_VBP Firefox_NNP -LRB-_-LRB- or_CC one_CD of_IN the_DT other_JJ non-Internet_JJ Explorer_NNP options_NNS -RRB-_-RRB- ._.
+Non-Firefox_NNP users_NNS beware_VBP however_RB ,_, that_IN link_NN WILL_MD try_VB to_TO open_VB a_DT pop-up_JJ window_NN of_IN some_DT kind_NN -LRB-_-LRB- I_PRP do_VBP n't_RB know_VB which_WDT because_IN Firefox_NNP blocked_VBD it_PRP -RRB-_-RRB- ._.
+So_RB now_RB it_PRP is_VBZ the_DT patriotic_JJ and_CC intellignet_JJ thing_NN to_TO do_VB !_.
+Well_RB ,_, I_PRP was_VBD out_IN enjoying_VBG an_DT evening_NN with_IN my_PRP$ folks_NNS when_WRB a_DT nasty_JJ thunderstorm_NN rolled_VBD in_IN with_IN wind_NN and_CC lightning_NN ,_, and_CC rain_NN what_WP whatnot_NN ._.
+When_WRB I_PRP got_VBD home_NN my_PRP$ lights_NNS were_VBD kinda_JJ `_`` sketchy_JJ '_'' and_CC flickery_NN and_CC some_DT things_NNS -LRB-_-LRB- like_IN my_PRP$ computer_NN and_CC DSL_NNP modem_NN -RRB-_-RRB- would_MD n't_RB come_VB on_IN at_IN all_DT !_.
+I_PRP went_VBD to_TO the_DT back_JJ yard_NN to_TO check_VB the_DT breaker_NN box_NN ,_, and_CC realized_VBD that_IN my_PRP$ old_JJ oak_NN tree_NN had_VBD not_RB weathered_VBN the_DT storm_NN so_RB well_RB ._.
+For_IN all_PDT those_DT bio-kids_NNS out_IN there_EX who_WP like_IN Macs_NNP ,_, well_RB now_RB you_PRP can_MD have_VB your_PRP$ x-grid_JJ computing_NN power_NN ,_, and_CC not_RB pay_VB an_DT arm_NN and_CC a_DT leg_NN for_IN it_PRP -LRB-_-LRB- although_IN you_PRP will_MD have_VB to_TO delve_VB into_IN linux_NN a_DT litte_NN -RRB-_-RRB- ._.
+This_DT cool_JJ new_JJ program_NN allows_VBZ linux_NN and_CC unix_NN machines_NNS to_TO interface_VB with_IN a_DT Mac_NNP controlled_VBD x-grid_JJ cluster_NN ,_, making_VBG it_PRP suddenly_RB a_DT lot_NN cheaper_JJR to_TO add_VB a_DT few_JJ under_IN $_$ 300_CD Dell_NNP systems_NNS to_TO your_PRP$ cluster_NN ._.
+Of_IN course_NN ,_, the_DT pure_JJ of_IN heart_NN will_MD use_VB Linux_NNP and_CC a_DT Mosix_NNP cluster_NN ,_, avoiding_VBG the_DT whole_JJ Mac_NNP business_NN alltogether_RB ._.
+Home-brew_JJ BLAST_NNP servers_NNS anyone_NN ?_.
+Interestingly_RB ,_, they_PRP use_VBP the_DT same_JJ program_NN -LRB-_-LRB- POV-Ray_JJ -RRB-_-RRB- to_TO test_VB their_PRP$ cluster_NN that_IN I_PRP did_VBD when_WRB I_PRP was_VBD keen_JJ on_IN building_VBG Mosix_NNP clusters_NNS back_RB in_IN the_DT day_NN !_.
+Also_RB ,_, apparently_RB these_DT crazy_JJ little_JJ cars_NNS are_VBP going_VBG to_TO start_VB selling_NN sometime_RB this_DT summer_NN ._.
+They_PRP sort_NN of_IN look_NN like_IN a_DT duck_NN to_TO me_PRP ,_, cool_JJ mind_NN you_PRP ,_, but_CC cool_VBP like_IN a_DT duck_NN ._.
+I_PRP would_MD probably_RB still_RB drive_VB one_CD -LRB-_-LRB- I_PRP 'm_VBP sure_JJ girls_NNS would_MD flock_NN like_IN mississippi-moths_NNS to_TO a_DT candle_NN ,_, after_IN all_DT Austin_NNP Powers_NNP drove_VBD one_CD right_NN ?_. -RRB-_-RRB- ._.
+The_DT real_JJ question_NN is_VBZ which_WDT color_NN ?_.
+And_CC do_VBP they_PRP come_VBP in_IN a_DT pack_NN like_IN skittles_NNS candies_NNS ?_.
+Bush_NNP ,_, \*_SYM almost_RB \*_SYM top_NN terror_NN promoting_VBG US_NNP president_NN of_IN all_DT time_NN !?_CD Today_NN saw_VBD some_DT spooky_JJ things_NNS emerge_VBP on_IN the_DT political_JJ front_NN ._.
+First_NNP off_IN the_DT Bush_NNP administration_NN re-released_VBD their_PRP$ annual_JJ report_NN on_IN terrorism_NN around_IN the_DT world_NN ._.
+According_VBG to_TO the_DT original_JJ version_NN ,_, which_WDT a_DT lot_NN of_IN Bush_NNP supporters_NNS held_VBD up_RP as_IN support_NN for_IN his_PRP$ methods_NNS ,_, terrorism_NN in_IN 2003_CD was_VBD at_IN a_DT 34_CD year_NN low_JJ ._.
+The_DT new_JJ report_NN -LRB-_-LRB- which_WDT apparently_RB is_VBZ still_RB being_VBG revised_VBN and_CC added_VBN to_TO -RRB-_-RRB- shows_VBZ a_DT decline_NN in_IN deaths_NNS from_IN 2002_CD ,_, but_CC an_DT increase_NN in_IN attacks_NNS ,_, for_IN a_DT 21_CD year_NN high_RB ._.
+Basically_RB ,_, the_DT numbers_NNS for_IN 2003_CD doubled_VBD in_IN the_DT new_JJ version_NN of_IN the_DT report_NN ._.
+Given_VBN this_DT new_JJ data_NNS -LRB-_-LRB- compiled_VBN by_IN the_DT president_NN 's_POS own_JJ people_NNS and_CC not_RB some_DT bunch_NN of_IN liberal_JJ whackos_NNS -RRB-_-RRB- I_PRP think_VBP it_PRP is_VBZ safe_JJ to_TO say_VB that_IN Bush_NNP is_VBZ the_DT second_JJ most_RBS competent_JJ president_NN at_IN promoting_VBG terrorism_NN in_IN recent_JJ history_NN -LRB-_-LRB- apparently_RB topped_VBN by_IN Reagan_NNP 21_CD years_NNS ago_IN ?_. -RRB-_-RRB- ._.
+The_DT totals_NNS go_VBP as_IN such_JJ :_: 208_CD attacks_NNS ,_, 3,646_CD injured_VBN ,_, and_CC 625_CD killed_VBN globally_RB ._.
+These_DT figures_NNS apparently_RB do_VBP n't_RB include_VB the_DT actions_NNS that_WDT Bush_NNP proclaims_VBZ ``_`` the_DT terrorists_NNS ''_'' are_VBP carrying_VBG out_RP in_IN Iraq_NNP ._.
+Speaking_VBG of_IN Iraq_NNP ,_, the_DT terrorists_NNS are_VBP WAY_NNP BEHIND_IN US_NNP forces_NNS for_IN numbers_NNS of_IN dead_JJ and_CC wounded_VBN during_IN the_DT Iraq_NNP war_NN ._.
+The_DT administration_NN is_VBZ claiming_VBG computer_NN errors_NNS as_IN part_NN of_IN the_DT reason_NN for_IN their_PRP$ mis-count_NN ._.
+3,646_CD is_VBZ NOT_RB a_DT very_RB big_JJ number_NN for_IN a_DT computer_NN ,_, even_RB a_DT very_RB old_JJ computer_NN ._.
+Either_CC the_DT first_JJ numbers_NNS were_VBD fudged_VBN on_IN purpose_NN ,_, or_CC the_DT people_NNS who_WP compiled_VBD them_PRP are_VBP not_RB very_RB bright_JJ ._.
+I_PRP could_MD probably_RB do_VB better_JJR with_IN Open_NNP Office_NNP and_CC back_RB issues_NNS of_IN the_DT NY_NNP Times_NNP ._.
+Need_VBN I_PRP say_VBP more_JJR ?_.
+Here_RB at_IN home_NN ,_, another_DT of_IN the_DT rights_NNS our_PRP$ troops_NNS are_VBP apparently_RB fighting_VBG for_IN was_VBD revoked_VBN ._.
+The_DT Supreme_NNP Court_NNP ruled_VBD Monday_NNP that_IN if_IN a_DT police_NN officer_NN asks_VBZ for_IN your_PRP$ name_NN ,_, you_PRP have_VBP to_TO give_VB it_PRP or_CC go_VB to_TO jail_NN ._.
+Apparently_RB the_DT police_NN officer_NN does_VBZ n't_RB have_VB to_TO offer_VB any_DT explanation_NN for_IN his_PRP$ query_NN ._.
+This_DT ruling_NN was_VBD in_IN response_NN to_TO a_DT Nevada_NNP rancher_NN who_WP refused_VBD to_TO give_VB his_PRP$ name_NN when_WRB asked_VBN ._.
+So_RB what_WP I_PRP wonder_VBP is_VBZ what_WP happens_VBZ if_IN you_PRP lie_VBP ?_.
+Is_VBZ it_PRP okay_JJ for_IN the_DT officer_NN to_TO demand_VB an_DT identification_NN card_NN ?_.
+If_IN I_PRP ca_MD n't_RB show_VB my_PRP$ registration-papers_NNS do_VBP I_PRP go_VB to_TO jail_NN too_RB ?_.
+Maybe_RB it_PRP would_MD be_VB safer_JJR to_TO just_RB implant_VB an_DT RF_NNP tag_NN in_IN everyone_NN with_IN their_PRP$ social_JJ security_NN number_NN encoded_VBN on_IN it_PRP at_IN birth_NN ._.
+The_DT technology_NN seems_VBZ to_TO work_VB well_RB on_IN fish_NN ..._: Or_CC we_PRP could_MD just_RB get_VB a_DT bar-code_JJ tattooed_VBN on_IN our_PRP$ necks_NNS ._.
+Good_JJ grief_NN ,_, how_WRB far_RB will_MD we_PRP go_VB to_TO ``_`` protect_VB freedom_NN ''_'' ?_.
+In_IN other_JJ depressing_VBG news_NN ._. ._.
+apparently_RB my_PRP$ grandfather_NN is_VBZ more_RBR or_CC less_RBR a_DT nihilist_NN ._.
+And_CC as_IN they_PRP say_VBP in_IN The_DT Big_JJ Lebowski_NNP ,_, ``_`` say_VBP what_WP you_PRP want_VBP about_IN the_DT tennants_NNS of_IN national_JJ socialism_NN ,_, at_IN least_JJS its_PRP$ an_DT ethos_NN ._. ''_''
+Now_RB as_IN everyone_NN who_WP knows_VBZ me_PRP knows_VBZ ,_, I_PRP am_VBP a_DT fanatic_JJ when_WRB it_PRP comes_VBZ to_TO tricking_VBG out_RP my_PRP$ honda_NN civic_JJ ._.
+With_IN everything_NN from_IN low-profile_JJ tires_NNS to_TO a_DT level_NN 3_CD exhaust_NN kit_NN ,_, nos_NNS ,_, custom_NN decals_NNS ,_, and_CC a_DT stereo_NN system_NN that_WDT makes_VBZ old_JJ women_NNS weep_NN ,_, I_PRP thought_VBD I_PRP had_VBD it_PRP all_DT -LRB-_-LRB- and_CC could_MD teach_VB those_DT Fast_NNP &_CC Furious_NNP boys_NNS a_DT thing_NN or_CC two_CD besides_IN -RRB-_-RRB- ._.
+That_DT was_VBD until_IN I_PRP found_VBD out_RP about_IN Trunk_NNP Monkey_NNP ._.
+Now_RB I_PRP realize_VBP that_IN my_PRP$ life_NN ,_, and_CC my_PRP$ car_NN is_VBZ truely_RB incomplete_JJ ._.
+Watch_NNP the_DT videos_NNS on_IN that_DT site_NN and_CC you_PRP will_MD know_VB why_WRB ._.
+For_IN those_DT of_IN you_PRP who_WP want_VBP to_TO be_VB all-kinda_JJ snazzy_NN ,_, there_EX are_VBP some_DT specially_RB optimized_VBN versions_NNS of_IN Firefox_NNP out_RP ._.
+Those_DT with_IN newer_JJR computers_NNS that_WDT have_VBP Pentium_NNP 4_CD or_CC Athlon_NNP XP_NNP processors_NNS should_MD get_VB this_DT one_CD ._.
+Those_DT with_IN older_JJR cpus_NN -LRB-_-LRB- Pentium_NNP 3_CD or_CC Pentium_NNP 2_CD 's_POS -RRB-_-RRB- should_MD get_VB this_DT version_NN -LRB-_-LRB- these_DT cool_JJ builds_VBZ are_VBP being_VBG done_VBN by_IN Moox_NNP -RRB-_-RRB- ._.
+I_PRP think_VBP I_PRP would_MD install_VB the_DT official_JJ release_NN first_RB ,_, and_CC then_RB install_VB the_DT optimized_VBN version_NN over_IN top_NN ._.
+Also_RB ,_, Mono_NNP -LRB-_-LRB- the_DT opensource_NN ._.
+NET_JJ replacement_NN -RRB-_-RRB- came_VBD out_RP in_IN Beta3_JJ yesterday_NN ._.
+I_PRP have_VBP n't_RB used_VBN it_PRP a_DT lot_NN yet_RB ,_, but_CC between_IN it_PRP and_CC Sharp_NNP Develop_VBP ,_, things_NNS in_IN the_DT open-source_JJ C_NNP #_# and_CC ._.
+net_JJ programming_NN world_NN are_VBP getting_VBG peachy_NN ._.
+Firefox_NNP 0.9_CD has_VBZ been_VBN released_VBN !!_CD Read_VBP a_DT review_NN here_RB ._.
+Download_NNP the_DT official_JJ release_NN here_RB ._.
+Torrent-enabled_JJ people_NNS can_MD also_RB get_VB it_PRP that_DT way_NN ._.
+If_IN you_PRP do_VBP n't_RB like_VB the_DT new_JJ theme_NN ,_, get_VB the_DT old_JJ one_CD here_RB ._.
+And_CC make_VB sure_JJ to_TO get_VB the_DT Macromedia_NNP stuff_NN !_.
+Three_CD Cheers_NNP for_IN open-source_JJ software_NN !!!_NN -LRB-_-LRB- now_RB I_PRP must_MD close_VB my_PRP$ web-browser_NN to_TO install_VB the_DT new_JJ version_NN -RRB-_-RRB- ._.
+Ripples_NNS from_IN 9\/11_CD or_CC is_VBZ Nazism_NNP on_IN the_DT rise_NN ?_.
+Normally_RB I_PRP have_VBP a_DT mild_JJ aversion_NN to_TO Country_NNP music_NN ,_, mostly_RB because_IN it_PRP seems_VBZ to_TO forward_RB an_DT anti-education_NN ,_, fairytale_JJ view_NN of_IN the_DT world_NN which_WDT encourages_VBZ and_CC celebrates_VBZ ignorance_NN and_CC the_DT wish_NN to_TO be_VB ignorant_JJ ._.
+Beyond_IN this_DT it_PRP seems_VBZ that_IN a_DT good_JJ deal_NN of_IN the_DT Country_NN songs_NNS I_PRP 've_VBP heard_VBN ,_, play_VB on_IN emotions_NNS such_JJ as_IN greed_NN ,_, fear_NN ,_, and_CC pride_NN with_IN a_DT ``_`` do_VB it_PRP and_CC let_VB the_DT consequences_NNS be_VB damned_RB ''_'' sort_NN of_IN attitude_NN ._.
+This_DT approach_NN seems_VBZ to_TO be_VB especially_RB appealing_VBG to_TO those_DT of_IN a_DT more_RBR conservative_JJ bent_NN for_IN some_DT reason_NN ._.
+I_PRP think_VBP it_PRP is_VBZ because_IN these_DT songs_NNS support_VBP the_DT theory_NN that_IN people_NNS in_IN the_DT US_NNP deserve_VBP to_TO consume_VB more_JJR resources_NNS ,_, than_IN people_NNS in_IN the_DT not-so-promised_JJ lands_NNS ._.
+Most_RBS popular_JJ Country_NN music_NN is_VBZ merely_RB a_DT reincarnation_NN of_IN Manifest_NNP Destiny_NNP distilled_VBD into_IN ``_`` music_NN ''_'' ._.
+My_PRP$ dealings_NNS with_IN Country_NN music_NN are_VBP fairly_RB limited_JJ however_RB ,_, so_IN I_PRP am_VBP sure_JJ that_IN there_EX is_VBZ a_DT fair_JJ amount_NN which_WDT does_VBZ not_RB fall_VB into_IN this_DT category_NN ._.
+Some_DT sort-of-country_JJ music_NN I_PRP even_RB like_IN ;_: The_DT Cowboy_NNP Junkies_NNPS for_IN instance_NN are_VBP a_DT bit_NN country-ish_JJ ,_, but_CC a_DT bit_NN less_RBR gung-ho_JJ about_IN running_VBG off_RP from_IN home_NN at_IN 17_CD to_TO get_VB married_VBN to_TO the_DT hot-headed_JJ abusive_JJ guy_NN with_IN an_DT old_JJ ford_NN pickup_NN truck_NN ,_, tight_JJ jeans_NNS ,_, cowboy_NN hat_NN ,_, and_CC no_DT future_NN ._.
+The_DT other_JJ day_NN I_PRP was_VBD surprised_VBN ,_, and_CC sad_JJ to_TO hear_VB something_NN quite_RB a_DT bit_NN worse_JJR however_RB ._.
+A_DT little_JJ research_NN lead_NN to_TO the_DT title_NN ,_, Holy_NNP War_NNP by_IN Brooks_NNP and_CC Dunn_NNP ._.
+Let_VB me_PRP quote_VB the_DT lyrics_NNS :_: Some_DT say_VBP a_DT holy_JJ war_NN is_VBZ comin_VBG '_'' Gonna_NNP be_VB the_DT end_NN of_IN mortal_JJ man_NN There_EX 's_VBZ a_DT TV_NN preacher_NN sayin_NN '_'' Armageddon_NNP is_VBZ at_IN hand_NN Sayin_NNP '_POS the_DT Jews_NNPS ,_, the_DT Gays_NNP ,_, the_DT Junkies_NNPS The_DT Politicians_NNPS and_CC Infidels_NNPS Have_VBP conjured_VBN up_RP the_DT devil_NN Upon_IN the_DT gates_NNS of_IN hell_NN I_PRP turn_VBP on_IN the_DT TV_NN Lord_NNP I_PRP ca_MD n't_RB believe_VB my_PRP$ eyes_NNS Oh_UH Terror_NN walks_VBZ the_DT streets_NNS While_IN a_DT million_CD mothers_NNS cry_VBP Christians_NNS pray_NN to_TO Jesus_NNP Lord_NNP help_VBP us_PRP if_IN you_PRP can_MD Send_VB Gabriel_NNP and_CC his_PRP$ legions_NNS To_TO defend_VB his_PRP$ promised_JJ land_NN All_DT it_PRP 's_VBZ prophets_NNS lead_VBP While_IN the_DT blind_JJ sheep_NN they_PRP follow_VBP The_DT path_NN to_TO damnation_NN with_IN no_DT future_JJ no_DT tomorrow_NN Justice_NNP she_PRP may_MD be_VB blind_JJ Tall_NNP and_CC proud_JJ she_PRP marches_NNS on_IN Judgment_NN day_NN is_VBZ coming_VBG God_NNP himself_PRP wrote_VBD that_IN in_IN stone_NN They_PRP say_VBP a_DT holy_JJ war_NN is_VBZ comin_VBG '_'' Gonna_NNP be_VB the_DT end_NN of_IN mortal_JJ man_NN There_EX 's_VBZ a_DT TV_NN preacher_NN sayin_NN '_'' Armageddon_NNP is_VBZ at_IN hand_NN They_PRP said_VBD fire_NN rained_VBD down_RP from_IN Heaven_NNP On_IN the_DT towers_NNS of_IN Babylon_NNP Oh_UH the_DT innocent_JJ the_DT sinners_NNS They_PRP all_DT died_VBD as_IN one_CD Now_RB victory_NN will_MD be_VB mine_JJ All_DT feeble_JJ and_CC good_JJ say_VBP But_CC in_IN the_DT end_NN and_CC in_IN its_PRP$ own_JJ way_NN Righteousness_NN will_MD have_VB it_PRP 's_VBZ way_NN Being_VBG from_IN Idaho_NNP ,_, I_PRP 've_VBP seen_VBN a_DT few_JJ skin-heads_NNS and_CC the_DT like_JJ from_IN time_NN to_TO time_NN -LRB-_-LRB- they_PRP thought_VBD they_PRP were_VBD really_RB snazzy_JJ spray_NN painting_NN swastikas_NNS on_IN the_DT high_JJ school_NN ,_, or_CC shouting_VBG racial_JJ slurs_NNS in_IN college_NN -RRB-_-RRB- ,_, so_RB when_WRB I_PRP first_RB heard_VBD this_DT I_PRP thought_VBD `_`` good_JJ grief_NN ,_, being_VBG a_DT hate_NN mongering_VBG idiot_NN has_VBZ been_VBN popularized_VBN on_IN a_DT national_JJ scale_NN '_'' ._.
+I_PRP think_VBP this_DT might_MD have_VB been_VBN hasty_JJ however_RB ._.
+While_IN the_DT rest_NN of_IN album_NN seems_VBZ to_TO be_VB true-blue_JJ red-blooded_JJ defend_VBP freedom_NN etc_NN ,_, this_DT song_NN seems_VBZ laced_VBN with_IN a_DT heavy_JJ dose_NN of_IN cynicism_NN ._.
+I_PRP ca_MD n't_RB help_VB but_CC think_VB that_IN the_DT lines_NNS about_IN prophets_NNS leading_VBG and_CC blind_JJ sheep_NN following_VBG are_VBP awfully_RB Nietzsche_NNP like_IN ,_, and_CC apply_VB as_IN easily_RB to_TO any_DT right-wing_JJ Christian_JJ group_NN as_IN they_PRP do_VBP to_TO Osama_NNP and_CC friends_NNS ._.
+It_PRP seems_VBZ to_TO me_PRP that_IN a_DT Holy_NNP War_NNP is_VBZ pretty_RB much_RB here_RB ,_, and_CC our_PRP$ commander_NN and_CC chief_NN prophet_NN is_VBZ leading_VBG a_DT lot_NN of_IN blind_JJ sheep_NN on_IN a_DT path_NN to_TO damnation_NN ._.
+Apparently_RB 833_CD +_CD Americans_NNS -LRB-_-LRB- people_NNS from_IN the_DT USA_NNP ,_, not_RB the_DT rest_NN of_IN the_DT Americas_NNPS -RRB-_-RRB- have_VBP been_VBN killed_VBN ,_, and_CC 4704_CD +_NN wounded_VBD ._.
+This_DT means_VBZ that_IN we_PRP have_VBP gotten_VBN about_IN 1\/3_CD as_IN many_JJ people_NNS killed_VBD getting_VBG revenge_NN for_IN 9-11_CD as_IN died_VBN in_IN 9-11_CD -LRB-_-LRB- and_CC a_DT lot_NN more_JJR wounded_VBN -RRB-_-RRB- ._.
+Besides_IN this_DT ,_, apparently_RB somewhere_RB between_IN 9,000_CD and_CC 11,000_CD Iraq_NNP civilians_NNS have_VBP died_VBN ._.
+I_PRP ask_VBP those_DT who_WP are_VBP mathematically_RB inclided_VBN to_TO tell_VB me_PRP ..._: Who_WP is_VBZ the_DT terrorist_JJ here_RB ?_.
+Or_CC are_VBP we_PRP still_RB working_VBG under_IN the_DT assumption_NN that_IN 1_CD ``_`` American_JJ ''_'' =_SYM 8_CD brown-skinned_JJ foreigners_NNS ._.
+I_PRP had_VBD hopped_VBN that_IN we_PRP got_VBD rid_JJ of_IN that_DT ,_, but_CC maybe_RB it_PRP has_VBZ lived_VBN on_IN in_IN conservative_JJ right_JJ wing_NN Christian_NNP politics_NNS ,_, and_CC it_PRP 's_VBZ mouthpiece_NN to_TO the_DT masses_NNS ,_, Country_NN music_NN ._.
+I_PRP was_VBD unfortunate_JJ enough_JJ to_TO attempt_VB to_TO watch_VB Van_NNP Helsing_NNP tonight_NN ._.
+This_DT is_VBZ without_IN doubt_NN the_DT worst_JJS movie_NN I_PRP have_VBP seen_VBN in_IN years_NNS ._.
+I_PRP am_VBP told_VBD that_IN Dude_NNP where_WRB 's_POS my_PRP$ Car_NN is_VBZ worse_JJR ,_, but_CC if_IN so_IN it_PRP has_VBZ got_VBN to_TO tread_VB in_IN a_DT realm_NN of_IN horridness_NN which_WDT I_PRP ca_MD n't_RB imagine_VB ._.
+Van_NNP Helsing_NNP is_VBZ what_WP happens_VBZ when_WRB a_DT large_JJ pile_NN of_IN cow_NN manure_NN is_VBZ mixed_VBN with_IN an_DT equally_RB large_JJ pile_NN of_IN money_NN ,_, and_CC then_RB spattered_VBD on_IN a_DT wall_NN with_IN some_DT kind_NN of_IN wood-chipper_NN ._.
+I_PRP would_MD have_VB thought_VBN it_PRP was_VBD a_DT spoof_JJ and_CC laughed_VBD my_PRP$ guts_NNS out_RP except_IN that_IN the_DT actors_NNS took_VBD themselves_PRP so_RB seriously_RB ._.
+Even_RB their_PRP$ one-liners_NNS are_VBP delivered_VBN like_IN a_DT sack_NN of_IN severed_VBN heads_NNS --_: lifeless_JJ ._.
+The_DT story_NN is_VBZ nearly_RB non-existent_JJ ,_, the_DT cuts_NNS between_IN scenes_NNS make_VBP home_NN videos_NNS seem_VBP professional_JJ ,_, and_CC the_DT dialogue_NN would_MD have_VB been_VBN more_RBR believable_JJ if_IN written_VBN by_IN chimps_NNS ._.
+Round_NNP this_DT combination_NN out_RP with_IN actors_NNS who_WP 's_VBZ fake_JJ accents_NNS are_VBP so_RB fake_JJ you_PRP ca_MD n't_RB tell_VB whether_IN they_PRP are_VBP supposed_VBN to_TO be_VB from_IN Brooklyn_NNP or_CC Transylvania_NNP -LRB-_-LRB- probably_RB they_PRP do_VBP n't_RB know_VB either_CC -RRB-_-RRB- ,_, repetitive_JJ fight_NN scenes_NNS which_WDT go_VBP on_IN and_CC on_IN ,_, and_CC a_DT number_NN of_IN obvious_JJ theiveries_NNS from_IN other_JJ successful_JJ movies_NNS ,_, and_CC you_PRP have_VBP Van_NNP Helsing_NNP ._.
+I_PRP mean_VBP ,_, for_IN God_NNP 's_POS sake_NN ,_, any_DT movie_NN that_WDT rips_VBZ off_RP Tuco_NNP 's_POS ``_`` if_IN you_PRP are_VBP going_VBG to_TO shoot_VB shoot_NN ,_, do_VBP n't_RB talk_VB ''_'' is_VBZ pretty_RB questionable_JJ to_TO begin_VB with_IN ,_, but_CC when_WRB it_PRP combines_VBZ that_IN with_IN a_DT ``_`` 007_CD gets_VBZ outfitted_VBN by_IN quirky_JJ inventor_NN ''_'' rip_NN things_NNS get_VBP ghastly_JJ ._.
+I_PRP have_VBP never_RB seen_VBN so_RB many_JJ things_NNS explode_VBP into_IN green_JJ goop_NN ,_, so_RB many_JJ people\/creatures_NNS hurled_VBD ,_, dropped_VBD ,_, squashed_JJ ,_, or_CC battered_VBN with_IN little_JJ obvious_JJ effect_NN ,_, or_CC so_RB many_JJ ``_`` harpy_JJ carries_VBZ thing_NN while_IN making_VBG funny_JJ faces_NNS ''_'' scenes_NNS in_IN one_CD setting_NN ._.
+Nor_CC do_VBP I_PRP hope_VBP to_TO ever_RB again_RB ._.
+I_PRP watched_VBD most_JJS of_IN the_DT second_JJ half_NN of_IN this_DT movie_NN in_IN fast_JJ forward_RB -LRB-_-LRB- thank_VB God_NNP for_IN DVD_NNP technology_NN -RRB-_-RRB- at_IN this_DT speed_NN ,_, and_CC without_IN sound_NN it_PRP is_VBZ almost_RB bearable_JJ ._.
+After_IN an_DT uncomfortably_RB long_JJ wait_NN ,_, Michael_NNP Moore_NNP 's_POS new_JJ film_NN ,_, Fahrenheit_NN 9\/11_CD has_VBZ a_DT trailer_NN up_RB and_CC is_VBZ scheduled_VBN to_TO come_VB out_RP June_NNP 25th_JJ ._.
+Apparently_RB it_PRP will_MD be_VB distributed_VBN widely_RB ._.
+I_PRP just_RB hope_VBP that_IN means_VBZ Idaho_NNP because_IN I_PRP plan_VBP on_IN going_VBG ,_, and_CC I_PRP 'd_MD rather_RB not_RB have_VB to_TO drive_VB out_IN of_IN state_NN to_TO do_VB it_PRP ._.
+Also_RB I_PRP put_VBD some_DT new_JJ photos_NNS up_RB on_IN my_PRP$ photos_NNS page_NN ._.
+There_EX will_MD probably_RB be_VB even_RB more_RBR soon_RB ._.
+More_RBR anti-Internet_JJ Explorer_NNP news_NN out_IN today_NN ._.
+According_VBG to_TO ZDNet_NNP apparently_RB the_DT I-Lookup_JJ search_NN bar_NN people_NNS -LRB-_-LRB- shall_MD I_PRP say_VB shoddy-rotten_JJ scheming_JJ bastards_NNS ?_. -RRB-_-RRB-
+have_VBP been_VBN exploiting_VBG a_DT couple_NN of_IN bugs_NNS in_IN Internet_NNP Explorer_NNP to_TO install_VB spy-ware_JJ and_CC add-ware_JJ programs_NNS on_IN computers_NNS when_WRB people_NNS either_CC open_VB an_DT email_NN or_CC view_VB a_DT web-page_NN in_IN Internet_NNP Explorer\/Outlook\/Outlook_NNP Express_NNP ._.
+The_DT malicious_JJ program_NN then_RB pops_VBZ up_RP porn_NN adds_VBZ etc_FW every_DT few_JJ minutes_NNS ._.
+I_PRP thought_VBD I_PRP 'd_MD been_VBN hearing_VBG an_DT awful_JJ lot_NN about_IN spyware_NN being_VBG installed_VBN lately_RB ,_, but_CC good_JJ grief_NN !_.
+Could_MD Microsoft_NNP open_VB the_DT gates_NNS any_DT wider_JJR ?_.
+To_TO make_VB matters_NNS worse_RBR ,_, apparently_RB 80_CD %_NN of_IN spam_NN comes_VBZ from_IN infected_JJ Microsoft_NNP Windows_NNPS PC_NNP 's_POS !_.
+Once_RB again_RB ,_, I_PRP beg_VBP all_DT literate_JJ self_NN respecting_VBG computer_NN users_NNS to_TO PLEASE_VB use_NN Mozilla_NNP Firefox_NNP for_IN web_NN browsing_NN and_CC Mozilla_NNP Thunderbird_NNP for_IN email_NN ._.
+If_IN not_RB for_IN their_PRP$ own_JJ sakes_NNS ,_, then_RB for_IN the_DT good_JJ of_IN humanity_NN ._.
+It_PRP is_VBZ probably_RB also_RB a_DT good_JJ idea_NN to_TO keep_VB a_DT copy_NN of_IN Adaware_NNP handy_JJ ,_, or_CC at_IN least_JJS sanitize_VB your_PRP$ computer_NN with_IN it_PRP if_IN you_PRP have_VBP ever_RB used_VBN Internet_NNP Explorer_NNP In_IN other_JJ news_NN ..._: The_DT bards_NNS are_VBP still_RB dreaming_VBG up_RP songs_NNS about_IN Reagan_NNP despite_IN the_DT fact_NN that_IN he_PRP does_VBZ n't_RB really_RB deserve_VB much_JJ credit_NN for_IN ending_VBG the_DT Cold_NNP War_NNP ,_, increased_VBD the_DT deficite_NN to_TO never_RB before_RB seen_VBN highs_NNS ,_, sold_VBD arms_NNS to_TO know_VB terrorists_NNS ,_, etc._FW ..._: Here_RB is_VBZ a_DT book_NN about_IN him_PRP by_IN a_DT \*_NN local_JJ \*_SYM author_NN ._.
+Cowboys_NNPS may_MD someday_RB be_VB replaced_VBN by_IN wi-fi_JJ ,_, so_RB could_MD I_PRP be_VB a_DT wi-fi-cowboy_NN ?_.
+Would_MD I_PRP have_VBP to_TO wear_VB the_DT boots_NNS ?_.
+Meanwhile_RB ..._: the_DT Bush_NNP administration_NN apparently_RB favors_VBZ torture_VB ,_, and_CC are_VBP trying_VBG to_TO use_VB legal_JJ manuvers_NNS to_TO get_VB around_IN The_DT Geneva_NNP accords_NNS against_IN torture_VBP -LRB-_-LRB- formed_VBN because_IN of_IN Hitler_NNP I_PRP believe_VBP -RRB-_-RRB- ._.
+NPR_NNP has_VBZ a_DT 52_CD page_NN leaked_VBD memo_NN on_IN the_DT subject_JJ as_RB well_RB as_IN an_DT interview_NN ._.
+What_WP ever_RB happened_VBD to_TO ``_`` what_WP goes_VBZ around_RB comes_VBZ around_RP ''_'' ?_.
+Maybe_RB they_PRP are_VBP trying_VBG to_TO incentify_VB our_PRP$ soldiers_NNS to_TO fight_VB to_TO the_DT death_NN since_IN they_PRP know_VBP they_PRP have_VBP no_DT right_NN to_TO except_IN humane_NN treatment_NN if_IN captured_VBN ._.
+Despite_IN party_NN affiliations_NNS ,_, Senator_NNP Craig_NNP -LRB-_-LRB- from_IN here_RB in_IN Idaho_NNP -RRB-_-RRB- is_VBZ quoted_VBN as_IN saying_VBG something_NN intelligent_JJ ._. ._.
+``_`` I_PRP hope_VBP that_IN in_IN the_DT end_NN ,_, Saddam_NNP Hussein_NNP will_MD not_RB have_VB taken_VBN away_RB from_IN us_PRP something_NN that_IN our_PRP$ Constitution_NNP ,_, in_IN large_JJ part_NN ,_, granted_VBD us_PRP ,_, and_CC that_IN we_PRP have_VBP it_PRP taken_VBN away_RB in_IN the_DT name_NN of_IN safety_NN and_CC security_NN ._. ''_''
+Maybe_RB I_PRP will_MD have_VB to_TO re-think_VB my_PRP$ opinion_NN of_IN him_PRP ._.
+Saddam_NNP has_VBZ become_VBN a_DT more_RBR potent_JJ ``_`` terrorist_JJ ''_'' in_IN defeat_NN than_IN he_PRP ever_RB was_VBD while_IN in_IN power_NN ,_, even_RB when_WRB he_PRP was_VBD our_PRP$ friend_NN ._.
+Of_IN course_NN he_PRP was_VBD never_RB actually_RB involved_VBN in_IN the_DT 9\/11_CD thing_NN at_IN all_DT ,_, so_RB mostly_RB this_DT is_VBZ the_DT Bush_NNP administration_NN jockying_VBG for_IN power_NN ._.
+Wooho_NNP !_.
+,_, Firefox_NNP -LRB-_-LRB- my_PRP$ favorite_JJ browser_NN in_IN the_DT whole_JJ wide_JJ world_NN -RRB-_-RRB- is_VBZ up_RB to_TO 0.9_CD rc1_CD -LRB-_-LRB- release_NN candidate_NN 1_CD for_IN the_DT un-initiated_JJ -RRB-_-RRB- ._.
+Firefox_NNP was_VBD already_RB awsome_JJ ,_, and_CC it_PRP keeps_VBZ getting_VBG better_RBR ._.
+It_PRP makes_VBZ IE_NNP look_NN like_IN a_DT model-T_NN in_IN comparison_NN ._.
+It_PRP blocks_VBZ pop_NN up_IN adds_VBZ and_CC does_VBZ n't_RB install_VB horrible_JJ viruses_NNS or_CC allow_VB web_NN pages_NNS to_TO run_VB malicious_JJ code_NN ._.
+As_IN if_IN these_DT reasons_NNS were_VBD n't_RB enough_RB ,_, it_PRP also_RB supports_VBZ a_DT cool_JJ feature_NN called_VBN tabed_JJ browsing_NN which_WDT allows_VBZ you_PRP to_TO open_VB multiple_JJ web_NN pages_NNS in_IN the_DT same_JJ window_NN with_IN a_DT simple_JJ middle_JJ click_NN ._.
+Release_NNP notes_NNS can_MD be_VB found_VBN here_RB You_PRP might_MD need_VB the_DT Macromedia_NNP Flash_NNP Player_NNP as_RB well_RB as_IN Macromedia_NNP Shockwave_NNP player_NN ._.
+Install_VB these_DT after_IN installing_VBG Firefox_NNP ._.
+I_PRP am_VBP afraid_JJ that_IN this_DT blog_NN will_MD mostly_RB be_VB a_DT rant_NN ..._: maybe_RB I_PRP will_MD try_VB to_TO alternate_JJ ._.
+So_IN my_PRP$ old_JJ father_NN -LRB-_-LRB- aka_FW Geeze_NNP -RRB-_-RRB- sent_VBD me_PRP a_DT review_NN of_IN a_DT pretty_RB interesting_JJ and_CC disturbing_JJ book_NN :_: HOME_NNP FRONT_NNP The_NNP Government_NNP 's_POS War_NNP on_IN Soldiers_NNS by_IN Rick_NNP Anderson_NNP Foreword_NNP by_IN FRANCIS_NNP A._NNP BOYLE_NNP ISBN_NNP :_: 0-932863-41-8_CD Among_IN other_JJ disturbing_JJ statistics_NNS ,_, it_PRP points_VBZ out_RP that_IN although_IN only_JJ 148_CD soldiers_NNS were_VBD killed_VBN in_IN the_DT 1991_CD Gulf_NNP War_NNP 11,000_CD have_VBP died_VBN since_IN ._.
+These_DT casualty_NN rates_NNS are_VBP due_JJ to_TO a_DT mix_NN of_IN problems_NNS which_WDT do_VBP n't_RB include_VB old-age_NN ._.
+Apparently_RB military_JJ personnel_NNS are_VBP frequently_RB not_RB provided_VBN with_IN adequate_JJ medical_JJ treatment_NN during_IN and_CC especially_RB after_IN wars_NNS ._.
+They_PRP are_VBP sometimes_RB even_RB used_VBN as_IN guinea_NN pigs_NNS for_IN testing_VBG new_JJ medicines_NNS which_WDT sometimes_RB cause_VBP horrible_JJ problems_NNS ._.
+Who_WP knows_VBZ what_WP the_DT long_JJ term_NN consequences_NNS of_IN our_PRP$ current_JJ \*_SYM operations_NNS \*_SYM will_MD be_VB ._.
+Maybe_RB 20,000_CD or_CC 30,000_CD ?_.
+Now_RB ,_, I_PRP am_VBP generally_RB not_RB pro-war_JJ by_IN any_DT means_NNS ,_, but_CC I_PRP am_VBP even_RB less_RBR in_IN favor_NN of_IN treating_VBG people_NNS as_IN disposable_JJ resources_NNS ._.
+I_PRP 've_VBP noticed_VBN that_IN it_PRP is_VBZ in_IN vogue_NN to_TO refer_VB to_TO a_DT soldier_NN as_IN a_DT ``_`` troop_NN ''_'' lately_RB ._.
+Maybe_RB this_DT is_VBZ due_JJ to_TO the_DT women_NNS in_IN the_DT military_JJ thing_NN ,_, but_CC it_PRP comes_VBZ across_RP as_IN if_IN they_PRP are_VBP a_DT small_JJ version_NN of_IN a_DT humvee_NN or_CC something_NN ._.
+It_PRP seems_VBZ to_TO me_PRP that_IN even_RB if_IN we_PRP put_VBP someone_NN in_IN camouflage_NN ,_, have_VBP them_PRP do_VB a_DT lot_NN of_IN push_NN ups_NNS ,_, and_CC give_VB them_PRP a_DT gun_NN ,_, they_PRP are_VBP still_RB human_JJ ._.
+Or_CC am_VBP I_PRP missing_VBG something_NN here_RB ?_.
+Various_JJ futurists_NNS have_VBP claimed_VBN that_IN someday_RB wars_NNS will_MD be_VB fought_VBN with_IN robots_NNS ._.
+This_DT wo_MD n't_RB be_VB the_DT case_NN ._.
+The_DT reality_NN is_VBZ that_IN our_PRP$ leaders_NNS already_RB view_VBP each_DT ``_`` troop_NN ''_'' as_IN a_DT cheap_JJ disposable_JJ robot_NN ._.
+Why_WRB go_VBP to_TO the_DT expense_NN of_IN fixing_VBG them_PRP when_WRB more_RBR will_MD roll_VB off_RP the_DT assembly_NN line_NN at_IN any_DT moment_NN ?_.
+Anyway_RB ,_, follow_VB these_DT links_NNS for_IN reviews_NNS of_IN this_DT book_NN :_: http:\/\/www.thetruthseeker.co.uk\/print.asp?ID=1904_NNP http:\/\/www.bookmasters.com\/clarity\/b0025.htm_CD Maybe_RB buy_VB it_PRP ?_.
+I_PRP do_VBP n't_RB know_VB ,_, perhaps_RB something_NN more_RBR potent_JJ than_IN yellow_JJ ribbons_NNS is_VBZ in_IN order_NN ._.
+Maybe_RB we_PRP should_MD n't_RB commit_VB ourselves_PRP to_TO a_DT war_NN if_IN we_PRP are_VBP not_RB willing_JJ to_TO support_VB those_DT who_WP we_PRP send_VBP to_TO fight_VB it_PRP ?_.
+At_IN this_DT point_NN ,_, we_PRP probably_RB all_DT know_VBP someone_NN who_WP is_VBZ in_IN ,_, is_VBZ going_VBG ,_, or_CC might_MD go_VB to_TO Iraq_NNP ._.
+Are_VBP these_DT people_NNS disposable_JJ to_TO you_PRP ?_.
+Okay_UH ,_, so_RB maybe_RB I_PRP have_VBP to_TO post_VB a_DT new_JJ ``_`` entry_NN ''_'' in_IN order_NN to_TO get_VB this_DT whole_JJ comments_NNS ability_NN to_TO show_VB up_RP ?_.
+Trail_NN ,_, probably_RB intent_NN on_IN food_NN somwhere_NN off_IN to_TO the_DT left_NN ._.
+and_CC I_PRP -LRB-_-LRB- apparently_RB gripping_VBG the_DT saddle_NN horn_NN for_IN dear_RB life_NN -RRB-_-RRB- ._.
+Today_NN was_VBD quite_RB an_DT exciting_JJ day_NN ._.
+It_PRP started_VBD off_RP fairly_RB ho-hum_JJ with_IN some_DT lawn_NN mowing_NN and_CC car_NN washing_VBG ,_, but_CC quickly_RB ramped_VBD up_RP when_WRB I_PRP donned_VBD a_DT pair_NN of_IN wranglers_NNS -LRB-_-LRB- YES_NNP ._. ._.
+REALLY_RB ._. ._.
+and_CC in_IN 100_CD degree_NN weather_NN none_NN the_DT less_JJR -RRB-_-RRB- and_CC went_VBD for_IN a_DT little_JJ bit_NN of_IN a_DT horse_NN ride_NN !_.
+I_PRP am_VBP not_RB what_WP you_PRP would_MD call_VB an_DT oeexperienced_JJ rider_NN ''_'' by_IN any_DT means_NNS ,_, having_VBG only_RB ridden_JJ three_CD or_CC four_CD times_NNS in_IN my_PRP$ life_NN ,_, so_IN it_PRP was_VBD a_DT bit_NN of_IN an_DT adventure_NN -LRB-_-LRB- and_CC Kendra_NNP got_VBD a_DT few_JJ good_JJ laughs_NNS on_IN a_DT number_NN of_IN occasions_NNS -RRB-_-RRB- ._.
+None_NN the_DT less_RBR ,_, it_PRP was_VBD quite_RB a_DT lot_NN of_IN fun_NN ,_, especially_RB the_DT whole_JJ cantering_NN thing_NN which_WDT is_VBZ as_IN fast_RB as_IN I_PRP 've_VBP ever_RB gone_VBN on_IN a_DT horse_NN before_IN ._.
+The_DT horse_NN I_PRP rode_VBD is_VBZ named_VBN Trail_NNP ._.
+His_PRP$ primary_JJ joys_NNS in_IN life_NN seem_VBP to_TO consist_VB of_IN eating_VBG weeds_NNS -LRB-_-LRB- he_PRP needs_VBZ a_DT bumper_NN sticker_NN which_WDT says_VBZ I_PRP BRAKE_VBP FOR_IN PLANTS_NNS -RRB-_-RRB- and_CC leisure_NN ._.
+Partly_RB because_IN of_IN this_DT ,_, and_CC probably_RB partly_RB because_IN of_IN my_PRP$ lack_NN of_IN experience_NN ,_, he_PRP got_VBD a_DT bit_NN uppity_NN about_IN the_DT whole_JJ riding_VBG business_NN on_IN occasion_NN and_CC did_VBD some_DT little_JJ jump_NN things_NNS which_WDT I_PRP guess_VBP are_VBP called_VBN ``_`` crow-hops_NNS ''_'' ._.
+These_DT were_VBD a_DT little_JJ scary_JJ ,_, but_CC quite_RB exciting_JJ ,_, and_CC other_JJ than_IN this_DT he_PRP was_VBD very_RB nice_JJ ,_, if_IN a_DT bit_NN lacking_VBG in_IN the_DT enthusiasm_NN department_NN ._.
+It_PRP quickly_RB became_VBD obvious_JJ to_TO me_PRP that_IN I_PRP need_VBP to_TO learn_VB how_WRB to_TO sit_VB a_DT horse_NN properly_RB however_RB ._.
+Certain_JJ bones_NNS in_IN my_PRP$ less_JJR than_IN amply-padded-butt_JJ seem_VBP to_TO have_VB taken_VBN their_PRP$ fair_JJ share_NN of_IN beating_NN ,_, strange_JJ muscles_NNS in_IN my_PRP$ legs_NNS are_VBP sore_JJ ,_, and_CC on_IN a_DT couple_NN of_IN occasions_NNS -LRB-_-LRB- usually_RB during_IN that_DT trotting_VBG part_NN -RRB-_-RRB- I_PRP seriously_RB wondered_VBD how_WRB real_JJ cowboys_NNS manage_VBP to_TO further_VB the_DT species_NNS ..._: A_DT couple_NN of_IN times_NNS I_PRP did_VBD sort_NN of_IN get_VB into_IN the_DT rhythm_NN and_CC things_NNS went_VBD much_RB more_JJR smoothly_RB ,_, so_IN I_PRP suspect_VBP that_IN practice_NN is_VBZ probably_RB a_DT key_JJ factor_NN here_RB ._.
+Anyway_RB ,_, Kendra_NNP was_VBD nice_JJ enough_JJ to_TO get_VB photographic_JJ evidence_NN of_IN this_DT adventure_NN -LRB-_-LRB- see_VB above_IN -RRB-_-RRB- ,_, so_RB here_RB is_VBZ a_DT really_RB big_JJ THANKS_NNS to_TO her_PRP$ for_IN that_DT ,_, and_CC for_IN an_DT exciting_JJ afternoon_NN !_.
+:_: -RRB-_-RRB- Although_IN they_PRP are_VBP more_RBR or_CC less_RBR the_DT spawn_VBP of_IN Satan_NNP ,_, as_IN the_DT Bowling_NNP for_IN Columbine_NNP documentary_NN points_VBZ out_RP ,_, Lockeed_NNP Martin_NNP is_VBZ apparently_RB gearing_VBG up_RP to_TO be_VB the_DT Linux_NNP using_VBG spawn_VB of_IN Satan_NNP ._.
+I_PRP guess_VBP even_RB they_PRP ca_MD n't_RB pass_VB up_RP free_JJ software_NN ._.
+In_IN other_JJ news_NN ,_, last_JJ night_NN was_VBD wonderful_JJ for_IN a_DT little_JJ jog_NN ,_, with_IN a_DT big_JJ full_JJ moon_NN ,_, and_CC temperatures_NNS in_IN the_DT mid_JJ 70_CD 's_POS !_.
+Unfortunately_RB the_DT Caldwell_NNP Natives_NNPS were_VBD out_RB in_IN force_NN ._.
+One_CD car_NN full_JJ of_IN them_PRP even_RB managed_VBD to_TO pool_VB their_PRP$ intelligence_NN enough_RB to_TO come_VB up_RP with_IN ``_`` run_VB forest_NN run_NN ''_'' which_WDT they_PRP hurled_VBD out_IN of_IN their_PRP$ window_NN at_IN me_PRP ._.
+About_IN 3\/4_CD a_DT mile_NN later_RB I_PRP got_VBD harassed_VBN by_IN a_DT pack_NN of_IN un-chained_JJ ,_, un-fenced_JJ dogs_NNS ,_, so_IN I_PRP went_VBD home_NN ._.
+I_PRP still_RB have_VBP n't_RB decided_VBN which_WDT group_NN was_VBD more_RBR intelligent_JJ ,_, but_CC I_PRP 'm_VBP leaning_VBG towards_IN the_DT dogs_NNS ._.
+p.s._NN ._.
+If_IN anyone_NN can_MD explain_VB why_WRB Idaho_NNP hicks_VBZ dislike_NN joggers_NNS and_CC bicyclists_NNS so_RB much_RB that_WDT would_MD be_VB great_JJ ._.
+10:01_CD P.M._NN -_: Well_UH ,_, I_PRP 'm_VBP back_RB at_IN work_NN again_RB ._.
+The_DT time_NN has_VBZ come_VBN for_IN the_DT final_JJ live_JJ test_NN of_IN the_DT inventory_NN beast_NN ._.
+10:24_CD P.M._NN -_: Problems_NNS ._.
+There_EX is_VBZ no_DT DISK_NN there_RB ,_, it_PRP is_VBZ always_RB the_DT LOWEST_NNP and_CC most_JJS downright_RB repugnant_NN of_IN technology_NN that_IN gets_VBZ us_PRP in_IN the_DT end_NN ._.
+So_RB ,_, I_PRP 'm_VBP going_VBG on_IN a_DT Mission_NNP From_IN Gawd_NNP -LRB-_-LRB- ala_NN Blues_NNP Brothers_NNPS -RRB-_-RRB- to_TO get_VB the_DT data_NNS from_IN a_DT contact_NN in_IN Boise_NNP ..._: 1:21_CD A.M._NN -_: The_DT mission_NN was_VBD a_DT success_NN ,_, after_IN approximately_RB 60_CD high_JJ speed_NN minutes_NNS on_IN the_DT interstate_NN ,_, and_CC a_DT few_JJ tense_JJ moments_NNS copying_VBG the_DT file_NN to_TO a_DT laptop_NN for_IN backup_NN ,_, I_PRP am_VBP now_RB waiting_VBG while_IN my_PRP$ python_NN script_NN crunches_VBZ the_DT data_NNS ._.
+The_DT first_JJ three_CD items_NNS went_VBD through_IN perfectly_RB ,_, and_CC so_RB far_RB everything_NN looks_VBZ to_TO be_VB going_VBG wonderfully_RB ._.
+-LRB-_-LRB- touch_NN wood_NN -RRB-_-RRB- 2:38_CD A.M._NN -_: Some_DT minor_JJ bugs_NNS in_IN the_DT code_NN cause_VB some_DT delays_NNS ,_, and_CC lots_NNS of_IN careful_JJ checking_NN at_IN each_DT step_NN caused_VBD some_DT more_RBR ,_, but_CC it_PRP looks_VBZ like_IN everything_NN went_VBD pretty_RB smoothly_RB ._.
+3:20_CD A.M._NNP -_: Upon_IN reaching_VBG the_DT old_JJ homestead_NN ,_, I_PRP found_VBD that_IN my_PRP$ roomate_NN was_VBD still_RB up_RB ,_, and_CC not_RB feeling_VBG well_RB in_IN the_DT stomach_NN ._.
+Her_PRP$ supply_NN of_IN pepto_NN had_VBD been_VBN exhausted_VBN however_RB ,_, so_RB ,_, being_VBG the_DT nice_JJ guy_NN that_IN I_PRP apparently_RB am_VBP ,_, I_PRP was_VBD off_RB on_IN yet_RB another_DT Mission_NNP From_IN Gawd_NNP ,_, this_DT time_NN to_TO Walmart_NNP ._.
+Having_VBG made_VBN it_PRP back_RB safely_RB ,_, I_PRP think_VBP I_PRP will_MD try_VB and_CC find_VB out_RP how_WRB deep_JJ the_DT bottom_NN of_IN sleep_NN is_VBZ ._.
+12:58_CD P.M._NN -LRB-_-LRB- the_DT next_JJ day_NN -RRB-_-RRB- -_: I_PRP got_VBD a_DT call_NN this_DT morning_NN at_IN 8_CD A.M._NN saying_VBG that_IN things_NNS were_VBD ready_JJ for_IN the_DT next_JJ major_JJ step_NN in_IN processing_NN ,_, so_RB with_IN 4.5_CD hours_NNS of_IN sleep_NN and_CC some_DT coffee_NN con_NN leche_NN in_IN me_PRP I_PRP headed_VBD back_RB for_IN another_DT 3_CD hours_NNS of_IN going_VBG through_IN code_NN and_CC data_NNS with_IN a_DT fine_JJ toothed_JJ comb_NN ._.
+As_IN it_PRP turns_VBZ out_RP there_EX were_VBD a_DT few_JJ small_JJ bugs_NNS ,_, and_CC one_CD major_JJ one_CD caused_VBN by_IN a_DT set_NN of_IN circumstances_NNS I_PRP had_VBD n't_RB predicted_VBN which_WDT necessitated_VBD a_DT little_JJ last_JJ minute_JJ programming_NN ._.
+Such_JJ is_VBZ life_NN ._.
+On_IN the_DT upside_NN ,_, all_DT of_IN the_DT data_NNS looks_VBZ very_RB good_JJ now_RB and_CC has_VBZ made_VBN it_PRP to_TO its_PRP$ final_JJ resting_VBG place_NN ,_, and_CC so_IN the_DT first_JJ live_JJ test_NN has_VBZ been_VBN labeled_VBN a_DT success_NN ._.
+Needless_JJ to_TO say_VB ,_, I_PRP 'm_VBP going_VBG home_NN a_DT bit_NN early_JJ for_IN a_DT nice_JJ long_JJ nap_NN in_IN an_DT hour_NN or_CC so_RB !_.
+Then_RB it_PRP is_VBZ lawn_NN mowing_NN time_NN and_CC after_IN that_DT I_PRP am_VBP busting_VBG out_RP the_DT old_JJ air-compressor_NN and_CC doing_VBG some_DT major_JJ computer_NN cleaning_NN -LRB-_-LRB- so_RB besides_IN other_JJ clean_JJ systems_NNS ,_, there_EX will_MD be_VB a_DT nice_JJ shinny_NN pile_NN of_IN parts_NNS waiting_VBG to_TO be_VB assembled_VBN into_IN a_DT Linux_NNP machine_NN by_IN the_DT end_NN of_IN the_DT night_NN -RRB-_-RRB- ._.
+Well_RB ,_, after_IN almost_RB two_CD months_NNS -LRB-_-LRB- 6-7-2004_CD until_IN today_NN -RRB-_-RRB- of_IN pretty_RB solid_JJ development_NN ,_, ending_VBG in_IN a_DT mad_JJ two_CD week_NN rush_NN of_IN carrot_NN stick_NN eating_NN and_CC programming_NN ._.
+The_DT huge_JJ new_JJ inventory_NN maintenance_NN and_CC processing_NN system_NN which_WDT I_PRP more_RBR or_CC less_RBR masterminded_JJ and_CC programmed_VBN with_IN the_DT other_JJ two_CD guys_NNS here_RB at_IN work_NN has_VBZ passed_VBN initial_JJ tests_NNS ,_, and_CC is_VBZ ready_JJ for_IN prime_JJ time_NN tonight_NN !_.
+Parts_NNS of_IN it_PRP are_VBP written_VBN in_IN 5_CD different_JJ languages_NNS -LRB-_-LRB- c_NN +_NN +_NN ,_, python_NN ,_, delphi_NN ,_, java_NN ,_, and_CC php_NN -RRB-_-RRB- ._.
+It_PRP ties_VBZ together_RB data_NNS entry_NN via_IN pc_NN and_CC wireless_JJ scanner_NN gun_NN in_IN a_DT mysql_NN database_NN running_VBG on_IN a_DT Linux_NNP server_NN with_IN web_NN reports_NNS served_VBN by_IN Apache_NNP and_CC php_NN ,_, data_NNS processing_NN ,_, and_CC finally_RB import_NN into_IN an_DT IBM_NNP AS400_NNP mainframe_NN ._.
+There_EX are_VBP a_DT few_JJ areas_NNS for_IN improvement_NN of_IN course_NN ,_, and_CC some_DT parts_NNS will_MD need_VB to_TO be_VB reworked_VBN as_IN we_PRP get_VBP feedback_RB from_IN users_NNS ,_, but_CC HOT_NNP DAWG_NNP it_PRP is_VBZ good_JJ to_TO finally_RB get_VB to_TO a_DT stopping_VBG point_NN ._.
+Until_IN then_RB ,_, this_DT will_MD have_VB to_TO do_VB however_RB -LRB-_-LRB- do_VBP n't_RB pay_VB any_DT attention_NN to_TO the_DT banana_NN ,_, it_PRP was_VBD all_DT I_PRP could_MD find_VB at_IN the_DT time_NN -RRB-_-RRB- ._.
+6:01_CD pm_SYM -_: Okay_UH ,_, so_IN I_PRP just_RB saw_VBD the_DT first_JJ 11_CD minutes_NNS of_IN Blues_NNP Brothers_NNPS ..._: and_CC WOW_NNP ._.
+I_PRP have_VBP very_RB little_JJ doubt_NN that_IN this_DT movie_NN rocks_NNS ._.
+8:24_CD pm_SYM -_: Nearly_RB 2.5_CD hours_NNS of_IN my_PRP$ life_NN later_RB ,_, and_CC has_VBZ my_PRP$ estimate_NN of_IN Blues_NNP Brothers_NNPS changed_VBD ?_.
+Not_RB drastically_RB ._.
+I_PRP was_VBD a_DT bit_NN nervous_JJ when_WRB Pricess_NNP Leia_NNP started_VBD shooting_VBG at_IN them_PRP with_IN a_DT rocket_NN launcher_NN ,_, but_CC they_PRP took_VBD it_PRP in_IN stride_NN ,_, so_IN I_PRP figured_VBD ,_, why_WRB should_MD n't_RB I_PRP ?_.
+This_DT movie_NN is_VBZ certainly_RB packed_VBN with_IN big_JJ names_NNS ,_, good_JJ music_NN ,_, and_CC plenty_NN of_IN old-school_JJ car_NN chase_NN action_NN ._.
+It_PRP is_VBZ like_IN Grand_NNP Theft_NN Auto_NN -_: Vice_NNP City_NNP ,_, when_WRB you_PRP have_VBP 5_CD stars_NNS and_CC things_NNS are_VBP getting_VBG REALLY_RB serious_JJ except_IN it_PRP is_VBZ in_IN Chicago_NNP ._.
+Staying_VBG cool_JJ and_CC being_VBG able_JJ to_TO sleep_VB through_IN a_DT night_NN long_JJ car_NN chase_NN with_IN 40_CD cops_NNS on_IN one_NN 's_POS tail_NN seems_VBZ to_TO be_VB the_DT ticket_NN however_RB ._.
+I_PRP NEED_VBD to_TO find_VB ``_`` Boots_NNP ,_, black_JJ ._.
+Belt_NNP ,_, black_JJ ._.
+One_CD black_JJ suit_NN jacket_NN ._.
+One_CD pair_NN of_IN black_JJ suit_NN pants_NNS ._.
+One_CD hat_NN ,_, black_JJ ._.
+One_CD pair_NN of_IN sunglasses_NNS ._.
+Twenty_CD three_CD dollars_NNS and_CC seven_CD cents_NNS ._. ''_''
+Yes_UH ,_, the_DT Carnies_NNPS are_VBP back_RB ._.
+I_PRP 've_VBP taken_VBN to_TO wearing_VBG all_DT dark_JJ colors_NNS when_WRB running_VBG ._.
+You_PRP see_VBP ,_, in_IN Caldwell_NNP ,_, if_IN they_PRP see_VBP you_PRP they_PRP try_VBP to_TO hit_VB you_PRP ,_, so_IN it_PRP is_VBZ better_RBR NOT_RB to_TO be_VB seen_VBN by_IN traffic_NN ._.
+Tonight_NNP was_VBD a_DT good_JJ night_NN for_IN running_VBG ,_, with_IN the_DT big_JJ moon_NN and_CC clear_JJ skies_NNS ,_, BUT_NNP !_.
+carnies_NNS have_VBP invaded_VBN Cladwell_NNP once_RB again_RB !_.
+Yes_UH ,_, the_DT chicken_NN geeking_NN ,_, feats_NNS of_IN strength_NN and_CC other_JJ such_JJ dark_JJ corners_NNS of_IN the_DT human_JJ experience_NN will_MD once_RB again_RB unfold_VB mere_JJ meters_NNS from_IN the_DT sanctity_NN of_IN my_PRP$ own_JJ home_NN ._.
+I_PRP will_MD try_VB to_TO get_VB pictures_NNS when_WRB I_PRP ride_VBP into_IN work_NN tommorow_NN ._.
+In_IN the_DT meantime_NN I_PRP suggest_VBP that_IN everyone_NN pick_VBP up_RP a_DT copy_NN of_IN Katherine_NNP Dunn_NNP 's_POS wonderful_JJ book_NN Geek_NNP Love_NNP in_IN order_NN to_TO get_VB some_DT idea_NN of_IN what_WP to_TO expect_VB ._.
+Fixings_NNS for_IN fajitas_NNS ._.
+Fajitas_NNS are_VBP one_CD of_IN my_PRP$ more_JJR favorite_JJ foods_NNS ,_, and_CC now_RB is_VBZ the_DT best_JJS time_NN to_TO make_VB them_PRP ._.
+I_PRP start_VBP with_IN a_DT packet_NN of_IN fajita_NN seasoning_NN ,_, mix_NN it_PRP with_IN some_DT oil_NN and_CC a_DT little_JJ water_NN ,_, and_CC then_RB put_VBD a_DT sliced_VBN up_RP steak_NN in_IN this_DT mixture_NN to_TO soak_VB ._.
+Meanwhile_RB I_PRP slice_VBP up_RP tomatoes_NNS ,_, a_DT jalapeño_NN ,_, a_DT big_JJ onion_NN and_CC lots_NNS of_IN peppers_NNS -LRB-_-LRB- green_JJ ,_, yellow_JJ or_CC red_JJ -RRB-_-RRB- ._.
+I_PRP start_VBP the_DT onion_NN and_CC jalapeño_NN frying_NN first_RB so_RB that_IN their_PRP$ taste_NN will_MD be_VB less_RBR strong_JJ ,_, and_CC then_RB add_VB the_DT peppers_NNS ._.
+Once_RB these_DT have_VBP cooked_VBN for_IN a_DT bit_NN I_PRP add_VBP the_DT meat_NN and_CC tomatoes_NNS ._.
+It_PRP is_VBZ best_RB to_TO add_VB the_DT meat_NN later_RB so_RB that_IN it_PRP does_VBZ n't_RB get_VB overcooked_VBN ._.
+Finally_RB I_PRP put_VBD the_DT mushrooms_NNS on_IN ,_, and_CC when_WRB they_PRP look_VBP done_VBN it_PRP is_VBZ ready_JJ to_TO eat_VB !_.
+I_PRP looked_VBD in_IN the_DT mailbox_NN the_DT other_JJ day_NN ,_, and_CC much_RB to_TO my_PRP$ surprise_NN ,_, there_EX was_VBD a_DT REAL_JJ letter_NN in_IN there_RB -LRB-_-LRB- usually_RB bills_NNS are_VBP the_DT most_RBS exciting_JJ thing_NN which_WDT come_VBP in_IN the_DT mail_NN -RRB-_-RRB- ._.
+Even_RB better_JJR ,_, the_DT letter_NN had_VBD stamps_NNS which_WDT said_VBD Mexico_NNP ,_, and_CC a_DT postmark_NN which_WDT said_VBD Cuernavaca_NNP !_.
+Inside_IN I_PRP found_VBD a_DT birthday_NN card_NN ,_, a_DT ``_`` Sinceramente_NNP Hallmark_NNP ''_'' birthday_NN card_NN ._.
+Now_RB to_TO head_VB off_RP any_DT confusion_NN ,_, my_PRP$ birthday_NN WAS_NNP in_IN fact_NN a_DT number_NN of_IN months_NNS ago_RB ,_, and_CC apparently_RB that_DT is_VBZ when_WRB this_DT card_NN was_VBD mailed_VBN ._.
+The_DT postal_JJ service_NN between_IN here_RB and_CC Mexico_NNP is_VBZ not_RB terribly_RB prompt_JJ however_RB and_CC it_PRP seems_VBZ that_IN my_PRP$ card_NN had_VBD been_VBN sitting_VBG in_IN the_DT Cuernavaca_NNP post_NN station_NN until_IN they_PRP finally_RB shipped_VBD it_PRP out_RP on_IN the_DT 7th_NN of_IN July_NNP ._.
+Despite_IN all_DT that_DT ,_, I_PRP was_VBD grinning_VBG like_IN the_DT Cheshire_NNP cat_NN when_WRB I_PRP opened_VBD the_DT card_NN ._.
+It_PRP came_VBD from_IN a_DT cool_JJ girl_NN I_PRP met_VBD in_IN Mexico_NNP named_VBD Nina_NNP ._.
+She_PRP is_VBZ a_DT chef_NN from_IN Norway_NNP and_CC taught_VBD me_PRP a_DT wonderful_JJ recipe_NN for_IN salmon_NN ._.
+I_PRP like_VBP cooking_VBG a_DT lot_NN ,_, but_CC even_RB better_RBR is_VBZ learning_VBG new_JJ tricks_NNS from_IN someone_NN who_WP knows_VBZ how_WRB to_TO cook_VB well_RB ,_, so_RB cooking_JJ with_IN Nina_NNP was_VBD quite_RB a_DT treat_NN ._.
+Here_RB is_VBZ the_DT salmon_NN recipe_NN :_: It_PRP is_VBZ best_RB to_TO start_VB with_IN the_DT sauce_NN because_IN it_PRP takes_VBZ a_DT long_JJ time_NN to_TO simmer_VB ._.
+It_PRP is_VBZ very_RB simple_JJ to_TO make_VB ,_, just_RB put_VBD some_DT cream_NN -LRB-_-LRB- of_IN about_IN whipping_JJ cream_NN thickness_NN -RRB-_-RRB- into_IN a_DT smallish_JJ sauce-pan_NN ._.
+Stir_VB in_IN dijon_NN mustard_NN -LRB-_-LRB- I_PRP use_VBP the_DT normal_JJ kind_NN ,_, but_CC the_DT honey_NN type_NN might_MD be_VB good_JJ too_RB ?_. -RRB-_-RRB-
+until_IN the_DT mixture_NN turns_VBZ a_DT little_JJ yellow_JJ ._.
+Heat_NNP it_PRP until_IN it_PRP is_VBZ boiling_VBG a_DT little_JJ bit_NN ,_, and_CC keep_VB adding_VBG mustard_NN if_IN it_PRP is_VBZ n't_RB as_RB strong_JJ as_IN you_PRP 'd_MD like_VB it_PRP ._.
+Adding_VBG some_DT sugar_NN is_VBZ also_RB not_RB a_DT bad_JJ idea_NN ._.
+When_WRB the_DT sauce_NN has_VBZ boiled_VBN down_RP to_TO the_DT point_NN that_IN it_PRP is_VBZ sort_NN of_IN thick_JJ ,_, especially_RB if_IN allowed_VBN to_TO cool_VB in_IN a_DT spoon_NN ,_, it_PRP is_VBZ done_VBN ._.
+Put_VB some_DT dried_VBN dill_NN in_IN it_PRP at_IN the_DT very_JJ end_NN ,_, and_CC maybe_RB half_PDT a_DT cube_NN of_IN fish_NN bullion_NN if_IN you_PRP can_MD find_VB it_PRP ._.
+-LRB-_-LRB- Experimentation_NN and_CC tasting_NN frequently_RB is_VBZ key_JJ here_RB -RRB-_-RRB- ._.
+Once_RB the_DT sauce_NN is_VBZ going_VBG ,_, slice_VB up_RP an_DT onion_NN or_CC two_CD ,_, and_CC maybe_RB some_DT garlic_JJ etc._NN ._.
+Put_VB these_DT in_IN a_DT big_JJ pot_NN full_JJ of_IN water_NN ,_, and_CC add_VB a_DT few_JJ fish_NN bullion_NN cubes_NNS -LRB-_-LRB- maybe_RB impossible_JJ to_TO get_VB in_IN Idaho_NNP ,_, so_IN I_PRP use_VBP vegetable_NN ones_NNS instead_RB -RRB-_-RRB- ._.
+Bring_VBG this_DT to_TO a_DT boil_NN ,_, and_CC meanwhile_RB cut_VB your_PRP$ fillet_NN of_IN salmon_NN into_IN nice_JJ serving_VBG sized_VBN steaks_NNS -LRB-_-LRB- wash_VB it_PRP well_RB ,_, but_CC leave_VBP the_DT scales_NNS on_IN -RRB-_-RRB- ._.
+Once_RB the_DT water_NN is_VBZ boiling_VBG turn_VB the_DT heat_NN off_RP -LRB-_-LRB- yes_UH I_PRP 'm_VBP sure_JJ -RRB-_-RRB- ,_, and_CC dump_VB the_DT steaks_NNS in_IN ._.
+They_PRP will_MD cook_VB quite_RB quickly_RB in_IN the_DT hot_JJ water_NN ,_, so_RB check_VB them_PRP every_DT few_JJ minutes_NNS ._.
+Once_RB they_PRP split_VBD very_RB easily_RB with_IN a_DT fork_NN they_PRP are_VBP done_VBN ._.
+Do_VBP n't_RB overcook_VB them_PRP or_CC they_PRP will_MD flake_VB apart_RB and_CC you_PRP will_MD have_VB fish_NN soup_NN ._.
+Serve_VB the_DT fish_NN and_CC the_DT sauce_NN with_IN a_DT nice_JJ salad_NN and_CC some_DT noodles_NNS ._.
+For_IN those_DT extra-special_JJ occasions_NNS a_DT bottle_NN of_IN wine_NN goes_VBZ well_RB with_IN this_DT combination_NN ._.
+Of_IN course_NN ,_, we_PRP had_VBD it_PRP with_IN copious_JJ amount_NN of_IN chips_NNS and_CC home-made-guacamole_NN in_IN Mexico_NNP ;_: -RRB-_-RRB- Viva_FW el_FW aguacate_FW ,_, ajo_NN y_NN cebolla_NN !_.
+OOOOH_NNP !!_CD I_PRP found_VBD a_DT cool_JJ new_JJ theme_NN for_IN Firefox_NNP called_VBD NOIA_NNP ._.
+It_PRP is_VBZ all_DT snazzy_JJ and_CC shinny_JJ ,_, you_PRP can_MD get_VB your_PRP$ own_JJ here_RB ._.
+I_PRP guess_VBP I_PRP better_RBR start_VB packing_VBG a_DT can_NN of_IN mace_NN ,_, and_CC a_DT cell_NN phone_NN on_IN my_PRP$ evening_NN runs_VBZ ._.
+Tonight_NNP a_DT big_JJ black_JJ shinny_NN SUV_NNP and_CC a_DT smaller_JJR white_JJ car_NN where_WRB clandestinly_RB parked_VBN window_NN to_TO window_NN in_IN the_DT darkest_JJS ,_, most_RBS remote_JJ section_NN of_IN my_PRP$ usual_JJ route_NN ._.
+Maybe_RB it_PRP was_VBD just_RB a_DT happy_JJ couple_NN meeting_NN for_IN a_DT late_JJ night_NN chat_VBP ,_, but_CC I_PRP certainly_RB ran_VBD quietly_RB ,_, and_CC with_IN heart_NN all_PDT a_DT flutter_NN as_IN I_PRP passed_VBD them_PRP in_IN the_DT dark_NN ._.
+I_PRP really_RB wish_VBP Caldwell_NNP would_MD invest_VB in_IN some_DT decently_RB lighted_VBN biking_NN and_CC jogging_NN paths_NNS ._.
+Oh_UH well_UH ,_, I_PRP guess_VBP it_PRP 's_VBZ better_JJR to_TO die_VB of_IN gang_NN violence_NN than_IN heart_NN disease_NN ..._: Right_NNP ?_.
+Interestingly_RB I_PRP had_VBD a_DT run_NN in_IN with_IN the_DT other_JJ end_NN of_IN the_DT spectrum_NN on_IN my_PRP$ way_NN back_RB from_IN New_NNP Meadows_NNP last_JJ Saturday_NNP ._.
+I_PRP was_VBD following_VBG a_DT big_JJ shinny_NN blue_JJ pickup_NN down_IN out_IN of_IN the_DT mountains_NNS ,_, listening_VBG to_TO Led_VBN Zeppelin_NNP ,_, and_CC not_RB paying_VBG attention_NN to_TO my_PRP$ speed_NN when_WRB the_DT pickup_NN and_CC I_PRP passed_VBD a_DT police_NN officer_NN going_VBG the_DT other_JJ way_NN ._.
+In_IN my_PRP$ rearview_NN mirror_NN I_PRP saw_VBD him_PRP brake_VB and_CC come_VB about_RB ._.
+Looking_VBG down_RP saw_NN that_IN I_PRP was_VBD going_VBG about_RB 65_CD ._.
+After_IN pulling_VBG me_PRP over_IN ,_, the_DT officer_NN explained_VBD to_TO me_PRP that_IN the_DT speed_NN limit_NN stayed_VBD at_IN 55_CD until_IN I_PRP got_VBD to_TO the_DT other_JJ side_NN of_IN Cambridge_NNP ,_, and_CC then_RB changed_VBD 65_CD ._.
+Nuts_NNS I_PRP thought_VBD ,_, my_PRP$ first_JJ speeding_NN ticket_NN after_IN 7_CD or_CC so_RB years_NNS of_IN getting_VBG away_RP with_IN all_DT manner_NN of_IN moderate_JJ speeding_VBG !_.
+He_PRP then_RB went_VBD on_IN to_TO explain_VB that_IN he_PRP was_VBD going_VBG to_TO turn_VB the_DT drug_NN dog_NN loose_RB on_IN my_PRP$ car_NN ,_, and_CC that_IN it_PRP would_MD ``_`` throw_VB itself_PRP against_IN the_DT car_NN if_IN it_PRP found_VBD something_NN ''_'' but_CC not_RB to_TO worry_VB because_IN that_DT just_RB meant_VBN he_PRP could_MD then_RB search_VB the_DT car_NN ._.
+To_TO further_RBR increase_VB the_DT pressure_NN ,_, he_PRP told_VBD me_PRP that_IN if_IN I_PRP admitted_VBD to_TO carrying_VBG anything_NN before_IN he_PRP turned_VBD the_DT dog_NN loose_RB he_PRP promised_VBD to_TO give_VB me_PRP the_DT mildest_JJS citation_NN possible_JJ ._.
+To_TO admit_VB ,_, and_CC keep_VB the_DT dog_NN off_RP ,_, apparently_RB I_PRP had_VBD to_TO stick_VB my_PRP$ arm_NN out_IN the_DT window_NN and_CC wave_NN while_IN he_PRP was_VBD filling_VBG out_RP paperwork_NN ._.
+I_PRP kept_VBD my_PRP$ arms_NNS firmly_RB in_IN the_DT vehicle_NN ,_, and_CC when_WRB he_PRP came_VBD back_RB he_PRP asked_VBD if_IN I_PRP 'd_MD thought_VBN about_IN his_PRP$ question_NN ._.
+I_PRP told_VBD him_PRP I_PRP did_VBD not_RB have_VB anything_NN like_IN THAT_WDT in_IN my_PRP$ car_NN ,_, and_CC he_PRP sent_VBD me_PRP on_IN my_PRP$ way_NN ._.
+No_DT dog_NN ,_, no_DT ticket_NN ,_, hardly_RB even_RB a_DT warning_NN ._.
+I_PRP think_VBP he_PRP was_VBD wishing_VBG he_PRP would_MD have_VB gone_VBN after_IN the_DT blue_JJ pickup_NN ._.
+In_IN more_JJR cheerful_JJ news_NN ,_, according_VBG to_TO this_DT set_NN of_IN benchmarks_NNS my_PRP$ computer_NN will_MD play_VB DOOM3_CD !!!_CD This_DT game_NN is_VBZ so_RB freaking_JJ cool_NN and_CC scary_JJ that_IN I_PRP hardly_RB dare_VBP visit_VB it_PRP 's_VBZ web_NN site_NN at_IN night_NN with_IN my_PRP$ speakers_NNS on_IN ._.
+I_PRP 'm_VBP not_RB sure_JJ whether_IN I_PRP 'm_VBP looking_VBG forward_RB to_TO playing_VBG it_PRP ,_, or_CC dreading_VBG the_DT nightmares_NNS more_RBR ._.
+Oh_UH well_UH ,_, ``_`` Bring_VB it_PRP On_IN ''_'' ,_, ``_`` Hurt_NNP Me_PRP Plenty_NNP ''_'' ,_, ``_`` I_PRP 'm_VBP Death_NNP Incarnate_NNP ''_'' here_RB I_PRP come_VBP -LRB-_-LRB- God_NNP but_CC I_PRP 've_VBP missed_VBN the_DT good_JJ old_JJ fashioned_VBD Doom_NNP carnage_NN ._.
+Ever_RB since_IN I_PRP figured_VBD out_RP that_IN I_PRP could_MD exit_NN windows_NNS 3.1_CD and_CC play_VB Doom_NN 1_CD shareware_NN in_IN DOS_NNP mode_NN on_IN my_PRP$ parents_NNS '_POS 486sx_CD 25mhz_JJ with_IN 4_CD megs_NNS of_IN ram_NN ,_, it_PRP has_VBZ held_VBN a_DT special_JJ place_NN in_IN my_PRP$ heart_NN ._.
+Yes_UH ,_, those_DT were_VBD the_DT days_NNS ._. -RRB-_-RRB-
+Work_NN was_VBD exciting_JJ today_NN ._.
+One_CD of_IN my_PRP$ servers_NNS has_VBZ been_VBN acting_VBG up_RP lately_RB ,_, running_VBG really_RB slowly_RB ,_, having_VBG trouble_NN keeping_VBG up_RP with_IN it_PRP 's_VBZ work_NN load_NN ,_, etc._FW ._.
+Initially_RB I_PRP was_VBD afraid_JJ that_IN it_PRP had_VBD gotten_VBN hacked_VBN and_CC was_VBD doing_VBG bad_JJ things_NNS ,_, but_CC as_IN I_PRP examined_VBD it_PRP ,_, I_PRP realized_VBD that_IN it_PRP was_VBD just_RB getting_VBG flooded_VBN by_IN a_DT constant_JJ deluge_NN of_IN spam_NN !_.
+The_DT poor_JJ old_JJ server_NN was_VBD so_RB busy_JJ bouncing_VBG all_DT of_IN this_DT spam_NN back_RB that_IN it_PRP did_VBD n't_RB have_VB much_JJ time_NN for_IN processing_VBG other_JJ things_NNS ._.
+Each_DT piece_NN of_IN email_NN that_IN comes_VBZ in_IN has_VBZ to_TO pass_VB through_IN a_DT huge_JJ list_NN of_IN filters_NNS which_WDT try_VBP to_TO deny_VB any_DT email_NN that_WDT looks_VBZ suspicious_JJ ._.
+There_EX are_VBP thousands_NNS of_IN entries_NNS to_TO parse_VB through_IN for_IN each_DT email_NN ,_, so_RB when_WRB a_DT spammer_NN dumps_VBZ a_DT huge_JJ load_NN of_IN spam_NN on_IN the_DT server_NN it_PRP has_VBZ to_TO do_VB a_DT lot_NN of_IN processing_NN ._.
+Luckily_RB we_PRP had_VBD a_DT spare_JJ system_NN sitting_VBG around_RP in_IN case_NN of_IN emergency_NN ,_, so_RB now_RB we_PRP 've_VBP upgraded_VBN from_IN 450mhz_CD of_IN spam_NN blocking_VBG power_NN to_TO 1.9_CD ghz_NN ._.
+Hopefully_RB that_DT will_MD be_VB enough_RB for_IN now_RB ,_, but_CC I_PRP imagine_VBP that_IN I_PRP 'll_MD have_VB to_TO look_VB into_IN more_JJR potent_JJ anti-spam_NN measures_NNS in_IN the_DT future_NN ._.
+Apparently_RB black-lists_NNS are_VBP all_PDT the_DT rage_NN ._.
+Another_DT picture_NN from_IN this_DT weekend_NN ._.
+This_DT one_CD was_VBD from_IN MaCall_NNP ._.
+Note_VB that_DT Reuter_NNP is_VBZ already_RB fingering_VBG the_DT chips_NNS with_IN a_DT strange_JJ look_NN in_IN his_PRP$ eye_NN ..._: At_IN about_IN 6am_CD I_PRP woke_VBD to_TO find_VB Reuter_NNP gloating_VBG over_IN his_PRP$ winnings_NNS ._.
+Old_NNP Man_NNP Geeze_NNP moves_VBZ to_TO heavier_JJR weaponry_JJ ._.
+Well_RB ,_, amazingly_RB enough_RB I_PRP made_VBD it_PRP back_RB from_IN Reuter_NNP 's_POS birthday_NN party_NN more_RBR or_CC less_RBR unscathed_JJ ._.
+I_PRP say_VBP amazing_JJ because_IN Reuter_NNP did_VBD manage_VB to_TO dole_VB out_RP two_CD bloody_JJ noses_NNS in_IN the_DT 18_CD or_CC 20_CD hours_NNS that_IN I_PRP was_VBD there_RB ._.
+There_EX is_VBZ one_CD lesson_NN I_PRP learned_VBD well_RB quite_RB some_DT time_NN ago_RB and_CC that_DT is_VBZ that_IN Reuter_NNP is_VBZ a_DT dangerous_JJ animal_NN and_CC not_RB to_TO be_VB approached_VBN lightly_RB ._.
+Plus_CC ,_, I_PRP knew_VBD from_IN the_DT thick_JJ pine_VBP forests_NNS that_IN I_PRP was_VBD in_IN Yetti_NNP country_NN and_CC Reuter_NNP is_VBZ especially_RB wild_JJ when_WRB he_PRP senses_NNS his_PRP$ own_JJ kind_NN nearby_RB ._.
+For_IN these_DT reasons_NNS I_PRP kept_VBD an_DT eye_NN on_IN him_PRP at_IN all_DT times_NNS ._.
+On_IN the_DT home_NN front_NN :_: Apparently_RB the_DT damned_RB varmint_JJ rock-chuck_NN animals_NNS have_VBP been_VBN paying_VBG attention_NN to_TO this_DT whole_JJ duct_NN tape_NN and_CC sheets_NNS of_IN plastic_NN home-land_NN security_NN business_NN because_IN the_DT chemical_NN approach_NN proved_VBD unsuccessful_JJ ._.
+Instead_RB of_IN dying_VBG ,_, they_PRP moved_VBD under_IN the_DT woodshed_VBN ._.
+Old_NNP Man_NNP Geeze_NNP is_VBZ not_RB likely_JJ to_TO let_VB a_DT few_JJ varmints_NNS get_VBP the_DT upper_JJ hand_NN so_RB easily_RB however_RB ,_, and_CC has_VBZ upped_VBN the_DT ante_NN by_IN cleverly_RB placing_VBG a_DT fox_NN trap_NN in_IN the_DT entrance_NN of_IN their_PRP$ hole_NN ._.
+The_DT next_JJ move_NN is_VBZ theirs_JJ ._.
+And_CC as_IN a_DT follow_VB up_RP to_TO the_DT SGI_NNP post_NN :_: Apparently_RB SGI_NNP pretty_RB much_RB agrees_VBZ with_IN me_PRP ,_, as_IN their_PRP$ next_JJ big_JJ project_NN is_VBZ going_VBG to_TO be_VB one_CD Linux_NNP kernel_NN stretched_VBN over_IN 1024_CD processors_NNS and_CC 3TB_NN of_IN RAM_NNP ._.
+This_DT thing_NN is_VBZ mammoth_JJ ,_, has_VBZ enough_JJ memory_NN to_TO put_VB my_PRP$ whole_JJ life_NN in_IN ,_, and_CC has_VBZ to_TO eat_VB power_NN like_IN a_DT small_JJ town_NN ,_, but_CC damn_RB ._.
+WHAT_WDT A_DT MACHINE_NN !_.
+Unfortunately_RB there_EX is_VBZ no_DT time_NN for_IN real_JJ posting_VBG or_CC reading_VBG ,_, but_CC I_PRP am_VBP eyeing_VBG these_DT articles_NNS with_IN great_JJ interest_NN -LRB-_-LRB- and_CC testing_NN this_DT new_JJ ``_`` compose_NN ''_'' thing_NN with_IN a_DT bit_NN of_IN trepidation_NN ..._: -RRB-_-RRB- :_: First_NNP ,_, the_DT Hitchhikers_NNPS Guide_NNP to_TO Biomorphic_NNP Software_NNP talks_VBZ about_IN taking_VBG suggestions_NNS for_IN biological_JJ systems_NNS for_IN software_NN design_NN -LRB-_-LRB- super_JJ cool_JJ stuff_NN in_IN my_PRP$ opinion_NN -RRB-_-RRB- ._.
+Next_JJ ,_, an_DT article_NN about_IN tweaking_NN everyones_NNS favorite_JJ web_NN browser_NN -LRB-_-LRB- Firefox_NNP in_IN case_NN you_PRP forgot_VBD -RRB-_-RRB- ._.
+And_CC finally_RB ,_, an_DT atricle_NN about_IN the_DT groovy_JJ new_JJ software_NN development_NN platform_NN called_VBN Mono_NNP which_WDT is_VBZ being_VBG developed_VBN as_IN a_DT compatible_JJ alternative_NN to_TO Microsoft_NNP 's_POS ._.
+NET_NNP platform_NN ._.
+As_IN far_RB as_IN I_PRP can_MD tell_VB ,_, Mono_NNP will_MD play_VB a_DT MAJOR_NNP role_NN in_IN widespread_JJ Linux_NNP adoption_NN on_IN the_DT desktop_NN in_IN the_DT future_NN ._.
+I_PRP have_VBP already_RB tried_VBN out_IN the_DT Rapid_NNP Application_NNP Development_NNP platform_NN SharpDevelop_NNP which_WDT is_VBZ a_DT GPL_NNP `_`` ed_VBD IDE_NNP for_IN ._.
+NET_NNP ,_, and_CC Mono_NNP ._.
+It_PRP was_VBD pretty_RB snazzy_JJ ._.
+I_PRP 'm_VBP headed_VBN off_RP to_TO observe_VB the_DT Wild_NNP Reuter_NNP in_IN his_PRP$ natural_JJ environment_NN ,_, so_RB if_IN I_PRP never_RB post_VBP again_RB ,_, look_VB for_IN my_PRP$ mutilated_VBN corpse_NN in_IN New_NNP Meadows_NNP ..._: So_IN the_DT other_JJ day_NN I_PRP went_VBD with_IN Arzhang_NNP to_TO visit_VB the_DT SGI_NNP box_NN which_WDT lives_VBZ out_IN it_PRP 's_VBZ lonely_JJ existance_NN at_IN BSU_NNP ._.
+As_IN far_RB as_IN I_PRP can_MD tell_VB ,_, it_PRP pretty_RB much_RB qualifies_VBZ as_IN ``_`` BIG_NNP IRON_NNP ''_'' in_IN the_DT server_NN market_NN ._.
+It_PRP has_VBZ four_CD processors_NNS for_IN God_NNP 's_POS sake_NN ,_, is_VBZ purple_JJ ,_, and_CC has_VBZ SGI_NNP written_VBN on_IN the_DT front_NN ._.
+This_DT should_MD qualify_VB just_RB about_IN any_DT hardware_NN as_IN ``_`` BIG_NNP IRON_NNP ''_'' ._.
+Arzhang_NNP has_VBZ a_DT picture_NN on_IN this_DT page_NN ._.
+Apparently_RB most_JJS of_IN these_DT big_JJ SGI_NNP servers_NNS have_VBP 64bit_VBN MIPS_NNP processors_NNS ,_, which_WDT is_VBZ really_RB cool_JJ because_IN at_IN one_CD point_NN I_PRP knew_VBD the_DT basics_NNS of_IN writing_VBG assembly_NN language_NN code_NN for_IN MIPS_NNP !_.
+-LRB-_-LRB- Hooray_NNP for_IN Dr._NNP J_NNP -RRB-_-RRB- ._.
+They_PRP run_VBP a_DT flavor_NN of_IN Unix_NNP known_VBN as_IN IRIX_NNP ._.
+IRIX_NNP was_VBD originally_RB released_VBN in_IN 1987_CD and_CC has_VBZ apparently_RB evolved_VBN since_IN then_RB ._.
+I_PRP have_VBP had_VBD a_DT few_JJ chances_NNS at_IN dealing_VBG with_IN other_JJ big_JJ corporate_JJ type_NN Unix_NNP based_VBN systems_NNS in_IN the_DT past_JJ but_CC nothing_NN so_RB big_JJ as_IN an_DT SGI_NNP box_NN ,_, so_IN I_PRP was_VBD expecting_VBG quite_RB a_DT lot_NN ._.
+I_PRP have_VBP to_TO say_VB that_IN when_WRB it_PRP comes_VBZ to_TO usability_NN ,_, I_PRP was_VBD not_RB very_RB impressed_JJ however_RB ._.
+For_IN example_NN ,_, the_DT software_NN install_VB and_CC packaging_NN system_NN is_VBZ straight_JJ out_IN of_IN a_DT Douglas_NNP Adams_NNP book_NN ._.
+There_EX is_VBZ no_DT syntax_NN highlighting_VBG when_WRB listing_VBG files_NNS or_CC editing_NN with_IN vi_FW ,_, and_CC to_TO add_VB insult_NN to_TO injury_NN ,_, there_EX is_VBZ no_DT tab_NN completion_NN !_.
+Hardware_NN being_VBG the_DT same_JJ ,_, I_PRP would_MD take_VB a_DT Linux_NNP command_NN prompt_JJ over_IN an_DT Irix_NNP one_CD any_DT day_NN ._.
+The_DT Irix_NNP desktop_NN is_VBZ is_VBZ also_RB a_DT few_JJ years_NNS behind_IN the_DT curve_NN ,_, KDE_NNP and_CC Gnome_NNP make_VBP it_PRP look_VB pretty_RB clunky_JJ ._.
+The_DT difference_NN between_IN the_DT two_CD is_VBZ really_RB quite_RB striking_JJ ._.
+Maybe_RB the_DT old_JJ Unix_NNP geezers_NNS -LRB-_-LRB- and_CC do_VBP n't_RB get_VB me_PRP wrong_JJ ,_, I_PRP have_VBP boat-loads_NNS of_IN respect_NN for_IN them_PRP -RRB-_-RRB- would_MD tell_VB me_PRP to_TO stop_VB my_PRP$ whining_NN because_IN they_PRP used_VBD to_TO have_VB to_TO write_VB 40_CD lines_NNS of_IN code_NN just_RB to_TO copy_VB one_CD file_NN ,_, but_CC good_JJ lord_NN ,_, why_WRB have_VBP n't_RB they_PRP AT_NNP LEAST_NNP written_VBN tab-completion_NN into_IN Irix_NNP ?_.
+It_PRP did_VBD n't_RB seem_VB to_TO work_VB under_IN tcsh_NN or_CC bash_NN !_.
+To_TO put_VB it_PRP more_RBR poetically_RB ,_, Linux_NNP is_VBZ like_IN a_DT young_JJ growing_VBG thing_NN whose_WP$ muscles_NNS bunch_NN and_CC ripple_NN beneath_IN ones_NNS hand_NN ,_, Irix_NNP is_VBZ like_IN a_DT withered_JJ tree_NN in_IN the_DT dead_JJ of_IN winter_NN ,_, lifeless_JJ ._.
+Maybe_RB it_PRP is_VBZ just_RB that_DT Irix_NNP is_VBZ so_RB old_JJ ,_, but_CC my_PRP$ hunch_NN is_VBZ that_IN the_DT difference_NN lies_VBZ in_IN Irix_NNP 's_POS closed-source_JJ nature_NN ._.
+The_DT people_NNS who_WP use_VBP Linux_NNP can_MD also_RB change_VB and_CC improve_VB Linux_NNP ._.
+This_DT insures_VBZ that_IN it_PRP is_VBZ continually_RB evolving_VBG to_TO be_VB better_JJR ,_, faster_RBR and_CC more_RBR streamlined_JJ ._.
+On_IN the_DT other_JJ hand_NN ,_, Irix_NNP is_VBZ reliant_JJ on_IN a_DT few_JJ programers_NNS who_WP are_VBP probably_RB paid_VBN too_RB maintaining_VBG and_CC create_VB hardware_NN drivers_NNS and_CC other_JJ such_JJ system-level_JJ things_NNS ,_, but_CC do_VBP n't_RB get_VB much_JJ time_NN to_TO spend_VB making_VBG the_DT interface_NN snazzy_NN ._.
+Do_VBP n't_RB get_VB me_PRP wrong_JJ here_RB ,_, I_PRP 'm_VBP sure_JJ the_DT big_JJ systems_NNS from_IN SGI_NNP can_MD process_VB data_NNS like_IN mad_JJ ,_, and_CC they_PRP seem_VBP to_TO still_RB have_VB a_DT bit_NN of_IN a_DT niche_NN ,_, but_CC as_IN a_DT lot_NN of_IN the_DT big-name_JJ corporate_JJ software_NN producers_NNS are_VBP finding_VBG ,_, it_PRP is_VBZ hard_JJ to_TO keep_VB up_RP with_IN OpenSource_NNP ._.
+The_DT expense_NN of_IN one_CD of_IN these_DT SGI_NNP boxes_NNS is_VBZ also_RB incredible_JJ ._.
+I_PRP would_MD be_VB quite_RB suprised_VBN if_IN an_DT SGI_NNP box_NN could_MD outperform_VB an_DT equally_RB priced_VBN cluster_NN of_IN Linux_NNP systems_NNS ._.
+After_IN close_JJ to_TO two_CD days_NNS of_IN waiting_VBG for_IN 1and1_CD ._.
+com_NN to_TO fix_VB a_DT horrible_JJ RAID_NNP harddrive_NN corruption_NN ,_, my_PRP$ little_JJ blog_NN is_VBZ back_RB !_.
+HOOORAY_NNP !_.
+I_PRP was_VBD suprised_VBN at_IN how_WRB much_JJ I_PRP missed_VBD the_DT little_JJ guy_NN ._.
+Now_RB I_PRP just_RB have_VBP to_TO try_VB and_CC remember_VB all_DT of_IN the_DT things_NNS I_PRP wanted_VBD to_TO make_VB blog_JJ entries_NNS about_IN ..._: mmm_NN Today_NN marks_NNS another_DT stride_NN towards_IN Linux_NNP World_NNP Domination_NNP as_IN the_DT New_NNP Zealand_NNP stock_NN exchange_NN moves_VBZ their_PRP$ database_NN to_TO Linux_NNP servers_NNS !_.
+Apparently_RB Oracle_NNP has_VBZ produced_VBN a_DT database_NN server_NN which_WDT runs_VBZ on_IN top_NN of_IN a_DT stripped_VBN down_RP Linux_NNP kernel_NN which_WDT performs_VBZ only_RB the_DT basic_JJ functions_NNS that_IN a_DT database_NN server_NN needs_NNS ._.
+Because_IN Linux_NNP is_VBZ open_JJ source_NN ,_, Oracle_NNP was_VBD able_JJ to_TO remove_VB all_DT of_IN the_DT extra_JJ stuff_NN which_WDT one_PRP would_MD n't_RB want_VB on_IN a_DT database_NN server_NN ,_, and_CC do_VB any_DT tweaking_NN they_PRP found_VBD necessary_JJ ._.
+This_DT process_NN leaves_VBZ them_PRP with_IN a_DT lean_JJ mean_NN machine_NN which_WDT apparently_RB is_VBZ very_RB efficient_JJ ,_, cheap_JJ -LRB-_-LRB- they_PRP run_VBP it_PRP on_IN standard_JJ Intel_NNP compatible_JJ hardware_NN like_IN servers_NNS from_IN Dell_NNP -RRB-_-RRB- and_CC of_IN course_NN very_RB stable_JJ -LRB-_-LRB- because_IN it_PRP IS_VBZ stil_NN Linux_NNP -RRB-_-RRB- ._.
+My_PRP$ favorite_JJ quote_NN :_: ``_`` We_PRP went_VBD for_IN Linux_NNP ,_, not_RB just_RB because_IN we_PRP hated_VBD Microsoft_NNP ,_, but_CC because_IN the_DT cost_NN was_VBD compelling_JJ ,_, ''_'' And_CC ..._: another_DT day_NN ,_, another_DT FOUR_NNP Internet_NNP Explorer_NNP security_NN exploits_NNS ._.
+If_IN you_PRP are_VBP still_RB using_VBG IE_NNP by_IN this_DT point_NN you_PRP might_MD want_VB to_TO have_VB your_PRP$ head_NN examined_VBD ._.
+Decided_VBN to_TO give_VB in_IN to_TO peer_VB pressure_NN and_CC test_NN this_DT Hello_UH thing_NN ._.
+It_PRP seems_VBZ that_IN everyone_NN is_VBZ doing_VBG it_PRP ._.
+I_PRP have_VBP to_TO say_VB ,_, it_PRP does_VBZ seem_VB pretty_RB handy_JJ ,_, especially_RB with_IN the_DT whole_JJ resizing_VBG and_CC blogger_NN integration_NN thing_NN ._.
+Apparently_RB my_PRP$ user_NN name_NN is_VBZ Sarcaza_NNP ?_.
+Today_NN was_VBD quite_RB the_DT day_NN ._.
+Large_JJ strides_NNS were_VBD made_VBN towards_IN de-varmitification_NN of_IN both_DT my_PRP$ yard_NN ,_, and_CC that_IN of_IN Old_NNP Man_NNP Geeze_NNP ._.
+I_PRP wait_VBP on_IN pins_NNS and_CC needles_NNS for_IN the_DT sounds_NNS of_IN the_DT foul_JJ roving_NN packs_NNS of_IN wild_JJ dogs_NNS to_TO hit_VB the_DT electric_JJ fence_NN and_CC leave_VB my_PRP$ lawn_NN un-fertilized_JJ ._.
+Har-har-har_NN ._.
+Geeze_NNP on_IN the_DT other_JJ hand_NN has_VBZ opted_VBN for_IN chemical_NN warfare_NN ,_, and_CC the_DT old_JJ Alice_NNP in_IN Wonderland_NNP song_NN oeWe_NNP 'll_MD smoke_VB the_DT monster_NN out_IN !_. ''_''
+comes_VBZ to_TO mind_VB ._.
+Also_RB I_PRP rendered_VBD my_PRP$ first_JJ molecule_NN in_IN Linux_NNP today_NN !!_NN -LRB-_-LRB- All_DT hail_NN the_DT o-great_NN and_CC powerfull_NN Linux_NNP ,_, destroyer_NN of_IN Windows_NNS and_CC humbler_NN of_IN Microsoft_NNP ,_, liberator_NN of_IN science_NN departments_NNS ,_, the_DT one_NN who_WP will_MD bring_VB balance_NN to_TO the_DT force_NN ._.
+Praise_NN be_VB unto_JJ thee_NN ,_, and_CC mayest_JJS thou_NN forever_RB remain_VBP free_JJ ._. -RRB-_-RRB-
+The_DT cats_NNS get_VBP a_DT second_JJ climbing_VBG post_NN ._.
+Now_RB they_PRP have_VBP no_DT excuses_NNS for_IN scratching_VBG the_DT furniture_NN ._.
+-LRB-_-LRB- and_CC I_PRP can_MD torment_VB them_PRP by_IN putting_VBG treats_VBZ way_NN up_IN there_RB ..._: -RRB-_-RRB- Old_NNP Man_NNP Geeze_NNP had_VBD some_DT big_JJ rodents_NNS eating_VBG his_PRP$ sunflowers_NNS ,_, but_CC what_WP can_MD stand_VB up_RP to_TO something_NN with_IN a_DT name_NN like_IN REVENGE_NNP RODENT_NNP SMOKE_NNP BOMB_NNP and_CC a_DT list_NN of_IN ingredients_NNS which_WDT reads_VBZ as_IN follows_VBZ :_: Sulfur_NNP 40_CD %_NN ,_, Potassium_NNP Nitrate_NNP 40_CD %_NN ,_, Charcoal_JJ 9_CD %_NN ._.
+I_PRP have_VBP to_TO admit_VB ,_, it_PRP did_VBD smell_VB like_IN rotten_JJ eggs_NNS ,_, even_RB from_IN a_DT good_JJ distance_NN ._.
+Honda_NNP Civics_NNPS rock_NN ._.
+Yes_UH that_WDT is_VBZ 368_CD miles_NNS on_IN one_CD tank_NN ..._: and_CC going_VBG ._.
+It_PRP is_VBZ time_NN to_TO secure_VB the_DT perimeter_NN ._.
+-LRB-_-LRB- Note_NN ,_, it_PRP specifically_RB says_VBZ ``_`` horses_NNS and_CC smaller_JJR animals_NNS ''_'' in_IN the_DT users_NNS manual_NN ._.
+Dogs_NNS ARE_VBP smaller_JJR animals_NNS ._.
+And_CC wo_MD n't_RB be_VB venturing_VBG into_IN my_PRP$ yard_NN to_TO do_VB their_PRP$ thrice_NN a_DT week_NN defecation_NN detail_NN I_PRP 'd_MD wager_VB -RRB-_-RRB- ._.
+My_PRP$ little_JJ Japanese_JJ Maple_NNP has_VBZ new_JJ growth_NN !!_NN I_PRP ran_VBD across_IN a_DT couple_NN of_IN cool_JJ sites_NNS on_IN Slashdot_NNP today_NN ._.
+Basically_RB Carnegie_NNP Mellon_NNP and_CC MIT_NNP are_VBP putting_VBG a_DT bunch_NN of_IN courses_NNS and_CC whatnot_NN on_IN the_DT web_NN !_.
+It_PRP looks_VBZ like_IN the_DT MIT_NNP people_NNS have_VBP more_RBR in_IN the_DT way_NN of_IN coursework_NN and_CC lecture_NN notes_NNS with_IN no_DT real_JJ opportunity_NN to_TO earn_VB credits_NNS -LRB-_-LRB- but_CC some_DT interesting_JJ looking_VBG stuff_NN to_TO say_VB the_DT least_JJS -RRB-_-RRB- ,_, while_IN the_DT Carnegie_NNP people_NNS are_VBP actually_RB going_VBG to_TO offer_VB classes_NNS for_IN credit_NN ,_, except_IN that_IN you_PRP get_VBP the_DT credit_NN through_IN whatever_WDT school_NN you_PRP might_MD be_VB attending_VBG ._.
+The_DT coolest_JJS thing_NN about_IN the_DT whole_JJ deal_NN is_VBZ that_IN Carnegie_NNP Mellon_NNP has_VBZ a_DT chemistry_NN course_NN with_IN a_DT VIRTUAL_NNP LAB_NN !_.
+Being_VBG a_DT good_JJ student_NN and_CC all_DT ,_, I_PRP first_RB did_VBD their_PRP$ dilute_VB 1M_NNP Glucose_NNP solution_NN to_TO .025_CD M_NNP problem_NN ._.
+I_PRP then_RB decided_VBD to_TO \*_SYM test_NN the_DT system_NN \*_SYM by_IN making_VBG something_NN blow_NN up_IN -LRB-_-LRB- as_IN far_RB as_IN I_PRP can_MD tell_VB ,_, probability_NN of_IN explosion_NN is_VBZ the_DT litmus_NN test_NN for_IN all_DT chem_NN classes_NNS -RRB-_-RRB- ._.
+Unfortunately_RB ,_, it_PRP seems_VBZ that_IN they_PRP only_RB allow_VBP things_NNS to_TO get_VB to_TO 99.85_CD \*_SYM C_$ and_CC do_VBP n't_RB account_VB for_IN evaporation_NN -LRB-_-LRB- believe_VB me_PRP ,_, I_PRP TRIED_VBD !_. -RRB-_-RRB- ._.
+This_DT ,_, the_DT lack_NN of_IN highly_RB reactive_JJ chemicals_NNS ,_, and_CC no_DT tight-fitting_JJ rubber_NN stoppers_NNS combined_VBN forces_NNS to_TO thwart_VB my_PRP$ plans_NNS ._.
+Perhaps_RB if_IN I_PRP were_VBD a_DT better_JJR chemist_NN ..._: Meanwhile_RB ,_, my_PRP$ laptop_NN is_VBZ now_RB running_VBG Mandrake_NNP 10_CD ,_, and_CC after_IN only_RB a_DT very_RB little_JJ wizardry_NN ,_, Autodock_NNP and_CC Autodock_NNP tools_NNS ._.
+I_PRP think_VBP Bobscript_NNP and_CC Raster3d_NNP are_VBP also_RB working_VBG ,_, but_CC need_VBP to_TO figure_VB out_RP how_WRB to_TO test_VB them_PRP ._.
+I_PRP am_VBP told_VBD that_IN these_DT programs_NNS represent_VBP some_DT of_IN the_DT finest_JJS in_IN bio-chem_NN research_NN ._.
+A_DT bug_NN was_VBD found_VBN in_IN the_DT Mozilla_NNP and_CC Mozilla_NNP Firefox_NNP browsers_NNS which_WDT could_MD let_VB a_DT malicious_JJ web_NN page_NN run_VBP code_NN on_IN your_PRP$ system_NN !_.
+-LRB-_-LRB- This_DT makes_VBZ one_CD for_IN Firefox_NNP ,_, and_CC like_IN 20_CD for_IN Internet_NNP Explorer_NNP ,_, so_IN I_PRP 'm_VBP not_RB switching_VBG back_RP any_DT time_NN soon_RB ..._: -RRB-_-RRB- ._.
+Unlike_IN Internet_NNP Explorer_NNP ,_, a_DT fix_NN for_IN this_DT problem_NN is_VBZ already_RB out_RP ._.
+Read_VB about_IN the_DT same-day-fix_NN here_RB ._.
+Either_CC you_PRP can_MD download_VB the_DT new_JJ version_NN ,_, 0.9.2_CD or_CC install_VB this_DT extension_NN -LRB-_-LRB- just_RB click_NN and_CC it_PRP should_MD auto-install_VB -RRB-_-RRB- ._.
+It_PRP is_VBZ important_JJ to_TO keep_VB in_IN mind_NN that_IN Firefox_NNP is_VBZ still_RB a_DT Technology_NN Preview_NNP ,_, and_CC not_RB considered_VBN a_DT finished_JJ product_NN by_IN the_DT Mozilla_NNP people_NNS ._.
+For_IN this_DT reason_NN it_PRP is_VBZ important_JJ to_TO update_VB it_PRP occasionally_RB ._.
+-LRB-_-LRB- For_IN the_DT most_JJS part_NN ,_, it_PRP seems_VBZ pretty_RB damn_RB polished_VBN to_TO me_PRP though_IN !_. -RRB-_-RRB- ._.
+In_IN much_JJ cooler_NN news_NN ,_, Mandrake_NNP Linux_NNP is_VBZ making_VBG a_DT big_JJ SPLASH_NNP in_IN France_NNP where_WRB they_PRP are_VBP helping_VBG to_TO replace_VB a_DT whole_JJ lot_NN of_IN Windows_NNP NT_NNP systems_NNS with_IN Linux_NNP ones_NNS !_.
+Well_RB ,_, despite_IN the_DT fact_NN that_IN her_PRP$ blog_NN bears_VBZ an_DT uncanny_JJ resemblance_NN to_TO mine_NN ,_, here_RB 's_POS wishing_VBG Cassie_NNP a_DT HIPPITY_NNP HOPPITY_NNP HAPPITY_NNP BIRTHDAY_NN !_.
+-LRB-_-LRB- And_CC ,_, since_IN that_DT Punk_NNP Billoney_NNP ALSO_NNP has_VBZ a_DT page_NN that_WDT looks_VBZ like_IN mine_NN ,_, I_PRP guess_VBP I_PRP 'll_MD get_VB to_TO work_VB figuring_VBG out_IN how_WRB this_DT whole_JJ style_NN ,_, css_NN ,_, page_NN structure_NN business_NN works_VBZ so_IN I_PRP can_MD be_VB snazzy_JJ and_CC unique_JJ ..._: or_CC so_RB that_IN my_PRP$ page_NN can_MD be_VB at_IN least_JJS ..._: -RRB-_-RRB- ._.
+Well_RB ,_, it_PRP looks_VBZ like_IN the_DT boys_NNS in_IN Hollywood_NNP are_VBP at_IN it_PRP again_RB ._.
+Apparently_RB a_DT law_NN will_MD go_VB into_IN effect_NN July_NNP 1_CD ,_, 2005_CD which_WDT will_MD make_VB it_PRP illegal_JJ to_TO sell_VB HDTV_NN equipment_NN which_WDT does_VBZ n't_RB support_VB a_DT ``_`` Broadcast_NNP Flag_NNP ''_'' ._.
+This_DT basically_RB means_VBZ that_IN most_JJS of_IN the_DT recording\/portability_NN functionality_NN of_IN HDTV_NN will_MD be_VB killed_VBN in_IN all_DT equipment_NN made_VBN after_IN July_NNP 1_CD ,_, 2005_CD ._.
+Of_IN course_NN ,_, the_DT EFF_NNP is_VBZ pretty_RB nervous_JJ about_IN this_DT ,_, and_CC urging_VBG people_NNS to_TO buy_VB HDTV_NN tuner_NN cards_NNS for_IN their_PRP$ home-brew_NN PVR_NNP linux_NN systems_NNS ,_, and_CC help_VB out_RP with_IN the_DT programming_NN too_RB ._.
+Maybe_RB it_PRP is_VBZ time_NN to_TO look_VB into_IN a_DT card_NN ._. ._.
+but_CC at_IN $_$ 200_CD they_PRP are_VBP a_DT bit_NN pricey_JJ ._.
+Of_IN course_NN ,_, when_WRB everything_NN is_VBZ broadcast_VBN in_IN hdtv_NN a_DT few_JJ years_NNS from_IN now_RB I_PRP 'd_MD probably_RB be_VB happy_JJ I_PRP did_VBD ._.
+Then_RB again_RB ,_, does_VBZ anything_NN worth_JJ watching_VBG ever_RB really_RB show_VB up_RP on_IN TV_NN ?_.
+Alpine_NNP Lake_NNP :_: See_VB the_DT random_JJ photos_NNS for_IN more_JJR ._.
+In_IN total_JJ it_PRP was_VBD about_RB 10_CD miles_NNS worth_IN of_IN hiking_NN ._.
+A_DT good_JJ friend_NN of_IN mine_NN who_WP sometimes_RB is_VBZ called_VBN Miss_NNP Fyn_NNP ,_, sometimes_RB Fynnilicious_NNP ,_, and_CC occasionally_RB Francesca_NNP de_IN Argentina_NNP sent_VBD me_PRP an_DT interesting_JJ tidbit_NN ._.
+Apparently_RB Dr._NNP Hunter_NNP ,_, a_DT professor_NN at_IN Cambridge_NNP University_NNP -LRB-_-LRB- she_PRP is_VBZ no_DT relation_NN to_TO me_PRP as_IN far_RB as_IN I_PRP know_VBP ''_'' and_CC que_JJ lastima_NN too_RB ,_, I_PRP want_VBP to_TO visit_VB Antarctica_NNP !_. -RRB-_-RRB-
+did_VBD some_DT observation_NN of_IN penguins_NNS and_CC has_VBZ recorded_VBN numerous_JJ cases_NNS of_IN penguin_NN prostitution_NN !_.
+Yes_UH ,_, sex_NN for_IN pebbles_NNS ._.
+Apparently_RB some_DT of_IN the_DT males_NNS seem_VBP to_TO realize_VB what_WP is_VBZ going_VBG on_RP ,_, while_IN others_NNS think_VBP they_PRP are_VBP courting_VBG legitimately_RB only_RB to_TO end_VB up_RP short_RB a_DT few_JJ stones_NNS and_CC singing_VBG the_DT blues_NNS ._.
+What_WP an_DT odd_JJ world_NN we_PRP live_VBP in_IN ._.
+Also_RB I_PRP went_VBD for_IN a_DT little_JJ bike_NN ride_NN with_IN Isaac_NNP and_CC Kristen_NNP tonight_NN ._.
+We_PRP were_VBD only_RB out_RB for_IN an_DT hour_NN ,_, but_CC rode_VBD 15_CD miles_NNS over_IN some_DT fairly_RB hilly_JJ terrain_NN so_IN it_PRP was_VBD a_DT nice_JJ workout_NN ._.
+On_IN one_CD particularly_RB steep_JJ downhill_RB spot_NN I_PRP hit_VBD 31_CD +_NN mph_NN ,_, a_DT new_JJ personal_JJ record_NN -LRB-_-LRB- and_CC kinda_NN scary_JJ on_IN a_DT bicycle_NN -RRB-_-RRB- ._.
+The_DT uphill_JJ spots_NNS went_VBD a_DT bit_NN more_RBR slowly_RB ._.
+Bicycling_NN is_VBZ certainly_RB easier_JJR on_IN the_DT old_JJ joints_NNS than_IN jogging_NN however_RB ,_, and_CC one_CD goes_VBZ SO_RB much_JJ faster_RBR ._.
+A_DT new_JJ release_NN of_IN Firefox_NNP -LRB-_-LRB- 0.9.3_CD -RRB-_-RRB- has_VBZ come_VBN out_RP to_TO fix_VB a_DT few_JJ bugs_NNS ._.
+If_IN it_PRP seems_VBZ like_IN a_DT nuisance_NN keeping_VBG up_RP with_IN the_DT updates_NNS ,_, do_VBP n't_RB give_VB up_RP hope_NN ._.
+Apparently_RB there_EX is_VBZ an_DT auto-update_JJ feature_NN in_IN the_DT works_NNS ,_, maybe_RB for_IN version_NN 1.0_CD ._.
+Plus_CC ,_, it_PRP is_VBZ better_JJR to_TO have_VB an_DT update_VB to_TO install_VB ,_, than_IN to_TO surf_NN unprotected_JJ ._.
+And_CC finally_RB ,_, I_PRP am_VBP headed_VBN off_RP to_TO a_DT conference_NN at_IN ISU_NNP this_DT Sunday_NNP which_WDT has_VBZ me_PRP all_DT excited_VBN ._.
+Apparently_RB there_EX will_MD be_VB some_DT heavy_JJ hitters_NNS there_RB however_RB ,_, so_IN I_PRP might_MD be_VB a_DT bit_NN out_IN of_IN my_PRP$ depth_NN -LRB-_-LRB- at_IN least_JJS in_IN the_DT bio_NN and_CC chem_NN stuff_NN -RRB-_-RRB- ._.
+I_PRP am_VBP looking_VBG forward_RB to_TO trying_VBG to_TO hob-nob_VB with_IN serious_JJ scientists_NNS ,_, and_CC especially_RB to_TO making_VBG a_DT long_JJ list_NN of_IN all_PDT the_DT cool_JJ computer_NN stuff_NN a_DT certain_JJ college_NN near_IN me_PRP needs_VBZ to_TO acquire_VB ._.
+I_PRP will_MD take_VB my_PRP$ laptop_NN and_CC try_VB to_TO look_VB professional_JJ ._.
+On_IN the_DT down_JJ side_NN ,_, this_DT means_VBZ I_PRP wo_MD n't_RB be_VB here_RB for_IN the_DT next_JJ two_CD inventories_NNS ,_, I_PRP will_MD have_VB my_PRP$ cell_NN ,_, but_CC I_PRP am_VBP really_RB hoping_VBG that_IN late_JJ night_NN calls_VBZ wo_MD n't_RB be_VB necessary_JJ ._.
+Wow_UH ,_, I_PRP thought_VBD that_IN I_PRP was_VBD a_DT hard-core_JJ tin-can-antenna_NN kid_NN ,_, but_CC these_DT guys_NNS managed_VBD to_TO shoot_VB a_DT 802.11_CD b_NN signal_NN 55.1_CD miles_NNS without_IN external_JJ amplification_NN ._.
+That_DT is_VBZ a_DT long_JJ way_NN !_.
+Of_IN course_NN ,_, they_PRP had_VBD some_DT 9_CD +_NN foot_NN satellite_NN dishes_NNS ,_, so_RB that_IN probably_RB played_VBN a_DT big_JJ part_NN in_IN their_PRP$ success_NN ._.
+In_IN other_JJ news_NN ,_, this_DT server_NN is_VBZ awesome_JJ ._.
+Six_CD hot-swappable_JJ scsi_NN drive_NN bays_NNS with_IN hardware_NN RAID_NN 5_CD ,_, dual_JJ Opteron_NNP processors_NNS ,_, a_DT slim_JJ sexy_JJ 2U_JJ case_NN ,_, and_CC up_RB to_TO 16gigs_NNS of_IN ram_NN ._.
+Look_VB at_IN it_PRP shine_VB in_IN all_DT of_IN its_PRP$ 64bit_JJ splendor_NN ._.
+We_PRP might_MD get_VB one_CD for_IN our_PRP$ central_JJ server_NN here_RB at_IN work_NN ,_, but_CC three_CD of_IN them_PRP would_MD look_VB so_RB nice_JJ running_VBG as_IN a_DT Linux_NNP cluster_NN in_IN my_PRP$ basement_NN ..._: Anyone_NN have_VBP an_DT extra_JJ $_$ 10k_CD ?_.
+Today_NN is_VBZ another_DT inventory_NN day_NN ,_, the_DT last_JJ one_CD went_VBD fairly_RB smoothly_RB -LRB-_-LRB- all_DT things_NNS considered_VBN -RRB-_-RRB- ._.
+A_DT number_NN of_IN small_JJ things_NNS have_VBP been_VBN fixed_VBN ,_, a_DT few_JJ features_NNS have_VBP been_VBN added_VBN ,_, and_CC some_DT things_NNS have_VBP been_VBN streamlined_JJ ,_, so_RB here_RB 's_POS hoping_VBG that_IN all_DT goes_VBZ well_RB ._.
+Needless_JJ to_TO say_VB ,_, it_PRP could_MD be_VB a_DT late_JJ night_NN ._.
+Well_RB ,_, I_PRP was_VBD going_VBG to_TO go_VB for_IN a_DT little_JJ run_NN tonight_NN to_TO try_VB out_RP the_DT new_JJ running_NN shoes_NNS I_PRP got_VBD -LRB-_-LRB- and_CC boy_NN do_VBP they_PRP feel_VBP nice_JJ and_CC springy_JJ compared_VBN to_TO my_PRP$ old_JJ ones_NNS -RRB-_-RRB- but_CC between_IN lightning_NN ,_, wind_NN gusts_NNS ,_, a_DT few_JJ drops_NNS of_IN rain_NN ,_, and_CC a_DT certain_JJ spooky_JJ game_NN which_WDT I_PRP played_VBD for_IN a_DT few_JJ hours_NNS earlier_RBR ,_, I_PRP decided_VBD after_IN about_IN a_DT block_NN that_IN not_RB running_VBG would_MD be_VB the_DT better_JJR idea_NN ._.
+Instead_RB I_PRP finished_VBD the_DT book_NN The_DT Genius_NN Within_IN by_IN Frank_NNP T._NNP Vertosick_NNP Jr._NNP ._.
+It_PRP was_VBD a_DT decently_RB good_JJ book_NN ,_, with_IN a_DT few_JJ interesting_JJ ideas_NNS ,_, but_CC like_IN most_JJS of_IN the_DT books_NNS I_PRP 've_VBP read_VBN which_WDT fall_VBP into_IN the_DT ``_`` written_VBN by_IN scientist_NN for_IN the_DT general_JJ public_NN ''_'' category_NN ,_, this_DT one_CD lacked_VBD something_NN in_IN literary_JJ quality_NN ._.
+I_PRP think_VBP this_DT is_VBZ a_DT side_NN effect_NN of_IN writing_VBG and_CC reading_VBG tons_NNS of_IN primary_JJ literature_NN ._.
+This_DT sort_NN of_IN author_NN seems_VBZ to_TO rely_VB on_IN very_RB few_JJ devices_NNS ,_, chief_NN among_IN them_PRP is_VBZ making_VBG some_DT claim_NN which_WDT is_VBZ mildly_RB strange_JJ ,_, and_CC then_RB going_VBG on_IN for_IN pages_NNS about_IN how_WRB unbelievable_JJ we_PRP are_VBP sure_JJ to_TO find_VB it_PRP ._.
+I_PRP sometimes_RB want_VBP to_TO scream_VB ``_`` SHOW_NNP DO_NNP N'T_RB TELL_VBP !!_NN ''_'' at_IN them_PRP ._.
+They_PRP also_RB seem_VBP to_TO rely_VB on_IN repetition_NN far_RB too_RB much_JJ ._.
+Read_VB Part_NNP 1_CD of_IN this_DT book_NN ,_, and_CC see_VB if_IN you_PRP can_MD keep_VB from_IN cheering_VBG when_WRB oePoor_NNP Tom_NNP ''_'' -LRB-_-LRB- which_WDT apparently_RB is_VBZ his_PRP$ legal_JJ name_NN -RRB-_-RRB- finally_RB kicks_VBZ the_DT damn_NN bucket_NN ._.
+Anyway_RB ,_, on_IN to_TO the_DT meat_NN and_CC potatoes_NNS ._.
+The_DT core_NN thesis_NN of_IN this_DT book_NN is_VBZ that_IN most_JJS ,_, if_IN not_RB all_DT living_VBG systems_NNS ,_, can_MD be_VB understood_VBN more_RBR accurately_RB as_IN intelligent_JJ networks_NNS ._.
+Many_JJ of_IN the_DT peer_VB to_TO peer_VB file_NN sharing_NN networks_NNS like_IN KaZaA_NNP are_VBP variations_NNS on_IN this_DT sort_NN of_IN network_NN theory_NN ,_, and_CC it_PRP is_VBZ really_RB sort_NN of_IN cutting_VBG edge_NN stuff_NN ._.
+Unfortunately_RB I_PRP have_VBP only_RB read_VB a_DT few_JJ papers_NNS on_IN it_PRP ,_, so_IN I_PRP am_VBP no_DT expert_NN by_IN any_DT means_NNS ._.
+The_DT idea_NN is_VBZ that_IN one_CD can_MD get_VB intelligent_JJ results_NNS out_IN of_IN many_JJ unintelligent_JJ entities_NNS by_IN connecting_VBG them_PRP to_TO one_CD another_DT ,_, and_CC then_RB allowing_VBG them_PRP to_TO modify_VB their_PRP$ connections_NNS ,_, create_VB new_JJ connections_NNS ,_, and_CC destroy_VB old_JJ connections_NNS based_VBN upon_IN the_DT amount_NN of_IN traffic_NN which_WDT flows_VBZ across_IN these_DT connections_NNS ,_, and_CC inputs_NNS from_IN the_DT outside_JJ world_NN ._.
+Vertosick_NNP 's_POS idea_NN is_VBZ that_IN we_PRP can_MD explain_VB the_DT apparent_JJ intelligence_NN of_IN bacteria_NNS rapidly_RB evolving_VBG to_TO deal_VB with_IN new_JJ antibiotics_NNS ,_, immune_JJ systems_NNS memorizing_VBG huge_JJ lists_NNS of_IN antigens_NNS ,_, and_CC other_JJ highly_RB oeintelligent_JJ ''_'' behavior_NN by_IN applying_VBG network_NN principles_NNS ._.
+He_PRP says_VBZ that_IN this_DT intelligence_NN is_VBZ an_DT oeemergent_JJ property_NN ''_'' of_IN these_DT large_JJ groups_NNS of_IN communal_JJ entities_NNS ._.
+For_IN the_DT most_JJS part_NN ,_, I_PRP find_VBP it_PRP difficult_JJ to_TO disagree_VB with_IN his_PRP$ conclusions_NNS because_IN they_PRP provide_VBP an_DT enlightening_VBG way_NN to_TO look_VB at_IN the_DT complexity_NN in_IN biological_JJ systems_NNS ._.
+In_IN my_PRP$ opinion_NN ,_, his_PRP$ most_RBS interesting_JJ point_NN is_VBZ that_IN there_EX are_VBP many_JJ different_JJ manifestations_NNS of_IN intelligence_NN and_CC that_IN competition_NN dictates_VBZ that_IN all_DT surviving_VBG organisms_NNS must_MD be_VB about_IN equally_RB intelligent_JJ in_IN one_CD way_NN or_CC another_DT ,_, or_CC they_PRP would_MD have_VB ceased_VBN to_TO exist_VB ._.
+This_DT is_VBZ by_IN no_DT means_VBZ a_DT revolutionary_JJ statement_NN ._.
+What_WP he_PRP is_VBZ doing_VBG here_RB is_VBZ redefining_VBG intelligence_NN to_TO be_VB what_WP a_DT biologist_NN would_MD traditionally_RB call_VB fitness_NN ._.
+In_IN the_DT same_JJ vein_NN one_CD could_MD argue_VB that_IN all_DT organisms_NNS are_VBP roughly_RB equal_JJ in_IN their_PRP$ fitness_NN level_NN or_CC they_PRP would_MD have_VB rapidly_RB ceased_VBN to_TO exist_VB already_RB ._.
+We_PRP can_MD see_VB this_DT clearly_RB in_IN species_NNS which_WDT are_VBP no_RB longer_RB intelligent\/fit_JJ enough_RB to_TO co-exist_NN with_IN humans_NNS and_CC are_VBP rapidly_RB going_VBG extinct_JJ ._.
+When_WRB it_PRP comes_VBZ to_TO evolutionary_JJ theory_NN ,_, it_PRP has_VBZ always_RB been_VBN my_PRP$ experience_NN that_IN people_NNS do_VBP n't_RB realize_VB that_IN the_DT fitness_NN of_IN a_DT species_NN is_VBZ heavily_RB dependent_JJ on_IN the_DT environment_NN in_IN which_WDT it_PRP exists_VBZ ._.
+Putting_VBG things_NNS in_IN terms_NNS of_IN intelligence_NN may_MD make_VB this_DT concept_NN easier_JJR to_TO grasp_VB ._.
+This_DT book_NN covers_VBZ a_DT wide_JJ range_NN of_IN topics_NNS from_IN the_DT smart_JJ ,_, but_CC slow_JJ intelligence_NN of_IN the_DT evolutionary_JJ process_NN ,_, the_DT genetic_JJ learning_NN and_CC problem_NN solving_VBG bacterial_JJ colonies_NNS display_NN ,_, and_CC the_DT speedy_JJ intelligence_NN of_IN the_DT vertebrate_JJ brain_NN ._.
+Vertosick_NNP 's_POS goal_NN is_VBZ to_TO explain_VB all_DT of_IN this_DT to_TO someone_NN with_IN little_JJ background_NN in_IN biology_NN or_CC computer_NN science_NN ,_, and_CC he_PRP does_VBZ n't_RB do_VB too_RB terribly_RB at_IN it_PRP ._.
+He_PRP does_VBZ brush_VB over_IN some_DT of_IN the_DT more_RBR complex_JJ topics_NNS ,_, and_CC spends_VBZ much_RB to_TO long_RB on_IN some_DT simple_JJ ones_NNS in_IN my_PRP$ opinion_NN ,_, but_CC this_DT is_VBZ probably_RB to_TO be_VB expected_VBN in_IN a_DT book_NN with_IN an_DT uncertain_JJ audience_NN ,_, and_CC such_PDT a_DT wide_JJ scope_NN ._.
+Over_IN all_DT ,_, I_PRP would_MD say_VB that_IN this_DT book_NN would_MD be_VB better_JJR off_IN if_IN boiled_VBN down_RP into_IN three_CD or_CC four_CD 30_CD page_NN papers_NNS ,_, but_CC it_PRP is_VBZ n't_RB too_RB bad_JJ ._.
+So_IN I_PRP got_VBD called_VBN into_IN the_DT advertising_NN department_NN today_NN where_WRB one_CD of_IN our_PRP$ two_CD MACs_NNS was_VBD refusing_VBG to_TO boot_NN because_IN it_PRP had_VBD a_DT bad_JJ zip_NN disk_NN in_IN the_DT zip_NN drive_NN ._.
+It_PRP would_MD start_VB to_TO load_VB up_RP its_PRP$ GUI_NNP thing_NN ,_, and_CC then_RB just_RB freeze_VB there_RB ._.
+The_DT advertising_NN guy_NN was_VBD about_IN ready_JJ to_TO throw_VB it_PRP out_IN the_DT window_NN ,_, so_IN I_PRP intervened_VBD and_CC started_VBD messing_VBG with_IN it_PRP ._.
+After_IN trying_VBG the_DT normal_JJ peaceful_JJ solutions_NNS I_PRP had_VBD to_TO resort_VB to_TO violence_NN and_CC riped_VBD the_DT front_JJ cover_NN off_RP ._.
+There_RB ,_, just_RB were_VBD it_PRP was_VBD supposed_VBN to_TO be_VB was_VBD the_DT eject_NN button_NN !_.
+I_PRP have_VBP long_RB pondered_VBN why_WRB in_IN God_NNP 's_POS holy_JJ name_NN the_DT Mac_NNP people_NNS hide_VBP the_DT eject_NN buttons_NNS ,_, and_CC I_PRP think_VBP I_PRP 've_VBP finally_RB figured_VBN it_PRP out_RP ._.
+See_VB I_PRP think_VBP Steve_NNP Jobs_NNP has_VBZ a_DT problem_NN with_IN premature_JJ ejectulation_NN ,_, so_IN they_PRP covered_VBD up_RP all_DT of_IN the_DT buttons_NNS in_IN order_NN to_TO make_VB him_PRP drag_VB the_DT little_JJ disk_NN icon_NN to_TO the_DT little_JJ garbage_NN can_MD ._.
+PC_NN users_NNS on_IN the_DT other_JJ hand_NN are_VBP expected_VBN to_TO have_VB more_JJR self_NN control_NN and_CC wait_VB until_IN the_DT light_NN goes_VBZ off_RP before_IN ejecting_VBG ._.
+In_IN linux_NN ,_, things_NNS get_VBP even_RB more_RBR complicated_JJ because_IN you_PRP have_VBP to_TO umount_VB first_RB ..._: or_CC at_IN least_JJS you_PRP did_VBD before_IN the_DT new_JJ kernels_NNS and_CC automount_JJ tools_NNS became_VBD available_JJ ._.
+-LRB-_-LRB- Note_VB all_DT obscene_JJ comments_NNS will_MD be_VB deleted_VBN ._.
+This_DT IS_VBZ a_DT family_NN blog_NN after_IN all_DT ._.
+And_CC this_DT means_VBZ you_PRP MIKE_VBP !_. -RRB-_-RRB-
+This_DT daemon_NN hell_NN beast_NN wants_VBZ your_PRP$ soul_NN ..._: you_PRP have_VBP a_DT big_JJ gun_NN ._.
+Can_MD you_PRP really_RB ask_VB for_IN more_JJR than_IN this_DT in_IN a_DT game_NN ?_.
+I_PRP was_VBD quite_RB happy_JJ to_TO read_VB that_IN the_DT Mozilla_NNP Foundation_NNP -LRB-_-LRB- of_IN Firefox_NNP fame_NN -RRB-_-RRB- is_VBZ putting_VBG a_DT $_$ 500_CD bounty_NN on_IN serious_JJ bugs_NNS in_IN their_PRP$ software_NN ._.
+Unlike_IN a_DT lot_NN of_IN software_NN companies_NNS -LRB-_-LRB- Microsoft_NNP for_IN instance_NN -RRB-_-RRB- who_WP try_VBP to_TO keep_VB security_NN problems_NNS hidden_VBN from_IN the_DT general_JJ public_NN ,_, Mozilla_NNP is_VBZ taking_VBG a_DT much_RB more_JJR progressive_JJ stance_NN by_IN making_VBG their_PRP$ development_NN and_CC bug_NN resolution_NN processes_VBZ transparent_JJ ._.
+By_IN doing_VBG this_DT they_PRP ensure_VBP that_IN all_DT of_IN their_PRP$ users_NNS are_VBP aware_JJ of_IN security_NN problems_NNS should_MD they_PRP arise_VB ,_, and_CC that_IN fixes_NNS are_VBP promptly_RB created_VBN ._.
+In_IN contrast_NN ,_, many_JJ of_IN Microsoft_NNP 's_POS security_NN problems_NNS are_VBP kept_VBN quiet_JJ and_CC only_RB known_VBN about_IN by_IN Microsoft_NNP and_CC malicious_JJ hackers_NNS for_IN disturbingly_RB long_JJ periods_NNS of_IN time_NN ._.
+Here_RB is_VBZ an_DT interesting_JJ article_NN about_IN these_DT two_CD approaches_NNS ._.
+Amazingly_RB it_PRP was_VBD published_VBN by_IN ZDnet_NNP ,_, a_DT group_NN which_WDT is_VBZ usually_RB pretty_RB pro_JJ Microsoft_NNP ,_, but_CC in_IN this_DT article_NN they_PRP very_RB much_JJ support_NN a_DT transparent_JJ ,_, full_JJ disclosure_NN approach_NN ._.
+In_IN other_JJ news_NN ,_, Doom3_NN comes_VBZ out_RP tomorrow_NN ._.
+It_PRP is_VBZ already_RB floating_VBG around_RB in_IN certain_JJ channels_NNS ._.
+We_PRP can_MD expect_VB to_TO see_VB a_DT serious_JJ decrease_NN in_IN productivity_NN from_IN IT_PRP people_NNS for_IN the_DT next_JJ few_JJ weeks_NNS ._.
+This_DT game_NN is_VBZ HIGHLY_NNP anticipated_VBN -LRB-_-LRB- and_CC pretty_RB much_JJ guaranteed_VBN to_TO scare_VB you_PRP witless_JJ -RRB-_-RRB- ._.
+This_DT is_VBZ a_DT high-speed_JJ shot_NN -LRB-_-LRB- hence_RB the_DT blur_NN -RRB-_-RRB- of_IN the_DT horse_NN cantering_NN ._.
+Cantering_VBG is_VBZ tons_NNS of_IN fun_NN but_CC a_DT bit_NN scary_JJ because_IN it_PRP feels_VBZ like_IN the_DT horse_NN is_VBZ suddenly_RB going_VBG quite_RB a_DT lot_NN faster_RBR ._.
+It_PRP is_VBZ much_RB less_JJR painful_JJ than_IN trotting_VBG however_RB ,_, and_CC getting_VBG from_IN the_DT trotting_VBG stage_NN to_TO the_DT cantering_VBG one_NN can_MD be_VB a_DT big_JJ relief_NN ._.
+In_IN this_DT picture_NN you_PRP can_MD see_VB how_WRB the_DT horses_NNS two_CD diagonal_JJ legs_NNS are_VBP doing_VBG the_DT same_JJ thing_NN ._.
+Apparently_RB this_DT means_VBZ that_IN the_DT horse_NN is_VBZ trotting_VBG ._.
+Trotting_VBG is_VBZ the_DT least_JJS comfortable_JJ option_NN in_IN my_PRP$ opinion_NN ._.
+Okay_UH ,_, going_VBG from_IN slowest_JJS to_TO fastest_JJS ,_, here_RB are_VBP some_DT action_NN shots_NNS ._.
+In_IN this_DT one_CD ,_, the_DT horse_NN is_VBZ walking_VBG -LRB-_-LRB- the_DT most_RBS comfortable_JJ speed_NN ,_, but_CC kinda_NN slow_JJ -RRB-_-RRB- ._.
+If_IN you_PRP go_VBP to_TO this_DT page_NN you_PRP can_MD see_VB the_DT differences_NNS in_IN each_DT gait_NN type_NN ._.
+It_PRP is_VBZ quite_RB interesting_JJ to_TO me_PRP that_IN horses_NNS have_VBP these_DT different_JJ gaits_NNS ,_, very_RB much_RB like_IN a_DT car_NN has_VBZ different_JJ gears_NNS ,_, if_IN only_RB the_DT shifting_VBG up_RP part_NN was_VBD a_DT bit_NN easier_JJR ,_, and_CC the_DT shifting_VBG down_RP part_NN did_VBD n't_RB happen_VB automatically_RB ..._:

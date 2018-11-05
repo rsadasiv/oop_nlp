@@ -1,0 +1,7 @@
+Olivia_NNP Cole_NNP -LRB-_-LRB- born_VBN 1981_CD -RRB-_-RRB- is_VBZ a_DT British_JJ poet_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Cole_NNP was_VBD born_VBN and_CC raised_VBN in_IN Kent_NNP ,_, and_CC read_VB English_NNP at_IN Christ_NNP Church_NNP ,_, Oxford_NNP ._.
+After_IN being_VBG a_DT winner_NN of_IN the_DT 2003_CD Eric_NNP Gregory_NNP Award_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Cole_NNP quickly_RB made_VBD her_PRP$ mark_NN as_IN a_DT poet_NN ._.
+In_IN 2006_CD ,_, she_PRP appeared_VBD on_IN the_DT BBC_NNP documentary_NN ,_, Betjeman_NNP &_CC Me_PRP :_: Griff_NNP Rhys_NNP Jones_NNP ._.
+Her_PRP$ first_JJ collection_NN ,_, Restricted_NNP View_NNP was_VBD published_VBN in_IN 2009_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Cole_NNP also_RB works_VBZ as_IN a_DT journalist_NN in_IN London_NNP and_CC has_VBZ written_VBN for_IN The_DT Spectator_NNP ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- the_DT Financial_NNP Times_NNP -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC the_DT London_NNP Evening_NNP Standard_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB-

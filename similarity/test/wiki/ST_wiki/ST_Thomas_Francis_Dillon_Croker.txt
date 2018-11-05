@@ -1,0 +1,4 @@
+Thomas_NNP Francis_NNP Dillon_NNP Croker_NNP FSA_NNP FRGS_NNP -LRB-_-LRB- 1831_CD ``_`` 1912_CD -RRB-_-RRB- was_VBD a_DT British_JJ antiquary_JJ -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC poet_NN ._.
+In_IN the_DT literature_NN ,_, he_PRP is_VBZ usually_RB referred_VBN to_TO as_IN ``_`` T._NNP F._NNP Dillon_NNP Croker_NNP ''_'' ._.
+He_PRP was_VBD the_DT only_JJ child_NN of_IN Thomas_NNP Crofton_NNP Croker_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC Marianne_NNP Croker_NNP ;_: his_PRP$ parents_NNS collaborated_VBN closely_RB ,_, and_CC the_DT son_NN revised_VBN and_CC edited_VBN some_DT of_IN their_PRP$ works_NNS ._.
+At_IN the_DT time_NN of_IN his_PRP$ father_NN 's_POS death_NN ,_, he_PRP was_VBD a_DT clerk_NN in_IN the_DT Peninsular_NNP and_CC Oriental_JJ Steam_NNP Navigation_NNP Company_NNP ._.

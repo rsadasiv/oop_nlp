@@ -1,0 +1,190 @@
+Home_NN
+Minister_NN
+Gulab_NN
+Chand_NN
+Kataria_NN
+has_VPRT [PEAS]
+suggested_VBN [SUAV] [PUBV]
+bringing_VBG
+in_PIN
+the_DT
+environment_NOMZ
+subject_NN
+in_PIN
+the_DT
+state_NN
+list_NN
+from_PIN
+the_DT
+center_NN
+list_NN
+._.
+Representing_VBG
+Rajasthan_NN
+at_PIN
+the_DT
+Inter-State_NN
+Council_NN
+meeting_GER
+on_PIN
+the_DT
+recommendations_NOMZ
+of_PIN
+the_DT
+Punchhi_NN
+Commission_NN
+,_,
+Kataria_NN
+said_VBD [PUBV]
+that_THVC
+there_EX
+are_VPRT
+many_QUAN
+subjects_NN
+which_WDT [WHSUB]
+should_NEMD
+be_VB [PASS]
+kept_VBN
+in_PIN
+the_DT
+state_NN
+list_NN
+instead_CONJ
+of_NULL
+being_VBG [WZPRES] [BEMA]
+in_PIN
+concurrent_JJ
+or_CC
+center_NN
+list_NN
+._.
+Kataria_NN
+said_VBD [PUBV]
+that_THVC
+due_JJ
+to_PIN
+lack_NN
+of_PIN
+environmental_JJ
+clearance_NN
+,_,
+many_QUAN
+projects_NN
+of_PIN
+the_DT
+state_NN
+are_VPRT [PASS]
+stuck_VBN
+and_PHC
+added_VBN [PUBV]
+that_THVC
+by_PIN
+moving_VBG [SUAV]
+the_DT
+subject_JJ
+moved_VBN [SUAV]
+to_PIN
+the_DT
+state_NN
+will_PRMD
+accelerate_VB
+development_NOMZ
+works_NN
+._.
+He_TPP3
+also_RB
+said_VBD [PUBV]
+that_THVC
+water_NN
+distribution_NOMZ
+should_NEMD
+be_VB [PASS]
+done_VBN [PROD]
+on_PIN
+the_DT
+basis_NN
+of_PIN
+the_DT
+catchment_NOMZ
+area_NN
+of_PIN
+rivers_NN
+._.
+As_IN
+the_DT
+catchment_NOMZ
+area_NN
+of_PIN
+most_EMPH
+rivers_NN
+is_VPRT [BEMA]
+not_XX0
+in_PIN
+Rajasthan_NN
+,_,
+therefore_CONJ
+,_,
+the_DT
+rules_NN
+which_WDT [WHSUB]
+are_VPRT [PASS]
+made_VBN
+in_PIN
+this_DEMO
+regard_NN
+should_NEMD
+not_XX0
+be_VB [PASS]
+applied_VBN
+to_PIN
+Rajasthan_NN
+._.
+Expediting_VBG
+Projects_NN
+Home_NN
+minister_NN
+Gulab_NN
+Chand_NN
+Kataria_NN
+said_VBD [PUBV]
+there_EX
+are_VPRT
+many_QUAN
+subjects_NN
+which_WDT [WHSUB]
+should_NEMD
+be_VB [PASS]
+kept_VBN
+in_PIN
+the_DT
+state_NN
+list_NN
+instead_CONJ
+of_NULL
+being_VBG [WZPRES] [BEMA]
+in_PIN
+concurrent_JJ
+or_CC
+center_NN
+list_NN
+._.
+He_TPP3
+suggested_VBD [SUAV] [PUBV]
+that_THVC
+environment_NOMZ
+should_NEMD
+be_VB [BEMA]
+a_DT
+state_NN
+subject_JJ
+instead_CONJ
+of_NULL
+being_VBG [WZPRES] [BEMA]
+on_PIN
+the_DT
+Centre_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+list_NN

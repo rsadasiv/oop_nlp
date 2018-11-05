@@ -1,0 +1,19 @@
+Georgiana_NNP ,_, Lady_NNP Chatterton_NNP ,_, later_RB Mrs_NNP Dering_NNP -LRB-_-LRB- née_FW Iremonger_NNP ;_: 11_CD November_NNP 1806_CD ''_'' 6_CD February_NNP 1876_CD -RRB-_-RRB- was_VBD an_DT English_JJ traveller_NN and_CC author_NN ._.
+Her_PRP$ many_JJ travel_NN books_NNS began_VBD in_IN 1839_CD with_IN Rambles_NNP in_IN the_DT South_NNP of_IN Ireland_NNP ._.
+Henrietta_NNP Georgiana_NNP Marcia_NNP Lascelles_NNP Iremonger_NNP was_VBD born_VBN at_IN 24_CD Arlington_NNP Street_NNP ,_, Piccadilly_NNP ,_, London_NNP ,_, on_IN 11_CD November_NNP 1806_CD ,_, the_DT only_JJ child_NN of_IN the_DT Rev._NNP Lascelles_NNP Iremonger_NNP -LRB-_-LRB- died_VBD 6_CD January_NNP 1830_CD -RRB-_-RRB- ,_, prebendary_NN of_IN Winchester_NNP Cathedral_NNP ,_, and_CC his_PRP$ second_JJ wife_NN ,_, the_DT former_JJ Harriett_NNP Gambier_NNP ,_, youngest_JJS sister_NN of_IN Admiral_NNP Lord_NNP James_NNP Gambier_NNP ._.
+On_IN 3_CD August_NNP 1824_CD ,_, she_PRP married_VBD Sir_NNP William_NNP Abraham_NNP Chatterton_NNP ,_, 2nd_CD Baronet_NNP of_IN Castle_NNP Mahon_NNP ,_, County_NNP Cork_NNP ._.
+The_DT Great_NNP Irish_NNP Famine_NN in_IN 1845_CD ``_`` 51_CD deprived_VBN her_PRP$ husband_NN of_IN his_PRP$ rents_NNS ._.
+They_PRP retired_VBD to_TO a_DT small_JJ house_NN at_IN Bloxworth_NNP ,_, Dorset_NNP ,_, until_IN 1852_CD ,_, when_WRB they_PRP moved_VBD to_TO Rolls_NNP Park_NNP ,_, Essex_NNP ,_, where_WRB Sir_NNP William_NNP died_VBD on_IN 5_CD August_NNP 1855_CD ._.
+On_IN 1_CD June_NNP 1859_CD ,_, the_DT widow_NN married_VBD a_DT fellow_JJ novelist_NN ,_, Edward_NNP Heneage_NNP Dering_NNP -LRB-_-LRB- born_VBN 1827_CD ,_, youngest_JJS son_NN of_IN John_NNP Dering_NNP ,_, rector_NN of_IN Pluckley_NNP ,_, Kent_NNP ,_, and_CC prebendary_NN of_IN St_NNP Paul_NNP 's_POS Cathedral_NNP -RRB-_-RRB- ,_, who_WP had_VBD retired_VBN from_IN the_DT army_NN in_IN 1851_CD ._.
+They_PRP took_VBD up_RP residence_NN in_IN 1869_CD with_IN her_PRP$ ward_NN and_CC niece_NN ,_, Rebecca_NNP Ferrers_NNP -LRB-_-LRB- née_FW Orpen_NNP -RRB-_-RRB- ,_, and_CC her_PRP$ husband_NN Marmion_NNP ,_, the_DT last_JJ old_JJ squire_NN of_IN Baddesley_NNP Clinton_NNP Hall_NNP ,_, Warwickshire_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- There_EX ,_, Marmion_NNP and_CC Dering_NNP took_VBD to_TO wearing_VBG 17th-century_JJ costume_NN ._.
+Twenty_CD years_NNS Georgiana_NNP 's_POS junior_NN ,_, Dering_NNP was_VBD the_DT author_NN of_IN the_DT novels_NNS Lethelier_NNP and_CC A_DT Great_JJ Sensation_NN -LRB-_-LRB- 1862_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Within_IN six_CD years_NNS of_IN their_PRP$ marriage_NN ,_, Dering_NNP was_VBD received_VBN into_IN the_DT Roman_NNP Catholic_NNP Church_NNP ._.
+She_PRP herself_PRP wavered_VBD ,_, but_CC after_IN a_DT correspondence_NN with_IN William_NNP Bernard_NNP Ullathorne_NNP ,_, Bishop_NNP of_IN Birmingham_NNP ,_, she_PRP converted_VBD in_IN August_NNP 1875_CD ._.
+Georgiana_NNP Dering_NNP died_VBD at_IN Baddesley_NNP Clinton_NNP Hall_NNP on_IN 6_CD February_NNP 1876_CD ,_, aged_VBN 69_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Lady_NNP Chatterton_NNP 's_POS first_JJ book_NN ,_, Aunt_NNP Dorothy_NNP 's_POS Tales_NNS ,_, was_VBD published_VBN anonymously_RB in_IN two_CD volumes_NNS in_IN 1837_CD ._.
+Two_CD years_NNS later_RB came_VBD Rambles_NNP in_IN the_DT South_NNP of_IN Ireland_NNP ,_, whose_WP$ first_JJ edition_NN sold_VBN out_RP in_IN a_DT few_JJ weeks_NNS ._.
+After_IN this_DT she_PRP wrote_VBD many_JJ tales_NNS ,_, novels_NNS ,_, poems_NNS ,_, and_CC accounts_NNS of_IN travels_NNS under_IN the_DT name_NN Georgiana_NNP Chatterton_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Cardinal_NNP John_NNP Henry_NNP Newman_NNP praised_VBD the_DT refinement_NN of_IN thought_NN in_IN her_PRP$ later_JJ fiction_NN ._.
+More_RBR recently_RB ,_, however_RB ,_, her_PRP$ work_NN has_VBZ been_VBN described_VBN as_IN banal_JJ and_CC called_VBN ``_`` uniformly_RB unmemorable_JJ ''_'' ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

@@ -1,0 +1,6 @@
+-LRB-_-LRB- John_NNP -RRB-_-RRB- Drummond_NNP Allison_NNP -LRB-_-LRB- 1921_CD ''_'' 2_CD December_NNP 1943_CD -RRB-_-RRB- was_VBD an_DT English_JJ war_NN poet_NN of_IN the_DT Second_NNP World_NNP War_NNP ._.
+He_PRP was_VBD born_VBN in_IN Caterham_NNP ,_, Surrey_NNP ,_, and_CC educated_VBN at_IN Bishop_NNP 's_POS Stortford_NNP College_NNP and_CC at_IN Queen_NNP 's_POS College_NNP ,_, Oxford_NNP ._.
+After_IN training_NN at_IN the_DT Royal_NNP Military_NNP College_NNP ,_, Sandhurst_NNP ,_, he_PRP became_VBD an_DT intelligence_NN officer_NN in_IN the_DT East_NNP Surrey_NNP Regiment_NNP ._.
+He_PRP served_VBD in_IN North_NNP Africa_NNP and_CC Italy_NNP ,_, where_WRB he_PRP was_VBD killed_VBN in_IN action_NN fighting_VBG on_IN the_DT Garigliano_NNP ._.
+Lieutenant_NN Allison_NNP lies_VBZ in_IN the_DT Minturno_NNP War_NNP Cemetery_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

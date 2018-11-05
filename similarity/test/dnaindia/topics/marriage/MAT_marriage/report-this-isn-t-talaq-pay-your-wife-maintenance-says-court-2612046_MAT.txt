@@ -1,0 +1,175 @@
+The_DT
+sessions_NN
+court_NN
+recently_TIME
+turned_VBD
+down_RP
+a_DT
+man_NN
+'s_POS
+plea_NN
+which_WDT [WHSUB]
+challenged_VBD
+payment_NOMZ
+of_PIN
+interim_JJ
+maintenance_NN
+to_PIN
+his_TPP3
+wife_NN
+on_PIN
+the_DT
+grounds_NN
+that_TOBJ
+she_TPP3
+was_VBD [BEMA]
+the_DT
+one_NN
+who_WP [WHSUB]
+had_VBD [PEAS]
+opted_VBN
+for_PIN
+talaq_NN
+._.
+The_DT
+court_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+`_``
+talaq_NN
+'_''
+the_DT
+man_NN
+,_,
+a_DT
+Parbhani_NN
+resident_NN
+,_,
+was_VBD
+referring_VBG
+to_TO
+was_VBD [BEMA]
+invalid_PRED
+as_IN
+it_PIT
+did_VBD
+not_XX0
+fulfil_JJ
+legal_JJ
+requirements_NOMZ
+._.
+The_DT
+woman_NN
+had_VBD [PEAS]
+given_VBN
+talaq_NN
+by_PIN
+khula_NN
+,_,
+which_WDT [SERE]
+empowers_VPRT
+a_DT
+Muslim_NN
+woman_NN
+to_TO
+initiate_VB
+divorce_NN
+with_PIN
+mutual_JJ
+consent_NN
+._.
+The_DT
+judge_NN
+held_VBD [PRIV]
+that_THVC
+the_DT
+marriage_NN
+between_PIN
+the_DT
+estranged_VBN
+couple_NN
+was_VBD
+not_XX0
+yet_RB
+over_IN
+and_CC
+asked_VBD [SUAV]
+him_TPP3
+to_TO
+abide_VB
+by_PIN
+its_PIT
+order_NN
+of_PIN
+paying_VBG
+Rs_NN
+10,000_CD
+as_IN
+interim_JJ
+maintenance_NN
+._.
+The_DT
+court_NN
+order_NN
+said_VBD [PUBV]
+the_DT
+woman_NN
+,_,
+who_WP
+in_PIN
+2015_CD
+had_VBD [PEAS]
+filed_VBN
+a_DT
+domestic_JJ
+violence_NN
+case_NN
+15_CD
+years_NN
+after_IN
+their_TPP3
+marriage_NN
+,_,
+had_VBD [PEAS]
+proved_VBN [PRIV]
+that_THVC
+she_TPP3
+was_VBD [BEMA]
+physically_RB
+abused_PRED
+and_PHC
+assaulted_PRED
+._.
+The_DT
+case_NN
+was_VBD [BYPA]
+heard_VBN [PRIV]
+by_PIN
+the_DT
+metropolitan_JJ
+magistrate_NN
+'s_POS
+court_NN
+,_,
+which_WDT [SERE]
+held_VBD [PRIV]
+that_THVC
+documents_NOMZ
+produced_VBN [WZPAST]
+by_PIN
+the_DT
+woman_NN
+were_VBD [BEMA]
+sufficient_PRED
+to_TO
+hold_VB [PRIV]
+that_THVC
+there_EX
+was_VBD
+abuse_NN
+amounting_GER
+to_PIN
+domestic_JJ
+violence_NN
+._.

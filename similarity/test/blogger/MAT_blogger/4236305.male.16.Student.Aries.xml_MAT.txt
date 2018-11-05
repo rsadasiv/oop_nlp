@@ -1,0 +1,646 @@
+I_FPP1
+expect_VPRT [PRIV] [THATD]
+you_SPP2
+have_VPRT
+all_QUAN
+heard_VBN [PRIV]
+of_PIN
+the_DT
+anglican_JJ
+bishop_NN
+,_,
+Rev_NN
+Stephen_NN
+Lowe_NN
+,_,
+who_WP
+wanted_VBD
+the_DT
+popular_JJ
+hymn_NN
+``_``
+I_FPP1
+Vow_VPRT [PUBV]
+to_TO
+Thee_SPP2
+My_FPP1
+Country_NN
+''_''
+banned_VBN
+due_JJ
+to_TO
+`_``
+increased_VBN
+nationalism_NN
+'_''
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+extraordinary_PRED
+._.
+For_PIN
+those_DEMO
+of_PIN
+you_SPP2
+who_WP
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+the_DT
+hymn_NN
+-LRB-_-LRB-
+I_FPP1
+did_VBD
+n't_XX0 [CONT]
+myself_FPP1
+,_,
+being_VBG
+not_XX0
+too_RB
+religious_PRED
+in_PIN
+any_QUAN
+faith_NN
+-RRB-_-RRB-
+,_,
+here_RB
+it_PIT
+is_VPRT
+:_:
+I_FPP1
+vow_NN
+to_TO
+thee_SPP2
+,_,
+my_FPP1
+country_NN
+-_:
+all_QUAN
+earthly_JJ
+things_NN
+above_PLACE
+Entire_NN
+and_CC
+whole_JJ
+and_PHC
+perfect_JJ
+,_,
+the_DT
+service_NN
+of_PIN
+my_FPP1
+love_NN
+;_:
+The_DT
+love_NN
+that_TSUB
+asks_VPRT [SUAV]
+no_SYNE
+question_NOMZ
+,_,
+the_DT
+love_NN
+that_TSUB
+stands_VPRT
+the_DT
+test_NN
+,_,
+That_DEMP
+lays_VPRT
+upon_PIN
+the_DT
+altar_NN
+the_DT
+dearest_JJ
+and_CC
+the_DT
+best_JJ
+;_:
+The_DT
+love_NN
+that_TSUB
+never_RB
+falters_VPRT
+,_,
+the_DT
+love_NN
+that_TSUB
+pays_VPRT
+the_DT
+price_NN
+,_,
+The_DT
+love_NN
+that_TSUB
+makes_VPRT
+undaunted_JJ
+the_DT
+final_JJ
+sacrifice_NN
+._.
+And_ANDC
+there_EX
+'s_VPRT [CONT]
+another_DT
+country_NN
+,_,
+I_FPP1
+'ve_VPRT [CONT]
+heard_VBN [PRIV]
+of_PIN
+long_JJ
+ago_RB
+Most_EMPH
+dear_RB
+to_PIN
+them_TPP3
+that_DEMP
+love_VPRT
+her_TPP3
+,_,
+most_EMPH
+great_JJ
+to_PIN
+them_TPP3
+that_DEMP
+know_VPRT [PRIV]
+;_:
+We_FPP1
+may_POMD
+not_XX0
+count_VB
+her_TPP3
+armies_NN
+,_,
+we_FPP1
+may_POMD
+not_XX0
+see_VB [PRIV]
+her_TPP3
+King_NN
+;_:
+Her_TPP3
+fortress_NN
+is_VPRT [BEMA]
+a_DT
+faithful_JJ
+heart_NN
+,_,
+her_TPP3
+pride_NN
+is_VPRT
+suffering_VBG
+;_:
+And_ANDC
+soul_NN
+by_PIN
+soul_NN
+and_CC
+silently_RB
+her_TPP3
+shining_VBG
+bounds_NN
+increase_NN
+,_,
+And_ANDC
+her_TPP3
+ways_NN
+are_VPRT
+ways_NN
+of_PIN
+gentleness_NOMZ
+,_,
+and_ANDC
+all_QUAN
+her_TPP3
+paths_NN
+are_VPRT
+peace_NN
+._.
+``_``
+I_FPP1
+'m_VPRT [CONT]
+saying_VBG [PUBV] [THATD]
+it_PIT
+'s_VPRT [CONT] [BEMA]
+important_PRED
+to_TO
+think_VB [PRIV]
+about_IN
+what_WP
+we_FPP1
+are_VPRT
+singing_VBG
+._.
+The_DT
+words_NN
+were_VBD [PASS]
+written_VBN [PUBV]
+after_IN
+WW1_CD
+when_RB
+millions_NN
+had_VBD [PEAS]
+died_VBN
+._.
+They_TPP3
+were_VBD [PASS]
+meant_VBN [PRIV]
+to_TO
+reassure_VB
+people_NN
+they_TPP3
+would_PRMD
+go_VB
+to_PIN
+Heaven_NN
+._.
+``_``
+There_EX
+'s_VPRT [CONT]
+nothing_INPR
+wrong_JJ
+with_PIN
+Christians_NN
+being_VBG [WZPRES] [BEMA]
+patriotic_PRED
+but_CC
+you_SPP2
+can_POMD
+not_XX0
+say_VB [PUBV] [THATD]
+the_DT
+country_NN
+has_VPRT
+to_TO
+be_VB [PASS]
+supported_VBN
+even_RB
+if_COND
+it_PIT
+'s_VPRT [CONT] [BEMA]
+wrong_PRED
+._.
+''_''
+Fair_NN
+enough_RB
+,_,
+I_FPP1
+hear_VPRT [PRIV] [THATD]
+you_SPP2
+say_VPRT [PUBV]
+._.
+But_CC
+does_VPRT
+a_DT
+hymn_NN
+being_VBG [WZPRES] [PASS]
+sung_VBN
+mean_VPRT [PRIV]
+you_SPP2
+`_``
+have_VPRT
+'_''
+to_TO
+support_VB
+what_WP
+it_PIT
+'s_VPRT [CONT]
+saying_VBG [PUBV]
+?_.
+Nobody_INPR
+'s_POS
+coming_VBG
+at_PIN
+you_SPP2
+with_PIN
+a_DT
+knife_NN
+,_,
+just_EMPH
+to_TO
+make_VB
+sure_JJ
+you_SPP2
+sing_VPRT
+it_PIT
+and_CC
+salute_VB
+your_SPP2
+country_NN
+._.
+He_TPP3
+also_RB
+comments_VPRT [PUBV]
+on_PIN
+Euro_NN
+2004_CD
+._.
+He_TPP3
+says_VPRT [PUBV]
+that_THVC
+nationalism_NN
+``_``
+was_VBD [BEMA]
+evident_PRED
+during_PIN
+the_DT
+Euro_NN
+2004_CD
+football_NN
+tournament_NOMZ
+''_''
+._.
+Nationalism_NN
+?_.
+Being_VBG [BEMA]
+patriotic_PRED
+,_,
+you_SPP2
+mean_VPRT [PRIV]
+._.
+Sorry_JJ
+,_,
+I_FPP1
+forgot_VBD [PRIV] [THATD]
+we_FPP1
+were_VBD [PASS]
+n't_XX0 [CONT]
+allowed_VBN [SUAV]
+to_TO
+do_VB [PROD]
+that_DEMP
+._.
+The_DT
+whole_NN
+of_PIN
+Greece_NN
+was_VBD [BEMA]
+in_PIN
+euphoria_NN
+for_PIN
+7_CD
+days_NN
+after_IN
+they_TPP3
+won_VBD
+it_PIT
+-_:
+they_TPP3
+drank_VPRT
+to_PIN
+excess_JJ
+,_,
+landlords_NN
+gave_VBD
+out_PIN
+free_JJ
+drinks_NN
+all_QUAN
+week_NN
+,_,
+even_RB
+to_PIN
+foreigners_NN
+,_,
+and_ANDC
+there_EX
+was_VBD
+partying_VBG
+until_IN
+late_TIME
+out_PIN
+in_PIN
+the_DT
+streets_NN
+._.
+Therefore_CONJ
+,_,
+we_FPP1
+'re_VPRT [CONT] [PASS]
+not_XX0
+allowed_VBN [SUAV]
+to_TO [SPIN]
+even_RB
+put_VB
+a_DT
+flag_NN
+up_RB
+,_,
+according_VBG [PRESP]
+to_PIN
+this_DEMO
+bishop_NN
+._.
+What_WP [WHQU]
+'s_VPRT [CONT] [BEMA]
+different_PRED
+with_PIN
+this_DEMO
+country_NN
+?_.
+Why_RB [WHQU]
+ca_POMD
+n't_XX0 [CONT]
+we_FPP1
+do_VPRT [PROD]
+the_DT
+same_JJ
+as_IN
+everybody_QUPR
+else_RB
+and_CC
+be_VB [BEMA]
+proud_PRED
+of_PIN
+our_FPP1
+nation_NOMZ
+,_,
+of_PIN
+what_WP
+it_PIT
+achieves_VPRT
+,_,
+even_RB
+what_WP
+it_PIT
+fails_VPRT
+in_PIN [STPR]
+?_.
+Seems_VPRT [SMP]
+to_PIN
+me_FPP1
+we_FPP1
+'re_VPRT [CONT] [BEMA]
+just_EMPH
+one_CD
+large_JJ
+mass_NN
+of_PIN
+fear_NN
+._.
+A_DT
+foreigner_NN
+mouthes_VPRT
+off_PIN
+at_PIN
+a_DT
+passer_NN
+by_PIN [STPR]
+,_,
+you_SPP2
+have_VPRT
+a_DT
+go_NN
+at_PIN
+them_TPP3
+,_,
+and_ANDC
+you_SPP2
+'re_VPRT [CONT] [PASS]
+called_VBN
+a_DT
+racist_NN
+._.
+Sure_RB
+._.
+The_DT
+fact_NN
+that_TOBJ
+they_TPP3
+'re_VPRT [CONT] [SPAU]
+just_EMPH
+being_VBG [BEMA]
+a_DT
+right_JJ
+moron_NN
+seems_VPRT [SMP]
+to_TO
+pass_VB
+them_TPP3
+by_PIN
+-_:
+you_SPP2
+know_VPRT [PRIV] [THATD]
+you_SPP2
+'d_PRMD [CONT]
+say_VB [PUBV]
+exactly_RB
+the_DT
+same_JJ
+to_PIN
+a_DT
+person_NN
+of_PIN
+your_SPP2
+own_JJ
+race_NN
+,_,
+but_CC
+that_DEMP
+does_VPRT
+n't_XX0 [CONT]
+matter_VB
+anymore_RB
+to_PIN
+this_DEMO
+country_NN
+._.
+We_FPP1
+pussyfoot_VPRT
+around_PLACE
+and_CC
+let_VB
+anyone_QUPR
+do_VB
+what_WP
+they_TPP3
+want_VPRT
+,_,
+just_EMPH
+in_PIN
+case_NN
+we_FPP1
+get_VPRT
+some_QUAN
+backlash_NN
+._.
+Other_JJ
+countries_NN
+obviously_RB
+use_VPRT
+this_DEMO
+to_PIN
+their_TPP3
+advantage_NN
+._.
+France_NN
+do_VPRT
+n't_XX0 [CONT]
+need_VB
+worry_NN
+about_IN
+asylum_NN
+seekers_NN
+anymore_RB
+-_:
+send_VB
+them_TPP3
+over_IN
+to_PIN
+Britain_NN
+and_CC
+they_TPP3
+wo_PRMD
+n't_XX0 [CONT]
+be_VB [BEMA]
+able_PRED
+to_TO
+quibble_VB
+._.
+Anyway_RB
+,_,
+what_WP
+do_VB
+you_SPP2
+think_VB [PRIV]
+?_.
+Is_VPRT
+showing_VBG [PRIV]
+support_NN
+for_PIN
+a_DT
+national_JJ
+team_NN
+wrong_JJ
+?_.
+Is_VPRT [BEMA]
+the_DT
+term_NN
+`_``
+nationalist_JJ
+'_''
+too_RB
+widely_RB
+used_VBN
+to_TO
+represent_VB
+anyone_QUPR
+who_WP
+is_VPRT [BEMA]
+proud_PRED
+of_PIN
+their_TPP3
+country_NN
+?_.
+And_ANDC
+is_VPRT [BEMA]
+that_DEMO
+wrong_JJ
+in_PIN
+itself_PIT
+?_.
+The_DT
+case_NN
+continues_VPRT
+._.

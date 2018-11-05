@@ -1,0 +1,107 @@
+Wilfred_NN
+Rowland_NN
+Childe_NN
+-LRB-_-LRB-
+1890_CD
+``_``
+1952_CD
+-RRB-_-RRB-
+was_VBD [BEMA]
+a_DT
+British_JJ
+author_NN
+and_PHC
+poet_NN
+._.
+-LRB-_-LRB-
+1_LS
+-RRB-_-RRB-
+Childe_NN
+was_VBD [PASS]
+educated_VBN
+at_PIN
+Harrow_NN
+School_NN
+and_PHC
+Magdalen_NN
+College_NN
+,_,
+Oxford_NN
+._.
+He_TPP3
+edited_VBD
+Oxford_NN
+Poetry_NN
+in_PIN
+1916_CD
+and_CC
+1917_CD
+._.
+He_TPP3
+became_VBD
+a_DT
+Roman_JJ
+Catholic_NN
+convert_VPRT
+in_PIN
+1916_CD
+._.
+He_TPP3
+is_VPRT [SPAU] [PASS]
+chiefly_RB
+remembered_VBN [PRIV]
+for_PIN
+Dream_VB [PRIV]
+English_NN
+._.
+A_DT
+Fantastical_NN
+Romance_NN
+-LRB-_-LRB-
+1917_CD
+-RRB-_-RRB-
+which_WDT [SERE]
+was_VBD
+and_CC
+still_RB
+is_VPRT
+something_QUPR
+of_PIN
+a_DT
+minor_JJ
+cult_NN
+book_NN
+._.
+He_TPP3
+was_VBD [BYPA]
+admired_VBN
+by_PIN
+Arthur_NN
+Machen_NN
+and_CC
+later_TIME
+by_PIN
+the_DT
+poet_NN
+Robin_NN
+Skelton_NN
+._.
+His_TPP3
+Selected_NN
+Poems_NN
+was_VBD [PASS]
+published_VBN
+in_PIN
+1936_CD
+._.
+He_TPP3
+associated_VBN
+with_PIN
+the_DT
+Sitwells_NN
+,_,
+but_CC
+was_VBD [BEMA]
+no_SYNE
+modernist_JJ
+._.

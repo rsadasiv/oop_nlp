@@ -1,0 +1,35 @@
+Richard_NNP William_NNP Church_NNP -LRB-_-LRB- 25_CD April_NNP 1815_CD ''_'' 6_CD December_NNP 1890_CD -RRB-_-RRB- was_VBD an_DT English_JJ churchman_NN and_CC writer_NN ,_, known_VBN latterly_RB as_IN Dean_NNP Church_NNP ._.
+Richard_NNP William_NNP was_VBD the_DT eldest_JJS of_IN three_CD sons_NNS of_IN John_NNP Dearman_NNP Church_NNP ,_, a_DT wine_NN merchant_NN ,_, and_CC his_PRP$ wife_NN Bromley_NNP Caroline_NNP Metzener_NNP -LRB-_-LRB- d._FW 1845_CD -RRB-_-RRB- ._.
+His_PRP$ grandfather_NN Matthew_NNP Church_NNP ,_, a_DT merchant_NN of_IN Cork_NNP ,_, and_CC his_PRP$ wife_NN ,_, were_VBD Quakers_NNPS ,_, and_CC John_NNP had_VBD not_RB been_VBN baptized_VBN into_IN the_DT Church_NNP of_IN England_NNP until_IN the_DT time_NN of_IN his_PRP$ marriage_NN in_IN 1814_CD ._.
+His_PRP$ uncle_NN ,_, General_NNP Sir_NNP Richard_NNP Church_NNP -LRB-_-LRB- 1784_CD ``_`` 1873_CD -RRB-_-RRB- ,_, achieved_VBD fame_NN as_IN a_DT liberator_NN of_IN Greece_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT family_NN moved_VBD in_IN 1818_CD to_TO Florence_NNP ._.
+After_IN his_PRP$ father_NN 's_POS death_NN in_IN 1828_CD his_PRP$ mother_NN settled_VBN in_IN Bath_NNP ,_, and_CC he_PRP was_VBD sent_VBN to_TO a_DT strict_JJ evangelical_JJ school_NN at_IN Redland_NNP ,_, Bristol_NNP ._.
+He_PRP was_VBD admitted_VBN in_IN 1832_CD to_TO Wadham_NNP College_NNP ,_, Oxford_NNP ,_, where_WRB he_PRP took_VBD first-class_JJ honors_NNS in_IN 1836_CD ._.
+His_PRP$ mother_NN ,_, meanwhile_RB ,_, was_VBD remarried_VBN to_TO Thomas_NNP Crokat_NNP ,_, a_DT widowed_VBN Englishman_NNP of_IN Leghorn_NNP ._.
+In_IN 1838_CD ,_, he_PRP was_VBD elected_VBN fellow_NN of_IN Oriel_NNP College_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- One_CD of_IN his_PRP$ contemporaries_NNS ,_, Richard_NNP Mitchell_NNP ,_, commenting_VBG on_IN this_DT election_NN ,_, said_VBD :_: ``_`` There_EX is_VBZ such_JJ a_DT moral_JJ beauty_NN about_IN Church_NNP that_IN they_PRP could_MD not_RB help_VB taking_VBG him_PRP ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD appointed_VBN tutor_NN of_IN Oriel_NNP in_IN 1839_CD and_CC was_VBD ordained_VBN the_DT same_JJ year_NN ._.
+He_PRP was_VBD a_DT close_JJ friend_NN of_IN John_NNP Henry_NNP Newman_NNP in_IN this_DT period_NN and_CC closely_RB allied_VBD to_TO the_DT Tractarian_JJ movement_NN ._.
+In_IN 1841_CD Tract_NNP 90_CD of_IN Tracts_NNS for_IN the_DT Times_NNP appeared_VBD and_CC Church_NNP resigned_VBD his_PRP$ tutorship_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- From_IN 1844_CD to_TO 1845_CD ,_, Church_NNP was_VBD junior_JJ proctor_NN and_CC ,_, in_IN that_DT capacity_NN and_CC in_IN concert_NN with_IN his_PRP$ senior_JJ colleague_NN ,_, vetoed_VBD a_DT proposal_NN to_TO censure_VB Tracts_NNS publicly_RB ._.
+In_IN 1846_CD ,_, with_IN others_NNS ,_, he_PRP started_VBD The_DT Guardian_NNP newspaper_NN and_CC he_PRP was_VBD an_DT early_JJ contributor_NN to_TO The_DT Saturday_NNP Review_NNP ._.
+In_IN 1850_CD he_PRP became_VBD engaged_VBN to_TO H.F._NNP Bennett_NNP ,_, of_IN a_DT Somersetshire_NNP family_NN ,_, a_DT niece_NN of_IN George_NNP Moberly_NNP ,_, Bishop_NNP of_IN Salisbury_NNP ._.
+After_IN again_RB holding_VBG the_DT tutorship_NN of_IN Oriel_NNP ,_, he_PRP accepted_VBD in_IN 1858_CD the_DT small_JJ living_NN of_IN Whatley_NNP in_IN Somerset_NNP near_IN Frome_NNP and_CC was_VBD married_VBN in_IN the_DT following_JJ year_NN ._.
+He_PRP was_VBD a_DT diligent_JJ parish_NN priest_NN and_CC a_DT serious_JJ student_NN and_CC contributed_VBD largely_RB to_TO current_JJ literature_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 1869_CD he_PRP refused_VBD a_DT canonry_NN at_IN Worcester_NNP ,_, but_CC in_IN 1871_CD he_PRP accepted_VBD ,_, most_JJS reluctantly_RB -LRB-_-LRB- calling_VBG it_PRP ``_`` a_DT sacrifice_NN en_IN pure_JJ perte_NN ''_'' -RRB-_-RRB- ,_, the_DT deanery_NN of_IN St_NNP Paul_NNP 's_POS ,_, to_TO which_WDT he_PRP was_VBD nominated_VBN by_IN WE_NNP Gladstone_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- His_PRP$ task_NN as_IN dean_NN was_VBD a_DT complicated_JJ one_CD ._.
+It_PRP was_VBD :_: -LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP described_VBD the_DT intention_NN of_IN his_PRP$ appointment_NN to_TO be_VB ``_`` that_IN St_NNP Paul_NNP 's_POS should_MD waken_VB up_RP from_IN its_PRP$ long_JJ slumber_NN ''_'' ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- The_DT first_JJ year_NN that_IN he_PRP spent_VBD at_IN St_NNP Paul_NNP 's_POS was_VBD ,_, writes_VBZ one_CD of_IN his_PRP$ friends_NNS ,_, one_CD of_IN ``_`` misery_NN ''_'' for_IN a_DT man_NN who_WP loved_VBD study_NN and_CC hated_VBN pomp_NN and_CC business_NN ._.
+But_CC he_PRP worked_VBD tactfully_RB ._.
+Though_IN of_IN unimpressive_JJ stature_NN and_CC monotonous_JJ ,_, he_PRP had_VBD a_DT strong_JJ influence_NN ._.
+He_PRP was_VBD a_DT High_JJ Churchman_NNP ,_, but_CC of_IN a_DT rational_JJ type_NN ,_, and_CC with_IN an_DT enthusiasm_NN for_IN religious_JJ liberty_NN ._.
+He_PRP said_VBD of_IN the_DT Church_NNP of_IN England_NNP that_IN there_EX was_VBD ``_`` no_RB more_RBR glorious_JJ church_NN in_IN Christendom_NNP than_IN this_DT inconsistent_JJ English_NNP Church_NNP ._. ''_''
+He_PRP was_VBD regarded_VBN in_IN 1882_CD as_IN a_DT possible_JJ successor_NN to_TO Archbishop_NNP Tait_NNP ,_, but_CC his_PRP$ health_NN made_VBD it_PRP out_IN of_IN the_DT question_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- While_IN Dean_NNP of_IN St._NNP Paul_NNP 's_POS ,_, he_PRP was_VBD patron_NN of_IN Saint_NNP Martin_NNP 's_POS League_NNP for_IN letter_NN carriers_NNS ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- In_IN 1888_CD his_PRP$ only_JJ son_NN died_VBD ;_: his_PRP$ own_JJ health_NN declined_VBD ,_, and_CC he_PRP appeared_VBD for_IN the_DT last_JJ time_NN in_IN public_NN at_IN the_DT funeral_JJ of_IN Henry_NNP Parry_NNP Liddon_NNP on_IN 9_CD September_NNP 1890_CD ,_, dying_VBG on_IN 9_CD December_NNP in_IN the_DT same_JJ year_NN ,_, at_IN Dover_NNP ._.
+He_PRP was_VBD buried_VBN at_IN Whatley_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT dean_NN 's_POS chief_JJ published_VBN works_NNS are_VBP a_DT Life_NN of_IN St_NNP Anselm_NNP -LRB-_-LRB- 1870_CD -RRB-_-RRB- ,_, the_DT lives_NNS of_IN Spenser_NNP -LRB-_-LRB- 1879_CD -RRB-_-RRB- and_CC Bacon_NNP -LRB-_-LRB- 1884_CD -RRB-_-RRB- in_IN Macmillan_NNP 's_POS ``_`` Men_NN of_IN Letters_NNP ''_'' series_NN ,_, an_DT Essay_NN on_IN Dante_NNP -LRB-_-LRB- 1878_CD -RRB-_-RRB- ,_, The_DT Oxford_NNP Movement_NNP -LRB-_-LRB- 1891_CD -RRB-_-RRB- ,_, together_RB with_IN many_JJ other_JJ volumes_NNS of_IN essays_NNS and_CC sermons_NNS ._.
+A_DT collection_NN of_IN his_PRP$ journalistic_JJ articles_NNS was_VBD published_VBN in_IN 1897_CD as_IN Occasional_NNP Papers_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- His_PRP$ style_NN is_VBZ lucid_JJ but_CC austere_JJ ._.
+He_PRP stated_VBD that_IN he_PRP had_VBD never_RB studied_VBN style_NN per_IN se_FW ,_, but_CC that_IN he_PRP had_VBD acquired_VBN it_PRP by_IN the_DT exercise_NN of_IN translation_NN from_IN classical_JJ languages_NNS ;_: and_CC that_IN he_PRP employed_VBD care_NN in_IN his_PRP$ choice_NN of_IN verbs_NNS rather_RB than_IN in_IN his_PRP$ use_NN of_IN adjectives_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Attribution_NN

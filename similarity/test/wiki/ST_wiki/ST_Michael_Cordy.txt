@@ -1,0 +1,13 @@
+Michael_NNP Cordy_NNP is_VBZ a_DT British_JJ novelist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN in_IN Accra_NNP ,_, the_DT capital_NN of_IN Ghana_NNP ._.
+Cordy_NNP spent_VBD much_RB of_IN his_PRP$ childhood_NN in_IN both_DT West_NNP Africa_NNP and_CC East_NNP Africa_NNP ,_, India_NNP and_CC Cyprus_NNP ._.
+He_PRP was_VBD educated_VBN in_IN the_DT United_NNP Kingdom_NNP at_IN The_DT King_NNP 's_POS School_NNP ,_, Canterbury_NNP ,_, and_CC the_DT universities_NNS of_IN Leicester_NNP and_CC Durham_NNP ._.
+After_IN ten_CD years_NNS in_IN marketing_NN and_CC advertising_NN ,_, with_IN his_PRP$ wife_NN 's_POS encouragement_NN ,_, he_PRP became_VBD a_DT novelist_NN ._.
+His_PRP$ first_JJ novel_NN ,_, The_DT Miracle_NNP Strain_NNP ,_, took_VBD two_CD years_NNS to_TO complete_VB and_CC was_VBD published_VBN in_IN 1997_CD ._.
+Disney_NNP bought_VBD the_DT film_NN rights_NNS for_IN $_$ 1.6_CD million_CD and_CC the_DT novel_NN reached_VBD no._JJ 5_CD in_IN The_DT Sunday_NNP Times_NNP Bestseller_NNP list_NN ._.
+An_DT international_JJ success_NN ,_, it_PRP has_VBZ since_IN been_VBN published_VBN in_IN more_JJR than_IN twenty-five_JJ languages_NNS and_CC over_IN forty_JJ countries_NNS ._.
+Dan_NNP Brown_NNP published_VBD The_DT Da_NNP Vinci_NNP Code_NNP in_IN 2003_CD ,_, and_CC its_PRP$ success_NN may_MD have_VB influenced_VBN the_DT renaming_NN of_IN Cordy_NNP 's_POS first_JJ three_CD novels_NNS ._.
+In_IN spite_NN of_IN publishing_VBG six_CD years_NNS earlier_RBR ,_, he_PRP has_VBZ been_VBN criticised_VBN of_IN imitating_VBG Dan_NNP Brown_NNP ._.
+Michael_NNP Cordy_NNP lives_VBZ in_IN London_NNP with_IN Jenny_NNP ,_, his_PRP$ wife_NN ,_, and_CC their_PRP$ daughter_NN ,_, Phoebe_NNP ._.
+Currently_RB ,_, he_PRP is_VBZ working_VBG under_IN contract_NN on_IN his_PRP$ first_JJ screenplay_NN ,_, Crime_NNP Zero_NNP ,_, having_VBG recently_RB sold_VBD the_DT film_NN rights_NNS option_NN to_TO a_DT subsidiary_NN of_IN Warner_NNP Bros._NNP ''_'' New_NNP line_NN Cinema_NNP ._.
+Cordy_NNP is_VBZ the_DT author_NN of_IN six_CD novels_NNS :_:

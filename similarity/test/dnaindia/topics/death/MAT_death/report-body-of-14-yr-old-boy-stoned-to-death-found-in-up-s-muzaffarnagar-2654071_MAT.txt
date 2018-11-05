@@ -1,0 +1,88 @@
+A_DT
+14-year-old_JJ
+boy_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+stoned_VBN
+to_PIN
+death_NN
+by_PIN
+unknown_JJ
+miscreants_NN
+in_PIN
+the_DT
+Ladhawala_NN
+locality_NOMZ
+here_RB
+,_,
+police_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+victim_NN
+,_,
+identified_VBN
+as_IN
+Zuber_NN
+,_,
+had_VBD [PEAS]
+gone_VBN
+missing_VBG
+last_JJ
+evening_GER
+after_IN
+leaving_VBG
+home_NN
+to_TO
+buy_VB
+medicines_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+Locals_NN
+searching_VBG [WZPRES]
+for_PIN
+the_DT
+boy_NN
+found_VBD [PRIV]
+his_TPP3
+body_NN
+in_PIN
+a_DT
+vacant_JJ
+plot_NN
+of_PIN
+land_NN
+nearby_PLACE
+,_,
+officials_NN
+said_VBD [PUBV]
+._.
+The_DT
+body_NN
+,_,
+bearing_VBG
+injuries_NN
+suspected_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+been_VBN [PASS]
+caused_VBN
+with_PIN
+a_DT
+brick_NN
+,_,
+was_VBD [PASS]
+sent_VBN
+for_PIN
+postmortem_NN
+and_CC
+an_DT
+investigation_NOMZ
+launched_VBN
+,_,
+police_NN
+said_VBD [PUBV]
+._.

@@ -1,0 +1,24 @@
+Mary_NNP Chandler_NNP -LRB-_-LRB- 1687_CD ``_`` 1745_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN ._.
+George_NNP Crabb_NNP writes_VBZ that_IN she_PRP left_VBD several_JJ poems_NNS ,_, ``_`` the_DT most_RBS esteemed_VBN of_IN which_WDT was_VBD her_PRP Bath_NNP ._. ''_''
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Born_VBN at_IN Malmesbury_NNP ,_, Wiltshire_NNP ,_, she_PRP was_VBD the_DT eldest_JJS daughter_NN of_IN Henry_NNP Chandler_NNP ,_, a_DT dissenting_VBG minister_NN ,_, later_RB at_IN Bath_NNP ,_, Somerset_NNP ._.
+Her_PRP$ mother_NN was_VBD a_DT Miss_NNP Bridgman_NNP of_IN Marlborough_NNP ,_, and_CC Samuel_NNP Chandler_NNP was_VBD one_CD of_IN her_PRP$ brothers_NNS ._.
+In_IN her_PRP$ youth_NN her_PRP$ spine_NN became_VBD crooked_JJ ,_, and_CC her_PRP$ health_NN suffered_VBD ,_, but_CC she_PRP set_VBD up_RP a_DT milliners_NNS shop_NN in_IN Bath_NNP about_IN 1705_CD ,_, when_WRB not_RB yet_RB out_IN of_IN her_PRP$ teens_NNS ,_, and_CC wrote_VBD rhyming_VBG riddles_NNS and_CC poems_NNS to_TO friends_NNS ._.
+Despite_IN her_PRP$ deformity_NN and_CC class_NN station_NN ,_, she_PRP was_VBD on_IN familiar_JJ terms_NNS with_IN a_DT variety_NN of_IN Bath_NNP society_NN ,_, among_IN them_PRP Mrs._NNP Boteler_NNP ,_, Mrs._NNP Moor_NNP ,_, Lady_NNP Russell_NNP ,_, and_CC the_DT Duchess_NNP of_IN Somerset_NNP ._.
+Jonathan_NNP Swift_NNP 's_POS friend_NN Mary_NNP Barber_NNP was_VBD her_PRP$ neighbor_NN ,_, and_CC she_PRP was_VBD also_RB a_DT friend_NN of_IN Elizabeth_NNP Rowe_NNP and_CC the_DT Frances_NNP Seymour_NNP ,_, Countess_NNP of_IN Hertford_NNP ._.
+Alexander_NNP Pope_NNP knew_VBD of_IN and_CC praised_VBD her_PRP$ poetry_NN ._.
+She_PRP died_VBD on_IN 11_CD September_NNP 1745_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT first_JJ edition_NN of_IN her_PRP$ most_RBS famous_JJ work_NN ,_, A_DT Description_NN of_IN Bath_NNP -LRB-_-LRB- 1733_CD -RRB-_-RRB- ,_, was_VBD described_VBN as_IN '_'' a_DT letter_NN to_TO a_DT friend_NN '_'' and_CC dedicated_VBN to_TO her_PRP$ physician_NN ,_, Dr_NNP Oliver_NNP ._.
+The_DT second_JJ edition_NN appeared_VBD the_DT following_JJ year_NN ,_, newly_RB inscribed_VBN to_TO the_DT Princess_NNP Amelia_NNP ,_, with_IN the_DT original_JJ panegyric_JJ verses_NNS on_IN Dr_NNP Oliver_NNP excised_VBD and_CC replaced_VBD ._.
+The_DT loss_NN was_VBD made_VBN good_JJ in_IN the_DT third_JJ edition_NN ,_, issued_VBN in_IN 1736_CD ,_, which_WDT included_VBD a_DT poem_NN `_`` To_TO Doctor_NNP Oliver_NNP ,_, who_WP corrected_VBD my_PRP$ Bath_NN poem_NN '_'' ._.
+A_DT fourth_JJ edition_NN followed_VBD in_IN 1738_CD ,_, and_CC a_DT fifth_JJ in_IN 1741_CD ._.
+A_DT wealthy_JJ gentleman_NN ,_, of_IN sixty_NN ,_, struck_VBD with_IN one_CD of_IN her_PRP$ poems_NNS ,_, traveled_VBD eighty_CD miles_NNS to_TO see_VB her_PRP ,_, and_CC ,_, after_IN buying_VBG a_DT pair_NN of_IN gloves_NNS from_IN her_PRP ,_, offered_VBD to_TO make_VB her_PRP$ his_PRP$ wife_NN ._.
+Miss_NNP Chandler_NNP turned_VBD the_DT incident_NN into_IN verse_JJ ,_, and_CC a_DT sixth_JJ edition_NN of_IN her_PRP$ book_NN being_VBG called_VBN for_IN in_IN 1744_CD ,_, it_PRP appeared_VBD with_IN a_DT sub-title_JJ ,_, <sup>_JJ ~_NN </sup>_VB To_TO which_WDT is_VBZ added_VBN a_DT True_JJ Tale_NNP ,_, by_IN the_DT same_JJ Author_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP After_IN her_PRP$ retirement_NN from_IN business_NN ,_, she_PRP began_VBD a_DT poem_NN <sup>_VBZ ~_CD </sup>_JJ On_IN the_DT Attributes_NNPS of_IN God_NNP ,_, <sup>_NNP TM_NNP </sup>_NNP but_CC left_VBD it_PRP unfinished_JJ at_IN her_PRP$ death_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- A_DT seventh_JJ edition_NN of_IN her_PRP$ poems_NNS was_VBD issued_VBN in_IN 1755_CD ,_, and_CC an_DT eighth_JJ in_IN 1767_CD ._.
+She_PRP dedicated_VBD her_PRP$ book_NN to_TO her_PRP$ brother_NN John_NNP ,_, and_CC her_PRP$ `_`` Life_NNP '_'' ,_, in_IN Theophilus_NNP Cibber_NNP 's_POS Lives_NNS of_IN the_DT Poets_NNP ,_, was_VBD written_VBN by_IN her_PRP$ brother_NN Samuel_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Humphreys_NNP ,_, Jennett_NNP -LRB-_-LRB- 1887_CD -RRB-_-RRB- ._.
+``_`` Chandler_NNP ,_, Mary_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+10_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP p._VBP 39_CD ._.

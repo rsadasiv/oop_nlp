@@ -1,0 +1,3 @@
+October_NNP 10_CD marks_NNS the_DT occasion_NN of_IN World_NNP Mental_NNP Health_NNP Day_NNP ._.
+Awareness_NN is_VBZ increasing_VBG with_IN more_JJR celebrities_NNS talking_VBG about_IN their_PRP$ battles_NNS ,_, people_NNS seeking_VBG help_NN ,_, special_JJ initiatives_NNS being_VBG taken_VBN ,_, etc._FW ._.
+Experts_NNS give_VBP us_PRP insights_NNS on_IN the_DT issues_NNS people_NNS are_VBP battling_VBG ,_, what_WP do_VBP they_PRP worry_VBP about_RB and_CC what_WP is_VBZ the_DT need_NN of_IN the_DT hour_NN ..._:

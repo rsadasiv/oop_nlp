@@ -1,0 +1,12 @@
+Amy_NNP Clarke_NNP ,_, better_RBR known_VBN by_IN her_PRP$ publishing_NN name_NN Mrs._NNP Henry_NNP Clarke_NNP -LRB-_-LRB- 17_CD April_NNP 1853_CD ''_'' 4_CD March_NNP 1908_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ writer_NN of_IN historical_JJ fiction_NN and_CC children_NNS 's_POS books_NNS ._.
+The_DT daughter_NN of_IN Joseph_NNP Henry_NNP Key_NNP and_CC Elizabeth_NNP Hosking_NNP ,_, Clarke_NNP was_VBD born_VBN Amy_NNP Key_NNP in_IN Plymouth_NNP in_IN 1853_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP started_VBD writing_VBG when_WRB young_JJ ,_, publishing_VBG a_DT story_NN in_IN the_DT magazine_NN Good_JJ Words_NNS when_WRB she_PRP was_VBD 16_CD ._.
+At_IN 20_CD ,_, she_PRP obtained_VBD a_DT first_JJ in_IN the_DT Cambridge_NNP Examination_NNP and_CC began_VBD teaching_VBG at_IN Plymouth_NNP High_NNP School_NNP for_IN Girls_NNP ._.
+Two_CD years_NNS later_RB she_PRP took_VBD one_CD year_NN 's_POS leave_NN to_TO read_VB mathematics_NNS at_IN Newnham_NNP College_NNP ,_, Cambridge_NNP ._.
+She_PRP left_VBD Plymouth_NNP High_NNP School_NNP in_IN 1880_CD to_TO become_VB the_DT first_JJ headmistress_NN of_IN Truro_NNP High_NNP School_NNP for_IN Girls_NNP ._.
+Clarke_NNP continued_VBD her_PRP$ education_NN even_RB during_IN this_DT appointment_NN ,_, attending_VBG London_NNP University_NNP to_TO earn_VB an_DT external_JJ MA_NNP ._.
+While_IN at_IN university_NN ,_, she_PRP met_VBD the_DT lecturer_NN Henry_NNP Clarke_NNP ,_, whom_WP she_PRP married_VBD in_IN 1889_CD ._.
+They_PRP had_VBD four_CD children_NNS :_: John_NNP Henry_NNP Clarke_NNP -LRB-_-LRB- born_VBN 1891_CD -RRB-_-RRB- ,_, Walter_NNP Oakley_NNP Clarke_NNP -LRB-_-LRB- 1892_CD -RRB-_-RRB- ,_, Amy_NNP Key_NNP Clarke_NNP -LRB-_-LRB- 1893_CD ``_`` 1980_CD -RRB-_-RRB- and_CC Wilfrid_NNP Kinton_NNP Clarke_NNP -LRB-_-LRB- 1894_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- After_IN her_PRP$ marriage_NN ,_, Clarke_NNP 's_POS teaching_NN was_VBD limited_VBN to_TO occasional_JJ lectures_VBZ at_IN Westfield_NNP College_NNP ._.
+Her_PRP$ primary_JJ occupation_NN became_VBD writing_VBG ._.
+In_IN 1908_CD ,_, she_PRP died_VBD of_IN cancer_NN ._.

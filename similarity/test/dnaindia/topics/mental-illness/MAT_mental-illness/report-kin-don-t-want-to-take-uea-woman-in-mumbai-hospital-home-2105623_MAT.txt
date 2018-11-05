@@ -1,0 +1,432 @@
+It_PIT
+has_VPRT [PEAS]
+been_VBN [BEMA]
+a_DT
+month_NN
+since_OSUB
+45-year-old_JJ
+Fatima_NN
+Khan_NN
+-LRB-_-LRB-
+name_NN
+changed_VBD
+-RRB-_-RRB-
+is_VPRT [PASS]
+admitted_VBN [PUBV]
+in_PIN
+GT_NN
+Hospital_NN
+'s_POS
+psychiatry_NN
+ward_NN
+for_PIN
+schizophrenia_NN
+._.
+Doctors_NN
+say_VPRT [PUBV] [THATD]
+she_TPP3
+has_VPRT [PEAS]
+had_VBN
+75_CD
+%_NN
+recovery_NN
+but_CC
+her_TPP3
+relatives_NN
+have_VPRT [PEAS]
+not_XX0
+bothered_VBN
+to_TO
+check_VB [PRIV]
+on_PIN
+her_TPP3
+forcing_VBG
+the_DT
+hospital_NN
+to_TO
+keep_VB
+her_TPP3
+in_PIN
+the_DT
+ward_NN
+and_CC
+bear_VB
+her_TPP3
+expenses_NN
+._.
+The_DT
+hospital_NN
+has_VPRT [PEAS]
+written_VBN [PUBV]
+to_PIN
+the_DT
+UAE_NN
+embassy_NN
+to_TO
+tell_VB
+her_TPP3
+husband_NN
+to_TO
+take_VB
+her_TPP3
+home_NN
+._.
+Dr_NN
+Sagar_NN
+Mundada_NN
+,_,
+a_DT
+resident_NN
+doctor_NN
+at_PIN
+GT_NN
+Hospital_NN
+,_,
+said_VBD [PUBV]
+,_,
+``_``
+Khan_NN
+had_VBD [PEAS]
+come_VBN
+for_PIN
+sonography_NN
+tests_NN
+along_IN
+with_PIN
+her_TPP3
+12-year-old_JJ
+daughter_NN
+._.
+She_TPP3
+was_VBD [BEMA]
+quite_RB
+violent_PRED
+._.
+Dr_NN
+Yusuf_NN
+Matcheswala_NN
+,_,
+who_WP
+is_VPRT [BEMA]
+our_FPP1
+head_NN
+of_PIN
+department_NOMZ
+,_,
+decided_VBD [SUAV] [PRIV]
+to_TO
+admit_VB [PUBV]
+her_TPP3
+._.
+''_''
+Dr_NN
+Mundada_NN
+said_VBD [PUBV]
+that_THVC
+while_OSUB
+the_DT
+girl_NN
+had_VBD
+sketchy_JJ
+details_NN
+about_IN
+their_TPP3
+address_NN
+,_,
+Fatima_NN
+was_VBD [BEMA]
+in_PIN
+a_DT
+state_NN
+of_PIN
+acute_JJ
+schizophrenia_NN
+and_ANDC
+hence_CONJ
+could_POMD
+n't_XX0 [CONT]
+help_VB
+them_TPP3
+._.
+``_``
+We_FPP1
+started_VBD
+the_DT
+treatment_NOMZ
+without_PIN
+waiting_VBG
+for_PIN
+her_TPP3
+relatives_NN
+._.
+Within_PIN
+a_DT
+few_QUAN
+days_NN
+,_,
+she_TPP3
+was_VBD
+better_RB
+._.
+We_FPP1
+got_VBD
+in_PIN
+touch_NN
+with_PIN
+her_TPP3
+son_NN
+and_PHC
+father_NN
+._.
+Both_DT
+refused_VBD
+to_TO
+take_VB
+her_TPP3
+responsibility_NOMZ
+because_CAUS
+of_PIN
+the_DT
+nature_NN
+of_PIN
+her_TPP3
+disease_NN
+._.
+We_FPP1
+have_VPRT [PEAS]
+tried_VBN
+getting_VBG
+in_PIN
+touch_NN
+with_PIN
+her_TPP3
+husband_NN
+who_WP [WHSUB]
+works_VPRT
+in_PIN
+UAE_NN
+._.
+We_FPP1
+have_VPRT [SPAU] [PEAS]
+also_RB
+written_VBN [PUBV]
+to_PIN
+the_DT
+UAE_NN
+embassy_NN
+,_,
+''_''
+said_VBD [PUBV]
+Dr_NN
+Mundada_NN
+._.
+Four_CD
+more_EMPH
+patients_NN
+are_VPRT
+getting_VBG
+treated_VBN
+for_PIN
+mental_JJ
+illness_NOMZ
+by_PIN
+GT_NN
+Hospital_NN
+doctors_NN
+without_PIN
+any_QUAN
+relatives_NN
+being_VBG [WZPRES] [BEMA]
+next_PRED
+to_PIN
+them_TPP3
+._.
+He_TPP3
+said_VBD [PUBV] [THATD]
+that_DEMP
+treating_VBG
+a_DT
+patient_NN
+with_PIN
+mental_JJ
+illness_NOMZ
+without_PIN
+a_DT
+relative_JJ
+is_VPRT [BEMA]
+a_DT
+common_JJ
+thing_NN
+at_PIN
+GT_NN
+Hospital_NN
+._.
+``_``
+We_FPP1
+see_VPRT [PRIV]
+3-4_CD
+such_JJ
+patients_NN
+who_WP [WHSUB]
+are_VPRT [BYPA]
+dumped_VBN
+by_PIN
+their_TPP3
+family_NN
+._.
+Police_NN
+and_CC
+we_FPP1
+become_VPRT
+their_TPP3
+custodians_NN
+._.
+We_FPP1
+hope_VPRT [PRIV]
+that_THVC
+they_TPP3
+get_VPRT
+treated_VBN
+and_PHC
+tell_VB
+us_FPP1
+details_NN
+,_,
+''_''
+said_VBD [PUBV]
+Dr_NN
+Mundada_NN
+._.
+The_DT
+department_NOMZ
+has_VPRT
+30_CD
+beds_NN
+,_,
+out_PIN
+of_PIN
+which_WDT [PIRE]
+20_CD
+are_VPRT [BEMA]
+for_PIN
+male_NN
+patients_NN
+and_CC
+10_CD
+are_VPRT [BEMA]
+for_PIN
+female_NN
+._.
+``_``
+In_PIN
+six_CD
+months_NN
+of_PIN
+my_FPP1
+career_NN
+with_PIN
+GT_NN
+Hospital_NN
+,_,
+there_EX
+has_VPRT [PEAS]
+not_XX0
+been_VBN [BEMA]
+a_DT
+single_JJ
+day_NN
+when_RB
+the_DT
+number_NN
+of_PIN
+admitted_VBN [PUBV]
+patients_NN
+in_PIN
+the_DT
+ward_NN
+has_VPRT [PEAS]
+dropped_VBN
+below_PLACE
+25_CD
+._.
+We_FPP1
+have_VPRT
+to_TO
+put_VB
+extra_JJ
+beds_NN
+on_PIN
+the_DT
+floor_NN
+sometime_RB
+,_,
+''_''
+said_VBD [PUBV]
+Dr_NN
+Mundada_NN
+._.
+The_DT
+department_NOMZ
+has_VPRT
+two_CD
+resident_JJ
+doctors_NN
+,_,
+one_CD
+lecturer_NN
+,_,
+14_CD
+nursing_GER
+staff_NN
+and_CC
+three_CD
+ward_NN
+boys_NN
+._.
+Dr_NN
+Yusuf_NN
+Matcheswala_NN
+said_VBD [PUBV]
+,_,
+``_``
+We_FPP1
+do_VPRT
+not_XX0
+turn_VB
+away_PLACE
+any_QUAN
+patient_NN
+even_RB
+if_COND
+there_EX
+is_VPRT
+no_SYNE
+relative_JJ
+with_PIN
+them_TPP3
+._.
+Since_OSUB
+it_PIT
+is_VPRT [BEMA]
+a_DT
+government_NOMZ
+hospital_NN
+,_,
+practically_DWNT
+everything_QUPR
+is_VPRT [BEMA]
+free_PRED
+._.
+The_DT
+little_JJ
+things_NN
+that_DEMP
+is_VPRT [SPAU] [PASS]
+otherwise_CONJ
+needed_VBN
+,_,
+we_FPP1
+doctors_NN
+manage_VPRT
+._.
+''_''

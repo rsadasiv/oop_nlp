@@ -1,0 +1,31 @@
+Edward_NNP Granville_NNP Browne_NNP ,_, FBA_NNP -LRB-_-LRB- 7_CD February_NNP 1862_CD ''_'' 5_CD January_NNP 1926_CD -RRB-_-RRB- was_VBD a_DT British_JJ orientalist_NN ._.
+He_PRP published_VBD numerous_JJ articles_NNS and_CC books_NNS ,_, mainly_RB in_IN the_DT areas_NNS of_IN history_NN and_CC literature_NN ._.
+Browne_NNP was_VBD born_VBN in_IN Stouts_NNP Hill_NNP ,_, Uley_NNP ,_, Gloucestershire_NNP ,_, England_NNP ,_, the_DT son_NN of_IN civil_JJ engineer_NN Benjamin_NNP Chapman_NNP Browne_NNP and_CC his_PRP$ wife_NN ,_, Annie_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Trinity_NNP College_NNP ,_, Glenalmond_NNP ,_, Burnside_NNP 's_POS School_NNP in_IN Berkshire_NNP ,_, Eton_NNP College_NNP ,_, and_CC the_DT Newcastle_NNP College_NNP of_IN Physical_NNP Science_NNP ._.
+He_PRP then_RB read_VBD natural_JJ sciences_NNS at_IN Pembroke_NNP College_NNP ,_, Cambridge_NNP ._.
+He_PRP also_RB studied_VBD Arabic_NNP with_IN Edward_NNP Henry_NNP Palmer_NNP and_CC William_NNP Wright_NNP ,_, and_CC Persian_JJ with_IN Edward_NNP Byles_NNP Cowell_NNP ,_, motivated_VBN by_IN an_DT interest_NN in_IN the_DT Turkish_JJ people_NNS ._.
+After_IN graduating_VBG in_IN 1882_CD he_PRP traveled_VBD to_TO Constantinople_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Browne_NNP then_RB spent_VBD a_DT further_JJ two_CD years_NNS at_IN University_NNP of_IN Cambridge_NNP studying_VBG the_DT languages_NNS of_IN India_NNP and_CC also_RB gained_VBD an_DT M.B._NNP in_IN London_NNP ._.
+In_IN 1887_CD he_PRP was_VBD made_VBN a_DT Fellow_NNP of_IN Pembroke_NNP ,_, and_CC then_RB paid_VBD an_DT extended_JJ visit_NN to_TO Iran_NNP ._.
+He_PRP returned_VBD to_TO become_VB university_NN lecturer_NN in_IN Iranian_JJ ._.
+In_IN April_NNP 1902_CD he_PRP was_VBD elected_VBN Sir_NNP Thomas_NNP Adams_NNP 's_POS Professor_NNP of_IN Arabic_NNP at_IN the_DT University_NNP of_IN Cambridge_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Browne_NNP was_VBD mainly_RB responsible_JJ for_IN the_DT creation_NN at_IN Cambridge_NNP of_IN a_DT school_NN of_IN living_VBG languages_NNS of_IN Asia_NNP ,_, in_IN connection_NN with_IN the_DT training_NN of_IN candidates_NNS for_IN the_DT Egyptian_JJ and_CC Sudanese_JJ civil_JJ services_NNS ,_, and_CC the_DT Lebanese_JJ consular_JJ service_NN ._.
+Browne_NNP married_JJ Alice_NNP Caroline_NNP ,_, daughter_NN of_IN Francis_NNP Henry_NNP Blackburne_NNP Daniell_NNP in_IN 1906_CD ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC had_VBD two_CD sons_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP died_VBD in_IN 1926_CD in_IN Cambridge_NNP ._.
+Browne_NNP published_VBN in_IN areas_NNS which_WDT few_JJ other_JJ Western_JJ scholars_NNS had_VBD explored_VBN ._.
+Many_JJ of_IN his_PRP$ publications_NNS are_VBP related_VBN to_TO Iran_NNP ,_, either_RB in_IN the_DT fields_NNS of_IN history_NN or_CC Persian_JJ literature_NN ._.
+He_PRP is_VBZ perhaps_RB best_RB known_VBN for_IN his_PRP$ documentation_NN and_CC historical_JJ narratives_NNS of_IN Bábism_NNP as_IN relayed_VBN by_IN Arthur_NNP de_NNP Gobineau_NNP ._.
+He_PRP published_VBD two_CD translations_NNS of_IN Bábí_NNP histories_NNS ,_, and_CC wrote_VBD several_JJ of_IN the_DT few_JJ Western_JJ accounts_NNS of_IN early_JJ Bábí_NNP and_CC Bahá_NNP '_POS í_JJ history_NN ._.
+Browne_NNP was_VBD not_RB a_DT Bahá_NNP '_POS í_NN ,_, but_CC rather_RB an_DT Orientalist_NNP ._.
+His_PRP$ interest_NN in_IN the_DT Bábí_NNP movement_NN was_VBD piqued_VBN by_IN a_DT book_NN by_IN de_FW Gobineau_NNP found_VBD while_IN he_PRP was_VBD looking_VBG for_IN materials_NNS on_IN tasawwuf_NN ._.
+The_DT history_NN A_DT Traveller_NNP 's_POS Narrative_NNP was_VBD written_VBN by_IN `_`` Abdu_NNP `_`` l-Bahá_JJ and_CC translated_VBN by_IN Browne_NNP ,_, who_WP added_VBD a_DT large_JJ introduction_NN and_CC appendices_NNS ._.
+Browne_NNP was_VBD fascinated_VBN by_IN the_DT development_NN of_IN the_DT written_VBN historical_JJ perspectives_NNS of_IN the_DT Bahá_NNP '_POS ís_NNS regarding_VBG successorship_NN after_IN the_DT Báb_NNP including_VBG their_PRP$ idea_NN of_IN an_DT independent_JJ dispensation_NN of_IN Bahá_NNP `_`` u_FW 'll_MD áh_VB ._.
+These_DT Bahá_NNP '_POS í-authored_JJ works_NNS emphasized_VBD Bahá_NNP `_`` u_FW 'll_MD áh_VB to_TO a_DT greater_JJR extent_NN than_IN the_DT Báb_NNP and_CC took_VBD a_DT critical_JJ view_NN against_IN Subh-i-Azal_NNP ,_, whom_WP de_FW Gobineau_NNP listed_VBN as_IN the_DT Báb_NNP 's_POS successor_NN ._.
+Browne_NNP expressed_VBD sympathy_NN for_IN Subh-i-Azal_NNP and_CC surprise_NN at_IN the_DT route_NN the_DT religion_NN had_VBD taken_VBN ._.
+In_IN A_DT Year_NN Among_IN the_DT Persians_NNPS -LRB-_-LRB- 1893_CD -RRB-_-RRB- he_PRP wrote_VBD a_DT sympathetic_JJ portrayal_NN of_IN Persian_JJ society_NN ._.
+After_IN his_PRP$ death_NN in_IN 1926_CD it_PRP was_VBD reprinted_VBN and_CC became_VBD a_DT classic_JJ in_IN English_NNP travel_NN literature_NN ._.
+He_PRP also_RB published_VBD the_DT first_JJ volume_NN of_IN A_DT Literary_NNP History_NN of_IN Persia_NNP in_IN 1902_CD with_IN subsequent_JJ volumes_NNS in_IN 1906_CD ,_, 1920_CD ,_, and_CC 1924_CD ._.
+It_PRP remains_VBZ a_DT standard_JJ authority_NN ._.
+Among_IN Iranians_NNPS ,_, Browne_NNP is_VBZ well_RB remembered_VBN today_NN ._.
+A_DT street_NN named_VBN after_IN him_PRP in_IN Tehran_NNP ,_, as_RB well_RB as_IN his_PRP$ statue_NN ,_, remained_VBD even_RB after_IN the_DT Iranian_JJ Revolution_NN in_IN 1979_CD ._.
+Works_NNP by_IN Browne_NNP Online_NNP texts_NNS

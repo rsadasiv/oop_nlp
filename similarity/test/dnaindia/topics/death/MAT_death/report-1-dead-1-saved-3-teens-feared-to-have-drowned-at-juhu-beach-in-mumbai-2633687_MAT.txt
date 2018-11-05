@@ -1,0 +1,203 @@
+At_PIN
+least_JJ
+three_CD
+people_NN
+are_VPRT [PASS]
+feared_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+drowned_VBN
+at_PIN
+Juhu_NN
+Chowpatti_NN
+near_PLACE
+Godrej_NN
+Bungalow_NN
+on_PIN
+Thursday_NN
+evening_GER
+after_IN
+five_CD
+persons_NN
+were_VBD [PASS]
+swept_VBN
+away_PLACE
+during_PIN
+high_JJ
+tide_NN
+._.
+One_CD
+of_PIN
+them_TPP3
+was_VBD [BYPA]
+rescued_VBN
+by_PIN
+lifeguards_NN
+,_,
+and_ANDC
+another_DT
+was_VBD [PASS]
+declared_VBN [PUBV]
+brought_VBN
+dead_JJ
+at_PIN
+Cooper_NN
+Hospital_NN
+._.
+The_DT
+Navy_NN
+has_VPRT [PEAS]
+mobilised_VBN
+a_DT
+chopper_NN
+to_TO
+search_VB
+for_PIN
+the_DT
+rest_NN
+,_,
+and_ANDC
+the_DT
+Coast_NN
+Guard_NN
+will_PRMD
+deploy_VB
+its_PIT
+chopper_NN
+on_PIN
+Friday_NN
+morning_GER
+._.
+The_DT
+rescued_VBN
+person_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+22-year-old_JJ
+Wasim_NN
+Khan_NN
+;_:
+Nazeer_NN
+Fakir_NN
+Metar_NN
+-LRB-_-LRB-
+17_CD
+-RRB-_-RRB-
+was_VBD [PASS]
+declared_VBN [PUBV]
+brought_VBN
+dead_JJ
+._.
+Fardeen_NN
+Saudagar_NN
+,_,
+Mohin_NN
+Shakil_NN
+Khan_NN
+,_,
+and_ANDC
+Faizal_NN
+Shaikh_NN
+''_''
+all_QUAN
+17_CD
+years_NN
+old_JJ
+''_''
+are_VPRT [SPAU]
+still_RB
+missing_VBG
+as_IN
+of_PIN
+this_DEMO
+report_NN
+going_VBG [WZPRES]
+to_PIN
+print_NN
+._.
+According_VBG [PRESP]
+to_PIN
+BMC_NN
+'s_POS
+disaster_NN
+cell_NN
+,_,
+the_DT
+incident_NN
+occurred_VBD
+at_PIN
+around_PLACE
+5.19_CD
+pm_NN
+when_RB
+the_DT
+group_NN
+ventured_VBD
+into_PIN
+the_DT
+sea_NN
+for_PIN
+a_DT
+swim_VPRT
+._.
+There_EX
+was_VBD
+a_DT
+3.75-metre_JJ
+high_JJ
+tide_NN
+at_PIN
+5.16_CD
+pm_NN
+._.
+``_``
+It_PIT
+seems_VPRT [SMP]
+they_TPP3
+were_VBD [BEMA]
+not_XX0
+good_JJ
+swimmers_NN
+and_CC
+were_VBD [PASS]
+swept_VBN
+away_PLACE
+by_PIN
+the_DT
+tide_NN
+,_,
+''_''
+said_VBD [PUBV]
+an_DT
+officer_NN
+from_PIN
+Juhu_NN
+police_NN
+station_NOMZ
+._.
+``_``
+A_DT
+Seaking_VBG
+42_CD
+C_NN
+helicopter_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+pressed_VBN
+into_PIN
+service_NN
+for_PIN
+the_DT
+search_NN
+and_PHC
+rescue_NN
+operation_NOMZ
+,_,
+''_''
+said_VBD [PUBV]
+a_DT
+defense_NN
+official_NN
+._.

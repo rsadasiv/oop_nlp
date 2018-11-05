@@ -1,0 +1,6 @@
+Mary_NNP Victoria_NNP Cowden_NNP Clarke_NNP -LRB-_-LRB- née_FW Novello_NNP ;_: 22_CD June_NNP 1809_CD ''_'' 12_CD January_NNP 1898_CD -RRB-_-RRB- was_VBD an_DT English_JJ author_NN ._.
+She_PRP was_VBD the_DT eldest_JJS daughter_NN of_IN Vincent_NNP Novello_NNP ._.
+In_IN 1828_CD ,_, she_PRP married_VBD her_PRP$ brother_NN Alfred_NNP 's_POS business_NN partner_NN ,_, Charles_NNP Cowden_NNP Clarke_NNP ,_, and_CC worked_VBD with_IN him_PRP on_IN Shakespeare_NNP studies_NNS ._.
+In_IN the_DT year_NN after_IN her_PRP$ marriage_NN ,_, Mary_NNP Cowden_NNP Clarke_NNP began_VBD her_PRP$ valuable_JJ Shakespeare_NNP concordance_NN ,_, which_WDT was_VBD eventually_RB issued_VBN in_IN eighteen_JJ monthly_JJ parts_NNS -LRB-_-LRB- 1844_CD ``_`` 1845_CD -RRB-_-RRB- ,_, and_CC in_IN volume_NN form_NN in_IN 1845_CD as_IN The_DT Complete_JJ Concordance_NNP to_TO Shakespeare_NNP ,_, being_VBG a_DT Verbal_NNP Index_NNP to_TO all_PDT the_DT Passages_NNPS in_IN the_DT Dramatic_NNP Works_NNP of_IN the_DT Poet_NNP ._.
+This_DT work_NN superseded_VBD the_DT Copious_NNP Index_NNP to_TO ..._: Shakespeare_NNP -LRB-_-LRB- 1790_CD -RRB-_-RRB- of_IN Samuel_NNP Ayscough_NNP ,_, and_CC the_DT Complete_JJ Verbal_NNP Index_NNP ..._: -LRB-_-LRB- 1805_CD ``_`` 1807_CD -RRB-_-RRB- of_IN Francis_NNP Twiss_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

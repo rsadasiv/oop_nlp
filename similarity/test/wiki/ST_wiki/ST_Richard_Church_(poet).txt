@@ -1,0 +1,36 @@
+Richard_NNP Thomas_NNP Church_NNP CBE_NNP -LRB-_-LRB- 26_CD March_NNP 1893_CD ''_'' 4_CD March_NNP 1972_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ,_, poet_NN and_CC critic_NN ;_: he_PRP also_RB wrote_VBD novels_NNS and_CC verse_JJ plays_NNS ,_, and_CC three_CD volumes_NNS of_IN autobiography_NN ._.
+Church_NNP was_VBD born_VBN on_IN 26_CD March_NNP 1893_CD in_IN Battersea_NNP ,_, in_IN south-east_JJ London_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP went_VBD to_TO Dulwich_NNP Hamlet_NNP School_NNP in_IN Dulwich_NNP ._.
+The_DT second_JJ son_NN of_IN Thomas_NNP John_NNP Church_NNP and_CC Lavina_NNP Annie_NNP Orton_NNP Church_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ mother_NN was_VBD distantly_RB related_VBN to_TO the_DT novelist_NN George_NNP Eliot_NNP but_CC kept_VBD quiet_JJ about_IN this_DT because_IN of_IN her_PRP$ bohemian_JJ lifestyle_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ father_NN was_VBD a_DT sorter_NN for_IN the_DT General_NNP Post_NNP Office_NNP and_CC his_PRP$ mother_NN was_VBD a_DT schoolteacher_NN who_WP suffered_VBD ill-health_NN and_CC died_VBD in_IN 1910_CD when_WRB he_PRP was_VBD only_RB seventeen_JJ ._.
+After_IN leaving_VBG school_NN at_IN sixteen_NN ,_, he_PRP started_VBD work_NN as_IN a_DT clerk_NN in_IN the_DT Customs_NNS and_CC Excise_VB branch_NN of_IN the_DT Civil_NNP Service_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN his_PRP$ first_JJ volume_NN of_IN autobiography_NN he_PRP recounts_VBZ the_DT physicality_NN of_IN his_PRP$ father_NN ,_, the_DT intelligence_NN of_IN his_PRP$ mother_NN ,_, his_PRP$ resourceful_JJ older_JJR brother_NN ,_, privations_NNS ,_, and_CC the_DT difficult_JJ relationship_NN of_IN his_PRP$ ill-matched_JJ parents_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- His_PRP$ first_JJ book_NN of_IN poems_NNS ,_, The_DT Flood_NNP of_IN Life_NNP ,_, was_VBD published_VBN in_IN 1917_CD when_WRB he_PRP was_VBD 24_CD ,_, but_CC he_PRP remained_VBD in_IN the_DT Civil_NNP Service_NNP until_IN 1933_CD ,_, when_WRB he_PRP left_VBD to_TO write_VB full-time_JJ at_IN the_DT age_NN of_IN 40_CD ._.
+Church_NNP became_VBD a_DT respected_JJ journalist_NN and_CC reviewer_NN ,_, -LRB-_-LRB- 4_LS -RRB-_-RRB- and_CC wrote_VBD extensively_RB on_IN country_NN matters_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ first_JJ poetry_NN appeared_VBD in_IN Robert_NNP Blatchford_NNP 's_POS Clarion_NNP ,_, and_CC he_PRP contributed_VBD verse_JJ to_TO periodicals_NNS for_IN the_DT rest_NN of_IN his_PRP$ life_NN ._.
+His_PRP$ first_JJ post_NN as_IN a_DT literary_JJ editor_NN was_VBD with_IN the_DT New_NNP Leader_NNP ,_, organ_NN of_IN the_DT Independent_NNP Labor_NNP Party_NNP ._.
+He_PRP was_VBD director_NN of_IN the_DT Oxford_NNP Festival_NNP of_IN Spoken_NNP Poetry_NNP during_IN the_DT 1930s_NNS ._.
+His_PRP$ much-anthologised_JJ World_NNP War_NNP I_PRP poem_VBP ``_`` Mud_NN ''_'' first_RB appeared_VBD in_IN Life_NNP and_CC Letters_NNP ,_, January_NNP 1935_CD ._.
+The_DT first_JJ volume_NN of_IN Church_NNP 's_POS autobiography_NN ,_, Over_IN the_DT Bridge_NNP -LRB-_-LRB- 1955_CD -RRB-_-RRB- ,_, was_VBD awarded_VBN the_DT Sunday_NNP Times_NNP Prize_NNP for_IN Literature_NNP while_IN the_DT novelist_NN Howard_NNP Spring_NNP described_VBD it_PRP as_IN ``_`` the_DT loveliest_JJS autobiography_NN written_VBN in_IN our_PRP$ time_NN ,_, ''_'' pointing_VBG out_RP that_IN the_DT writer_NN had_VBD ``_`` found_VBN life_NN full_JJ of_IN enchantment_NN ,_, and_CC how_WRB not_RB the_DT least_JJS of_IN its_PRP$ enchantments_NNS was_VBD its_PRP$ challenge_NN ._. ''_''
+The_DT second_JJ volume_NN ,_, The_DT Golden_NNP Sovereign_NNP ,_, appeared_VBD in_IN 1957_CD ._.
+That_DT year_NN Church_NNP was_VBD named_VBN a_DT Commander_NNP of_IN the_DT Order_NN of_IN the_DT British_JJ Empire_NNP by_IN Queen_NNP Elizabeth_NNP II_NNP ._.
+While_IN young_JJ ,_, Church_NNP had_VBD a_DT mystical_JJ experience_NN at_IN a_DT convalescent_JJ home_NN ,_, which_WDT he_PRP recounted_VBD in_IN his_PRP$ autobiography_NN ,_, Over_IN the_DT Bridge_NNP ,_, and_CC which_WDT was_VBD also_RB recounted_VBN by_IN the_DT British_JJ occultist_NN writer_NN Colin_NNP Wilson_NNP ._.
+Looking_VBG out_IN of_IN some_DT French_JJ windows_NNS ,_, Church_NNP saw_VBD a_DT gardener_NN chopping_VBG down_RP a_DT dead_JJ tree_NN ._.
+What_WP struck_VBD Church_NNP after_IN a_DT while_NN was_VBD that_IN the_DT sight_NN of_IN the_DT axe_NN hitting_VBG the_DT tree_NN and_CC the_DT sound_NN of_IN the_DT axe_NN hitting_VBG the_DT tree_NN were_VBD not_RB synchronised_VBN ._.
+The_DT sound_NN was_VBD delayed_VBN ._.
+At_IN first_RB he_PRP did_VBD not_RB believe_VB his_PRP$ own_JJ powers_NNS of_IN perception_NN ,_, but_CC after_IN concentrating_VBG his_PRP$ vision_NN and_CC hearing_NN ,_, he_PRP came_VBD to_TO the_DT conclusion_NN that_IN he_PRP was_VBD experiencing_VBG an_DT error_NN in_IN the_DT laws_NNS of_IN physics_NNS ._.
+He_PRP came_VBD to_TO the_DT conclusion_NN ''_'' which_WDT would_MD remain_VB with_IN him_PRP for_IN the_DT rest_NN of_IN his_PRP$ life_NN ''_'' that_IN ``_`` time_NN and_CC space_NN are_VBP not_RB absolute_JJ ._.
+Their_PRP$ power_NN was_VBD not_RB law_NN ._. ''_''
+He_PRP experienced_VBD an_DT incredible_JJ freedom_NN in_IN this_DT epiphany_NN ._. ''_''
+-LRB-_-LRB- ..._: -RRB-_-RRB- I_PRP was_VBD free_JJ ._.
+Since_IN time_NN and_CC space_NN were_VBD deceivers_NNS ,_, openly_RB contradicting_VBG each_DT other_JJ ,_, and_CC at_IN best_JJS offering_VBG a_DT compromise_NN in_IN place_NN of_IN law_NN ''_'' -LRB-_-LRB- 5_CD -RRB-_-RRB- After_IN this_DT epiphany_NN another_DT soon_RB followed_VBN ._.
+From_IN where_WRB he_PRP stood_VBD he_PRP sensed_VBD that_IN ''_'' -LRB-_-LRB- ..._: -RRB-_-RRB- my_PRP$ limbs_NNS and_CC trunk_NN were_VBD lighter_JJR than_IN they_PRP seemed_VBD ,_, and_CC that_IN I_PRP had_VBD only_RB to_TO reduce_VB them_PRP by_IN an_DT act_NN of_IN will_MD ,_, perhaps_RB by_IN a_DT mere_JJ change_NN of_IN physical_JJ mechanics_NNS ,_, to_TO command_VB them_PRP off_RP the_DT ground_NN ,_, out_IN of_IN the_DT tyranny_NN of_IN gravitation_NN ''_'' ._.
+He_PRP then_RB left_VBD the_DT ground_NN and_CC glided_VBN ``_`` about_IN the_DT room_NN ''_'' some_DT twelve_CD or_CC eighteen_CD inches_NNS above_IN the_DT floor_NN ._.
+He_PRP returned_VBD to_TO the_DT ground_NN only_RB to_TO take_VB off_RP once_RB more_JJR ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Church_NNP married_VBD three_CD times_NNS ._.
+His_PRP$ second_JJ wife_NN ,_, Katya_NNP died_VBD in_IN 1965_CD ._.
+He_PRP married_VBD his_PRP$ third_JJ wife_NN ,_, Dorothy_NNP Beale_NNP ,_, a_DT widow_NN ,_, in_IN 1967_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP had_VBD a_DT great_JJ love_NN for_IN the_DT Kent_NNP countryside_NN and_CC this_DT is_VBZ reflected_VBN in_IN much_JJ of_IN his_PRP$ writing_NN ._.
+He_PRP published_VBD an_DT anthology_NN of_IN works_NNS on_IN Kent_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP and_CC Dorothy_NNP initially_RB lived_VBD at_IN The_NNP Old_NNP Stable_NNP ,_, they_PRP subsequently_RB moved_VBD to_TO The_DT Priest_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ House_NNP at_IN Sissinghurst_NNP Castle_NNP where_WRB he_PRP died_VBD suddenly_RB on_IN 4_CD March_NNP 1972_CD ,_, in_IN Cranbrook_NNP ._.

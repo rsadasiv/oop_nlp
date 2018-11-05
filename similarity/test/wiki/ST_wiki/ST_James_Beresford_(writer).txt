@@ -1,0 +1,6 @@
+James_NNP Beresford_NNP -LRB-_-LRB- 28_CD May_NNP 1764_CD ''_'' 29_CD September_NNP 1840_CD -RRB-_-RRB- was_VBD a_DT writer_NN and_CC clergyman_NN ._.
+He_PRP was_VBD born_VBN in_IN Upham_NNP in_IN Hampshire_NNP and_CC educated_VBN at_IN Charterhouse_NNP School_NNP and_CC became_VBD a_DT fellow_NN of_IN Merton_NNP College_NNP ,_, Oxford_NNP ._.
+He_PRP made_VBD translations_NNS and_CC wrote_VBD religious_JJ books_NNS ,_, but_CC was_VBD chiefly_RB known_VBN as_IN the_DT author_NN of_IN a_DT satirical_JJ work_NN ,_, The_DT Miseries_NNPS of_IN Human_NNP Life_NNP ,_, considered_VBN to_TO be_VB a_DT ``_`` minor_JJ classic_NN in_IN the_DT genre_NN ''_'' ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD rector_NN of_IN Kibworth_NNP from_IN 1812_CD until_IN his_PRP$ death_NN ._.
+This_DT list_NN of_IN works_NNS is_VBZ taken_VBN from_IN Beresford_NNP 's_POS obituary_JJ ,_, published_VBN in_IN the_DT May_NNP 1841_CD edition_NN of_IN The_DT Gentleman_NNP 's_POS Magazine_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

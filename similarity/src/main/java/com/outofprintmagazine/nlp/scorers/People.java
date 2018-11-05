@@ -4,10 +4,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentCategoricalScorer;
 import com.outofprintmagazine.nlp.scorers.categorical.DocumentRankedCategoricalScorer;
+import com.outofprintmagazine.nlp.scores.Score;
 
 import edu.stanford.nlp.pipeline.CoreDocument;
 import edu.stanford.nlp.pipeline.CoreEntityMention;
@@ -42,8 +42,13 @@ public class People extends ScorerImpl implements DocumentCategoricalScorer, Doc
 			List<CoreEntityMention> entityMentions = sentence.entityMentions();
 			for (CoreEntityMention mention : entityMentions) {
 				if (mention.entityType().equals("PERSON")) {
-					if (exclude == null || getExclude() == null || !getExclude().contains(mention.canonicalEntityMention().get().text())) {
-						rawScores.add(mention.canonicalEntityMention().get().text());
+					String topic = mention.entity();
+					if (mention.canonicalEntityMention().isPresent()) {
+						topic = mention.canonicalEntityMention().get().toString();
+					}
+					
+					if (exclude == null || getExclude() == null || !getExclude().contains(topic)) {
+						rawScores.add(topic);
 					}
 				}
 			}

@@ -1,0 +1,13 @@
+Fleur_NNP Adcock_NNP CNZM_NNP OBE_NNP -LRB-_-LRB- born_VBN 10_CD February_NNP 1934_CD -RRB-_-RRB- is_VBZ a_DT New_NNP Zealand_NNP poet_NN and_CC editor_NN ,_, of_IN English_NNP and_CC Northern_NNP Irish_NNP ancestry_NN ,_, who_WP has_VBZ lived_VBN much_JJ of_IN her_PRP$ life_NN in_IN England_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Fleur_NNP Adcock_NNP was_VBD born_VBN in_IN Auckland_NNP ,_, but_CC spent_VBD the_DT years_NNS between_IN 1939_CD and_CC 1947_CD in_IN the_DT UK_NNP ._.
+Her_PRP$ father_NN was_VBD Cyril_NNP John_NNP Adcock_NNP ,_, her_PRP$ sister_NN is_VBZ the_DT novelist_NN Marilyn_NNP Duckworth_NNP ._.
+Fleur_NNP Adcock_NNP studied_VBD Classics_NNS at_IN Victoria_NNP University_NNP of_IN Wellington_NNP ,_, graduating_VBG with_IN a_DT MA_NNP ._.
+She_PRP worked_VBD as_IN an_DT assistant_JJ lecturer_NN and_CC later_RB an_DT assistant_JJ librarian_NN at_IN the_DT University_NNP of_IN Otago_NNP in_IN Dunedin_NNP until_IN 1962_CD ._.
+She_PRP was_VBD married_VBN to_TO two_CD famous_JJ New_NNP Zealand_NNP literary_JJ personalities_NNS ._.
+In_IN 1952_CD she_PRP married_VBD Alistair_NNP Campbell_NNP -LRB-_-LRB- divorced_VBN 1958_CD -RRB-_-RRB- ._.
+Then_RB in_IN 1962_CD she_PRP married_VBD Barry_NNP Crump_NNP ,_, divorcing_VBG in_IN 1963_CD ._.
+In_IN 1963_CD ,_, Adcock_NNP returned_VBD to_TO England_NNP and_CC took_VBD up_RP a_DT post_NN as_IN an_DT assistant_JJ librarian_NN at_IN the_DT Foreign_NNP and_CC Commonwealth_NNP Office_NNP in_IN London_NNP until_IN 1979_CD ._.
+Since_IN then_RB she_PRP has_VBZ been_VBN a_DT freelance_NN writer_NN ,_, living_VBG in_IN East_NNP Finchley_NNP ,_, north_RB London_NNP ._.
+She_PRP has_VBZ held_VBN several_JJ literary_JJ fellowships_NNS ,_, including_VBG the_DT Northern_NNP Arts_NNP Literary_NNP Fellowship_NNP in_IN Newcastle_NNP upon_IN Tyne_NNP and_CC Durham_NNP in_IN 1979_CD ``_`` 81_CD ._.
+Adcock_NNP 's_POS poetry_NN is_VBZ typically_RB concerned_VBN with_IN themes_NNS of_IN place_NN ,_, human_JJ relationships_NNS and_CC everyday_JJ activities_NNS ,_, but_CC frequently_RB with_IN a_DT dark_JJ twist_NN given_VBN to_TO the_DT mundane_JJ events_NNS she_PRP writes_VBZ about_RB ._.
+Formerly_RB ,_, her_PRP$ early_JJ work_NN was_VBD influenced_VBN by_IN her_PRP$ training_NN as_IN a_DT classicist_NN but_CC her_PRP$ more_JJR recent_JJ work_NN is_VBZ looser_JJR in_IN structure_NN and_CC more_JJR concerned_JJ with_IN the_DT world_NN of_IN the_DT unconscious_JJ mind_NN ._.

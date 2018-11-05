@@ -1,0 +1,77 @@
+A_DT
+woman_NN
+was_VBD [PASS]
+shot_VBN
+dead_JJ
+by_PIN
+suspected_VBN [PRIV]
+militants_NN
+of_PIN
+the_DT
+Hizbul_NN
+Mujahideen_NN
+in_PIN
+Jammu_NN
+and_PHC
+Kashmir_NN
+'s_POS
+Pulwama_NN
+district_NN
+today_TIME
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+Shameema_NN
+Bano_NN
+,_,
+a_DT
+resident_NN
+of_PIN
+Quil_NN
+,_,
+was_VBD [PASS]
+shot_VBN
+in_PIN
+the_DT
+Drubgam_NN
+area_NN
+of_PIN
+Pulwama_NN
+,_,
+an_DT
+official_NN
+said_VBD [PUBV]
+._.
+He_TPP3
+said_VBD [PUBV] [THATD]
+the_DT
+woman_NN
+was_VBD [PASS]
+rushed_VBN
+to_PIN
+a_DT
+hospital_NN
+where_RB
+doctors_NN
+declared_VBD [PUBV]
+her_TPP3
+dead_JJ
+._.
+A_DT
+police_NN
+spokesman_NN
+said_VBD [PUBV]
+banned_VBN
+militant_JJ
+outfit_NN
+Hizbul_NN
+Mujahideen_NN
+was_VBD
+behind_PLACE
+the_DT
+killing_VBG
+of_PIN
+the_DT
+woman_NN
+._.

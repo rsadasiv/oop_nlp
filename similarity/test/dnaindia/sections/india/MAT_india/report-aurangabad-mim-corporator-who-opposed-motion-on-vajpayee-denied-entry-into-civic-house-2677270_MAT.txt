@@ -1,0 +1,254 @@
+An_DT
+AIMIM_NN
+corporator_NN
+who_WP [WHSUB]
+was_VBD [BEMA]
+earlier_TIME
+beaten_VBN
+up_RP
+for_PIN
+opposing_VBG
+an_DT
+Aurangabad_NN
+Municipal_NN
+Corporation_NOMZ
+resolution_NOMZ
+paying_VBG [WZPRES]
+homage_NN
+to_PIN
+former_JJ
+Prime_NN
+Minister_NN
+Atal_NN
+Bihari_NN
+Vajpayee_NN
+was_VBD [PASS]
+Saturday_NN
+denied_VBD [PUBV]
+entry_NN
+into_PIN
+the_DT
+civic_JJ
+house_NN
+here_RB
+._.
+Mayor_NN
+Nandkumar_NN
+Ghodele_NN
+said_VBD [PUBV]
+that_THVC
+corporator_NN
+Syed_NN
+Mateen_NN
+Syed_NN
+Rashid_NN
+was_VBD [PASS]
+denied_VBN [PUBV]
+entry_NN
+as_IN
+other_JJ
+members_NN
+had_VBD [PEAS]
+opposed_VBN
+his_TPP3
+presence_NN
+at_PIN
+the_DT
+AMC_NN
+'s_POS
+general_JJ
+body_NN
+meeting_GER
+called_VBN
+Saturday_NN
+._.
+Rashid_NN
+-LRB-_-LRB-
+32_CD
+-RRB-_-RRB-
+was_VBD [SPAU] [PASS]
+allegedly_RB
+assaulted_VBN
+on_PIN
+August_NN
+17_CD
+after_IN
+he_TPP3
+opposed_VBD
+a_DT
+proposal_NN
+tabled_VBD
+in_PIN
+the_DT
+AMC_NN
+to_TO
+pay_VB
+tribute_NN
+to_PIN
+former_JJ
+Prime_NN
+Minister_NN
+Atal_NN
+Bihari_NN
+Vajpayee_NN
+who_WP [WHSUB]
+died_VBD
+on_PIN
+August_NN
+16_CD
+._.
+Rashid_NN
+was_VBD [PASS]
+arrested_VBN
+on_PIN
+August_NN
+18_CD
+on_PIN
+charges_NN
+of_PIN
+promoting_VBG
+enmity_NOMZ
+between_PIN
+different_JJ
+groups_NN
+,_,
+wantonly_RB
+giving_VBG
+provocation_NOMZ
+with_PIN
+intent_NN
+to_TO
+cause_VB
+riot_NN
+and_CC
+obscene_JJ
+acts_NN
+in_PIN
+public_NN
+._.
+The_DT
+All_QUAN
+India_NN
+Majlis-e-Ittehadul_NN
+Muslimeen_NN
+corporator_NN
+was_VBD [SPAU] [PASS]
+later_TIME
+released_VBN
+._.
+Five_CD
+BJP_NN
+corporators_NN
+were_VBD [SPAU] [PASS]
+also_RB
+arrested_VBN
+on_PIN
+August_NN
+20_CD
+in_PIN
+connection_NOMZ
+with_PIN
+the_DT
+alleged_JJ
+assault_NN
+on_PIN
+Rashid_NN
+._.
+Speaking_VBG [PRESP]
+on_PIN
+the_DT
+issue_NN
+Saturday_NN
+,_,
+mayor_NN
+Ghodele_NN
+said_VBD [PUBV]
+,_,
+``_``
+In_PIN
+the_DT
+afternoon_NN
+today_TIME
+,_,
+some_QUAN
+members_NN
+asked_VBD [SUAV]
+me_FPP1
+not_XX0
+to_TO
+permit_VB
+Rashid_NN
+into_PIN
+the_DT
+civic_JJ
+house_NN
+as_IN
+he_TPP3
+had_VBD [PEAS]
+misbehaved_VBN
+on_PIN
+August_NN
+17_CD
+._.
+Accordingly_RB
+,_,
+I_FPP1
+directed_VBD
+security_NOMZ
+personnel_NN
+to_TO
+stop_VB
+Rashid_NN
+'s_POS
+entry_NN
+,_,
+which_WDT [SERE]
+they_TPP3
+did_VBD [PROD]
+._.
+''_''
+AMC_NN
+officials_NN
+said_VBD [PUBV]
+that_THVC
+a_DT
+resolution_NOMZ
+for_PIN
+the_DT
+cancellation_NOMZ
+of_PIN
+his_TPP3
+corporatorship_NN
+was_VBD [PASS]
+passed_VBN
+in_PIN
+the_DT
+civic_JJ
+house_NN
+and_CC
+a_DT
+report_NN
+on_PIN
+it_PIT
+had_VBD [PEAS]
+been_VBN [PASS]
+submitted_VBN [PUBV]
+to_PIN
+the_DT
+state_NN
+government_NOMZ
+._.
+The_DT
+state_NN
+government_NOMZ
+is_VPRT
+yet_RB
+to_TO
+decide_VB [SUAV] [PRIV]
+on_PIN
+the_DT
+matter_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.

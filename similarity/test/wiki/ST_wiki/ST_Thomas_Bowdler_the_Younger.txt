@@ -1,0 +1,20 @@
+Thomas_NNP Bowdler_NNP the_DT Younger_NNP -LRB-_-LRB- 1782_CD ``_`` 1856_CD -RRB-_-RRB- was_VBD an_DT Anglican_JJ priest_NN ,_, who_WP wrote_VBD a_DT memoir_NN of_IN his_PRP$ father_NN ,_, John_NNP Bowdler_NNP ,_, and_CC his_PRP$ uncle_NN ,_, Thomas_NNP Bowdler_NNP the_DT elder_JJR ._.
+He_PRP was_VBD also_RB editor_NN of_IN an_DT expurgated_VBN version_NN of_IN Edward_NNP Gibbon_NNP 's_POS Decline_NNP and_CC Fall_NN of_IN the_DT Roman_NNP Empire_NNP ,_, as_IN prepared_VBN by_IN his_PRP$ uncle_NN ._.
+Thomas_NNP Bowdler_NNP was_VBD born_VBN on_IN 13_CD March_NNP 1782_CD ,_, the_DT eldest_JJS son_NN of_IN the_DT lawyer_NN and_CC moral_JJ reformer_NN ,_, John_NNP Bowdler_NNP the_DT elder_JJR ._.
+His_PRP$ brother_NN was_VBD John_NNP Bowdler_NNP the_DT younger_JJR ,_, who_WP became_VBD a_DT lawyer_NN ._.
+He_PRP was_VBD educated_VBN at_IN Hyde_NNP Abbey_NNP School_NNP ,_, Winchester_NNP ,_, and_CC at_IN St_NNP John_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, where_WRB he_PRP proceeded_VBD B._NNP A._NNP in_IN 1803_CD ,_, and_CC M.A._NNP in_IN 1806_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1803_CD he_PRP was_VBD appointed_VBN curate_NN of_IN Leyton_NNP ,_, Essex_NNP ;_: and_CC after_IN holding_VBG the_DT livings_NNS of_IN Ash_NNP and_CC Ridley_NNP ,_, and_CC of_IN Addington_NNP ,_, Kent_NNP ,_, he_PRP became_VBD in_IN 1834_CD incumbent_JJ of_IN the_DT church_NN at_IN Sydenham_NNP ._.
+He_PRP took_VBD an_DT active_JJ part_NN in_IN opposing_VBG the_DT Tractarian_JJ movement_NN around_IN 1840_CD ._.
+In_IN 1846_CD he_PRP became_VBD secretary_NN of_IN the_DT Church_NNP Building_NNP Society_NNP ,_, which_WDT his_PRP$ father_NN had_VBD been_VBN instrumental_JJ in_IN founding_NN ._.
+On_IN 7_CD December_NNP 1849_CD he_PRP received_VBD a_DT prebend_NN in_IN St_NNP Paul_NNP 's_POS Cathedral_NNP ._.
+He_PRP died_VBD on_IN 12_CD November_NNP 1856_CD ._.
+Collections_NNS of_IN his_PRP$ sermons_NNS were_VBD published_VBN in_IN 1820_CD ,_, 1834_CD ,_, and_CC 1846_CD ._.
+In_IN 1825_CD was_VBD published_VBN his_PRP$ memoir_NN of_IN his_PRP$ father_NN and_CC uncle_NN ,_, Memoir_NNP of_IN the_DT Late_JJ John_NNP Bowdler_NNP ,_, Esq._NNP ,_, To_TO Which_WDT Is_VBZ Added_VBN ,_, Some_DT Account_NNP of_IN the_DT Late_JJ Thomas_NNP Bowdler_NNP ,_, Esq._NNP ._.
+Editor_NNP of_IN the_DT Family_NNP Shakspeare_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP edited_VBD with_IN Launcelot_NNP Sharpe_NNP the_DT Greek_JJ version_NN of_IN the_DT Devotions_NNS of_IN Lancelot_NNP Andrewes_NNP ._.
+He_PRP was_VBD also_RB editor_NN of_IN the_DT expurgated_VBN edition_NN of_IN Edward_NNP Gibbon_NNP -LRB-_-LRB- 1826_CD -RRB-_-RRB- prepared_VBN by_IN his_PRP$ uncle_NN ,_, Thomas_NNP Bowdler_NNP the_DT elder_JJR ._.
+In_IN about_RB 1804_CD ,_, he_PRP married_VBD Ph_NNP ``_`` be_VB ,_, the_DT daughter_NN of_IN mariner_NN and_CC merchant_NN Joseph_NNP Cotton_NNP ._.
+His_PRP$ wife_NN died_VBD in_IN December_NNP 1854_CD ,_, of_IN the_DT nine_CD children_NNS they_PRP had_VBD ,_, four_CD died_VBD in_IN infancy_NN ,_, and_CC three_CD in_IN succession_NN between_IN 1833_CD and_CC 1839_CD ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Bowdler_NNP ,_, Thomas_NNP -LRB-_-LRB- 1782_CD ``_`` 1856_CD -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

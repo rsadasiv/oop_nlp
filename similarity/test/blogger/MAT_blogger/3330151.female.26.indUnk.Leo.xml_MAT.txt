@@ -1,0 +1,590 @@
+>>_RB
+\*_SYM
+looks_VPRT
+around_PLACE
+innocently_RB
+\*_SYM
+\*_SYM
+tries_VPRT
+to_PIN
+type_NN
+softly_RB
+\*_SYM
+>>_FW
+Yes_UH
+..._:
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+25_CD
+and_CC
+still_RB
+live_VPRT
+with_PIN
+my_FPP1
+parents_NN
+..._:
+-LRB-_-LRB-
+that_DEMP
+will_PRMD
+change_VB
+in_PIN
+about_RB
+19_CD
+days_NN
+though_CONC
+-RRB-_-RRB-
+..._:
+it_PIT
+'s_VPRT [CONT] [BEMA]
+5:11_CD
+am_VPRT
+and_CC
+they_TPP3
+'re_VPRT [CONT]
+sleeping_VBG
+..._:
+they_TPP3
+will_PRMD
+wake_VB
+up_RP
+in_PIN
+about_IN
+45_CD
+minutes_NN
+and_CC
+here_RB
+I_FPP1
+am_VPRT
+..._:
+on_PIN
+my_FPP1
+compy_JJ
+..._:
+still_RB
+awake_RB
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+odd_PRED
+..._:
+to_TO
+feel_VB [PRIV]
+so_EMPH
+guilty_JJ
+just_EMPH
+for_PIN
+not_XX0
+going_VBG
+to_TO
+sleep_VB
+._.
+Hee_NN
+hee_NN
+._.
+I_FPP1
+guess_VPRT [PRIV] [THATD]
+it_PIT
+'s_VPRT [CONT]
+because_CAUS
+my_FPP1
+parents_NN
+-LRB-_-LRB-
+mom_NN
+mostly_RB
+-RRB-_-RRB-
+care_VB
+about_IN
+me_FPP1
+so_RB
+much_QUAN
+that_DEMP
+causes_VPRT
+them_TPP3
+-LRB-_-LRB-
+her_TPP3
+-RRB-_-RRB-
+to_TO
+be_VB [BEMA]
+angry_PRED
+upon_PIN
+discovering_VBG [PRIV]
+that_THVC
+I_FPP1
+stayed_VBD
+up_RP
+all_QUAN
+night_NN
+._.
+meh_NN
+._.
+I_FPP1
+'ll_PRMD [CONT]
+keep_VB
+adding_VBG [PUBV]
+more_EMPH
+as_IN
+I_FPP1
+delve_VPRT
+deeper_JJ
+into_PIN
+this_DEMO
+blog_JJ
+world_NN
+..._:
+._.
+Ooooh_NN
+I_FPP1
+'ve_VPRT [CONT]
+entered_VBN
+the_DT
+realm_NN
+of_PIN
+the_DT
+BLOGS_NN
+!_.
+hehehe_NN
+,_,
+lets_VPRT
+see_VB [PRIV]
+what_WP [WHCL]
+mischief_NN
+I_FPP1
+can_POMD
+create_VB
+..._:
+>>_NN
+-RRB-_-RRB-
+:_:
+-RRB-_-RRB-
+So_RB
+..._:
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+married_PRED
+and_CC
+have_VPRT [PEAS]
+moved_VBN [SUAV]
+from_PIN
+Toronto_NN
+,_,
+Canada_NN
+down_IN
+to_PIN
+Las_NN
+Vegas_NN
+,_,
+NV_NN
+in_PIN
+the_DT
+United_NN
+States_NN
+._.
+Life_NN
+has_VPRT [SPAU] [PEAS]
+definitely_RB
+done_VBN [PROD]
+a_DT
+180_CD
+on_PIN
+me_FPP1
+in_PIN
+a_DT
+matter_NN
+of_PIN
+one_CD
+really_EMPH
+interesting_JJ
+year_NN
+!_.
+But_CC
+I_FPP1
+digress_VPRT
+..._:
+so_RB [WHQU]
+how_RB
+is_VPRT [BEMA]
+here_RB
+different_PRED
+than_PIN
+there_EX
+??_VPRT
+I_FPP1
+found_VBD [PRIV]
+myself_FPP1
+really_EMPH
+contemplating_VBG
+on_PIN
+the_DT
+differences_NN
+yesterday_TIME
+at_PIN
+a_DT
+park_NN
+here_RB
+in_PIN
+Vegas_NN
+while_OSUB
+watching_VBG
+the_DT
+4th_JJ
+of_PIN
+July_NN
+fireworks_NN
+._.
+As_IN
+several_QUAN
+hundred_CD
+people_NN
+passed_VBD
+me_FPP1
+by_PIN
+-LRB-_-LRB-
+I_FPP1
+was_VBD [SPAU]
+confortably_RB
+laying_VBG
+on_PIN
+the_DT
+grass_NN
+waiting_VBG [WZPRES]
+for_PIN
+the_DT
+firework_NN
+display_NN
+to_TO
+start_VB
+-RRB-_-RRB-
+wearing_VBG [PRESP]
+their_TPP3
+red_NN
+,_,
+white_JJ
+and_PHC
+blue_JJ
+outfits_NN
+or_CC
+US-Flag_NN
+T-shirts\/dresses_NN
+or_CC
+crazy_JJ
+hats_NN
+'n_VPRT [CONT]
+stuff_NN
+..._:
+it_PIT
+hit_VBD
+me_FPP1
+how_RB
+patriotic_JJ
+Americans_NN
+-LRB-_-LRB-
+I_FPP1
+dislike_VPRT
+using_VBG
+this_DEMO
+term_NN
+as_IN
+it_PIT
+actually_RB
+refers_VPRT
+to_PIN
+everyone_QUPR
+on_PIN
+the_DT
+North_NN
+and_PHC
+South_NN
+parts_NN
+of_PIN
+the_DT
+continent_NN
+called_VBN
+America_NN
+..._:
+but_CC
+I_FPP1
+find_VPRT [PRIV] [THATD]
+I_FPP1
+sometimes_RB
+succumb_VPRT
+to_TO
+pop-culture_VB
+\*_SYM
+sigh_NN
+\*_SYM
+-RRB-_-RRB-
+are_VPRT
+._.
+Seeing_VBG [PRIV] [THATD] [PRESP]
+the_DT
+children_NN
+walk_VPRT
+by_PIN
+with_PIN
+their_TPP3
+faces_NN
+painted_VBN [WZPAST]
+with_PIN
+little_JJ
+USA_NN
+Flags_NN
+and_CC
+their_TPP3
+parents_NN
+getting_VBG [WZPRES]
+them_TPP3
+all_QUAN
+excited_VBN
+about_IN
+celebrating_VBG
+the_DT
+birthday_NN
+of_PIN
+their_TPP3
+country_NN
+really_EMPH
+made_VBD
+me_FPP1
+reflect_VB [PRIV]
+on_PIN
+how_RB
+un-patriotic_JJ
+Canadians_NN
+seem_VPRT [SMP]
+in_CONJ
+comparison_NULL
+._.
+Why_RB [WHQU]
+is_VPRT
+that_DEMP
+?_.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+really_EMPH
+understand_VB [PRIV]
+it_PIT
+._.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+a_DT
+Canadian_JJ
+born_VBN
+citizen_NN
+with_PIN
+Ecuadorian_JJ
+born_VBN
+parents_NN
+._.
+Growing_VBG
+up_RP
+,_,
+it_PIT
+was_VBD
+never_RB
+really_EMPH
+``_``
+cool_JJ
+''_''
+to_TO
+say_VB [PUBV]
+`_``
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+Canadian_PRED
+'_''
+..._:
+most_EMPH
+people_NN
+that_TOBJ
+I_FPP1
+'d_PRMD [CONT]
+meet_VB
+would_PRMD
+ask_VB [SUAV]
+,_,
+``_``
+so_RB [WHQU]
+what_WP
+are_VPRT [BEMA]
+you_SPP2
+?_.
+''_''
+-LRB-_-LRB-
+yes_UH
+it_PIT
+'s_VPRT [CONT] [BEMA]
+odd_PRED
+but_CC
+happens_VPRT
+more_EMPH
+often_RB
+than_PIN
+you_SPP2
+'d_PRMD [CONT]
+think_VB [PRIV]
+-RRB-_-RRB-
+and_ANDC
+when_RB
+I_FPP1
+was_VBD [BEMA]
+younger_PRED
+I_FPP1
+'d_PRMD [CONT]
+reply_VB [PUBV]
+``_``
+Ecuadorian_JJ
+''_''
+without_PIN
+a_DT
+second_JJ
+thought_NN
+,_,
+then_RB
+I_FPP1
+'d_PRMD [CONT]
+ask_VB [SUAV]
+them_TPP3
+and_CC
+they_TPP3
+'d_PRMD [CONT]
+reply_VB [PUBV]
+``_``
+Portuguese_NN
+''_''
+or_CC
+whatever_WDT
+..._:
+both_DT
+of_PIN
+us_FPP1
+knowing_VBG [PRIV]
+full_JJ
+well_RB
+that_DEMO
+we_FPP1
+were_VBD [BEMA]
+BOTH_DT
+Canadian-born_JJ
+just_EMPH
+that_DEMO
+our_FPP1
+parents_NN
+were_VBD
+immigrants_NN
+._.
+As_IN
+I_FPP1
+grew_VBD
+older_JJ
+I_FPP1
+started_VBD
+answering_VBG
+``_``
+Canadian_JJ
+''_''
+and_ANDC
+most_EMPH
+people_NN
+either_CC
+laughed_VBD
+and_PHC
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+know_VPRT [PRIV] [THATD]
+THAT_DEMP
+!_.
+But_CC [WHQU]
+where_RB
+are_VPRT [BEMA]
+you_SPP2
+REALLY_EMPH
+from_PIN
+''_''
+or_CC
+some_QUAN
+would_PRMD
+look_VB
+at_PIN
+me_FPP1
+in_PIN
+frustration_NOMZ
+and_CC
+would_PRMD
+think_VB [PRIV]
+that_THVC
+I_FPP1
+was_VBD
+hiding_VBG
+my_FPP1
+ethnicity_NOMZ
+from_PIN
+them_TPP3
+._.
+The_DT
+older_JJ
+I_FPP1
+got_VBD
+the_DT
+more_EMPH
+important_JJ
+it_PIT
+was_VBD
+to_TO
+identify_VB
+myself_FPP1
+as_IN
+Canadian_JJ
+instead_CONJ
+of_NULL
+anything_QUPR
+else_RB
+._.
+I_FPP1
+have_VPRT
+a_DT
+fierce_JJ
+loyalty_NN
+to_PIN
+my_FPP1
+country_NN
+--_:
+however_CONJ
+..._:
+it_PIT
+still_RB
+does_VPRT
+not_XX0
+compare_VB
+to_PIN
+the_DT
+patriotism_NN
+of_PIN
+those_DEMP
+born_VBN
+in_PIN
+the_DT
+US_FPP1
+._.
+-LRB-_-LRB-
+I_FPP1
+'ll_PRMD [CONT]
+continue_VB
+my_FPP1
+musings_GER
+in_PIN
+a_DT
+little_JJ
+bit_NN
+..._:
+I_FPP1
+must_NEMD
+leave_VB
+to_TO
+go_VB
+run_VB
+an_DT
+errand_NN
+-RRB-_-RRB-

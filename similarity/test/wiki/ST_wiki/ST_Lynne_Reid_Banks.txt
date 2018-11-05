@@ -1,0 +1,14 @@
+Lynne_NNP Reid_NNP Banks_NNP -LRB-_-LRB- born_VBN 31_CD July_NNP 1929_CD -RRB-_-RRB- is_VBZ a_DT British_JJ author_NN of_IN books_NNS for_IN children_NNS and_CC adults_NNS ._.
+She_PRP has_VBZ written_VBN forty-five_JJ books_NNS ,_, including_VBG the_DT best-selling_JJ children_NNS 's_POS novel_NN The_DT Indian_JJ in_IN the_DT Cupboard_NN ,_, which_WDT has_VBZ sold_VBN over_IN 10_CD million_CD copies_NNS and_CC has_VBZ been_VBN successfully_RB adapted_VBN to_TO film_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Her_PRP$ first_JJ novel_NN ,_, The_DT L-Shaped_JJ Room_NN ,_, published_VBN in_IN 1960_CD ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- was_VBD an_DT instant_NN and_CC lasting_VBG best_JJS seller_NN ._.
+It_PRP was_VBD later_RBR made_VBN into_IN a_DT movie_NN of_IN the_DT same_JJ name_NN and_CC led_VBD to_TO two_CD sequels_NNS ,_, The_DT Backward_NNP Shadow_NNP and_CC Two_CD is_VBZ Lonely_RB ._.
+Banks_NNS also_RB wrote_VBD a_DT biography_NN of_IN the_DT Brontë_NNP family_NN ,_, entitled_VBN Dark_JJ Quartet_NN ,_, and_CC a_DT sequel_NN about_IN Charlotte_NNP Brontë_NNP ,_, Path_NNP to_TO the_DT Silent_JJ Country_NN ._.
+Banks_NNS was_VBD born_VBN in_IN London_NNP ,_, the_DT only_JJ child_NN of_IN James_NNP and_CC Muriel_NNP Reid_NNP Banks_NNS ._.
+She_PRP was_VBD evacuated_VBN to_TO Saskatoon_NNP ,_, Saskatchewan_NNP ,_, Canada_NNP ,_, during_IN World_NNP War_NNP II_NNP and_CC returned_VBN after_IN the_DT war_NN was_VBD over_IN ._.
+She_PRP attended_VBD St_NNP Teresa_NNP 's_POS School_NNP Effingham_NNP in_IN Surrey_NNP ._.
+Prior_RB to_TO becoming_VBG a_DT writer_NN ,_, Banks_NNS was_VBD an_DT actress_NN ,_, and_CC also_RB worked_VBD as_IN a_DT television_NN journalist_NN in_IN Britain_NNP ,_, one_CD of_IN the_DT first_JJ women_NNS to_TO do_VB so_RB ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1962_CD Banks_NNS emigrated_VBD to_TO Israel_NNP ,_, where_WRB she_PRP taught_VBD for_IN eight_CD years_NNS on_IN an_DT Israeli_JJ kibbutz_NN Yas_NNP `_`` ur_NN ._.
+In_IN 1965_CD she_PRP married_VBD Chaim_NNP Stephenson_NNP -LRB-_-LRB- 1926-2016_CD -RRB-_-RRB- ,_, a_DT sculptor_NN ,_, with_IN whom_WP she_PRP had_VBD three_CD sons_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- She_PRP lives_VBZ in_IN Shepperton_NNP ,_, Surrey_NNP ,_, UK_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Although_IN the_DT family_NN returned_VBD to_TO England_NNP in_IN 1971_CD ,_, the_DT influence_NN of_IN her_PRP$ time_NN in_IN Israel_NNP can_MD be_VB seen_VBN in_IN some_DT of_IN her_PRP$ books_NNS -LRB-_-LRB- including_VBG One_CD More_JJR River_NNP and_CC its_PRP$ sequel_NN ,_, Broken_NNP Bridge_NNP -_: and_CC other_JJ books_NNS such_JJ as_IN An_DT End_NN to_TO Running_VBG and_CC Children_NNP at_IN the_DT Gate_NN -RRB-_-RRB- which_WDT are_VBP set_VBN partially_RB or_CC mainly_RB on_IN kibbutzim_NN ._.
+In_IN October_NNP 2013_CD ,_, Lynne_NNP won_VBD the_DT J._NNP M._NNP Barrie_NNP award_NN for_IN outstanding_JJ contribution_NN to_TO children_NNS 's_POS arts_NNS ._.

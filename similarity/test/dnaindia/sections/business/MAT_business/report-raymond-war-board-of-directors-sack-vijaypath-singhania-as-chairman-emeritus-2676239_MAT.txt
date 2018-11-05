@@ -1,0 +1,319 @@
+In_PIN
+a_DT
+shocking_JJ
+move_NN
+,_,
+Raymond_NN
+has_VPRT [PEAS]
+sacked_VBN
+its_PIT
+founder_NN
+Vijaypat_NN
+Singhania_NN
+the_DT
+company_NN
+'s_POS
+chairman-emeritus_NN
+through_PIN
+a_DT
+letter_NN
+._.
+According_VBG [PRESP]
+to_PIN
+a_DT
+report_NN
+in_PIN
+Mumbai_NN
+Mirror_NN
+,_,
+a_DT
+letter_NN
+dated_VBN
+September_NN
+7_CD
+,_,
+signed_VBN [PASTP]
+by_PIN
+the_DT
+company_NN
+'s_POS
+Board_NN
+of_PIN
+Directors_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+company_NN
+had_VBD [PEAS]
+taken_VBN
+oestrong_JJ
+dissent_NN
+of_PIN
+the_DT
+unparliamentary_JJ
+and_PHC
+derogatory_JJ
+language_NN
+''_''
+used_VBN [PASTP]
+in_PIN
+the_DT
+senior_JJ
+Singhania_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+letters_NN
+._.
+Vijaypath_NN
+had_VBD [PEAS]
+written_VBN [PUBV]
+a_DT
+series_NN
+of_PIN
+letters_NN
+to_PIN
+the_DT
+company_NN
+secretary_NN
+and_CC
+then_RB
+to_PIN
+the_DT
+Board_NN
+,_,
+stating_VBG [PUBV]
+that_THVC
+he_TPP3
+had_VBD [PEAS]
+been_VBN [PASS]
+kept_VBN
+out_PIN
+of_PIN
+the_DT
+loop_NN
+about_IN
+board_NN
+meetings_GER
+._.
+The_DT
+September_NN
+7_CD
+letter_NN
+,_,
+however_CONJ
+,_,
+stated_VBD [PUBV]
+that_THVC
+the_DT
+decision_NN
+to_PIN
+sack_NN
+Vijaypath_NN
+was_VBD [BEMA]
+a_DT
+decision_NN
+of_PIN
+the_DT
+board_NN
+and_CC
+had_VBD
+nothing_INPR
+to_TO
+do_VB [PROD]
+with_PIN
+the_DT
+relationship_NN
+Vijaypath_NN
+shares_NN
+with_PIN
+his_TPP3
+son_NN
+._.
+Singhania_NN
+is_VPRT
+fighting_VBG
+a_DT
+legal_JJ
+battle_NN
+with_PIN
+his_TPP3
+son_NN
+,_,
+Gautam_NN
+Singhania_NN
+,_,
+the_DT
+chairman_NN
+and_CC
+managing_VBG
+director_NN
+of_PIN
+Raymond_NN
+Ltd_NN
+,_,
+to_TO
+keep_VB
+from_PIN
+being_VBG [BEMA]
+homeless_PRED
+._.
+He_TPP3
+had_VBD [PEAS]
+moved_VBN [SUAV]
+the_DT
+Bombay_NN
+High_NN
+Court_NN
+against_PIN
+Gautam_NN
+,_,
+seeking_VBG
+possession_NN
+of_PIN
+a_DT
+duplex_NN
+flat_JJ
+in_PIN
+the_DT
+37-storey_JJ
+JK_NN
+House_NN
+in_PIN
+the_DT
+upscale_JJ
+Breach_NN
+Candy_NN
+,_,
+alleging_VBG [PUBV] [THATD]
+that_DEMP
+his_TPP3
+son_NN
+was_VBD
+squeezing_VBG
+him_TPP3
+out_PIN
+of_PIN
+an_DT
+empire_NN
+he_TPP3
+himself_TPP3
+built_VBN
+._.
+Dismissing_VBG [PRESP]
+the_DT
+allegation_NOMZ
+,_,
+Gautam_NN
+had_VBD
+in_PIN
+an_DT
+earlier_TIME
+interview_NN
+said_VBD [PUBV]
+,_,
+``_``
+Who_WP
+would_PRMD
+have_VB [PEAS]
+he_TPP3
+given_VBN
+it_PIT
+to_TO
+?_.
+Let_NN
+'s_POS
+be_VB [BEMA]
+blunt_PRED
+..._:
+I_FPP1
+have_VPRT [PEAS]
+worked_VBN
+35_CD
+years_NN
+here_RB
+,_,
+16_CD
+hours_NN
+a_DT
+day_NN
+._.
+It_PIT
+was_VBD [BEMA]
+an_DT
+agreement_NOMZ
+from_PIN
+day_NN
+one_CD
+._.
+It_PIT
+has_VPRT [PEAS]
+been_VBN [BEMA]
+a_DT
+family_NN
+understanding_GER
+for_PIN
+30_CD
+years_NN
+._.
+What_WP [WHQU]
+is_VPRT [BEMA]
+the_DT
+big_JJ
+deal_NN
+,_,
+''_''
+In_PIN
+an_DT
+another_DT
+interview_NN
+to_PIN
+Live_NN
+Mint_NN
+,_,
+the_DT
+business_NOMZ
+tycoon_NN
+has_VPRT [PEAS]
+said_VBN [PUBV]
+that_THVC
+the_DT
+family_NN
+politics_NN
+should_NEMD
+be_VB [PASS]
+kept_VBN
+separate_JJ
+from_PIN
+business_NOMZ
+._.
+He_TPP3
+also_RB
+emphasised_VBD
+on_PIN
+the_DT
+fact_NN
+that_TOBJ
+he_TPP3
+feels_VPRT [PRIV]
+responsible_JJ
+to_TO
+protect_VB
+the_DT
+family_NN
+wealth_NN
+and_CC
+is_VPRT
+working_VBG
+on_PIN
+a_DT
+succession_NN
+planning_GER
+for_PIN
+the_DT
+longevity_NOMZ
+of_PIN
+the_DT
+group_NN
+._.

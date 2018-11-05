@@ -1,0 +1,957 @@
+Last_JJ
+seen_VBN [PRIV]
+on_PIN
+stage_NN
+in_PIN
+2007_CD
+in_PIN
+the_DT
+play_NN
+Surya_NN
+ki_FW
+antim_NN
+kiran_NN
+se_FW
+surya_FW
+ki_FW
+pehli_FW
+kiran_FW
+tak_FW
+,_,
+award-winning_JJ
+actor_NN
+Neena_NN
+Gupta_NN
+returns_VPRT
+to_PIN
+the_DT
+stage_NN
+this_DEMO
+weekend_NN
+after_IN
+a_DT
+hiatus_NN
+of_PIN
+about_IN
+seven_CD
+years_NN
+._.
+In_PIN
+Mera_NN
+Woh_NN
+Matlab_NN
+Nahin_NN
+Tha_NN
+,_,
+Gupta_NN
+and_CC
+fellow_JJ
+actor_NN
+Anupam_NN
+Kher_NN
+essay_NN
+the_DT
+roles_NN
+of_PIN
+two_CD
+lovers_NN
+who_WP [WHSUB]
+drifted_VBD
+apart_RB
+for_PIN
+no_SYNE
+particular_JJ
+reason_NN
+._.
+They_TPP3
+attempt_VPRT
+to_TO
+discover_VB [PRIV]
+the_DT
+truth_NN
+upon_PIN
+meeting_GER
+years_NN
+later_TIME
+._.
+Days_NN
+before_IN
+opening_VBG
+night_NN
+,_,
+the_DT
+versatile_JJ
+and_PHC
+powerful_JJ
+performer_NN
+,_,
+who_WP
+has_VPRT [PEAS]
+been_VBN
+rehearsing_VBG
+for_PIN
+the_DT
+last_JJ
+two_CD
+months_NN
+,_,
+makes_VPRT
+time_NN
+to_TO
+talk_VB
+about_IN
+what_WP
+it_PIT
+feels_VPRT [PRIV]
+like_IN
+to_TO
+be_VB [BEMA]
+back_RB
+on_PIN
+stage_NN
+._.
+You_SPP2
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+been_VBN [PASS]
+seen_VBN [PRIV]
+much_QUAN
+in_PIN
+the_DT
+last_JJ
+three-four_JJ
+years_NN
+._.
+What_WP [WHQU]
+have_VPRT [PEAS]
+you_SPP2
+been_VBN [BEMA]
+busy_PRED
+with_PIN [STPR]
+?_.
+I_FPP1
+'ve_VPRT [CONT]
+been_VBN [BEMA]
+busy_PRED
+managing_VBG
+my_FPP1
+daughter_NN
+'s_POS
+business_NOMZ
+._.
+That_DEMP
+takes_VPRT
+up_RP
+all_QUAN
+my_FPP1
+time_NN
+._.
+So_RB
+how_RB
+did_VBD
+,_,
+Mera_NN
+Woh_NN
+Matlab_NN
+Nahin_NN
+Tha_NN
+,_,
+come_VBN
+about_IN
+?_.
+What_WP
+appealed_VBD
+to_PIN
+you_SPP2
+about_IN
+the_DT
+part_NN
+that_DEMO
+you_SPP2
+are_VPRT
+essaying_VBG
+in_PIN
+the_DT
+play_NN
+?_.
+Rakesh_NN
+-LRB-_-LRB-
+Bedi_NN
+-RRB-_-RRB-
+called_VBD
+me_FPP1
+and_CC
+asked_VBD [SUAV]
+if_COND
+I_FPP1
+was_VBD [BEMA]
+interested_PRED
+in_PIN
+doing_VBG [PROD]
+a_DT
+play_NN
+and_CC
+I_FPP1
+said_VBD [PUBV]
+yes_UH
+._.
+He_TPP3
+came_VBD
+over_IN
+to_TO
+narrate_VB
+the_DT
+script_NN
+,_,
+which_WDT [SERE]
+I_FPP1
+liked_VBD
+it_PIT
+,_,
+and_ANDC
+so_IN
+it_PIT
+happened_VBD
+._.
+It_PIT
+is_VPRT [BEMA]
+very_AMP
+difficult_PRED
+to_TO
+describe_VB
+why_RB
+I_FPP1
+like_IN
+this_DEMO
+part_NN
+._.
+I_FPP1
+suppose_VPRT [PRIV]
+if_COND
+you_SPP2
+watch_VPRT
+the_DT
+play_NN
+,_,
+you_SPP2
+wo_PRMD
+n't_XX0 [CONT]
+ask_VB [SUAV]
+this_DEMO
+question_NOMZ
+-LRB-_-LRB-
+laughs_NN
+-RRB-_-RRB-
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+fantastic_JJ
+part_NN
+._.
+The_DT
+play_NN
+,_,
+although_CONC
+it_PIT
+has_VPRT
+a_DT
+few_QUAN
+actors_NN
+,_,
+is_VPRT
+mostly_RB
+about_IN
+two_CD
+people_NN
+''_''
+Anupam_NN
+-LRB-_-LRB-
+Kher_NN
+'s_POS
+-RRB-_-RRB-
+character_NN
+and_PHC
+mine_NN
+._.
+Am_NN
+playing_VBG [WZPRES]
+the_DT
+part_NN
+of_PIN
+a_DT
+woman_NN
+who_WP [WHSUB]
+meets_VPRT
+Anupam_NN
+'s_POS
+character_NN
+after_IN
+many_QUAN
+,_,
+many_QUAN
+years_NN
+,_,
+and_ANDC
+the_DT
+two_CD
+relate_VPRT
+their_TPP3
+lives_NN
+to_PIN
+one_CD
+another_DT
+,_,
+and_ANDC
+what_WP
+happens_VPRT
+after_IN
+that_DEMP
+._.
+The_DT
+play_NN
+is_VPRT [BEMA]
+very_AMP
+interesting_PRED
+._.
+I_FPP1
+'ve_VPRT [CONT]
+never_RB
+done_VBN [PROD]
+anything_QUPR
+like_IN
+this_DEMO
+before_RB
+,_,
+and_ANDC
+so_IN
+it_PIT
+has_VPRT [PEAS]
+been_VBN [BEMA]
+quite_RB
+challenging_JJ
+too_RB
+._.
+The_DT
+most_EMPH
+important_JJ
+thing_NN
+is_VPRT
+that_DEMO
+the_DT
+play_NN
+has_VPRT
+all_QUAN
+kinds_NN
+of_PIN
+emotions_NOMZ
+and_CC
+am_VPRT [BEMA]
+sure_JJ
+people_NN
+will_PRMD
+identify_VB
+with_PIN
+it_PIT
+._.
+Also_RB
+,_,
+despite_PIN
+all_QUAN
+the_DT
+various_JJ
+emotions_NOMZ
+,_,
+it_PIT
+is_VPRT [BEMA]
+a_DT
+happy_JJ
+play_NN
+,_,
+it_PIT
+is_VPRT [BEMA]
+a_DT
+fun_NN
+play_NN
+._.
+Can_POMD
+you_SPP2
+describe_VB
+the_DT
+experience_NN
+of_PIN
+working_VBG
+with_PIN
+director_NN
+Rakesh_NN
+Bedi_NN
+._.
+Writing_VBG [PUBV] [THATD] [PRESP]
+a_DT
+play_NN
+is_VPRT [BEMA]
+a_DT
+very_AMP
+difficult_JJ
+task_NN
+,_,
+and_ANDC
+he_TPP3
+has_VPRT [PEAS]
+done_VBN
+a_DT
+very_AMP
+good_JJ
+job_NN
+with_PIN
+Mera_NN
+woh_NN
+matlab_NN
+nahin_NN
+tha_NN
+._.
+He_TPP3
+has_VPRT [PEAS]
+written_VBN [PUBV]
+three_CD
+plays_NN
+before_IN
+this_DEMP
+._.
+And_ANDC
+because_CAUS
+he_TPP3
+has_VPRT
+so_RB
+much_QUAN
+experience_NN
+,_,
+he_TPP3
+does_VPRT [PROD]
+these_DEMP
+-LRB-_-LRB-
+small_JJ
+-RRB-_-RRB-
+things_NN
+that_TSUB
+are_VPRT [BEMA]
+amazing_PRED
+._.
+For_CONJ
+instance_NULL
+,_,
+if_COND
+I_FPP1
+kept_VBD
+forgetting_VBG [PRIV]
+cues_NN
+or_CC
+lines_NN
+at_PIN
+one_CD
+place_NN
+all_QUAN
+the_DT
+time_NN
+,_,
+he_TPP3
+would_PRMD
+tell_VB
+me_FPP1
+how_RB
+to_TO
+remember_VB [PRIV]
+,_,
+which_WDT [SERE]
+is_VPRT
+something_QUPR
+nobody_INPR
+ever_RB
+told_VBD
+me_FPP1
+._.
+He_TPP3
+is_VPRT [BEMA]
+fantastic_PRED
+._.
+Also_RB
+,_,
+he_TPP3
+is_VPRT [BEMA]
+very_AMP
+open_PRED
+and_CC
+has_VPRT
+no_SYNE
+ego_NN
+problems_NN
+._.
+He_TPP3
+knows_VPRT [PRIV]
+what_WP [WHCL]
+he_TPP3
+wants_VPRT
+and_CC
+yet_RB
+you_SPP2
+can_POMD [SPAU]
+always_RB
+improvise_VB
+,_,
+discuss_VB
+and_PHC
+argue_VB [PUBV]
+things_NN
+with_PIN
+him_TPP3
+._.
+So_IN
+it_PIT
+has_VPRT [PEAS]
+been_VBN [BEMA]
+a_DT
+good_JJ
+experience_NN
+._.
+You_SPP2
+last_JJ
+appeared_VBD [SMP]
+on_PIN
+stage_NN
+in_PIN
+2007_CD
+for_PIN
+Surya_NN
+ki_FW
+antim_NN
+kiran_NN
+se_FW
+..._:
+Are_VPRT [BEMA] [PASS]
+you_SPP2
+excited_VBN
+or_CC
+nervous_JJ
+?_.
+I_FPP1
+'m_VPRT [CONT]
+dying_VBG
+!_.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+nervous_PRED
+..._:
+I_FPP1
+am_VPRT [PASS]
+excited_VBN
+._.
+I_FPP1
+ca_POMD
+n't_XX0 [CONT]
+sleep_VB
+..._:
+I_FPP1
+ca_POMD
+n't_XX0 [CONT]
+eat_VB
+..._:
+We_FPP1
+'ve_VPRT [CONT]
+been_VBN
+rehearsing_VBG
+for_PIN
+two_CD
+months_NN
+._.
+And_ANDC
+although_CONC
+we_FPP1
+rehearse_VPRT
+for_PIN
+six_CD
+hours_NN
+,_,
+it_PIT
+has_VPRT [PEAS]
+n't_XX0 [CONT]
+been_VBN
+taxing_VBG
+because_CAUS
+we_FPP1
+take_VPRT
+breaks_NN
+._.
+When_RB
+we_FPP1
+get_VPRT
+tired_VBN
+,_,
+we_FPP1
+just_EMPH
+leave_VPRT
+and_PHC
+start_VPRT
+over_IN
+the_DT
+next_JJ
+day_NN
+._.
+It_PIT
+feels_VPRT [PRIV]
+great_JJ
+though_CONC
+-LRB-_-LRB-
+to_TO
+be_VB [BEMA]
+back_RB
+on_PIN
+stage_NN
+-RRB-_-RRB-
+._.
+You_SPP2
+produced_VBD
+Saans_NN
+to_TO
+show_VB [PRIV]
+that_THVC
+a_DT
+middle-aged_JJ
+woman_NN
+can_POMD
+be_VB [BEMA]
+a_DT
+lead_NN
+protagonist_NN
+._.
+There_EX
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+been_VBN [BEMA]
+many_QUAN
+such_JJ
+path-breaking_JJ
+TV_NN
+shows_NN
+or_CC
+movies_NN
+since_OSUB
+._.
+Why_RB [WHQU]
+do_VPRT
+you_SPP2
+think_VB [PRIV] [THATD]
+that_DEMP
+is_VPRT [BEMA]
+the_DT
+case_NN
+?_.
+I_FPP1
+said_VBD [PUBV]
+it_PIT
+at_PIN
+that_DEMO
+time_NN
+-LRB-_-LRB-
+1999_CD
+-RRB-_-RRB-
+and_ANDC
+I_FPP1
+'d_PRMD [CONT]
+say_VB [PUBV]
+the_DT
+same_JJ
+now_TIME
+._.
+This_DEMP
+is_VPRT [BEMA]
+the_DT
+case_NN
+because_CAUS
+in_PIN
+real_JJ
+life_NN
+,_,
+in_PIN
+India_NN
+,_,
+in_PIN
+80_CD
+%_NN
+of_PIN
+the_DT
+houses_NN
+,_,
+middle-aged_JJ
+women_NN
+or_CC
+a_DT
+woman_NN
+above_PLACE
+the_DT
+age_NN
+of_PIN
+40_CD
+,_,
+is_VPRT [BEMA]
+only_DWNT
+good_PRED
+for_PIN
+looking_VBG
+after_IN
+children_NN
+and_CC
+for_PIN
+looking_VBG
+after_IN
+the_DT
+house_NN
+._.
+She_TPP3
+is_VPRT [BEMA]
+useless_JJ
+otherwise_CONJ
+._.
+This_DEMP
+is_VPRT
+why_RB
+there_EX
+are_VPRT
+such_PRED
+few_QUAN
+roles_NN
+for_PIN
+middle-aged_JJ
+women_NN
+._.
+Look_VB
+at_PIN
+the_DT
+roles_NN
+I_FPP1
+keep_VPRT
+getting_VBG
+offered_VBN
+''_''
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+either_DT
+being_VBG [PASS]
+asked_VBN [SUAV]
+to_TO
+portray_VB
+somebody_QUPR
+'s_POS
+mother_NN
+or_CC
+somebody_QUPR
+wife_NN
+._.
+Just_EMPH
+the_DT
+other_JJ
+day_NN
+,_,
+someone_QUPR
+called_VBN [WZPAST]
+from_PIN
+a_DT
+production_NOMZ
+house_NN
+to_TO
+ask_VB [SUAV]
+if_COND
+I_FPP1
+was_VBD [BEMA]
+free_PRED
+for_PIN
+particular_JJ
+days_NN
+of_PIN
+shoot_NN
+._.
+When_RB
+I_FPP1
+said_VBD [PUBV]
+yes_UH
+,_,
+and_ANDC
+asked_VBD [SUAV]
+for_PIN
+the_DT
+script_NN
+to_TO
+be_VB [PASS]
+emailed_VBN
+to_PIN
+me_FPP1
+,_,
+they_TPP3
+sent_VBD
+me_FPP1
+the_DT
+shoot_NN
+dates_NN
+instead_CONJ
+._.
+So_IN
+I_FPP1
+called_VBD
+the_DT
+person_NN
+and_CC
+asked_VBD [SUAV]
+why_RB [WHCL]
+there_EX
+was_VBD
+no_SYNE
+script_NN
+,_,
+and_ANDC
+he_TPP3
+said_VBD [PUBV]
+something_HDG
+like_NULL
+,_,
+arrey_NN
+,_,
+mummy_JJ
+ka_FW
+role_NN
+hi_NN
+to_TO
+hai_FW
+._.
+So_RB
+,_,
+when_RB
+this_DEMP
+is_VPRT
+how_RB
+they_TPP3
+women_NN
+are_VPRT [PASS]
+treated_VBN
+,_,
+it_PIT
+will_PRMD
+reflect_VB [PRIV]
+in_PIN
+our_FPP1
+culture_NN
+._.
+Back_RB
+in_PIN
+the_DT
+days_NN
+when_RB
+I_FPP1
+was_VBD [BEMA]
+a_DT
+student_NN
+,_,
+we_FPP1
+used_VBD
+to_TO
+say_VB [PUBV]
+that_THVC
+Sahitya_NN
+,_,
+samaj_NN
+ka_FW
+darpan_FW
+hota_FW
+hai_FW
+,_,
+meaning_VBG [PRIV] [THATD]
+literature_NN
+is_VPRT [BEMA]
+a_DT
+mirror_NN
+to_PIN
+society_NN
+._.
+And_ANDC
+so_OSUB
+that_DEMP
+'s_VPRT [CONT] [BEMA]
+the_DT
+case_NN
+with_PIN
+the_DT
+portrayal_NN
+of_PIN
+women_NN
+in_PIN
+our_FPP1
+movies_NN
+and_CC
+on_PIN
+television_NN
+._.
+So_RB
+,_,
+what_WP
+would_PRMD
+your_SPP2
+dream_NN
+role_NN
+then_RB
+be_VB
+?_.
+I_FPP1
+have_VPRT [SPAU] [PEAS]
+recently_TIME
+finished_VBN
+a_DT
+film_NN
+which_WDT [WHSUB]
+gave_VBD
+me_FPP1
+the_DT
+most_EMPH
+amazing_JJ
+role_NN
+._.
+This_DEMO
+one_CD
+is_VPRT [BEMA]
+probably_RB
+my_FPP1
+life_NN
+'s_POS
+best_JJ
+one_CD
+so_RB
+far_PLACE
+._.
+The_DT
+film_NN
+,_,
+Threshold_NN
+,_,
+is_VPRT [BYPA]
+directed_VBN
+by_PIN
+-LRB-_-LRB-
+theater_NN
+director_NN
+and_PHC
+cinematographer_NN
+-RRB-_-RRB-
+Pushan_NN
+Kripalani_NN
+,_,
+but_CC
+there_EX
+'s_VPRT [CONT]
+no_SYNE
+release_NN
+date_NN
+set_VBN [WZPAST]
+for_PIN
+it_PIT
+as_IN
+yet_RB
+._.
+marisha.karwa@dnaindia.net;_NN
+@marishaKarwa_NN

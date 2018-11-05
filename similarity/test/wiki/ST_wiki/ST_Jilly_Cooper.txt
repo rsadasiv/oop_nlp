@@ -1,0 +1,77 @@
+Jilly_NNP Cooper_NNP ,_, CBE_NNP -LRB-_-LRB- born_VBN 21_CD February_NNP 1937_CD -RRB-_-RRB- is_VBZ an_DT English_JJ author_NN ._.
+She_PRP began_VBD her_PRP$ career_NN as_IN a_DT journalist_NN and_CC wrote_VBD numerous_JJ works_NNS of_IN non-fiction_NN before_IN writing_VBG several_JJ romance_NN novels_NNS ,_, the_DT first_JJ of_IN which_WDT appeared_VBD in_IN 1975_CD ._.
+She_PRP is_VBZ most_RBS famous_JJ for_IN writing_VBG the_DT Rutshire_NNP Chronicles_NNPS ._.
+Jilly_NNP Sallitt_NNP was_VBD born_VBN in_IN Hornchurch_NNP ,_, Essex_NNP ,_, England_NNP ,_, to_TO Mary_NNP Elaine_NNP -LRB-_-LRB- née_FW Whincup_NNP -RRB-_-RRB- and_CC Brigadier_NNP W._NNP B._NNP Sallitt_NNP ,_, OBE_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP grew_VBD up_RP in_IN Ilkley_NNP and_CC Surrey_NNP ,_, and_CC was_VBD educated_VBN at_IN the_DT Moorfield_NNP School_NNP in_IN Ilkley_NNP and_CC the_DT Godolphin_NNP School_NNP in_IN Salisbury_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- After_IN unsuccessfully_RB trying_VBG to_TO start_VB a_DT career_NN in_IN the_DT British_JJ national_JJ press_NN ,_, Cooper_NNP became_VBD a_DT junior_JJ reporter_NN for_IN The_DT Middlesex_NNP Independent_NNP ,_, based_VBN in_IN Brentford_NNP ._.
+She_PRP worked_VBD for_IN the_DT paper_NN from_IN 1957_CD to_TO 1959_CD ._.
+Subsequently_RB ,_, she_PRP worked_VBD as_IN an_DT account_NN executive_NN ,_, copywriter_NN ,_, publisher_NN 's_POS reader_NN and_CC receptionist_NN ._.
+Her_PRP$ break_NN came_VBD with_IN a_DT chance_NN meeting_NN at_IN a_DT dinner_NN party_NN ._.
+The_DT editor_NN of_IN The_DT Sunday_NNP Times_NNP Magazine_NNP asked_VBD her_PRP to_TO write_VB a_DT feature_NN about_IN her_PRP$ experiences_NNS ._.
+This_DT led_VBD to_TO a_DT column_NN in_IN which_WDT Cooper_NNP wrote_VBD about_IN marriage_NN ,_, sex_NN and_CC housework_NN ._.
+That_DT column_NN ran_VBD from_IN 1969_CD to_TO 1982_CD ,_, when_WRB she_PRP moved_VBD to_TO The_DT Mail_NNP on_IN Sunday_NNP ,_, where_WRB she_PRP worked_VBD for_IN another_DT five_CD years_NNS ._.
+Cooper_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ first_JJ column_NN led_VBD to_TO the_DT publication_NN of_IN her_PRP$ first_JJ book_NN ,_, How_WRB to_TO Stay_NNP Married_NNP in_IN 1969_CD and_CC which_WDT was_VBD quickly_RB followed_VBN by_IN a_DT guide_NN to_TO working_VBG life_NN ,_, How_WRB to_TO Survive_VB from_IN Nine_CD to_TO Five_CD in_IN 1970_CD ._.
+Some_DT of_IN her_PRP$ journalism_NN was_VBD collected_VBN into_IN a_DT single_JJ volume_NN ,_, Jolly_JJ Super_NNP ,_, in_IN 1971_CD ._.
+The_DT theme_NN of_IN class_NN dominates_VBZ much_RB of_IN her_PRP$ writing_NN and_CC her_PRP$ non-fiction_NN -LRB-_-LRB- including_VBG Class_NN itself_PRP -RRB-_-RRB- which_WDT is_VBZ written_VBN from_IN an_DT explicitly_RB upper_JJ middle-class_NN British_JJ perspective_NN ,_, with_IN emphasis_NN on_IN the_DT relationships_NNS between_IN men_NNS and_CC women_NNS ,_, and_CC matters_NNS of_IN social_JJ class_NN in_IN contemporary_JJ Britain_NNP ._.
+She_PRP was_VBD in_IN favor_NN of_IN the_DT Iraq_NNP War_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- As_IN with_IN her_PRP$ non-fiction_JJ works_NNS ,_, Cooper_NNP draws_VBZ heavily_RB on_IN her_PRP$ own_JJ point_NN of_IN view_NN and_CC experiences_NNS ._.
+For_IN example_NN ,_, her_PRP$ own_JJ house_NN is_VBZ the_DT model_NN for_IN Rupert_NNP Campbell-Black_NNP 's_POS :_: both_DT are_VBP very_RB old_JJ -LRB-_-LRB- although_IN his_PRP$ is_VBZ larger_JJR -RRB-_-RRB- ;_: her_PRP$ house_NN overlooks_VBZ a_DT valley_NN called_VBN Toadsmoor_NNP ._.
+His_PRP$ overlooks_VBZ a_DT valley_NN called_VBD the_DT Frogsmore_NNP ._.
+She_PRP also_RB draws_VBZ on_IN her_PRP$ love_NN of_IN animals_NNS :_: dogs_NNS and_CC horses_NNS feature_VBP heavily_RB in_IN her_PRP$ books_NNS ._.
+Woods_NNP ,_, hills_NNS ,_, fields_NNS ,_, pastures_NNS and_CC rivers_NNS feature_VBP frequently_RB ._.
+In_IN 1975_CD ,_, Cooper_NNP published_VBD her_PRP$ first_JJ work_NN of_IN romantic_JJ fiction_NN ,_, Emily_NNP ._.
+It_PRP was_VBD based_VBN on_IN a_DT short_JJ story_NN she_PRP wrote_VBD for_IN a_DT teenage_JJ magazine_NN ,_, as_IN were_VBD the_DT subsequent_JJ romances_NNS ,_, all_DT titled_VBN with_IN female_JJ names_NNS :_: Bella_NNP ,_, Imogen_NNP ,_, Prudence_NNP ,_, Harriet_NNP and_CC Octavia_NNP ._.
+Octavia_NNP is_VBZ one_CD of_IN Cooper_NNP 's_POS ``_`` name_NN ''_'' books_NNS ,_, which_WDT each_DT bear_NN a_DT female_JJ character_NN 's_POS name_NN and_CC has_VBZ been_VBN made_VBN into_IN a_DT television_NN adaptation_NN ._.
+It_PRP is_VBZ set_VBN in_IN Britain_NNP during_IN the_DT 1970s_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT broadcast_NN ITV_NNP adaptation_NN was_VBD produced_VBN with_IN a_DT screenplay_NN which_WDT was_VBD written_VBN by_IN Jonathan_NNP Harvey_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- One_CD character_NN was_VBD modelled_VBN on_IN George_NNP Humphreys_NNP ,_, a_DT Welshman_NNP with_IN whom_WP Cooper_NNP had_VBD an_DT affair_NN in_IN the_DT late_JJ 1950s_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- The_DT Times_NNP noted_VBD that_IN Cooper_NNP avoids_VBZ the_DT traditional_JJ romantic_JJ convention_NN in_IN which_WDT the_DT heroine_NN remains_VBZ a_DT virgin_JJ until_IN the_DT last_JJ page_NN ._.
+Elizabeth_NNP Grey_NNP found_VBD the_DT jokes_NNS annoying_VBG but_CC still_RB funny_JJ ,_, and_CC confessed_VBD to_TO falling_VBG in_IN love_NN with_IN the_DT character_NN of_IN Octavia_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- An_DT excerpt_NN was_VBD included_VBN in_IN The_DT Dirty_NNP Bits_NNPS For_IN Girls_NNP -LRB-_-LRB- ed_VBN ._.
+India_NNP Knight_NNP ,_, Virago_NNP ,_, 2008_CD -RRB-_-RRB- ,_, a_DT collection_NN of_IN favorite_JJ ``_`` dirty_JJ bits_NNS ''_'' from_IN novels_NNS Knight_NNP read_VBD as_IN a_DT teenager_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- Octavia_NNP Brennan_NNP is_VBZ a_DT beautiful_JJ yet_RB flawed_VBN young_JJ woman_NN ,_, living_VBG the_DT high_JJ life_NN in_IN 1970s_CD London_NNP ._.
+Though_IN she_PRP is_VBZ deeply_RB flirtatious_JJ and_CC has_VBZ -_: by_IN her_PRP$ own_JJ admission_NN -_: slept_VBN with_IN many_JJ men_NNS ,_, she_PRP has_VBZ never_RB found_VBN happiness_NN with_IN any_DT of_IN them_PRP ._.
+After_IN bumping_VBG into_IN an_DT old_JJ school_NN friend_NN ,_, Gussie_NNP ,_, and_CC falling_VBG for_IN her_PRP$ fiancé_NN ,_, Jeremy_NNP ,_, Octavia_NNP is_VBZ invited_VBN to_TO spend_VB the_DT weekend_NN with_IN them_PRP on_IN their_PRP$ canal_NN boat_NN ._.
+Characteristically_RB ,_, she_PRP convinces_VBZ herself_PRP that_IN Jeremy_NNP can_MD not_RB possibly_RB have_VB real_JJ affection_NN for_IN the_DT overweight_NN and_CC clumsy_JJ Gussie_NNP ,_, and_CC she_PRP is_VBZ determined_VBN to_TO win_VB Jeremy_NNP by_IN the_DT end_NN of_IN the_DT weekend_NN ._.
+But_CC when_WRB Jeremy_NNP invites_VBZ Welsh_NNP firebrand_NN Gareth_NNP Llewellyn_NNP along_IN for_IN the_DT ride_NN ,_, Octavia_NNP finds_VBZ her_PRP$ plans_NNS disrupted_VBN in_IN more_JJR ways_NNS than_IN one_CD ._.
+Production_NN began_VBD on_IN 17_CD September_NNP 2007_CD ,_, in_IN London_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Jilly_NNP Cooper_NNP was_VBD invited_VBN to_TO make_VB a_DT cameo_NN appearance_NN as_IN a_DT guest_NN at_IN a_DT party_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- Its_PRP$ broadcast_NN was_VBD delayed_VBN according_VBG to_TO a_DT Broadcast_NNP Now_RB article_NN in_IN early_JJ 2009_CD as_IN a_DT consequence_NN of_IN the_DT recession_NN -_: ITV_NNP put_VBD many_JJ of_IN their_PRP$ dramas_NN `_`` on_IN ice_NN '_'' ;_: postponing_VBG single_JJ dramas_NN until_IN later_RBR that_DT year_NN ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- The_DT Guardian_NNP reported_VBD that_IN Octavia_NNP had_VBD no_DT transmission_NN slots_NNS for_IN 2009_CD and_CC noted_VBD that_IN for_IN accountancy_NN purposes_NNS its_PRP$ cost_NN was_VBD not_RB counted_VBN until_IN the_DT show_NN was_VBD broadcast_VBN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- The_DT cast_NN was_VBD :_: However_RB ,_, Cooper_NNP 's_POS best-known_JJS works_NNS are_VBP her_PRP$ long_JJ novels_NNS ._.
+The_DT first_JJ of_IN these_DT was_VBD Riders_NNP -LRB-_-LRB- 1985_CD -RRB-_-RRB- ,_, an_DT international_JJ bestseller_NN ,_, and_CC the_DT first_JJ volume_NN of_IN Rutshire_NNP Chronicles_NNPS ._.
+The_DT first_JJ version_NN of_IN Riders_NNS was_VBD written_VBN by_IN 1970_CD ,_, but_CC shortly_RB after_IN Cooper_NNP had_VBD finished_VBN it_PRP ,_, she_PRP took_VBD it_PRP with_IN her_PRP$ into_IN the_DT West_NNP End_NNP of_IN London_NNP and_CC left_VBD the_DT manuscript_NN on_IN a_DT bus_NN ._.
+The_DT London_NNP Evening_NNP Standard_NNP put_VBD out_RP an_DT appeal_NN ,_, but_CC it_PRP was_VBD never_RB found_VBN ._.
+She_PRP was_VBD ,_, she_PRP says_VBZ ,_, ``_`` devastated_VBD ''_'' ,_, and_CC it_PRP took_VBD her_PRP$ more_JJR than_IN a_DT decade_NN to_TO start_VB it_PRP again_RB ._.
+Riders_NNS and_CC the_DT following_VBG books_NNS are_VBP characterised_VBN by_IN intricate_JJ plots_NNS ,_, featuring_VBG multiple_JJ story_NN lines_NNS and_CC a_DT large_JJ number_NN of_IN characters_NNS ._.
+-LRB-_-LRB- To_TO help_VB the_DT reader_NN keep_VB track_NN ,_, each_DT book_NN begins_VBZ with_IN a_DT list_NN and_CC brief_JJ description_NN of_IN the_DT characters_NNS -RRB-_-RRB- Although_IN the_DT books_NNS do_VBP not_RB always_RB follow_VB each_DT other_JJ sequentially_RB -_: Rivals_NNS and_CC Polo_NNP chronologically_RB overlap_VBP ,_, for_IN example_NN -_: they_PRP are_VBP linked_VBN by_IN recurring_VBG characters_NNS -LRB-_-LRB- chiefly_RB Rupert_NNP Campbell-Black_NNP ,_, Roberto_NNP Rannaldini_NNP ,_, and_CC their_PRP$ families_NNS -RRB-_-RRB- and_CC later_RB books_NNS make_VBP reference_NN to_TO events_NNS of_IN previous_JJ books_NNS ._.
+The_DT stories_NNS heavily_RB feature_VBP adultery_JJ \/_NN -LRB-_-LRB- sexual_JJ -RRB-_-RRB- infidelity_NN and_CC general_JJ betrayal_NN ,_, melodramatic_JJ misunderstandings_NNS and_CC emotions_NNS ,_, money_NN worries_NNS and_CC domestic_JJ upheavals_NNS ._.
+Each_DT book_NN of_IN the_DT Rutshire_NNP Chronicles_NNPS is_VBZ set_VBN in_IN a_DT milieu_NN that_WDT can_MD be_VB considered_VBN glamorous_JJ and_CC wealthy_JJ ,_, such_JJ as_IN show_NN jumping_VBG or_CC classical_JJ music_NN ._.
+These_DT aspects_NNS are_VBP contrasted_VBN with_IN details_NNS of_IN the_DT characters_NNS '_POS domestic_JJ lives_NNS ,_, which_WDT are_VBP often_RB far_RB from_IN glamorous_JJ ._.
+Her_PRP$ novel_NN Pandora_NNP is_VBZ not_RB one_CD of_IN the_DT Rutshire_NNP Chronicles_NNPS ,_, but_CC does_VBZ feature_VB a_DT few_JJ characters_NNS from_IN the_DT series_NN ,_, and_CC is_VBZ very_RB similar_JJ in_IN style_NN and_CC content_NN ._.
+Wicked_JJ !_.
+follows_VBZ the_DT same_JJ approach_NN ,_, including_VBG characters_NNS from_IN previous_JJ novels_NNS and_CC introducing_VBG new_JJ characters_NNS who_WP are_VBP relatives_NNS ,_, friends_NNS or_CC rivals_NNS of_IN existing_VBG characters_NNS ._.
+It_PRP is_VBZ set_VBN in_IN the_DT fictional_JJ county_NN of_IN Larkshire_NNP ,_, which_WDT borders_NNS her_PRP$ other_JJ fictional_JJ county_NN ,_, Rutshire_NNP ._.
+Her_PRP$ novel_NN Jump_NN !_.
+was_VBD released_VBN in_IN 2010_CD ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- It_PRP features_VBZ characters_NNS from_IN Rutshire_NNP Chronicles_NNPS in_IN the_DT world_NN of_IN jump_NN racing_NN and_CC tells_VBZ the_DT transformation_NN of_IN a_DT mutilated_VBN horse_NN -LRB-_-LRB- Mrs_NNP Wilkinson_NNP -RRB-_-RRB- into_IN a_DT successful_JJ racehorse_NN ._.
+Since_IN publishing_VBG Jilly_NNP Cooper_NNP caused_VBD controversy_NN around_IN the_DT naming_NN of_IN a_DT goat_NN in_IN the_DT book_NN -LRB-_-LRB- Chisolm_NNP -RRB-_-RRB- to_TO hit_VB back_RB at_IN the_DT critic_NN Anne_NNP Chisholm_NNP ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- Cooper_NNP also_RB wrote_VBD a_DT series_NN of_IN children_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ books_NNS featuring_VBG the_DT heroine_NN Little_JJ Mabel_NNP ._.
+In_IN 1961_CD ,_, Jilly_NNP married_VBD Leo_NNP Cooper_NNP ,_, a_DT publisher_NN of_IN military_JJ history_NN books_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT couple_NN had_VBD known_VBN each_DT other_JJ since_IN 1945_CD -LRB-_-LRB- when_WRB Jilly_NNP Sallitt_NNP was_VBD about_IN eight_CD -RRB-_-RRB- ,_, although_IN they_PRP did_VBD not_RB marry_VB until_IN she_PRP was_VBD 24_CD and_CC he_PRP was_VBD 27_CD ._.
+The_DT couple_NN were_VBD unable_JJ to_TO have_VB children_NNS naturally_RB so_RB adopted_VBN two_CD children_NNS ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- They_PRP also_RB have_VBP four_CD grandchildren_NNS ._.
+Leo_NNP Cooper_NNP was_VBD diagnosed_VBN with_IN Parkinson_NNP 's_POS disease_NN in_IN 2002_CD ._.
+In_IN October_NNP 2010_CD Jilly_NNP Cooper_NNP suffered_VBD a_DT minor_JJ stroke_NN ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- Her_PRP$ husband_NN died_VBD on_IN 29_CD November_NNP 2013_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN the_DT 1980s_CD ,_, the_DT couple_NN left_VBD Putney_NNP ,_, London_NNP for_IN The_DT Chantry_NNP ,_, an_DT old_JJ manor_NN house_NN in_IN Gloucestershire_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Cooper_NNP is_VBZ a_DT supporter_NN of_IN the_DT British_JJ Conservative_NNP Party_NNP ._.
+She_PRP was_VBD a_DT passenger_NN in_IN one_CD of_IN the_DT derailed_VBN carriages_NNS in_IN the_DT Ladbroke_NNP Grove_NNP rail_NN crash_NN of_IN 1999_CD ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- She_PRP had_VBD to_TO crawl_VB through_IN a_DT window_NN to_TO escape_VB ._.
+She_PRP later_RB spoke_VBD of_IN feeling_NN that_IN her_PRP$ ``_`` number_NN was_VBD up_RB ''_'' and_CC of_IN being_VBG absurdly_RB concerned_JJ ,_, due_JJ to_TO shock_NN ,_, about_IN a_DT manuscript_NN she_PRP had_VBD been_VBN carrying_VBG ._.
+Cooper_NNP was_VBD awarded_VBN the_DT Officer_NNP of_IN the_DT Order_NN of_IN the_DT British_JJ Empire_NNP -LRB-_-LRB- OBE_NNP -RRB-_-RRB- in_IN the_DT 2004_CD Birthday_NN Honours_NNP for_IN services_NNS to_TO literature_NN and_CC the_DT Commander_NNP of_IN the_DT Order_NN of_IN the_DT British_JJ Empire_NNP -LRB-_-LRB- CBE_NNP -RRB-_-RRB- in_IN the_DT 2018_CD New_NNP Year_NNP Honours_NNP for_IN services_NNS to_TO literature_NN and_CC charity_NN ._.
+On_IN 13_CD November_NNP 2009_CD she_PRP was_VBD awarded_VBN an_DT Honorary_JJ Doctorate_NN of_IN Letters_NNS by_IN the_DT University_NNP of_IN Gloucestershire_NNP at_IN a_DT ceremony_NN in_IN Gloucester_NNP Cathedral_NNP ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- `_`` Little_JJ Mabel_NNP '_POS series_NN :_: The_DT Rutshire_NNP Chronicles_NNPS :_: In_IN 1971_CD ,_, Cooper_NNP created_VBD the_DT comedy_NN series_NN It_PRP 's_VBZ Awfully_RB Bad_JJ For_IN Your_PRP$ Eyes_NNS ,_, Darling_NN ,_, which_WDT featured_VBD Joanna_NNP Lumley_NNP ,_, and_CC ran_VBD for_IN one_CD series_NN ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB- Television_NN adaptations_NNS of_IN Cooper_NNP 's_POS novels_NNS are_VBP relatively_RB few_JJ but_CC have_VBP been_VBN accepted_VBN by_IN national_JJ network_NN ITV_NNP ._.
+Octavia_NNP had_VBD its_PRP$ first_JJ UK_NNP screening_NN in_IN 2009_CD with_IN Tamsin_NNP Egerton_NNP taking_VBG the_DT title_NN role_NN ._.
+Other_JJ productions_NNS include_VBP the_DT TV_NN mini-series_NNS The_DT Man_NN Who_WP Made_VBN Husbands_NNP Jealous_NNP ,_, starring_VBG Hugh_NNP Bonneville_NNP ,_, produced_VBN by_IN Sarah_NNP Lawson_NNP ,_, and_CC Riders_NNS ._.

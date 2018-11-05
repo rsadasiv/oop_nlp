@@ -1,0 +1,28 @@
+John_NNP Bowdler_NNP -LRB-_-LRB- 1746_CD ``_`` 1823_CD -RRB-_-RRB- was_VBD a_DT campaigner_NN for_IN moral_JJ reform_NN in_IN Britain_NNP and_CC a_DT founder_NN of_IN the_DT Church_NNP Building_NNP Society_NNP ._.
+His_PRP$ brother_NN and_CC sister_NN were_VBD the_DT editors_NNS of_IN the_DT expurgated_VBN Family_NNP Shakspeare_NNP ._.
+He_PRP was_VBD born_VBN at_IN Bath_NNP ,_, Somerset_NNP on_IN 18_CD March_NNP 1746_CD ,_, the_DT son_NN of_IN Thomas_NNP Bowdler_NNP and_CC Elizabeth_NNP ,_, née_NN Cotton_NN ,_, second_JJ daughter_NN and_CC coheiress_NN of_IN Sir_NNP John_NNP Cotton_NNP ,_, 6th_JJ Baronet_NNP ._.
+John_NNP Bowdler_NNP -LRB-_-LRB- known_VBN as_IN the_DT elder_JJR to_TO distinguish_VB him_PRP from_IN his_PRP$ son_NN John_NNP -RRB-_-RRB- was_VBD the_DT eldest_JJS son_NN of_IN this_DT marriage_NN ._.
+His_PRP$ mother_NN ,_, who_WP wrote_VBD `_`` Practical_NNP Observations_NNPS on_IN the_DT Revelations_NNS of_IN St._NNP John_NNP '_POS -LRB-_-LRB- Bath_NNP ,_, 1800_CD ;_: written_VBN in_IN 1775_CD -RRB-_-RRB- ,_, was_VBD noted_VBN for_IN piety_NN and_CC culture_NN ;_: and_CC she_PRP gave_VBD all_DT her_PRP$ children_NNS religious_JJ training_NN ._.
+John_NNP Bowdler_NNP attended_VBD several_JJ private_JJ schools_NNS ._.
+His_PRP$ brother_NN Thomas_NNP Bowdler_NNP the_DT elder_JJR and_CC sister_JJ Henrietta_NNP Maria_NNP Bowdler_NNP would_MD become_VB well_RB known_VBN as_IN the_DT expurgators_NNS of_IN Shakespeare_NNP ._.
+In_IN November_NNP 1765_CD Bowdler_NNP was_VBD placed_VBN in_IN the_DT office_NN of_IN Mr._NNP Barsham_NNP ,_, a_DT special_JJ pleader_NN ;_: and_CC he_PRP practiced_VBD as_IN a_DT chamber_NN conveyancer_NN between_IN 1770_CD and_CC 1780_CD ._.
+In_IN January_NNP 1778_CD he_PRP married_VBD Harrietta_NNP ,_, eldest_JJ daughter_NN of_IN John_NNP Hanbury_NNP ,_, vice-consul_NN at_IN Hamburg_NNP ._.
+In_IN November_NNP 1779_CD he_PRP attended_VBD Robert_NNP Gordon_NNP ,_, the_DT last_JJ of_IN the_DT nonjuring_JJ bishops_NNS ,_, through_IN a_DT fatal_JJ illness_NN ._.
+Bowdler_NNP had_VBD attended_VBN Gordon_NNP 's_POS nonjuring_JJ services_NNS in_IN London_NNP ._.
+His_PRP$ father_NN 's_POS death_NN in_IN 1785_CD put_VBD Bowdler_NNP in_IN possession_NN of_IN a_DT small_JJ fortune_NN ;_: he_PRP then_RB retired_VBD from_IN his_PRP$ profession_NN ._.
+In_IN 1795_CD Bowdler_NNP wrote_VBD a_DT long_JJ letter_NN to_TO Lord_NNP Auckland_NNP about_IN the_DT high_JJ prices_NNS of_IN the_DT time_NN ,_, in_IN which_WDT he_PRP attacked_VBD clergy_NNS and_CC legislators_NNS for_IN neglecting_VBG morality_NN and_CC religion_NN ._.
+In_IN 1796_CD he_PRP addressed_VBD letters_NNS on_IN similar_JJ subjects_NNS to_TO the_DT Archbishop_NNP of_IN Canterbury_NNP and_CC bishops_VBZ Beilby_NNP Porteus_NNP and_CC Samuel_NNP Horsley_NNP ._.
+He_PRP published_VBD in_IN 1797_CD a_DT pamphlet_NN entitled_VBN Reform_NNP or_CC Ruin_NNP ,_, in_IN which_WDT he_PRP sought_VBD again_RB to_TO expose_VB the_DT immorality_NN and_CC irreligion_NN of_IN the_DT nation_NN ._.
+The_DT pamphlet_NN had_VBD a_DT wide_JJ sale_NN ,_, and_CC reached_VBD an_DT eighth_JJ edition_NN within_IN a_DT year_NN ._.
+He_PRP disapproved_VBD of_IN Sir_NNP Richard_NNP Hill_NNP 's_POS `_`` Apology_NN for_IN Brotherly_NNP Love_NNP ,_, '_'' a_DT partial_JJ justification_NN of_IN the_DT prevailing_VBG dissent_NN ,_, and_CC issued_VBD pamphlets_NNS in_IN support_NN of_IN the_DT opposite_JJ views_NNS expounded_VBN in_IN Charles_NNP Daubeney_NNP 's_POS `_`` Guide_NNP to_TO the_DT Church_NNP ._. '_''
+In_IN 1815_CD he_PRP formed_VBD a_DT committee_NN to_TO memorialise_VB the_DT government_NN to_TO erect_VB additional_JJ churches_NNS in_IN the_DT populous_JJ parts_NNS of_IN England_NNP out_IN of_IN public_JJ funds_NNS ._.
+In_IN 1816_CD he_PRP petitioned_VBD Lord_NNP Sidmouth_NNP to_TO abolish_VB lotteries_NNS ._.
+He_PRP died_VBD at_IN Eltham_NNP on_IN 29_CD June_NNP 1823_CD ._.
+Bowdler_NNP was_VBD one_CD of_IN the_DT founders_NNS of_IN the_DT Church_NNP Building_NNP Society_NNP ._.
+In_IN 1825_CD his_PRP$ son_NN Thomas_NNP published_VBD a_DT Memoir_NNP of_IN the_DT Late_JJ John_NNP Bowdler_NNP -LRB-_-LRB- which_WDT includes_VBZ an_DT account_NN of_IN Thomas_NNP Bowdler_NNP the_DT elder_JJR -RRB-_-RRB- ._.
+He_PRP had_VBD ten_VBN children_NNS ,_, six_CD of_IN whom_WP survived_VBD infancy_NN ._.
+John_NNP Bowdler_NNP the_DT younger_JJR and_CC Thomas_NNP Bowdler_NNP the_DT younger_JJR were_VBD his_PRP$ sons_NNS ._.
+His_PRP$ daughter_NN Elizabeth_NNP died_VBD on_IN 4_CD December_NNP 1810_CD ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Bowdler_NNP ,_, John_NNP -LRB-_-LRB- 1746-1823_CD -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

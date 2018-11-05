@@ -1,0 +1,5 @@
+William_NNP Bartholomew_NNP -LRB-_-LRB- 1793_CD ``_`` 1867_CD -RRB-_-RRB- was_VBD an_DT English_JJ librettist_NN ,_, composer_NN ,_, and_CC writer_NN ._.
+He_PRP made_VBD his_PRP$ living_NN as_IN a_DT chemist_NN ,_, but_CC is_VBZ best_RB remembered_VBN as_IN the_DT translator\/text_NN author_NN for_IN the_DT premieres_NNS of_IN many_JJ of_IN Felix_NNP Mendelssohn_NNP 's_POS works_NNS in_IN England_NNP ;_: most_RBS notably_RB the_DT anthem_NN Hear_VB My_PRP$ Prayer_NN -LRB-_-LRB- 1845_CD -RRB-_-RRB- and_CC the_DT oratorio_NN Elijah_NNP for_IN its_PRP$ premiere_NN at_IN the_DT Birmingham_NNP Triennial_NNP Music_NNP Festival_NNP in_IN 1846_CD ._.
+As_IN a_DT composer_NN ,_, he_PRP produced_VBD several_JJ hymns_NNS ,_, The_DT Nativity_NNP oratorio_NN ,_, and_CC children_NNS 's_POS songs_NNS ._.
+He_PRP was_VBD married_VBN to_TO the_DT composer_NN and_CC organist_NN Ann_NNP Mounsey_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Son_NNP of_IN Lemuel_NNP Bartholomew_NNP ._.

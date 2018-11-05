@@ -1,0 +1,4 @@
+Alfred_NNP Beesley_NNP -LRB-_-LRB- \/_FW ^_FW biːzli_FW \/_FW ;_: 1800_CD ''_'' 10_CD April_NNP 1847_CD -RRB-_-RRB- was_VBD an_DT English_JJ topographer_NN and_CC poet_NN ._.
+He_PRP was_VBD an_DT apprentice_NN to_TO a_DT watchmaker_NN at_IN Deddington_NNP ,_, Oxfordshire_NNP ,_, but_CC only_RB served_VBD a_DT portion_NN of_IN his_PRP$ time_NN ,_, and_CC subsequently_RB devoted_JJ himself_PRP to_TO literary_JJ and_CC scientific_JJ pursuits_NNS ._.
+He_PRP died_VBD on_IN 10_CD April_NNP 1847_CD ,_, and_CC was_VBD buried_VBN in_IN Banbury_NNP churchyard_NN ._.
+He_PRP published_VBD a_DT collection_NN of_IN poems_NNS ,_, and_CC `_`` The_DT History_NN of_IN Banbury_NNP ,_, including_VBG copious_JJ historical_JJ and_CC antiquarian_JJ notices_NNS '_POS in_IN 1841_CD in_IN 8_CD volumes_NNS ._.

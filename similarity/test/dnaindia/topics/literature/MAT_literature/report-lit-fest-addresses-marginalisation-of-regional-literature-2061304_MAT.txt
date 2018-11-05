@@ -1,0 +1,315 @@
+At_PIN
+the_DT
+LIC-Gateway_NN
+LitFest_NN
+held_VBD [PRIV]
+over_IN
+the_DT
+weekend_NN
+,_,
+issues_NN
+pertaining_VBG [WZPRES]
+to_PIN
+Indian_JJ
+literature_NN
+in_PIN
+regional_JJ
+languages_NN
+as_RB
+well_RB
+as_IN
+the_DT
+freedom_NN
+of_PIN
+expression_NN
+in_PIN
+literature_NN
+were_VBD [BEMA]
+among_PIN
+the_DT
+topics_NN
+that_TSUB
+were_VBD [PASS]
+discussed_VBN
+._.
+The_DT
+focus_NN
+though_CONC
+lay_VBN
+on_PIN
+the_DT
+marginalization_NOMZ
+of_PIN
+literature_NN
+written_VBN [PUBV] [WZPAST]
+in_PIN
+regional_JJ
+languages_NN
+._.
+``_``
+Many_QUAN
+people_NN
+believe_VPRT [PRIV]
+that_THVC
+Dalit_NN
+writing_VBG [PUBV] [WZPRES]
+or_CC
+the_DT
+literature_NN
+of_PIN
+regional_JJ
+languages_NN
+is_VPRT [BEMA]
+a_DT
+trend_NN
+,_,
+but_CC
+there_EX
+are_VPRT
+many_QUAN
+changes_NN
+that_TSUB
+are_VPRT
+appearing_VBG [SMP]
+._.
+For_CONJ
+instance_NULL
+,_,
+literature_NN
+now_TIME
+also_RB
+reflects_VPRT [PRIV]
+the_DT
+modern_JJ
+circumstances_NN
+of_PIN
+globalization_NOMZ
+and_PHC
+urbanization_NOMZ
+,_,
+''_''
+said_VBD [PUBV]
+Urmila_NN
+Pawar_NN
+._.
+Malayalam_NN
+author_NN
+,_,
+Kalpetta_NN
+Narayan_NN
+added_VBD [PUBV]
+another_DT
+dimension_NN
+to_PIN
+the_DT
+discussion_NN
+when_RB
+he_TPP3
+said_VBD [PUBV]
+,_,
+``_``
+Most_EMPH
+literature_NN
+always_RB
+assumes_VPRT [PRIV] [THATD]
+that_DEMP
+`_``
+He_TPP3
+'_''
+includes_VPRT
+`_``
+she_TPP3
+'_''
+but_CC
+not_XX0
+vice-versa_JJ
+so_IN
+when_RB
+I_FPP1
+'m_VPRT [CONT]
+writing_VBG [PUBV] [THATD]
+I_FPP1
+make_VPRT
+it_PIT
+a_DT
+point_NN
+to_TO
+include_VB
+a_DT
+`_``
+She_TPP3
+'_''
+exclusively_RB
+for_PIN
+my_FPP1
+characters_NN
+._.
+''_''
+Narayan_NN
+added_VBD [PUBV]
+,_,
+``_``
+In_PIN
+Malayalam_NN
+literature_NN
+,_,
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+really_EMPH
+have_VB
+Dalit_NN
+or_CC
+tribal_JJ
+literature_NN
+._.
+What_WP
+we_FPP1
+do_EMPH
+have_VB
+is_VPRT [BEMA]
+largely_RB
+in_PIN
+Sanskrit_NN
+._.
+''_''
+From_PIN
+the_DT
+perspective_NN
+of_PIN
+publishers_NN
+'_POS
+responses_NN
+,_,
+Sachin_NN
+Ketkar_NN
+,_,
+who_WP
+has_VPRT [PEAS]
+translated_VBN
+many_QUAN
+Gujarathi_NN
+dalit_NN
+literature_NN
+in_PIN
+English_NN
+,_,
+said_VBD [PUBV]
+,_,
+``_``
+Although_CONC
+Dalit_NN
+literature_NN
+is_VPRT
+becoming_VBG
+more_EMPH
+popular_JJ
+and_ANDC
+therefore_CONJ
+more_EMPH
+publishers_NN
+are_VPRT [BEMA]
+willing_PRED
+to_TO
+publish_VB
+such_JJ
+writing_GER
+,_,
+the_DT
+problem_NN
+lies_VPRT
+in_PIN
+the_DT
+that_DEMO
+they_TPP3
+do_VPRT
+n't_XX0 [CONT]
+accept_VB [PRIV] [THATD]
+the_DT
+local_JJ
+idioms_NN
+translated_VBN [WZPAST]
+into_PIN
+the_DT
+global_JJ
+idiom_NN
+-LRB-_-LRB-
+i.e._CONJ
+English_NN
+-RRB-_-RRB-
+,_,
+so_IN
+they_TPP3
+'re_VPRT [CONT]
+looking_VBG
+for_PIN
+some_QUAN
+compliance_NN
+at_PIN
+the_DT
+cost_NN
+of_PIN
+losing_VBG
+its_PIT
+local_JJ
+flavors_NN
+._.
+''_''
+An_DT
+audience_NN
+member_NN
+said_VBD [PUBV]
+about_IN
+the_DT
+discussion_NN
+,_,
+``_``
+It_PIT
+'s_VPRT [CONT]
+about_IN
+time_NN
+that_TOBJ
+we_FPP1
+brought_VBD
+the_DT
+regional_JJ
+languages_NN
+to_PIN
+the_DT
+mainstream_NN
+,_,
+however_CONJ
+it_PIT
+would_PRMD
+be_VB [BEMA]
+better_PRED
+if_COND
+the_DT
+discussion_NN
+was_VBD [BEMA]
+longer_PRED
+and_CC
+the_DT
+panelists_NN
+shared_VBD
+a_DT
+common_JJ
+language_NN
+because_CAUS
+if_COND
+they_TPP3
+ca_POMD
+n't_XX0 [CONT]
+understand_VB [PRIV]
+each_QUAN
+other_JJ
+then_RB
+it_PIT
+defeats_VPRT
+the_DT
+point_NN
+of_PIN
+the_DT
+discussion_NN
+._.
+''_''

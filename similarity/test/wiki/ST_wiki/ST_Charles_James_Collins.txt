@@ -1,0 +1,8 @@
+Charles_NNP James_NNP Collins_NNP -LRB-_-LRB- 1820_CD ``_`` 1864_CD -RRB-_-RRB- was_VBD an_DT English_JJ journalist_NN and_CC novelist_NN ._.
+Collins_NNP was_VBD connected_VBN with_IN the_DT London_NNP press_NN for_IN more_JJR than_IN twenty_CD years_NNS ,_, having_VBG been_VBN on_IN the_DT parliamentary_JJ staff_NN of_IN the_DT `_`` Sun_NNP ,_, '_'' `_`` Daily_NNP Telegraph_NNP ,_, '_'' and_CC `_`` Evening_NNP Standard_NNP ._. '_''
+He_PRP projected_VBD and_CC edited_VBD the_DT `_`` Racing_VBG Times_NNP ,_, '_'' and_CC at_IN one_CD period_NN was_VBD editor_NN of_IN the_DT `_`` Comic_NNP News_NNP ._. '_''
+He_PRP died_VBD at_IN Brixton_NNP on_IN 31_CD December_NNP 1864_CD ._.
+He_PRP was_VBD author_NN of_IN `_`` Kenilworth_NNP ._. '_''
+a_DT burlesque_JJ ,_, and_CC other_JJ dramas_NN of_IN a_DT similar_JJ character_NN ,_, and_CC of_IN the_DT following_VBG novels_NNS :_: This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Collins_NNP ,_, Charles_NNP James_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

@@ -1,0 +1,14 @@
+People_NNS who_WP post_VBP greyer_NN or_CC darker_JJR colored_VBN pictures_NNS on_IN Instagram_NNP are_VBP more_RBR likely_JJ to_TO be_VB depressed_VBN compared_VBN to_TO those_DT who_WP upload_VBP images_NNS with_IN vibrant_JJ hues_NNS ,_, scientists_NNS say_VBP ._.
+Researchers_NNS from_IN Harvard_NNP University_NNP and_CC the_DT University_NNP of_IN Vermont_NNP in_IN the_DT US_NNP have_VBP developed_VBN a_DT new_JJ algorithm_NN that_WDT checks_VBZ photos_NNS on_IN Instagram_NNP to_TO diagnose_VB depression_NN and_CC other_JJ mental_JJ illnesses_NNS at_IN an_DT early_JJ stage_NN ._.
+According_VBG to_TO the_DT researchers_NNS ,_, there_EX is_VBZ a_DT connection_NN between_IN the_DT usage_NN of_IN color_NN and_CC the_DT mental_JJ state_NN of_IN a_DT person_NN ._.
+They_PRP believe_VBP that_IN those_DT who_WP post_VBP greyer_NN or_CC darker_JJR colored_VBN images_NNS on_IN Instagram_NNP are_VBP more_RBR likely_JJ to_TO be_VB depressed_VBN compared_VBN to_TO those_DT who_WP upload_VBP pictures_NNS of_IN vibrant_JJ colors_NNS ._.
+The_DT algorithm_NN spots_NNS depression_NN in_IN people_NNS by_IN identifying_VBG the_DT pictures_NNS they_PRP have_VBP uploaded_VBN ._.
+Researchers_NNP examined_VBD about_IN 170_CD workers_NNS from_IN Amazon_NNP 's_POS Mechanical_NNP Turk_NNP service_NN who_WP had_VBD Instagram_NNP accounts_NNS ._.
+All_DT participants_NNS completed_VBD a_DT questionnaire_NN ,_, which_WDT also_RB included_VBD a_DT standard_JJ clinical_JJ depression_NN survey_NN ._.
+They_PRP were_VBD also_RB asked_VBN to_TO share_VB pictures_NNS from_IN their_PRP$ Instagram_NNP account_NN ._.
+Researchers_NNP selected_VBN about_IN 100_CD images_NNS from_IN each_DT participant_NN and_CC asked_VBD people_NNS to_TO rate_VB them_PRP on_IN a_DT scale_NN of_IN 0_CD to_TO 5_CD based_VBN on_IN how_WRB interesting_JJ ,_, sad_JJ or_CC happy_JJ the_DT photos_NNS looked_VBD ,_, `_`` Tech_NNP Times_NNP '_POS reported_VBD ._.
+The_DT study_NN also_RB categorised_VBD the_DT photos_NNS based_VBN on_IN saturation_NN ,_, hue_NN and_CC the_DT number_NN of_IN faces_NNS each_DT picture_NN had_VBD ._.
+Researchers_NNP found_VBD that_IN decreased_VBD saturation_NN and_CC brightness_NN ,_, and_CC increased_VBD hue_NN predicted_VBD depression_NN ._.
+Researchers_NNS also_RB found_VBD the_DT depressed_JJ and_CC non-depressed_JJ people_NNS used_VBN filters_NNS differently_RB ._.
+Depressed_JJ people_NNS were_VBD less_RBR likely_JJ to_TO use_VB filters_NNS ._.
+The_DT algorithm_NN was_VBD able_JJ to_TO identify_VB depression_NN with_IN a_DT 70_CD percent_NN success_NN rate_NN ,_, researchers_NNS said_VBD ._.

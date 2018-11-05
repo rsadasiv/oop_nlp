@@ -1,0 +1,39 @@
+Using_VBG nothing_NN more_JJR than_IN a_DT simple_JJ vial_NN of_IN saliva_NN ,_, millions_NNS of_IN people_NNS have_VBP created_VBN DNA_NNP profiles_NNS on_IN genealogy_NN websites_NNS ._.
+But_CC this_DT wealth_NN of_IN information_NN is_VBZ effectively_RB inaccessible_JJ to_TO genetics_NNS researchers_NNS ,_, with_IN the_DT sites_NNS painstakingly_RB safeguarding_VBG their_PRP$ databases_NNS ,_, fearful_JJ of_IN a_DT leak_NN that_WDT could_MD cost_VB them_PRP dearly_RB in_IN terms_NNS of_IN credibility_NN ._.
+This_DT problem_NN of_IN access_NN is_VBZ one_CD that_WDT Bonnie_NNP Berger_NNP ,_, a_DT professor_NN of_IN mathematics_NNS at_IN the_DT Massachusetts_NNP Institute_NNP of_IN Technology_NNP ,_, and_CC her_PRP$ colleagues_NNS think_VBP they_PRP can_MD solve_VB ,_, with_IN a_DT new_JJ cryptographic_JJ system_NN to_TO protect_VB the_DT information_NN ._.
+``_`` We_PRP 're_VBP currently_RB at_IN a_DT stalemate_NN in_IN sharing_VBG all_PDT this_DT genomic_JJ data_NNS ,_, ''_'' Berger_NNP told_VBD AFP_NNP ._.
+``_`` It_PRP 's_VBZ really_RB hard_JJ for_IN researchers_NNS to_TO get_VB any_DT of_IN their_PRP$ data_NNS ,_, so_IN they_PRP 're_VBP not_RB really_RB helping_VBG science_NN ._. ''_''
+``_`` No_DT one_NN can_MD gain_VB access_NN to_TO help_VB them_PRP find_VB the_DT link_NN between_IN genetic_JJ variations_NNS and_CC disease_NN ,_, ''_'' she_PRP said_VBD ._.
+``_`` But_CC just_RB think_VB what_WP could_MD happen_VB if_IN we_PRP could_MD leverage_NN the_DT millions_NNS of_IN genomes_NNS out_IN there_RB ._. ''_''
+The_DT idea_NN of_IN this_DT new_JJ cryptographic_JJ method_NN ,_, described_VBN Thursday_NNP in_IN the_DT US_NNP journal_NN Science_NNP ,_, was_VBD developed_VBN in_IN connection_NN to_TO finding_VBG drug_NN candidates_NNS in_IN datasets_NNS from_IN pharmaceuticals_NNS companies_NNS ._.
+In_IN an_DT earlier_JJR work_NN ,_, the_DT researchers_NNS have_VBP shown_VBN the_DT concept_NN could_MD be_VB applied_VBN to_TO DNA_NNP profiles_NNS ._.
+Labs_NNPS are_VBP constantly_RB looking_VBG to_TO identify_VB links_NNS between_IN millions_NNS of_IN drug_NN compounds_NNS and_CC the_DT tens_NNS of_IN thousands_NNS of_IN proteins_NNS in_IN the_DT human_JJ body_NN ,_, to_TO identify_VB good_JJ candidates_NNS for_IN certain_JJ drugs_NNS ._.
+But_CC they_PRP do_VBP n't_RB want_VB their_PRP$ competitors_NNS to_TO know_VB what_WP they_PRP are_VBP working_VBG on_IN ._.
+Often_RB ,_, their_PRP$ drug_NN compounds_NNS are_VBP patented_VBN and_CC secret_JJ ._.
+So_IN they_PRP do_VBP n't_RB share_VB much_JJ ._.
+-_: `_`` Secret_JJ sharing_NN '_'' -_: With_IN the_DT researchers_NNS '_POS new_JJ scalable_JJ technique_NN ,_, the_DT first_JJ based_VBN on_IN a_DT secure_JJ ``_`` neural_JJ network_NN ,_, ''_'' Berger_NNP explained_VBD ,_, labs_NNS could_MD share_VB their_PRP$ sensitive_JJ data_NNS ,_, dividing_VBG it_PRP between_IN several_JJ servers_NNS that_WDT would_MD run_VB to_TO find_VB new_JJ links_NNS based_VBN on_IN the_DT data_NNS sample_NN as_IN a_DT whole_NN ._.
+But_CC no_DT entity_NN would_MD be_VB able_JJ to_TO access_VB the_DT initial_JJ inputs_NNS ,_, which_WDT might_MD include_VB proprietary_JJ information_NN --_: provided_VBN they_PRP do_VBP n't_RB decide_VB to_TO collude_VB with_IN each_DT other_JJ ._.
+Each_DT entity_NN would_MD get_VB results_NNS based_VBN on_IN its_PRP$ contributions_NNS ._.
+Berger_NNP says_VBZ their_PRP$ technique_NN is_VBZ based_VBN on_IN a_DT cryptographic_JJ framework_NN called_VBN ``_`` secret_JJ sharing_NN ._. ''_''
+The_DT researchers_NNS introduced_VBD new_JJ optimization_NN and_CC artificial_JJ intelligence_NN techniques_NNS to_TO be_VB able_JJ to_TO handle_VB the_DT millions_NNS of_IN chemical_NN compounds_NNS or_CC genomes_NNS that_WDT need_VBP to_TO be_VB analyzed_VBN ._.
+``_`` We_PRP can_MD do_VB something_NN that_WDT was_VBD absolutely_RB not_RB possible_JJ before_IN ,_, ''_'' the_DT MIT_NNP professor_NN said_VBD ,_, noting_VBG that_IN existing_VBG cryptographic_JJ methods_NNS involve_VBP unwieldy_JJ large-scale_JJ computer_NN calculations_NNS and_CC communications_NNS costs_NNS ._.
+They_PRP also_RB only_RB work_VB for_IN thousands_NNS of_IN data_NNS points_NNS ,_, not_RB millions_NNS ._.
+The_DT same_JJ technique_NN could_MD allow_VB the_DT major_JJ genealogy_NN websites_NNS ,_, like_IN Ancestry.com_NNP and_CC 23andMe_NNP ,_, to_TO open_VB their_PRP$ databases_NNS to_TO researchers_NNS and_CC pool_VB them_PRP ._.
+Ancestry_NN has_VBZ more_JJR than_IN 10_CD million_CD registered_VBN profiles_NNS ,_, while_IN 23andMe_NNP has_VBZ more_JJR than_IN five_CD million_CD ._.
+Berger_NNP told_VBD AFP_NNP she_PRP had_VBD been_VBN in_IN contact_NN with_IN both_DT companies_NNS about_IN her_PRP$ findings_NNS ._.
+Ancestry_NN ,_, 23andMe_NNP ,_, MyHeritage_NNP and_CC others_NNS offer_VBP physical_JJ ,_, genealogical_JJ and_CC sometimes_RB even_RB medical_JJ data_NNS --_: such_JJ as_IN a_DT history_NN of_IN cancer_NN in_IN the_DT family_NN ._.
+It_PRP is_VBZ this_DT information_NN that_WDT researchers_NNS want_VBP to_TO match_VB against_IN certain_JJ genetic_JJ variations_NNS ._.
+23andMe_NN has_VBZ taken_VBN a_DT step_NN in_IN this_DT direction_NN ,_, via_IN a_DT partnership_NN with_IN pharmaceuticals_NNS group_NN GlaxoSmithKline_NNP -LRB-_-LRB- GSK_NNP -RRB-_-RRB- ._.
+A_DT 23andMe_JJ spokesman_NN told_VBD AFP_NNP that_IN scientific_JJ collaborations_NNS have_VBP led_VBN to_TO the_DT publication_NN of_IN about_IN 100_CD research_NN articles_NNS ._.
+But_CC the_DT company_NN only_RB offers_VBZ researchers_NNS a_DT statistical_JJ summary_NN of_IN the_DT results_NNS ,_, in_IN this_DT format_NN :_: ``_`` 30_CD percent_NN of_IN males_NNS aged_VBN 20-35_CD have_VBP reported_VBN being_VBG diagnosed_VBN with_IN X_NNP disease_NN and_CC have_VBP Y_NNP variants\/mutations_NNS in_IN common_JJ ._. ''_''
+And_CC user_NN participation_NN is_VBZ on_IN a_DT voluntary_JJ basis_NN ,_, which_WDT limits_VBZ the_DT scope_NN of_IN the_DT findings_NNS ._.
+-_: Privacy_NN concerns_NNS -_: The_DT intersection_NN of_IN genetics_NNS and_CC genealogy_NN has_VBZ made_VBN headlines_NNS in_IN the_DT United_NNP States_NNPS ._.
+Last_JJ week_NN ,_, a_DT new_JJ study_NN showed_VBD that_IN half_NN of_IN all_DT Americans_NNS could_MD be_VB identified_VBN from_IN relatives_NNS '_POS DNA_NN samples_NNS found_VBN in_IN GEDmatch_NNP ,_, a_DT free_JJ website_NN ._.
+This_DT technique_NN has_VBZ been_VBN a_DT boon_NN for_IN US_NNP police_NN forces_NNS ,_, who_WP have_VBP used_VBN it_PRP to_TO identify_VB suspects_NNS in_IN cold_JJ cases_NNS dating_VBG back_RB decades_NNS ,_, such_JJ as_IN the_DT ``_`` Golden_NNP State_NNP Killer_NNP ,_, ''_'' who_WP is_VBZ blamed_VBN for_IN 12_CD murders_NNS and_CC more_JJR than_IN 50_CD rapes_NNS starting_VBG in_IN the_DT mid-1970s_NNS ._.
+It_PRP can_MD also_RB be_VB used_VBN by_IN people_NNS looking_VBG for_IN their_PRP$ biological_JJ parents_NNS ._.
+But_CC what_WP happens_VBZ if_IN the_DT data_NNS falls_VBZ into_IN the_DT wrong_JJ hands_NNS ?_.
+Hackers_NNS could_MD potentially_RB exploit_VB the_DT information_NN to_TO nefarious_JJ ends_NNS ._.
+Or_CC what_WP if_IN insurance_NN companies_NNS and_CC others_NNS used_VBD it_PRP to_TO discriminate_JJ against_IN customers_NNS ?_.
+Benjamin_NNP Berkman_NNP ,_, a_DT bioethics_NNS researcher_NN at_IN the_DT National_NNP Institutes_NNPS of_IN Health_NNP ,_, told_VBD AFP_NNP there_EX is_VBZ ``_`` not_RB really_RB evidence_NN of_IN systemic_JJ discrimination_NN ,_, ''_'' but_CC noted_VBD that_IN ``_`` does_VBZ n't_RB mean_VB that_IN it_PRP could_MD n't_RB become_VB a_DT problem_NN ._. ''_''
+``_`` People_NNS are_VBP very_RB worried_JJ about_IN genomic_JJ privacy_NN ._.
+It_PRP 's_VBZ something_NN that_IN they_PRP cite_VBP as_IN a_DT reason_NN why_WRB they_PRP 're_VBP not_RB getting_VBG genetic_JJ testing_NN ,_, or_CC they_PRP 're_VBP not_RB enrolling_VBG in_IN research_NN ,_, ''_'' Berkman_NNP said_VBD ._.

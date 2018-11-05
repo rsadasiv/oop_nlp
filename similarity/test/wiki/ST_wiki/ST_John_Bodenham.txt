@@ -1,0 +1,11 @@
+John_NNP Bodenham_NNP -LRB-_-LRB- c._FW 1559_CD ''_'' 1610_CD -RRB-_-RRB- ,_, an_DT English_JJ anthologist_NN ,_, was_VBD the_DT patron_NN of_IN some_DT of_IN the_DT Elizabethan_NNP poetry_NN anthologies_NNS ._.
+He_PRP was_VBD the_DT son_NN of_IN William_NNP Bodnam_NNP and_CC Katherine_NNP Wanton_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Merchant_NN Taylors_NNS '_POS School_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Mr._NNP Bullen_NNP says_VBZ that_IN Bodenham_NNP did_VBD not_RB himself_PRP edit_VB any_DT of_IN the_DT Elizabethan_NNP miscellanies_NNS attributed_VBD to_TO him_PRP by_IN bibliographers_NNS :_: but_CC that_IN he_PRP projected_VBD their_PRP$ publication_NN ,_, and_CC he_PRP befriended_VBD the_DT editors_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bullen_NNP ,_, Arthur_NNP Henry_NNP -LRB-_-LRB- 1886_CD -RRB-_-RRB- ._.
+``_`` Bodenham_NNP ,_, John_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+05_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP pp_NN ._.
+291_CD ``_`` 292_CD ._.

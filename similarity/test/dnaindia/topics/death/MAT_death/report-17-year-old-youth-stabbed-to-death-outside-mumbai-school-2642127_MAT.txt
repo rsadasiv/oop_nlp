@@ -1,0 +1,120 @@
+A_DT
+17-year-old_JJ
+youth_NN
+was_VBD [PASS]
+stabbed_VBN
+to_PIN
+death_NN
+outside_PLACE
+a_DT
+school_NN
+in_PIN
+suburban_JJ
+Bhandup_NN
+today_TIME
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+Sushil_NN
+Verma_NN
+,_,
+the_DT
+victim_NN
+,_,
+was_VBD [PASS]
+attacked_VBN
+with_PIN
+sharp-edged_JJ
+weapons_NN
+when_RB
+he_TPP3
+came_VBD
+out_PIN
+of_PIN
+the_DT
+school_NN
+this_DEMO
+afternoon_NN
+._.
+He_TPP3
+was_VBD [PASS]
+taken_VBN
+to_PIN
+a_DT
+nearby_PLACE
+hospital_NN
+where_RB
+doctors_NN
+declared_VBD [PUBV]
+him_TPP3
+dead_JJ
+on_PIN
+arrival_NN
+,_,
+said_VBD [PUBV]
+a_DT
+police_NN
+officer_NN
+._.
+It_PIT
+is_VPRT [PASS]
+suspected_VBN [PRIV]
+that_THVC
+an_DT
+altercation_NOMZ
+regarding_VBG [WZPRES]
+a_DT
+girl_NN
+led_VBD
+to_PIN
+the_DT
+attack_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.
+Three_CD
+men_NN
+were_VBD [PASS]
+detained_VBN
+in_PIN
+connection_NOMZ
+with_PIN
+the_DT
+incident_NN
+,_,
+the_DT
+officer_NN
+said_VBD [PUBV]
+,_,
+adding_VBG [PUBV]
+that_THVC
+some_QUAN
+minors_NN
+too_RB
+could_POMD
+be_VB [PASS]
+involved_VBN
+in_PIN
+the_DT
+attack_NN
+._.
+A_DT
+case_NN
+under_IN
+IPC_NN
+section_NOMZ
+302_CD
+-LRB-_-LRB-
+murder_NN
+-RRB-_-RRB-
+has_VPRT [PEAS]
+been_VBN [PASS]
+registered_VBN
+and_CC
+further_JJ
+probe_NN
+is_VPRT [BEMA]
+on_PIN [STPR]
+._.

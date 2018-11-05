@@ -1,0 +1,231 @@
+From_IN :_: Ajay_NNP Patri_NNP <ajaypatri@gmail.com>_NNP Date_NNP :_: 6_CD February_NNP 2016_CD at_IN 14:03_CD Subject_NNP :_: Submission_NNP To_TO :_: The_DT Editors_NNP <outofprintmagazine@gmail.com>_NNP Ajay_NNP Patri_NNP is_VBZ a_DT twenty_CD three_CD year_NN old_JJ lawyer_NN from_IN Bangalore_NNP ,_, India_NNP ._.
+He_PRP has_VBZ been_VBN published_VBN previously_RB in_IN Spark_NNP ,_, The_DT Literary_NNP Yard_NNP ,_, Hackwriters_NNP ,_, Every_DT Day_NNP Fiction_NNP ,_, Mobius_NNP Magazine_NNP ,_, The_DT Word_NNP Couch_NNP ,_, Muse_NNP India_NNP ,_, No_NNP Extra_NNP Words_NNP ,_, Toasted_NNP Cheese_NNP Literary_NNP Journal_NNP and_CC was_VBD a_DT finalist_NN in_IN the_DT DNA_NNP -_: Out_IN of_IN Print_NNP Short_NNP Fiction_NNP Feature_NNP 2014_CD ._.
+He_PRP is_VBZ also_RB an_DT active_JJ member_NN of_IN Bangalore_NNP Writers_NNPS Workshop_NNP ._.
+\*_SYM Enrolment_NN \*_SYM Mallikarjun_NNP Despande_NNP sat_VBD on_IN a_DT rickety_NN wooden_JJ bench_NN at_IN the_DT end_NN of_IN a_DT long_JJ corridor_NN on_IN the_DT first_JJ floor_NN of_IN the_DT old_JJ KGID_NNP building_NN ._.
+He_PRP sat_VBD in_IN the_DT middle_NN of_IN the_DT bench_NN ,_, away_RB from_IN the_DT tiny_JJ nubs_NNS of_IN the_DT iron_NN nails_VBZ that_IN jutted_VBN out_RP from_IN the_DT wooden_JJ surface_NN at_IN either_DT end_NN ._.
+His_PRP$ back_JJ ached_VBN from_IN the_DT long_JJ journey_NN of_IN the_DT night_NN before_RB ,_, the_DT muscles_NNS bunching_VBG up_RP and_CC refusing_VBG to_TO relax_VB ._.
+He_PRP kept_VBD his_PRP$ eyes_NNS on_IN the_DT door_NN in_IN front_NN of_IN him_PRP ,_, occasionally_RB lifting_VBG them_PRP to_TO look_VB at_IN the_DT sign_NN over_IN it_PRP which_WDT said_VBD that_IN he_PRP was_VBD at_IN the_DT office_NN of_IN the_DT bar_NN council_NN ._.
+A_DT cool_JJ breeze_NN wafted_VBD through_IN the_DT corridor_NN in_IN which_WDT he_PRP sat_VBD ,_, making_VBG him_PRP shiver_JJR slightly_RB and_CC pull_VB his_PRP$ black_JJ coat_NN closer_RBR around_IN himself_PRP ._.
+As_IN he_PRP did_VBD so_RB ,_, he_PRP examined_VBD the_DT cuffs_NNS ,_, which_WDT were_VBD slightly_RB frayed_VBN and_CC a_DT little_JJ too_RB short_JJ for_IN his_PRP$ gangly_RB arms_NNS ._.
+The_DT man_NN at_IN the_DT thrift_NN store_NN who_WP had_VBD sold_VBN it_PRP to_TO him_PRP had_VBD extolled_VBN the_DT coat_NN 's_POS virtues_NNS ,_, reassuring_VBG him_PRP that_IN it_PRP would_MD last_VB him_PRP for_IN a_DT decade_NN and_CC that_IN it_PRP would_MD n't_RB shrink_VB after_IN being_VBG washed_VBN ._.
+It_PRP had_VBD shrank_VBN to_TO half_PDT its_PRP$ size_NN after_IN being_VBG washed_VBN once_RB ._.
+But_CC Mallikarjun_NNP knew_VBD that_IN when_WRB you_PRP buy_VBP something_NN for_IN so_RB cheap_JJ ,_, it_PRP is_VBZ a_DT sin_NN to_TO have_VB high_JJ expectations_NNS ._.
+He_PRP fidgeted_VBD on_IN the_DT bench_NN ,_, trying_VBG to_TO make_VB himself_PRP more_RBR comfortable_JJ and_CC wincing_VBG slightly_RB whenever_WRB his_PRP$ back_NN twinged_VBD ._.
+The_DT quietness_NN of_IN the_DT place_NN was_VBD suddenly_RB broken_VBN by_IN the_DT sound_NN of_IN footsteps_NNS ,_, echoing_VBG in_IN the_DT peculiar_JJ way_NN that_IN they_PRP do_VBP in_IN every_DT government_NN building_NN ._.
+A_DT young_JJ man_NN in_IN his_PRP$ twenties_NNS was_VBD walking_VBG towards_IN him_PRP ,_, his_PRP$ polished_JJ boots_NNS slamming_VBG down_RP on_IN the_DT ground_NN confidently_RB ,_, a_DT well-fitted_JJ black_JJ jacket_NN covering_VBG his_PRP$ torso_NN and_CC a_DT shiny_JJ backpack_NN slung_NN over_IN his_PRP$ shoulders_NNS ._.
+Mallikarjun_NNP instinctively_RB clutched_VBD his_PRP$ cloth_NN rucksack_NN a_DT little_JJ tighter_JJR in_IN his_PRP$ lap_NN ._.
+The_DT young_JJ man_NN came_VBD up_RP to_TO where_WRB he_PRP was_VBD sitting_VBG and_CC looked_VBD around_RB ,_, taking_VBG in_IN the_DT closed_JJ door_NN ,_, the_DT sign_NN over_IN it_PRP and_CC Mallikarjun_NNP sitting_VBG huddled_VBN on_IN the_DT bench_NN ._.
+Are_VBP you_PRP here_RB for_IN the_DT enrolment_NN as_RB well_RB ?_.
+Mallikarjun_NNP nodded_VBD his_PRP$ head_NN ._.
+We_PRP are_VBP at_IN the_DT right_JJ place_NN ,_, no_DT ?_.
+The_DT place_NN seems_VBZ pretty_RB empty_JJ right_RB now_RB ._.
+The_DT young_JJ man_NN followed_VBD this_DT up_RP with_IN a_DT smile_NN that_WDT made_VBD his_PRP$ thick_JJ framed_VBN glasses_NNS go_VBP up_RP a_DT bit_NN on_IN his_PRP$ face_NN ._.
+Mallikarjun_NNP nodded_VBD again_RB ._.
+They_PRP told_VBD me_PRP to_TO come_VB here_RB by_IN nine_CD thirty_CD ._.
+I_PRP was_VBD told_VBN that_IN as_RB well_RB ._.
+Just_RB as_IN Mallikarjun_NNP expected_VBD the_DT young_JJ man_NN to_TO continue_VB speaking_NN ,_, he_PRP whipped_VBD out_RP a_DT tiny_JJ black_JJ slab_NN out_IN of_IN his_PRP$ pocket_NN and_CC started_VBD tapping_VBG away_RB at_IN it_PRP furiously_RB ._.
+Tiny_NNP beeps_NNS issued_VBN from_IN the_DT object_NN as_IN the_DT young_JJ man_NN walked_VBD away_RB a_DT little_JJ from_IN where_WRB he_PRP sat_VBD ,_, making_VBG Mallikarjun_NNP breathe_VB a_DT little_JJ easily_RB again_RB ._.
+In_IN his_PRP$ head_NN ,_, he_PRP heard_VBD his_PRP$ wife_NN 's_POS voice_NN laughing_VBG at_IN him_PRP as_IN he_PRP told_VBD her_PRP he_PRP wanted_VBD to_TO be_VB a_DT lawyer_NN ._.
+You_PRP are_VBP scared_VBN of_IN people_NNS ,_, she_PRP had_VBD said_VBN ,_, how_WRB will_MD you_PRP ever_RB talk_VBP in_IN a_DT court_NN with_IN everyone_NN looking_VBG at_IN you_PRP ?_.
+The_DT thought_NN of_IN those_DT words_NNS made_VBD him_PRP blush_VB even_RB as_IN the_DT door_NN in_IN front_NN of_IN him_PRP creaked_VBD open_JJ ._.
+A_DT man_NN with_IN a_DT face_NN like_IN an_DT old_JJ ox_NN peered_VBD out_RP ,_, squinting_VBG a_DT little_JJ ._.
+Mallikarjun_NNP immediately_RB brought_VBD his_PRP$ palms_NNS together_RB and_CC saluted_VBD him_PRP ,_, bowing_VBG his_PRP$ head_NN forward_RB a_DT little_JJ ._.
+Yes_UH ?_.
+Are_VBP you_PRP waiting_VBG here_RB for_IN something_NN ?_.
+Before_IN Mallikarjun_NNP could_MD say_VB anything_NN ,_, the_DT young_JJ man_NN was_VBD in_IN front_NN of_IN him_PRP ,_, giving_VBG a_DT winning_VBG smile_NN to_TO the_DT man_NN behind_IN the_DT door_NN ._.
+Good_JJ morning_NN ,_, sir_NN ._.
+I_PRP am_VBP here_RB for_IN the_DT enrolment_NN ._.
+As_IN is_VBZ this_DT gentleman_NN here_RB ,_, I_PRP understand_VBP ._.
+Mallikarjun_NNP nodded_VBD again_RB ._.
+The_DT ox_NN faced_VBD man_NN looked_VBD at_IN them_PRP blankly_RB for_IN a_DT second_JJ before_IN stepping_VBG out_IN of_IN the_DT office_NN gingerly_RB ._.
+He_PRP wore_VBD a_DT white_JJ shirt_NN that_WDT was_VBD not_RB ironed_VBN ,_, and_CC his_PRP$ greasy_NN hair_NN was_VBD combed_VBN to_TO one_CD side_NN carefully_RB ._.
+He_PRP sniffed_VBD a_DT little_JJ like_IN he_PRP was_VBD recovering_VBG from_IN a_DT cold_JJ ._.
+I_PRP do_VBP n't_RB understand_VB ._.
+The_DT bar_NN council_NN enrolment_NN ,_, sir_NN ._.
+We_PRP are_VBP here_RB to_TO get_VB ourselves_PRP enrolled_VBN ._.
+But_CC it_PRP 's_VBZ not_RB happening_VBG today_NN ._.
+The_DT man_NN looked_VBD at_IN the_DT two_CD of_IN them_PRP ._.
+Mallikarjun_NN looked_VBD at_IN the_DT young_JJ man_NN ,_, expecting_VBG him_PRP to_TO say_VB something_NN ,_, which_WDT he_PRP duly_RB did_VBD ._.
+I_PRP was_VBD told_VBN it_PRP was_VBD happening_VBG today_NN ._.
+When_WRB were_VBD you_PRP told_VBD this_DT ?_.
+Last_JJ week_NN ._.
+When_WRB I_PRP submitted_VBD my_PRP$ application_NN and_CC paid_VBD the_DT fees_NNS ._.
+And_CC you_PRP ,_, sir_NN ,_, when_WRB were_VBD you_PRP told_VBD ?_.
+Me_PRP ?_.
+Mallikarjun_NNP seemed_VBD surprised_VBN at_IN being_VBG addressed_VBN ._.
+He_PRP half-rose_JJ from_IN his_PRP$ bench_NN ._.
+Yes_UH ,_, sir_NN ,_, you_PRP ._.
+I_PRP was_VBD told_VBN last_JJ week_NN as_RB well_RB ._.
+I_PRP got_VBD a_DT letter_NN ._.
+He_PRP started_VBD fumbling_VBG in_IN his_PRP$ rucksack_NN for_IN the_DT letter_NN that_IN he_PRP had_VBD preserved_VBN carefully_RB ._.
+The_DT man_NN had_VBD continued_VBN speaking_NN ,_, not_RB paying_VBG any_DT attention_NN to_TO his_PRP$ exertions_NNS ._.
+Well_RB ,_, the_DT enrolment_NN is_VBZ n't_RB happening_VBG today_NN ._.
+The_DT chairman_NN has_VBZ a_DT meeting_NN so_IN you_PRP will_MD have_VB to_TO come_VB next_JJ Friday_NNP ._.
+The_DT young_JJ man_NN frowned_VBN ,_, deep_JJ creases_NNS forming_VBG on_IN his_PRP$ forehead_NN ,_, making_VBG him_PRP look_VB older_JJR ._.
+Mallikarjun_NNP found_VBD his_PRP$ own_JJ heart_NN beating_VBG a_DT little_JJ faster_JJR at_IN the_DT information_NN ,_, questions_NNS popping_VBG up_RP in_IN his_PRP$ head_NN that_IN he_PRP did_VBD n't_RB know_VB how_WRB to_TO ask_VB ._.
+Why_WRB were_VBD we_PRP not_RB informed_VBN ?_.
+The_DT man_NN held_VBD his_PRP$ hands_NNS up_RP at_IN this_DT ._.
+I_PRP do_VBP n't_RB know_VB ._.
+I_PRP 'm_VBP just_RB a_DT clerk_NN here_RB ._.
+You_PRP can_MD wait_VB for_IN the_DT Secretary_NNP Madam_NNP if_IN you_PRP want_VBP ._.
+She_PRP can_MD tell_VB you_PRP more_RBR ._.
+I_PRP was_VBD just_RB told_VBN that_IN no_DT enrolment_NN will_MD happen_VB today_NN ._.
+I_PRP 'm_VBP waiting_VBG for_IN her_PRP$ then_RB ._.
+And_CC you_PRP ,_, sir_VB ?_.
+Mallikarjun_NNP jumped_VBD at_IN being_VBG addressed_VBN again_RB ._.
+He_PRP realized_VBD that_IN one_CD of_IN his_PRP$ hands_NNS was_VBD still_RB in_IN the_DT rucksack_NN ._.
+He_PRP retrieved_VBD it_PRP and_CC looked_VBD around_IN helplessly_RB ._.
+He_PRP wanted_VBD to_TO ask_VB what_WP good_NN would_MD waiting_VBG do_VBP if_IN the_DT enrolment_NN was_VBD not_RB happening_VBG but_CC he_PRP knew_VBD he_PRP would_MD come_VB across_RP as_IN silly_JJ if_IN he_PRP did_VBD ._.
+It_PRP was_VBD like_IN all_DT those_DT times_NNS when_WRB he_PRP had_VBD gone_VBN to_TO attend_VB the_DT classes_NNS in_IN the_DT law_NN degree_NN course_NN ,_, when_WRB the_DT professors_NNS as_IN old_JJ as_IN himself_PRP would_MD state_VB something_NN and_CC ask_VB him_PRP if_IN they_PRP were_VBD right_JJ before_IN guffawing_VBG at_IN his_PRP$ discomfort_NN ._.
+Well_RB ,_, sir_NN ?_.
+Will_MD you_PRP also_RB wait_VB ?_.
+Yes_UH ._.
+Yes_UH ,_, I_PRP will_MD wait_VB ._.
+The_DT ox_NN looked_VBD at_IN the_DT two_CD of_IN them_PRP ,_, scratching_VBG his_PRP$ head_NN slightly_RB and_CC sniffing_VBG ._.
+Where_WRB have_VBP you_PRP come_VBN from_IN ?_.
+I_PRP live_VBP in_IN Bangalore_NNP ,_, the_DT young_JJ man_NN said_VBD ._.
+The_DT ox_NN smiled_VBD a_DT little_JJ at_IN that_DT ._.
+Ah_UH ._.
+That_DT 's_VBZ a_DT good_JJ thing_NN ._.
+You_PRP live_VBP close_RB enough_RB ._.
+And_CC you_PRP ,_, sir_VB ?_.
+Mallikarjun_NNP was_VBD ready_JJ for_IN the_DT question_NN to_TO eventually_RB make_VB its_PRP$ way_NN to_TO him_PRP this_DT time_NN ._.
+He_PRP sat_VBD up_IN a_DT bit_NN straighter_RBR and_CC spoke_VBD in_IN what_WP he_PRP hoped_VBD was_VBD a_DT more_RBR confident_JJ tone_NN ._.
+Bidar_NNP ,_, sir_NN ._.
+The_DT ox_NN 's_POS mouth_NN dropped_VBD open_JJ ,_, making_VBG him_PRP look_VB even_RB more_RBR bovine_JJ ._.
+His_PRP$ hand_NN dropped_VBD down_RP to_TO his_PRP$ side_NN again_RB ._.
+Bidar_NNP ?_.
+Yes_UH ,_, sir_NN ._.
+That_DT 's_VBZ so_RB far_RB away_RB ._.
+It_PRP is_VBZ ,_, sir_NN ._.
+How_WRB did_VBD you_PRP get_VB here_RB ?_.
+I_PRP took_VBD the_DT train_NN ,_, sir_NN ._.
+The_DT Udyan_NNP Express_NNP ._.
+The_DT man_NN made_VBD a_DT face_NN at_IN this_DT ._.
+That_DT train_NN ?_.
+Wow_UH ._.
+You_PRP must_MD have_VB spent_VBN half_PDT your_PRP$ life_NN in_IN it_PRP ._.
+That_DT thing_NN goes_VBZ slower_JJR than_IN a_DT one_CD legged_VBD dog_NN ._.
+Mallikarjun_NNP did_VBD not_RB know_VB what_WP to_TO say_VB to_TO this_DT bit_NN of_IN hyperbole_NN so_IN he_PRP decided_VBD to_TO stay_VB silent_JJ ._.
+The_DT young_JJ man_NN was_VBD also_RB looking_VBG at_IN him_PRP with_IN pursed_JJ lips_NNS ._.
+The_DT attention_NN being_VBG given_VBN to_TO him_PRP was_VBD unnerving_VBG ._.
+Ox_NN face_NN finally_RB sighed_VBD and_CC waved_VBD his_PRP$ hand_NN around_IN ._.
+You_PRP better_RB wait_VB then_RB ._.
+Let_VB 's_POS see_VB what_WP the_DT Secretary_NNP Madam_NNP says_VBZ ._.
+I_PRP 'll_MD tell_VB her_PRP as_RB soon_RB as_IN she_PRP comes_VBZ in_IN ._.
+I_PRP hope_VBP they_PRP can_MD do_VB something_NN about_IN you_PRP ._.
+I_PRP would_MD n't_RB want_VB you_PRP to_TO come_VB all_PDT the_DT way_NN from_IN Bidar_NNP again_RB ._.
+The_DT man_NN retracted_VBD his_PRP$ face_NN and_CC closed_VBD the_DT door_NN ._.
+Mallikarjun_NNP was_VBD left_VBN with_IN the_DT young_JJ man_NN ,_, who_WP started_VBD pacing_NN up_RB and_CC down_RB the_DT corridor_NN ,_, hands_NNS in_IN his_PRP$ pockets_NNS and_CC brow_NN furrowed_VBN ._.
+Next_JJ Friday_NNP was_VBD a_DT week_NN away_RB ._.
+It_PRP would_MD mean_VB buying_VBG tickets_NNS to_TO the_DT train_NN again_RB ._.
+He_PRP began_VBD making_VBG mental_JJ calculations_NNS of_IN the_DT cost_NN involved_VBN ,_, of_IN going_VBG back_RB home_NN and_CC coming_VBG back_RB to_TO the_DT city_NN again_RB ._.
+He_PRP briefly_RB considered_VBD staying_VBG in_IN the_DT city_NN until_IN the_DT next_JJ week_NN but_CC dismissed_VBD it_PRP as_IN a_DT foolish_JJ idea_NN ._.
+It_PRP would_MD just_RB mean_VB spending_VBG more_JJR money_NN ,_, for_IN a_DT roof_NN over_IN his_PRP$ head_NN ,_, for_IN food_NN ,_, for_IN everything_NN ._.
+Sir_NNP ,_, you_PRP said_VBD you_PRP are_VBP from_IN Bidar_NNP ?_.
+The_DT young_JJ man_NN was_VBD standing_VBG a_DT little_JJ distance_NN away_RB ,_, the_DT little_JJ black_JJ slab_NN back_RB in_IN his_PRP$ hand_NN but_CC his_PRP$ eyes_NNS on_IN Mallikarjun_NNP ._.
+Yes_UH ,_, sir_NN ._.
+I_PRP come_VBP from_IN Bidar_NNP ._.
+I_PRP stayed_VBD in_IN that_DT district_NN ,_, you_PRP know_VBP ._.
+When_WRB I_PRP was_VBD a_DT child_NN ._.
+Oh_UH ._.
+Mallikarjun_NNP did_VBD n't_RB know_VB what_WP to_TO say_VB at_IN being_VBG proffered_VBN this_DT piece_NN of_IN information_NN ._.
+He_PRP went_VBD back_RB to_TO tugging_VBG the_DT cuffs_NNS of_IN his_PRP$ coat_NN ,_, desperate_JJ to_TO elongate_VB them_PRP enough_RB to_TO cover_VB his_PRP$ exposed_JJ wrists_NNS a_DT bit_NN more_RBR and_CC silently_RB cursing_NN the_DT toothy_JJ man_NN at_IN the_DT store_NN who_WP had_VBD sold_VBN it_PRP to_TO him_PRP ._.
+Yes_UH ._.
+I_PRP lived_VBD in_IN Basavakalyan_NNP ._.
+It_PRP 's_VBZ quite_RB close_JJ to_TO Bidar_NNP ._.
+You_PRP will_MD know_VB that_IN ,_, of_IN course_NN ._.
+Huh_NNP ._.
+Yes_UH ._.
+He_PRP stopped_VBD working_VBG at_IN his_PRP$ cuffs_NNS and_CC looked_VBD at_IN the_DT young_JJ man_NN ._.
+He_PRP saw_VBD a_DT small_JJ smile_NN but_CC was_VBD n't_RB sure_JJ if_IN it_PRP was_VBD a_DT friendly_JJ one_CD or_CC not_RB ._.
+It_PRP seemed_VBD inconceivable_JJ that_IN the_DT strapping_VBG young_JJ man_NN in_IN front_NN of_IN him_PRP could_MD have_VB lived_VBN in_IN the_DT dusty_JJ environs_NNS of_IN where_WRB he_PRP came_VBD from_IN ._.
+As_IN if_IN reading_VBG his_PRP$ mind_NN ,_, the_DT young_JJ man_NN laughed_VBD a_DT little_JJ and_CC said_VBD that_IN he_PRP could_MD barely_RB remember_VB the_DT place_NN because_IN he_PRP had_VBD stayed_VBN there_RB when_WRB he_PRP was_VBD a_DT young_JJ child_NN ._.
+Mallikarjun_NNP felt_VBD obliged_VBN to_TO say_VB something_NN but_CC was_VBD saved_VBN the_DT effort_NN by_IN a_DT short_JJ woman_NN marching_VBG down_RP the_DT corridor_NN towards_IN them_PRP ._.
+Without_IN looking_VBG at_IN either_DT of_IN them_PRP ,_, she_PRP knocked_VBD on_IN the_DT door_NN of_IN the_DT bar_NN council_NN office_NN and_CC when_WRB it_PRP opened_VBD ,_, stepped_VBD in_IN ._.
+That_DT must_MD be_VB the_DT Secretary_NNP the_DT clerk_NN was_VBD talking_VBG about_RB ,_, Mallikarjun_NNP 's_POS companion_NN remarked_VBD ._.
+Mallikarjun_NNP thought_VBD so_RB too_RB but_CC did_VBD not_RB say_VB anything_NN ._.
+The_DT day_NN seemed_VBD to_TO be_VB getting_VBG colder_JJR and_CC he_PRP hunched_VBD down_RP on_IN the_DT bench_NN ,_, wishing_VBG the_DT whole_JJ thing_NN could_MD get_VB over_RB soon_RB ._.
+No_DT sooner_RBR had_VBD he_PRP wished_VBD so_RB before_IN the_DT woman_NN came_VBD out_IN of_IN the_DT door_NN ,_, followed_VBN by_IN the_DT greasy_NN haired_VBD clerk_NN who_WP looked_VBD like_IN an_DT ox_NN ._.
+When_WRB she_PRP spoke_VBD ,_, her_PRP$ voice_NN was_VBD blunt_JJ and_CC her_PRP$ words_NNS rushed_VBD ,_, like_IN she_PRP was_VBD impatient_JJ to_TO say_VB whatever_WDT she_PRP wanted_VBD to_TO say_VB ._.
+The_DT Chairman_NNP is_VBZ in_IN a_DT meeting_NN ._.
+The_DT enrolment_NN will_MD happen_VB next_JJ week_NN ._.
+She_PRP waited_VBD for_IN her_PRP$ words_NNS to_TO sink_VB in_IN ,_, perhaps_RB waiting_VBG for_IN the_DT two_CD of_IN them_PRP to_TO accept_VB what_WP she_PRP said_VBD and_CC slink_VB away_RB ._.
+When_WRB they_PRP continued_VBD being_VBG there_RB ,_, she_PRP looked_VBD over_IN her_PRP$ shoulder_NN at_IN the_DT ox_NN before_IN turning_VBG back_RB to_TO them_PRP ._.
+Well_UH ?_.
+The_DT young_JJ man_NN looked_VBD at_IN Mallikarjun_NNP before_IN replying_VBG ._.
+Was_VBD there_EX any_DT intimation_NN of_IN this_DT change_NN ?_.
+Why_WRB were_VBD we_PRP not_RB told_VBD of_IN this_DT ?_.
+Where_WRB did_VBD you_PRP come_VBP from_IN ,_, young_JJ man_NN ?_.
+Bangalore_NNP ._.
+Then_RB it_PRP should_MD n't_RB be_VB a_DT problem_NN coming_VBG again_RB next_JJ week_NN ,_, right_NN ?_.
+The_DT young_JJ man_NN 's_POS voice_NN got_VBD a_DT little_JJ louder_RBR when_WRB he_PRP next_JJ spoke_VBD and_CC Mallikarjun_NNP saw_VBD that_IN his_PRP$ fists_NNS were_VBD clenched_VBN ._.
+That_DT <sup>_VBZ TM_NNP </sup>_NNP s_VBZ not_RB the_DT point_NN ._.
+I_PRP had_VBD to_TO take_VB leave_NN from_IN office_NN to_TO come_VB here_RB today_NN ._.
+And_CC this_DT man_NN here_RB came_VBD all_PDT the_DT way_NN from_IN Bidar_NNP ._.
+Mallikarjun_NNP found_VBD himself_PRP getting_VBG up_RP from_IN his_PRP$ spot_NN and_CC saluting_VBG the_DT woman_NN the_DT same_JJ way_NN he_PRP had_VBD done_VBN the_DT clerk_NN ._.
+The_DT woman_NN gave_VBD him_PRP a_DT baleful_JJ look_NN ._.
+Bidar_NNP ?_.
+Yes_UH ,_, Madam_NNP ._.
+Could_MD I_PRP please_VB get_VB enrolled_VBN today_NN ?_.
+The_DT woman_NN sighed_VBD ._.
+Did_VBD n't_RB you_PRP hear_VBP what_WP I_PRP said_VBD ?_.
+The_DT Chairman_NNP is_VBZ busy_JJ with_IN a_DT meeting_NN ._.
+He_PRP is_VBZ meeting_VBG some_DT important_JJ ministers_NNS ._.
+He_PRP wo_MD n't_RB be_VB here_RB all_DT day_NN ._.
+The_DT young_JJ man_NN interjected_VBN before_IN Mallikarjun_NNP could_MD say_VB anything_NN else_RB ._.
+Why_WRB were_VBD n't_RB we_PRP told_VBD about_IN this_DT ?_.
+The_DT woman_NN shifted_VBD her_PRP$ gaze_VB to_TO him_PRP and_CC waited_VBD for_IN a_DT second_JJ before_IN replying_VBG ._.
+I_PRP had_VBD instructed_VBN a_DT person_NN in_IN the_DT office_NN to_TO make_VB the_DT calls_NNS ._.
+Maybe_RB your_PRP$ phones_NNS were_VBD switched_VBN off_RP ._.
+The_DT young_JJ man_NN bristled_VBN at_IN this_DT suggestion_NN ,_, folding_JJ his_PRP$ hands_NNS in_IN front_NN of_IN his_PRP$ chest_NN and_CC pulling_VBG himself_PRP up_RP to_TO his_PRP$ full_JJ height_NN ._.
+I_PRP never_RB switch_VB my_PRP$ phone_NN off_RP ._.
+That_DT can_MD not_RB be_VB true_JJ ._.
+The_DT woman_NN shrugged_VBD and_CC looked_VBD at_IN the_DT clerk_NN ._.
+Did_VBD n't_RB I_PRP tell_VBP Somashekhar_NNP to_TO make_VB the_DT calls_NNS ?_.
+The_DT ox_NN faced_VBD man_NN ,_, who_WP had_VBD been_VBN looking_VBG on_IN with_IN a_DT dreamy_JJ expression_NN ,_, looked_VBD a_DT bit_NN surprised_JJ to_TO find_VB himself_PRP in_IN the_DT middle_NN of_IN the_DT discussion_NN but_CC he_PRP recovered_VBD quickly_RB to_TO nod_NN energetically_RB ._.
+Yes_UH Madam_NNP ,_, you_PRP did_VBD ._.
+Turning_VBG to_TO the_DT other_JJ two_CD men_NNS ,_, he_PRP repeated_VBD his_PRP$ words_NNS ._.
+She_PRP did_VBD tell_VB Somashekar_NNP to_TO make_VB the_DT calls_NNS ._.
+When_WRB the_DT woman_NN turned_VBD back_RB to_TO face_VB them_PRP with_IN a_DT triumphant_JJ expression_NN on_IN her_PRP$ face_NN ,_, the_DT clerk_NN blushed_VBD and_CC averted_VBD his_PRP$ gaze_VB from_IN the_DT two_CD of_IN them_PRP ._.
+See_VB ?_.
+You_PRP should_MD n't_RB keep_VB your_PRP$ phone_NN switched_VBD off_RP ._.
+What_WP can_MD we_PRP do_VB if_IN we_PRP try_VBP to_TO inform_VB you_PRP but_CC you_PRP can_MD not_RB be_VB reached_VBN ?_.
+We_PRP have_VBP a_DT hundred_CD other_JJ things_NNS to_TO do_VB here_RB as_RB well_RB ._.
+This_DT is_VBZ unbelievable_JJ !_.
+I_PRP told_VBD you_PRP that_IN my_PRP$ phone_NN was_VBD not_RB switched_VBN off_RP ._.
+I_PRP would_MD have_VB seen_VBN a_DT missed_VBN call_NN if_IN you_PRP had_VBD actually_RB called_VBN me_PRP ._.
+Are_VBP you_PRP saying_VBG we_PRP didn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD try_VB to_TO call_VB you_PRP ?_.
+The_DT woman_NN crossed_VBD her_PRP$ own_JJ arms_NNS and_CC gave_VBD a_DT smile_NN that_WDT reeked_VBD of_IN victory_NN ._.
+She_PRP knew_VBD that_IN she_PRP would_MD win_VB ._.
+The_DT young_JJ man_NN seemed_VBD to_TO realize_VB it_PRP too_RB because_IN he_PRP opened_VBD his_PRP$ mouth_NN to_TO say_VB something_NN but_CC closed_VBD it_PRP without_IN a_DT word_NN escaping_VBG his_PRP$ lips_NNS ._.
+He_PRP looked_VBD at_IN Mallikarjun_NNP ,_, as_IN if_IN expecting_VBG the_DT older_JJR man_NN to_TO step_VB forward_RB and_CC say_VB something_NN ._.
+Mallikarjun_NNP felt_VBD his_PRP$ face_NN flush_JJ ,_, his_PRP$ body_NN trembling_VBG slightly_RB ._.
+In_IN a_DT moment_NN that_WDT seemed_VBD to_TO last_VB for_IN ages_NNS ,_, he_PRP saw_VBD himself_PRP open_VB his_PRP$ mouth_NN and_CC berate_VB the_DT arrogant_JJ woman_NN standing_NN in_IN front_NN of_IN him_PRP ._.
+He_PRP imagined_VBD words_NNS streaming_VBG out_IN of_IN him_PRP ,_, eloquent_JJ and_CC coherent_JJ ._.
+He_PRP imagined_VBD her_PRP$ face_NN wilt_NN as_IN the_DT force_NN of_IN his_PRP$ words_NNS hit_VBD her_PRP ,_, saw_VBD the_DT young_JJ man_NN looking_VBG impressed_JJ ,_, witnessed_VBD the_DT clerk_NN silently_RB cheering_VBG him_PRP on_IN ._.
+Then_RB the_DT moment_NN passed_VBD and_CC he_PRP was_VBD standing_VBG in_IN the_DT corridor_NN while_IN the_DT woman_NN rubbed_VBD her_PRP$ hands_NNS with_IN finality_NN ._.
+So_RB do_VB come_VB next_JJ week_NN ,_, alright_NN ?_.
+That_DT would_MD be_VB the_DT 29th_JJ ,_, if_IN I_PRP 'm_VBP not_RB wrong_JJ ._.
+The_DT woman_NN had_VBD the_DT temerity_NN to_TO end_VB with_IN a_DT small_JJ smile_NN before_IN turning_VBG around_RB and_CC disappearing_VBG back_RB into_IN the_DT bowels_NNS of_IN the_DT dingy_JJ office_NN building_NN ._.
+The_DT clerk_NN hung_VBD around_IN for_IN a_DT second_JJ longer_RBR ,_, dragging_VBG his_PRP$ feet_NNS around_RB ,_, his_PRP$ oxen_JJ face_NN looking_VBG despondent_NN ._.
+Mallikarjun_NNP expected_VBD him_PRP to_TO say_VB something_NN comforting_JJ ,_, reassure_VB them_PRP that_IN the_DT woman_NN had_VBD been_VBN lying_VBG and_CC that_IN he_PRP sympathised_VBD with_IN their_PRP$ plight_NN ._.
+But_CC he_PRP turned_VBD on_RP his_PRP$ heel_NN and_CC followed_VBD her_PRP$ without_IN saying_VBG anything_NN ._.
+Mallikarjun_NNP settled_VBD back_RB on_IN the_DT bench_NN as_IN the_DT young_JJ man_NN came_VBD and_CC took_VBD a_DT spot_NN next_IN to_TO him_PRP ,_, careful_JJ enough_JJ to_TO avoid_VB the_DT nails_NNS ._.
+They_PRP are_VBP such_JJ liars_NNS ,_, are_VBP n't_RB they_PRP ?_.
+They_PRP did_VBD n't_RB even_RB have_VB the_DT decency_NN to_TO admit_VB that_IN they_PRP forgot_VBD to_TO tell_VB us_PRP about_IN the_DT change_NN in_IN schedule_NN ._.
+Mallikarjun_NNP nodded_VBD ,_, feeling_VBG exhausted_VBN ._.
+He_PRP wished_VBD he_PRP could_MD just_RB lie_VB down_RP somewhere_RB ._.
+I_PRP never_RB switch_VB off_RP my_PRP$ phone_NN ._.
+That_DT woman_NN could_MD have_VB come_VBN up_RP with_IN a_DT better_JJR excuse_NN there_RB ._.
+I_PRP mean_VBP ,_, who_WP switches_VBZ off_RP their_PRP$ phone_NN these_DT days_NNS ?_.
+It_PRP is_VBZ so_RB absurd_JJ for_IN her_PRP$ to_TO even_RB suggest_VB that_IN ,_, and_CC then_RB stand_VBP there_EX like_IN it_PRP 's_VBZ all_PDT our_PRP$ fault_NN that_IN we_PRP landed_VBD here_RB today_NN ._.
+Mallikarjun_NNP was_VBD barely_RB listening_VBG to_TO his_PRP$ companion_NN now_RB ,_, trying_VBG to_TO imagine_VB what_WP his_PRP$ wife_NN would_MD say_VB when_WRB he_PRP told_VBD her_PRP that_IN he_PRP would_MD be_VB making_VBG another_DT trip_NN to_TO Bangalore_NNP in_IN a_DT week_NN ._.
+She_PRP would_MD throw_VB a_DT fit_NN ,_, blame_VB him_PRP and_CC his_PRP$ ambition_NN of_IN becoming_VBG a_DT lawyer_NN so_RB late_RB in_IN life_NN ._.
+What_WP is_VBZ wrong_JJ with_IN finding_VBG some_DT other_JJ job_NN that_WDT does_VBZ n't_RB need_VB us_PRP to_TO spend_VB money_NN ,_, she_PRP would_MD ask_VB ._.
+He_PRP could_MD n't_RB even_RB think_VB of_IN what_WP he_PRP could_MD possibly_RB tell_VB her_PRP ._.
+I_PRP bet_VBP you_PRP did_VBD n't_RB get_VB a_DT call_NN from_IN them_PRP either_RB ._.
+You_PRP should_MD have_VB said_VBN so_RB when_WRB they_PRP were_VBD here_RB ,_, you_PRP know_VBP ._.
+The_DT young_JJ man_NN 's_POS voice_NN was_VBD tinged_VBN with_IN reproach_NN but_CC he_PRP did_VBD n't_RB seem_VB angry_JJ ._.
+Mallikarjun_NN looked_VBD at_IN him_PRP and_CC shrugged_VBD ._.
+I_PRP do_VBP n't_RB have_VB a_DT phone_NN ._.

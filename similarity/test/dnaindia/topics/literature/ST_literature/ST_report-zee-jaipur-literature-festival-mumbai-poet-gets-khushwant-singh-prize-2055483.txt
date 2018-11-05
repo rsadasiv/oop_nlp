@@ -1,0 +1,11 @@
+For_IN her_PRP$ collection_NN titled_VBN `_`` When_WRB God_NNP is_VBZ a_DT Traveller_NNP '_POS ,_, Mumbai-based_JJ poet_NN Arundhati_NNP Subramaniam_NNP was_VBD on_IN Saturday_NNP awarded_VBD the_DT inaugural_JJ Khushwant_NNP Singh_NNP memorial_NN prize_NN for_IN poetry_NN at_IN the_DT Zee_NNP Jaipur_NNP Literature_NNP Festival_NNP 2015_CD ._.
+The_DT prize_NN is_VBZ worth_JJ Rs_NNS ._.
+2_CD lakh_NN ._.
+It_PRP was_VBD open_JJ to_TO Indian_JJ poets_NNS who_WP brought_VBD out_RP books_NNS in_IN English_NNP -LRB-_-LRB- including_VBG translations_NNS -RRB-_-RRB- ,_, between_IN September_NNP 15_CD ,_, 2013_CD and_CC September_NNP 15_CD ,_, 2014_CD ._.
+Accepting_VBG the_DT prize_NN from_IN Suhel_NNP Seth_NNP ,_, who_WP instituted_VBD it_PRP in_IN the_DT memory_NN of_IN late_JJ writer_NN and_CC journalist_NN Khushwant_NNP Singh_NNP ,_, Subramaniam_NNP said_VBD ,_, ``_`` Poetry_NNP today_NN is_VBZ a_DT muted_JJ form_NN ..._: poets_NNS feel_VBP inconsequential_JJ and_CC unheard_JJ ._.
+An_DT award_NN like_IN this_DT is_VBZ far_RB more_RBR affirming_VBG than_IN I_PRP imagine_VBP ._.
+It_PRP says_VBZ that_IN this_DT art_NN of_IN murmur_NN and_CC whispers_NNS still_RB counts_VBZ ._. ''_''
+Award_NN jury_NN member_NN and_CC poet_NN Ashok_NNP Vajpeyi_NNP praised_VBD Subramaniam_NNP 's_POS work_NN for_IN its_PRP$ ``_`` emotional_JJ rigor_NN and_CC linguistic_JJ zeal_NN ._. ''_''
+The_DT other_JJ shortlisted_JJ poets_NNS were_VBD Sridala_NNP Swami_NNP ,_, Ranjit_NNP Hoskote_NNP ,_, Keki_NNP Daruwalla_NNP ,_, and_CC Joy_NNP Goswami_NNP -LRB-_-LRB- translated_VBN by_IN Sampurna_NNP Chattarji_NNP -RRB-_-RRB- ._.
+Subramaniam_NNP has_VBZ worked_VBN as_IN a_DT critic_NN ,_, poetry_NN editor_NN and_CC curator_NN ._.
+Besides_IN `_`` When_WRB God_NNP is_VBZ a_DT Traveller_NNP '_POS ,_, she_PRP has_VBZ written_VBN three_CD other_JJ books_NNS of_IN poetry_NN ._.

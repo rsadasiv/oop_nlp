@@ -1,0 +1,21 @@
+Maria_NNP Louisa_NNP Charlesworth_NNP -LRB-_-LRB- 1_CD October_NNP 1819_CD at_IN The_DT Rectory_NNP ,_, Blakenham_NNP Parva_NNP ''_'' 16_CD October_NNP 1880_CD in_IN Nutfield_NNP ,_, Surrey_NNP -RRB-_-RRB- was_VBD an_DT English_JJ author_NN of_IN children_NNS 's_POS religious_JJ books_NNS and_CC religious_JJ tracts_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Maria_NNP Louisa_NNP Charlesworth_NNP was_VBD the_DT daughter_NN of_IN Elizabeth_NNP Charlesworth_NNP -LRB-_-LRB- née_FW Beddome_NNP ,_, 1783-1869_CD -RRB-_-RRB- and_CC the_DT Revd_NNP ._.
+John_NNP Charlesworth_NNP B.D._NNP -LRB-_-LRB- 1782-1864_CD -RRB-_-RRB- ,_, an_DT Evangelical_JJ clergyman_NN ,_, who_WP was_VBD Rector_NNP of_IN Flowton_NNP ,_, Suffolk_NNP when_WRB Maria_NNP was_VBD born_VBN ._.
+He_PRP later_RB became_VBD Rector_NNP of_IN St_NNP Mildred_NNP 's_POS ,_, Bread_NNP Street_NNP ,_, a_DT London_NNP parish_NN where_WRB Maria_NNP lived_VBD with_IN him_PRP in_IN the_DT Rectory_NNP ,_, at_IN St_NNP Nicholas_NNP Olave_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- As_IN a_DT visitor_NN to_TO the_DT poor_JJ in_IN her_PRP$ father_NN 's_POS parishes_NNS from_IN a_DT young_JJ age_NN ,_, Maria_NNP drew_VBD on_IN these_DT experiences_NNS for_IN her_PRP$ first_JJ book_NN ,_, The_DT Female_NNP Visitor_NNP to_TO the_DT Poor_NNP -LRB-_-LRB- 1846_CD -RRB-_-RRB- ,_, as_RB well_RB as_IN for_IN her_PRP$ most_RBS popular_JJ publication_NN ,_, the_DT fictionalised_JJ Ministering_NNP Children_NNP -LRB-_-LRB- 1854_CD -RRB-_-RRB- and_CC its_PRP$ sequel_NN published_VBN in_IN 1867_CD ._.
+Set_NNP in_IN a_DT town_NN modelled_VBN on_IN Ipswich_NNP ,_, Ministering_NNP Children_NNP circulated_VBD over_IN 300,000_CD copies_NNS during_IN her_PRP$ lifetime_NN and_CC was_VBD designed_VBN to_TO teach_VB children_NNS by_IN example_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- It_PRP was_VBD especially_RB popular_JJ as_IN a_DT `_`` Reward_VB Book_NNP '_POS for_IN Sunday_NNP School_NNP prizes_NNS and_CC was_VBD also_RB translated_VBN into_IN French_JJ ,_, German_JJ and_CC Swedish_JJ ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- On_IN her_PRP$ father_NN 's_POS death_NN in_IN 1864_CD Maria_NNP Charlesworth_NNP lived_VBD for_IN a_DT while_NN with_IN her_PRP$ brother_NN ,_, the_DT Revd_NNP ._.
+Samuel_NNP Beddome_NNP Charlesworth_NNP ,_, who_WP was_VBD Rector_NNP of_IN St_NNP Anne_NNP 's_POS ,_, Limehouse_NNP ._.
+She_PRP established_VBD St_NNP Stephen_NNP 's_POS ragged_JJ school_NN and_CC a_DT mission_NN in_IN Bermondsey_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1864_CD she_PRP retired_VBD to_TO Nutfield_NNP in_IN Surrey_NNP ,_, where_WRB she_PRP lived_VBD at_IN Church_NNP Hill_NNP House_NNP with_IN her_PRP$ elderly_JJ mother_NN who_WP died_VBD in_IN 1869_CD ._.
+She_PRP is_VBZ credited_VBN with_IN persuading_VBG the_DT Reverend_NNP Francis_NNP Pocock_NNP ,_, a_DT former_JJ curate_NN to_TO the_DT Bishop_NNP of_IN Sierra_NNP Leone_NNP ,_, to_TO establish_VB Monkton_NNP Combe_NNP School_NNP ,_, near_IN Bath_NNP ,_, Somerset_NNP in_IN 1868_CD ,_, to_TO educate_VB children_NNS to_TO become_VB missionaries_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Maria_NNP died_VBD on_IN Saturday_NNP 16_CD October_NNP 1880_CD ,_, aged_VBN 61_CD and_CC was_VBD buried_VBN at_IN St_NNP Peter_NNP &_CC St_NNP Paul_NNP ,_, Nutfield_NNP on_IN 21_CD October_NNP 1880_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Her_PRP$ brother_NN conducted_VBD her_PRP$ burial_NN service_NN ._.
+She_PRP left_VBD an_DT estate_NN valued_VBN at_IN almost_RB #_# 6000_CD with_IN her_PRP$ brother_NN as_IN sole_JJ executor_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Boase_NNP ,_, George_NNP Clement_NNP -LRB-_-LRB- 1887_CD -RRB-_-RRB- ._.
+``_`` Charlesworth_NNP ,_, Maria_NNP Louisa_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+10_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

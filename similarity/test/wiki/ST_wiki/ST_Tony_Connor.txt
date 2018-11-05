@@ -1,0 +1,13 @@
+John_NNP Anthony_NNP Connor_NNP -LRB-_-LRB- born_VBN 1930_CD -RRB-_-RRB- is_VBZ an_DT English_JJ poet_NN and_CC playwright_NN ._.
+Tony_NNP Connor_NNP was_VBD born_VBN in_IN Manchester_NNP ,_, England_NNP ._.
+After_IN leaving_VBG school_NN at_IN 14_CD ,_, he_PRP served_VBD in_IN the_DT Royal_NNP Army_NNP as_IN a_DT tank_NN gunner_NN ,_, and_CC worked_VBD as_IN a_DT textile_NN designer_NN between_IN 1944_CD and_CC 1960_CD ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC in_IN radio_NN and_CC television_NN in_IN Manchester_NNP in_IN the_DT 1960s_NNS ._.
+He_PRP was_VBD a_DT founder_NN member_NN of_IN The_DT Peterloo_NNP Group_NNP ._.
+He_PRP earned_VBD an_DT MA_NNP at_IN the_DT University_NNP of_IN Manchester_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB- in_IN 1967_CD and_CC in_IN 1968_CD visiting_VBG writer_NN at_IN Amherst_NNP College_NNP in_IN Massachusetts_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- From_IN 1971_CD until_IN he_PRP retired_VBD in_IN 1999_CD Connor_NNP was_VBD professor_NN of_IN English_NNP at_IN Wesleyan_NNP University_NNP in_IN Middletown_NNP ,_, Connecticut_NNP ._.
+He_PRP lives_VBZ in_IN Middletown_NNP and_CC London_NNP ._.
+He_PRP was_VBD a_DT close_JJ friend_NN of_IN the_DT English_NNP writer_NN J._NNP G._NNP Ballard_NNP and_CC remains_VBZ close_JJ friends_NNS with_IN Michael_NNP de_NNP Larrabeiti_NNP ._.
+One_CD section_NN of_IN Connor_NNP 's_POS 2006_CD anthology_NN Things_NNS Unsaid_NNP is_VBZ dedicated_VBN to_TO de_FW Larrabeiti_FW ;_: de_FW Larrabeiti_FW 's_POS 1992_CD book_NN Journal_NNP of_IN a_DT Sad_NNP Hermaphrodite_NNP is_VBZ dedicated_VBN to_TO Connor_NNP ,_, and_CC includes_VBZ one_CD of_IN his_PRP$ poems_NNS ._.
+Connor_NNP has_VBZ published_VBN nine_CD volumes_NNS of_IN poetry_NN ._.
+His_PRP$ work_NN is_VBZ anthologized_VBN in_IN British_JJ Poetry_NNP since_IN 1945_CD ._.
+He_PRP has_VBZ been_VBN a_DT Fellow_NNP of_IN the_DT Royal_NNP Society_NNP of_IN Literature_NNP since_IN 1974_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

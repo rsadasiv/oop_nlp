@@ -1,0 +1,15 @@
+Xiaomi_NNP may_MD introduce_VB the_DT successor_NN to_TO the_DT Mi_NNP Mix_NNP 2S_NNP ,_, the_DT Mi_NNP Mix_NNP 3_CD on_IN October_NNP 15_CD ._.
+According_VBG to_TO a_DT report_NN by_IN GizmoChina_NNP ,_, a_DT countdown_NN timer_NN for_IN the_DT launch_NN of_IN the_DT Xiaomi_NNP Mi_NNP MIX_NNP 3_CD appears_VBZ on_IN the_DT website_NN ,_, offering_VBG the_DT time_NN until_IN the_DT event_NN starts_VBZ ._.
+The_DT countdown_NN timer_NN on_IN the_DT page_NN will_MD end_VB ends_NNS on_IN October_NNP 15_CD at_IN 2PM_NNP ._.
+The_DT report_NN also_RB shed_VBD light_NN on_IN some_DT key_JJ specifications_NNS of_IN the_DT upcoming_JJ device_NN ''_'' 6.4-inch_JJ display_NN ,_, Qualcomm_NNP Snapdragon_NNP 855_CD processor_NN ,_, 8GB_NN of_IN RAM_NNP ,_, 256GB_NNP of_IN internal_JJ storage_NN variant_NN and_CC 3,850_CD mAh_JJ battery_NN ._.
+However_RB ,_, at_IN the_DT moment_NN ,_, Qualcomm_NNP has_VBZ not_RB released_VBN Snapdragon_NNP 855_CD ._.
+This_DT device_NN could_MD be_VB the_DT first_JJ smartphone_NN to_TO launch_VB with_IN the_DT new_JJ chipset_NN ._.
+At_IN the_DT moment_NN ,_, let_VB <sup>_VB TM_NNP </sup>_NNP s_VBZ take_VB this_DT news_NN with_IN a_DT pinch_NN of_IN salt_NN ._.
+Few_JJ weeks_NNS ago_RB ,_, Xiaomi_NNP co-founder_NN and_CC President_NNP Lin_NNP Bin_NNP was_VBD teasing_VBG Mi_NNP fans_NNS with_IN images_NNS revealing_VBG the_DT imminent_JJ Mi_NNP Mix_NNP 3_CD bit_NN by_IN bit_NN ;_: the_DT latest_JJS post_NN reveals_VBZ 5G_JJ support_NN ._.
+These_DT are_VBP n't_RB just_RB any_DT old_JJ teasers_NNS that_WDT Lin_NNP Bin_NNP has_VBZ been_VBN casually_RB posting_VBG on_IN the_DT Chinese_JJ micro-blogging_NN site_NN Weibo_NNP ,_, these_DT are_VBP key_JJ features_NNS --_: a_DT hidden_JJ camera_NN that_WDT provides_VBZ a_DT notch-less_JJ and_CC bezel-less_JJ screen_NN ,_, as_RB well_RB as_IN the_DT prospect_NN of_IN being_VBG one_CD of_IN the_DT first_JJ 5G_NN phones_NNS on_IN the_DT market_NN ._.
+Now_RB it_PRP 's_VBZ been_VBN officially_RB revealed_VBD that_IN the_DT Mi_NNP Mix_NNP 3_CD will_MD feature_VB 5G_JJ support_NN ._.
+The_DT same_JJ image_NN posted_VBN by_IN Lin_NNP Bin_NNP has_VBZ also_RB been_VBN tweeted_VBN by_IN product_NN management_NN director_NN Donovan_NNP Sung_NNP ,_, showing_VBG the_DT smartphone_NN with_IN <sup>_NNP ~_NNP </sup>_NNP 5G_NNP '_POS written_VBN in_IN the_DT status_NN bar_NN ._.
+Furthermore_RB ,_, the_DT background_NN looks_VBZ like_IN a_DT testing_NN station_NN ._.
+Sung_NNP noted_VBD that_IN they_PRP 've_VBP oesuccessfully_RB tested_VBN 5G_NNP data_NNS connections_NNS on_IN Xiaomi_NNP phones_NNS ,_, and_CC ..._: ca_MD n't_RB wait_VB for_IN the_DT official_JJ rollout_NN of_IN 5G_CD next_JJ year_NN !_. ''_''
+The_DT oenext_NN year_NN ''_'' part_NN is_VBZ presumably_RB referring_VBG to_TO the_DT networks_NNS --_: but_CC who_WP knows_VBZ ._.
+As_IN for_IN what_WP that_IN 5G_JJ support_NN could_MD mean_VB ,_, Sung_NNP claims_VBZ that_IN users_NNS could_MD see_VB download_NN speeds_NNS that_WDT are_VBP ten_JJ times_NNS faster_RBR than_IN with_IN the_DT current_JJ 4G_NN ._.

@@ -1,0 +1,6 @@
+Hilary_NNP Topham_NNP Corke_NNP -LRB-_-LRB- 12_CD July_NNP 1921_CD ''_'' 3_CD September_NNP 2001_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN ,_, composer_NN and_CC mineralogist_NN ._.
+Corke_NNP was_VBD born_VBN in_IN Malvern_NNP ,_, Worcestershire_NNP ._.
+He_PRP served_VBD in_IN the_DT Royal_NNP Artillery_NNP during_IN World_NNP War_NNP II_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ poems_NNS appeared_VBD in_IN Poetry_NNP Now_RB -LRB-_-LRB- 1956_CD -RRB-_-RRB- and_CC Penguin_NNP Book_NNP of_IN Contemporary_NNP Verse_NNP -LRB-_-LRB- 1918-1960_CD -RRB-_-RRB- ._.
+Together_RB with_IN Anthony_NNP Thwaite_NNP and_CC William_NNP Plomer_NNP he_PRP edited_VBD New_NNP Poems_NNP 1961_CD :_: A_DT P.E.N_NNP Anthology_NNP of_IN Contemporary_NNP Poetry_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP died_VBD at_IN Abinger_NNP Hammer_NNP ,_, Surrey_NNP ,_, aged_VBN 80_CD ._.

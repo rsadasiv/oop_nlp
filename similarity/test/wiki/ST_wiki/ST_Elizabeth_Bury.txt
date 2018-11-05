@@ -1,0 +1,20 @@
+Elizabeth_NNP Bury_NNP -LRB-_-LRB- 1644_CD ``_`` 1720_CD -RRB-_-RRB- was_VBD an_DT English_JJ diarist_NN ._.
+Bury_NN was_VBD baptised_VBN 12_CD March_NNP 1644_CD at_IN Clare_NNP ,_, Suffolk_NNP ,_, the_DT day_NN of_IN her_PRP$ birth_NN having_VBG probably_RB been_VBN 2_CD March_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Her_PRP$ father_NN was_VBD Captain_NNP Adams_NNP Lawrence_NNP of_IN Linton_NNP ,_, Cambridgeshire_NNP ;_: her_PRP$ mother_NN was_VBD Elizabeth_NNP Cutts_NNP of_IN Clare_NNP ,_, and_CC besides_IN Elizabeth_NNP there_EX were_VBD three_CD other_JJ children_NNS ._.
+In_IN 1648_CD ,_, when_WRB Elizabeth_NNP was_VBD four_CD years_NNS old_JJ ,_, Captain_NNP Lawrence_NNP died_VBD ,_, and_CC in_IN 1661_CD Mrs._NNP Lawrence_NNP remarried_VBD ,_, her_PRP$ second_JJ husband_NN being_VBG Nathaniel_NNP Bradshaw_NNP ,_, B.D._NNP ,_, minister_NN of_IN a_DT church_NN in_IN the_DT neighborhood_NN ._.
+About_IN 1664_CD Elizabeth_NNP described_VBD herself_PRP as_IN ``_`` converted_VBN ''_'' ,_, and_CC became_VBD introspective_JJ ._.
+Her_PRP$ studies_NNS were_VBD Hebrew_NNP ,_, French_NNP ,_, music_NN ,_, heraldry_NN ,_, mathematics_NN ,_, philosophy_NN ,_, philology_NN ,_, anatomy_NN ,_, medicine_NN ,_, and_CC divinity_NN ._.
+Her_PRP$ stepfather_NN ,_, Mr._NNP Bradshaw_NNP was_VBD of_IN the_DT ejected_VBN ministers_NNS in_IN 1662_CD ,_, the_DT family_NN moved_VBD to_TO Wivelingham_NNP ,_, Cambridgeshire_NNP ._.
+Elizabeth_NNP in_IN 1664_CD began_VBD writing_VBG down_RP her_PRP$ ``_`` experiences_NNS ''_'' in_IN her_PRP$ Diary_NNP ,_, initially_RB in_IN shorthand_NN ._. '_''
+In_IN 1667_CD ,_, on_IN 1_CD February_NNP ,_, Bury_NNP married_VBD Griffith_NNP Lloyd_NNP of_IN Hemingford_NNP Grey_NNP ,_, Huntingdonshire_NNP ,_, who_WP died_VBD on_IN 13_CD April_NNP 1682_CD ._.
+In_IN her_PRP$ widowhood_NN ,_, which_WDT lasted_VBD another_DT fifteen_CD years_NNS ,_, Mrs._NNP Lloyd_NNP passed_VBD part_NN of_IN her_PRP$ time_NN in_IN Norwich_NNP ._.
+She_PRP was_VBD married_VBN at_IN Bury_NNP to_TO Samuel_NNP Bury_NNP ,_, nonconformist_JJ minister_NN ,_, on_IN 29_CD May_NNP 1697_CD ,_, having_VBG previously_RB refused_VBD to_TO marry_VB three_CD churchmen_NNS ,_, whose_WP$ initials_NNS are_VBP given_VBN ,_, because_IN ``_`` she_PRP could_MD not_RB be_VB easy_JJ in_IN their_PRP$ communion_NN ''_'' ._. '_''
+Mrs._NNP Bury_NNP had_VBD a_DT good_JJ estate_NN ,_, and_CC was_VBD a_DT generous_JJ benefactor_NN ._.
+She_PRP kept_VBD a_DT stock_NN of_IN bibles_NNS and_CC practical_JJ books_NNS ,_, to_TO be_VB distributed_VBN from_IN time_NN to_TO time_NN ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- she_PRP had_VBD a_DT knowledge_NN of_IN materia_NN medica_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- She_PRP had_VBD a_DT motto_NN written_VBN up_RP in_IN her_PRP$ closet_NN in_IN Hebrew_NNP ,_, ``_`` Thou_NNP ,_, Lord_NNP ,_, seest_VBP me_PRP ._. ''_''
+She_PRP became_VBD infirm_NN after_IN 1712_CD ,_, and_CC died_VBD 8_CD May_NNP 1720_CD ,_, aged_VBN 76_CD ._.
+Her_PRP$ funeral_JJ sermon_NN was_VBD preached_VBN at_IN Bristol_NNP on_IN 22_CD May_NNP 1720_CD by_IN the_DT Rev._NNP William_NNP Tong_NNP ,_, and_CC was_VBD printed_VBN at_IN Bristol_NNP the_DT same_JJ year_NN ;_: a_DT third_JJ edition_NN was_VBD reached_VBN the_DT next_JJ year_NN ,_, 1721_CD ._.
+The_DT Account_NNP of_IN the_DT Life_NNP and_CC Death_NNP of_IN Mrs._NNP Bury_NNP ,_, Bristol_NNP ,_, 1720_CD ,_, included_VBD the_DT extant_JJ portions_NNS of_IN her_PRP$ diary_NN ,_, the_DT funeral_JJ sermon_NN ,_, a_DT life_NN by_IN her_PRP$ husband_NN ,_, and_CC an_DT elegy_JJ by_IN Isaac_NNP Watts_NNP ._.
+This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Bury_NNP ,_, Elizabeth_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

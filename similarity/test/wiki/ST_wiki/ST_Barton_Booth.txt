@@ -1,0 +1,17 @@
+Barton_NNP Booth_NNP -LRB-_-LRB- 1681_CD ''_'' 10_CD May_NNP 1733_CD -RRB-_-RRB- was_VBD one_CD of_IN the_DT most_RBS famous_JJ dramatic_JJ actors_NNS of_IN the_DT first_JJ part_NN of_IN the_DT 18th_JJ century_NN ._.
+Booth_NN was_VBD from_IN Lancashire_NNP -LRB-_-LRB- where_WRB ?_. -RRB-_-RRB-
+and_CC was_VBD educated_VBN at_IN Westminster_NNP School_NNP ,_, where_WRB his_PRP$ success_NN in_IN the_DT Latin_NNP play_NN Andria_NNP gave_VBD him_PRP an_DT inclination_NN for_IN the_DT stage_NN ._.
+He_PRP was_VBD intended_VBN for_IN the_DT church_NN ,_, and_CC to_TO attend_VB Trinity_NNP College_NNP ,_, Cambridge_NNP ;_: but_CC in_IN 1698_CD he_PRP ran_VBD away_RB and_CC obtained_VBD employment_NN in_IN a_DT theatrical_JJ company_NN in_IN Dublin_NNP ,_, where_WRB he_PRP made_VBD his_PRP$ first_JJ appearance_NN as_IN the_DT title_NN character_NN in_IN Aphra_NNP Behn_NNP 's_POS Oroonoko_NNP ._.
+After_IN two_CD seasons_NNS in_IN Ireland_NNP he_PRP returned_VBD to_TO London_NNP ,_, where_WRB Thomas_NNP Betterton_NNP ,_, who_WP had_VBD previously_RB failed_VBN to_TO help_VB him_PRP ,_, probably_RB out_IN of_IN regard_NN for_IN Booth_NNP 's_POS family_NN ,_, now_RB gave_VBD him_PRP all_PDT the_DT assistance_NN in_IN his_PRP$ power_NN ._.
+At_IN the_DT Lincoln_NNP 's_POS Inn_NNP Fields_NNP Theatre_NNP -LRB-_-LRB- 1700_CD ``_`` 1704_CD -RRB-_-RRB- he_PRP first_RB appeared_VBD as_IN Maximus_NNP in_IN Valentinian_NNP ,_, and_CC his_PRP$ success_NN was_VBD immediate_JJ ._.
+He_PRP was_VBD at_IN the_DT Haymarket_NNP with_IN Betterton_NNP from_IN 1705_CD to_TO 1708_CD ,_, and_CC for_IN the_DT next_JJ twenty_CD years_NNS at_IN Drury_NNP Lane_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1713_CD he_PRP joint-managed_VBD the_DT theater_NN with_IN Thomas_NNP Doggett_NNP ,_, Colley_NNP Cibber_NNP ,_, and_CC Robert_NNP Wilks_NNP ._.
+After_IN his_PRP$ death_NN on_IN 10_CD May_NNP 1733_CD ,_, Booth_NNP was_VBD buried_VBN in_IN St_NNP Laurence_NNP Cowley_NNP near_IN Uxbridge_NNP in_IN Middlesex_NNP ._.
+His_PRP$ widow_NN had_VBD a_DT memorial_NN to_TO Booth_NNP placed_VBN in_IN Westminster_NNP Abbey_NNP in_IN 1772_CD ._.
+His_PRP$ greatest_JJS parts_NNS ,_, after_IN the_DT title-part_NN of_IN Joseph_NNP Addison_NNP 's_POS Cato_NNP ,_, which_WDT established_VBD his_PRP$ reputation_NN as_IN a_DT tragedian_NN ,_, were_VBD probably_RB Hotspur_NNP and_CC Brutus_NNP ._.
+His_PRP$ King_NNP Lear_NNP was_VBD deemed_VBN worthy_JJ of_IN comparison_NN with_IN David_NNP Garrick_NNP 's_POS ._.
+As_IN the_DT ghost_NN in_IN Hamlet_NNP he_PRP is_VBZ said_VBD never_RB to_TO have_VB had_VBD a_DT superior_JJ ._.
+Among_IN his_PRP$ other_JJ Shakespearian_JJ rôles_NNS were_VBD Mark_NNP Antony_NNP ,_, Timon_NNP of_IN Athens_NNP and_CC Othello_NNP ._.
+He_PRP also_RB played_VBD to_TO perfection_NN the_DT gay_JJ Lothario_NNP in_IN Nicholas_NNP Rowe_NNP 's_POS The_DT Fair_NNP Penitent_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Booth_NN was_VBD twice_RB married_VBN ;_: his_PRP$ second_JJ wife_NN ,_, Hester_NNP Santlow_NNP ,_, a_DT noted_VBN actress_NN ,_, survived_VBD him_PRP ._.
+He_PRP was_VBD a_DT ``_`` poet_NN and_CC acholar_NN as_RB well_RB as_IN actor_NN ,_, and_CC certainly_RB a_DT man_NN of_IN genius_NN ..._: ''_'' -LRB-_-LRB- 2_LS -RRB-_-RRB-

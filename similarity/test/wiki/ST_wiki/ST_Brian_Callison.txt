@@ -1,0 +1,6 @@
+Brian_NNP Callison_NNP -LRB-_-LRB- born_VBN 1934_CD -RRB-_-RRB- is_VBZ a_DT British_JJ novelist_NN known_VBN for_IN his_PRP$ best-selling_JJ thrillers_NNS and_CC sea_NN stories_NNS ._.
+Born_VBN in_IN Manchester_NNP ,_, England_NNP in_IN 1934_CD ,_, he_PRP was_VBD educated_VBN at_IN the_DT High_NNP School_NNP of_IN Dundee_NNP ,_, and_CC went_VBD to_TO sea_NN at_IN the_DT age_NN of_IN 16_CD as_IN a_DT midshipman_NN with_IN the_DT Blue_NNP Funnel_NNP Line_NNP ,_, sailing_VBG aboard_IN cargo_NN ships_NNS between_IN ports_NNS in_IN Europe_NNP and_CC East_NNP Asia_NNP ._.
+Callison_NN subsequently_RB studied_VBN at_IN Dundee_NNP College_NNP of_IN Art_NNP in_IN Scotland_NNP ,_, and_CC went_VBD into_IN business_NN ._.
+His_PRP$ first_JJ published_VBN novel_NN ,_, A_DT Flock_NN of_IN Ships_NNS ,_, appeared_VBD in_IN 1970_CD ._.
+In_IN 2008_CD he_PRP completed_VBD a_DT three-year_JJ appointment_NN as_IN a_DT Fellow_NNP of_IN The_DT Royal_NNP Literary_NNP Fund_NNP at_IN the_DT University_NNP of_IN Dundee_NNP ,_, mentoring_VBG staff_NN and_CC students_NNS in_IN all_DT aspects_NNS of_IN practical_JJ writing_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB-

@@ -1,0 +1,4 @@
+The_DT rupee_NN strengthened_VBN by_IN 6_CD paise_NN to_TO 73.42_CD against_IN the_DT US_NNP dollar_NN in_IN early_JJ trade_NN on_IN Wednesday_NNP on_IN increased_VBN selling_NN of_IN the_DT American_JJ currency_NN by_IN exporters_NNS and_CC banks_NNS ._.
+Forex_NNP dealers_NNS said_VBD weakness_NN in_IN the_DT dollar_NN against_IN some_DT currencies_NNS overseas_RB and_CC a_DT higher_JJR opening_NN of_IN domestic_JJ equity_NN markets_NNS gave_VBD some_DT support_NN to_TO the_DT rupee_NN ._.
+On_IN Tuesday_NNP ,_, the_DT rupee_NN had_VBD climbed_VBN 35_CD paise_NN to_TO close_VB at_IN nearly_RB two-week_JJ high_NN of_IN 73.48_CD per_IN dollar_NN amid_IN softening_VBG crude_JJ oil_NN prices_NNS and_CC easing_VBG concerns_NNS over_IN the_DT trade_NN deficit_NN ._.
+Meanwhile_RB ,_, the_DT benchmark_NN BSE_NNP Sensex_NNP jumped_VBD 391.18_CD points_NNS ,_, or_CC 1.03_CD per_IN cent_NN ,_, to_TO 35,553.66_CD in_IN the_DT opening_VBG trade_NN ._.

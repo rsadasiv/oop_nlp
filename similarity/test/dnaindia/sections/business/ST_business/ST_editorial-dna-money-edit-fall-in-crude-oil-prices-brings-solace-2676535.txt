@@ -1,0 +1,12 @@
+Brent_NNP crude_JJ oil_NN has_VBZ now_RB dropped_VBN below_IN $_$ 80_CD a_DT barrel_NN ._.
+The_DT fall_NN comes_VBZ at_IN a_DT time_NN when_WRB the_DT demand_NN growth_NN slows_VBZ despite_IN concerns_NNS that_IN renewed_VBN US_NNP sanctions_NNS on_IN Iran_NNP 's_POS oil_NN industry_NN from_IN November_NNP could_MD tighten_VB up_RP supplies_NNS ._.
+Trade_NNP wars_NNS and_CC weakening_VBG currencies_NNS seem_VBP to_TO have_VB hit_VBN the_DT demand_NN ,_, not_RB letting_VBG the_DT price_NN fall_NN drastically_RB though_RB ._.
+It_PRP has_VBZ already_RB led_VBN to_TO a_DT trimming_VBG of_IN the_DT annual_JJ forecasts_NNS and_CC there_EX are_VBP chances_NNS that_IN they_PRP could_MD be_VB cut_VBN further_RBR ._.
+Both_DT the_DT Organization_NNP of_IN Petroleum_NNP Exporting_NNP Countries_NNP -LRB-_-LRB- Opec_NNP -RRB-_-RRB- and_CC the_DT International_NNP Energy_NNP Agency_NNP -LRB-_-LRB- IEA_NNP -RRB-_-RRB- said_VBD demand_NN would_MD grow_VB at_IN a_DT weaker_JJR rate_NN than_IN initially_RB anticipated_VBN this_DT year_NN and_CC next_JJ ._.
+The_DT IEA_NNP had_VBD earlier_JJR warned_VBD that_IN the_DT rally_NN in_IN prices_NNS could_MD damage_VB the_DT global_JJ economy_NN ._.
+Meanwhile_RB ,_, India_NNP ,_, reeling_VBG under_IN rising_VBG retail_JJ oil_NN prices_NNS ,_, is_VBZ looking_VBG up_RP for_IN some_DT solace_NN from_IN Saudi_NNP Arabia_NNP ,_, which_WDT is_VBZ its_PRP$ second-biggest_JJ oil_NN supplier_NN behind_IN Iran_NNP ._.
+The_DT middle-east_JJ country_NN said_VBD it_PRP would_MD meet_VB any_DT shortfall_NN that_WDT may_MD arise_VB out_IN of_IN the_DT sanctions_NNS on_IN Iran_NNP ._.
+On_IN its_PRP$ part_NN ,_, India_NNP ,_, the_DT world_NN 's_POS third-biggest_JJ oil_NN importer_NN ,_, is_VBZ facing_VBG record_NN high_JJ retail_JJ prices_NNS after_IN international_JJ crude_JJ price_NN soared_VBD and_CC rupee_VBD depreciated_VBN against_IN the_DT US_NNP dollar_NN ._.
+Saudi_NNP Arabia_NNP 's_POS statement_NN that_IN it_PRP is_VBZ keen_JJ to_TO invest_VB in_IN India_NNP 's_POS fuel_NN retailing_NN and_CC petrochemical_NN business_NN is_VBZ indeed_RB a_DT positive_JJ step_NN ._.
+Will_MD Saudi_NNP Arabia_NNP be_VB able_JJ to_TO assure_VB India_NNP of_IN a_DT price_NN stabilisation_NN ?_.
+That_DT is_VBZ vital_JJ for_IN the_DT country_NN ._.

@@ -1,0 +1,8 @@
+New_NNP dating_VBG app_NN DonaldDaters_NNS was_VBD supposed_VBN to_TO help_VB lonely_JJ conservatives_NNS find_VBP each_DT other_JJ discreetly_RB ._.
+But_CC the_DT app_NN leaked_VBD its_PRP$ database_NN of_IN users_NNS on_IN launch_NN day_NN ,_, a_DT report_NN said_VBD ._.
+With_IN the_DT slogan_NN ``_`` Make_NNP America_NNP Date_NNP Again_NNP ,_, ''_'' the_DT app_NN targets_VBZ the_DT ``_`` American-based_JJ singles_NNS community_NN connecting_VBG lovers_NNS ,_, friends_NNS ,_, and_CC Trump_NNP supporters_NNS alike_RB ,_, ''_'' its_PRP$ website_NN says_VBZ ._.
+The_DT app_NN had_VBD just_RB over_IN 1,600_CD users_NNS on_IN its_PRP$ first_JJ day_NN of_IN operations_NNS ,_, technology_NN news_NN site_NN TechCrunch_NNP reported_VBD ._.
+TechCrunch_NNP said_VBD it_PRP learned_VBD the_DT figure_NN because_IN a_DT French_JJ security_NN researcher_NN found_VBD ``_`` issues_NNS ''_'' with_IN the_DT app_NN ,_, making_VBG it_PRP possible_JJ to_TO download_VB the_DT entire_JJ user_NN database_NN ._.
+The_DT researcher_NN ``_`` shared_VBD the_DT database_NN with_IN TechCrunch_NNP ,_, which_WDT included_VBD users_NNS '_POS names_NNS ,_, profile_NN pictures_NNS ,_, device_NN type_NN ,_, their_PRP$ private_JJ messages_NNS --_: and_CC access_NN tokens_NNS ,_, which_WDT can_MD be_VB used_VBN to_TO take_VB over_RP accounts_NNS ,_, ''_'' it_PRP said_VBD ._.
+TechCrunch_NNP said_VBD the_DT data_NN was_VBD pulled_VBN offline_NN after_IN it_PRP contacted_VBD the_DT app_NN maker_NN ._.
+DonaldDaters_NNS '_POS website_NN says_VBZ ``_`` all_DT your_PRP$ personal_JJ information_NN is_VBZ kept_VBN private_JJ ._. ''_''

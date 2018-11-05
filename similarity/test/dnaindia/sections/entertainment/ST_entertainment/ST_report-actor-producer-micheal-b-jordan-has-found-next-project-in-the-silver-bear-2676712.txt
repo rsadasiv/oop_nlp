@@ -1,0 +1,7 @@
+Michael_NNP B_NNP Jordan_NNP is_VBZ set_VBN to_TO star_VB in_IN and_CC produce_VB hitman_NN drama_NN The_DT Silver_NN Bear_NNP ._.
+The_DT Black_NNP Panther_NNP star_NN will_MD play_VB the_DT deadly_JJ assassin_NN ,_, Columbus_NNP in_IN the_DT Lionsgate_NNP film_NN ,_, Deadline_NNP reported_VBD ._.
+The_DT film_NN is_VBZ based_VBN on_IN the_DT book_NN series_NN by_IN Wanted_VBN and_CC 3:10_CD to_TO Yuma_NNP screenwriter_NN Derek_NNP Haas_NNP ._.
+Frank_NNP Baldwin_NNP has_VBZ adapted_VBN the_DT script_NN for_IN the_DT big_JJ screen_NN ._.
+The_DT Silver_NN Bear_NNP chronicles_VBZ the_DT formative_JJ story_NN of_IN a_DT man_NN who_WP becomes_VBZ the_DT most_RBS feared_VBN and_CC respected_VBN hitman_NN in_IN the_DT criminal_JJ underworld_NN ._.
+Jordan_NNP ,_, 31_CD ,_, will_MD back_VB the_DT film_NN through_IN his_PRP$ banner_NN ,_, Outlier_NNP Society_NNP ,_, along_IN with_IN Nickel_NNP City_NNP Pictures_NNP '_POS Vishal_NNP Rungta_NNP ,_, Mark_NNP Fasano_NNP ,_, Ankur_NNP Rungta_NNP ._.
+Haas_NNP ,_, Michael_NNP Garnett_NNP and_CC Tobias_NNP Weymar_NNP are_VBP attached_VBN as_IN executive_JJ producers_NNS ._.

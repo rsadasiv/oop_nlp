@@ -1,0 +1,1733 @@
+aNothEr_NNP dAy_NNP w\/O_NNP mY_NNP bF_NNP ._. ._.
+haIz_NNP ._. ._.
+wEnt_NNP sHoppInG_NNP wiF_NNP mY_NNP sIS_NNP aFt_NNP wK_NNP ._. ._.
+shE_NNP mEEt_NNP mE_NNP aT_NNP F.E._NNP ._.
+aT_NNP mY_NNP sHop_NNP ._. ._.
+tHeN_NNP wE_NNP shOp_NNP aRd_NNP ._. ._.
+buY_NNP aCCesSoRieS_NNP ._. ._.
+-LRB-_-LRB- neCkLaCeS_NNP ,_, bRaCeLetS_NNP ,_, eArrInGs_NNP ._. ._. -RRB-_-RRB-
+fR_NN 1_CD sHoP_NNP ._. ._.
+tHEn_NNP gO_NNP buY_NNP cLotHeS_NNP ._. ._.
+-LRB-_-LRB- 1_CD sHirT_NN 4_CD mY_NNP siS_NNP ,_, 2_CD miNi_NNP sKiRt_NNP 4_CD mE_NNP &_CC 1_CD shIrT_NN 4_CD mE_NNP ._. ._. -RRB-_-RRB-
+fR_NNP aNotHeR_NNP sHoP_NNP ._. ._.
+dInnEr_NNP At_IN ``_`` tOri-Q_JJ ''_'' ._. ._.
+yA_NN ._. ._.
+mY_NNP sIs_NNPS ._. ._.
+eVerYtHiN_NNP oN_NNP mE_NNP ._. ._.
+gO_NNP oUt_NNP wIf_NNP hEr_NNP mORe_NNP oFtEn_NNP ._. ._.
+,_, i_FW 'LL_FW bE_FW bRoKe_FW ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+wHo_NNP aSk_NNP i_FW 'M_NNP hEr_NNP siS_NNP ._. ._.
+iF_NNP i_FW dUn_NNP doTeS_NNP oN_NNP hEr_NNP ,_, dOteS_NNP oN_NNP wHo_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+sO_NNP aFt_NNP taT_NNP ._. ._.
+wE_NNP lEft_NNP F.E._NNP ._.
+wEnT_NNP tO_NNP hEreEn_NNP nXt_NNP ._. ._.
+mOstLy_NNP hAngInG_NNP aRd_NNP HMV_NNP ._. ._.
+lOOkin_NNP aT_NNP aLbUmS_NNP ._. ._.
+tHen_VB We_PRP wEnt_VB To_TO TAKA_NNP ._. ._.
+sHe_NNP wAnnA_NNP go_VB buY_NNP tHinGy_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+yA_NN ._. ._.
+tHeN_NNP ._. ._.
+juZ_NNP waLk_NNP arD_NNP thEr_NNP loR_NNP ._. ._.
+aFt_NNP aLL_NNP e_SYM sHoPPinG_NNP ._. ._.
+aRd_NNP 10pM_NNP +_NNP +_NNP ,_, wE_NNP weNt_NNP hM_NNP ._. ._.
+oN_NNP e_SYM wAy_NNP hM_NNP ._. ._.
+sTiL_NNP waNNa_NNP gO_NNP buY_NNP 1_CD pAntS_NNP ._. ._.
+haIz_NNP ._. ._.
+-_: __SYM -_: yA_NN ._. ._.
+tHen_NNP wEnt_NNP hM_NNP ._. ._.
+sHoW_NNP muMMy_NNP hOw_NNP mUcH_NNP tHinGs_NNP wE_NNP bRouGht_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+yah_NN ._. ._.
+another_DT day_NN w\/o_VB my_PRP$ bf_NN ._. ._.
+i_FW went_VBD out_IN wif_NN my_PRP$ fren_NNS ,_, Ru_NNP ,_, aft_NN wk_NN ._. ._.
+she_PRP went_VBD to_TO look_VB 4_CD me_PRP at_IN my_PRP$ shop_NN ._. ._.
+has_VBZ been_VBN such_JJ a_DT long_JJ time_NN since_IN we_PRP really_RB get_VB 2gether_JJ n_NN enjoy_VB ourself_NN ._.
+we_PRP went_VBD walkin_JJ ard_NN F.E._NNP ._.
+lookin_FW at_IN little_JJ thingy_NN ._. ._.
+accessories_NNS ._. ._.
+\*_SYM hehe_NN \*_SYM ._. ._.
+we_PRP brought_VBD ice-cream_JJ at_IN e_SYM shop_NN outside_IN F.E._NNP ._.
+\*_SYM nice_JJ \*_NN ._. ._.
+Ru_NNP paid_VBD 4_CD tat_NN ._. ._.
+rejectin_NN e_SYM money_NN i_FW wan_FW to_TO pay_VB her_PRP ._. ._.
+then_RB we_PRP went_VBD to_TO e_SYM orchard_NN stat_NN ._. ._.
+Ru_NNP do_VB her_PRP$ ez-link_JJ card_NN ._. ._.
+wwent_NN to_TO TAKA_NNP ._. ._.
+took_VBD e_SYM No._NN 1_CD t-shirt_NN fr_NN Rong_NNP ._. ._.
+then_RB we_PRP walk_VBP ard_RB ther_RB ..._: thinkin_NN of_IN wat_NN to_TO eat_VB too_RB ._. ._.
+so_IN we_PRP went_VBD to_TO CINE_NNP ._. ._.
+we_PRP walk_VBP ard_RB 1st_CD ._. ._.
+went_VBD to_TO ``_`` Print_NNP Club_NNP ''_'' to_TO take_VB neoprints_NNS ._. ._.
+\*_SYM heee_NN \*_SYM ._. ._.
+take_VB twice_RB ._. ._.
+1_CD card_NN ._. ._.
+,_, 1_CD sticker_NN ._. ._.
+\*_SYM hehe_NN \*_SYM ._. ._.
+pretty_RB ._. ._.
+n_NN i_FW pay_NN 4_CD tis_NN ._. ._.
+\*_SYM shy_JJ \*_NN ._. ._.
+always_RB let_VB other_JJ pay_NN ._. ._.
+as_IN usual_JJ ..._: we_PRP shop_VBP shop_NN ard_NN ._. ._.
+heheZ_NNP ._. ._.
+then_RB in_IN e_SYM end_NN ._. ._.
+we_PRP wanted_VBD to_TO eat_VB KFC_NNP ._. ._.
+but_CC only_RB ava_JJ seat_NN ._. ._.
+had_VBD a_DT bag_NN on_IN it_PRP ._. ._.
+it_PRP was_VBD fr_JJ e_SYM girls_NNS on_IN e_SYM nxt_FW table_NN ._. ._.
+4gettin_JJ about_IN askin_VBG them_PRP to_TO get_VB e_SYM bag_NN away_RB ._. ._.
+we_PRP went_VBD to_TO BK_NNP instead_RB ._. ._.
+eat_VB n_JJ chat_VBP ther_RB ._. ._.
+took_VBD picS_NNS wif_VB my_PRP$ hp_NN ._. ._.
+play_NN ard_NN ._. ._.
+\*_SYM heee_NN \*_SYM ._. ._.
+yah_NN ._. ._.
+then_RB it_PRP have_VB come_VBN to_TO e_SYM end_NN of_IN e_SYM day_NN ._. ._.
+we_PRP took_VBD a_DT bus_NN hm_NN ._. ._.
+talk_NN non-stop_NN on_IN e_SYM bus_NN ._. ._.
+\*_SYM noisY_NN \*_SYM ._. ._.
+saw_NN my_PRP$ fren_NNS ,_, huishan_NN ,_, on_IN e_SYM bus_NN too_RB ._. ._.
+yah_NN ._. ._.
+so_RB i_FW drop_NN e_SYM bus_NN 1st_CD ._. ._.
+n_IN we_PRP parted_VBD ._. ._.
+tired_JJ ._. ._.
+but_CC enjoyable_JJ ._. ._.
+hehe_NN ._. ._.
+:_: -RRB-_-RRB- \*_SYM pinky_NN ._. ._.
+\*_SYM yah_NN ._. ._.
+away_RB fr_VB my_PRP$ bf_NN ,_, i_FW was_VBD out_IN wif_NN another_DT guy_NN ,_, D._NNP he_PRP was_VBD my_PRP$ new_JJ fren_NNS ,_, fr_NN my_PRP$ new_JJ sch_NN ._. ._.
+it_PRP 's_VBZ our_PRP$ 2nd_JJ date_NN 2day_JJ ._. ._.
+we_PRP went_VBD to_TO Marina_NNP e_SYM 1st_CD time_NN ._. ._.
+he_PRP waited_VBD for_IN me_PRP outside_IN F.E._NNP ._.
+my_PRP$ wk_NN place_NN ._. ._.
+2day_JJ ,_, he_PRP waited_VBD for_IN me_PRP at_IN e_SYM same_JJ place_NN again_RB ._. ._.
+hee_NN ._. ._.
+as_IN usual_JJ ._. ._.
+we_PRP went_VBD to_TO MS._NNP ._.
+but_CC went_VBD to_TO suntec_VB instead_RB ._. ._.
+he_PRP paid_VBD 4_CD e_SYM movie_NN ._. ._.
+-LRB-_-LRB- i_FW wanted_VBD to_TO pay_VB but_CC ..._: -RRB-_-RRB- he_PRP paid_VBD 4_CD e_SYM 1st_CD time_NN too_RB ._. ._.
+so_RB shy_JJ ._. ._.
+hehe_NN ._. ._.
+we_PRP went_VBD to_TO buy_VB sweets_NNS ._. ._.
+at_IN Mini_NNP Toons_NNP ._. ._.
+he_PRP brought_VBD 4_CD his_PRP$ little_JJ sis_NN too_RB ._. ._.
+i_FW wanted_VBD to_TO pay_VB 4_CD him_PRP but_CC he_PRP say_VB no._FW ._.
+instead_RB he_PRP wanted_VBD to_TO pay_VB 4_CD mine_JJ too_RB ._. ._.
+\*_SYM haha_NN \*_SYM ._. ._.
+so_RB he_PRP say_VB we_PRP shall_MD pay_VB seprately_RB ._. ._.
+ok_NN ._. ._.
+then_RB went_VBD i_FW wanted_VBD to_TO pay_VB 4_CD mine_NN ._. ._.
+e_LS counter_RB girl_NN asked_VBD me_PRP if_IN i_FW wanted_VBD to_TO pay_VB 2gether_CD -LRB-_-LRB- wif_NN e_SYM 1_LS he_PRP is_VBZ holding_VBG -RRB-_-RRB- ._. ._.
+i_FW looked_VBD at_IN him_PRP n_VBP i_FW told_VBD e_SYM girl_NN ``_`` ok_NN ''_'' ._. ._.
+\*_SYM hehe_NN \*_SYM ._. ._.
+he_PRP wanted_VBD to_TO pay_VB me_PRP back_RB but_CC i_FW rejected_VBD it_PRP ._.
+it_PRP 's_VBZ him_PRP who_WP always_RB pay_VBP ._. ._.
+make_VB me_PRP so_RB shy_JJ ._. ._.
+inside_IN e_SYM theater_NN ,_, i_FW took_VBD out_RP my_PRP$ sweet_JJ to_TO eat_VB ._. ._.
+i_FW stopped_VBD halfway_NN ._. ._.
+intent_NN to_TO save_VB it_PRP 4_CD later_RB ._. ._.
+n_RB he_PRP tot_NN tat_NN i_FW haf_FW fin_FW e_SYM sweet_JJ ._. ._.
+so_RB he_PRP took_VBD out_RP his_PRP$ sis_NN pkt_NN n_NN gave_VBD it_PRP to_TO me_PRP ._. ._.
+\*_SYM haha_NN \*_SYM ._. ._.
+i_FW told_VBD him_PRP i_FW haven_NN fin_NN my_PRP$ own_JJ 1_CD ._. ._.
+n_JJ nv_NN took_VBD it_PRP ._. ._.
+then_RB he_PRP took_VBD e_SYM sweet_JJ fr_NN his_PRP$ sis_NN 's_POS pkt_NN 4_CD me_PRP ..._: haiZ_NNP ._. ._.
+i_FW say_VBP dun_NN need_NN le_FW ma_FW ..._: aft_NN e_SYM movie_NN ._. ._.
+we_PRP walk_VBP ard_RB ther_RB b4_CD goin_NN home_NN ..._: he_PRP sent_VBD me_PRP hm_VB as_RB usual_JJ ._. ._.
+til_NN e_SYM void-deck_FW ._. ._.
+:_: -RRB-_-RRB- quite_RB a_DT nice_JJ guy_NN i_FW admit_VBP ._.
+a_DT ``_`` richman_NN ''_'' but_CC humble_JJ ._. ._.
+shows_NNS no_DT ``_`` richman_NN ''_'' attitude_NN ._.
+not_RB ``_`` hao_FW lian_FW ''_'' ._. ._.
+\*_SYM hehe_NN \*_SYM ._. ._.
+kind_NN of_IN feel_NN tat_NN he_PRP has_VBZ got_VBN sm_NN interest_NN in_IN me_PRP ._. ._.
+but_CC ._. ._.
+i_FW hope_NN we_PRP can_MD just_RB remain_VB at_IN frenZ_NNP only_RB ._. ._.
+i_FW 've_VBP a_DT bf_NN ._. ._.
+n_NN i_FW dun1_FW to_TO lose_VB such_PDT a_DT gd_NN fren_NN lik_NN him_PRP ._. ._.
+juz_NN bcuz_NN of_IN ..._: ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+wEnt_NNP ouT_NNP wiF_NNP D_NNP aGaiN_NNP tOdaY_NNP ._. ._.
+tO_NNP cAusEwaY_NNP pT_NNP ._.
+hE_NNP liVeS_NNP neAr_NNP tHeR_NNP ._. ._.
+sO_NNP i_FW wEnt_NNP thEr_NNP mYseLf_NNP tO_NNP lOoK_NNP 4_CD hiM_NNP ._. ._.
+wAs_NNS 10miNs_NNS laTe_VBP ._. ._.
+sO_NNP sHy_NNP ._. ._.
+wE_NNP wAiteD_NNP 4_CD mE_NNP aT_NNP e_SYM eScaLAtOr_NNP wHen_NNP i_FW gO_NNP uP_NNP tO_NNP meEt_NNP hiM_NNP ._. ._.
+thEn_NNP wE_NNP weNt_NNP tO_NNP geT_NNP e_SYM tiCs_NNS ._. ._.
+hE_NNP toLd_NNP mE_NNP taT_NNP tHy_NNP wiL_NNP neEd_NNP mY_NNP i\/C_NNP ._. ._.
+i_FW waS_FW wOndeRiN_NNP y._FW ._.
+tHen_NNP ._. ._.
+wHen_NNP wE_NNP weNt_NNP tO_NNP puRcHasE_NNP e_SYM tiCs_NNS ._. ._.
+iNdeeD_NNP ._. ._.
+tHy_NNP waN_NNP tO_NNP loOk_NNP aT_NNP mY_NNP i\/c_NNP ._. ._.
+i_FW sHoWeD_NNP thEm_NNP ._. ._.
+n_JJ tHen_NNP ._. ._.
+oK_NNP loR_NNP ._. ._.
+i_FW 'M_FW aBovE_NNP 16_CD mA_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+turNinG_NNP 18_CD tiS_NNP yR_NNP le_FW loR_NNP ._. ._.
+e_LS sHow_NNP sTartS_NNP iN_NNP aNotHer_NNP feW_NNP mIns_NNP aFt_NNP wE_NNP pUrcHasE_NNP e_SYM ticS_NNPS ._. ._.
+i_FW aM_FW stiL_FW tHinkIn_NNP aBouT_NNP e_SYM i\/C_NNP thIngY_NNP ._. ._.
+sEemS_NNP liK_NNP tHer_NNP iS_NNP sM_NNP trIcK_NNP ._. ._.
+thEn_NNP i_FW kEeP_NNP asKin_NNP hiM_NNP n_VBD hE_NNP reFuseD_NNP tO_NNP teLL_NNP mE_NNP waT_NNP 's_POS hAppEninG_NNP ._. ._.
+hE_NNP saY_NNP aFt_NNP e_SYM mOviE_NNP ._. ._.
+yA_NN ._. ._.
+wE_NNP waTchEd_NNP ``_`` uNdeAd_NNP ''_'' ._. ._.
+sCaRy_NNP mOvIe_NNP Huh_NNP ._. ._.
+mOre_NNP oF_NNP fuNNy_NNP &_CC diSguStiNg_NNP ._. ._.
+eAtiN_NNP hUmaNs_NNP bRainS_NNP ._. ._.
+tEarIng_VBG oFf_NNP e_SYM sKinS_NNPS oF_NNP e_SYM hEad_NNP ._. ._.
+tHinGy_NNP puNcHin_NNP tHru_NNP a_DT pErsOn_NNP sToMacH_NNP ,_, hEaD_NNP ._. ._.
+eeEkKkk_NNP ..._: sIckEning_VBG ._. ._.
+i_FW wAs_FW sOoo_FW coLd_FW iN_FW e_SYM tHeAtrE_NNP ._. ._.
+e_LS aIr-coN_NNP wAs_NNP ._. ._.
+dAmN_NNP coLd_NNP ._. ._.
+\*_SYM fReeZinG_NNP \*_SYM ._. ._.
+i_FW cLutCh_NNP mY_NNP hAndS_NNP 2gEthEr_NNP ._. ._.
+D_NNP asKed_NNP mR_NNP iF_NNP i_FW 'M_NNP coLd_NNP ._. ._.
+i_FW nOddEd_NNP mY_NNP hEaD_NNP ._. ._.
+hE_NNP nV_NNP dO_NNP aNythIn_NNP aT_NNP 1sT_NNP ._. ._.
+tiL_NNP e_SYM mIddLe_NNP oF_NNP e_SYM mOviE_NNP ._. ._.
+hE_NNP hoLd_NNP mY_NNP hAndS_NNP ._. ._.
+aS_NNP iN_NNP hE_NNP usE_NNP hiS_NNP biG_NNP bIg_NNP paLm_NNP n_VBD hOLd_NNP mY_NNP hanDs_NNP ._. ._.
+buT_NNP iS_NNP n't_RB oF_VBD mUch_NNP uSe_NNP lAr_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+eRm_NNP ._. ._.
+e_LS feELingS_NNPS ._. ._.
+cA_NNP n't_RB reAlly_NNP sAy_NNP ._. ._.
+kiNd_NNP oF_NNP hAppY_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+sMtimE_NNP i_FW feEL_NNP hIm_NNP sHifTiNg_NNP hiS_NNP fiNgeRs_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+teNse_VB ?_.
+wE_NNP wAnnA_NNP gO_NNP eAt_NNP aFt_NNP e_SYM mOviE_NNP ._. ._.
+bUt_NNP e_SYM fOoDcOurT_NNP wAs_NNP tOo_NNP cRowdEd_NNP ._. ._.
+sO_NN ._. ._.
+wE_NNP weNt_NNP waLk_NNP arD_NNP 1sT_NNP ._. ._.
+cUz_NNP i_FW wAs_NNP sTiL_NNP quIte_NNP cOld_NNP ._. ._.
+hE_NNP tOoK_NNP mE_NNP oUt_NNP oF_NNP e_SYM sHoPpiN_NNP ceNtrE_NNP 1St_NNP ._. ._.
+wE_NNP weNt_NNP tO_NNP e_SYM oPp_FW n_FW sAt_FW dW_FW ._. ._.
+taLk_NNP tALk_NNP ._. ._.
+tHen_NNP ._. ._.
+i_FW gOt_FW aN_FW iNvaSioN_NNP fR_NNP e_SYM aNtz_NNP ._. ._.
+sO_JJ wE_NNP cHanGed_NNP oUr_NNP seAt_NNP ._.
+tHen_NNP ._. ._.
+wE_NNP sAw_NNP a_DT dOg_NNP gOin_NNP tO_NNP atTacK_NNP a_DT caT_NNP ._. ._.
+i_FW wAs_FW aFrAid_NNP oF_NNP taT_NNP dOg_NNP ._. ._.
+waS_NNP n't_RB e_SYM tYpe_FW i_FW Lik_FW ._. ._.
+i_FW hoLd_FW oN_FW tO_FW hIs_FW sHirT_FW ._. ._.
+tHeN_NNP aFt_NNP aWhiLe_NNP ._. ._.
+hE_NNP aSk_NNP mE_NNP tO_NNP gO_NNP ._. ._.
+sEeiNg_NNP tAt_NNP i_FW 'M_NNP sO_NNP sCarE_NNP i_FW tHinK_NNP ._.
+hE_NNP pUt_NNP hIs_NNP hAnDs_NNP Ard_NNP mY_NNP wAisT_NNP wHen_NNP i_FW sTanD_NNP uP_NNP ._. ._.
+sOrT_NNP oF_NNP liK_NNP gEsTuRin_NNP mE_NNP tO_NNP gO_NNP ._. ._.
+hE_NNP diD_NNP iT_NNP oN_NNP pUrpOse_NNP To_TO toUcH_VB mE_NNP ??_NNP oR_NNP ..._: ??_CD tHen_NNP We_PRP wEnT_VBP bK_NNP tO_NNP e_SYM sHoPpiN_NNP mAll_NNP ._. ._.
+tO_NNP hAf_NNP oUr_NNP dInnEr_NNP ._. ._.
+eRm_NNP ._. ._.
+e_LS pLacE_NNP sTiL_NNP qUitE_NNP fuLL_NNP 1_CD ._. ._.
+tHen_NNP hE_NNP dUn_NNP rEaLLy_NNP wAn_NNP tO_NNP sHaRe_NNP a_DT tAbLe_NNP ._. ._.
+sO_NN ._. ._.
+wE_NNP wALk_NNP On_IN ._. ._.
+n_NN 2_CD mAn_NNP sTood_NNP uP_NNP fR_NNP a_DT tAbLe_NNP aS_NNP wE_NNP r_NN pAssiN_NNP bY_NNP ._. ._.
+sO_NNP wE_NNP tOok_NNP Tat_NNP tAbLe_NNP ._. ._.
+i_FW aTe_FW weSteRn_NNP fD_NNP ._. ._.
+n_JJ hE_NNP atE_NNP jAp_NNP fD_NNP ._. ._.
+aFt_NNP tAt_NNP ._. ._.
+wE_NNP wEnt_NNP hM_NNP ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+hE_NNP seNt_NNP mE_NNP hM_NNP ._. ._.
+toOk_NNP 960_CD ._. ._.
+thInk_VB it_PRP 'S_VBZ oUr_NNP buS_NNP hUh_NNP ?_. ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+oN_NNP e_SYM Bus_NNP ._. ._.
+hE_NNP tOld_NNP mE_NNP e_SYM tRuTh_NNP ._. ._.
+e_LS mOviE_NNP ._. ._.
+cHecKin_NNP e_SYM i\/C_NNP thIngY_NNP ._. ._.
+lAst_NNP tiMe_NNP hE_NNP bRoUghT_NNP a_DT uNdeR_NNP 16_CD bOy_NNP tHer_NNP tO_NNP wAtcH_NNP a_DT NC-16_NNP sHow_NNP ._. ._.
+hE_NNP bLufF_NNP e_SYM pLe_NNP tHer_NNP sAyin_NNP hE_NNP iS_NNP aBovE_NNP 16_CD ._. ._.
+sO_NN ._. ._.
+dUnnO_NNP hoW_NNP ._. ._.
+e_LS mAnagEmeNt_NNP goT_NNP nEwS_NNP taT_NNP e_SYM Boy_NNP waS_NNP unDeraGe_NNP n_NNP sColDed_VBD e_SYM cOunTeR_NNP gIrLs_NNP ._. ._.
+sO_NN ._. ._.
+tAt_NNP 's_POS y._NN ._.
+thY_NNP wAn_NNP bOth_NNP oUr_NNP i\/c_NNP tO_NNP cOnfiRm_NNP ._. ._.
+\*_SYM HahA_NNP \*_SYM ._. ._.
+sO_NNP fUnnY_NNP ._. ._.
+1sT_NNP tiMe_NNP kAnNa_NNP cHecKeD_NNP ._. ._.
+i_FW dUn_FW lOok_FW liK_FW 16_CD &_CC aBoVe_NNP ._. ._.
+\*_SYM fUnnY_NN \*_SYM ._. ._.
+tHen_NNP i_FW wAnNa_NNP lOok_NNP At_IN hIs_NNP waLleT_NNP ._. ._.
+fuDgEtiNg_NNP hErE_NNP n_NNP tHer_NNP ._. ._.
+dUn_NNP waNNa_NNP lEt_NNP mE_NNP haF_NNP iT_NNP ._. ._.
+sO_NNP i_FW tiCkLed_NNP hIm_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+hE_NNP wAs_NNP VErY_NNP aFraId_NNP Of_IN iT_NNP ._. ._.
+kiNd_NNP oF_NNP a_DT lOt_NNP oF_NNP boDy_NNP cOntAct_NNP ._. ._.
+hE_NNP tIckLinG_NNP mE_NNP tOo_NNP ._. ._.
+hoLdiN_NNP oN_NNP tO_NNP mY_NNP hanDs_NNP nOt_NNP lEttiN_NNP mE_NNP tO_NNP tiCkLe_NNP hIm_NNP ._. ._.
+yA_NN ._. ._.
+tHen_NNP iN_NNP e_SYM eNd_FW ._. ._.
+hE_NNP sTiL_NNP sHow_NNP Me_PRP hIs_VBZ wAllEt_NNP ._. ._.
+sAy_JJ hE_NNP nO_NNP pRivAcy_NNP liAo_NNP ._. ._.
+aLL_NNP kaNnA_NNP seEn_NNP bY_NNP mE_NNP le_FW ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+yA_NN ._. ._.
+n_JJ tAt_NNP wEnt_NNP oN_NNP ..._: ._.
+hIs_NNS aDD_NNP oN_NNP e_SYM i\/c_FW wAs_FW a_DT HdB_NNP adD_NNP ._. ._.
+nOt_NNP hIs_NNP cUrreNt_NNP hM_NNP ._. ._.
+yA_NN ._. ._.
+gOt_NN 2_CD hSe_NNP ._. ._.
+tAt_NNP HdB_NNP 1_CD iS_NNP kInd_NNP Of_IN sTorE_NNP rM_NNP hE_NNP saId_NNP ._. ._.
+4_CD hIm_NNP tO_NNP sTudY_NNP aLso_NNP ._. ._.
+hE_NNP waLk_NNP mE_NNP hM_NNP ._. ._.
+tiL_NNP e_SYM vOid-dEck_NN ._. ._.
+oPen_NNP e_SYM leTteR-boX_NNP ._. ._.
+hE_NNP noE_NNP wHicH_NNP 1_CD le_FW aLso_FW ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+theN_NNP wE_NNP waLkeD_NNP 2wArds_NNS e_LS liFt_NNP ._. ._.
+hE_NNP nv_NNP gAf_NNP mE_NNP a_DT pAt_NNP oN_NNP e_SYM heAd_NNP 2dAy_NNP ._. ._.
+hE_NNP pUt_NNP hIs_NNP aRm_NNP arD_NNP my_PRP$ wAiSt_NNP n_NN sHovE_NNP mE_NNP 2wArds_NNS e_LS lIft_NNP ._. ._.
+^_RB ^_CD kiNd_NNP oF_NNP sWeeT_NNP hUh_NNP ??_NNP \*_SYM hEhe_NNP \*_SYM ._. ._.
+i_FW rEaLLy_NNP dO_NNP liK_NNP hIm_NNP ._. ._.
+bUt_NNP i_FW dUnnO_NNP is_VBZ tEmpo_NNP cRusH_NNP oR_NNP reAL_NNP ._. ._.
+cUz_NNP e_SYM teRms_NNPS wiF_NNP mY_NNP bF_NNP is_VBZ N't_RB sO_JJ gD_NNP noW_NNP ._. ._.
+sO_NN ._. ._.
+i_FW 'M_FW wOndeRinG_NNP iS_NNP tIS_NNP sM_NNP soRt_NNP oF_NNP tAkin_NNP D_NNP aS_VBZ a_DT sUb_NN ._.
+wAt_NNP iF_NNP hE_NNP reAlly_NNP dO_NNP liK_NNP mE_NNP &_CC iS_NNP gOiN_NNP afT_NNP mE_NNP ?_.
+i_FW wUn_FW nOe_FW wAt_FW tO_FW ._. ._.
+i_FW cAnt_FW aBaNdOn_NNP mY_NNP bF_NNP ._. ._.
+i_FW dUn_FW wAnNa_NNP hUrt_NNP hiS_NNP feeLinGs_NNP ._. ._.
+hoW_NNP ?_.
+wEnt_NNP tO_NNP kBox_NNP wIf_NNP mY_NNP frEnZ_NNP ._. ._.
+hYu_NNP ._. ._.
+mIn_NNP ._. ._.
+n_NN mY_NNP siS_NNP ._. ._.
+4_CD giRls_NNS ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+lAdieS_NNP niTe_NNP mA_NNP ._. ._.
+sIng_NNP tiL_NNP 2aM_NNP ._. ._.
+it_PRP 'S_VBZ bEen_NNP sO_NNP lOnG_NNP sInCe_NNP i_FW sTay_NNP oUt_NNP tiL_NNP sO_NNP lAte_NNP ._. ._.
+HaD_NNP FuN_NNP ._.
+diD_NNP eNjoY_NNP mYseLf_NNP ._. ._.
+\*_SYM hehE_NN \*_SYM ._. ._.
+tOoK_IN a_DT cAb_NNP hM_NNP iN_NNP e_SYM eNd_FW ._. ._.
+^_RB ^_CD wEnt_NNP ouT_NNP wiF_NNP D_NNP 2dAy_NNP ._. ._.
+saMe_NN ._. ._.
+tO_NNP MS._NNP ._.
+hE_NNP wAit_NNP 4_CD Me_PRP aT_VBP e_SYM CC_NNP bUs-sTop_NNP ._. ._.
+hE_NNP wAs_NNP tHer_NNP wHen_NNP i_FW rEacH_NNP ._. ._.
+hE_NNP reAchEd_NNP 10miNs_NNP b4_NN ._. ._.
+i_FW wAsNt_NNP lAte_NNP ._. ._.
+hE_NNP waS_NNP eaRLy_NNP ._. ._.
+tHeN_NNP wE_NNP toOk_NNP 960_CD tO_NNP MS._NNP nV_NNP siT_NNP dW_NNP tiL_NNP wE_NNP reAcH_NNP buGis_NNP ._. ._.
+wHer_NNP aLmoSt_NNP eVrYoNe_NNP haVe_NNP dRop_NNP e_SYM buS_NNPS ._.
+wE_NNP weNt_NNP tO_NNP MS_NNP tO_NNP gEt_NNP e_SYM tiC_NNP ._. ._.
+dEcidInG_NNP oN_NNP whEtHer_NNP tO_NNP wAtcH_NNP ``_`` hM_NNP oN_NNP e_SYM rAngE_NNP ''_'' or_CC ``_`` uNdeAd_NNP ''_'' ._. ._.
+MS_NNP dO_NNP nOt_NNP hAf_NNP ``_`` uNdEaD_NNP ''_'' ._. ._.
+sO_NNP wE_NNP dEciDe_NNP tO_NNP cHecK_NNP ouT_NNP SUNTEC_NNP ._. ._.
+wHen_NNP wE_NNP gOt_NNP tHeR_NNP ._. ._.
+tHy_NNP dUn_NNP hAf_NNP iT_NNP tOo_NNP ._. ._.
+sO_NN ._. ._.
+wE_NNP waTCh_NNP ``_`` hM_NNP oN_NNP e_SYM raNgE_NNP ''_'' aT_NNP SUNTEC_NNP ._. ._.
+a_DT 5pM_NNP sHow_NNP ._. ._.
+i_FW pAy_FW 4_CD iT_NN ._.
+hE_NNP wOuLd_NNP n'T_NNP ._. ._.
+wAnnA_NNP pAy_NNP ._. ._.
+bUt_NN ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+i_FW sTiL_FW gOt_FW iT_FW ._. ._.
+hE_NNP sAy_NNP i_FW bRokE_NNP e_SYM rCd_NNP ._. ._.
+nO_NNP giRlS_NNP haS_NNP eVeR_NNP pAid_VBD a_DT moVie_NNP tiC_NNP 4_CD hIm_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+wHeN_NNP wE_NNP gOt_NNP e_SYM tiCx_NNP ,_, iT_NNP wAs_NNP oNly_NNP 3pM_NNP +_NNP +_NN ._. ._.
+sO_NN ._. ._.
+wE_NNP wALk_NNP aRD_NNP ._. ._.
+tHen_NNP dEciDed_NNP tO_NNP gO_NNP tO_NNP e_SYM sKy_FW gRd_FW n_FW siT_FW dW_FW ._. ._.
+sAw_NNP maNy_NNP cOupLeS_NNP tHeR_NNP ._. ._.
+sO_NNP pAisAy_NNP ._. ._.
+i_FW wHen_FW tO_FW e_SYM eDge_FW thEr_FW n_FW lOok_FW dW_FW ._. ._.
+hE_NNP sTaNd_NNP bsiDe_NNP mE_NNP ._. ._.
+tHen_NNP wE_NNP weNt_NNP tO_NNP sIt_NNP dW_NNP aT_NNP e_SYM cHaiRs_NNPS aT_NNP a_DT roUnD_NNP sHeLteR_NNP ._. ._.
+eRm_NNP ._. ._.
+noT_NNP a_DT veRy_NNP bIg_NNP cHaIr_NNP ._. ._.
+i_FW sat_VBD dw_NN n_NN i_FW gEsturE_NNP hIm_NNP tO_NNP siT_NNP bsIde_NNP ._. ._.
+sO_NN ._. ._.
+hE_NNP cAme_NNP n_VBD bsIde_NNP me_PRP ._. ._.
+wE_NNP weRe_NNP ._. ._.
+qUite_NNP cLose_NNP ._. ._.
+^_RB ^_CD toUcheD_NNP hIm_NNP oN_NNP sM_NNP ocCaSioN_NNP ._. ._.
+aS_NNP iN_NNP siTtiN_NNP rEaL_NNP cLosE_NNP n._NN ._. ._.
+ya_PRP ..._: i_FW bRouGht_NNP a_DT DriNk_NN ._. ._.
+bArLeY_NNP ._. ._.
+hE_NNP dUn_NNP liK_NNP ._. ._.
+bUt_NNP i_FW kiNd_NNP oF_NNP aSk_NNP hiM_NNP tO_NNP dRiNk_NNP ._. ._.
+n_JJ hE_NNP diD_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+sO_NN ._. ._.
+wE_VB sHaRe_NNP w_VB dRink_NNP ._. ._.
+^_RB ^_CD wE_NNP sAt_NNP theR_NNP tiL_NNP aRd_NNP 4.30_CD pM_NNP ._.
+cHattiN_NNP ._. ._.
+lAuGhiNg_NNP ._. ._.
+aNyThiN_NNP ._. ._.
+^_RB ^_CD tHen_NNP wE_NNP weNt_NNP tO_NNP bUy_NNP sM_NNP sWeeTs_NNP b4_CD gOin_NNP iNtO_NNP e_SYM thEaTrE_NNP ._. ._.
+iN_NNP e_SYM tHeAtrE_NNP ,_, moSt_NNP oF_NNP tHeM_NNP weRe_NNP kIds_NNP ._. ._.
+wiF_NNP paReNts_NNPS ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+sO_NNP sHy_NNP ._. ._.
+eRm_NNP ._. ._.
+nOt_NNP a_DT VerY_NNP nIce_NNP mOviE_NNP ._. ._.
+noT_NNP uP_NNP tO_NNP e_SYM sTanDaRd_NNP oF_NNP oTheR_NNP caRtOoN_NNP moVie_NNP liK_NNP ``_`` nEmO_NNP ''_'' &_CC ``_`` bRoTheR_NNP bEaR_NNP ''_'' ._. ._.
+yAh_NNP ._. ._.
+wE_NNP wenT_NNP tO_NNP bT_NNP ._.
+pJ_NNP pLaZa_NNP 4_CD diNnEr_NNP ._. ._.
+fOoDcOuRt_NNP ._. ._.
+i_FW eAt_FW cHicKen_NNP nOodLe_NNP ._. ._.
+hE_NNP eaT_NNP chIcKen_NNP rIce_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+tHen_NNP i_FW bRoUght_NNP e_SYM dRiNks_NNPS ._. ._.
+wHen_NNP i_FW rEtuRn_NNP tO_NNP ouR_NNP taBLe_NNP ._. ._.
+hE_NNP saId_NNP tAt_NNP nXt_NNP tImE_NNP mUz_NNP hE_NNP paY_NNP liAo_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+tHen_NNP hE_NNP sEnt_NNP mE_NNP hM_NNP ._. ._.
+waLk_NNP fR_NNP pLaZa_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+hE_NNP gaVe_NNP mE_NNP a_DT gEntLe_NNP pAt_NNP oN_NNP mY_NNP hEad_NNP wHeN_NNP i_FW eNteR_NNP e_SYM lifT_NNP ._. ._.
+i_FW soRt_FW oF_FW liK_FW hIm_FW ._. ._.
+i_FW aDmiT_NNP ._. ._.
+bUt_NN ._. ._.
+i_FW dUn_FW tHinK_NNP wE_NNP cAn_NNP b_NN 2gEthEr_NNP ._. ._.
+bUt_NN ._. ._.
+i_FW wiSh_FW wE_FW cAn_FW ._. ._.
+onLy_NNP tAt_NNP wE_NNP meT_NNP tOo_NNP laTe_NNP ._. ._.
+yAh_NNP ._. ._.
+hE_NNP loOk_NNP 4_CD mE_NNP ._. ._.
+mY_NNP bF_NNP ._.
+afT_NNP sO_NNP mAny_NNP DayS_NNP ._.
+hE_NNP sAy_NNP hE_NNP wAs_NNP aFraId_NNP tO_NNP lOok_NNP 4_CD mE_NNP aS_NNP hE_NNP iS_NNP aFrAiD_NNP tAt_NNP i_FW wiLL_NNP gEt_NNP anGrY_NNP ._. ._.
+4_CD hiM_NNP nOt_NNP feTcHiN_NNP mE_NNP afT_NNP wK_NNP etC._NNP ._.
+tHen_NNP i_FW aSk_NNP hiM_NNP sO_NNP he_PRP 'S_VBZ noT_JJ aFraId_NNP tAt_NNP i_FW wiLL_NNP gEt_NNP anGry_NNP nOw_NNP whEn_NNP hE_NNP cOntAct_NNP mE_NNP ._. ._.
+hE_NNP sAys_NNPS hE_NNP dUn_NNP cAre_NNP ._.
+iF_NNP hE_NNP sTil_NNP dO_NNP nOT_NNP cOntAcT_NNP mE_NNP hE_NNP 's_POS afRaiD_NNP oF_NNP loSin_NNP mE_NNP ._.
+yA_NN ._. ._.
+sO_NN ._. ._.
+i_FW wOke_FW uP_FW aT_FW 8aM_FW iN_FW e_SYM moRniNg_NNP ._. ._.
+gOin_NNP bAck_NNP tO_NNP sCh_NNP 4_CD mY_NNP ccA_NNP ._. ._.
+mY_NNP frEn_NNP ,_, D_NNP ,_, waIt_NNP 4_CD mE_NNP aT_NNP e_SYM bUs-sTOp_NNP wHer_NNP i_FW bOaRd_NNP mY_NNP bUs_NNP ._.
+hE_NNP aLreAdy_NNP aRRive_NNP wHen_NNP i_FW rEacH_NNP ._. ._.
+hE_NNP wAs_NNP tOo_NNP gD_NNP tO_NNP mE_NNP ._.
+iNfaCt_NNP ,_, ReaLLy_NNP gD_NNP ._.
+i_FW jUz_FW wAnnA_NNP bE_NNP nOrMaL_NNP fREn_NNP wiF_NNP hiM_NNP ._. ._.
+i_FW dUn1_FW tO_FW hUrt_FW hIs_FW feELin_NNP oR_NNP loSt_NNP oUr_NNP fRieNdsHip_NNP ._. ._.
+i_FW lOveS_FW e_SYM tIme_NNP wHen_NNP i_FW 'M_NNP wiF_NNP hIm_NNP ._. ._.
+hE_NNP aLwayZ_NNP maKe_NNP mE_NNP hAppY_NNP ._. ._.
+yaH_NNP ._. ._.
+tHen_NNP i_FW wEnt_NNP tO_NNP sCh_NNP ._. ._.
+hE_NNP wALk_NNP mE_NNP uP_NNP tOo_NNP ._. ._.
+meEtinG_NNP hIs_NNP fRen_NNP aT_NNP e_SYM cAnTeeN_NNP ._.
+tHen_NNP wHen_NNP i_FW wAs_NNP aBouT_NNP tO_NNP gO_NNP uP_NNP ,_, hE_NNP sAid_NNP ._. ._.
+``_`` wHer_NNP u_NNP wAn_NNP mE_NNP tO_NNP wAit_NNP 4_CD u_NN lAteR_NNP ?_.
+bUs-stOp_NN or_CC cAntEEn_NN ?_. ''_''
+i_FW hAd_FW a_DT sHocK_NNP ._.
+``_`` huH_NNP ?_.
+hE_NNP wAnnA_NNP cOme_NNP bK_NNP 4_CD mE_NNP ?_.
+4_CD wAt_NNP ?_. ''_''
+aS_NN i_FW wAs_FW aLreAdy_NNP lAte_NNP ,_, i_FW rePlieD_NNP ok_FW n_FW lEft_FW ._.
+hE_NNP sMs_NNP mE_NNP aT_NNP nOOn_NNP wHen_NNP mY_NNP cLasS_NNP wAs_NNP sUppOse_NNP tO_NNP fiN_NNP ._. ._.
+asKin_NNP mE_NNP tO_NNP tAke_NNP mY_NNP tIme_NNP ,_, hE_NNP wAit_NNP 4_CD mE_NNP at_IN e_SYM buS-sToP_NNP ._.
+hAd_NNP qUite_NNP a_DT fUn_NNP lEssOn_NNP 4_CD aRt_NNP 2Day_NNP ._. ._.
+nOt_NNP mUch_NNP tUrn_NNP uP_NNP tIs_NNP wK_NNP ._. ._.
+i_FW cOnt_FW mY_FW pAinTin_NN ._. ._.
+a_DT maN_NNP nAme_NNP `_`` kiT_NNP '_'' tHer_NNP wAs_NNP heLpiN_NNP ouT_NNP ._.
+wE_NNP hAd_NNP qUite_NNP a_DT eNjoYabLE_NNP leSSon_NNP ._.
+i_FW sHow_FW hIm_FW a_FW piC_FW oF_FW mY_FW o_FW lvL_FW pAinTiN_NNP wHicH_NNP i_FW wAs_NNP vEry_NNP pRouD_NNP of_IN ._.
+i_FW lEft_FW mY_FW cLasS_NNP at_IN 1230_CD ._.
+wEnT_NNP tO_NNP e_SYM bUs-stOp_JJ n_NN D_NNP wAs_NNP thEr_NNP ._.
+i_FW waS_FW hUnGrY_NNP ._. ._.
+hAveN_NNP hAd_NNP aNytHin_NNP siNce_NNP mORnIng_NNP ._.
+aCtuAllY_NNP wE_NNP dEciDed_VBD to_TO gO_VB tO_JJ TAKA_NNP n_NN eAt_NNP dèLifRaNce_NNP ._.
+bUt_NNP wHen_NNP wE_NNP r_NN aBoUt_NNP tO_NNP reACh_NNP ._. ._.
+hE_NNP sUggEsteD_NNP tO_NNP gO_NNP MS_NNP inSteAd_NNP ._.
+sAyiN_NNP thEr_NNP gOt_NNP e_SYM bUs_NNPS tO_NNP gO_NNP hM_NNP ._.
+yA_NN ._. ._.
+sO_NNP wE_NNP weNt_NNP to_TO MS._NNP wHEn_NNP wE_NNP r_NN oUtsiDe_NNP e_SYM MS_NNP dèLifRaNce_NNP ._. ._.
+hE_NNP toLd_NNP me_PRP ._. ._.
+``_`` iF_FW u_FW wAnNa_NNP eaT_NNP otHerS_NNP ,_, it_PRP 'S_VBZ fIne_JJ ._. ''_''
+\*_SYM hehE_NN \*_SYM ._. ._.
+hE_NNP ca_MD N't_RB rEaLLy_VB deCiDe_NNP waT_NNP tO_NNP eAt_NNP ._.
+bUt_NNP iN_NNP e_SYM eNd_FW ._. ._.
+,_, wE_NNP haD_NNP dèLifRaNce_NNP loR_NNP ._.
+aFt_NNP tAt_NNP ._. ._.
+wE_NNP weNt_NNP waLkiN_NNP aRd_NNP ._.
+wE_NNP wEnt_NNP to_TO SUNTEC_NNP gIordAnO_NNP ._.
+i_FW wAnnA_NNP geT_NNP a_DT nAvY_NNP gRn_NNP sHirT_NNP fR_NNP thEr_NNP ._.
+bUt_NNP tHy_NNP dO_NNP nOt_NNP hAf_NNP e_SYM sToCk_NNP anYmoRe_NNP ._.
+sO_NN ._. ._.
+i_FW waS_FW qUitE_NNP dIsAppOinTed_NNP ._.
+i_FW sAiD_FW ,_, ``_`` i_FW saW_FW TAKA_NNP thEr_NNP sTiL_NNP haF_NNP ..._: ''_'' tHeN_NNP hE_NNP aSk_NNP me_PRP iF_JJ i_FW wAnnA_NNP gO_NNP TAKA_NNP n_VBD fInd_NNP ._.
+i_FW saY_FW it_PRP 'S_VBZ ok_NN ._.
+i_FW 'LL_FW geT_FW iT_FW aNOtHer_NNP daY_NNP ._.
+wE_NNP wALk_NNP aRd_NNP tHeR_NNP n_VBD wEnt_NNP tO_NNP CITILINK_NNP ._.
+tHeR_NNP 's_POS a_DT gIoRdAnO_NNP thEr_NNP ._.
+n._NN ._.
+i_FW fOunD_NNP e_SYM sHirT_NNP tHer_NNP ._.
+i_FW lOok_FW At_IN it_PRP ._. ._.
+D_NNP teLL_NNP me_PRP nOt_NNP tO_NNP sTaRe_NNP aT_NNP iT_NNP tOo_NNP lOng_NNP ._.
+u_NNP Wun_NNP waNNa_NNP bUy_NNP aFt_NNP loOkiN_NNP aT_NNP oT_NNP 4_CD toO_NNP loNg_NNP ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+sO_NNP i_FW bRoUghT_NNP it_PRP n_VBD hE_NNP tooK_NNP iT_NNP 4_CD mE_NNP ._.
+yA_NN ._. ._.
+tHen_NNP aLso_NNP sHop_NNP arD_NNP tHer_NNP n_VBD wE_NNP lefT_NNP ._.
+aS_NNP usUaL_NNP ._. ._.
+,_, wE_NNP tOok_NNP 960_CD hM_NNP fr_NN thEr_NN ._.
+i_FW wAs_FW qUite_NNP tiRed_NNP ._.
+dUe_NNP tO_NNP e_SYM ReaSon_NNP taT_NNP i_FW waS_NNP wAtcHin_NNP a_DT mIdnitE_NNP sHow_NNP n_VBD i_FW wOke_FW uP_FW aT_FW 8aM_FW ._.
+sLepT_NNP foR_NNP oNly_NNP 5hRs_NNS ._.
+hE_NNP asK_NNP mE_NNP tO_NNP caTcH_NNP sM_NNP sLp_NNP ._. ._.
+wiLL_NNP wAke_NNP mE_NNP uP_NNP whEn_NNP wE_NNP reAch_NNP ._.
+i_FW nV_FW sLp_FW ._.
+noT_NNP uSe_NNP tO_NNP sLpin_NNP oN_NNP buSes_NNP ._.
+it_PRP 'S_VBZ sO_JJ sHakY_NN ._.
+wHen_NNP i_FW wAs_NNP aPproAcHin_NNP mY_NNP stoP_NNP ,_, i_FW waNna_NNP geT_NNP mY_NNP cLotHes_NNP fR_NNP hiM_NNP ._. ._.
+hE_NNP saY_NNP hE_NNP wiLL_NNP taKe_NNP it_PRP 4_CD mE_NN ._.
+erM_NNP ..._: i_FW teLL_FW hiM_FW thEr_NNP 's_POS nO_NNP neeD_NNP tO_NNP seNt_NNP mE_NNP hM_NNP ._.
+iT_NNP 's_POS stiL_NNP eArLy_NNP ._. ._.
+hE_NNP sAy_NNP doEsnT_NNP maTTeR_NNP ._. ._.
+sO_NN ._. ._.
+yA_NN ._. ._.
+hE_NNP dRoP_NNP e_SYM bUs_NNPS n_VBP wALk_NNP mE_NNP hM_NNP ._.
+giFin_NNP mE_NNP gEntLe_NNP pAt_NNP oN_NNP mY_NNP hEad_NNP ._. ._.
+asKin_NNP mE_NNP tO_NNP gO_NNP n_VBD cAtcH_NNP sM_NNP sLp_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+i_FW aDmiT_NNP i_FW dO_NNP hAf_NNP sM_NNP feELinGs_NNPS 4_CD hIm_NNP ._. ._.
+bUt_NN ._. ._.
+iT_NNP 's_POS tOo_NNP lAte_NNP ._. ._.
+i_FW 'M_FW aTtaCheD_NNP ._.
+wE_NNP mEt_NNP tOo_NNP lAte_NNP ._.
+dAy_NNP bY_NNP daY_NNP ._. ._.
+e_LS wOrLd_NNP cHanGeD_NNP ._. ._.
+pLe_NNP aLso_NNP cHanGeD_NNP ._.
+e_LS gReAteSt_NNP cHanGe_NNP ard_NN mE_NNP iS_NNP mY_NNP reLaTioNshIp_NNP wIf_NNP sUn_NNP ._. ._.
+yAh_NNP ._. ._.
+e_LS 4tH_NNP dAy_NNP wE_NNP nV_NNP cOntAcT_NNP eAch_NNP oThEr_NNP ._. ._.
+hE_NNP wAs_NNP oN_NNP mSn_NNP ._. ._.
+bUt_NNP nV_NNP lOOk_NNP 4_CD mE_NNP ._. ._.
+sO_NN ._. ._.
+i_FW nV_FW taKe_FW e_SYM IniTiatIvE_NNP tOo_NNP ._. ._.
+y_RB mUz_NNP i_FW aLwaYz_NNP bE_NNP e_SYM 1_CD loOkiN_NNP uP_NNP 4_CD hIm_NNP ._. ._.
+hE_NNP nV_NNP sMs_NNP mE_NNP toO_NNP ._. ._.
+-_: __SYM -_: hE_NNP doEs_NNP n'T_NNP lOoK_NNP e_SYM lEasT_NNP cOnCeRn_NNP bOut_NNP oUr_NNP rElAtiOnsHip_NNP ,_, hE_NNP wAs_NNP nOt_NNP e_SYM sUn_NNP i_FW uSeD_NNP tO_NNP noE_NNP ._.
+noW_NNP ,_, hE_NNP sLp_NNP tiL_NNP evEniNg_NNP ._. ._.
+oR_NNP evEn_NNP niTe_NNP ._.
+hE_NNP mIsseD_NNP a_DT loT_NNP oF_NNP ``_`` fEtcHiN_NNP Me_PRP ''_'' afT_NNP wK_NNP &_CC sCh_NNP ._.
+hE_NNP wAs_NNP lAte_NNP 4_CD oUr_NNP daTeS_NNP ._. ._.
+-LRB-_-LRB- cUz_NNP hE_NNP faLL_NNP asLp_NNP aFt_NNP i_FW wAkE_NNP hIm_NNP uP_NNP -RRB-_-RRB- ._. ._.
+i_FW dUn_FW uNdeRstAnd_NNP y_NNP hE_NNP cAn_NNP sLp_NNP sO_NNP mUch_NNP ._.
+yAh_NNP ._. ._.
+hE_NNP sLp_NNP at_IN 3_CD ,_, 4_CD am_VBP ._. ._.
+y_RB ?_.
+y_RB ca_MD N't_RB hE_VB gO_NNP tO_NNP bEd_NNP eArLieR_NNP n_VBD wAke_NNP uP_NNP eArLy_NNP ?_.
+y_RB ?_.
+y_RB cA_NNP n't_RB hE_VBD dO_NNP taT_NNP ?_.
+tHen_NNP hE_NNP wiLL_NNP hAf_NNP moRe_NNP tIme_NNP iN_NNP e_SYM daY_NNP tO_NNP dO_NNP hIs_NNP tHinGy_NNP ._. ._.
+it_PRP 'S_VBZ 4_CD hiS_NNP oWn_NNP gD_NNP tOo_NNP ._. ._.
+hE_NNP noEs_NNP tAt_NNP i_FW dIsLikE_NNP iT_NNP ._. ._.
+,_, bUt_NNP hE_NNP nV_NNP cHanGe_NNP ._.
+eVen_NNP iF_NNP hE_NNP weNt_NNP tO_NNP e_SYM bUs-sTop_JJ n_NN fEtcH_NNP me_PRP ._. ._.
+iT_NNP wiLL_NNP bE_NNP hIm_NNP juZ_NNP wAkiN_NNP up_RB ._. ._.
+tHen_NNP rUnniNg_NNP 2wArdS_NNP e_SYM bUs-StoP_NNP ._.
+oR_NNP eLse_NNP ,_, hE_NNP wilL_NNP bE_NNP laTe_NNP ._.
+AgaIn_RB ._.
+wE_NNP nV_NNP taLk_NNP mUch_NNP whEn_NNP wE_NNP wALk_NNP hM_NNP e_SYM lAst_RBS feW_JJ tIme_NNP whEN_NNP hE_NNP caMe_NNP tO_NNP feTcH_NNP mE_NNP ._.
+jUz_NNP waLk_NNP n_VBD wAlK_NNP tiL_NNP i_FW rEacH_NNP hM_NNP ._.
+n_JJ hE_NNP nV_NNP cOme_NNP iNtO_NNP mY_NNP hSe_NNP aNymoRe_NNP ._.
+hE_NNP nV_NNP lOOk_NNP uP_NNP fR_NNP dWstAiRs_NNP aNymoRE_NNP ._.
+hE_NNP cHanGeD_NNP ._.
+i_FW dUn_FW wAn_FW hIm_FW tO_FW bE_FW liK_FW tiS_FW ._.
+i_FW wAn_FW e_SYM oLd_NNP sUn_NNP ._.
+i_FW waN_FW hIm_FW tO_FW noT_FW sLp_FW sO_FW mucH_FW ._.
+i_FW wAn_FW hiM_FW tO_FW tUrn_FW iN_FW eaRly_NNP ._. ._.
+iN_NNP tIs_NNP waY_NNP ._. ._.
+hE_NNP wUn_NNP bE_NNP sLpiN_NNP liK_NNP zHu_NNP dUrInG_NNP e_SYM dAy_NNP ._.
+i_FW Wan_FW hIm_FW tO_FW lOvE_NNP &_CC cAre_NNP 4_CD mE_NNP liK_NNP hE_NNP wAs_NNP In_IN e_SYM pAst_NNP ._.
+i_FW waN_FW hIm_FW tO_FW sPeNt_NNP mOre_NNP tIme_NNP wIf_NNP mE_NNP ._.
+i_FW wAnteD_NNP hIm_NNP tO_NNP bE_NNP wIf_NNP mE_NNP sO_NNP dEaRLy_NNP ._. ._.
+bUt_NN ..._: ._.
+yeSt_NNP aFt_NNP sCH_NNP ._. ._.
+i_FW wEnt_FW oUt_FW wiF_FW D._NNP ._.
+MS._NNP ._.
+4_CD a_DT mOviE_NNP ._. ._.
+caTcH_NNP e_SYM laTeSt_NNP sPiDeRmaN_NNP ._. ._.
+wE_NNP fiN_NNP sCh_NNP aT_NNP arD_NNP 5pM_NNP ._. ._.
+theN_NNP iT_NNP wAs_NNP onLy_NNP 5pM_NNP +_NNP wHen_NNP wE_NNP reAcH_NNP tHer_NNP ._. ._.
+n_NN e_SYM nXt_NNP sHow_NNP wiL_NNP bE_NNP aT_NNP 9.45_CD pM_NNP ._.
+sO_NN ._. ._.
+wE_NNP goT_NNP taT_NNP tiMe_NNP sLot_NNP ._. ._.
+n_JJ wE_NNP 've_VBP gOt_VBN 3hRs_NNS b4_VBP e_SYM sHoW_NNP sTaRts_NNPS ._. ._.
+sO_NNP wE_NNP weNt_NNP waLkin_NNP aRd_NNP ._. ._.
+wE_NNP weNt_NNP to_TO raFfLes_NNP ciTy_NNP ._. ._.
+sAw_NNP ouR_NNP cLasSmaTe_NNP ,_, sHeRiLyN_NNP ,_, aLOnE_NNP tHeR_NNP ._. ._.
+hE_NNP sAw_NNP mUsiC_NNP stORe_NNP tHeN_NNP waNnA_NNP gO_NNP iN_NNP sEe_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+stiL_NNP loOkiN_NNP 4_CD boA_NNP 's_POS nEw_NNP aLbuM_NNP ._. ._.
+eRm_NNP ._. ._.
+bUt_NN ._. ._.
+saMe_NNP reSuLt_NNP ._. ._.
+nOt_NNP oUt_NNP yeT_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+theN_NNP hE_NNP sAy_NNP bCuZ_NNP oF_NNP mE_NNP loR_NNP ._. ._.
+cUz_NNP eVerYtImE_NNP hE_NNP waNnA_NNP gO_NNP iNtO_NNP a_DT CD_NNP sTorE_NNP ._. ._.
+i_FW wiLL_FW sAy_FW ._. ._.
+``_`` nO_NNP nEed_NNP ._. ._.
+noT_NNP oUt_NNP yEt_NNP ''_'' ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+aFt_NNP taT_NNP wE_NNP aCtUaLLy_NNP waNteD_NNP tO_NNP gO_NNP tO_NNP e_SYM eSpLaNadE_NNP tO_NNP haF_NNP a_DT dRinK_NNP ._. ._.
+bUt_NNP duNno_NNP y_NNP wE_NNP nV_NNP gO_NNP iN_NNP ._. ._.
+wE_NNP weRe_NNP waLkin_NNP behInd_NNP tHer_NNP ._. ._.
+wiF_NNP e_SYM viEw_NNP oF_NNP e_SYM seA_FW n_FW e_SYM sUn_NNP waS_NNP seTtiNg_NNP ._. ._.
+\*_SYM bEauTifuL_NNP \*_SYM ._. ._.
+i_FW waS_FW waTcHin_NNP e_SYM sEa_NNP &_CC sKy_NNP ._. ._.
+taKiN_NNP piCs_NNP oF_NNP tHeM_NNP wiF_NNP mY_NNP pHoNe_NNP ._. ._.
+tHeN_NNP wE_NNP juZ_NNP cOnt_NNP tO_NNP waLk_NNP n_VBD walK_NNP ._. ._.
+iN_NN e_SYM eNd_FW ._. ._.
+wE_NNP waLk_NNP tiL_NNP mAriNa_NNP pArK_NNP le_FW ._. ._.
+wE_NNP waLk_NNP reAlly_NNP lOnG_NNP &_CC faR_NNP aWaY_NNP tO_NNP e_SYM moRe_NNP sEcLuDed_VBD aRea_NNP ._. ._.
+nOt_NNP mUcH_NNP pLe_NNP tHer_NNP eXp_NNP sM_NNP pLe_NNP jOgGin_NNP &_CC fiShiN_NNP ._. ._.
+wE_NNP sTarTed_VBD ouT_NNP wHen_NNP e_SYM sKy_NNP iS_NNP stiL_NNP bRigHt_NNP ._. ._.
+bUt_NNP gEneRaLLy_NNP nIte_NNP faLLs_NNP ._. ._.
+wE_NNP haD_NNP sM_NNP cOnVeRsaTioN_NNP whiLe_NNP wE_NNP walK_NNP ._. ._.
+teAsiN_NNP eAcH_NNP oTheR_NNP ._. ._.
+tiCkLiN_NNP hiM_NNP wHeN_NNP hE_NNP maKe_NNP fuN_NNP oF_NNP mE_NNP ._. ._.
+-LRB-_-LRB- hE_NNP iS_NNP rEaLLy_NNP aFraId_NNP oF_NNP tiCkLeS_NNP ._. ._. -RRB-_-RRB-
+oCaSsiOnaLLy_NNP ,_, hE_NNP pUt_NNP hIs_NNP aRm_NNP aRd_NNP mY_NNP waIst_NNP ._. ._.
+^_RB ^_CD wE_NNP toOk_NNP a_DT sEat_NNP aT_NNP e_SYM pArK_NNP cHaiR_NNP wHen_NNP wE_NNP r_NN tiReD_NNP ._. ._.
+-LRB-_-LRB- aLso_NNP fEeDin_NNP e_SYM mOsqUitoEs_NNPS ._. ._. -RRB-_-RRB-
+\*_SYM hAha_NN \*_SYM ._. ._.
+i_FW wAs_FW qUitE_NNP reLaX_NNP aS_NNP hE_NNP iS_NNP cArrYin_NNP mY_NNP bAg_NNP 4_CD mE_NNP ._. ._.
+^_RB ^_CD i_FW wAnNa_NNP caRrY_NNP iT_NNP mYseLf_NNP 1_CD bUt_NNP it_PRP 'S_VBZ hiM_NNP wHo_NNP iNsiSteD_NNP it_PRP ._.
+wE_NNP wEnT_NNP tO_NNP yOshInOyA_NNP 4_CD dInnEr_NNP ._. ._.
+hE_NNP waNnA_NNP gEt_NNP iT_NNP bUt_NNP iN_NNP e_SYM eNd_NNP gAve_NNP Me_PRP $_$ 10_CD n_NN aSk_NNP mE_NNP tO_NNP bUy_NNP 4_CD hiM_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+yA_NN ._. ._.
+hE_NNP aTe_NNP beEf_NNP &_CC saLmOn_NNP bOwL_NNP ._. ._.
+i_FW aTe_FW tErIyaKi_FW cHiCkeN_NNP bOwL_NNP ._. ._.
+sHaRe_VB a_DT cUp_NNP oF_NNP leMoN_NNP teA_NNP ._. ._.
+^_RB ^_CD aFt_NNP oUr_NNP diNneR_NNP ._. ._.
+wE_NNP wEnt_NNP tO_NNP SUNTEC_NNP le_FW ._. ._.
+4_CD oUr_NNP mOvIe_NNP ._. ._.
+e_LS tHeAtRe_NNP wAs_NNP kiNd_NNP oF_NNP cOLd_NNP ._. ._.
+i_FW wAs_FW laZy_FW tO_FW taKe_FW oUt_FW mY_FW jaCkeT_NNP ._. ._.
+toT_NNP mAyb_NNP tiS_NNP caN_NNP bE_NNP a_DT cHanCe_NNP 4_CD hIm_NNP tO_NNP hoLd_NNP mY_NNP hAnD_NNP buT_NNP hE_NNP nV_NNP ._.
+e_LS mOvIe_NNP wAs_NNP qUitE_NNP fRigHteNinG_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+cUz_NN it_PRP 'S_VBZ liK_JJ veRy_NNP wOrrYiN_NNP ._. ._.
+sO_NN i_FW wAs_FW sCarE_FW n_FW e_SYM sOunD_NNP eFfeCt_NNP maKe_NNP mE_NNP jUmP_NNP ._. ._.
+aFt_NNP e_SYM mOvIe_NNP ._. ._.
+hE_NNP waNna_NNP gO_NNP tO_NNP e_SYM wAshRoOm_NNP ._. ._.
+buT_NNP e_SYM laDieS_NNP liGhtS_NNP waS_NNP oFf_NNP le_FW ._. ._.
+i_FW waLked_NNP tHer_NNP ._. ._.
+sTaRe_NNP iN_NNP ._. ._.
+cOmpLetE_NNP dArkNeSs_NNPS ._. ._.
+sO_NN i_FW tuRn_FW mY_FW baCk_FW n_FW dEciDed_VBD nOt_NNP tO_NNP gO_NNP iN_NNP ._. ._.
+D_NNP saW_NNP iT_NNP ._. ._.
+tHeN_NNP hE_NNP aLsO_NNP duN1_NNP tO_NNP gO_NNP tO_NNP e_SYM gEntS_NNP le_FW ._. ._.
+sO_FW wE_FW juZ_FW geT_FW dw_FW n_FW tOok_FW a_DT caB_NNP hM_NNP ._. ._.
+hE_NNP seNt_NNP mE_NNP hM_NNP ._. ._.
+tiL_NNP mY_NNP hSe_NNP ._. ._.
+sTanD_NNP sMwhEr_NNP bsIde_NNP mE_NNP wHen_NNP i_FW oPen_NNP mY_NNP dOorS_NNP ._. ._.
+i_FW waLkeD_NNP ovEr_NNP n_VBD aSk_NNP hiM_NNP tO_NNP gO_NNP buT_NNP hE_NNP saY_NNP nVm_NNP ._. ._.
+hE_NNP wiLL_NNP waTcH_NNP mE_NNP gO_NNP iN_NNP ._. ._.
+sO_NNP i_FW jUz_NNP wiSh_NNP hIm_NNP gD_NNP luCk_NNP iN_NNP e_SYM seLecTioN_NNP ._. ._.
+wE_NNP nV_NNP taLk_NNP oN_NNP e_SYM pHonE_NNP taT_NNP niTe_NNP ._. ._.
+mY_NNP bF_NNP waS_NNP oVer_NNP aT_NNP mY_NNP hSe_NNP ._. ._.
+aCtuAlly_RB asKed_VBN hiM_NNP tO_NNP waIt_NNP buT_NNP i_FW gUesS_NNP hE_NNP iS_NNP tOo_NNP sLpy_NNP ._. ._.
+hE_NNP feLL_NNP aSlp_NNP ._. ._.
+bUt_NNP hE_NNP mSg_NNP mE_NNP iN_NNP e_SYM moRniN_NNP ._. ._.
+tHeN_NNP caLL_NNP mE_NNP wHeN_NNP i_FW wOke_NNP uP_NNP ._. ._.
+dUrinG_NNP hiS_NNP bRk_NNP ._. ._.
+^_RB ^_CD mY_NNP bF_NNP wAs_NNP oVeR_NNP aT_NNP mY_NNP hSe_NNP diScUssIn_NNP boUt_NNP uS_NNP ._. ._.
+hE_NNP sEeM_NNP vEry_NNP uNhaPpY_NNP aT_NNP taT_NNP tiMe_NNP ._. ._.
+bUt_NNP hE_NNP wiLL_NNP liK_NNP mOoD_NNP sWinG_NNP ._. ._.
+a_DT wHiLe_NNP laTeR_NNP wiLL_NNP taKe_NNP it_PRP aS_VBZ noThiN_NNP haPpEn_NNP ._. ._.
+\*_SYM siGhz_NN \*_SYM ._. ._.
+tHen_NNP hE_NNP iS_NNP liK_NNP waNna_NNP a_DT bRk-uP_NNP ._. ._.
+tHen_NNP e_SYM nXt_NNP mOmeNt_NNP hE_NNP wiLL_NNP teLL_NNP mE_NNP hE_NNP dUn_NNP reAlly_NNP waNnA_NNP loSe_NNP mE_NNP ._. ._.
+\*_SYM haIz_NN \*_SYM ._. ._.
+iT_NNP waS_NNP aRd_NNP miDniTe_NNP ._. ._.
+1aM_JJ +_NN ._. ._.
+i_FW caLLeD_NNP hiM_NNP ._. ._.
+hE_NNP taLkeD_NNP oN_NNP e_SYM pHoNe_NNP eVerYnIte_NNP ._. ._.
+^_RB ^_CD sMtiMe_NNP hE_NNP caLL_NNP ._. ._.
+sMtImE_NNP i_FW cAll_NNP ._. ._.
+wE_NNP cHaT_NNP oN_NNP mSn_NNP eVeRynIte_NNP tOo_NNP ._. ._.
+bUt_NNP hE_NNP sOunD_NNP sOrt_NNP oF_NNP uNhaPpY_NNP ._. ._.
+i_FW nOe_FW y_FW tOo_FW ._. ._.
+aFt_NNP hoLdiN_NNP mY_NNP haNd_NNP tHingY_NNP ._. ._.
+hiS_NNP rEpLy_NNP waS_NNP sO_NNP sHoRt_NNP ._. ._.
+tHeN_NNP hE_NNP aSk_NNP iF_NNP hE_NNP cOuLd_NNP caLL_NNP mE_NNP ._. ._.
+i_FW aNS_FW yeS_FW bUt_FW teLL_FW hIm_FW tAt_FW i_FW wiLl_NNP cAll_NNP hiM_NNP iNsteAd_NNP ._. ._.
+sO_NNP aFt_NNP i_FW sHut_NNP dW_NNP mY_NNP laPpY_NNP ._. ._.
+paCkeD_NNP mY_NNP baG_NNP ._. ._.
+wAsh_NNP uP_NNP ._. ._.
+i_FW rEtUrN_NNP tO_NNP mY_NNP rM_NNP ,_, ofF_NNP e_SYM LigHts_NNPS ,_, liE_NNP oN_NNP e_SYM bEd_FW n_FW i_FW caLL_FW hiM_FW ._. ._.
+yA_NN ._. ._.
+wE_NNP taLk_NNP fR_NNP aRd_NNP 1aM_NNP tO_NNP 3aM_NNP +_NN ._. ._.
+eRm_NNP ._. ._.
+qUieT_NNP moSt_NNP oF_NNP e_SYM tImE_NNP ._. ._.
+i_FW duNNo_FW waT_FW tO_FW sAy_FW n_FW hE_FW tOo_FW ._. ._.
+kEpt_NNP qUieT_NNP ._. ._.
+tHen_NNP hE_NNP kEeP_NNP saYiN_NNP tiS_NNP ._. ._.
+``_`` cAn_NN i_FW aSk_FW u_FW 1_CD qN_NNP ?_.
+bUt_NNP u_NNP mUz_NNP pRomIsE_NNP nOt_NNP tO_NNP bE_NNP aNgRy_NNP ._. ._. ''_''
+nOt_NNP kNowiN_NNP wAt_NNP hE_NNP waNna_NNP aSk_NNP sO_NNP i_FW rePly_NNP hiM_NNP saYin_NNP tAt_NNP i_FW sHaLL_NNP sEe_NNP n_VBD aSkeD_NNP hiM_NNP tO_NNP aSk_NNP loR_NNP ._. ._.
+tHen_NNP hE_NNP nV_NNP aSk_NNP ._. ._.
+\*_SYM sIgHz_NN \*_SYM ._. ._.
+hE_NNP rEpEateD_NNP taT_NNP qN_NNP 4_CD quItE_NNP a_DT few_JJ tiMe_NNP ._. ._.
+aLsO_NNP e_SYM sAmE_NNP ._. ._.
+nV_NNP aSk_NNP ._.
+\*_SYM siGhZ_NN \*_SYM ._. ._.
+tHeN_NNP fiNaLLy_NNP ._. ._.
+hE_NNP pIcKeD_NNP hiS_NNP cOuRaGE_NNP n_VBD aSk_NNP e_SYM qN_NNP hE_NNP hAs_NNP bEeN_NNP waNtiN_NNP tO_NNP asK_NNP ._.
+hE_NNP aSkeD_NNP ``_`` y_FW diD_FW u_FW nOt_FW aLLow_NNP mE_NNP tO_NNP hoLd_NNP uR_NNP haNd_NNP ?_. ''_''
+oR_NN ``_`` dO_NNP u_NNP mInd_NNP mE_NNP hoLdiN_NNP uR_NNP haNd_NNP ?_. ''_'' ._. ._.
+sMtn_NNP liK_NNP taT_NNP ._. ._.
+i_FW aSk_FW hiM_FW dOeS_FW hE_FW mEaN_FW e_SYM eArLiEr_NNP haPpEninG_NNP n_VBD hE_NNP toLd_NNP mE_NNP aLSo_NNP a_DT feW_NNP otHeR_NNP tiMe_NNP b4_NN ._.
+i_FW guEss_NNP tAt_NNP tiMe_NNP aT_NNP e_SYM sCott_NNP uNderPaSs_NNP ._. ._.
+hE_NNP rEaLLy_NNP dId_NNP wAn_NNP tO_NNP hOld_NNP mY_NNP hAnD_NNP wHen_NNP hE_NNP wAnteD_NNP tO_NNP tUrN_NNP aWay_NNP n_VBD i_FW hoLd_FW hIm_FW bK_FW ._. ._.
+tHen_NNP tHeR_NNP wAs_NNP oNce_NNP aT_NNP MS._NNP ._.
+e_LS 1_CD tAt_NNP hE_NNP sPokE_NNP sO_NNP loUdLy_NNP tAt_NNP i_FW waNteD_NNP tO_NNP jOin_NNP e_SYM cIndEreLLa_NNP cOmP_NNP ._.
+i_FW tOoK_FW hIs_FW aRm_FW n_FW waLk_FW aWaY_FW fR_FW tHeR_FW ._. ._.
+i_FW toLd_FW hIm_FW tAt_FW 4_CD e_SYM tHinG_NNP taT_NNP haPPen_NNP aT_NNP e_SYM cRoSsrOaD_NNP juZ_NNP noW_NNP ._. ._.
+i_FW wAs_FW liK_FW ._. ._.
+``_`` duNnO_NNP ''_'' ._. ._.
+i_FW onLy_FW rEaLisE_NNP wHen_NNP hE_NNP sAiD_NNP ._. ._.
+``_`` nOtHin_NNP ._. ._.
+nVm_NNP ._. ._. ''_''
+tHeR_NNP wAs_NNP a_DT loTz_NNP oF_NNP `_`` siLeNt_NNP '_'' iN_NNP bEtweEn_NNP ._. ._.
+it_PRP 'S_VBZ liK_NNP i_FW duNnO_NNP waT_NNP tO_NNP saY_NNP ._. ._.
+hE_NNP alSo_NNP tHinKin_NNP oF_NNP liK_NNP hoW_NNP tO_NNP coNt_NNP e_SYM cOnvErsAtIon_NNP bA_NNP ._. ._.
+tHeN_NNP hE_NNP sAy_NNP tHeR_NNP iS_NNP aNotHeR_NNP tHinGy_NNP ._. ._.
+n_FW hE_FW hAs_FW nV_FW aSk_FW sM1_FW tiS_FW qN_FW b4_FW ._. ._.
+thEn_NNP hE_NNP mUmbLe_NNP sMtn_NNP ._. ._.
+i_FW sOrt_FW oF_FW liK_FW heAr_FW aBit_FW oNly_FW ._. ._.
+hE_NNP saId_NNP ''_'' ^_NN '_'' -_: oe欢你_NN ''_'' ._. ._.
+i_FW ``_`` huH_NNP ?_. ''_''
+hE_NNP nV_NNP aNs_NNP ._. ._.
+tHen_NNP i_FW toLd_NNP hiM_NNP i_FW cA_NNP n'T_NNP hEaR_NNP hiM_NNP ._. ._.
+sO_NN ._. ._.
+hE_NNP sAiD_NNP aGaIn_NNP ._. ._. ''_''
+^_NN '_'' -_: oe欢你_NN ''_'' ._. ._.
+i_FW kEpt_FW qUiEt_NNP ._. ._.
+i_FW duNno_NNP wAt_NNP tO_NNP saY_NNP ._. ._.
+bUt_NNP i_FW wAs_NNP vEry_NNP haPpY_NNP iNsiDe_NNP mY_NNP heArT_NNP ._. ._.
+tHeN_NNP hE_NNP aSk_NNP mE_NNP tO_NNP juZ_NNP teLL_NNP hiM_NNP mY_NNP aNs_NNP ._. ._.
+yEs_NNS oR_VBP nO._NNP hE_NNP cAn_NNP tAkE_NNP iT_NNP oNe_NNP ._. ._.
+i_FW wAs_FW N't_FW sUre_FW boUt_FW hIs_FW qN_FW ._.
+sO_NNP i_FW aSk_NNP hiM_NNP waT_NNP dO_NNP hE_NNP mEan_NNP bY_NNP yEs_NNP oR_NNP nO._NNP tHeN_NNP hE_NNP nV_NNP rEaLLy_NNP aNs_NNP mE_NNP mY_NNP qN_NNP ._.
+hE_NNP saId_NNP ._. ._.
+``_`` y_FW nOt_FW pUt_FW iT_FW tiS_FW wAy_FW ._. ._.
+tAkE_NNP yeS_NNP tO_NNP aLL_NNP n_VBD nO_NNP tO_NNP aLL_NNP ._. ._. ''_''
+oK_NN ._. ._.
+i_FW gUeSs_FW i_FW gOt_FW e_SYM iDeA_NNP pRettY_NNP weLL_NNP le_FW ._. ._.
+iT_NNP 's_POS liK_NNP ._. ._.
+,_, yEs_NNP tO_NNP bE_NNP wiF_NNP hIm_NNP oR_NNP nO_NNP tO_NNP nOt_NNP tO_NNP ._.
+aFt_IN a_DT veRy_NNP lOng_NNP pAusE_NNP ,_, i_FW aNswEreD_NNP hiM_NNP ._. ._.
+``_`` i_FW duN1_FW tO_FW sAy_FW a_FW yeS_FW oR_FW nO._FW y_FW nOt_FW wE_FW cOnt_FW tiS_FW waY_FW n_FW wE_FW sHaLL_NNP sEe_NNP aS_NNP e_SYM tiMe_NNP gOEs_NNP ._. ._.
+i_FW 'M_FW nOt_FW teLLin_FW u_FW a_DT nO._NNP ._. ''_''
+hE_NNP uNdeRsTanD_NNP i_FW gUesS_NNP ._. ._.
+i_FW reAlly_NNP dUnNo_NNP hOw_NNP tO_NNP rePly_NNP hIm_NNP ._. ._.
+i_FW gUesS_NNP hE_NNP diD_NNP n't_RB nOE_VBD tAt_NNP i_FW 'vE_NNP gOt_NNP a_DT bF_NNP nOw_NNP ._. ._.
+i_FW dUn1_FW tO_FW loSe_FW hiM_FW ._. ._.
+rEaLLy_NNP ._. ._.
+i_FW reAlly_NNP hOpE_NNP tAt_NNP sM1_NNP cOuLd_NNP giF_NNP mE_NNP sM_NNP aDvIcE_NNP oN_NNP wAt_NNP wE_NNP shLd_NNP Do_VBP ._. ._.
+aFt_NNP sOrTin_NNP oUt_NNP aLL_NNP tiS_NNP ._. ._.
+wE_NNP weRe_NNP liK_NNP mUcH_NNP mOrE_NNP bEtteR_NNP ._. ._.
+tHen_NNP i_FW aSk_NNP hiM_NNP iS_NNP tiS_NNP e_SYM pRoB_NNP hE_NNP hAs_NNP beEn_NNP tHinKin_NNP aLL_NNP e_SYM wHiLe_NNP ._. ._.
+hE_NNP toLd_NNP mE_NNP hE_NNP sTil_NNP gOt_NNP hiS_NNP peRsOnaL_NNP pRob_NNP ._.
+hE_NNP aSk_NNP mE_NNP nOt_NNP tO_NNP aSk_NNP y_NNP tHen_NNP hE_NNP liSt_NNP oUt_NNP hiS_NNP pRob_NNP tO_NNP mE_NNP ._.
+mE_NN ._.
+SAS_NNP bb_NN teAm_NN ._.
+nAtiOnAl_NNP Bb_NNP teAm_NNP ._.
+piAnO_NNP ._.
+gOin_NNP bk_NNP tO_NNP e_SYM sTatEs_NNPS ._.
+i_FW aSk_FW hiM_FW cAn_FW i_FW Ask_FW y._FW hE_FW aSk_FW mE_FW waT_FW dO_FW i_FW wAn_FW tO_FW aSk_FW ._.
+i_FW diD_FW n'T_FW aSk_FW hIm_FW bOut_FW mE_FW buT_FW e_SYM rEst_NNP ._.
+hE_NNP iS_NNP gOin_NNP 4_CD a_DT seLeCtiOn_NNP tiS_NNP sAt_NNP 4_CD e_SYM nAtiOnaL_NNP bB_NNP tEaM_NNP ._.
+i_FW aSk_FW iF_FW hE_FW wAnteD_NNP tO_NNP geT_NNP iNtO_NNP e_SYM teAm_NNP ._.
+hE_NNP saY_NNP dUnnO_NNP ._. ._.
+iF_NNP hE_NNP gOt_NNP iN_NNP ,_, tAt_NNP mEanS_NNP tAt_NNP hE_NNP wiLL_NNP nO_NNP lOnGer_NNP hAf_NNP tiMe_NNP 4_CD hIs_NNP piAnO_NNP ._.
+tRaiNiN_NNP wiLL_NNP bE_NNP aT_NNP nItE_NNP ._.
+aFt_NNP sCh_NNP ._.
+sO_NNP iT_NNP iS_NNP liK_NNP mOrnIn_NNP gO_NNP sCh_NNP ,_, aFt_NNP taT_NNP gO_NNP tRaIniN_NNP ,_, tHen_NNP rEtuRn_NNP hM_NNP wiLL_NNP bE_NNP sO_NNP lAte_NNP taT_NNP hE_NNP wiLL_NNP jUz_NNP waSh_NNP uP_NNP n_VBD gO_NNP sLP_NNP le_FW ._.
+hE_NNP wUn_NNP haF_NNP tiMe_NNP 4_CD mE_NNP le_FW i_FW gUesS_NNP ._. ._.
+i_FW dUnnO_FW ._.
+i_FW wAntEd_NNP sM1_NNP tO_NNP pEi_NNP mE_NNP aLL_NNP e_SYM wHiLe_NNP ._. ._.
+wHen_NNP i_FW neEd_NNP hIm_NNP ._. ._.
+tHeN_NNP bcUz_NNP hiS_NNP O_NNP lvL_NNP reSuLt_NNP waS_NNP n't_RB sO_VBD gD_NNP ._.
+hiS_NNP gRdpaRentS_NNP haD_NNP acTuaLLy_NNP waNteD_NNP hiM_NNP bk_NNP tO_NNP e_SYM sTateS_NNPS ._.
+buT_NNP aFt_NNP taT_NNP hE_NNP plAyeD_NNP Bb_NNP 4_CD SAS_NNP ._. ._.
+tAt_NNP 's_POS y_JJ tHy_NNP kInD_NNP oF_NNP liK_NNP feeL_NNP taT_NNP it_PRP 'S_VBZ sTil_JJ oK_NNP sIncE_NNP hE_NNP diD_NNP sMtN_NNP rELateD_NNP tO_NNP e_SYM aMeRiCanS_NNPS ._.
+tHen_NNP nOw_NNP if_IN hE_NNP joIn_NNP e_SYM nAtiOnaL_NNP teAm_NNP ._. ._.
+hE_NNP wUn_NNP haF_NNP tiMe_NNP 4_CD SAS_NNP le_FW ._. ._.
+dUnnO_NNP hoW_NNP hIs_NNP gRdpAreNtS_NNP iS_NNP gOiN_NNP tO_NNP feEl_NNP ._. ._.
+\*_SYM sIghZ_NN \*_SYM ._. ._.
+yA_NN ._. ._.
+sO_NNP hiS_NNP pRob_NNP r_NN aLL_NNP liK_NNP iNteR-reLaTeD_NNP ._. ._.
+wE_NNP eNdeD_NNP oUr_NNP cOnvErsAtiOn_NNP aT_NNP 3aM_NNP +_NN ._.
+hE_NNP saY_NNP hE_NNP wiLL_NNP gO_NNP sLp_NNP a_DT littLe_NNP wHiLe_NNP laTer_NNP wHiCh_NNP hE_NNP diD_NNP n't_RB dO_VBD sO_NNP ._.
+hE_NNP wAtcH_NNP hiS_NNP fiSh_NNP sWim_NNP ._. ._.
+tHen_NNP wEnt_NNP tO_NNP e_SYM tOiLet_NNP aT_NNP 7aM_NNP ._. ._.
+feLL_NNP aSlp_NNP iN_NNP thEr_NNP ._. ._.
+tHinK_NNP hE_NNP iS_NNP rEaLLy_NNP bOthEreD_NNP bY_NNP iT_NNP ._.
+1hr_CD oF_NNP sLp_NNP n_VBD hE_NNP gOt_NNP tO_NNP gO_NNP tO_NNP sCh_NNP ._. ._.
+tHeN_NNP i_FW sCh_NNP 2dAy_NNP ._. ._.
+hE_NNP wEnt_NNP dW_NNP tO_NNP lUncH_NNP wIf_NNP mY_NNP gP_NNP oF_NNP giRLz_NNP ._. ._.
+i_FW aSk_FW hiM_FW tO_FW jOin_FW 1_CD ._. ._.
+wE_NNP uSuaLLy_NNP wE_NNP gOt_NNP 5_CD giRls_NNS mA_NNP ._. ._.
+tHen_JJ 2_CD wAs_NNS aBseNt_NNP 2daY_NNP ._. ._.
+sO_NN ._. ._.
+^_RB ^_CD hE_NNP cAmE_NNP aLonG_NNP loR_NNP ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+aFt_NNP sCh_NNP ._. ._.
+hE_NNP sEnt_NNP mE_NNP hm_NN ._. ._.
+tiS_NNP tiMe_NNP iS_NNP noT_NNP tiL_NNP e_SYM vOid-dEck_NNP le_FW ._. ._.
+hE_NNP waLk_NNP mE_NNP uP_NNP tO_NNP mY_NNP uNit_NNP le_FW ._. ._.
+wE_NNP weNt_NNP tO_NNP cEntRepOiNt_NNP aFt_NNP sCh_NNP 2dAy_NNP ._. ._.
+i_FW waN_FW eaT_FW McD_FW mA_FW ._. ._.
+wE_NNP wAlKed_NNP fR_NNP faR_NNP eaSt_NNP tO_NNP thEr_NNP ._. ._.
+wEnt_NNP tO_NNP HEREEN_NNP hMv_NNP 1sT_NNP ._. ._.
+hE_NNP wAnNA_NNP cHecK_NNP oUt_NNP hiS_NNP BOA_NNP 's_POS nEw_NNP aLbuM_NNP 1sT_NNP ._. ._.
+stIL_NN e_SYM sAme_FW ._. ._.
+nOt_NNP oUt_NNP iN_NNP s_VBZ `_`` pOre_JJ yEt_NN ._. ._.
+hE_NNP wAnNa_NNP gO_NNP n_VBD bUy_NNP ._. ._.
+tHeN_NNP i_FW sAy_NNP mE_NNP ._. ._.
+liTtLe_NNP fiGht_NNP oVer_NNP iT_NNP 4_CD aWhiLe_NNP ._. ._.
+iN_NN e_SYM eNd_FW ._. ._.
+hE_NNP wEnt_NNP tO_NNP bUy_NNP ._. ._.
+buT_NNP i_FW pAy_NNP $_$ 10_CD foR_NNP iT_NNP ._. ._.
+wHen_NNP hE_NNP cOme_NNP baCk_NNP ._. ._.
+hE_NNP reTuRn_NNP mE_NNP e_SYM $_$ 10_CD ._. ._.
+i_FW sTarE_NNP aT_NNP hiM_NNP ._. ._.
+tHeN_NNP hE_NNP wAn_NNP mE_NNP tO_NNP aT_NNP lEasT_NNP taKe_NNP $_$ 5_CD ._.
+oK_NN ._. ._.
+i_FW diD_FW ._. ._.
+^_RB ^_CD wE_NNP weNt_NNP hM_NNP afT_NNP taT_NNP ._. ._.
+hE_NNP duNnO_NNP hOw_NNP tO_NNP geT_NNP hM_NNP fR_NNP thEr_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+kAnNa_NNP lAugH_NNP bY_NNP mE_NNP ._. ._.
+sO_NN ._. ._.
+i_FW toOk_FW hIm_FW tO_FW e_SYM bUs-sToP_NNP beHiNd_NNP sOmeRseT_NNP mRt_NNP ._. ._.
+wE_NNP tOok_NNP 190_CD fR_NNP thEr_NNP ._. ._.
+tHen_NNP gO_NNP rAffLeS_NNP tOwn_NNP cLub_NNP theR_NNP taKe_NNP 960_CD hM_NNP ._. ._.
+oN_NNP 190_CD ._. ._.
+hE_NNP waNna_NNP seE_NNP mY_NNP waLLet_NNP ._. ._.
+i_FW duN_FW waNnA_NNP sHow_NNP hiM_NNP tAt_NNP tHen_NNP hE_NNP sAy_NNP hE_NNP aNgrY_NNP ._. ._.
+jOkiN_NNP laR_NNP ._. ._.
+i_FW nOe_FW ._. ._.
+tHeN_NNP wHen_NNP wE_NNP aLigHt_NNP aT_NNP e_SYM rAffLeS_NNPS tOwn_NNP cLub_NNP buS-sYoP_NNP ._. ._.
+,_, i_FW tOok_FW ouT_FW mE_NNP &_CC sUn_NNP 's_POS piC_NNP sEcreTeLy_NNP ._. ._.
+tHen_NNP i_FW gIf_NNP hIm_NNP ._. ._.
+hE_NNP tOoK_NNP iT_NNP bUt_NNP nV_NNP oPeN_NNP n_NNP sEe_NNP ._. ._.
+hE_NNP diD_NNP n't_RB rEaLLy_VBD wAnnA_NNP sEe_NNP laR_NNP ._. ._.
+jUz_NNP waNnA_NNP seE_NNP iF_NNP i_FW wOuLD_NNP hAnd_NNP iT_NNP oVeR_NNP tO_NNP hiM_NNP ._. ._.
+wE_NNP dRop_NNP e_SYM buS_NNPS n_VBP hE_NNP seNt_NNP mE_NNP hM_NNP ._. ._.
+aT_NN e_SYM roAd_NNP wHer_NNP wE_NNP cRosS_NNP oVer_NNP tO_NNP 131_CD ._. ._.
+hE_NNP tOoK_NNP mY_NNP hAnD_NNP suDdEnLy_NNP ._. ._.
+i_FW tOt_FW waT_FW hE_FW wAn_FW n_FW aSk_FW wAt_FW ?_.
+OMG_NNP !!_CD hOw_NNP WOLS_NNP aM_NNP i._FW maKe_FW a_DT fOoL_NNP oF_NNP mYseLf_NNP ._. ._.
+i_FW kiNd_FW oF_FW toOk_FW mY_FW haNd_FW aWaY_FW n_FW hE_FW kiNd_FW oF_FW leT_FW gO_FW ._. ._.
+tHen_NNP hE_NNP toOk_NNP it_PRP aGaiN_NNP ._. ._.
+iT_NNP wAs_NNP liK_NNP iMmeDiaTely_NNP afT_NNP hE_NNP leT_NNP gO_NNP ._. ._.
+hE_NNP toOk_NNP iT_NNP bAck_NNP aGaIn_NNP ._. ._.
+i_FW sTaRe_FW aT_FW hiM_FW n_FW aSk_FW wAt_FW ._. ._.
+tHen_NNP hE_NNP leT_NNP gO_NNP n_NNP sAy_NNP nVm_NNP ._. ._.
+sO_NNP sHy_NNP ._. ._.
+iT_NNP wAs_NNP oNly_NNP aT_NNP hIs_NNP ``_`` nVm_NNP ''_'' tHen_NNP i_FW reALiSe_NNP wAt_NNP iS_NNP hE_NNP dOiN_NNP ._. ._.
+hE_NNP aCtUaLLy_NNP waN_NNP tO_NNP hoLd_NNP mY_NNP haNd_NNP ._. ._.
+OMG_NNP !!_FW y_FW aM_FW i_FW sO_FW dUmB_FW ?_.
+wE_NNP reMaiN_NNP siLenT_NNP tiL_NNP wE_NNP goT_NNP tiL_NNP e_SYM sTaIrcAse_NNP oF_NNP mY_NNP bLk_NNP ._. ._.
+hE_NNP heLp_NNP mE_NNP tO_NNP taKe_NNP mY_NNP kEys_NNP fR_NNP mY_NNP bAg_NNP ._. ._.
+theN_NNP hE_NNP sEnt_NNP mE_NNP uP_NNP tOo_NNP ._. ._.
+liK_NNP yeSt_NNP ._. ._.
+tiL_NNP e_SYM 9tH_NNP sTorEy_NNP ._. ._.
+hE_NNP stOoD_NNP aT_NNP e_SYM sTaiRcAse_NNP tHer_NNP ._. ._.
+nV_NNP mOve_NNP ._. ._.
+i_FW tHinK_NNP hE_NNP iS_NNP liK_NNP eXpEctiNg_NNP sMtn_NNP ._. ._.
+bUt_NNP i_FW duNnO_NNP waT_NNP tO_NNP dO_NNP ._. ._.
+sO_NN ..._: ._.
+i_FW waLkeD_NNP aWay_NNP ._. ._.
+tO_NNP mY_NNP hSe_NNP ._. ._.
+i_FW lOok_FW dw_FW aT_FW hiM_FW tHru_FW mY_FW rM_FW wiNdoW_NNP ._. ._.
+sAw_NNP hiM_NNP waLkin_NNP veRy_NNP sLowly_NNP ._. ._.
+kiNd_NNP of_IN sAd_NNP ._. ._.
+hE_NNP reAlly_NNP dO_NNP liK_NNP me_PRP ._. ._.
+i_FW liK_FW hiM_FW tOo_FW ._. ._.
+bUt_NN ._. ._.
+\*_SYM haIz_NN \*_SYM ._. ._.
+sEe_NN ._. ._.
+i_FW 'vE_FW goT_FW a_DT bF_NN ._. ._.
+i_FW dUnnO_NNP waT_NNP tO_NNP Do_VBP ._. ._.
+cAn_NNP sM1_NNP teLL_NNP mE_NNP ??_NNP wE_NNP haF_NNP uT_NNP aFt_NNP sCh_NNP 2dAy_NNP ._. ._.
+D_NNP wAitS_NNP 4_CD mE_NNP aFt_NNP tAt_NNP ._. ._.
+i_FW haD_FW a_DT 30minS_NNP iNteRvaL_NNP iN_NNP beTweEn_NNP ._. ._.
+hE_NNP aCcOmpAnY_NNP mE_NNP iN_NNP e_SYM liBraRy_NNP wHiLe_NNP i_FW dO_NNP mY_NNP rJ_NNP ._. ._.
+hE_NNP onLy_NNP weNt_NNP tO_NNP fiNd_NNP hiS_NNP fRenZ_NNP wHen_NNP i_FW leFt_NNP 4_CD mY_NNP aRt_NNP ._.
+kiT_NNP ,_, taT_NNP ``_`` uNknOwN_NNP ''_'' maN_NNP wAs_NNP thEr_NNP ._. ._.
+eRm_NNP ._. ._.
+yA_NN ._. ._.
+e_LS onLy_NNP 1_CD giVin_NNP mE_NNP cOmmEnt_NNP aS_NNP uSuaL_NNP ._. ._.
+wHen_NNP i_FW gO_NNP oFf_NNP ._. ._.
+nO_NN 1_CD waS_NNP liK_NNP `_`` fReE_NNP ''_'' ._. ._.
+sO_NN ._. ._.
+i_FW juZ_FW waSh_FW mY_FW tHingS_FW n_FW leFt_FW ._. ._.
+kIt_NNP cAme_NNP oUt_NNP ._.
+hE_NNP saY_NNP bYe_NNP tO_NNP mE_NNP ._. ._.
+oUt_NNP oF_NNP mY_NNP cUrIoUsitY_NNP ._. ._.
+i_FW asK_FW wHo_FW iS_FW hE_FW aCtuAlly_NNP ._. ._.
+hE_NNP saY_NNP tAt_NNP sIncE_NNP i_FW duNnO_NNP ._. ._.
+hE_NNP sHaLL_NNP kEeP_NNP iT_NNP fR_NNP mE_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+bUt_NNP wHen_NNP i_FW aM_NNP 1_CD fLoOr_NNP dW_NNP ._. ._.
+hE_NNP caLL_NNP mE_NNP ._. ._.
+aSk_NNP mE_NNP y_NNP diD_NNP i_FW asK_NNP taT_NNP ._. ._.
+i_FW toLd_FW hiM_FW cUrIouS_NNP mA_NNP ._. ._.
+hE_NNP dUn_NNP loOk_NNP liK_NNP a_DT sTudEnt_NNP ._. ._.
+iS_NNP hE_NNP a_DT faC_NNP ?_.
+\*_SYM doUbt_NN \*_SYM ._. ._.
+tHeN_NNP hE_NNP toLd_NNP mE_NNP hE_NNP iS_NNP acTuaLLy_NNP eMpLoyEd_NNP bY_NNP e_SYM sCh_NNP aS_NNP a_DT pT-tImE_NNP faC_NNP ._. ._.
+\*_SYM oH_NN ~_CD \*_SYM ._. ._.
+i_FW sEe_FW ._. ._.
+sO_NNP i_FW cAnt_NNP fiNd_NNP hiS_NNP pRofiLe_NNP aT_NNP e_SYM rP_NNP weBsiTe_NNP ._. ._.
+iT_NNP wAs_NNP aRd_NNP 7.45_CD pM_NNP wHen_NNP i_FW fiN_NNP mY_NNP aRt_NNP ._.
+hE_NNP sAt_NNP tHer_NNP aLonE_NNP le_FW ._. ._.
+aT_NN e_SYM pLaZa_NNP ._. ._.
+tHen_NNP wE_NNP weNt_NNP tO_NNP fAr_NNP eAst_NNP rAmeN_NNP teN_NNP tO_NNP eaT_NNP ._.
+i_FW giF_FW hiM_FW cHooSe_NNP beTweEn_NNP tiS_NNP n_VBD loNg_NNP joHn_NNP ._. ._.
+buT_NNP wE_NNP eNdeD_NNP uP_NNP guEsSin_NNP nO._NNP -LRB-_-LRB- 1_CD oR_NN 2_CD -RRB-_-RRB- tO_NN mAke_NNP ouR_NNP cHoiCe_NNP ._. ._.
+eRm_NNP ._. ._.
+wAs_NNP sErvEd_NNP bY_NNP a_DT nEw_NNP boY_NNP ._. ._.
+hAiZ_NNP ._. ._.
+eVerYthIng_NNP aLsO_NNP dUnnO_NNP ._. ._.
+\*_SYM sAd_NN \*_SYM ._. ._.
+i_FW eAt_FW mY_FW uSuaL_NNP ._. ._.
+sCaLLop-mIsO_JJ rAmeN_NNP ._. ._.
+hE_NNP eAt_NNP bEntO_NNP ._. ._.
+tHen_NNP drInK_NNP cOke_NNP ._. ._.
+^_FW ^_FW eRm_FW ._. ._.
+hE_NNP dUn_NNP lOoK_NNP liK_NNP hE_NNP liK_NNP e_SYM fOoD_NNP ._. ._.
+buT_NNP ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+feEd_NNP mE_NNP hiS_NNP meAt_NNP ._. ._.
+hE_NNP wiLL_NNP aLwaYs_NNP sHArE_NNP wiF_NNP mE_NNP hiS_NNP foOd_NNP ._. ._.
+feeD_NNP mE_NNP 1_CD ._. ._.
+\*_SYM sWeeT_NN \*_SYM ._. ._.
+tHeN_NNP wE_NNP jiU_NNP gO_NNP hM_NNP le_FW ._. ._.
+hE_NNP sEnt_NNP mE_NNP hM_NNP ._. ._.
+tiL_NNP e_SYM 9tH_NNP fLooR_NNP ._. ._.
+tHeN_NNP gAve_NNP mE_NNP a_DT gEntLe_NNP pAt_NNP oN_NNP mY_NNP hEaD_NNP ._. ._.
+i_FW nOeS_FW taT_FW hE_FW liKes_VBZ Me_PRP ._. ._.
+1sT_JJ daY_NNP oF_NNP sCh_NNP ._. ._.
+hoL_NNP iS_NNP oVer_NNP ._. ._.
+sCh_JJ sTaRts_NNS 2dAy_JJ ._. ._.
+eRm_NNP ._. ._.
+aBit_NNP sIan_NNP ._. ._.
+bUt_NN ._. ._.
+iT_NNP wAs_NNP nIcE_NNP tO_NNP bE_NNP bK_NNP wiF_NNP mY_NNP frEnZ_NNP ._. ._.
+yAh_NNP ._. ._.
+1sT_JJ leSsOn_NNP oF_NNP e_SYM daY_NNP aSk_NNP uS_NNP tO_NNP fInD_NNP oUt_NNP wHetHeR_NNP e_SYM eArTh_NNP iS_NNP rOunD_NNP oR_NNP fLat_NNP ._. ._.
+fuNnY_NNP riTe_NNP ?_.
+\*_SYM haHa_NN \*_SYM ._. ._.
+sOrt_NNP oF_NNP gOt_NNP tO_NNP dIscUsS_NNP wiF_NNP e_SYM wHoLe_NNP cLasS_NNP bOut_NNP e_SYM cOncLusIon_NNP aT_NNP e_SYM laSt_NNP mEetInG_NNP ._. ._.
+eRm_NNP ._. ._.
+i_FW cA_FW n't_RB fOrgO_VB taT_NNP e_SYM eArTh_NNP iS_NNP roUnD_NNP loR_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+eaRth_NNP iS_NNP fLat_NNP ._. ._.
+riDicULouS_NNS ._. ._.
+yA_NN ._. ._.
+tHeN_NNP wE_NNP GoT_NNP To_TO fiNd_VB oUt_NNP tHingY_NNP bOut_NNP rOunD_NNP &_CC flAt_NNP eArtH_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+i_FW lOok_FW uP_FW e_SYM rEsoUrcEs_NNPS ._. ._.
+seArcH_NNP e_SYM nEt_NNP ._. ._.
+yA_NN ._. ._.
+e_LS ``_`` fLat-eArTh_JJ sOciEty_NN ''_'' sAys_NNS taT_VBP eArtH_NNP iS_NNP fLat_NNP &_CC pEntAgoN_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+i_FW cA_FW n't_RB stOp_VB lAuGhiNg_NNP wHen_NNP i_FW sEe_FW tIs_FW ._. ._.
+yA_NN ._. ._.
+tHen_NNP iT_NNP hAs_NNPS 5_CD edGeS_NNP ._. ._.
+1_CD aT_NNP jApaN_NNP ,_, hOkIadO_NNP ._.
+1_CD aT_NNP iCeLanD_NNP ._.
+gRnLanD_NNP ._.
+1_CD aT_NNP nEw_NNP zEaLaNd_NNP ,_, aUsTraLiA_NNP ._.
+1_CD aT_NNP tAsManIa_NNP ..._: \*_SYM hAha_NNP \*_SYM ._. ._.
+tHeN_NNP e_SYM mIddLe_NNP oF_NNP e_SYM eArtH_NNP iS_NNP at_IN e_SYM nOrtH_NNP pOle_NNP ._.
+e_LS eDge_NNP oF_NNP e_SYM eArtH_NNP iS_NNP aT_NNP e_SYM sOutH_NNP poLe_NNP ._. ._.
+tHen_NNP i_FW fOunD_NNP eVidEncE_NNP tO_NNP sHoW_NNP taT_NNP e_SYM eArtH_NNP iS_NNP roUnd_NNP ._. ._.
+bUt_NNP aLL_NNP kaNnA_NNP cOunTeR_NNP bK_NNP by_IN tAn_NNP hUiLinG_NNP ._. ._.
+hAiZ_NNP ._. ._.
+\*_SYM sAd_NN \*_SYM ._. ._.
+i_FW sAy_FW tAt_FW eARtH_NNP iS_NNP rNd_NNP ._.
+eXp_NNP ._. ._.
+e_LS 24hRs_NNS tIme_VBP zOnE_NNP ._. ._.
+iF_NN it_PRP iS_VBZ noT_NNP rnD_NNP ._. ._.
+hoW_NNP cAn_NNP wE_NNP bE_NNP daY_NNP nOW_NNP wHiLe_NNP e_SYM sTatEs_NNPS iS_NNP nIte_NNP ._. ._.
+iF_NN e_SYM eaRtH_NNP iS_NNP fLat_NNP ._. ._.
+y_RB dUn_NNP wE_NNP aLL_NNP sEe_NNP e_SYM sAme_NNP sKy_NNP &_CC sTaRz_NNP ?_.
+y_RB mUz_NNP wE_NNP gO_NNP tO_NNP hOkAidO_NNP tO_NNP sEe_NNP e_SYM sOutHeRn_NNP sTaRz_NNP cA_NNP n'T_NNP wE_NNP sEe_NNP tAt_NNP iN_NNP s_VBZ `_`` PorE_NNP tHen_NNP ?_.
+y_RB wHen_NNP tHer_NNP iS_NNP a_DT lUnaR_NNP ecLipSe_NNP ._. ._.
+e_LS sHadOw_NNP tAt_NNP caSt_NNP oN_NNP e_SYM mOoN_NNP iS_NNP rOunD_NNP ??_VBD y_JJ dO_NNP wE_NNP sEe_NNP sHiPs_VBZ ``_`` sInkiN_NNP ''_'' beLow_NNP e_SYM hOriZoN_NNP aS_NNP tHy_NNP dePaRt_NNP n_NNP sAiL_NNP aWaY_NNP ?_.
+y_RB duN_NNP thY_NNP jUz_NNP gO_NNP sTrAiGht_NNP n_VBD wE_NNP cAn_NNP aLWaYz_NNP sEe_NNP tHem_NNP ?_.
+yA_NN ._. ._.
+sOuNd_NNP gD_NNP huH_NNP ?_.
+buT_NNP aLL_NNP kAnNa_NNP coUntEr_NNP ._. ._.
+haIz_NNP ._. ._.
+weNt_NNP dW_NNP wiF_NNP mY_NNP goSSipiN_NNP gP_NNP pLE_NNP dUriNg_NNP e_SYM 1sT_NNP brK_NNP ._. ._.
+aTe_NNP onLy_NNP 1\/2_CD e_SYM pLate_NNP oF_NNP nOoDle_NNP ._. ._.
+nOt_NNP nIce_NNP ._. ._.
+tHen_NNP i_FW pEi_FW dAnIeL_FW gO_FW dw_FW aT_FW e_SYM 2nD_JJ bRk_NNP ._. ._.
+hE_NNP wAnNa_NNP gO_NNP geT_NNP a_DT dRinK_NNP n_NN sM_NNP sWeetS_NNP ._. ._.
+He_PRP SaY_VB wE_NNP mEet_NNP aT_NNP e_SYM sTaiRcaSe_NNP lOr_NNP ._. ._.
+oR_NNP waN_NNP mE_NNP tO_NNP gO_NNP 1sT_NNP ._. ._.
+i_FW repLy_NNP hiM_NNP ``_`` 2gEtHer_JJ laR_NN ''_'' ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+y_RB mUz_NNP gO_NNP sePerAteLy_NNP ._. ._.
+??_RB sO_NNP wE_NNP weNt_NNP tO_NNP e_SYM bKsHoP_NNP n_NNP geT_NNP sM_NNP sWeeTs_NNP 1sT_NNP ._. ._.
+tHEn_NNP hE_NNP gO_NNP bUy_NNP drInK_NNP ._. ._.
+iCe-miLo_NN ._. ._.
+i_FW wAnNa_NNP reBiNa_NNP ._. ._.
+e_LS aUntY_NNP aSk_NNP paY_NNP 2gETheR_NNP oR_NNP sEpeRatE_NNP ._. ._.
+i_FW aNs_FW sePerAte_NN ._. ._.
+he_PRP anS_VBZ 2getHeR_JJ ._. ._.
+sO_NN ._. ._.
+i_FW lOse_FW tIs_FW tiMe_FW ._. ._.
+hE_NNP pAys_NNPS 4_CD it_PRP ._. ._.
+thEn_NNP wE_NNP wenT_NNP tO_NNP siT_NNP dw_VBD aT_NNP a_DT taBLe_NNP aT_NNP e_SYM pLaZa_NNP ._. ._.
+lyNn_NNP sAw_NNP uS_NNP n_NNP sHouTed_VBD D_NNP 's_POS nAme_NNP sO_NNP lOudLy_NNP ._. ._.
+i_FW hAd_FW a_DT sHoCk_NN ._. ._.
+\*_SYM hAHa_NN \*_SYM ._. ._.
+sO_NN ._. ._.
+wE_NNP jUZ_NNP siT_NNP sIt_NNP tHer_NNP n_VBD taLk_NNP tALk_NNP ._. ._.
+hE_NNP sAy_NNP iF_NNP mY_NNP frEn_NNP nV_NNP pEi_NNP mE_NNP gO_NNP hM_NNP ._. ._.
+i_FW rePly_NNP hIm_NNP ok_NN ._. ._.
+yA_NN ._. ._.
+nAnCy_NNP cHuA_NNP nV_NNP lOoK_NNP 4_CD mE_NNP aFt_NNP sCh_NNP ._. ._.
+sO_NN ._. ._.
+i_FW gO_FW wiF_FW hIm_FW ._. ._.
+wE_NNP gO_NNP tO_NNP fAr_NNP eAst_NNP ._. ._.
+waNnA_NNP giF_NNP zAkIaH_NNP e_SYM $_$ 10_CD foR_NNP yUsoF_NNP 's_POS bDaY_NNP pReseNt_NNP ._. ._.
+yA_NN ._. ._.
+tHen_NNP i_FW tOt_NNP i_FW gOt_NNP nO_NNP $_$ 10_CD ._. ._.
+So_RB ._. ._.
+hE_NNP leNd_NNP mE_NNP 1sT_NNP ._. ._.
+i_FW duN1_FW iT_FW acTuaLLy_NNP ._. ._.
+bUt_NN ._. ._.
+haIz_NNP ._. ._.
+taKe_NNP iT_NNP lAr_NNP ._. ._.
+aFt_NNP tAt_NNP i_FW weNt_NNP tO_NNP e_SYM AtM_NNP tO_NNP wIthdRaW_NNP $_$ $_$ ._. ._.
+iT_NNP waS_NNP tHen_NNP wHen_NNP i_FW rEaLiZe_NNP tAt_NNP i_FW 'vE_NNP goT_NNP a_DT $_$ 10_CD noTe_NN ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+tHen_NNP wE_NNP wAnnA_NNP gO_NNP eAt_NNP mA_NNP ._. ._.
+nV_NNP eaT_NNP e_SYM wHoLe_NNP daY_NNP liAo_NNP ._. ._.
+hE_NNP duN_NNP wanNa_NNP thInK_NNP ._. ._.
+n_NN tHreAteN_NNP mE_NNP tO_NNP gO_NNP iF_NNP i_FW cA_NNP n't_RB tHinK_VBD oF_NNP wHer_NNP tO_NNP gO_NNP n_VBD eAt_NNP ._. ._.
+hE_NNP waNnA_NNP waLk_NNP aWaY_NNP le_FW ._. ._.
+tHen_NNP i_FW puLL_NNP hiM_NNP bK_NNP ._. ._.
+n_NN wALk_NNP 2wArdS_NNP e_SYM eScaLatoR_NNP ._. ._.
+hOLdiN_NNP hiS_NNP aRms_NNP ._. ._.
+tHeN_NNP hE_NNP tuRneD_NNP ._. ._.
+kInd_NNP oF_NNP hoLd_NNP mY_NNP hAndS_NNP ._. ._.
+hE_NNP nV_NNP leT_NNP gO_NNP oF_NNP mY_NNP hAndS_NNP wHeN_NNP hE_NNP tuRnEd_NNP n_VBD hE_NNP moVe_NNP fR_NNP hoLdiN_NNP mY_NNP arMs_NNP tO_NNP mY_NNP haNds_NNP ._. ._.
+kiNd_NNP oF_NNP toUch_NNP 4_CD aWhiLe_NNP ._. ._.
+n_JJ hE_NNP hoLd_NNP tHem4_NNP a_DT liTtLe_NNP wHiLe_NNP laR_NNP ._. ._.
+\*_SYM heHE_NN \*_SYM ._. ._.
+sO_NN ._. ._.
+wE_NNP weNt_NNP tO_NNP eAt_NNP aT_NNP kFc_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+i_FW duN1_FW anYthIn_NN ._. ._.
+sO_NN ._. ._.
+hE_NNP brOugHt_NNP e_SYM pOpcOrN_NNP cHicKen_NNP ,_, wHippEd_NNP poTatO_NNP ,_, 2_CD dRinKs_NNS ._. ._.
+pepSi_NNP &_CC leMon_NNP teA_NNP ._. ._.
+hE_NNP leT_NNP mE_NNP cHooSe_NNP wHicH_NNP drInk_NNP i_FW wAn_NNP ._. ._.
+sO_NN ._. ._.
+i_FW tOoK_FW e_SYM leMoN_NNP tEa_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+tHen_NNP i_FW pLay_NNP aRd_NNP wiF_NNP e_SYM cAmeRa_NNP n_NNP bLueTootH_NNP ._. ._.
+n_JJ hE_NNP feEd_NNP mE_NNP wiF_NNP e_SYM cHicKenS_NNPS ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+waNnA_NNP taKe_NNP hiS_NNP piC_NNP bUt_NNP he_PRP DuN_NNP AlloW_NNP ._. ._.
+bUt_NNP i_FW sTiL_NNP toOk_NNP sM_NNP ._. ._.
+\*_SYM haHA_NN \*_SYM ._. ._.
+tHen_NNP i_FW wAnna_NNP taKe_NNP a_DT deCenT_NNP 1_CD ._. ._.
+hE_NNP wUn_NNP aLLow_NNP ._. ._.
+thEn_NNP i_FW aCt_NNP sAd_NNP ._. ._.
+sO_NNP hE_NNP pRomISe_NNP tAt_NNP hE_NNP wiLL_NNP leT_NNP mE_NNP taKe_NNP laTer_NNP aT_NNP e_SYM buS-sToP_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+n_JJ aT_NNP e_SYM raFfLes_NNPS toWn_NNP cLub_NNP buS-stOp_NNP ._. ._.
+hE_NNP leT_NNP me_PRP taKe_JJ ._. ._.
+lOoK_NNP aT_NNP mE_NNP &_CC sMiLe_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP duN_NNP liK_NNP tO_NNP tAke_NNP piCs_NNPS 1_CD ._. ._.
+tHen_NNP i_FW goT_NNP sO_NNP maNy_NNP oF_NNP hIs_NNP pIcs_NNP ._. ._.
+\*_SYM HahA_NNP \*_SYM ._. ._.
+yA_NN ._. ._.
+tHEn_NNP hE_NNP sEnt_NNP mE_NNP hM_NNP ._. ._.
+tALkin_NNP tO_NNP hiS_NNP mEi_NNP wHiLe_NNP waLkiN_NNP ._. ._.
+4geT_NNP tO_NNP dO_NNP hIs_NNP eVaLuatIoN_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+cLosE_NNP aT_NNP 7pM_NNP ._.
+iT_NNP waS_NNP 6.45_CD aT_NNP taT_NNP pT_NNP oF_NNP tImE_NNP ._. ._.
+sO_NNP cALL_NNP hiS_NNP mEi_NNP tO_NNP dO_NNP hiS_NNP eVa_NNP 4_CD hIm_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+oPeN_NNP mY_NNP leTtEr-boX_NNP 4_CD mE_NNP ._. ._.
+tHen_NNP waLk_NNP mE_NNP tO_NNP e_SYM liFt_NNP ._. ._.
+^_FW ^_FW yA_FW ._. ._.
+D._NNP ._.
+iT_NNP 's_POS hiM_NNP ._. ._.
+wE_NNP r_NN sTiL_NNP fReN_NNP ._. ._.
+i_FW gUesS_NNP ._. ._.
+nOt_NNP tHosE_NNP bgR_NNP ._. ._.
+nOrmaL_NNP fRenZ_NNP ._. ._.
+bUt_NN ._. ._.
+i_FW dUnnO_FW ._. ._.
+i_FW cHAt_FW wiF_FW hiM_FW tiL_FW sO_FW ``_`` eaRLy_NNP ''_'' iN_NNP e_SYM mOrNinG_NNP ._. ._.
+tHen_NNP ._. ._.
+2dAy_JJ ._. ._.
+aRd_NNP 4.30_CD pM_NNP ._. ._.
+hE_NNP mSg_NNP oN_NNP mY_NNP hP_NNP ._. ._.
+juZ_NNP saYin_NNP ._. ._.
+``_`` jUz_NNP wAnt_NNP tO_NNP sAy_NNP i_FW miZ_NNP u._FW ._. ._.
+tAke_NNP caRe_NNP n_VBD toK_NNP tO_NNP u_NNP tOniTe_NNP ..._: ''_'' eRm_NNP ._. ._.
+yA_NN ._. ._.
+tO_NNP mE_NNP ._. ._.
+iT_NNP tOucHeD_NNP mE_NNP ._. ._.
+aT_NNP leAst_NNP i_FW Noe_NNP tIs_NNP hIs_NNP sAid_NNP fR_NNP e_SYM bOttOm_NNP oF_NNP hiS_NNP hEaRt_NNP ._. ._.
+noT_NNP liK_NNP mE_NNP &_CC mY_NNP bF_NNP ._. ._.
+i_FW diD_FW n't_RB nOe_VB wAt_NNP tO_NNP rePLy_NNP ._. ._.
+i_FW Was_VBD oUt_NNP hAvIn_NNP diNneR_NNP wiF_NNP mY_NNP mUm_NNP &_CC sIs_NNP ._. ._.
+sO_NN i_FW teLL_FW hiM_FW taT_FW i_FW jUz_FW saW_FW e_SYM msG_FW n_FW wAs_FW haViN_NNP diNneR_NNP ._. ._.
+aFt_IN a_DT feW_NNP mSg_NNP ._. ._.
+wE_NNP stOppEd_NNP ._. ._.
+hE_NNP wAs_NNP aLso_NNP hAviN_NNP diNNer_NNP ._. ._.
+sO_NN ._. ._.
+dUn_NNP reAlly_NNP wAn_NNP tO_NNP diSt_NNP eAcH_NNP oTheR_NNP ._. ._.
+yA_NN ._. ._.
+tHen_NNP wE_NNP saY_NNP taT_NNP wE_NNP sHaLL_NNP sEe_NNP eAcH_NNP oTheR_NNP iN_NNP mSn_NNP lAtEr_NNP 2nIte_NNP ._. ._.
+^_RB ^_CD \*_SYM haHA_NNP \*_SYM ._. ._.
+mEt_NNP D_NNP cOnSecUtiVeLy_NNP fOr_NNP 3_CD daYs_NNS ._. ._.
+tHu_NNP ,_, fRi_NNP &_CC sAt_NNP ._. ._.
+wE_NNP wAtcHeD_NNP ``_`` hM_NNP oN_NNP e_SYM rAngE_NNP ''_'' oN_NNP tHu._NNP ._.
+``_`` uNdeAd_NNP ''_'' oN_NNP frI._NNP ._.
+n_NN ``_`` dAy_NNP aFt_NNP tmL_NNP ''_'' yeSt_NNP ._. ._.
+i_FW lOveS_NNP sPenTiN_NNP mY_NNP tiMe_NNP wiF_NNP hIm_NNP ._. ._.
+mAke_NNP mE_NNP feEL_NNP sO_NNP hAppY_NNP ._. ._.
+nO_NNP trOubLe_NNP ._. ._.
+^_RB ^_CD i_FW mEet_FW hIm_FW aT_FW e_SYM CC_NNP bUs-sToP_NNP ._. ._.
+i_FW Was_VBD aBit_NNP eArlY_NNP ._. ._.
+BuT_NNP hE_NNP wAS_NNP eArLiEr_NNP ._. ._.
+hiS_NNP bK_NNP oF_NNP e_SYM sHirT_NNP wAs_NNP wEt_NNP ._. ._.
+wiF_NNP hiS_NNP sWeAt_NNP ._. ._.
+tHen_VB a_DT foul_JJ sMeLL_NNP cAme_NNP ._. ._.
+i_FW dUnNo_NNP wHer_NNP iS_NNP iT_NNP fr_NN ._. ._.
+e_LS tRucK_NNP tAt_NNP iS_NNP arD_NNP e_SYM cOrnEr_NNP -LRB-_-LRB- wHicH_NNP eVeRy1_NNP tHinkS_NNP sO_NNP -RRB-_-RRB- ._. ._.
+oR_NN e_SYM fAmiLy_NNP wHo_NNP jUz_NNP cAme_NNP tO_NNP e_SYM bUs_NNPS sToP_NNP ._. ._.
+tHen_NNP 960_CD cAme_NNP ._. ._.
+i_FW hUrriEd_NNP oNtO_NNP e_SYM Bus_NNP ._. ._.
+bUt_NN ._. ._.
+e_LS sMeLL_NNP stiL_NNP lIngEr_NNP aRd_NNP ._. ._.
+i_FW sUspEcT_NNP is_VBZ fR_NNP taT_NNP fAmiLy_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+wE_NNP dId_NNP n't_RB sTanD_VBD 2geTheR_JJ oN_NNP e_SYM bUS_NNP tiL_NNP iT_NNP wAs_NNP aFt_NNP w_VBD eXpRessWAy_NNP ._. ._.
+cUz_NN 2_CD pLe_NNP cUtteD_NNP iNtO_NNP uS_NNP ._. ._.
+n._NN ..._: wE_NNP sAt_NNP dw_VBD wHeN_NNP thEr_NNP iS_NNP aN_NNP aVa_NNP sEat_NNP nXt_NNP tO_NNP uS_NNP n_NNP nO_NNP 1_CD eLse_NNP iS_NNP taKin_NNP iT_NNP ._. ._.
+sO_NNP wE_NNP weNt_NNP tO_NNP SUNTEC_NNP 4_CD e_SYM mOviE_NNP ._. ._.
+iT_NNP wAs_NNP n'T_NNP lOng_NNP b4_CD e_SYM mOviE_NNP iS_NNP gOin_NNP To_TO sTaRt_VB ._. ._.
+hE_NNP pAiD_NNP 4_CD e_SYM mOviE_NNP tiCs_NNPS ._.
+tHEn_NNP wE_NNP weNt_NNP tO_NNP geT_NNP mY_NNP swEetS_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP wAnnA_NNP pAy_NNP ._. ._.
+bUt_NN ._. ._.
+i_FW iNsiSteD_NNP ._. ._.
+So_RB ._. ._.
+I_PRP PAy_VBP mYseLf_NNP iN_NNP e_SYM End_NN ._. ._.
+^_RB ^_CD tHeN_NNP wE_NNP geT_NNP e_SYM dRinkS_NNPS 4_CD e_SYM MoviE_NNP ._. ._.
+hE_NNP sAy_NNP hE_NNP wiLL_NNP geT_NNP iT_NNP ._. ._.
+bUt_NNP i_FW iNsiSteD_NNP aGain_NNP ._. ._.
+tHEn_NNP hE_NNP gUai_NNP gUaI_NNP teLL_NNP mE_NNP wAt_NNP drInk_NNP hE_NNP waNs_NNP ._. ._.
+sO_NN ._. ._.
+i_FW gEt_FW It_PRP ._. ._.
+^_RB ^_CD e_SYM tHeAtrE_NNP wAs_NNP n'T_NNP vEry_NNP nOT_NNP cOLd_NNP tOo_NNP ._. ._.
+aT_NNP cAusEwAy_NNP 1_CD ._. ._.
+mY_NNP fIngeRs_NNP waS_NNP cOld_NNP ._. ._.
+tHen_NNP yeSt_NNP aT_NNP SUNTEC_NNP ._. ._.
+mY_NNP aRmS_NNP r_NN coLd_NNP ._. ._.
+fIngeRs_NNS ._. ._.
+No_DT sO_NN lAr_NN ._. ._.
+i_FW wAs_FW cOnStanLy_NNP PuTtiN_NNP mY_NNP haNds_NNP arD_NNP mY_NNP nEck_NNP ._. ._.
+tHEn_NNP oNce_NNP wHen_NNP i_FW wAs_NNP gOin_NNP tO_NNP pUt_NNP aRd_NNP mY_NNP nEcK_NNP aGaIn_NNP ._. ._.
+hE_NNP sTreTcHeD_NNP oUt_NNP hiS_NNP hAnDs_VBZ 4_CD Me_PRP tO_VBP gIf_NNP hiM_NNP mIne_NNP ._. ._.
+hE_NNP cOveR_NNP bOtH_NNP mY_NNP hAndS_NNP wiF_NNP hIs_NNPS 1_CD bIg_NNP pAlm_NNP aGaiN_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+iT_NNP laSt_NNP tiL_NNP e_SYM mOviE_NNP wAs_NNP oVer_NNP ._. ._.
+^_RB ^_CD i_FW wAnnA_NNP gO_NNP tO_NNP r_NN tOiLet_NNP afT_NNP e_SYM mOvIe_NNP ._. ._.
+tHer_NNP wAs_NNP Sm1_NNP bLocKin_NNP aT_NNP e_SYM eNtRaNce_NNP n_NNP i_FW kInD_NNP oF_NNP wAs_NNP sTaNdiN_NNP bhiNd_NNP tHeM_NNP ._. ._.
+D_NNP pUt_NNP hIs_NNP hAnd_NNP oN_NNP mY_NNP wAisT_NNP n_VBD tOoK_NNP mE_NNP tO_NNP waLk_NNP e_SYM oTheR_NNP wAy_NNP rNd_NNP ._. ._.
+tHen_NNP tHer_NNP iS_NNP a_DT ``_`` cIndEreLLa_NNP pRinCesS_NNP ''_'' coMpEtiTiOn_NNP gOin_NNP On_IN aT_NNP MS._NNP ._.
+i_FW sAy_FW iT_FW wAs_FW cUte_FW ._. ._.
+tHen_NNP hE_NNP aSk_NNP mE_NNP tO_NNP gO_NNP jOin_NNP lOr_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+tHen_NNP whEn_NNP wE_NNP waLk_NNP pAst_NNP tHem_NNP ._. ._.
+hE_NNP taLk_NNP qUite_NNP loUd_NNP ._.
+saYin_NNP tAt_NNP i_FW waNna_NNP joIn_NNP ._. ._.
+thEn_NNP i_FW dRaG_NNP hiM_NNP bY_NNP hIs_NNP hAnd_NNP n_VBD mOve_NNP aWay_NNP fR_NNP thEr_NNP ._. ._.
+iT_NNP wAs_NNP dInNeR_NNP tiMe_NNP aFt_NNP e_SYM mOviE_NNP eNdeD_NNP ._. ._.
+cA_NNP n't_RB tHinK_VBD oF_NNP wHer_NNP tO_NNP gO_NNP eAt_NNP ._. ._.
+wE_NNP sTanD_NNP hEre_NNP N_NNP theR_NNP ._. ._.
+waLk_NNP heRe_NNP n_VBD tHeR_NNP ._. ._.
+hE_NNP cRaCkiN_NNP hIs_NNP brAin_NNP tO_NNP tHinK_NNP oF_NNP pLacEs_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+i_FW dUn_FW waNna_NNP tHinK_NNP ma_FW ._. ._.
+^_RB ^_CD aFt_NNP hRs_NNP oF_NNP tHinKin_NNP ._. ._.
+wE_NNP deCidEd_NNP tO_NNP gO_NNP eAt_NNP aT_NNP sAkaE_NNP ._. ._.
+\*_SYM hAha_NN \*_SYM ._. ._.
+hE_NNP aSkeD_NNP 4_CD a_DT taBLe_NN ._. ._.
+nOt_NNP wAntiN_NNP tO_NNP siT_NNP aT_NNP e_SYM tAbLe_NNP aRd_NNP e_SYM beLt_NNP ._. ._.
+eRm_NNP ._. ._.
+hE_NNP dId_NNP n'T_NNP eAt_NNP a_DT Lot_NN aS_VBZ iN_NNP hE_NNP iS_NNP a_DT maLe_NNP ._. ._.
+wE_NNP oNLy_NNP eaT_NNP 7_CD pLatE_NNP iN_NNP toTaL_NNP ._. ._.
+5_CD Of_IN it_PRP iS_VBZ nOrmAl_NNP pLate_NNP -LRB-_-LRB- uNaGi_NNP ,_, iKa_NNP ,_, fRieD_NNP sCaLLoP_NNP ,_, jeLLyfiSh_NNP ,_, mIyO-cRabmEat_NNP -RRB-_-RRB- ._. ._.
+1_CD reD_NNP pLate_NNP ._. ._.
+-LRB-_-LRB- sCaLLoP_NNP -RRB-_-RRB- ._. ._.
+n_NN 1_CD eBi_NNP teMpUrA_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP aTe_NNP u_NNP uNaGi_NNP ._. ._.
+e_LS 2nD_JJ 1_CD hE_NNP asK_NNP mE_NNP tO_NNP eAt_NNP bUt_NNP i_FW dUn1_NNP ._. ._.
+sO_NN i_FW tOt_FW hE_FW iS_FW gOin_FW tO_FW eaT_FW iT_FW liAo_FW ._. ._.
+bUt_NNP nO._NNP ._.
+hE_NNP aTe_NNP e_SYM riCe_NNP ._. ._.
+tHen_NNP feEd_NNP mE_NNP e_SYM uNaGi_NNP ._.
+hE_NNP dUn_NNP eAt_NNP iKa_NNP ._. ._.
+bUt_NNP i_FW kInd_NNP Of_IN wAn_NNP hiM_NNP tO_NNP eAt_NNP ._. ._.
+sO_NNP hE_NNP aTE_NNP ._.
+uSuaLLy_NNP iT_NNP waS_NNP cOokEd_NNP ._. ._.
+bUt_NNP yeSt_NNP 1_CD wAs_NNP nOt_NNP ._.
+cAn_NNP sEe_NNP hE_NNP duN_NNP liK_NNP lAr_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+bUt_NNP hE_NNP saY_NNP wiLL_NNP eaT_NNP e_SYM nXt_NNP tImE_NNP iF_NNP iT_NNP iS_NNP cOoKeD_NNP laR_NNP ._. ._.
+e_LS fRieD_NNP sCaLLoP_NNP hAs_NNP goT_NNP miYo_NNP oN_NNP tOp_NNP oF_NNP iT_NNP n_VBD i_FW duN_FW EaT_FW Them_FW ._. ._.
+He_PRP aSk_VBD mE_NNP tO_NNP bIte_NNP e_SYM nO_FW miYo_FW pArt_FW n_FW hE_FW wiLL_FW eAt_FW e_SYM mIyO_NNP paRt_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP dUn_NNP eAt_NNP jeLLyfiSh_NNP ._. ._.
+,_, n_NN i_FW duN_FW eAt_FW mIyO_FW cRabMeaT_NNP ._. ._.
+sO_NN ._. ._.
+wE_NNP jUz_NNP fiN_NNP bOth_NNP oF_NNP taT_NNP oUrseLf_NNP ._. ._.
+hE_NNP aTe_NNP e_SYM sCaLLoP_NNP ._. ._.
+sAyiN_NNP tAt_NNP iT_NNP iS_NNP qUitE_NNP nIce_NNP ._. ._.
+hE_NNP dUn_NNP uSuAlly_NNP eAt_NNP tAt_NNP ._. ._.
+yA_NN ._. ._.
+tHen_NNP e_SYM teMpuRa_NNP hAs_NNP goT_NNP mIyO_NNP oN_NNP toP_NNP oF_NNP iT_NNP ._. ._.
+hE_NNP reQueSt_NNP tHeM_NNP tO_NNP sePeRatE_NNP e_SYM mIyo_NNP thIngY_NNP 4_CD mE_NNP ._. ._.
+hE_NNP waNteD_NNP tO_NNP pAy_NNP aS_NNP uSuaL_NNP ._. ._.
+n_NN i_FW wAnteD_NNP tO_NNP pAy_NNP aS_NNP uSuaL_NNP ._. ._.
+^_RB ^_CD hE_NNP toOk_NNP oUt_NNP hIs_NNP waLLet_NNP ._. ._.
+wAntiN_NNP tO_NNP pAy_NNP Le_NNP ._. ._.
+But_CC iN_NNP e_SYM eNd_FW ._. ._.
+i_FW sTil_FW wOn_FW n_FW gOt_FW tO_FW pAy_FW ._. ._.
+i_FW duN_FW wAnNa_NNP mAn_NNP tO_NNP pAy_NNP eVeRytImE_NNP ._. ._.
+tAt_NNP 's_POS y._NN ._.
+i_FW 'M_FW nOt_FW sTuPiD_FW ._. ._.
+hE_NNP sAy_NNP hE_NNP wAs_NNP dAmN_NNP pAisaY_NNP ._. ._.
+hE_NNP wiLL_NNP aT_NNP leAsT_NNP pAy_NNP a_DT pOrtIon_NNP oF_NNP iT_NNP ._. ._.
+bUt_NNP i_FW giF_NNP hIm_NNP nO_NNP cHanCe_NNP tO_NNP pAy_NNP ._. ._.
+i_FW pAiD_FW e_SYM fuLL_NNP aMt_NNP ._. ._.
+^_RB ^_CD aFt_NNP e_SYM diNnEr_NNP ._. ._.
+wE_NNP weNt_NNP hM_NNP ._. ._.
+toOk_VB a_DT bUs_NNS ._. ._.
+960_CD ._.
+sOrt_NNP oF_NNP tirEd_NNP oN_NNP e_SYM bUs_NNPS ._. ._.
+hE_NNP aSk_NNP mE_NNP tO_NNP sLp_NNP ._. ._.
+i_FW duN1_FW ._. ._.
+i_FW cA_FW n't_RB rEaLLy_NNP faLL_NNP asLp_NNP oN_NNP e_SYM Bus_NN 1_CD ._. ._.
+sO_NN ._. ._.
+hE_NNP seNt_NNP mE_NNP hM_NNP ._. ._.
+tiL_NNP e_SYM vOid-dEcK_NNP ._. ._.
+oPen_NNP e_SYM lEtteR_NNP wHicH_NNP hE_NNP aLsO_NNP noE_NNP iS_NNP wHicH_NNP 1_CD lE_NNP ._. ._.
+yA_NN ._. ._.
+tHeN_NNP wHen_NNP i_FW wAs_NNP gOin_NNP iNtO_NNP e_SYM liFt_NNP ._. ._.
+hE_NNP pUt_NNP hiS_NNP aRms_NNP aRd_NNP mY_NNP waIst_NNP n_VBD gEstUre_NNP mE_NNP tO_NNP gO_NNP aGaiN_NNP ._. ._.
+^_FW ^_FW hE_FW caLL_FW mE_FW n_FW cHaT_FW ._. ._.
+wHiLe_NNP hE_NNP iS_NNP oN_NNP e_SYM buS_NNPS oN_NNP e_SYM wAy_NNP hM_NNP ._. ._.
+wE_NNP taLk_NNP tiL_NNP hE_NNP rEaCh_NNP hM_NNP ._. ._.
+tHen_NNP hE_NNP sAy_NNP hE_NNP cAll_NNP mE_NNP aFt_NNP tAt_NNP ._. ._.
+n_JJ hE_NNP dId_NNP ._. ._.
+wE_NNP taLk_NNP fR_NNP aRd_NNP miDniTe_NNP tO_NNP aRd_NNP 3aM_NNP ._.
+tHeN_NNP hE_NNP gO_NNP bAtH_NNP &_CC i_FW wEnT_FW tO_FW bRusH_NNP mY_NNP teEth_NNP ._. ._.
+aFt_NNP i_FW rEtuRn_NNP tO_NNP mY_NNP rM_NNP ,_, i_FW gOt_FW hiS_FW cAll_FW ._. ._.
+tHen_NNP fR_NNP tAt_NNP tiMe_NNP oNwaRds_NNP ._. ._.
+wE_NNP taLk_NNP tiL_NNP 4aM_NNP +_NN ._. ._.
+yA_NN ._. ._.
+taLk_VB a_DT loT_NNP ._. ._.
+i_FW wEnt_FW bK_FW tO_FW mY_FW sEc_FW scH_FW 4_CD mY_NNP `_`` O_NNP '_'' lvL_NNP ceRt_NNP On_IN sAt_NN ._.
+mEeT_NNP mY_NNP fRen_NNP aT_NNP e_SYM mIniMaRt_NNP oUtsiDe_NNP sCh_NNP ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+sHe_NNP wAs_NNP lAte_NNP ._. ._.
+wHen_NNP sHe_NNP aRRivE_NNP ,_, wE_NNP weNt_NNP iNto_NNP e_SYM sCh_NNP ._. ._.
+tOok_NNP oUr_NNP ceRt_NNP ._. ._.
+siT_NNP aRd_NNP ._. ._.
+n_NN Left_VBN ._. ._.
+tHen_NNP wE_NNP wenT_NNP bK_NNP tO_NNP e_SYM pLaygRd_NNP bSidE_NNP e_SYM mInimArt_NNP n_NNP sAt_NNP dW_NNP ._. ._.
+cHAttiNg_NNP ._. ._.
+wE_NNP wAlk_NNP a_DT LoTz_NNP ._. ._.
+fR_NNP aRd_NNP nOoN_NNP tiL_NNP 2pM_NNP +_NN ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+TheN_RB fR_NNP oUr_NNP cOnvErsAtiON_NNP ._. ._.
+i_FW fOunD_NNP oUt_NNP sMtn_NNP ._. ._.
+oN_NNP frI._NNP ._.
+mY_NNP bF_NNP ,_, hEr_NNP -LRB-_-LRB- hYu_NNP -RRB-_-RRB- ,_, hH_NNP &_CC rAcHaL_NNP weNt_NNP oUt_NNP 2gEthEr_NNP ._. ._.
+tHy_NNP weNt_NNP tO_NNP oRchArD_NNP ._. ._.
+sHe_NNP toLd_NNP mE_NNP ._. ._.
+sHe_FW n_FW mY_FW bF_FW waLkeD_NNP 2geThEr_NNP iNfrOnt_NNP wHiLe_NNP hH_NNP &_CC rAchaL_NNP waLkeD_NNP behInD_NNP ._. ._.
+tHen_NNP thY_NNP paSt_NNP hyAtt_NNP hOteL_NNP wHiLe_NNP tHy_NNP saW_NNP sm_NN giRls_VBZ cRowD_NNP tHer_NNP ._. ._.
+beHiNd_NNP e_SYM bArriErs_NNPS n_VBP sEcuRiTy_NNP ._. ._.
+yA_NN ._. ._.
+tHen_NNP tHy_NNP -LRB-_-LRB- mY_NNP bF_NNP &_CC hYu_NNP -RRB-_-RRB- wEnt_NNP tO_NNP fAr_NNP eAst_NNP 1sT_NNP ._. ._.
+hH_NNP &_CC raChaL_NNP cAtcH_NNP uP_NNP wiF_NNP tHem_NNP lAteR_NNP ._. ._.
+rAchAl_NNP wAs_NNP e_SYM kPo_FW 1_CD ._. ._.
+weNt_NNP tO_NNP aSk_NNP 1_CD oF_NNP e_SYM giRls_NNS y_VBP r_NN tHy_NNP cRoWdiNg_NNP aRd_NNP tHer_NNP ._. ._.
+tHeN_NNP tHy_NNP toLd_NNP hEr_NNP tAt_NNP zAizAi_NNP -LRB-_-LRB- vIc_NNP -RRB-_-RRB- &_CC jErrY_NNP wAs_NNP iNsiDe_NNP e_SYM hOteL_NNP ._. ._.
+OMG_NNP ._. ._.
+F4_CD ._. ._.
+yA_NN ._. ._.
+wAt_NNP i_FW wAnnA_NNP saY_NNP is_VBZ N't_RB f4_JJ ._. ._.
+bUt_NNP e_SYM oUtiN_NNP mY_NNP bF_NNP weNt_NNP ._. ._.
+hE_NNP ceRtaInLy_NNP caN_NNP gO_NNP sHoPPinG_NNP wIf_NNP oTherS_NNP wHiLe_NNP lEaVin_NNP mE_NNP aSidE_NNP ._. ._.
+huH_NNP ?_.
+iT_NNP hAs_NNP bEeN_NNP arD_NNP 2wKs_NNS sInCe_VBP i_FW lAst_FW sEe_FW hIm_FW ._. ._.
+hE_NNP wAs_NNP n'T_NNP iNteResTeD_NNP in_IN SeeIn_NNP mE_NNP hUh_NNP ?_.
+oNly_RB mSg_NNP mE_NNP aT_NNP niTE_NNP ._. ._.
+aSkin_NNP mE_NNP wAt_NNP i_FW 'M_NNP dOin_NNP ._. ._.
+tHeN_NNP loTz_NNP of_IN ``_`` cOnCerNin_NNP ''_'' thIngY_NNP ._. ._.
+oR_NN ._. ._.
+tAlKin_NNP cRaP_NNP ._. ._.
+tHeN_NNP gDniTe_NNP ._. ._.
+sAyiN_NNP hE_NNP miSs_NNP mE_NNP oR_NNP lOvE_NNP mE_NNP ._. ._.
+hAiZ_NNP ._. ._.
+i_FW 'M_FW tHinKin_NN ._. ._.
+wAt_NNP 'S_POS e_SYM pt_FW oF_FW sAyiN_NNP alL_NNP tHosE_NNP tHinGs_NNP wHEn_NNP hE_NNP dId_NNP n'T_NNP rEaLLy_NNP mEaN_NNP iT_NNP ??_NNP i_FW aDmiT_NNP ._. ._.
+wHen_NNP i_FW sAy_NNP gDniTe_NNP &_CC lOve_NNP hiM_NNP tO_NNP hIm_NNP tOo_NNP ._. ._.
+i_FW wAs_FW n'T_FW reAllY_NNP siNceRn_NNP tOo_NNP ._. ._.
+i_FW kInd_FW iF_FW waNnA_NNP a_DT bRk-uP_NNP wIf_NNP hIm_NNP ._. ._.
+buT_NNP u_NNP dUnnO_NNP iS_NNP iT_NNP riTe_NNP tO_NNP dO_NNP sO_NNP ._. ._.
+\*_SYM siGhz_NN \*_SYM ._. ._.
+sO_NN maNy_NNP daYs_NNP nV_NNP wRitE_NNP le_FW ._. ._.
+laPPy_NNP sPoiL_NNP loR_NNP ._. ._.
+haIz_NNP ._. ._.
+\*_SYM saD_NN \*_SYM ._. ._.
+rEfoRmaT_NNP iT_NNP ._. ._.
+buT_NNP ._. ._.
+it_PRP 'S_VBZ oK_NNP noW_NNP ._. ._.
+\*_SYM haPpIeZ_NNP \*_SYM ._. ._.
+speNt_NNP sO_NNP muCh_NNP tiMe_NNP rUnnInG_NNP uP_NNP dw_VBD e_SYM IT-heLpdeSk_NNP ._. ._.
+tHeN_NNP i_FW mAn_NNP giF_NNP mE_NNP taT_NNP fuCkiN_NNP aTtitUdE_NNP ._. ._.
+\*_SYM haIz_NN \*_SYM ._. ._.
+juZ_NNP waNnA_NNP siT_NNP thEr_NNP n_VBD gEt_NNP pAiD_NNP ._. ._.
+oK_NN ._. ._.
+gOnNa_NNP starT_NNP wRitN_NNP sOoN_NNP ._. ._.
+miSS_NNP ouT_NNP sO_NNP maNy_NNP daYs_NNP ._. ._.
+\*_SYM haIz_NN \*_SYM ._. ._.
+i_FW hAte_FW faLLin_NNP siCk_NNP ._. ._.
+feeL_NNP fLu_NNP n_VBD cOugh_NNP iN_NNP e_SYM moRninG_NNP ._. ._.
+oN_NNP frI_NNP moRniNg_NNP ._. ._.
+zE_NNP mSg_NNP mE_NNP n_VBD teLL_NNP mE_NNP hE_NNP iSnt_NNP goIn_NNP tO_NNP sCh_NNP ._. ._.
+sO_NNP i_FW 'LL_NNP bE_NNP goIn_NNP aLoNe_NNP ._. ._.
+e_LS tHouGh_NNP oF_NNP noT_NNP gOin_NNP toO_NNP caMe_NNP aCroSs_NNP mY_NNP miNd_NNP ._. ._.
+buT_NNP i_FW wAnnA_NNP sEe_NNP mY_NNP deAr_NNP n_VBD i_FW gOt_FW aRt_FW mEetiN_NNP aFt_NNP sCh_NNP ._. ._.
+sO_NN i_FW weNt_FW ._. ._.
+aT_NN e_SYM buS-stOP_NNP ._. ._.
+i_FW reCeiVe_FW a_DT mSg_NNP fR_NNP xIanG_NNP saYin_NNP taT_NNP shE_NNP iS_NNP nOt_NNP goIn_NNP tO_NNP scH_NNP toO_NNP ._. ._.
+tHen_NNP i_FW reGreTed_NNP mY_NNP aCtioN_NNP ._. ._.
+shLd_JJ haF_NNP stAy_NNP aT_NNP hM_NNP toO_NNP ._. ._.
+sO_NN i_FW weNt_FW tO_FW sCh_FW ._. ._.
+buT_NNP feeLin_NNP sO_NNP siCk_NNP ._. ._.
+mY_NNP nOsE_NNP feeL_NNP sO_NNP teRRibLe_NNP ._. ._.
+e_LS mUcuS_NNP waS_NNP ruNNinG_NNP liK_NNP taP_NNP waTeR_NNP ._. ._.
+\*_SYM siGhz_NN \*_SYM ._. ._.
+sO_NN i_FW mSn_FW liNg_FW ._. ._.
+eN_NNP n_NNP siLing_NNP ._. ._.
+aSkin_NNP thEm_NNP waNna_NNP gO_NNP noT_NNP ._. ._.
+iN_NNP e_SYM enD_NNP onLy_NNP liNg_NNP leAve_NNP wiF_NNP mE_NNP ._. ._.
+sHe_NNP wAs_NNP eaSiLy_NNP teMpteD_NNP ._. ._.
+^_RB ^_CD bRyaN_NNP laPPy_NNP waS_NNP sPoiLed_VBD ._. ._.
+sO_NN i_FW aSk_FW hiM_FW tO_FW joIn_FW uS_FW n_FW leAvE_NNP toO_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+sO_NN e_SYM 3_CD oF_NNP uS_NNP leFt_NNP ._. ._.
+D_NNP sEnt_NNP mE_NNP dw_VBD n_JJ wAit_NN 4_CD e_SYM buS_NNPS wiF_NNP mE_NNP ._. ._.
+^_RB ^_CD S_NNP noE_NNP taT_NNP i_FW 'M_NNP siCk_NNP tOo_NNP ._. ._.
+fR_NNP mY_NNP mSn_NNP niCk_NNP ._. ._.
+hE_NNP aSk_NNP whEtheR_NNP i_FW 'M_NNP oK_NNP noT_NNP ._. ._.
+n_NN sAy_NNP hE_NNP cAn_NNP gO_NNP feTch_NNP mE_NNP iF_NNP i_FW wAn_NNP ._. ._.
+hE_NNP aSk_NNP iF_NNP i_FW gOt_NNP a_DT feVeR_NNP n_NN i_FW aNs_FW ``_`` nO_NNP ''_'' ._. ._.
+iT_NNP waS_NNP nO_NNP aT_NNP taT_NNP tiMe_NNP ._. ._.
+hE_NNP seEm_NNP tO_NNP noE_NNP mE_NNP weLL_NNP stiL_NNP ._. ._.
+wLd_NNP noE_NNP taT_NNP i_FW wiLL_NNP dvP_NNP a_DT fEveR_NNP ._. ._.
+n_JJ hE_NNP aSk_NNP mE_NNP tO_NNP taKe_NNP sM_NNP coUgh_NNP sYruP_NNP siNce_NNP i_FW wuN_NNP gO_NNP tO_NNP a_DT doC_NNP ._. ._.
+i_FW weNt_FW tO_FW F.E_FW 1sT_FW ._. ._.
+waNna_NNP eaT_NNP loNg_NNP joHn_NNP ._. ._.
+^_RB ^_CD buT_NNP reGreTed_NNP afT_NNP tiS_NNP ._. ._.
+mY_NNP thRoaT_NNP wAs_NNP sO_NNP paIn_NNP aFt_NNP tiS_NNP ._. ._.
+i_FW bRouGht_NNP 2_CD sEt_NNP oF_NNP ``_`` fiSh_NNP &_CC cHickEn_NNP ''_'' baCk_NNP tO_NNP e_SYM sHoP_FW n_FW eAt_FW ._. ._.
+haNg_NNP aRd_NNP thEN_NNP weNt_NNP hM_NNP ._. ._.
+feeL_NNP sO_NNP gD_NNP tO_NNP siT_NNP oN_NNP e_SYM aLmoSt_NNP eMptY_NNP buS_NNP wiF_NNP e_SYM sUnbEaM_NNP shIninG_NNP oNn_NNP mE_NNP ._. ._.
+i_FW weNt_FW hM_FW n_FW haD_FW sM_FW reSt_FW ._. ._.
+sLp_NNP foR_NNP aWhiLe_NNP ._. ._.
+deAr_NNP caMe_NNP tO_NNP loOk_NNP 4_CD mE_NNP aFt_NNP sCh_NNP ._. ._.
+hE_NNP weNt_NNP tO_NNP buY_NNP sWeeT_NNP &_CC cHocO_NNP 4_CD mE_NNP 1sT_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+buT_NNP i_FW ca_MD N't_RB eaT_VB e_SYM cHoCo_NNP ._. ._.
+mUz_NNP waiT_NNP tiL_NNP i_FW reCovEr_NNP ._. ._.
+hE_NNP aCcoMpaNy_NNP mE_NNP fR_NNP aRd_NNP 7pM_NNP tO_NNP 10pM_NNP +_NN ._. ._.
+i_FW Lie_NN oN_NNP hiS_NNP laP_NNP ._. ._.
+theN_NNP aS_NNP tiMe_NNP gOes_NNP bY_NNP ._. ._.
+mY_NNP boDy_NNP teMpeRatuRe_NNP gOt_NNP hoTteR_NNP ._. ._.
+n_JJ taT_NNP 's_POS hoW_NNP i_FW gOt_NNP feVer_NNP ._. ._.
+iNsiDe_NNP mY_NNP rM_NNP ._. ._.
+i_FW aSk_FW hiM_FW tO_FW liE_FW dW_FW cUz_FW i_FW wAn_FW tO_FW huG_FW hiM_FW mA_FW ._. ._.
+aS_NNP tiMe_NNP gOes_NNS by_IN ._. ._.
+wE_NNP gEt_NNP rEaL_NNP cLosE_NNP ._. ._.
+i_FW wAs_FW toUchin_FW hiM_FW n_FW hE_FW diD_FW e_SYM sAme_NNP tOo_NNP ._. ._.
+fR_NN E_NNP OuTsIde_NNP oF_NNP hiS_NNP jEaNs_NNP tO_NNP iNsiDe_NNP ._. ._.
+tHen_NNP tiL_NNP e_SYM moRe_NNP iNneR_NNP ._. ._.
+i_FW wOndeR_NNP dId_NNP hE_NNP n_VBD hiS_NNP paSt_NNP gF_NNP dO_NNP tiS_NNP toO_NNP ._. ._.
+hiS_NNP fiNgeR_NNP gOes_NNP iNto_NNP mE_NNP ._. ._.
+sO_NNP baD_NNP huH_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP wAs_NNP `_`` sTanDin_VBG '_'' le_FW ._. ._.
+tHen_NNP hE_NNP stOp_NNP mE_NNP fR_NNP gOin_NNP oN_NNP sMtimE_NNP ._. ._.
+sAyin_NNP hE_NNP duN_NNP waNnA_NNP geT_NNP wEt_NNP ._. ._.
+sO_NNP iT_NNP meAns_NNP taT_NNP i_FW wAs_NNP aCtuaLLy_NNP gEttiN_NNP hiM_NNP oN_NNP ??_NNP \*_SYM heHe_NNP \*_SYM ._. ._.
+yA_NN ._. ._.
+thEn_NNP hE_NNP wEnt_NNP hM_NNP le_FW loR_NNP ._. ._.
+aSk_NNP mE_NNP gO_NNP bAth_NNP 1sT_NNP thEn_NNP sLp_NNP ._. ._.
+wHen_NNP i_FW gO_NNP tO_NNP beD_NNP ._. ._.
+i_FW mSg_FW hiM_FW n_FW teLL_FW hiM_FW ._. ._.
+feLt_NNP asLp_NNP b4_CD hE_NNP rEpLy_NNP mE_NNP ._. ._.
+buT_NNP i_FW keEp_NNP waKin_NNP uP_NNP evErY_NNP noW_NNP n_VBD thEn_NNP ._. ._.
+12aM_JJ +_NN ._. ._.
+3aM_NNP +_NNP ._. ._.
+5aM_JJ +_NN ._. ._.
+7aM_NNP +_NNP ._. ._.
+feeLin_NNP sO_NNP siCk_NNP n_VBD teRRibLe_NNP ._. ._.
+aTe_NN 1_CD paNadoL_NNP laSt_NNP niTe_NNP n_VBD 1_CD tiS_NNP moRninG_NNP ._. ._.
+feeL_NNP beTTer_NNP noW_NNP ._. ._.
+hE_NNP wAs_NNP gOin_NNP 4_CD a_DT mAtcH_NNP 2niTe_NNP ._. ._.
+i_FW cA_FW n't_RB bE_VB theR_NN ._. ._.
+duN_NNP thiNk_NNP SAS_NNP aPProVe_NNP mY_NNP eNtrY_NNP ._. ._.
+wHiLe_NNP hE_NNP wAs_NNP aT_NNP hiS_NNP Bb_NNP tRaiNinG_NNP ,_, hE_NNP aSk_NNP hiS_NNP cOuSin_NNP ,_, faiTh_NNP ,_, tO_NNP mSn_NNP mE_NNP n_NNP sEnt_NNP mE_NNP e_SYM dRk_NNP cHoCo_NNP ,_, piNk_NNP roSe_NNP n_VBD heLLo_NNP kiTTy_NNP ._. ._.
+\*_SYM hEHe_NN \*_SYM ._. ._.
+hE_NNP aLwaYs_NNP dO_NNP taT_NNP oN_NNP mSn_NNP ._. ._.
+i_FW tOt_FW iT_FW wAs_FW hiM_FW aT_FW e_SYM fiRst_RBS pLaCe_JJ ._. ._.
+sO_NN i_FW caLL_FW hiM_FW ``_`` deAr_NNP deAr_NNP ''_'' ._. ._.
+n_JJ gOt_NNP e_SYM rEpLy_NNP ``_`` i_FW 'M_FW nOt_FW daNieL_NNP ''_'' ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+sO_NNP sHy_NNP ._. ._.
+sHe_NNP tHen_NNP toLd_NNP mE_NNP taT_NNP DanieL_NNP diD_NNP noT_NNP sLePt_NNP laSt_NNP niTe_NNP ._. ._.
+cUz_NNP hE_NNP wAs_NNP aFraId_NNP taT_NNP sMtn_NNP miGht_NNP haPPen_NNP tO_NNP mE_NNP ._. ._.
+i_FW sOrt_FW oF_FW liK_FW doUbt_NNP waT_NNP sHe_NNP haD_NNP sAid_NNP ._. ._.
+i_FW wAs_FW sMs-in_NN D_NNP aT_NNP niTe_NNP wHen_NNP i_FW wOke_NNP uP_NNP bUt_NNP hE_NNP diD_NNP n't_RB rEpLy_VBD mE_NNP ._. ._.
+n_NN hoW_NNP wLd_NNP sHe_NNP noE_NNP ._. ._.
+sHe_NNP duN_NNP sLp_NNP wiF_NNP hiM_NNP ._. ._.
+sO_NN ._. ._.
+feeL_NNP liK_NNP sHe_NNP waNteD_NNP tO_NNP mKe_NNP mE_NNP feeL_NNP jEaLouS_NNP onLy_NNP ._. ._.
+rMb_NNP D_NNP toLd_NNP mE_NNP hiS_NNP cOusIn_NNP liK_NNP hiM_NNP ._. ._.
+^_RB ^_CD waS_NNP wiF_NNP hiM_NNP aS_NNP uSuaL_NNP ._. ._.
+nOw_NNP ._. ._.
+wE_NNP diD_NNP n't_RB hiDe_VBD fR_NNP e_SYM cLaSs_NNPS aNymOre_NNP ._. ._.
+hE_NNP hoLd_NNP mY_NNP haNds_NNP ._. ._.
+uNdeR_NNP e_SYM tAbLe_NNP laR_NNP ._. ._.
+\*_SYM hehE_NN \*_SYM ._. ._.
+bUt_NNP iT_NNP wAs_NNP sWeEt_NNP ._. ._.
+^_RB ^_CD aFt_NNP sCh_NNP 2daY_NNP ._. ._.
+wE_NNP weNt_NNP tO_NNP MS_NNP aS_NNP usUaL_NNP ._. ._.
+^_RB ^_CD aTe_NNP aT_NNP e_SYM foOdcOuRt_NNP aT_NNP MW_NNP ._. ._.
+i_FW atE_FW jAp_FW foOd_FW ._. ._.
+hE_VB paYs_NNS 4_CD iT_NN ._. ._.
+^_RB ^_CD afT_NNP taT_NNP ._. ._.
+wE_NNP weNt_NNP hM_NNP le_FW ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+siT_NNP aT_NNP e_SYM vOid-deCk_NNP ._. ._.
+fOoLin_NNP aRd_NNP ._. ._.
+tiS_NNP tiMe_NNP ._. ._.
+wE_NNP weNt_NNP aBit_NNP moRe_NNP ``_`` cLoSe_NNP ''_'' ._. ._.
+^_RB ^_CD hE_NNP toUcheD_NNP mE_NNP ._. ._.
+e_LS kiNd_NNP taT_NNP hiS_NNP haNd_NNP gO_NNP uNdeRneAth_NNP mY_NNP cLothEs_NNP ._. ._.
+toUchEd_NNP mY_NNP sTomAch_NNP ._. ._.
+^_RB ^_CD tHeN_NNP hE_NNP moVe_NNP uPwaRd_NNP tO_NNP mY_NNP bReaST_NNP ._. ._.
+hE_NNP toUchEd_NNP iT_NNP ._. ._.
+\*_SYM rEaLLy_NNP \*_SYM ._. ._.
+n_JJ hE_NNP aLSo_NNP kiNd_NNP oF_NNP liK_NNP toUcH_NNP iT_NNP sMtiMe_NNP ._. ._.
+hE_NNP aSk_NNP mE_NNP iF_NNP i_FW wOuLd_NNP miNd_NNP hiM_NNP toUchiN_NNP mE_NNP ._. ._.
+i_FW sHoOk_NNP mY_NNP heAd_NNP ._. ._.
+yA_NN ._. ._.
+i_FW fEeL_FW hiS_FW thIngY_NNP tOo_NNP ._. ._.
+u_FW nOe_FW ._. ._.
+giRls_NNS cAn_VBP feEl_NNP iT_NNP wHen_NNP thY_NNP stAnd_NNP ._. ._.
+^_RB ^_CD i_FW pUt_FW mY_FW haNd_FW aRd_FW thEr_FW toO_FW ._. ._.
+duNnO_NNP iF_NNP hE_NNP nOe_NNP iT_NNP ._. ._.
+cUz_NNP i_FW wAs_NNP liK_NNP ._. ._.
+aCtiN_NNP bLur_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+buT_NNP i_FW eNjoY_NNP e_SYM niTe_NNP wiF_NNP hiM_NNP ._. ._.
+iT_NNP wAs_NNP sO_NNP sWeEt_NNP ._. ._.
+^_FW ^_FW sO_FW kiSsY_FW ._. ._.
+sO_NNP lOveY_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+D_NNP wAs_NNP wAitiNg_NNP 4_CD mE_NNP aFt_NNP sCh_NNP 2daY_NNP ._. ._.
+cuZ_NNP i_FW haF_NNP aRt_NNP meEtiN_NNP toDaY_NNP ._. ._.
+yA_NN ._. ._.
+buT_NNP i_FW toLd_NNP hiM_NNP i_FW wiLL_NNP gO_NNP oFf_NNP eArLieR_NNP ._. ._.
+yA_NN ._. ._.
+sO_NN ._. ._.
+i_FW gOt_FW aWy_FW aT_FW 630pM_NNP ._.
+wE_NNP weNt_NNP tO_NNP toWn_NNP tO_NNP haF_NNP diNnEr_NNP ._. ._.
+dRoP_NNP aT_NNP TAKA_NNP stOp_NNP ._. ._.
+waLk_NNP heRe_NNP n_VBD thEre_NNP buT_NNP ca_MD N't_RB deCide_VB oN_NNP waT_NNP tO_NNP eAt_NNP ._. ._.
+wHiLe_NNP cOmiN_NNP uP_NNP fr_NN TAKA_NNP ,_, wE_NNP weRe_NNP liK_NNP joKin_NNP n_VBD hE_NNP sORt_NNP oF_NNP liK_NNP faKe_NNP aNgRy_NNP ._. ._.
+yA_NN ._. ._.
+i_FW duN1_FW tO_FW giF_FW iN_FW n_FW mE_FW toO_FW giF_FW e_SYM ``_`` hMpHf_NNP ''_'' faCe_NNP ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+i_FW oPen_FW e_SYM doOr_NNP 4_CD hiM_NNP buT_NNP reaLise_NNP tAt_NNP hE_NNP haD_NNP gO_NNP 4_CD aNothEr_NNP doOr_NNP bsIde_NNP ._. ._.
+yA_NN ._. ._.
+hE_NNP aPoLogiSe_NNP thEn_NNP buT_NNP i_FW aM_NNP liK_NNP quItE_NNP uNhaPpeY_NNP boUt_NNP e_SYM dOoR_NNP thIngY_NNP le_FW ._. ._.
+theN_NNP i_FW sAy_NNP tiS_NNP tO_NNP hiM_NNP ,_, ``_`` u_FW aLwaYs_FW sAy_FW tiS_FW buT_FW nV_FW dO_FW sO_FW ._. ''_''
+hE_NNP beCaMe_NNP qUitE_NNP ._. ._.
+yA_NN ._. ._.
+thEN_NNP wE_NNP iNtenT_NNP tO_NNP leAvE_NNP TAKA_NNP aRea_NNP n_VBD gO_NNP tO_NNP PS_NNP ._.
+wE_NNP nV_NNP reaLLy_NNP taLk_NNP tiL_NNP wE_NNP reAcH_NNP PS_NNP ._.
+hE_NNP toLd_NNP mE_NNP taT_NNP hE_NNP reAlly_NNP loVe_NNP mE_NNP n_NNP duN1_NNP tO_NNP loSe_NNP mE_NNP ._. ._.
+^_RB ^_CD \*_SYM toUcheD_NNP \*_SYM ._. ._.
+i_FW wUn_FW leAve_FW hiM_FW ._. ._.
+i_FW reAlly_NNP dO_NNP loVe_NNP hiM_NNP toO_NNP ._. ._.
+i_FW aM_FW sO_FW haPpY_NNP tO_NNP heAr_NNP taT_NNP fr_NNP hiM_NNP ._. ._.
+cAn_NNP seE_NNP taT_NNP aMonG_NNP aLL_NNP hiS_NNP gF_NNP ,_, hE_NNP loVe_NNP mE_NNP e_SYM moSt_NNP ._.
+wE_NNP sAt_NNP aT_NNP e_SYM vOid-deCk_NN 4_CD sM_NNP tiMe_NNP b4_CD goIn_NNP uP_NNP ._.
+hE_NNP sAy_NNP hE_NNP wiLL_NNP stAy_NNP oVeR_NNP At_IN My_PRP$ hSe_NN oN_NNP frI_NNP niT_NNP e._FW ._.
+^_RB ^_CD i_FW wAs_FW sO_FW haPPy_NNP taT_NNP hE_NNP sAY_NNP taT_NNP ._. ._.
+bUt_NNP faKe_NNP aSkiN_NNP hiM_NNP cAn_NNP taHan_NNP e_SYM hEat_NNP nOt_NNP ._. ._.
+tHEn_NNP hE_NNP sAy_NNP aNywAy_NNP i_FW wAnnA_NNP gO_NNP tO_NNP mY_NNP ofFiCe_NNP oN_NNP sAt_NNP tO_NNP geT_NNP mY_NNP paY_NNP mA_NNP ._. ._.
+^_RB ^_CD hE_NNP wAnNa_NNP pEi_NNP mE_NNP ._. ._.
+cAn_NNP sEnSe_NNP ._. ._.
+\*_SYM heHe_NN \*_SYM ._. ._.
+hE_NNP iS_NNP a_DT mAn_NNP whO_NNP nV_NNP liK_NNP tO_NNP taKe_NNP piC_NNP 1_CD ._. ._.
+i_FW toLd_FW hiM_FW i_FW wAn_FW a_DT pIc_NNP wiF_NNP hiM_NNP ._. ._.
+hE_NNP thiNk_NNP 4_CD a_DT mOmEnt_NNP n_NN teLL_NNP mE_NNP tO_NNP aRraNge_NNP e_SYM dAte_NNP ._. ._.
+iNfoRm_NNP hIm_NNP b4_CD haNd_NNP n_NNP hE_NNP wiLL_NNP peI_NNP mE_NNP gO_NNP taKe_NNP piC_NNP ._. ._.
+^_RB ^_CD i_FW sAy_FW taT_FW ``_`` duN_NNP teLL_NNP mE_NNP u_NNP nV_NNP taKe_NNP pIc_NNP wiF_NNP e_SYM otHer_JJR 4_CD b4_CD loR_NNP ''_'' ._. ._.
+hE_NNP aNs_NNP ``_`` nO._NNP ''_'' e_SYM 1sT_NNP &_CC 2nD_NNP oNe_NNP nV_NNP ._.
+3rD_NNP iS_NNP a_DT aRtiSte_NNP ._. ._.
+ca_MD N't_RB ._.
+4tH_NNP ._. ._.
+aLsO_NNP nV_NNP ._. ._.
+sO_NN ._. ._.
+i_FW 'M_FW e_SYM luCky_NNP 1_CD ?_.
+\*_SYM hEhe_NN \*_SYM iN_FW cLaSs_NNPS 2daY_NNP ._. ._.
+i_FW gOt_FW rEaL_FW uPseT_NNP wiF_NNP D._NNP i_FW wAs_NNP uSin_NNP PAINT_NNP tO_NNP dRaW_NNP n_VBD deCo_NNP sMtn_NNP reLateD_NNP tO_NNP hiM_NNP ._. ._.
+hE_NNP seEm_NNP ``_`` uNhaPpY_NNP ''_'' boUt_NNP iT_NNP sO_NNP i_FW deCideD_NNP tO_NNP cLoSe_NNP e_SYM wIndOw_NNP w\/o_NNP sAviNg_NNP mY_NNP woRk_NNP ._.
+hE_NNP stOppEd_NNP iT_NNP ._.
+buT_NNP e_SYM 2nD_JJ tiMe_NN ._. ._.
+fiDgettiNg_NNP aRd_NNP ._. ._.
+i_FW cLoSed_FW e_SYM wiN_NNP ._. ._.
+nV_NNP saVe_NNP ._.
+i_FW wAs_FW rEaLLy_NNP uPseT_NNP boUt_NNP iT_NNP ._.
+cAnt_NNP i_FW dO_NNP sMtn_NNP boUt_NNP hiM_NNP ._. ._.
+waT_NNP 's_POS wROnG_NNP wiF_NNP iT_NNP ._.
+y_RB mUz_NNP hE_NNP wAnteD_NNP tO_NNP sToP_NNP mE_NNP fr_NN taT_NNP sO_NNP ``_`` eaGerLy_NNP ''_'' ??_VB \*_SYM siGhz_NNP \*_SYM ._. ._.
+i_FW cRieD_NNP ._. ._.
+i_FW gUeSs_NNS hE_VBP diD_NNP n't_RB nOe_VBD ._. ._.
+guEss_NNP eN_NNP sAw_NNP ._. ._.
+hE_NNP keeP_NNP aPoLogiSinG_NNP tO_NNP mE_NNP ._. ._.
+sAyiN_NNP sOrrY_NNP ._. ._.
+aSk_NNP mE_NNP iF_NNP i_FW 'M_NNP aNgRy_NNP ._. ._.
+i_FW saY_FW nO._FW ._.
+tHen_NNP hE_NNP KeeP_NNP pRomPtiNg_NNP ._. ._.
+saYin_NNP taT_NNP iF_NNP i_FW 'M_NNP nOt_NNP aNgrY_NNP ._. ._.
+i_FW muZ_FW bE_FW upSet_NNP oR_NNP waT_NNP ._. ._.
+i_FW saY_FW nO_FW toO_FW ._. ._.
+thOu_NNP e_SYM aNs_NNPS iS_NNP yeS_NNP ._.
+yA_NN ._. ._.
+wEnt_NNP tO_NNP eaT_NNP aT_NNP buGiS_NNP tO_NNP haF_NNP diNNer_NNP ._. ._.
+aT_NN e_SYM foOdcOuRt_NNP ._. ._.
+^_RB ^_CD hE_NNP brOuGht_NNP 4_CD mE_NNP ._. ._.
+^_RB ^_CD buT_NNP keEp_NNP sTariN_NNP aT_NNP mE_NNP thRuoUt_NNP ._. ._.
+bUt_NNP reFuSe_NNP tO_NNP teLL_NNP mE_NNP y._NN ._.
+thEn_NNP hE_NNP sAy_NNP iT_NNP aFt_NNP wE_NNP leFt_NNP e_SYM fDcoUrt_NNP ._. ._.
+sAy_NNP taT_NNP i_FW loOk_NNP cUte_NNP toDay_NNP ._. ._.
+cHeEk_NNP piNk_NNP pInk_NNP 1_CD ._. ._.
+theN_NNP whEn_NNP i_FW 'M_NNP eAtin_NNP ._. ._.
+a_DT feW_NNP sTraNd_NNP oF_NNP mY_NNP haiR_NNP faLLs_NNP iNfroNt_NNP ._. ._.
+\*_SYM cUtez_NN \*_SYM ._. ._.
+thEn_NNP hE_NNP beeN_NNP saYiN_NNP mE_NNP cuTe_NNP aLL_NNP e_SYM whiLe_NNP ._. ._.
+sO_NN i_FW sAy_FW hiM_FW ._. ._.
+haF_NNP aLreAdy_NNP sAy_NNP hiS_NNP paSt_NNP 4_CD gF_NNP cUte_NNP hoW_NNP maNy_NNP tiMe_NNP le_FW ._. ._.
+hE_NNP thEN_NNP toLd_NNP mE_NNP taT_NNP hE_NNP seLdoM_NNP saY_NNP taT_NNP ._. ._.
+e_LS 1st_CD n_NN 2nD_JJ oNe_NNP nV_NNP ._. ._.
+onLy_NNP e_SYM 4tH_NNP oNe_NNP ._. ._.
+i_FW beLieVe_FW hiM_FW ._. ._.
+hE_NNP weNt_NNP uP_NNP tO_NNP mY_NNP pLaCe_NNP ._. ._.
+aS_NNP uSuaL_NNP ._. ._.
+weNt_NNP to_TO mY_NNP beDrM_NNP ._. ._.
+hE_NNP waS_NNP sWeAtin_NNP toDay_NNP ._. ._.
+i_FW duNno_NNP waT_NNP to_TO dO_VB tO_NNP heLp_NNP toO_NNP ._. ._.
+i_FW 'vE_FW goT_FW nO_FW aiR-coN_NN ._. ._.
+yA_NN ._. ._.
+hE_NNP lie_NN dw_NN oN_NNP mY_NNP bEd_NNP ._. ._.
+huGgiNg_NNP mE_NNP ._. ._.
+toUchiN_NNP ._. ._.
+buT_NNP i_FW diDnt_NNP rEaLLy_NNP waNna_NNP leT_NNP hiM_NNP toUch_NNP iT_NNP tiS_NNP feW_NNP daY_NNP ._. ._.
+-LRB-_-LRB- it_PRP 'S_VBZ e_SYM girL_NNP thInG_NNP ._. ._. -RRB-_-RRB-
+yA_NN ._. ._.
+sO_NN ._. ._.
+wE_NNP weRe_NNP reaL_NNP cLosE_NNP toGethEr_NNP n_VBD hE_NNP whiSpEr_NNP tO_NNP mE_NNP sAyin_NNP taT_NNP hE_NNP rEaLLy_NNP liK_NNP mE_NNP wHen_NNP i_FW 'M_NNP toUchiN_NNP hiM_NNP ._. ._.
+^_RB ^_CD hE_NNP wAs_NNP sO_NNP sT_NNP aIghT_NNP 4waRd_NNP ._. ._.
+i_FW pReteNd_NNP taT_NNP i_FW nV_NNP heaR_NNP it_PRP buT_NNP hE_NNP dId_NNP n'T_NNP waN_NNP tO_NNP rePeAt_NNP ._. ._.
+^_RB ^_CD weLL_NNP ._. ._.
+iT_NNP oK_NNP ._. ._.
+hE_NNP wAs_NNP reAlly_NNP sOft_NNP wHen_NNP hE_NNP saY_NNP taT_NNP ._. ._.
+yA_NN ._. ._.
+sO_NN ._. ._.
+iN_NNP oVeraLL_NNP ._. ._.
+i_FW 'M_FW qUite_FW haPpY_NNP toDaY_NNP laR_NNP ~_NN ._. ._.
+^_RB ^_CD cHeErS_NNP ._. ._.
+<sup>_JJ TM_NNP </sup>_NNP mY_NNP deAr_NNP waS_NNP siCk_NNP ._. ._.
+hE_NNP haS_NNP feVeR_NNP ._. ._.
+i_FW feLt_FW it_PRP wHen_NNP hE_NNP wAs_NNP oVer_NNP wiF_NNP mE_NNP ._. ._.
+toT_NNP tAt_NNP iT_NNP miGht_NNP juZ_NNP bE_NNP toO_NNP hoT_NNP 4_CD hiM_NNP iN_NNP mY_NNP rM_NNP ._. ._.
+bUt_NN ._. ._.
+hE_NNP wAs_NNP haVin_NNP feVer_NNP aCtuaLLy_NNP ._. ._.
+yA_NN ._. ._.
+sO_NN ..._: hE_NNP waNteD_NNP tO_NNP gO_NNP sAkaE_NNP n_VBD gEt_NNP e_SYM iCe-cReaM_NNP i_FW wAnteD_NNP thEr_NNP ._. ._.
+buT_NNP sEeiNg_NNP taT_NNP hE_NNP wAs_NNP siCk_NNP ,_, i_FW duN_FW waNna_NNP gO_NNP ._. ._.
+waNteD_NNP hiM_NNP tO_NNP gO_NNP n_VBD reSt_NNP iNsteAd_NNP ._. ._.
+hE_NNP inSiSteD_NNP oN_NNP geTtiN_NNP e_SYM iCe-cReAm_NNP buT_NNP i_FW duN1_NNP ._. ._.
+thEn_NNP wE_NNP kiNd_NNP oF_NNP liK_NNP qUaRreL_NNP oVer_NNP iT_NNP ._.
+i_FW sAid_FW sMtn_FW whIch_NNP maDe_NNP hiM_NNP uNhaPpY_NNP ._. ._.
+i_FW aPoLogiSeD_NNP ._. ._.
+hE_NNP duN_NNP miNd_NNP ._. ._.
+keEp_NNP sAyiN_NNP taT_NNP iT_NNP wAs_NNP hiS_NNP fAuLt_NNP ._. ._.
+hE_NNP wAs_NNP tOo_NNP iNsIstaNce_NNP ._. ._.
+buT_NNP i_FW saY_NNP nO._NNP ._.
+i_FW wAs_FW sOrrY_NN 4_CD mY_NNP aCtioNs_NNP oN_NNP e_SYM buS_NNPS ._. ._.
+hE_NNP sAy_NNP hE_NNP diD_NNP n't_RB bLaMe_VBD mE_NNP ._. ._.
+yA_NN ._. ._.
+n_JJ taT_NNP iT_NNP gOeS_NNP ._. ._.
+wE_NNP r_NN fiNe_NNP aFt_NNP taT_NNP ._. ._.
+^_RB ^_CD nO_NNP biG_NNP fuSs_NNP oVer_NNP tAt_NNP ._. ._.
+tHen_NNP wE_NNP beTteR_NNP tHaN_NNP wAt_NNP wE_NNP r_NN eArLieR_NNP ._. ._.
+pOuriN_NNP oUr_NNP hEartS_NNP oUt_NNP ._. ._.
+hE_NNP toLd_NNP mE_NNP taT_NNP hiS_NNP loNgeSt_NNP reLatiOnshiP_NNP laSteD_NNP foR_NNP 1yR_NNP 9mtHs_NNS ._. ._.
+sHoRtesT_NNP iS_NNP 1yR_NNP 3mThs_NNS ._. ._.
+yA_NN ._. ._.
+thEn_IN he_PRP wAs_VBZ eXpeCtiNg_NNP ouR_NNP reLatiOnshiP_NNP tO_NNP laSt_NNP tiL_NNP hE_NNP gO_NNP tO_NNP NS_NNP ._. ._.
+iT_NNP wiL_NNP bE_NNP liK_NNP 3yRs_NNS fr_VBP nOw_NNP ._. ._.
+^_FW ^_FW hMm_FW ._. ._.
+qUiTe_NNP oK_NNP mA_NNP ._. ._.
+\*_SYM hEhe_NN \*_SYM ._. ._.
+yA_NN ._. ._.
+n_JJ wE_NNP taLk_NNP boUt_NNP loTz_NNP thIngY_NNP ._. ._.
+iF_NNP i_FW diD_NNP n't_RB saY_VBD i_FW liK_FW hiM_FW ._. ._.
+,_, waT_NNP wLd_NNP iT_NNP b_NN liK_NNP noW_NNP ._. ._.
+bOuT_NNP e_SYM riNg_NNP oN_NNP mY_NNP riGht_NNP fiNgeR_NNP whIch_NNP hE_NNP n_VBD joN_NNP boTh_NNP nOtiCe_NNP ._. ._.
+hiS_NNP &_CC mY_NNP pAst_NNP ._. ._.
+etC_NNP etC._NNP ._.
+loTz_NNP ._. ._.
+^_CD ^_CD wAs_NNP aCtUally_NNP qUitE_NNP gLad_NNP taT_NNP wE_NNP caN_NNP bE_NNP sO_NNP frAnK_NNP wiF_NNP eAch_NNP oTheR_NNP ._. ._.
+^_RB ^_CD i_FW nOe_FW i_FW diD_FW n't_RB maKe_VB e_SYM wRonG_NNP cHoiCe_NNP boUt_NNP hiM_NNP ._. ._.
+i_FW reAlly_NNP do_VBP loVe_JJ aLot_NNP toO_NNP ._. ._.
+buT_NNP tO_NNP hiM_NNP ._. ._.
+it_PRP sEeM_VBD liK_NNP hE_NNP iS_NNP e_SYM 1_CD loVin_NNP mE_NNP ._. ._.
+yA_NN ._. ._.
+sO_NN ._. ._.
+\*_SYM siGhz_NN \*_SYM ._. ._.
+i_FW loVe_FW u_FW a_DT lOt_NNP deAr_NNP dEar_NNP ._. ._.
+dUn_NNP sUspeCt_NNP mY_NNP loVe_NNP 4u_NN ._. ._.
+tiMe_NNP reAlly_NNP fLieS_NNP ._. ._.
+wE_NNP haF_NNP beEn_NNP toGetheR_NNP 4_CD 1mtH_NNP aLreAdy_NNP ._. ._.
+^_RB ^_CD thOu_NNP iT_NNP iS_NNP n't_RB a_DT loNg_NNP tiMe_NNP ._. ._.
+i_FW eNjoY_NNP mY_NNP tiMe_NNP wiF_NNP hiM_NNP ._. ._.
+yA_NN ._. ._.
+buT_NNP theR_NNP r_NN aLsO_NNP tiMes_NNP wheN_NNP i_FW duN_NNP rEaLLy_NNP feeL_NNP haPpy_NNP wiF_NNP iT_NNP ._.
+hE_NNP toLd_NNP mE_NNP nOt_NNP tO_NNP keEp_NNP aNythiN_NNP fR_NNP hiM_NNP ._. ._.
+aNythiN_NNP ._. ._.
+jUz_NNP leT_NNP hiM_NNP nOe_NNP ._. ._.
+hOw_NNP aM_NNP i_FW goIn_NNP tO_NNP dO_NNP taT_NNP ??_NNP iT_NNP waS_NNP n't_RB mY_VBD sTyLe_NNP tO_NNP dO_NNP sO_NNP ._. ._.
+eXp_NNP ._. ._.
+hE_NNP iS_NNP rEaLLy_NNP a_DT rIch_NNP mAn_NNP ._. ._.
+cAme_NNP fR_NNP a_DT wEaLtHy_NNP faMiLy_NNP ._. ._.
+rEaL_NNP riCh_NNP ._. ._.
+sMtiMe_NN ._. ._.
+i_FW feeL_FW taT_FW mE_FW n_FW hiM_FW r_NN liK_NNP wOrLds_NNP aPaRt_NNP ._. ._.
+tHou_NNP i_FW reAlly_NNP loVe_NNP hiM_NNP ._. ._.
+i_FW duNnO_NNP hoW_NNP tO_NNP liVe_NNP iN_NNP hiS_NNP liFe_NNP ._. ._.
+sMtiMe_NNP i_FW feeL_NNP taT_NNP wE_NNP wiLL_NNP brK_NNP uP_NNP soOn_NNP ._. ._.
+oR_NNP juZ_NNP pUt_NNP it_PRP iN_NNP tiS_NNP wAy_NNP ._. ._.
+wE_NNP wuN_NNP laSt_NNP loNg_NNP ._. ._.
+aT_NNP leAst_NNP noT_NNP tAt_NNP loNg_NNP aS_NNP i_FW eXpeCt_NNP ._.
+iF_NNP thEr_NNP iS_NNP taT_NNP daY_NNP ._. ._.
+i_FW gUesS_NNP e_SYM reAsoN_NNP wLd_NNP bE_NNP taT_NNP hE_NNP iS_NNP toO_NNP riCh_NNP 4_CD mE_NNP ._. ._.
+wE_NNP duN_NNP maTch_NNP ._. ._.
+thEr_NNP iS_NNP a_DT cHi_NNP saYiN_NNP whIch_NNP gOes_NNP sMtn_NNP liK_NNP tiS_NNP ._. ._.
+``_`` baMboO_NNP gAte_NNP matCh_NNP wiF_NNP e_SYM bAmbOo_NNP gaTe_NNP whiLe_NNP sTeeL_NNP gaTe_NNP maTcheS_NNP wiF_NNP e_SYM stEel_NNP gaTe_NNP ._. ''_''
+e_LS meAniN_NNP iS_NNP e_SYM cOupLe_NNP 2geTheR_NNP shLd_NNP haF_NNP e_SYM sAme_NNP sOciaL_NNP sTatUs_NNPS ._. ._.
+hE_NNP &_CC i_FW ?_.
+..._: ..._: ..._: wOrLds_NNP aParT_NNP ._.
+i_FW 'M_FW aFraId_NNP oF_NNP goIn_NNP iNto_NNP hiS_NNP wOrLd_NNP tOo_NNP ._. ._.
+tOo_NNP faNcy4_NNP mE_NNP i_FW gUeSs_NNP ._. ._.
+i_FW 'M_FW aFraId_NNP taT_NNP i_FW cA_NNP n't_RB gO_VBD wiF_NNP iT_NNP ._. ._.
+wiLL_NNP hiS_NNP paReNts_VBZ aCcePt_NNP mY_NNP sTatUs_NNPS ?_.
+wiLL_NNP thY_NNP liK_NNP mE_NNP ?_.
+hOw_NNP aM_NNP i_FW gOin_NNP tO_NNP cOmm_NNP wiF_NNP hiS_NNP freNz_NNP ?_.
+hE_NNP haS_NNP goT_NNP loTz_NNP Of_IN frEnZ_NNP bK_NNP iN_NNP sTatEs_NNPS ._. ._.
+aSkiN_NNP mE_NNP tO_NNP gO_NNP bK_NNP wiF_NNP hiM_NNP aT_NNP e_SYM eNd_NNP oF_NNP tiS_NNP yR_NNP ._. ._.
+i_FW sAyi_FW wiLL_FW gO_FW wiF_FW hiM_FW ._. ._.
+bUt_NNP i_FW 'm_VBP jUz_NNP aFrAid_NNP ._. ._.
+bUt_NNP i_FW rEaLLy_NNP dO_NNP loVe_NNP hiM_NNP ._. ._.
+i_FW duN_FW wAnnA_NNP loSe_NNP hiM_NNP ._. ._.
+bUt_NNP cA_NNP n'T_NNP aNs_NNP mYseLf_NNP y_NNP i_FW loVe_NNP hiM_NNP sO_NNP muCh_NNP ._. ._.
+teLL_NNP mE_NNP iS_NNP nOt_NNP bCuZ_NNP oF_NNP hiS_NNP wEaLth_NNP ._. ._.
+nOpe_NN ._. ._.
+i_FW duN_FW thiNk_NNP sO_NNP toO_NNP ._. ._.
+i_FW 'M_FW nOt_FW taT_FW tyPe_FW oF_FW girLs_NNS ._. ._.
+iT_NNP iS_NNP sUnnY_NNP 's_POS bdAy_NNP tOdaY_NNP ._. ._.
+i_FW mSg_FW hiM_FW aRd_FW 12mN_FW sAyiN_NNP haPpY_NNP bdAy_NNP bUt_NNP nV_NNP gOt_NNP aNy_NNP rEpLy_NNP hIm_NNP ._. ._.
+sO_NN ..._: yA_NNP ._. ._.
+hE_NNP iS_NNP reAlly_NNP uPset_NNP wiF_NNP mE_NNP ._. ._.
+i_FW juZ_FW wAnnA_NNP tO_NNP stiL_NNP bEfriEnd_NNP hiM_NNP ._. ._.
+y_RB cAnt_NNP wE_NNP dO_NNP tAt_NNP ??_NNP \*_SYM siGhz_NNP \*_SYM ._. ._.
+i_FW diD_FW trY_FW tO_FW dO_FW uP_FW a_DT giFt_NN 4_CD hiM_NNP ._. ._.
+buT_NNP ._. ._.
+diDnt_NNP cOmpLete_NNP tOo_NNP ._. ._.
+duNNo_NNP hOw_NNP tO_NNP paSS_NNP iT_NNP tO_NNP hiM_NNP toO_NNP ._. ._.
+cAnt_NNP geT_NNP hiM_NNP oN_NNP hP_NNP ._. ._.
+did_VBD N't_NNP seE_NNP hiM_NNP oN_NNP mSn_NNP toO_NNP ._. ._.
+\*_SYM haiZ_NN \*_SYM ._. ._.
+jUz_NNP sAw_NNP aLaN_NNP oN_NNP e_SYM buS_NNPS hM_NNP feW_NNP dAys_NNP aGo_NNP ._. ._.
+i_FW wAs_FW wiF_FW D._NNP ._.
+hE_NNP sAt_NNP 2_CD sEat_NNP iNfrOnt_NNP oF_NNP uS_NNP ._. ._.
+theN_NNP i_FW sMs_NNP tO_NNP hiM_NNP ._. ._.
+teLLin_NNP hiM_NNP tO_NNP tuRn_NNP bEhiNd_NNP ._. ._.
+^_FW ^_FW hE_FW sAw_FW mE_FW n_FW cHanGe_NNP hiS_NNP sEat_NNP ._. ._.
+sAt_NNP iNfroNt_NNP oF_NNP D._NNP wE_NNP taLk_NNP ._. ._.
+hE_NNP taLk_NNP to_TO D_NNP toO_NNP ._. ._.
+i_FW 'M_FW stiL_FW afRaiD_NNP taT_NNP tHer_NNP wiL_NNP be_VB siLeNt_VBN beTweEn_NNP uS_NNP ._. ._.
+yA_NN ._. ._.
+thY_NNP wEre_NNP taLkin_NNP liK_NNP tHy_NNP haF_NNP aLreAdy_NNP nOe_NNP eAch_NNP oThEr_NNP weLL_NNP ._. ._.
+EaSy-goIn_JJ bA_NN ._. ._.
+bOth_NNP cRaPpIn_NNP toGetHer_NNP ._. ._.
+\*_SYM haHa_NN \*_SYM ._. ._.
+weLL_NNP ,_, D_NNP haD_NNP qUite_NNP a_DT gD_NNP iMpreSsiOn_NNP boUt_NNP aLaN_NNP ._. ._.
+sO_NNP i_FW gUeSs_NNP iT_NNP 's_POS oK_NNP ._. ._.
+^_RB ^_CD lAteR_NNP mY_NNP deAr_NNP cOmiN_NNP oVer_NNP n_NNP sTay_NNP oVerNite_NNP hEre_NNP aGaiN_NNP ._. ._.
+^_RB ^_CD lOve_NNP hiM_NNP huGgiN_NNP mE_NNP n_VBD sLp_NNP ._. ._.
+wAitiN_NNP 4_CD iT_NNP thEn_NNP ._. ._.
+^_RB ^_RB ._. ._.

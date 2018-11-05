@@ -1,0 +1,64 @@
+James_NNP D._NNP ``_`` Jim_NNP ''_'' Grant_NNP -LRB-_-LRB- born_VBN 29_CD October_NNP 1954_CD -RRB-_-RRB- ,_, primarily_RB known_VBN by_IN his_PRP$ pen_NN name_NN Lee_NNP Child_NNP ,_, is_VBZ a_DT British_JJ author_NN who_WP writes_VBZ thriller_NN novels_NNS ,_, and_CC is_VBZ best_RB known_VBN for_IN his_PRP$ Jack_NNP Reacher_NNP novel_NN series_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT books_NNS follow_VBP the_DT adventures_NNS of_IN a_DT former_JJ American_JJ military_JJ policeman_NN ,_, Jack_NNP Reacher_NNP ,_, who_WP wanders_VBZ the_DT United_NNP States_NNPS ._.
+His_PRP$ first_JJ novel_NN ,_, Killing_NNP Floor_NNP ,_, won_VBD both_CC the_DT Anthony_NNP Award_NNP ,_, and_CC the_DT Barry_NNP Award_NNP for_IN Best_JJS First_JJ Novel_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- Jim_NNP Grant_NNP was_VBD born_VBN in_IN Coventry_NNP ,_, England_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- His_PRP$ father_NN was_VBD a_DT civil_JJ servant_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP is_VBZ the_DT second_NN of_IN four_CD sons_NNS ;_: -LRB-_-LRB- 7_CD -RRB-_-RRB- his_PRP$ younger_JJR brother_NN ,_, Andrew_NNP Grant_NNP ,_, is_VBZ also_RB a_DT thriller_NN novelist_NN ._.
+Grant_NNP 's_POS family_NN relocated_VBD to_TO Handsworth_NNP Wood_NNP in_IN Birmingham_NNP when_WRB he_PRP was_VBD four_CD years_NNS old_JJ so_IN that_IN the_DT boys_NNS could_MD receive_VB a_DT better_JJR education_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- Grant_NNP attended_VBD Cherry_NNP Orchard_NNP Primary_JJ School_NNP in_IN Handsworth_NNP Wood_NNP until_IN the_DT age_NN of_IN 11_CD ._.
+He_PRP attended_VBD King_NNP Edward_NNP 's_POS School_NNP ,_, Birmingham_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- In_IN 1974_CD ,_, at_IN age_NN 20_CD ,_, Grant_NNP studied_VBD law_NN -LRB-_-LRB- 10_CD -RRB-_-RRB- at_IN University_NNP of_IN Sheffield_NNP ,_, though_IN he_PRP had_VBD no_DT intention_NN of_IN entering_VBG the_DT legal_JJ profession_NN and_CC ,_, during_IN his_PRP$ student_NN days_NNS ,_, worked_VBD backstage_RB in_IN a_DT theater_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- After_IN graduating_NN ,_, he_PRP worked_VBD in_IN commercial_JJ television_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- He_PRP received_VBD a_DT Bachelor_NNP of_IN Laws_NNP -LRB-_-LRB- LL_NNP ._.
+B_NNP -RRB-_-RRB- Degree_NN from_IN the_DT University_NNP of_IN Sheffield_NNP in_IN 1977_CD and_CC returned_VBD to_TO the_DT University_NNP to_TO receive_VB an_DT Honorary_NNP Doctor_NNP of_IN Letters_NNP -LRB-_-LRB- D._NNP Litt_NNP -RRB-_-RRB- in_IN 2009_CD ._.
+Grant_NNP joined_VBD Granada_NNP Television_NNP ,_, part_NN of_IN the_DT UK_NNP 's_POS ITV_NNP Network_NNP ,_, in_IN Manchester_NNP as_IN a_DT presentation_NN director_NN ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- There_EX he_PRP was_VBD involved_VBN with_IN shows_NNS including_VBG Brideshead_NNP Revisited_NNP ,_, The_DT Jewel_NNP in_IN the_DT Crown_NNP ,_, Prime_NNP Suspect_NNP ,_, and_CC Cracker_NNP ._.
+Grant_NNP was_VBD involved_VBN in_IN the_DT transmission_NN of_IN more_JJR than_IN 40,000_CD hours_NNS of_IN programming_NN for_IN Granada_NNP ,_, writing_VBG thousands_NNS of_IN commercials_NNS and_CC news_NN stories_NNS ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- He_PRP worked_VBD at_IN Granada_NNP from_IN 1977_CD to_TO 1995_CD -LRB-_-LRB- 6_CD -RRB-_-RRB- and_CC ended_VBD his_PRP$ career_NN there_RB with_IN two_CD years_NNS as_IN a_DT trade_NN union_NN shop_NN steward_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- After_IN being_VBG made_VBN redundant_NN from_IN his_PRP$ job_NN due_JJ to_TO corporate_JJ restructuring_NN ,_, -LRB-_-LRB- 11_CD -RRB-_-RRB- Grant_NNP decided_VBD to_TO start_VB writing_VBG novels_NNS ,_, stating_VBG they_PRP are_VBP ``_`` the_DT purest_JJS form_NN of_IN entertainment_NN ._. ''_''
+-LRB-_-LRB- 14_CD -RRB-_-RRB- In_IN 1997_CD ,_, his_PRP$ first_JJ novel_NN ,_, Killing_NNP Floor_NNP ,_, was_VBD published_VBN ,_, and_CC he_PRP moved_VBD to_TO the_DT United_NNP States_NNPS in_IN the_DT summer_NN of_IN 1998_CD ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- Grant_NNP starts_VBZ each_DT new_JJ installment_NN of_IN his_PRP$ book_NN series_NN on_IN the_DT anniversary_NN day_NN he_PRP began_VBD writing_VBG the_DT first_JJ book_NN in_IN the_DT wake_NN of_IN a_DT job_NN loss_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- His_PRP$ pen_NN name_NN ``_`` Lee_NNP ''_'' comes_VBZ from_IN a_DT family_NN joke_NN about_IN a_DT heard_VBN mispronunciation_NN of_IN the_DT name_NN of_IN Renault_NNP 's_POS Le_NNP Car_NNP ,_, as_IN `_`` Lee_NNP Car_NNP '_POS ._.
+Calling_VBG anything_NN `_`` Lee_NNP '_'' became_VBD a_DT family_NN gag_NN ._.
+His_PRP$ daughter_NN ,_, Ruth_NNP ,_, was_VBD `_`` lee_FW child_NN '_'' ._.
+Happily_RB for_IN Grant_NNP ,_, `_`` Child_NN '_'' places_VBZ his_PRP$ books_NNS alphabetically_RB on_IN bookstore_NN and_CC library_NN shelves_NNS between_IN crime_NN fiction_NN greats_NNS Raymond_NNP Chandler_NNP and_CC Agatha_NNP Christie_NNP ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- Grant_NNP has_VBZ said_VBN that_IN he_PRP chose_VBD the_DT name_NN Reacher_NN for_IN the_DT central_JJ character_NN in_IN his_PRP$ novels_NNS because_IN he_PRP himself_PRP is_VBZ tall_JJ and_CC when_WRB they_PRP were_VBD grocery_NN shopping_NN his_PRP$ wife_NN Jane_NNP remarked_VBD :_: ''_'' `_`` Hey_NNP ,_, if_IN this_DT writing_VBG thing_NN does_VBZ n't_RB pan_VB out_RP ,_, you_PRP could_MD always_RB be_VB a_DT reacher_NN in_IN a_DT supermarket_NN ._. '_''
+..._: '_'' I_PRP thought_VBD ,_, Reacher_NNP ''_'' good_JJ name_NN ._. '_'' ''_''
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Some_DT books_NNS in_IN the_DT Reacher_NNP series_NN are_VBP written_VBN in_IN first_JJ person_NN ,_, while_IN others_NNS are_VBP written_VBN in_IN the_DT third_JJ person_NN ._.
+Grant_NNP has_VBZ characterised_VBN the_DT books_NNS as_IN revenge_NN stories_NNS ''_'' ``_`` Somebody_NN does_VBZ a_DT very_RB bad_JJ thing_NN ,_, and_CC Reacher_NNP takes_VBZ revenge_NN ''_'' ''_'' driven_VBN by_IN his_PRP$ anger_NN at_IN the_DT downsizing_VBG at_IN Granada_NNP ._.
+Although_IN English_NNP ,_, he_PRP deliberately_RB chose_VBD to_TO write_VB American-style_JJ thrillers_NNS ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- In_IN 2007_CD ,_, Grant_NNP collaborated_VBD with_IN 14_CD other_JJ writers_NNS to_TO create_VB the_DT 17-part_JJ serial_NN thriller_NN The_DT Chopin_NNP Manuscript_NNP ,_, narrated_VBN by_IN Alfred_NNP Molina_NNP ._.
+This_DT was_VBD broadcast_VBN weekly_RB on_IN Audible.com_NN between_IN 25_CD September_NNP 2007_CD and_CC 13_CD November_NNP 2007_CD ._.
+On_IN 30_CD June_NNP 2008_CD ,_, it_PRP was_VBD announced_VBN that_IN Grant_NNP would_MD be_VB taking_VBG up_RP a_DT Visiting_VBG Professorship_NNP at_IN the_DT University_NNP of_IN Sheffield_NNP from_IN November_NNP 2008_CD ._.
+In_IN 2009_CD ,_, Grant_NNP funded_VBD 52_CD Jack_NNP Reacher_NNP scholarships_NNS for_IN students_NNS at_IN the_DT university_NN ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- Grant_NNP was_VBD elected_VBN president_NN of_IN the_DT Mystery_NNP Writers_NNPS of_IN America_NNP in_IN 2009_CD ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- In_IN 2012_CD ,_, his_PRP$ ninth_JJ novel_NN ,_, One_CD Shot_NN ,_, was_VBD adapted_VBN into_IN Jack_NNP Reacher_NNP ,_, an_DT American_JJ thriller_NN film_NN starring_VBG Tom_NNP Cruise_NNP ._.
+The_DT movie_NN was_VBD directed_VBN and_CC written_VBN by_IN Christopher_NNP McQuarrie_NNP ._.
+Grant_NNP made_VBD a_DT cameo_NN appearance_NN as_IN a_DT police_NN desk_NN sergeant_NN in_IN the_DT film_NN ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB- In_IN 2016_CD ,_, his_PRP$ eighteenth_NN novel_NN ,_, Never_RB Go_VB Back_RB ,_, was_VBD adapted_VBN into_IN Jack_NNP Reacher_NNP :_: Never_RB Go_VB Back_RB ,_, with_IN Tom_NNP Cruise_NNP reprising_VBG the_DT role_NN ._.
+The_DT film_NN was_VBD directed_VBN by_IN Edward_NNP Zwick_NNP ,_, and_CC the_DT screenplay_NN was_VBD written_VBN by_IN Richard_NNP Wenk_NNP ,_, Zwick_NNP ,_, and_CC Marshall_NNP Herskovitz_NNP ._.
+In_IN the_DT film_NN ,_, the_DT final_JJ scene_NN is_VBZ set_VBN in_IN New_NNP Orleans_NNP ,_, which_WDT was_VBD not_RB a_DT location_NN in_IN the_DT book_NN ._.
+The_DT author_NN approved_VBD this_DT addition_NN to_TO help_VB the_DT New_NNP Orleans_NNP economy_NN ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- In_IN the_DT film_NN ,_, Grant_NNP made_VBD a_DT cameo_NN appearance_NN as_IN a_DT TSA_NNP agent_NN ._.
+-LRB-_-LRB- 20_CD -RRB-_-RRB- In_IN the_DT bonus_NN footage_NN on_IN the_DT Blu-ray_JJ disc_NN ,_, Child_NNP explained_VBD that_IN in_IN both_DT films_NNS ,_, his_PRP$ cameo_NN appearance_NN involves_VBZ passing_VBG judgment_NN on_IN the_DT character_NN of_IN Jack_NNP Reacher_NNP ,_, and_CC speculated_VBD that_IN he_PRP will_MD repeat_VB these_DT type_NN of_IN appearances_NNS in_IN future_JJ Jack_NNP Reacher_NNP movies_NNS ._.
+-LRB-_-LRB- 21_CD -RRB-_-RRB- Grant_NNP 's_POS prose_NN has_VBZ been_VBN described_VBN as_IN ``_`` hardboiled_VBN ''_'' and_CC ``_`` commercial_JJ ''_'' in_IN style_NN ,_, with_IN short_JJ sentences_NNS ,_, often_RB without_IN a_DT verb_NN ,_, more_JJR exclamations_NNS than_IN sentences_NNS ._.
+A_DT 2012_CD interview_NN suggested_VBD that_IN many_JJ aspects_NNS of_IN the_DT Jack_NNP Reacher_NNP novels_NNS were_VBD deliberately_RB aimed_VBN at_IN maintaining_VBG the_DT books_NNS '_POS profitability_NN ,_, rather_RB than_IN for_IN literary_JJ reasons_NNS ._.
+For_IN instance_NN ,_, making_VBG Jack_NNP Reacher_NNP have_VBP one_CD parent_NN who_WP was_VBD French_JJ was_VBD suggested_VBN as_IN being_VBG partly_RB because_IN the_DT presence_NN of_IN only_JJ American_JJ members_NNS of_IN Reacher_NNP 's_POS family_NN would_MD limit_VB the_DT series_NN '_'' appeal_NN in_IN France_NNP ._.
+The_DT same_JJ interview_NN stated_VBD that_IN Grant_NNP ``_`` did_VBD n't_RB apologise_VB about_IN the_DT commercial_JJ nature_NN ''_'' of_IN his_PRP$ fiction_NN ._.
+-LRB-_-LRB- 22_CD -RRB-_-RRB- In_IN January_NNP 2012_CD ,_, Grant_NNP donated_VBD #_# 10,000_CD -LRB-_-LRB- about_IN US$_$ 16,000_CD at_IN the_DT time_NN -RRB-_-RRB- towards_IN a_DT new_JJ vehicle_NN for_IN Brecon_NNP Mountain_NNP Rescue_NN Team_NNP in_IN Wales_NNP ._.
+His_PRP$ brother_NN is_VBZ a_DT senior_JJ member_NN of_IN the_DT team_NN ._.
+The_DT team_NN 's_POS former_JJ control_NN vehicle_NN was_VBD written_VBN off_RP after_IN a_DT collision_NN in_IN 2011_CD ._.
+-LRB-_-LRB- 23_CD -RRB-_-RRB- Grant_NNP is_VBZ an_DT annual_JJ sponsor_NN and_CC original_JJ member_NN of_IN Thrillerfest_NNP ._.
+-LRB-_-LRB- 24_CD -RRB-_-RRB- Grant_NNP married_VBD his_PRP$ wife_NN Jane_NNP in_IN 1975_CD ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- They_PRP reside_VBP in_IN her_PRP$ native_JJ New_NNP York_NNP ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- They_PRP have_VBP a_DT daughter_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Grant_NNP is_VBZ a_DT fan_NN of_IN Aston_NNP Villa_NNP Football_NNP Club_NNP -LRB-_-LRB- 25_CD -RRB-_-RRB- and_CC has_VBZ been_VBN known_VBN to_TO include_VB the_DT names_NNS of_IN Aston_NNP Villa_NNP players_NNS in_IN his_PRP$ books_NNS ._.
+-LRB-_-LRB- 26_CD -RRB-_-RRB- In_IN 2013_CD ,_, the_DT Daily_NNP Mail_NNP quoted_VBD him_PRP saying_VBG that_IN he_PRP writes_VBZ while_IN intoxicated_VBN -LRB-_-LRB- ``_`` high_JJ ''_'' -RRB-_-RRB- by_IN cannabis_NNS and_CC that_IN he_PRP has_VBZ smoked_VBN the_DT recreational_JJ drug_NN five_CD nights_NNS a_DT week_NN for_IN 44_CD years_NNS ._.
+-LRB-_-LRB- 27_CD -RRB-_-RRB- However_RB ,_, in_IN a_DT phone_NN interview_NN in_IN November_NNP 2013_CD ,_, he_PRP clarified_VBD his_PRP$ comments_NNS to_TO the_DT Irish_NNP Examiner_NNP ,_, saying_VBG he_PRP 's_VBZ never_RB written_VBN while_IN high_JJ ._.
+``_`` Yeah_UH ,_, that_DT 's_VBZ true_JJ ,_, ''_'' Child_NNP told_VBD The_DT Post-Standard_NNP ._.
+``_`` I_PRP mean_VBP ,_, people_NNS say_VBP to_TO me_PRP ,_, `_`` There_EX was_VBD that_IN story_NN in_IN the_DT newspaper_NN ,_, '_'' and_CC I_PRP say_VBP ,_, `_`` No_UH ,_, that_DT 's_VBZ The_DT Daily_NNP Mail_NNP ._. '_''
+In_IN Britain_NNP ,_, that_DT 's_VBZ not_RB a_DT newspaper_NN ,_, you_PRP know_VBP ,_, that_DT 's_VBZ a_DT scandal_NN sheet_NN where_WRB they_PRP make_VBP stuff_NN up_RB ._.
+It_PRP 's_VBZ not_RB very_RB reliable_JJ ._.
+And_CC certainly_RB I_PRP do_VBP n't_RB deny_VB smoking_VBG the_DT occasional_JJ joint_NN ,_, but_CC I_PRP do_VBP n't_RB work_VB when_WRB I_PRP 'm_VBP stoned_VBN because_IN you_PRP do_VBP n't_RB get_VB much_RB done_VBN that_DT way_NN ._. ''_''
+-LRB-_-LRB- 28_CD -RRB-_-RRB- Note_NN :_: For_IN consistency_NN ,_, ISBN_NNP shows_VBZ Bantam_NNP -LRB-_-LRB- UK_NNP -RRB-_-RRB- hardcover_NN ,_, first_JJ printings_NNS only_RB ._.
+James_NNP Grant_NNP A.K.A._NNP Lee_NNP Child_NNP has_VBZ received_VBN honorary_JJ degrees_NNS from_IN several_JJ universities_NNS ._.
+These_DT include_VBP :_:

@@ -1,0 +1,5 @@
+Eminent_JJ Marathi_NNP litterateur_NN Bhalachandra_NNP Nemade_NNP has_VBZ been_VBN chosen_VBN for_IN the_DT 50th_JJ Jnanpith_NNP Award_NNP for_IN 2014_CD ._.
+His_PRP$ nomination_NN was_VBD decided_VBN at_IN a_DT meeting_NN of_IN the_DT Jnanpith_NNP selection_NN board_NN chaired_VBN by_IN writer_NN and_CC scholar_NN Namwar_NNP Singh_NNP ._.
+Born_VBN in_IN 1938_CD ,_, Namade_NNP occupies_VBZ a_DT unique_JJ place_NN in_IN Marathi_NNP literature_NN ._.
+His_PRP$ hugely_RB celebrated_JJ works_NNS ,_, from_IN ``_`` Kosala_NNP ''_'' ,_, 1963_CD to_TO his_PRP$ recently-published_JJ magnum_NN opus_NN ``_`` Hindu_NNP ''_'' ,_, have_VBP earned_VBN him_PRP a_DT reputation_NN as_IN a_DT self-aware_JJ ,_, globally_RB conscious_JJ and_CC alert_JJ writer_NN ,_, said_VBD a_DT statement_NN issued_VBN by_IN Bharatiya_NNP Jnanpith_NNP on_IN Friday_NNP ._.
+He_PRP has_VBZ also_RB been_VBN conferred_VBN the_DT Padma_NNP Shri_NNP and_CC has_VBZ won_VBN the_DT Sahitya_NNP Akademi_NNP Award_NNP besides_IN many_JJ other_JJ accolades_NNS ._.

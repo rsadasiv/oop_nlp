@@ -1,0 +1,47 @@
+Sir_NNP Thomas_NNP Fowell_NNP Buxton_NNP ,_, 1st_CD Baronet_NNP -LRB-_-LRB- 1_CD April_NNP 1786_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- ''_'' 19_CD February_NNP 1845_CD -RRB-_-RRB- was_VBD an_DT English_JJ Member_NNP of_IN Parliament_NNP ,_, brewer_NN ,_, abolitionist_NN and_CC social_JJ reformer_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP had_VBD connections_NNS with_IN the_DT Gurney_NNP family_NN ._.
+Buxton_NNP was_VBD born_VBN at_IN Castle_NNP Hedingham_NNP ,_, Essex_NNP ._.
+His_PRP$ father_NN was_VBD also_RB named_VBN Thomas_NNP Fowell_NNP Buxton_NNP ._.
+His_PRP$ mother_NN 's_POS maiden_JJ name_NN was_VBD Anna_NNP Hanbury_NNP ._.
+Through_IN the_DT influence_NN of_IN his_PRP$ mother_NN ,_, who_WP was_VBD a_DT Quaker_NNP ,_, Buxton_NNP became_VBD associated_VBN with_IN the_DT Gurney_NNP family_NN of_IN Earlham_NNP Hall_NNP ,_, Norwich_NNP ._.
+He_PRP was_VBD especially_RB close_JJ to_TO Joseph_NNP John_NNP Gurney_NNP ,_, his_PRP$ sister_NN the_DT prison_NN reformer_JJ Elizabeth_NNP Fry_NNP ,_, and_CC their_PRP$ sister_NN Hannah_NNP ,_, whom_WP he_PRP married_VBD in_IN May_NNP 1807_CD ._.
+He_PRP lived_VBD at_IN Northrepps_NNP Hall_NNP in_IN Norfolk_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- In_IN 1808_CD ,_, Buxton_NNP 's_POS Hanbury_NNP family_NN connections_NNS led_VBD to_TO an_DT appointment_NN to_TO work_VB at_IN the_DT brewery_NN of_IN Truman_NNP ,_, Hanbury_NNP &_CC Company_NNP ,_, in_IN Brick_NNP Lane_NNP ,_, Spitalfields_NNP ,_, London_NNP ._.
+In_IN 1811_CD he_PRP was_VBD made_VBN a_DT partner_NN in_IN the_DT business_NN ,_, renamed_VBN Truman_NNP ,_, Hanbury_NNP ,_, Buxton_NNP &_CC Co._NNP ._.
+He_PRP later_RB became_VBD sole_JJ owner_NN ._.
+Although_IN he_PRP was_VBD a_DT member_NN of_IN the_DT Church_NNP of_IN England_NNP ,_, Buxton_NNP attended_VBD meetings_NNS of_IN the_DT Religious_NNP Society_NNP of_IN Friends_NNPS -LRB-_-LRB- Quakers_NNPS -RRB-_-RRB- with_IN some_DT of_IN the_DT Gurneys_NNP ._.
+In_IN this_DT way_NN he_PRP became_VBD involved_VBN in_IN the_DT social_JJ reform_NN movement_NN ,_, in_IN which_WDT Friends_NNPS were_VBD prominent_JJ ._.
+He_PRP helped_VBD raise_VB money_NN for_IN the_DT weavers_NNS of_IN London_NNP ,_, who_WP were_VBD being_VBG forced_VBN into_IN poverty_NN by_IN the_DT factory_NN system_NN ._.
+He_PRP provided_VBD financial_JJ support_NN for_IN Elizabeth_NNP Fry_NNP 's_POS prison_NN reform_NN work_NN and_CC joined_VBD her_PRP$ Association_NN for_IN the_DT Improvement_NNP of_IN the_DT Female_NNP Prisoners_NNPS in_IN Newgate_NNP ._.
+Buxton_NNP was_VBD elected_VBN to_TO Parliament_NNP for_IN Weymouth_NNP and_CC Melcombe_NNP Regis_NNP in_IN 1818_CD ._.
+As_IN an_DT MP_NNP he_PRP worked_VBD for_IN changes_NNS in_IN prison_NN conditions_NNS and_CC criminal_JJ law_NN and_CC for_IN the_DT abolition_NN of_IN slavery_NN ,_, in_IN which_WDT he_PRP was_VBD helped_VBN by_IN his_PRP$ sister-in-law_NN Louisa_NNP Gurney_NNP Hoare_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- He_PRP also_RB opposed_VBD capital_JJ punishment_NN and_CC pushed_VBD for_IN its_PRP$ abolition_NN ._.
+Although_IN he_PRP never_RB accomplished_VBD this_DT last_JJ goal_NN during_IN his_PRP$ lifetime_NN ,_, he_PRP worked_VBD to_TO restrict_VB those_DT crimes_NNS for_IN which_WDT capital_JJ punishment_NN was_VBD sentenced_VBN ;_: the_DT number_NN of_IN crimes_NNS punishable_JJ by_IN death_NN was_VBD reduced_VBN from_IN more_JJR than_IN 200_CD to_TO eight_CD ._.
+Thomas_NNP and_CC Hannah_NNP Buxton_NNP had_VBD eight_CD children_NNS ._.
+Four_CD of_IN them_PRP died_VBD of_IN whooping_JJ cough_NN over_IN a_DT five-week_JJ period_NN around_IN April_NNP 1820_CD ._.
+Another_DT one_CD died_VBD of_IN tuberculosis_NN -LRB-_-LRB- consumption_NN -RRB-_-RRB- some_DT time_NN later_RB ._.
+Hannah_NNP would_MD send_VB boxes_NNS of_IN toys_NNS to_TO the_DT missionary_JJ Anna_NNP Hinderer_NNP in_IN Nigeria_NNP in_IN 1855_CD ._.
+By_IN 1866_CD her_PRP$ grandchildren_NNS were_VBD parcelling_VBG up_RP toys_NNS to_TO send_VB to_TO Nigeria_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- The_DT slave_NN trade_NN had_VBD been_VBN abolished_VBN in_IN 1807_CD ,_, but_CC Buxton_NNP began_VBD to_TO work_VB for_IN the_DT abolition_NN of_IN the_DT institution_NN of_IN slavery_NN ._.
+In_IN 1823_CD he_PRP helped_VBD found_VBD the_DT Society_NNP for_IN the_DT Mitigation_NNP and_CC Gradual_NNP Abolition_NNP of_IN Slavery_NNP -LRB-_-LRB- later_RBR known_VBN as_IN the_DT Anti-Slavery_NNP Society_NNP -RRB-_-RRB- ._.
+In_IN the_DT House_NNP of_IN Commons_NNPS in_IN May_NNP 1823_CD ,_, Buxton_NNP introduced_VBD a_DT resolution_NN condemning_VBG the_DT state_NN of_IN slavery_NN as_IN ``_`` repugnant_JJ to_TO the_DT principles_NNS of_IN the_DT British_JJ constitution_NN and_CC of_IN the_DT Christian_NNP religion_NN ''_'' ,_, and_CC called_VBN for_IN its_PRP$ gradual_JJ abolition_NN ``_`` throughout_IN the_DT British_JJ colonies_NNS ''_'' ._.
+He_PRP also_RB pressured_VBD the_DT government_NN to_TO send_VB dispatches_NNS to_TO the_DT colonies_NNS to_TO improve_VB the_DT treatment_NN of_IN slaves_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Buxton_NNP took_VBD over_RP as_IN leader_NN of_IN the_DT abolition_NN movement_NN in_IN the_DT British_NNP House_NNP of_IN Commons_NNPS after_IN William_NNP Wilberforce_NNP retired_VBD in_IN 1825_CD ._.
+He_PRP presented_VBD a_DT petition_NN to_TO the_DT House_NNP of_IN Commons_NNP bearing_NN 187,000_CD signatures_NNS ._.
+This_DT had_VBD been_VBN partly_RB organised_VBN by_IN Priscilla_NNP Buxton_NNP in_IN 1833_CD ,_, and_CC the_DT first_JJ two_CD signatures_NNS were_VBD Amelia_NNP Opie_NNP 's_POS and_CC hers_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP had_VBD achieved_VBN his_PRP$ goal_NN when_WRB slavery_NN was_VBD officially_RB abolished_VBN in_IN the_DT British_JJ Empire_NNP ,_, except_IN in_IN India_NNP and_CC Ceylon_NNP ._.
+Buxton_NNP held_VBD his_PRP$ seat_NN in_IN Parliament_NNP until_IN 1837_CD ._.
+In_IN 1839_CD Buxton_NNP urged_VBD the_DT British_JJ government_NN to_TO make_VB treaties_NNS with_IN African_JJ leaders_NNS to_TO abolish_VB the_DT slave_NN trade_NN ._.
+The_DT government_NN in_IN turn_NN backed_VBD the_DT Niger_NNP expedition_NN of_IN 1841_CD -LRB-_-LRB- not_RB including_VBG Buxton_NNP -RRB-_-RRB- put_VBN together_RB by_IN missionary_JJ organizations_NNS ,_, which_WDT was_VBD also_RB going_VBG to_TO work_VB on_IN trade_NN ._.
+More_JJR than_IN 150_CD people_NNS were_VBD part_NN of_IN the_DT expedition_NN ,_, which_WDT reached_VBD the_DT Niger_NNP Delta_NNP and_CC began_VBD negotiations_NNS ._.
+The_DT British_JJ suffered_VBD such_JJ high_JJ mortality_NN from_IN fevers_NNS ,_, with_IN more_JJR than_IN 25_CD %_NN of_IN the_DT group_NN dying_VBG rapidly_RB ,_, that_IN they_PRP cut_VBD short_JJ the_DT mission_NN in_IN 1841_CD ._.
+David_NNP Livingstone_NNP was_VBD strongly_RB influenced_VBN by_IN Buxton_NNP 's_POS arguments_NNS that_IN the_DT African_JJ slave_NN trade_NN might_MD be_VB destroyed_VBN through_IN the_DT influence_NN of_IN ``_`` legitimate_JJ trade_NN ''_'' -LRB-_-LRB- in_IN goods_NNS -RRB-_-RRB- and_CC the_DT spread_NN of_IN Christianity_NNP ._.
+He_PRP became_VBD a_DT missionary_JJ in_IN Africa_NNP and_CC fought_VBD the_DT slave_NN trade_NN all_DT his_PRP$ life_NN ._.
+On_IN 30_CD July_NNP 1840_CD Buxton_NNP was_VBD created_VBN a_DT baronet_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- His_PRP$ health_NN failed_VBD gradually_RB ''_'' according_VBG to_TO some_DT ,_, due_JJ to_TO disappointment_NN over_IN the_DT failed_VBN mission_NN to_TO Africa_NNP ._.
+He_PRP died_VBD five_CD years_NNS later_RB and_CC was_VBD buried_VBN at_IN Overstrand_NNP ._.
+On_IN 16_CD June_NNP 1824_CD a_DT meeting_NN was_VBD held_VBN at_IN Old_NNP Slaughter_NNP 's_POS Coffee_NNP House_NNP ,_, St_NNP Martin_NNP 's_POS Lane_NNP ,_, London_NNP ,_, that_WDT created_VBD the_DT Society_NNP for_IN the_DT Prevention_NNP of_IN Cruelty_NNP to_TO Animals_NNS ._.
+-LRB-_-LRB- It_PRP became_VBD the_DT RSPCA_NNP when_WRB Queen_NNP Victoria_NNP gave_VBD royal_JJ assent_NN in_IN 1840_CD ._. -RRB-_-RRB-
+-LRB-_-LRB- 8_CD -RRB-_-RRB- The_DT 22_CD founding_NN members_NNS included_VBD William_NNP Wilberforce_NNP ,_, Richard_NNP Martin_NNP ,_, Sir_NNP James_NNP Mackintosh_NNP ,_, Basil_NNP Montagu_NNP ,_, and_CC Reverend_NNP Arthur_NNP Broome_NNP ._.
+Buxton_NNP was_VBD appointed_VBN chairman_NN for_IN the_DT year_NN 1824_CD ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Buxton_NNP had_VBD a_DT number_NN of_IN notable_JJ descendants_NNS -LRB-_-LRB- five_CD sons_NNS and_CC six_CD daughters_NNS -RRB-_-RRB- :_: -LRB-_-LRB- 11_CD -RRB-_-RRB- Sir_NNP Edward_NNP North_NNP Buxton_NNP ,_, 2nd_JJ Baronet_NNP -LRB-_-LRB- 1812_CD ``_`` 1858_CD -RRB-_-RRB- :_: married_VBN Catherine_NNP Gurney_NNP -LRB-_-LRB- seven_CD sons_NNS ,_, five_CD daughters_NNS -RRB-_-RRB- Thomas_NNP Fowell_NNP Buxton_NNP -LRB-_-LRB- 1822_CD ``_`` 1908_CD -RRB-_-RRB- :_: Married_NNP Rachel_NNP Gurney_NNP -LRB-_-LRB- six_CD sons_NNS ,_, five_CD daughters_NNS -RRB-_-RRB- Charles_NNP Buxton_NNP ,_, MP_NNP -LRB-_-LRB- 1823_CD ``_`` 1871_CD -RRB-_-RRB- :_: married_VBN Emily_NNP Mary_NNP Holland_NNP -LRB-_-LRB- two_CD sons_NNS ,_, four_CD daughters_NNS -RRB-_-RRB- Priscilla_NNP Buxton_NNP -LRB-_-LRB- died_VBD 1852_CD -RRB-_-RRB- :_: married_VBN Andrew_NNP Johnston_NNP ,_, MP_NNP -LRB-_-LRB- c._FW 1798_CD ``_`` 1862_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- -LRB-_-LRB- 2_CD sons_NNS ,_, 4_CD daughters_NNS -RRB-_-RRB-

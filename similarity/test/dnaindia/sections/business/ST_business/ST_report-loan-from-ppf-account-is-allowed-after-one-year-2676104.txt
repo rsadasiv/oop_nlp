@@ -1,0 +1,32 @@
+Public_NNP Provident_NNP Fund_NNP -LRB-_-LRB- PPF_NNP -RRB-_-RRB- account_NN is_VBZ an_DT excellent_JJ tool_NN for_IN tax_NN planning_NN as_RB well_RB as_IN for_IN accumulating_VBG funds_NNS for_IN retirement_NN ._.
+PPF_NNP rules_NNS allow_VBP you_PRP to_TO use_VB the_DT money_NN before_IN maturity_NN ._.
+Let_VB us_PRP see_VB how_WRB it_PRP can_MD be_VB done_VBN ._.
+You_PRP can_MD avail_NN loan_NN from_IN your_PRP$ PPF_NNP account_NN after_IN completion_NN of_IN one_CD financial_JJ year_NN ,_, after_IN end_NN of_IN the_DT year_NN during_IN which_WDT the_DT first_JJ subscription_NN was_VBD made_VBN ._.
+For_IN example_NN ,_, for_IN PPF_NNP accounts_VBZ opened_VBN between_IN April_NNP 1_CD ,_, 2016_CD and_CC March_NNP 31_CD ,_, 2017_CD the_DT loan_NN can_MD first_RB be_VB availed_VBN during_IN the_DT financial_JJ year_NN beginning_VBG April_NNP 1_CD ,_, 2018_CD ._.
+The_DT maximum_NN amount_NN of_IN loan_NN is_VBZ restricted_VBN to_TO 25_CD %_NN of_IN the_DT balance_NN outstanding_JJ at_IN the_DT end_NN of_IN the_DT second_JJ year_NN ,_, that_WDT is_VBZ ,_, the_DT year_NN preceding_VBG the_DT year_NN in_IN which_WDT loan_NN application_NN is_VBZ made_VBN ._.
+So_RB during_IN FY_NNP 18-19_CD ,_, you_PRP can_MD avail_NN loan_NN of_IN maximum_NN of_IN 25_CD %_NN of_IN the_DT balance_NN as_IN on_IN March_NNP 31_CD ,_, 2017_CD ._.
+Loan_NN from_IN PPF_NNP account_NN can_MD be_VB taken_VBN by_IN making_VBG an_DT application_NN in_IN Form_NN D._NNP The_NNP loan_NN facility_NN is_VBZ available_JJ till_IN completion_NN of_IN five_CD full_JJ financial_JJ years_NNS ,_, from_IN the_DT end_NN of_IN the_DT year_NN in_IN which_WDT the_DT account_NN was_VBD opened_VBN ._.
+So_RB for_IN PPF_NNP account_VBP opened_VBN during_IN FY_NNP 16-17_CD in_IN the_DT above_JJ example_NN ,_, you_PRP can_MD avail_NN the_DT loan_NN facility_NN for_IN five_CD financial_JJ years_NNS ,_, that_DT is_VBZ ,_, starting_VBG from_IN FY_NNP 18-19_CD till_IN FY_NNP 22-23_CD ._.
+You_PRP will_MD lose_VB the_DT interest_NN on_IN the_DT amount_NN of_IN loan_NN taken_VBN ._.
+You_PRP will_MD also_RB have_VB to_TO pay_VB pay_VB an_DT annual_JJ interest_NN @_IN 2_CD %_NN on_IN the_DT amount_NN of_IN loan_NN taken_VBN ._.
+The_DT loan_NN taken_VBN has_VBZ to_TO be_VB repaid_VBN within_IN 36_CD months_NNS from_IN the_DT end_NN of_IN the_DT month_NN in_IN which_WDT the_DT loan_NN is_VBZ taken_VBN ._.
+In_IN case_NN you_PRP fail_VBP to_TO repay_VB the_DT loan_NN within_IN this_DT period_NN ,_, you_PRP have_VBP to_TO pay_VB penalty_NN of_IN 6_CD %_NN per_IN annum_NN on_IN the_DT amount_NN ._.
+You_PRP have_VBP to_TO first_JJ pay_NN the_DT loan_NN amount_NN and_CC then_RB the_DT interest_NN ._.
+The_DT unpaid_JJ interest_NN is_VBZ debited_VBN from_IN the_DT PPF_NNP account_NN ._.
+You_PRP can_MD not_RB take_VB a_DT loan_NN after_IN five_CD complete_JJ financial_JJ years_NNS ,_, from_IN end_NN of_IN the_DT year_NN in_IN which_WDT the_DT PPF_NNP account_NN was_VBD opened_VBN ._.
+But_CC you_PRP can_MD withdraw_VB from_IN the_DT PPF_NNP account_NN without_IN any_DT obligation_NN to_TO repay_VB it_PRP ._.
+The_DT application_NN has_VBZ to_TO be_VB made_VBN in_IN Form_NN C_NNP ._.
+You_PRP can_MD withdraw_VB a_DT maximum_NN amount_NN ,_, which_WDT is_VBZ lower_JJR of_IN 50_CD %_NN of_IN the_DT balance_NN in_IN the_DT PPF_NNP account_NN ,_, at_IN the_DT end_NN of_IN the_DT year_NN immediately_RB preceding_VBG the_DT financial_JJ year_NN in_IN which_WDT the_DT application_NN for_IN withdrawal_NN is_VBZ made_VBN ._.
+In_IN case_NN any_DT loan_NN is_VBZ outstanding_JJ ,_, the_DT same_JJ shall_MD be_VB deduced_VBN from_IN the_DT amount_NN of_IN withdrawal_NN requested_VBN ._.
+No_DT withdrawals_NNS are_VBP permitted_VBN in_IN respect_NN of_IN accounts_NNS where_WRB regular_JJ contributions_NNS are_VBP not_RB made_VBN ._.
+Tenure_NN of_IN your_PRP$ PPF_NNP account_NN can_MD be_VB extended_VBN by_IN submitting_VBG Form_NN H_NNP ,_, for_IN a_DT block_NN of_IN five_CD years_NNS ,_, at_IN a_DT time_NN ._.
+It_PRP can_MD be_VB extended_VBN for_IN any_DT number_NN of_IN blocks_NNS ._.
+From_IN the_DT PPF_NNP account_NN extended_VBN ,_, you_PRP can_MD make_VB withdrawals_NNS up_IN to_TO 60_CD %_NN of_IN the_DT amount_NN outstanding_JJ at_IN the_DT time_NN of_IN extension_NN ,_, in_IN one_CD or_CC more_JJR installments_NNS during_IN the_DT period_NN of_IN extension_NN ._.
+In_IN respect_NN of_IN the_DT PPF_NNP accounts_NNS that_WDT have_VBP matured_VBN and_CC the_DT option_NN for_IN further_JJ extension_NN has_VBZ not_RB been_VBN made_VBN ,_, you_PRP can_MD withdraw_VB the_DT accumulated_VBN balance_NN at_IN the_DT end_NN of_IN 15_CD years_NNS in_IN one_CD or_CC more_JJR than_IN one_CD annual_JJ installments_NNS ._.
+You_PRP will_MD continue_VB to_TO earn_VB interest_NN on_IN such_JJ balances_NNS from_IN time_NN to_TO time_NN till_IN you_PRP fully_RB withdraw_VBP the_DT money_NN ._.
+Normally_RB PPF_NNP account_NN can_MD not_RB be_VB closed_VBN before_RB completion_NN of_IN 15_CD years_NNS from_IN the_DT end_NN of_IN the_DT year_NN in_IN which_WDT first_JJ subscription_NN was_VBD made_VBN ._.
+However_RB ,_, under_IN two_CD conditions_NNS ,_, closure_NN of_IN the_DT PPF_NNP account_NN after_IN completion_NN of_IN five_CD years_NNS ,_, from_IN end_NN of_IN the_DT year_NN in_IN which_WDT the_DT account_NN was_VBD opened_VBN ,_, is_VBZ permitted_VBN ._.
+Firstly_RB ,_, the_DT PPF_NNP account_NN can_MD be_VB closed_VBN prematurely_RB if_IN funds_NNS are_VBP needed_VBN for_IN medical_JJ treatment_NN for_IN a_DT serious_JJ life_NN threatening_VBG disease_NN of_IN the_DT subscriber_NN ,_, his_PRP$ spouse_NN ,_, his_PRP$ dependent_JJ children_NNS or_CC parents_NNS ._.
+Secondly_RB it_PRP can_MD be_VB closed_VBN if_IN funds_NNS are_VBP needed_VBN for_IN higher_JJR education_NN of_IN the_DT account_NN holder_NN ._.
+In_IN case_NN the_DT PPF_NNP account_NN is_VBZ prematurely_RB closed_VBN ,_, a_DT penalty_NN by_IN way_NN of_IN reduction_NN in_IN the_DT interest_NN credited_VBN for_IN each_DT year_NN ,_, by_IN 1_CD %_NN is_VBZ levied_VBN ._.
+The_DT writer_NN is_VBZ a_DT tax_NN and_CC investment_NN expert_NN

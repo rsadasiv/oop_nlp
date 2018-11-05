@@ -1,0 +1,5 @@
+Phanuel_NNP Bacon_NNP DD_NNP -LRB-_-LRB- 13_CD October_NNP 1700_CD ''_'' 10_CD January_NNP 1783_CD -RRB-_-RRB- was_VBD an_DT English_JJ playwright_NN ,_, poet_NN and_CC author_NN ._.
+He_PRP was_VBD the_DT son_NN of_IN the_DT Rev._NNP Phanuel_NNP Bacon_NNP ,_, vicar_NN of_IN St_NNP Laurence_NNP 's_POS church_NN ,_, in_IN Reading_VBG ._.
+In_IN his_PRP$ youth_NN ,_, Bacon_NNP attended_VBD Abingdon_NNP School_NNP and_CC later_RB entered_VBD St_NNP John_NNP 's_POS College_NNP ,_, Oxford_NNP ._.
+He_PRP became_VBD vicar_NN of_IN Bramber_NNP ,_, Sussex_NNP ,_, and_CC rector_NN of_IN Marsh_NNP Baldon_NNP ,_, Oxfordshire_NNP ._.
+Among_IN his_PRP$ works_NNS are_VBP The_DT Kite_NNP -LRB-_-LRB- 1722_CD -RRB-_-RRB- ,_, The_DT Moral_NNP Quack_NN ,_, The_DT Insignificants_NNPS ,_, The_DT Tryal_NNP of_IN the_DT Timekillers_NNPS ,_, The_DT Occulist_NNP and_CC The_DT Taxes_NNS ,_, all_DT written_VBN in_IN 1757_CD ._.

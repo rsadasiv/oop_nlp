@@ -3,9 +3,9 @@ package com.outofprintmagazine.nlp.scorers.categorical;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.outofprintmagazine.nlp.Score;
 import com.outofprintmagazine.nlp.Ta;
 import com.outofprintmagazine.nlp.scorers.ScorerImpl;
+import com.outofprintmagazine.nlp.scores.Score;
 
 import edu.stanford.nlp.ling.CoreAnnotations.ParagraphIndexAnnotation;
 import edu.stanford.nlp.pipeline.CoreDocument;

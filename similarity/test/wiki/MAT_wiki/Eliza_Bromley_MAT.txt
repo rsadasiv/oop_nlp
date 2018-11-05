@@ -1,0 +1,31 @@
+Eliza_NN
+Bromley_NN
+-LRB-_-LRB-
+née_NN
+Eliza_NN
+Nugent_NN
+-RRB-_-RRB-
+-LRB-_-LRB-
+fl_NN
+._.
+1784_SYM
+-_:
+1803_CD
+-RRB-_-RRB-
+was_VBD [BEMA]
+an_DT
+English_JJ
+novelist_NN
+and_PHC
+translator_NN
+._.
+Mrs_NN
+Bromley_NN
+was_VBD [BEMA]
+the_DT
+widow_NN
+of_PIN
+an_DT
+army_NN
+officer_NN
+._.

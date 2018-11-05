@@ -1,0 +1,25 @@
+Philip_NNP James_NNP Bailey_NNP -LRB-_-LRB- 22_CD April_NNP 1816_CD ''_'' 6_CD September_NNP 1902_CD -RRB-_-RRB- was_VBD an_DT English_JJ Spasmodic_JJ poet_NN ,_, best_JJS known_VBN as_IN the_DT author_NN of_IN Festus_NNP ._.
+Bailey_NNP was_VBD born_VBN on_IN 22_CD April_NNP 1816_CD in_IN Nottingham_NNP ,_, the_DT only_JJ son_NN of_IN Thomas_NNP Bailey_NNP by_IN his_PRP$ first_JJ wife_NN ,_, Mary_NNP Taylor_NNP ._.
+He_PRP was_VBD brought_VBN up_RP on_IN the_DT poetry_NN of_IN Lord_NNP Byron_NNP ._.
+Educated_VBN in_IN Nottingham_NNP ,_, he_PRP was_VBD tutored_VBN in_IN classics_NNS by_IN Benjamin_NNP Carpenter_NNP ,_, a_DT Unitarian_JJ minister_NN ._.
+Aged_VBN 15_CD ,_, he_PRP matriculated_VBD at_IN Glasgow_NNP University_NNP ._.
+Dropping_VBG the_DT idea_NN of_IN becoming_VBG a_DT Presbyterian_JJ minister_NN ,_, he_PRP began_VBD in_IN 1833_CD to_TO study_VB law_NN in_IN a_DT solicitor_NN 's_POS office_NN in_IN London_NNP ._.
+On_IN 26_CD April_NNP 1834_CD he_PRP entered_VBD Lincoln_NNP 's_POS Inn_NNP ,_, and_CC was_VBD called_VBN to_TO the_DT bar_NN on_IN 7_CD May_NNP 1840_CD ,_, but_CC never_RB practiced_VBD law_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1836_CD Bailey_NNP retired_VBN to_TO his_PRP$ father_NN 's_POS house_NN at_IN Old_NNP Basford_NNP ,_, near_IN Nottingham_NNP ,_, to_TO write_VB ._.
+In_IN 1856_CD he_PRP received_VBD a_DT civil_JJ list_NN pension_NN in_IN recognition_NN of_IN his_PRP$ literary_JJ work_NN ._.
+In_IN 1864_CD he_PRP moved_VBD to_TO Jersey_NNP ,_, and_CC traveled_VBD ._.
+In_IN 1876_CD he_PRP returned_VBD to_TO England_NNP ,_, settling_VBG first_RB at_IN Lee_NNP near_IN Ilfracombe_NNP ,_, and_CC in_IN 1885_CD at_IN Blackheath_NNP ._.
+Finally_RB he_PRP retired_VBD to_TO Nottingham_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN June_NNP 1901_CD ,_, he_PRP received_VBD the_DT honorary_JJ Doctor_NNP of_IN Laws_NNP -LRB-_-LRB- DLL_NNP -RRB-_-RRB- from_IN the_DT University_NNP of_IN Glasgow_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bailey_NNP died_VBD after_IN an_DT attack_NN of_IN influenza_NN on_IN 6_CD September_NNP 1902_CD ._.
+He_PRP was_VBD buried_VBN in_IN Nottingham_NNP Rock_NNP -LRB-_-LRB- aka_FW Church_NNP -RRB-_-RRB- Cemetery_NNP ._.
+Bailey_NNP is_VBZ known_VBN almost_RB exclusively_RB by_IN his_PRP$ one_CD voluminous_JJ poem_NN ,_, Festus_NNP ,_, first_JJ published_VBN anonymously_RB in_IN 1839_CD ,_, and_CC then_RB expanded_VBN with_IN a_DT second_JJ edition_NN in_IN 1845_CD ._.
+A_DT vast_JJ pageant_NN of_IN theology_NN and_CC philosophy_NN ,_, it_PRP comprised_VBD in_IN some_DT twelve_CD divisions_NNS an_DT attempt_NN to_TO represent_VB the_DT relation_NN of_IN God_NNP to_TO man_VB ,_, and_CC to_TO postulate_VB ``_`` a_DT gospel_NN of_IN faith_NN and_CC reason_NN combined_VBN ._. ''_''
+Among_IN the_DT admirers_NNS of_IN Festus_NNP was_VBD Tennyson_NNP ._.
+Henry_NNP Wadsworth_NNP Longfellow_NNP imitated_VBD it_PRP in_IN The_DT Golden_NNP Legend_NNP -LRB-_-LRB- 1851_CD -RRB-_-RRB- ._.
+Bailey_NNP himself_PRP described_VBD his_PRP$ approach_NN with_IN the_DT neologism_NN ``_`` omnist_NN ''_'' ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Margaret_NNP Fuller_NNP was_VBD an_DT enthusiast_NN for_IN the_DT work_NN ,_, if_IN with_IN critical_JJ reservations_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT subsequent_JJ poems_NNS of_IN Bailey_NNP ,_, The_DT Angel_NNP World_NNP -LRB-_-LRB- 1850_CD -RRB-_-RRB- ,_, The_DT Mystic_NNP -LRB-_-LRB- 1855_CD -RRB-_-RRB- ,_, The_DT Age_NNP -LRB-_-LRB- 1858_CD -RRB-_-RRB- ,_, and_CC The_DT Universal_NNP Hymn_NNP -LRB-_-LRB- 1867_CD -RRB-_-RRB- ,_, were_VBD failures_NNS ._.
+The_DT author_NN then_RB incorporated_VBD large_JJ extracts_NNS of_IN these_DT into_IN the_DT later_JJ editions_NNS of_IN Festus_NNP ,_, which_WDT ultimately_RB extended_VBD to_TO over_IN 40,000_CD lines_NNS when_WRB the_DT final_JJ edition_NN was_VBD published_VBN in_IN 1889_CD ._.
+At_IN one_CD time_NN his_PRP$ work_NN was_VBD immensely_RB popular_JJ ,_, admired_VBN for_IN its_PRP$ `_`` fire_NN of_IN imagination_NN '_'' -LRB-_-LRB- Elizabeth_NNP Barrett_NNP Browning_NNP -RRB-_-RRB- ,_, but_CC ,_, like_IN the_DT other_JJ works_NNS of_IN the_DT Spasmodic_JJ school_NN of_IN which_WDT Bailey_NNP was_VBD considered_VBN the_DT father_NN ,_, it_PRP is_VBZ now_RB little_JJ read_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

@@ -1,0 +1,6 @@
+William_NNP Broome_NNP -LRB-_-LRB- c._FW April_NNP 1689_CD ''_'' 16_CD November_NNP 1745_CD -RRB-_-RRB- was_VBD an_DT English_JJ poet_NN and_CC translator_NN ._.
+He_PRP was_VBD born_VBN in_IN Haslington_NNP ,_, near_IN Crewe_NNP ,_, Cheshire_NNP and_CC died_VBD in_IN Bath_NNP ._.
+He_PRP was_VBD educated_VBN at_IN Eton_NNP and_CC Cambridge_NNP ,_, entered_VBD the_DT Church_NNP ,_, and_CC became_VBD rector_NN of_IN Sturston_NNP in_IN Suffolk_NNP ,_, and_CC later_RB Pulham_NNP in_IN Norfolk_NNP and_CC Eye_NNP in_IN Suffolk_NNP ._.
+He_PRP translated_VBD the_DT Iliad_NNP in_IN prose_NN along_IN with_IN others_NNS ,_, and_CC was_VBD employed_VBN by_IN Alexander_NNP Pope_NNP ,_, whom_WP he_PRP excelled_VBD as_IN a_DT Greek_JJ scholar_NN ,_, in_IN translating_VBG the_DT Odyssey_NNP ,_, of_IN which_WDT he_PRP Englished_VBD the_DT 2nd_JJ ,_, 6th_JJ ,_, 8th_JJ ,_, 11th_JJ ,_, 12th_JJ ,_, 16th_JJ ,_, 18th_JJ ,_, and_CC 23rd_JJ books_NNS ,_, catching_VBG the_DT style_NN of_IN his_PRP$ master_NN so_RB exactly_RB as_IN almost_RB to_TO defy_VB identification_NN ,_, and_CC thus_RB annoying_VBG him_PRP so_RB as_IN to_TO earn_VB a_DT niche_NN in_IN The_DT Dunciad_NNP ._.
+He_PRP also_RB translated_VBD the_DT Odes_NNP of_IN Anacreon_NNP ._.
+He_PRP published_VBD verses_NNS of_IN his_PRP$ own_JJ of_IN very_RB moderate_JJ poetical_JJ merit_NN ._.

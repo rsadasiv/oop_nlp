@@ -1,0 +1,42 @@
+Thomas_NNP Cooke_NNP -LRB-_-LRB- 1703_CD ''_'' 29_CD December_NNP 1756_CD -RRB-_-RRB- ,_, often_RB called_VBN ``_`` Hesiod_NNP ''_'' Cooke_NNP ,_, was_VBD a_DT very_RB active_JJ English_NNP translator_NN and_CC author_NN who_WP ran_VBD afoul_NN of_IN Alexander_NNP Pope_NNP and_CC was_VBD mentioned_VBN as_IN one_CD of_IN the_DT ``_`` dunces_NNS ''_'' in_IN Pope_NNP 's_POS Dunciad_NNP ._.
+His_PRP$ father_NN was_VBD an_DT innkeeper_NN ._.
+He_PRP was_VBD educated_VBN at_IN Felsted_NNP ._.
+Cooke_NNP arrived_VBD in_IN London_NNP in_IN 1722_CD and_CC began_VBD working_VBG as_IN a_DT writer_NN for_IN the_DT Whig_NNP causes_VBZ ._.
+He_PRP associated_VBN with_IN Thomas_NNP Tickell_NNP ,_, Ambrose_NNP Philips_NNP ,_, Leonard_NNP Welsted_NNP ,_, Richard_NNP Steele_NNP ,_, and_CC John_NNP Dennis_NNP ._.
+Cooke_NNP is_VBZ the_DT source_NN of_IN one_CD of_IN the_DT primary_JJ biographies_NNS of_IN John_NNP Dennis_NNP ,_, which_WDT he_PRP wrote_VBD in_IN Latin_NNP ._.
+Cooke_NNP did_VBD a_DT great_JJ deal_NN of_IN first-rate_JJ translation_NN from_IN Latin_NNP and_CC ancient_JJ Greek_JJ ._.
+His_PRP$ first_JJ publication_NN was_VBD an_DT elegy_NN on_IN the_DT death_NN of_IN the_DT highly_RB contentious_JJ Marlborough_NNP in_IN 1722_CD ._.
+He_PRP followed_VBD that_IN with_IN a_DT masque_JJ entitled_VBN Albion_NNP in_IN 1724_CD ._.
+His_PRP$ most_RBS famous_JJ production_NN was_VBD The_DT Battle_NNP of_IN the_DT Poets_NNPS in_IN 1725_CD ._.
+This_DT was_VBD a_DT reworking_NN of_IN the_DT trope_NN of_IN Le_NNP Lutrin_NNP that_WDT had_VBD been_VBN used_VBN by_IN Jonathan_NNP Swift_NNP in_IN The_DT Battle_NNP of_IN the_DT Books_NNPS ._.
+Where_WRB Swift_NNP had_VBD had_VBN classical_JJ authors_NNS and_CC Tory_NNP authors_NNS sweeping_VBG the_DT field_NN of_IN their_PRP$ whig_NN and_CC modern_JJ commentators_NNS ,_, Cooke_NNP had_VBD ``_`` moderns_NNS ''_'' and_CC whig_VB authors_NNS defeating_VBG Alexander_NNP Pope_NNP and_CC other_JJ ``_`` tory_NN ''_'' authors_NNS ._.
+That_DT same_JJ year_NN ,_, he_PRP published_VBD an_DT essay_NN in_IN the_DT Daily_NNP Journal_NNP examining_VBG the_DT Thersites_NNPS section_NN of_IN Pope_NNP 's_POS Iliad_NNP which_WDT showed_VBD many_JJ faults_NNS of_IN translation_NN ._.
+In_IN 1726_CD ,_, he_PRP wrote_VBD The_DT Bath_NNP ,_, or_CC ,_, The_DT Knights_NNS of_IN the_DT Bath_NNP ._.
+In_IN 1728_CD ,_, Cooke_NNP demonstrated_VBD his_PRP$ command_NN of_IN Greek_JJ with_IN the_DT first_JJ translation_NN of_IN Hesiod_NNP into_IN English_NNP ,_, and_CC he_PRP became_VBD known_VBN as_IN ``_`` Hesiod_NNP Cooke_NNP ._. ''_''
+The_DT same_JJ year_NN ,_, he_PRP wrote_VBD an_DT opera_NN with_IN John_NNP Mottley_NNP entitled_VBD Penelope_NNP ._.
+Pope_NNP ,_, therefore_RB ,_, developed_VBD a_DT character_NN of_IN Cooke_NNP for_IN Dunciad_NNP ._.
+Cooke_NNP heard_VBD about_IN this_DT and_CC wrote_VBD two_CD letters_NNS of_IN apology_NN ._.
+He_PRP appeared_VBD in_IN Dunciad_NNP anyway_RB ._.
+In_IN response_NN ,_, Cooke_NNP reissued_VBD The_DT Battle_NNP of_IN the_DT Poets_NNPS and_CC the_DT Daily_NNP Journal_NNP essay_NN in_IN 1729_CD in_IN his_PRP$ Tales_NNS ,_, Epistles_NNP ,_, Odes_NNP ,_, Fables_NNP ,_, &_CC c._NN He_PRP also_RB wrote_VBD several_JJ letters_NNS for_IN the_DT London_NNP Journal_NNP in_IN 1729_CD ``_`` 1730_CD and_CC issued_VBD those_DT as_IN a_DT book_NN dedicated_VBN to_TO Horace_NNP Walpole_NNP -LRB-_-LRB- son_NN of_IN the_DT divisive_JJ prime_JJ minister_NN -RRB-_-RRB- in_IN 1731_CD ._.
+Pope_NNP took_VBD another_DT jab_NN at_IN Cooke_NNP in_IN his_PRP$ Epistle_NNP to_TO Dr._NNP Arbuthnot_NNP in_IN 1735_CD -LRB-_-LRB- l._FW 146_CD -RRB-_-RRB- ._.
+Aside_RB from_IN his_PRP$ entry_NN into_IN the_DT controversies_NNS with_IN Pope_NNP ,_, Cooke_NNP continued_VBD to_TO publish_VB ._.
+He_PRP produced_VBD an_DT edition_NN of_IN Andrew_NNP Marvell_NNP 's_POS poems_NNS ._.
+In_IN 1731_CD ,_, he_PRP published_VBD The_DT Triumphs_NNPS of_IN Love_NNP and_CC Honour_NNP ,_, with_IN a_DT long_JJ essay_NN on_IN the_DT usefulness_NN of_IN the_DT English_NNP stage_NN ._.
+Later_RB ,_, he_PRP wrote_VBD a_DT book_NN of_IN Odes_NNP ,_, a_DT Life_NN of_IN King_NNP Edward_NNP III_NNP of_IN England_NNP in_IN 1734_CD ,_, and_CC essays_NNS for_IN the_DT Weekly_NNP Oracle_NNP on_IN Phalaris_NNP ._.
+In_IN 1734_CD ,_, he_PRP produced_VBD a_DT three-volume_JJ translation_NN of_IN the_DT plays_NNS of_IN Terence_NNP ,_, and_CC in_IN 1737_CD an_DT edition_NN of_IN Cicero_NNP 's_POS De_NNP natura_NN deorum_NN with_IN an_DT extensive_JJ critical_JJ apparatus_NN ._.
+Also_RB in_IN 1737_CD ,_, he_PRP produced_VBD a_DT play_NN based_VBN on_IN Terence_NN called_VBN The_DT Eunuch_NNP ._.
+Two_CD years_NNS later_RB ,_, he_PRP wrote_VBD and_CC published_VBD a_DT play_NN called_VBN The_DT Mournful_NNP Nuptials_NNP which_WDT was_VBD not_RB acted_VBN until_IN 1741_CD -LRB-_-LRB- as_IN Love_NNP the_DT Cause_NNP and_CC Cure_NNP of_IN Grief_NNP -RRB-_-RRB- ._.
+In_IN 1741_CD ,_, he_PRP produced_VBD a_DT partial_JJ translation_NN of_IN Virgil_NNP ,_, with_IN notes_NNS ._.
+In_IN 1742_CD ,_, Cooke_NNP took_VBD part_NN in_IN Colley_NNP Cibber_NNP 's_POS fight_NN over_IN control_NN of_IN the_DT theaters_NNS ._.
+He_PRP wrote_VBD The_DT Bays_NNP Miscellany_NNP ,_, or_CC ,_, Colley_NNP Triumphant_NNP ._.
+He_PRP also_RB wrote_VBD dialog_NN for_IN the_DT mute_JJ plays_NNS of_IN John_NNP Rich_NNP and_CC Cibber_NNP 's_POS Harlequin_NNP ._.
+In_IN 1744_CD ,_, he_PRP adapted_VBD his_PRP$ Le_NNP Lutrin_NNP piece_NN as_IN The_DT Battle_NNP of_IN the_DT Poets_NNPS as_IN a_DT one-act_JJ play_NN to_TO be_VB inserted_VBN into_IN Henry_NNP Fielding_NNP 's_POS Tom_NNP Thumb_NNP ._.
+Finally_RB ,_, in_IN 1754_CD ,_, he_PRP produced_VBD a_DT single_JJ volume_NN of_IN a_DT planned_VBN series_NN of_IN the_DT works_NNS of_IN Plautus_NNP ._.
+He_PRP had_VBD gathered_VBN up_RP an_DT enormous_JJ subscription_NN -LRB-_-LRB- 713_CD names_NNS -RRB-_-RRB- for_IN the_DT publication_NN ,_, and_CC this_DT ,_, in_IN fact_NN ,_, furnished_VBD his_PRP$ living_NN expenses_NNS ._.
+Cooke_NNP was_VBD always_RB short_JJ of_IN funds_NNS and_CC wrote_VBD to_TO pay_VB the_DT bills_NNS ._.
+He_PRP was_VBD also_RB decidedly_RB political_JJ ._.
+In_IN 1741_CD he_PRP edited_VBD an_DT edition_NN of_IN The_DT Craftsman_NNP ,_, Bolingbroke_NNP 's_POS journal_NN ._.
+In_IN 1748_CD ,_, he_PRP was_VBD brought_VBN up_RP on_IN a_DT libel_NN charge_NN for_IN criticism_NN he_PRP made_VBD of_IN the_DT Pelham_NNP administration_NN ._.
+The_DT same_JJ year_NN ,_, he_PRP also_RB wrote_VBD a_DT public_JJ letter_NN encouraging_VBG religious_JJ toleration_NN ._.
+He_PRP died_VBD in_IN poverty_NN on_IN 29_CD December_NNP 1756_CD ,_, leaving_VBG a_DT wife_NN named_VBN Anne_NNP and_CC a_DT daughter_NN named_VBN Elizabeth_NNP ._.
+Elizabeth_NNP died_VBD two_CD years_NNS later_RB ,_, in_IN a_DT workhouse_NN ._.

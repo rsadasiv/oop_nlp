@@ -1,0 +1,35 @@
+In_IN India_NNP we_PRP have_VBP festivities_NNS to_TO celebrate_VB all_DT through_IN the_DT year_NN and_CC exchange_NN of_IN gifts_NNS is_VBZ a_DT vital_JJ component_NN of_IN these_DT celebrations_NNS ._.
+However_RB ,_, it_PRP is_VBZ important_JJ to_TO understand_VB that_DT gifts_NNS are_VBP also_RB used_VBN as_IN mode_NN of_IN tax_NN planning_NN ._.
+An_DT attempt_NN to_TO save_VB on_IN your_PRP$ taxes_NNS within_IN the_DT framework_NN of_IN law_NN is_VBZ called_VBN tax_NN planning_NN and_CC is_VBZ considered_VBN legal_JJ ._.
+A_DT gift_NN could_MD be_VB in_IN cash_NN or_CC in_IN kind_NN ._.
+Let_VB us_PRP see_VB what_WP are_VBP the_DT most_RBS common_JJ forms_NNS of_IN gifts_NNS and_CC their_PRP$ taxability_NN ._.
+Gift_NN in_IN the_DT form_NN of_IN cash_NN ,_, as_RB long_RB as_IN it_PRP does_VBZ not_RB cross_VB Rs_NNS 50,000_CD ,_, would_MD not_RB be_VB taxed_VBN ._.
+However_RB ,_, if_IN the_DT amount_NN exceeds_VBZ Rs_NNP 50,000_CD ,_, the_DT entire_JJ amount_NN received_VBD would_MD be_VB taxable_JJ ._.
+Further_RB ,_, this_DT has_VBZ to_TO be_VB offered_VBN as_IN ``_`` Income_NN from_IN other_JJ sources_NNS ''_'' on_IN which_WDT you_PRP pay_VBP taxes_NNS at_IN rates_NNS applicable_JJ to_TO the_DT income_NN slab_NN you_PRP fall_VBP under_IN ._.
+There_EX are_VBP exceptions_NNS to_TO this_DT rule_NN which_WDT have_VBP been_VBN discussed_VBN later_RBR in_IN the_DT article_NN ._.
+A_DT gift_NN in_IN kind_NN could_MD take_VB the_DT form_NN of_IN an_DT immovable_JJ asset_NN like_IN land_NN or_CC building_NN ,_, or_CC a_DT movable_JJ asset_NN like_IN jewellery_NN ,_, utensils_NNS ,_, drawings_NNS ,_, shares_NNS ,_, etc._FW ._.
+Any_DT immovable_JJ property_NN received_VBD as_IN a_DT gift_NN would_MD be_VB taxed_VBN in_IN your_PRP$ hands_NNS ._.
+The_DT next_JJ step_NN would_MD be_VB to_TO determine_VB the_DT value_NN that_WDT must_MD be_VB taxed_VBN ._.
+For_IN this_DT ,_, the_DT law_NN prescribes_VBZ something_NN called_VBD the_DT Stamp_NNP Duty_NNP Value_NNP -LRB-_-LRB- commonly_RB referred_VBN to_TO SDV_NNP -RRB-_-RRB- of_IN the_DT asset_NN ,_, which_WDT is_VBZ nothing_NN but_CC the_DT value_NN of_IN the_DT property_NN adopted_VBN by_IN stamp_NN valuation_NN authorities_NNS for_IN determining_VBG the_DT stamp_NN duty_NN ._.
+So_RB ,_, if_IN the_DT SDV_NNP is_VBZ more_RBR than_IN Rs_NNS 50,000_CD ,_, the_DT entire_JJ SDV_NNP is_VBZ taxed_VBN ._.
+Else_RB ,_, the_DT gift_NN transaction_NN remains_VBZ tax_NN free_JJ ._.
+Another_DT scenario_NN could_MD be_VB one_CD where_WRB the_DT asset_NN has_VBZ been_VBN gifted_JJ to_TO you_PRP ,_, against_IN which_WDT you_PRP have_VBP made_VBN a_DT payment_NN ,_, but_CC the_DT payment_NN is_VBZ far_RB below_IN the_DT price_NN the_DT asset_NN would_MD have_VB fetched_VBN in_IN the_DT market_NN ._.
+Here_RB ,_, if_IN the_DT SDV_NNP exceeds_VBZ what_WP you_PRP paid_VBN by_IN more_JJR than_IN Rs_NNS 50,000_CD ,_, you_PRP will_MD have_VB to_TO pay_VB taxes_NNS on_IN the_DT difference_NN between_IN the_DT SDV_NNP and_CC payment_NN made_VBN ._.
+Else_RB ,_, the_DT gift_NN remains_VBZ tax_NN free_JJ ._.
+Here_RB is_VBZ a_DT simple_JJ example_NN to_TO understand_VB this_DT :_: If_IN the_DT SDV_NNP is_VBZ Rs_NNP 2,00,000_CD and_CC the_DT payment_NN made_VBN is_VBZ Rs_NNP 100,000_CD ._.
+SDV_NNP exceeds_VBZ payment_NN made_VBN by_IN Rs_NNS 1,00,000_CD ._.
+Since_IN the_DT difference_NN between_IN SDV_NNP and_CC payment_NN exceeds_VBZ Rs_NNP 50,000_CD ,_, difference_NN is_VBZ taxable_JJ in_IN the_DT hands_NNS of_IN the_DT taxpayer_NN as_IN ``_`` Income_NN from_IN other_JJ sources_NNS ''_'' ._.
+In_IN the_DT above_JJ example_NN ,_, if_IN the_DT payment_NN made_VBD was_VBD Rs_NNP 1,60,000_CD ,_, the_DT difference_NN between_IN SDV_NNP and_CC payment_NN would_MD be_VB Rs_NNS 40,000_CD ,_, which_WDT is_VBZ below_IN 50,000_CD and_CC ,_, hence_RB ,_, no_DT taxability_NN would_MD arise_VB ._.
+When_WRB you_PRP receive_VBP jewellery_NN ,_, utensils_NNS ,_, etc_FW ,_, which_WDT are_VBP movable_JJ assets_NNS as_IN gifts_NNS ,_, their_PRP$ taxability_NN depends_VBZ on_IN their_PRP$ Fair_NNP Market_NNP Value_NNP -LRB-_-LRB- FMV_NNP -RRB-_-RRB- ._.
+If_IN the_DT FMV_NNP exceeds_VBZ Rs_NNP 50,000_CD ,_, the_DT FMV_NNP entirely_RB is_VBZ taxable_JJ as_IN ``_`` Income_NN from_IN other_JJ sources_NNS ''_'' ._.
+If_IN the_DT FMV_NNP is_VBZ lower_JJR than_IN Rs_NNS 50,000_CD ,_, the_DT gift_NN is_VBZ exempt_JJ in_IN your_PRP$ hands_NNS ._.
+Similar_JJ to_TO what_WP was_VBD discussed_VBN in_IN the_DT case_NN of_IN an_DT immovable_JJ property_NN ,_, if_IN you_PRP have_VBP received_VBN any_DT movable_JJ property_NN for_IN which_WDT you_PRP have_VBP paid_VBN a_DT consideration_NN much_RB lower_JJR than_IN its_PRP$ market_NN price_NN and_CC the_DT FMV_NNP exceeds_VBZ consideration_NN by_IN more_JJR than_IN Rs_NNS 50,000_CD ,_, such_JJ difference_NN would_MD be_VB taxed_VBN as_IN ``_`` Income_NN from_IN other_JJ sources_NNS ''_'' ._.
+The_DT government_NN has_VBZ declared_VBN certain_JJ gifts_NNS exchanged_VBD during_IN specified_VBN occasions_NNS or_CC otherwise_RB as_IN fully_RB exempt_JJ from_IN tax_NN ._.
+Following_VBG are_VBP some_DT gifts_NNS which_WDT are_VBP fully_RB exempt_JJ from_IN tax_NN :_: At_IN the_DT time_NN of_IN marriage_NN :_: Any_DT gift_NN received_VBD at_IN the_DT time_NN of_IN getting_VBG married_JJ ,_, is_VBZ fully_RB exempt_JJ ._.
+This_DT includes_VBZ gift_NN in_IN cash_NN or_CC kind_NN without_IN any_DT ceiling_NN limit_NN ._.
+Will_MD or_CC inheritance_NN :_: Anything_NN received_VBN from_IN another_DT individual_NN through_IN a_DT will_NN or_CC as_IN inheritance_NN from_IN forefathers_NNS ,_, is_VBZ fully_RB exempt_JJ from_IN taxation_NN ._.
+From_IN immediate_JJ family_NN :_: As_IN per_IN the_DT Income_NN Tax_NNP Act_NNP ,_, certain_JJ relatives_NNS of_IN an_DT individual_JJ have_VBP been_VBN listed_VBN ,_, whereby_WRB if_IN an_DT individual_JJ receives_VBZ a_DT gift_NN from_IN any_DT of_IN the_DT listed_VBN relatives_NNS ,_, the_DT receipt_NN will_MD be_VB fully_RB exempt_JJ from_IN tax_NN ._.
+Such_JJ relatives_NNS include_VBP spouse_NN ,_, brother_NN and_CC sister_NN of_IN self_NN and_CC spouse_NN ,_, brother_NN or_CC sister_NN of_IN parents_NNS or_CC parents-in-law_NN ,_, any_DT lineal_JJ ascendant_NN or_CC descendant_NN of_IN self_NN or_CC spouse_NN ,_, spouse_NN of_IN any_DT of_IN relatives_NNS mentioned_VBN here_RB ._.
+This_DT festive_JJ season_NN let_VBD use_VB these_DT smart_JJ options_NNS and_CC save_VB taxes_NNS ._.
+Saving_VBG on_IN taxes_NNS is_VBZ always_RB a_DT good_JJ way_NN of_IN building_VBG one_CD 's_POS own_JJ wealth_NN and_CC capital_NN ._.
+The_DT writer_NN is_VBZ founder_NN &_CC CEO_NNP ClearTax_NNP

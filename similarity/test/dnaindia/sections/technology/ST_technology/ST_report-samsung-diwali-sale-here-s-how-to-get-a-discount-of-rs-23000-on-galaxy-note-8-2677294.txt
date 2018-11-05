@@ -1,0 +1,20 @@
+As_IN a_DT part_NN of_IN Samsung_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Diwali_NNP sale_NN ,_, the_DT company_NN is_VBZ offering_VBG the_DT Galaxy_NNP Note_NN 8_CD at_IN a_DT discounted_JJ price_NN ._.
+The_DT device_NN ,_, which_WDT is_VBZ priced_VBN at_IN Rs_NNP 67,900_CD ,_, gets_VBZ a_DT discount_NN of_IN Rs_NNS 19,000_CD ._.
+This_DT brings_VBZ the_DT price_NN down_IN to_TO Rs_NNS 48,900_CD ._.
+Additionally_RB ,_, using_VBG HDFC_NNP Bank_NNP credit_NN card_NN customers_NNS can_MD also_RB avail_NN a_DT cashback_NN of_IN Rs_NNS 4,000_CD ,_, which_WDT brings_VBZ the_DT price_NN down_IN to_TO Rs_NNS 44,900_CD ._.
+Customers_NNS can_MD also_RB avail_NN a_DT 10_CD percent_NN cashback_NN of_IN up_RB to_TO Rs_NNS 2000_CD if_IN the_DT payment_NN is_VBZ made_VBN through_IN Paytm_NNP respectively_RB ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT smartphone_NN features_VBZ a_DT 6.3-inch_JJ QuadHD_NNP +_NN AMOLED_NNP Infinity_NNP display_NN with_IN a_DT 2960x1440_JJ resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT 64-bit_JJ Exynos_NNP 8895_CD SoC_NNP paired_VBN with_IN 6GB_CD of_IN RAM_NNP ._.
+It_PRP will_MD include_VB 64GB_NNP of_IN internal_JJ storage_NN which_WDT can_MD be_VB further_JJ expanded_VBN up_RP to_TO 256GB_CD via_IN a_DT microSD_NNP card_NN slot_NN ._.
+The_DT Galaxy_NNP Note_NN 8_CD comes_VBZ equipped_VBN with_IN a_DT dual-camera_NN setup_NN ,_, out_IN of_IN which_WDT one_CD is_VBZ a_DT 12MP_JJ wide-angle_JJ lens_NN of_IN aperture_NN f\/1_CD .7_CD ,_, while_IN the_DT other_JJ is_VBZ a_DT 12MP_JJ telephoto_NN lens_NN of_IN aperture_NN f\/2_CD .4_CD ._.
+It_PRP also_RB includes_VBZ an_DT 8MP_JJ front-facing_JJ camera_NN with_IN optical_JJ image_NN stabilization_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP with_IN VoLTE_NNP ,_, Bluetooth_NNP 5.0_CD ,_, Wi-Fi_NNP 802.11_CD ac_NN and_CC GPS_NNP ._.
+Running_VBG Android_JJ 7.1.1_CD Nougat_NNP with_IN TouchWiz_NNP UX_NNP on_IN top_JJ ,_, the_DT smartphone_NN is_VBZ expected_VBN to_TO receive_VB the_DT Android_NNP Oreo_NNP update_VBP soon_RB ._.
+A_DT 3,300_CD mAh_NNP battery_NN completes_VBZ the_DT package_NN ._.
+In_IN other_JJ features_NNS ,_, the_DT smartphone_NN includes_VBZ a_DT fingerprint_NN scanner_NN and_CC iris_VBZ scanner_NN for_IN biometric_JJ authentication_NN ,_, IP68_NNP certification_NN for_IN water_NN and_CC dust_NN resistance_NN ._.
+One_CD of_IN the_DT highlights_VBZ of_IN the_DT device_NN is_VBZ its_PRP$ S_NNP Pen_NNP ._.
+Samsung_NNP says_VBZ that_IN ``_`` when_WRB communicating_VBG with_IN text_NN just_RB isn_FW <sup>_FW TM_FW </sup>_FW t_FW enough_RB ,_, Live_NNP Message_NNP allows_VBZ you_PRP to_TO reveal_VB your_PRP$ unique_JJ personality_NN and_CC tell_VB expressive_JJ stories_NNS ._.
+With_IN the_DT Galaxy_NNP Note_NN 8_CD ,_, you_PRP can_MD now_RB share_VB animated_JJ texts_NNS or_CC drawings_NNS across_IN platforms_NNS that_WDT support_VBP animated_JJ GIFs_NNS ._. ''_''
+The_DT S_NNP Pen_NNP is_VBZ said_VBN to_TO sense_VB 4,096_CD levels_NNS of_IN pressure_NN with_IN a_DT latency_NN of_IN less_JJR than_IN 50_CD milliseconds_NNS ._.
+Lastly_RB ,_, the_DT S_NNP Pen_NNP also_RB works_VBZ on_IN the_DT screen_NN when_WRB submerged_VBN under_IN water_NN ._.
+You_PRP can_MD write_VB even_RB when_WRB the_DT display_NN is_VBZ wet_JJ ._.

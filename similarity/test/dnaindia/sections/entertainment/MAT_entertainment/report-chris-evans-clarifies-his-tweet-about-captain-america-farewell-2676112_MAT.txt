@@ -1,0 +1,390 @@
+Actor_NN
+Chris_NN
+Evans_NN
+has_VPRT [PEAS]
+clarified_VBN
+his_TPP3
+Captain_NN
+America_NN
+goodbye_NN
+message_NN
+was_VBD [BEMA]
+not_XX0
+a_DT
+spoiler_NN
+._.
+In_PIN
+an_DT
+emotional_JJ
+post_NN
+on_PIN
+Twitter_NN
+on_PIN
+October_NN
+5_CD
+,_,
+Evans_NN
+had_VBD [PEAS]
+said_VBN [PUBV] [THATD]
+it_PIT
+was_VBD [BEMA]
+an_DT
+honor_NN
+for_PIN
+him_TPP3
+to_TO
+play_VB
+the_DT
+iconic_JJ
+Marvel_NN
+character_NN
+._.
+``_``
+Officially_RB
+wrapped_VBN
+on_PIN
+`_``
+Avengers_NN
+4_CD
+'_''
+._.
+It_PIT
+was_VBD [BEMA]
+an_DT
+emotional_JJ
+day_NN
+to_TO
+say_VB [PUBV]
+the_DT
+least_JJ
+._.
+Playing_VBG [PRESP]
+this_DEMO
+role_NN
+over_IN
+the_DT
+last_JJ
+eight_CD
+years_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+an_DT
+honor_NN
+._.
+To_PIN
+everyone_QUPR
+in_PIN
+front_NN
+of_PIN
+the_DT
+camera_NN
+,_,
+behind_PLACE
+the_DT
+camera_NN
+,_,
+and_ANDC
+in_PIN
+the_DT
+audience_NN
+,_,
+thank_VB
+you_SPP2
+for_PIN
+the_DT
+memories_NN
+!_.
+Eternally_RB
+grateful_JJ
+,_,
+''_''
+Evans_NN
+had_VBD [PEAS]
+posted_VBN
+._.
+The_DT
+tweet_NN
+added_VBD [PUBV]
+fire_NN
+to_PIN
+the_DT
+already_RB
+raging_VBG
+debate_NN
+about_IN
+the_DT
+character_NN
+'s_POS
+fate_NN
+in_PIN
+the_DT
+Marvel_NN
+Cinematic_NN
+Universe_NN
+._.
+Many_QUAN
+on_PIN
+social_JJ
+media_NN
+saw_VBD [PRIV]
+his_TPP3
+goodbye_NN
+message_NN
+as_IN
+a_DT
+confirmation_NOMZ
+that_TOBJ
+Captain_NN
+America_NN
+will_PRMD
+die_VB
+at_PIN
+the_DT
+end_NN
+of_PIN
+Avengers_NN
+4_LS
+._.
+During_PIN
+an_DT
+appearance_NN
+at_PIN
+Ace_NN
+Comic_NN
+Con_NN
+,_,
+Chris_NN
+Evans_NN
+clarified_VBD
+his_TPP3
+comments_NOMZ
+._.
+``_``
+I_FPP1
+should_NEMD
+clarify_VB
+that_DEMO
+I_FPP1
+know_VPRT [PRIV] [THATD]
+I_FPP1
+did_VBD [PROD]
+tweet_NN
+something_QUPR
+that_DEMP
+made_VBD
+a_EMPH
+lot_NULL
+of_PIN
+people_NN
+think_VPRT [PRIV]
+that_THVC
+it_PIT
+was_VBD [BEMA]
+in_PIN
+some_QUAN
+way_NN
+a_DT
+spoiler_NN
+and_CC
+I_FPP1
+should_NEMD
+clarify_VB
+that_DEMO
+regardless_RB
+of_PIN
+how_RB
+Avengers_NN
+4_CD
+ends_NN
+,_,
+I_FPP1
+would_PRMD
+have_VB [PEAS]
+tweeted_VBN
+the_DT
+exact_JJ
+same_JJ
+thing_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+actor_NN
+said_VBD [PUBV]
+his_TPP3
+last_JJ
+day_NN
+on_PIN
+the_DT
+film_NN
+'s_POS
+set_NN
+was_VBD
+``_``
+very_AMP
+emotional_JJ
+''_''
+as_IN
+it_PIT
+marked_VBD
+``_``
+the_DT
+culmination_NOMZ
+of_PIN
+almost_DWNT
+10_CD
+years_NN
+of_PIN
+filming_VBG
+and_CC
+22_CD
+movies_NN
+,_,
+this_DEMO
+unbelievable_JJ
+tapestry_NN
+._.
+''_''
+``_``
+You_SPP2
+feel_VPRT [PRIV]
+a_EMPH
+lot_NULL
+more_EMPH
+emotions_NOMZ
+than_PIN
+I_FPP1
+think_VPRT [PRIV]
+even_RB
+I_FPP1
+thought_VBD [PRIV] [THATD]
+I_FPP1
+'d_PRMD [CONT]
+feel_VB [PRIV]
+._.
+And_ANDC
+I_FPP1
+felt_VBD [PRIV] [THATD]
+it_PIT
+was_VBD [BEMA]
+appropriate_PRED
+to_TO
+share_VB
+the_DT
+gratitude_NN
+._.
+I_FPP1
+know_VPRT [PRIV] [THATD]
+it_PIT
+had_VBD
+a_DT
+ripple_JJ
+effect_NN
+but_CC
+I_FPP1
+am_VPRT [BEMA]
+neither_SYNE
+confirming_VBG [PUBV]
+nor_SYNE
+denying_VBG [PUBV]
+anything_QUPR
+,_,
+''_''
+he_TPP3
+added_VBD [PUBV]
+._.
+Evans_NN
+,_,
+37_CD
+,_,
+had_VBD [PEAS]
+alluded_VBN
+to_PIN
+his_TPP3
+exit_NN
+from_PIN
+the_DT
+franchise_NN
+during_PIN
+a_DT
+New_NN
+York_NN
+Times_NN
+interview_NN
+in_PIN
+March_NN
+,_,
+when_RB
+he_TPP3
+stated_VBD [PUBV]
+,_,
+``_``
+You_SPP2
+want_VPRT
+to_TO
+get_VB
+off_PIN
+the_DT
+train_NN
+before_IN
+they_TPP3
+push_VPRT
+you_SPP2
+off_PIN [STPR]
+._.
+''_''
+Marvel_VB
+fans_NN
+first_RB
+saw_VBD [PRIV]
+Evans_NN
+as_IN
+Steve_NN
+Rogers_NN
+aka_FW
+Captain_NN
+America_NN
+in_PIN
+2011_CD
+film_NN
+Captain_NN
+America_NN
+:_:
+The_NN
+First_NN
+Avenger_NN
+._.
+Since_OSUB
+then_RB
+he_TPP3
+has_VPRT [PEAS]
+appeared_VBN [SMP]
+in_PIN
+five_CD
+Marvel_NN
+Cinematic_NN
+Universe_NN
+-LRB-_-LRB-
+MCU_NN
+-RRB-_-RRB-
+movies_NN
+as_IN
+Cap_NN
+._.
+The_DT
+yet_RB
+untitled_JJ
+Avengers_NN
+4_CD
+is_VPRT [PASS]
+scheduled_VBN
+to_TO
+release_VB
+on_PIN
+May_POMD
+3_CD
+,_,
+2019_CD
+._.

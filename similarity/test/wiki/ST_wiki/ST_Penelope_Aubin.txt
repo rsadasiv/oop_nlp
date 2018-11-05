@@ -1,0 +1,15 @@
+Penelope_NNP Aubin_NNP -LRB-_-LRB- c._FW 1679_CD ''_'' 1738_CD ?_. -RRB-_-RRB-
+-LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN ,_, poet_NN ,_, and_CC translator_NN ._.
+She_PRP published_VBD seven_CD novels_NNS between_IN 1721-28_CD ._.
+Aubin_NNP published_VBD poetry_NN in_IN 1707_CD and_CC turned_VBD to_TO novels_NNS in_IN 1721_CD ;_: she_PRP translated_VBD French_JJ works_NNS in_IN the_DT 1720s_CD ,_, spoke_VBD publicly_RB on_IN moral_JJ issues_NNS in_IN 1729_CD ,_, and_CC wrote_VBD a_DT play_NN in_IN 1730_CD ._.
+Aubin_NNP died_VBD in_IN April_NNP 1738_CD ,_, survived_VBN by_IN her_PRP$ husband_NN until_IN his_PRP$ death_NN in_IN April_NNP 1740_CD ._.
+After_IN the_DT author_NN 's_POS death_NN ,_, her_PRP$ works_NNS were_VBD gathered_VBN and_CC published_VBN as_IN A_DT Collection_NN of_IN Entertaining_NNP Histories_NNPS and_CC Novels_NNPS ,_, Designed_VBN to_TO Promote_VB the_DT Cause_NN of_IN Virtue_NNP and_CC Honor_NNP ._.
+After_IN the_DT 18th_JJ century_NN ,_, Aubin_NNP 's_POS works_NNS fell_VBD out_IN of_IN favor_NN with_IN readers_NNS because_IN of_IN her_PRP$ writing_NN style_NN and_CC unbelievable_JJ plots_NNS ._.
+Penelope_NNP Aubin_NNP 's_POS exact_JJ origins_NNS remain_VBP unknown_JJ ;_: she_PRP was_VBD most_RBS likely_JJ born_VBN in_IN London_NNP around_IN 1679_CD -LRB-_-LRB- 2_LS -RRB-_-RRB- ._.
+While_IN scholars_NNS have_VBP theorized_VBN that_IN she_PRP was_VBD both_DT Catholic_NNP and_CC Huguenot_NNP ,_, her_PRP$ biographer_NN ,_, Joel_NNP H._NNP Baer_NNP ,_, judges_NNS asserts_VBZ that_IN her_PRP$ ``_`` family_NN were_VBD impoverished_VBN Huguenots_NNP ._. ''_''
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP was_VBD the_DT daughter_NN of_IN Sir_NNP Richard_NNP Temple_NNP and_CC Anne_NNP Charleton_NNP ._.
+Her_PRP$ mother_NN Anne_NNP was_VBD the_DT daughter_NN of_IN the_DT physician_NN and_CC natural_JJ philosopher_NN Walter_NNP Charleton_NNP ._.
+Aubin_NNP married_VBD her_PRP$ husband_NN ,_, Abraham_NNP Aubin_NNP ,_, in_IN 1696_CD ,_, and_CC they_PRP had_VBD three_CD children_NNS :_: Marie_NNP ,_, Abraham_NNP ,_, and_CC Penelope_NNP ._.
+Aubin_NNP managed_VBD the_DT family_NN business_NN while_IN her_PRP$ husband_NN ,_, a_DT merchant_NN ,_, traveled_VBD ._.
+She_PRP was_VBD involved_VBN with_IN a_DT scheme_NN by_IN former_JJ pirate_NN John_NNP Breholt_NNP to_TO repatriate_VB the_DT pirates_NNS of_IN Madagascar_NNP -LRB-_-LRB- and_CC their_PRP$ wealth_NN -RRB-_-RRB- to_TO England_NNP ;_: her_PRP$ 1709_CD testimony_NN regarding_VBG Breholt_NNP 's_POS character_NN helped_VBD discredit_VB Breholt_NNP 's_POS plans_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Aubin_NNP was_VBD considered_VBN a_DT moralistic_JJ writer_NN whose_WP$ writing_NN was_VBD unadorned_JJ ._.

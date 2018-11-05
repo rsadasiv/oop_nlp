@@ -1,0 +1,116 @@
+Angad_NN
+Bedi_NN
+and_PHC
+Neha_NN
+Dhupia_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT [PASS]
+wedding_GER
+was_VBD
+nothing_INPR
+short_JJ
+of_PIN
+a_DT
+surprise_NN
+._.
+Though_CONC
+there_EX
+is_VPRT
+a_DT
+constant_JJ
+buzz_NN
+about_IN
+their_TPP3
+marriage_NN
+,_,
+not_XX0
+many_QUAN
+know_VPRT [PRIV]
+about_IN
+the_DT
+story_NN
+of_PIN
+their_TPP3
+wedding_GER
+ring_NN
+._.
+A_DT
+source_NN
+close_RB
+to_PIN
+the_DT
+couple_NN
+reveals_VPRT [PRIV]
+that_THVC
+the_DT
+wedding_GER
+ring_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+passed_VBN
+from_PIN
+generations_NOMZ
+and_CC
+this_DEMP
+is_VPRT [BEMA]
+the_DT
+third_JJ
+generation_NOMZ
+which_WDT [WHSUB]
+is_VPRT
+wearing_VBG
+it_PIT
+._.
+oeThis_NN
+is_VPRT [BEMA]
+a_DT
+family_NN
+legacy_NN
+that_DEMP
+is_VPRT [SPAU] [PASS]
+now_TIME
+passed_VBN
+on_PIN
+to_PIN
+Neha_NN
+and_PHC
+Angad_NN
+._.
+His_TPP3
+parents_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+married_VBN
+for_PIN
+the_DT
+past_JJ
+40_CD
+years_NN
+and_CC
+now_TIME
+they_TPP3
+want_VPRT
+to_TO
+see_VB [PRIV]
+the_DT
+happiness_NOMZ
+and_PHC
+togetherness_NOMZ
+forever_RB
+for_PIN
+the_DT
+newly-weds_NN
+._.
+The_DT
+ring_NN
+signifies_VPRT [PRIV]
+those_DEMO
+sentiments_NOMZ
+,_,
+''_''
+adds_VPRT [PUBV]
+the_DT
+source_NN
+._.

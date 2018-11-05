@@ -1,0 +1,159 @@
+From_IN :_: Sujata_NNP Rajpal_NNP <sujata.rajpal@gmail.com>_NNP Date_NNP :_: 4_CD May_NNP 2014_CD 19:32_CD Subject_NNP :_: Submission_NNP To_TO :_: outofprintmagazine@gmail.com_VB Bio_NNP :_: Sujata_NNP Rajpal_NNP loves_VBZ her_PRP day_NN job_NN as_IN a_DT Corporate_JJ Communications_NNPS Manager_NNP of_IN an_DT IT_PRP MNC_NNP ;_: she_PRP equally_RB loves_VBZ creating_VBG fictional_JJ characters_NNS out_IN of_IN a_DT variety_NN of_IN people_NNS that_IN she_PRP meets_VBZ ._.
+She_PRP has_VBZ been_VBN freelance_JJ writing_NN for_IN journals_NNS for_IN around_IN fifteen_CD years_NNS and_CC has_VBZ regularly_RB contributed_VBN to_TO publications_NNS namely_RB The_DT Times_NNP of_IN India_NNP ,_, Femina_NNP ,_, The_DT New_NNP Woman_NNP ,_, Deccan_NNP Herald_NNP ,_, Star_NNP of_IN Mysore_NNP ,_, etc._FW ._.
+Her_PRP$ short_JJ story_NN <sup>_VBP ~_CD </sup>_JJ The_DT Loss_NN <sup>_VBZ TM_NNP </sup>_NNP was_VBD published_VBN in_IN eFiction_NNP India_NNP ._.
+Her_PRP$ debut_NN novel_NN is_VBZ awaiting_VBG publication_NN ._.
+\*_SYM Goodbyes_NNPS Are_VBP Not_RB Forever_RB \*_SYM The_DT bus_NN lurched_VBD from_IN side_NN to_TO side_VB throwing_VBG Anjali_NNP off_IN balance_NN as_IN she_PRP hung_VBD on_IN to_TO the_DT overhead_NN rail_NN with_IN one_CD hand_NN and_CC clutched_VBD her_PRP two_CD grocery_NN bags_NNS with_IN the_DT other_JJ ._.
+Her_PRP$ laptop_NN bag_NN swung_VBD from_IN her_PRP$ shoulder_NN ._.
+There_EX was_VBD not_RB an_DT inch_NN of_IN space_NN to_TO put_VB them_PRP down_RP ._.
+oeGive_VB a_DT few_JJ of_IN your_PRP$ things_NNS to_TO me_PRP ;_: I_PRP am_VBP getting_VBG off_RP at_IN the_DT last_JJ stop_NN ._. ''_''
+Anjali_NNP heard_VBD a_DT soft_JJ voice_NN as_IN she_PRP struggled_VBD to_TO keep_VB both_DT her_PRP$ feet_NNS down_RB in_IN the_DT crowded_JJ bus_NN ._.
+Looking_VBG in_IN the_DT direction_NN of_IN the_DT voice_NN ,_, she_PRP saw_VBD a_DT thirty_CD something_NN woman_NN peering_VBG at_IN her_PRP$ from_IN an_DT adjacent_JJ seat_NN amongst_IN the_DT melee_NN of_IN bags_NNS ,_, clothes_NNS and_CC limbs_NNS ._.
+Anjali_NNP looked_VBD intensely_RB at_IN the_DT benign_JJ looking_VBG face_NN -_: large_JJ hopeful_JJ eyes_NNS ,_, flat_JJ nose_NN ,_, a_DT fixed_VBN smile_NN on_IN her_PRP$ small_JJ mouth_NN ,_, a_DT string_NN of_IN jasmine_NN on_IN the_DT oily_NN plait_NN ,_, and_CC a_DT small_JJ maroon_NN \*_SYM bindi_FW \*_SYM in_IN between_IN the_DT fine_JJ lines_NNS on_IN her_PRP$ forehead_NN ._.
+There_EX was_VBD something_NN in_IN the_DT way_NN the_DT woman_NN asked_VBD ._.
+Anjali_NNP promptly_RB handed_VBD over_RP her_PRP$ grocery_NN bags_NNS to_TO a_DT complete_JJ stranger_NN ;_: she_PRP didn_VBZ <sup>_JJ TM_NNP </sup>_NNP t_VB trust_NN anyone_NN with_IN her_PRP$ laptop_NN ._.
+oeThanks_NNS for_IN holding_VBG my_PRP$ things_NNS ,_, ''_'' Anjali_NNP said_VBD ,_, stretching_VBG out_RP her_PRP$ hand_NN to_TO take_VB back_RP her_PRP$ belongings_NNS when_WRB she_PRP was_VBD about_IN to_TO disembark_VB from_IN the_DT bus_NN at_IN the_DT next_JJ stop_NN ._.
+oeMention_NNP not_RB !_.
+I_PRP am_VBP Suma_NNP and_CC what_WP <sup>_VBZ TM_NNP </sup>_NNP s_VBZ your_PRP$ name_NN ?_. ''_''
+the_DT woman_NN replied_VBD ,_, offering_VBG her_PRP$ hand_NN for_IN the_DT handshake_NN before_IN returning_VBG the_DT things_NNS ._.
+oeI_NNP am_VBP Anjali_NNP ._. ''_''
+Anjali_NNP smiled_VBD at_IN the_DT woman_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ eagerness_NN to_TO shake_VB hands_NNS with_IN her_PRP ._.
+Suma_NNP was_VBD the_DT first_JJ person_NN Anjali_NNP befriended_VBD in_IN Bangalore_NNP when_WRB she_PRP had_VBD gone_VBN there_RB for_IN her_PRP$ internship_NN ._.
+The_DT next_JJ day_NN ,_, when_WRB Anjali_NNP boarded_VBD the_DT bus_NN ,_, Suma_NNP had_VBD already_RB reserved_VBN a_DT seat_NN for_IN her_PRP ._.
+oeI_NNP have_VBP the_DT most_RBS interesting_JJ job_NN in_IN the_DT world_NN ._.
+I_PRP count_VBP other_JJ people_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ money_NN ,_, ''_'' Suma_NNP told_VBD Anjali_NNP when_WRB they_PRP met_VBD again_RB ._.
+The_DT two_CD women_NNS met_VBD every_DT day_NN on_IN the_DT bus_NN ._.
+Suma_NNP was_VBD thirty_CD six_CD and_CC still_RB unmarried_JJ ._.
+She_PRP lived_VBD with_IN her_PRP$ retired_JJ father_NN and_CC a_DT younger_JJR married_JJ brother_NN and_CC his_PRP$ family_NN ._.
+Her_PRP$ younger_JJR sister_NN had_VBD got_VBN married_JJ five_CD years_NNS ago_RB ._.
+Suma_NNP was_VBD ten_CD years_NNS older_JJR than_IN Anjali_NNP but_CC the_DT age_NN difference_NN was_VBD only_RB notional_JJ in_IN their_PRP$ friendship_NN ._.
+Anjali_NNP never_RB prodded_VBD Suma_NNP on_IN why_WRB she_PRP was_VBD still_RB unmarried_JJ when_WRB her_PRP$ younger_JJR siblings_NNS were_VBD married_VBN ;_: it_PRP was_VBD not_RB her_PRP$ nature_NN to_TO intrude_VB into_IN other_JJ people_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ private_JJ lives_NNS ._.
+oeAnjali_NNS ,_, how_WRB do_VBP you_PRP manage_VB to_TO live_VB independently_RB ?_.
+I_PRP wouldn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD even_RB want_VB to_TO work_VB if_IN I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_NN have_VBP to_TO support_VB my_PRP$ family_NN ._. ''_''
+Suma_NNP was_VBD always_RB curious_JJ to_TO know_VB about_IN Anjali_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ life_NN as_IN a_DT young_JJ career_NN minded_VBD woman_NN ._.
+Anjali_NNP would_MD sometimes_RB drop_VB in_IN at_IN Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ bank_NN for_IN a_DT quick_JJ gossip_NN update_VBP ._.
+Suma_NNP would_MD listen_VB to_TO her_PRP$ venting_NN in_IN rapt_JJ attention_NN and_CC would_MD give_VB her_PRP$ opinion_NN in_IN a_DT single_JJ sentence_NN as_IN a_DT last_JJ word_NN ;_: she_PRP was_VBD the_DT calming_JJ factor_NN in_IN Anjali_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ chaotic_JJ life_NN ._.
+Anjali_NNP realized_VBD that_IN there_EX was_VBD an_DT insecure_NN and_CC vulnerable_JJ person_NN behind_IN Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ ever_RB smiling_VBG face_NN ._.
+Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ mother_NN had_VBD passed_VBN away_RB when_WRB she_PRP was_VBD fifteen_JJ years_NNS old_JJ ._.
+Her_PRP$ father_NN never_RB remarried_VBD ._.
+Since_IN then_RB Suma_NNP had_VBD been_VBN a_DT mother_NN to_TO her_PRP$ younger_JJR siblings_NNS and_CC her_PRP$ elderly_JJ father_NN who_WP never_RB broached_VBD the_DT subject_NN of_IN her_PRP$ marriage_NN ._.
+Suma_NNP was_VBD the_DT highest_JJS earning_VBG member_NN of_IN the_DT family_NN and_CC was_VBD entitled_VBN to_TO a_DT free_JJ accommodation_NN ,_, pension_NN and_CC all_DT other_JJ perks_NNS which_WDT came_VBD with_IN a_DT government_NN job_NN ._.
+oeWhy_NNP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VB you_PRP tell_VB your_PRP$ father_NN to_TO find_VB a_DT suitable_JJ boy_NN for_IN you_PRP ?_. ''_''
+Anjali_NNP asked_VBD her_PRP$ one_CD day_NN ._.
+oeAnjali_NNS !_.
+How_WRB can_MD I_PRP talk_VB to_TO my_PRP$ father_NN about_IN my_PRP$ own_JJ marriage_NN ?_. ''_''
+she_PRP chided_VBD her_PRP$ for_IN an_DT ungraceful_JJ thought_NN ._.
+oeWhat_NNP should_MD I_PRP tell_VB him_PRP ?_.
+That_DT I_PRP am_VBP desperate_JJ to_TO get_VB married_JJ and_CC give_VB birth_NN to_TO babies_NNS ?_. ''_''
+Suma_NNP questioned_VBD ._.
+A_DT few_JJ years_NNS ago_RB ,_, Rajan_NNP had_VBD proposed_VBN to_TO Suma_NNP ._.
+Rajan_NNP was_VBD four_CD years_NNS younger_JJR than_IN her_PRP ._.
+She_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD really_RB love_VB him_PRP but_CC thought_VBD he_PRP could_MD be_VB a_DT good_JJ husband_NN material_NN ._.
+However_RB ,_, Rajan_NNP was_VBD rejected_VBN by_IN her_PRP$ father_NN and_CC brother_NN on_IN the_DT pretext_NN of_IN caste_NN and_CC age_NN differences_NNS ._.
+Suma_NNP mutely_RB waited_VBD for_IN the_DT day_NN when_WRB like_IN the_DT other_JJ women_NNS of_IN her_PRP$ age_NN ,_, she_PRP would_MD also_RB have_VB a_DT loving_JJ husband_NN ,_, a_DT home_NN ,_, a_DT house_NN full_JJ of_IN her_PRP$ own_JJ children_NNS and_CC not_RB her_PRP$ brother_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ children_NNS who_WP called_VBD her_PRP \*_SYM doddamma_NN \*_SYM ._.
+She_PRP had_VBD already_RB passed_VBN marriageable_JJ age_NN ._.
+With_IN her_PRP$ plain_JJ looks_NNS and_CC a_DT nonexistent_JJ social_JJ life_NN ,_, the_DT chances_NNS of_IN meeting_NN someone_NN on_IN her_PRP$ own_JJ were_VBD slim_JJ ._.
+Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ financial_JJ independence_NN was_VBD a_DT handicap_NN in_IN the_DT way_NN of_IN her_PRP$ own_JJ happiness_NN ._.
+oeIf_NNP I_PRP were_VBD a_DT burden_NN on_IN my_PRP$ family_NN ,_, my_PRP$ father_NN wouldn_NN <sup>_VBD TM_NNP </sup>_NNP t_NN have_VBP thought_VBN twice_RB before_IN marrying_VBG me_PRP off_RP to_TO whoever_WP cared_VBD to_TO marry_VB me_PRP ,_, ''_'' Suma_NNP had_VBD expressed_VBN frankly_RB ._.
+oeSometimes_NNS I_PRP think_VBP of_IN running_VBG away_RB from_IN everyone_NN ,_, ''_'' Suma_NNP said_VBD ._.
+oeWhere_NNP will_MD you_PRP go_VB Suma_NNP ?_. ''_''
+Anjali_NNP asked_VBD ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD know_VB Anjali_NNP ,_, anywhere_RB where_WRB no_DT one_NN knows_VBZ me_PRP ,_, I_PRP want_VBP to_TO start_VB my_PRP$ life_NN afresh_NN ,_, ''_'' Suma_NNP replied_VBD with_IN a_DT forlorn_JJ expression_NN on_IN her_PRP$ face_NN ._.
+The_DT year_NN flew_VBD by_IN ._.
+Anjali_NNP returned_VBD to_TO Delhi_NNP after_IN the_DT completion_NN of_IN her_PRP$ internship_NN ,_, took_VBD up_RP a_DT job_NN ,_, and_CC two_CD years_NNS later_RB married_VBD her_PRP$ childhood_NN beau_NN ._.
+The_DT two_CD friends_NNS promised_VBD to_TO stay_VB in_IN touch_NN ._.
+Initially_RB they_PRP spoke_VBD every_DT week_NN ,_, then_RB once_RB a_DT month_NN and_CC then_RB once_RB in_IN a_DT while_NN ._.
+Suma_NNP called_VBD her_PRP a_DT few_JJ times_NNS but_CC Anjali_NNP was_VBD always_RB occupied_VBN in_IN either_DT nursing_VBG her_PRP$ baby_NN ,_, serving_VBG dinner_NN to_TO her_PRP$ in_IN -_: laws_NNS or_CC in_IN a_DT meeting_NN ._.
+Anjali_NNP had_VBD a_DT new_JJ life_NN ;_: Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_PRP was_VBD still_RB the_DT same_JJ ._.
+oe_NN \*_SYM I_PRP vil_VBP cal_JJ u_NN back_RB ''_'' \*_SYM Anjali_NNP messaged_VBD her_PRP$ but_CC never_RB remembered_VBD to_TO call_VB back_RP ._.
++_FW +_FW +_FW Three_CD years_NNS later_RB :_: There_EX was_VBD bumper_NN -_: to_TO -_: bumper_NN traffic_NN on_IN the_DT road_NN ._.
+The_DT flyover_NN construction_NN on_IN both_DT sides_NNS of_IN the_DT road_NN and_CC the_DT increased_VBN vehicular_JJ traffic_NN due_JJ to_TO Ganesh_NNP Chaturthi_NNP had_VBD led_VBN to_TO massive_JJ traffic_NN jams_NNS on_IN Mumbai_NNP roads_NNS ._.
+The_DT gleaming_NN sedans_NNS ,_, auto_NN rickshaws_NNS ,_, two_CD wheelers_NNS ,_, the_DT BEST_NNP buses_NNS and_CC the_DT tempos_NNS carrying_VBG the_DT elephant_NN headed_VBD God_NNP for_IN immersion_NN in_IN the_DT sea_NN ,_, all_DT jostled_VBN for_IN space_NN on_IN Mumbai_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ clogged_JJ roads_NNS ._.
+oeHow_NNP much_RB more_JJR time_NN will_MD it_PRP take_VB ?_. ''_''
+Suma_NNP asked_VBD the_DT cab_NN driver_NN ,_, wiping_VBG away_RP the_DT beads_NNS of_IN sweat_NN from_IN her_PRP$ forehead_NN with_IN the_DT free_JJ end_NN of_IN her_PRP$ \*_NN pallu_NN \*_SYM ._.
+The_DT sweltering_VBG heat_NN was_VBD adding_VBG to_TO her_PRP$ tension_NN ._.
+Suma_NNP restlessly_RB looked_VBD at_IN her_PRP$ watch_NN ._.
+It_PRP was_VBD 4.10_CD pm_NN ._.
+oeI_NNP should_MD <sup>_VB TM_NNP </sup>_NNP ve_NN started_VBD early_RB ,_, I_PRP am_VBP going_VBG to_TO miss_VB my_PRP$ flight_NN ,_, ''_'' she_PRP scolded_VBD herself_PRP as_IN she_PRP looked_VBD outside_RB at_IN the_DT traffic_NN from_IN the_DT crawling_VBG vehicle_NN ._.
+When_WRB the_DT vehicles_NNS stopped_VBD at_IN the_DT traffic_NN junction_NN ,_, waiting_VBG for_IN the_DT signal_NN to_TO turn_VB green_JJ ,_, a_DT polio_NN afflicted_VBD girl_NN with_IN a_DT naked_JJ baby_NN hoisted_VBD on_IN her_PRP$ hip_NN tapped_VBD at_IN the_DT windows_NNS of_IN cars_NNS for_IN alms_NNS ._.
+Wearing_VBG an_DT earnest_JJ expression_NN on_IN her_PRP$ face_NN ,_, the_DT beggar_NN girl_NN limped_VBD from_IN one_CD vehicle_NN to_TO another_DT balancing_VBG the_DT baby_NN in_IN one_CD hand_NN and_CC a_DT worn_JJ out_IN aluminium_NN vessel_NN in_IN another_DT ._.
+Seeing_VBG the_DT girl_NN approaching_VBG her_PRP$ cab_NN ,_, Suma_NNP rolled_VBD up_RP the_DT window_NN and_CC turned_VBD her_PRP$ face_NN to_TO the_DT other_JJ side_NN ._.
+She_PRP heard_VBD the_DT girl_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ filthy_JJ nails_NNS tapping_VBG on_IN the_DT window_NN ._.
+oe_NN \*_SYM Hogu_NNP \*_SYM ,_, no_DT change_NN ,_, ''_'' Suma_NNP admonished_VBD the_DT girl_NN from_IN the_DT safe_JJ confines_NNS of_IN her_PRP$ cab_NN ._.
+The_DT traffic_NN light_NN had_VBD turned_VBN amber_NN by_IN then_RB ._.
+Suma_NNP rolled_VBD down_RP the_DT glass_NN when_WRB the_DT vehicle_NN moved_VBD ._.
+Hot_JJ polluted_JJ air_NN was_VBD better_JJR than_IN no_DT air_NN ._.
+Fanning_VBG herself_PRP with_IN a_DT newspaper_NN ,_, she_PRP looked_VBD at_IN the_DT tinted_JJ windows_NNS of_IN the_DT shiny_JJ cars_NNS and_CC envied_VBD their_PRP$ occupants_NNS inside_IN ._.
+Her_PRP$ eyes_NNS followed_VBD the_DT polio_NN afflicted_VBD girl_NN who_WP swiftly_RB moved_VBD to_TO the_DT other_JJ side_NN of_IN the_DT road_NN with_IN the_DT practiced_JJ ease_NN and_CC sat_VBD on_IN a_DT broken_JJ cement_NN slab_NN ._.
+She_PRP was_VBD happily_RB swinging_VBG both_DT of_IN her_PRP$ legs_NNS ._.
+By_IN the_DT time_NN the_DT cab_NN reached_VBD the_DT junction_NN ,_, it_PRP was_VBD a_DT red_JJ signal_NN once_RB again_RB ._.
+oeOh_NNP no_DT !_. ''_''
+Suma_NNP looked_VBD at_IN her_PRP$ wrist_NN watch_NN as_IN if_IN looking_VBG at_IN her_PRP$ watch_NN now_RB and_CC then_RB would_MD unclog_VB the_DT jam_NN ._.
+The_DT scheduled_JJ time_NN of_IN the_DT flight_NN from_IN Mumbai_NNP to_TO Goa_NNP was_VBD 5_CD pm_NN ;_: there_EX was_VBD no_DT way_NN she_PRP was_VBD going_VBG to_TO make_VB it_PRP for_IN the_DT flight_NN ._.
+At_IN that_DT very_JJ moment_NN ,_, there_EX was_VBD a_DT sound_NN of_IN an_DT explosion_NN ._.
+All_PDT the_DT vehicles_NNS came_VBD to_TO a_DT screeching_VBG halt_NN resulting_VBG in_IN a_DT frenzy_NN of_IN honking_NN ._.
+The_DT deafening_VBG sound_NN was_VBD soon_RB subdued_VBN by_IN the_DT shrieking_NN of_IN people_NNS ._.
+Nothing_NN was_VBD visible_JJ except_IN plumes_NNS of_IN thick_JJ black_JJ smoke_NN billowing_VBG into_IN the_DT sky_NN ._.
+After_IN a_DT few_JJ minutes_NNS which_WDT felt_VBD like_IN eternity_NN ,_, the_DT whole_JJ area_NN was_VBD engulfed_VBN with_IN the_DT sirens_NNS of_IN ambulances_NNS ,_, the_DT wailing_VBG of_IN people_NNS ,_, the_DT fire_NN brigade_NN and_CC the_DT police_NN ._.
+The_DT mangled_JJ body_NN of_IN the_DT beggar_NN girl_NN was_VBD found_VBN one_CD hundred_CD meters_NNS away_RB from_IN the_DT traffic_NN junction_NN ._.
+One_CD of_IN her_PRP$ baby_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ arms_NNS was_VBD stuck_VBN to_TO the_DT traffic_NN signal_NN ._.
++_FW +_FW +_FW The_DT dam_NN of_IN tears_NNS had_VBD burst_NN open_JJ last_JJ night_NN when_WRB Anjali_NNP heard_VBD about_IN the_DT tragedy_NN from_IN a_DT friend_NN ._.
+Throwing_VBG everything_NN else_RB aside_RB ,_, she_PRP boarded_VBD the_DT first_JJ available_JJ flight_NN to_TO Bangalore_NNP to_TO bid_VB farewell_NN to_TO Suma_NNP one_CD last_JJ time_NN ._.
+\*_SYM High_NNP intensity_NN bomb_NN blast_NN in_IN Mumbai_NNP ._.
+More_JJR than_IN one_CD fifty_NN dead_JJ ._.
+Seventy_CD nine_CD bodies_NNS still_RB unidentified_JJ ._.
+Forty_CD seven_CD missing_VBG ._.
+Families_NNS claim_VBP unidentified_JJ bodies_NNS ._.
+\*_SYM The_DT headlines_NNS screamed_VBD ._.
+Anjali_NNP looked_VBD outside_RB into_IN the_DT infinity_NN from_IN her_PRP$ window_NN seat_NN ._.
+Fighting_NN back_RB her_PRP$ tears_NNS ,_, she_PRP once_RB again_RB scanned_VBD the_DT pile_NN of_IN newspapers_NNS spread_VBN on_IN her_PRP$ lap_NN ,_, desperately_RB looking_VBG for_IN a_DT lead_NN which_WDT could_MD give_VB her_PRP a_DT flicker_NN of_IN hope_NN that_IN Suma_NNP L._NNP Doddamani_NNP ,_, 46_CD years_NNS ,_, a_DT State_NNP Bank_NNP of_IN India_NNP employee_NN in_IN Bangalore_NNP who_WP was_VBD in_IN Mumbai_NNP for_IN a_DT training_NN program_NN was_VBD not_RB amongst_IN the_DT dead_JJ when_WRB a_DT human_JJ bomb_NN exploded_VBD in_IN the_DT middle_NN of_IN heavy_JJ traffic_NN ._.
+As_IN her_PRP$ moist_NN eyes_NNS stared_VBD at_IN the_DT wing_NN of_IN the_DT aircraft_NN piercing_VBG through_IN the_DT clouds_NNS ,_, her_PRP$ mind_NN went_VBD back_RB to_TO the_DT day_NN ten_CD years_NNS ago_RB in_IN Bangalore_NNP when_WRB she_PRP had_VBD met_VBN Suma_NNP for_IN the_DT first_JJ time_NN in_IN a_DT local_JJ bus_NN on_IN her_PRP$ daily_JJ commute_NN from_IN office_NN to_TO the_DT PG_NNP ._.
+The_DT duo_NN had_VBD met_VBN on_IN January_NNP third_JJ ._.
+oeThere_NNP is_VBZ a_DT magic_JJ spell_NN of_IN number_NN three_CD on_IN our_PRP$ friendship_NN ,_, ''_'' Suma_NNP said_VBD when_WRB their_PRP$ friendship_NN thickened_VBD ._.
+Coincidentally_RB the_DT blast_NN occurred_VBD on_IN September_NNP third_JJ ._.
+oeLadies_NNS and_CC gentlemen_NNS ,_, in_IN a_DT few_JJ minutes_NNS we_PRP will_MD be_VB starting_VBG our_PRP$ descent_NN to_TO Bengaluru_NNP ..._: ''_'' The_DT caption_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ baritone_NN interrupted_VBD Anjali_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ chain_NN of_IN thoughts_NNS ._.
+It_PRP was_VBD heartbreaking_VBG to_TO come_VB back_RB to_TO Bangalore_NNP without_IN Suma_NNP ._.
+Anjali_NNP visited_VBD Bangalore_NNP many_JJ times_NNS on_IN official_JJ work_NN but_CC she_PRP never_RB saw_VBD Suma_NNP ._.
+Anjali_NNP was_VBD always_RB busy_JJ with_IN the_DT review_NN meetings_NNS ,_, training_NN sessions_NNS ,_, and_CC project_NN deadlines_NNS ._.
+It_PRP was_VBD a_DT mad_JJ rush_NN at_IN company_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ corporate_JJ headquarters_NNS in_IN Bangalore_NNP ._.
+In_IN addition_NN ,_, she_PRP had_VBD a_DT long_JJ shopping_NN list_NN from_IN folks_NNS up_IN north_NN to_TO fetch_VB silk_NN saris_NNS ,_, \*_SYM sambar_NN \*_SYM powders_NNS ,_, sandalwood_NN artefacts_NNS ._.
+It_PRP was_VBD too_RB much_JJ to_TO pack_VB in_IN a_DT single_JJ trip_NN ._.
+oeNext_NNP time_NN I_PRP will_MD definitely_RB meet_VB up_RP with_IN Suma_NNP ,_, ''_'' Anjali_NNP promised_VBD herself_PRP at_IN the_DT end_NN of_IN every_DT trip_NN but_CC at_IN that_DT time_NN ,_, little_JJ did_VBD she_PRP know_VB that_IN the_DT <sup>_JJ ~_NN </sup>_NN next_JJ time_NN <sup>_JJ TM_NNP </sup>_NNP would_MD come_VB only_RB on_IN Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ death_NN ._.
+The_DT clock_NN had_VBD already_RB struck_VBN one_CD ._.
+The_DT cremation_NN was_VBD at_IN 3.00_CD pm_NN ._.
+A_DT cold_JJ fear_NN settled_VBD around_IN Anjali_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ heart_NN as_IN she_PRP stood_VBD in_IN the_DT queue_NN for_IN pre_NN paid_VBN taxies_NNS to_TO ferry_VB her_PRP to_TO the_DT cremation_NN ground_NN ._.
+In_IN less_JJR than_IN two_CD hours_NNS from_IN now_RB ,_, she_PRP would_MD witness_NN Suma_NNP go_VB up_RP in_IN flames_NNS ._.
+Her_PRP$ first_JJ friend_NN in_IN Bangalore_NNP was_VBD no_DT more_RBR ._.
+She_PRP would_MD finally_RB be_VB bidding_VBG goodbye_NN to_TO Suma_NNP ._.
+Anjali_NNP felt_VBD guilty_JJ thinking_NN of_IN the_DT numerous_JJ opportunities_NNS she_PRP had_VBD lost_VBN in_IN reconnecting_VBG with_IN Suma_NNP ._.
+She_PRP thought_VBD of_IN all_PDT the_DT good_JJ times_NNS they_PRP had_VBD had_VBN ._.
+A_DT half_NN smile_NN appeared_VBD on_IN her_PRP$ lips_NNS thinking_VBG of_IN the_DT one_CD ''_'' by_IN -_: two_CD coffee_NN they_PRP used_VBD to_TO share_VB at_IN a_DT small_JJ tea_NN shop_NN near_IN the_DT bank_NN ._.
+In_IN all_DT these_DT years_NNS ,_, she_PRP often_RB thought_VBD about_IN Suma_NNP -_: how_WRB she_PRP was_VBD coping_VBG with_IN her_PRP$ family_NN responsibilities_NNS ._.
+Had_VBD Rajan_NNP married_JJ or_CC was_VBD he_PRP still_RB waiting_VBG for_IN her_PRP$ ?_.
+Was_VBD she_PRP happy_JJ ?_.
+Was_VBD her_PRP$ father_NN still_RB alive_JJ ?_.
+The_DT only_JJ thing_NN she_PRP didn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD do_VB was_VBD pick_VB up_RP the_DT phone_NN and_CC call_VB her_PRP ._.
+\*_SYM I_PRP could_MD not_RB find_VB time_NN to_TO meet_VB her_PRP$ when_WRB she_PRP was_VBD alive_JJ and_CC today_NN when_WRB she_PRP is_VBZ no_RB more_RBR ,_, I_PRP have_VBP left_VBN everything_NN aside_RB to_TO express_VB my_PRP$ condolences_NNS to_TO her_PRP$ family_NN whom_WP I_PRP have_VBP never_RB met_VBN ._.
+My_PRP$ family_NN ,_, child_NN ,_, meetings_NNS ''_'' nothing_NN came_VBD in_IN my_PRP$ way_NN today_NN ,_, my_PRP$ love_NN for_IN my_PRP$ friend_NN pulled_VBD me_PRP to_TO Bangalore_NNP ._.
+Did_VBD I_PRP have_VBP to_TO wait_VB for_IN a_DT bomb_NN blast_NN to_TO find_VB time_NN for_IN my_PRP$ friend_NN \*_SYM ?_.
+The_DT tears_NNS of_IN guilt_NN welled_VBD up_RP in_IN her_PRP$ eyes_NNS ._.
+If_IN she_PRP hadn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD known_VBN about_IN the_DT tragedy_NN ,_, she_PRP would_MD have_VB continued_VBN to_TO live_VB the_DT rest_NN of_IN her_PRP$ life_NN with_IN the_DT belief_NN that_IN she_PRP had_VBD a_DT friend_NN in_IN Bangalore_NNP named_VBD Suma_NNP who_WP worked_VBD in_IN a_DT bank_NN and_CC traveled_VBN by_IN route_NN 273_CD ._.
+How_WRB pleasant_JJ that_DT ignorance_NN would_MD <sup>_VB TM_NNP </sup>_NNP ve_VBP been_VBN !_.
+Anjali_NNP pondered_VBD ._.
+\*_SYM Suma_NN has_VBZ always_RB been_VBN there_RB in_IN my_PRP$ heart_NN ,_, I_PRP knew_VBD it_PRP and_CC Suma_NNP knew_VBD it_PRP even_RB if_IN we_PRP didn_VBP <sup>_JJ TM_NNP </sup>_NNP t_NN speak_VBP for_IN a_DT long_JJ time_NN \*_SYM ._.
+\*_SYM Just_RB because_IN she_PRP happened_VBD to_TO travel_VB on_IN that_DT ill_JJ fated_VBN road_NN at_IN that_DT hour_NN ,_, it_PRP doesn_JJ <sup>_NN TM_NNP </sup>_NNP t_VBD mean_JJ she_PRP is_VBZ dead_JJ \*_NN ,_, Anjali_NNP reasoned_VBD ._.
+\*_SYM May_MD be_VB she_PRP escaped_VBD death_NN by_IN a_DT whisker_NN ._.
+May_MD be_VB the_DT cab_NN driver_NN took_VBD her_PRP$ by_IN a_DT different_JJ route_NN ._.
+Many_JJ bodies_NNS couldn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD be_VB identified_VBN so_RB how_WRB can_MD they_PRP be_VB so_RB sure_JJ that_IN Suma_NNP was_VBD amongst_IN the_DT dead_JJ ._.
+May_MD be_VB Suma_NNP was_VBD not_RB there_RB at_IN all_DT ._.
+\*_SYM Anjali_NN could_MD still_RB remember_VB Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ smiling_VBG face_NN when_WRB Suma_NNP had_VBD come_VBN to_TO see_VB her_PRP$ off_RP at_IN the_DT railway_NN station_NN ;_: that_DT was_VBD the_DT last_JJ time_NN they_PRP met_VBD ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD say_VB goodbye_NN ,_, never_RB know_VBP when_WRB and_CC where_WRB we_PRP meet_VBP again_RB ,_, ''_'' Suma_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ words_NNS echoed_VBD in_IN her_PRP$ mind_NN ._.
+Anjali_NNP wanted_VBD to_TO capture_VB that_DT moment_NN and_CC shut_VBD her_PRP$ eyes_NNS ._.
+She_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD want_VB to_TO give_VB finality_NN to_TO her_PRP$ friend_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ existence_NN by_IN watching_VBG her_PRP$ cremation_NN ._.
+Anjali_NNP wanted_VBD to_TO live_VB with_IN the_DT belief_NN ,_, however_RB true_JJ or_CC false_JJ it_PRP might_MD be_VB that_IN Suma_NNP used_VBD this_DT opportunity_NN to_TO escape_VB from_IN the_DT life_NN she_PRP hated_VBD ._.
++_RB +_CD +_CD oeAre_NNP you_PRP crazy_JJ ?_.
+You_PRP want_VBP to_TO come_VB back_RB without_IN attending_VBG the_DT cremation_NN when_WRB you_PRP went_VBD only_RB for_IN that_DT ?_. ''_''
+Anjali_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ husband_NN said_VBD on_IN the_DT phone_NN when_WRB she_PRP spoke_VBD to_TO him_PRP from_IN the_DT airport_NN ._.
+oeSixteen_CD thousand_CD rupees_NNS and_CC ..._: ''_'' Anjali_NNP hung_VBD up_RP and_CC went_VBD to_TO the_DT counter_NN to_TO book_VB her_PRP$ flight_NN back_RB to_TO Delhi_NNP ._.
+oeDo_NNP I_PRP really_RB think_VBP that_IN Suma_NNP is_VBZ alive_JJ or_CC is_VBZ the_DT belief_NN for_IN my_PRP$ own_JJ peace_NN of_IN mind_NN ?_. ''_''
+Anjali_NNP could_MD not_RB decide_VB ._.
+\*_SYM End_NN \*_SYM

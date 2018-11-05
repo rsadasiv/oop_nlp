@@ -1,0 +1,9 @@
+Novelist_NN Suchitra_NNP Bhattacharya_NNP died_VBD at_IN her_PRP$ Dhakuria_NNP home_NN on_IN Tuesday_NNP night_NN following_VBG a_DT major_JJ cardiac_JJ arrest_NN ._.
+At_IN around_IN 10.30_CD pm_NN ,_, she_PRP suddenly_RB took_VBD ill_JJ and_CC died_VBD even_RB before_IN the_DT ambulance_NN arrived_VBD at_IN her_PRP$ residence_NN ._.
+According_VBG to_TO the_DT doctors_NNS ,_, she_PRP died_VBD following_VBG a_DT left_JJ ventricular_JJ heart_NN failure_NN ._.
+Bhattacharya_NNP ,_, 65_CD ,_, was_VBD born_VBN in_IN Baghalpur_NNP in_IN 1950_CD and_CC is_VBZ survived_VBN by_IN a_DT daughter_NN ._.
+She_PRP graduated_VBD from_IN Jogomaya_NNP Devi_NNP College_NNP in_IN Kolkata_NNP and_CC her_PRP$ claim_NN to_TO fame_NN was_VBD her_PRP$ book_NN Kachher_NNP Manush_NNP ._.
+Among_IN her_PRP$ other_JJ works_NNS are_VBP -_: Kacher_NNP Dewal_NNP ,_, Hemanter_NNP Pakhi_NNP ,_, Aleek_NNP Shukh_NNP ,_, Gabhir_NNP Ashukh_NNP ._.
+Rituparno_NNP Ghosh_NNP 's_POS films_NNS -_: Ichhe_NNP and_CC Hemanter_NNP Pakhi_NNP were_VBD based_VBN on_IN Bhattacharya_NNP 's_POS works_NNS ._.
+She_PRP has_VBZ won_VBN a_DT number_NN of_IN awards_NNS for_IN her_PRP$ works_NNS which_WDT include_VBP the_DT Nanjanagudu_NNP Thirumalamba_NNP National_NNP Award_NNP -LRB-_-LRB- 1996_CD -RRB-_-RRB- ,_, Katha_NNP Award_NNP -LRB-_-LRB- 1997_CD -RRB-_-RRB- and_CC Tarashankar_NNP Award_NNP -LRB-_-LRB- 2000_CD -RRB-_-RRB- ._.
+Apart_RB from_IN these_DT awards_NNS ,_, she_PRP has_VBZ won_VBN Sharat_NNP Purashkar_NNP Award_NNP ,_, Bharat_NNP Nirman_NNP Award_NNP ,_, Sahitya_NNP Setu_NNP Award_NNP and_CC Shailajananda_NNP Smriti_NNP Purashkar_NNP for_IN her_PRP$ notable_JJ works_NNS ._.

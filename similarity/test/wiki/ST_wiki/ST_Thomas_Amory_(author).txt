@@ -1,0 +1,8 @@
+Thomas_NNP Amory_NNP -LRB-_-LRB- 1691_CD -LRB-_-LRB- ?_. -RRB-_-RRB- ''_''
+25_CD November_NNP 1788_CD -RRB-_-RRB- was_VBD a_DT writer_NN of_IN Irish_JJ descent_NN ._.
+In_IN 1755_CD he_PRP published_VBD Memoirs_NNP containing_VBG the_DT lives_NNS of_IN several_JJ ladies_NNS of_IN Great_NNP Britain_NNP ,_, a_DT History_NN of_IN Antiquities_NNS and_CC Observations_NNS on_IN the_DT Christian_NNP Religion_NNP ,_, which_WDT was_VBD followed_VBN by_IN the_DT Life_NNP of_IN John_NNP Buncle_NNP ,_, Esq._NNP -LRB-_-LRB- Vol_NNP ._.
+I_PRP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- 1756_CD ,_, and_CC Vol_NNP ._.
+II_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- 1766_CD -RRB-_-RRB- ,_, practically_RB a_DT continuation_NN ._.
+The_DT contents_NNS of_IN these_DT works_NNS are_VBP miscellaneous_JJ ``_`` philology_NN ,_, natural_JJ science_NN ,_, theology_NN ,_, and_CC much_JJ besides_IN ,_, treated_VBN without_IN any_DT system_NN ,_, but_CC with_IN occasional_JJ originality_NN and_CC felicity_NN of_IN diction_NN ._.
+The_DT author_NN ,_, who_WP was_VBD a_DT renowned_JJ eccentric_JJ ,_, had_VBD a_DT peculiar_JJ aspect_NN ,_, with_IN the_DT manner_NN of_IN a_DT gentleman_NN ,_, and_CC scarcely_RB ever_RB stirred_VBN abroad_RB except_IN at_IN dusk_NN ._.
+He_PRP reached_VBD the_DT age_NN of_IN 97_CD ._.

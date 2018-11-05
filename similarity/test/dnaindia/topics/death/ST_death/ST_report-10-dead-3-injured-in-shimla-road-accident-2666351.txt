@@ -1,0 +1,5 @@
+Ten_CD people_NNS ,_, including_VBG four_CD women_NNS ,_, died_VBD and_CC three_CD others_NNS were_VBD injured_VBN after_IN a_DT vehicle_NN veered_VBD off_RP a_DT road_NN in_IN Himachal_NNP Pradesh_NNP 's_POS Shimla_NNP district_NN Saturday_NNP ,_, a_DT police_NN official_NN said_VBD ._.
+The_DT accident_NN happened_VBD at_IN Snail_NNP ,_, three_CD kilometres_NNS from_IN Kuddu_NNP on_IN Tiyuni_NNP Road_NNP ._.
+The_DT three_CD injured_VBN ,_, including_VBG a_DT child_NN ,_, have_VBP been_VBN admitted_VBN to_TO Rohru_NNP hospital_NN ,_, Shimla_NNP Superintendent_NNP of_IN Police_NNP Omapati_NNP Jamwal_NNP said_VBD ._.
+A_DT police_NN team_NN led_VBN by_IN Jubbal_NNP Station_NNP House_NNP Officer_NNP and_CC Swara_NNP police_NN post_NN in-charge_NN is_VBZ at_IN the_DT accident_NN site_NN ,_, he_PRP added_VBD ._.
+More_JJR details_NNS awaited_VBD ._.

@@ -1,0 +1,10 @@
+Writer_NN Ushakumari_NNP has_VBZ been_VBN awarded_VBN the_DT prestigious_JJ OV_NNP Vijayan_NNP Literature_NNP Award_NNP instituted_VBN by_IN the_DT Naveena_NNP Samskarika_NNP Kala_NNP Kendram_NNP -LRB-_-LRB- NSKK_NNP -RRB-_-RRB- for_IN her_PRP$ second_JJ novel_NN Chithirapurathe_NNP Janaki_NNP ,_, reports_VBZ Malayalam_NNP Manorama_NNP ._.
+Ushakumari_NNP ,_, who_WP has_VBZ been_VBN running_VBG a_DT textile_NN shop_NN for_IN the_DT last_JJ 12_CD years_NNS ,_, will_MD receive_VB a_DT cash_NN prize_NN of_IN Rs_NNS 50,001_CD ,_, a_DT statuette_NN sculptured_VBN by_IN noted_VBN sculptor_NN Kanayi_NNP Kunhiraman_NNP and_CC a_DT citation_NN ._.
+The_DT committee_NN that_WDT decided_VBD the_DT winning_VBG novelist_NN included_VBD writers_NNS NS_NNP Madhavan_NNP ,_, Dr_NNP Azad_NNP and_CC Usha_NNP Nampoothirippad_NNP ._.
+They_PRP felt_VBD Ushakumari_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ novel_NN about_IN a_DT woman_NN who_WP lived_VBD in_IN a_DT remote_JJ village_NN in_IN the_DT hills_NNS in_IN 21st_JJ century_NN Kerala_NNP was_VBD compelling_JJ ._.
+The_DT novel_NN is_VBZ Ushakumari_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ second_JJ one_CD post_NN Tharayum_NNP Kanchanayum_NNP Randu_NNP Poralikal_NNP <sup>_NNP TM_NNP </sup>_NNP ._.
+The_DT writer_NN told_VBD Malayalam_NNP Manorama_NNP that_IN Chithirapuram_NNP is_VBZ one_CD her_PRP$ favorite_JJ places_NNS and_CC it_PRP somehow_RB captured_VBD her_PRP$ mind_NN ._.
+She_PRP also_RB added_VBD that_IN her_PRP$ writing_NN was_VBD influenced_VBN by_IN regular_JJ people_NNS who_WP passed_VBD by_IN her_PRP$ shop_NN every_DT day_NN ._.
+Her_PRP$ son_NN Udayaravi_NNP was_VBD the_DT one_NN who_WP had_VBD sent_VBN the_DT novel_NN to_TO the_DT competition_NN ._.
+Her_PRP$ husband_NN is_VBZ a_DT farmer_NN ._.
+She_PRP will_MD be_VB presented_VBN the_DT award_NN on_IN November_NNP 8_CD at_IN Hyderabad_NNP at_IN the_DT NSKK_NNP School_NNP ._.

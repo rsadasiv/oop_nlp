@@ -1,0 +1,14 @@
+Isaac_NNP Hawkins_NNP Browne_NNP FRS_NNP -LRB-_-LRB- 21_CD January_NNP 1705_CD ''_'' 14_CD February_NNP 1760_CD -RRB-_-RRB- was_VBD an_DT English_JJ politician_NN and_CC poet_NN ._.
+He_PRP is_VBZ remembered_VBN as_IN the_DT author_NN of_IN some_DT clever_JJ imitations_NNS of_IN contemporary_JJ poets_NNS Jonathan_NNP Swift_NNP and_CC Alexander_NNP Pope_NNP on_IN the_DT theme_NN of_IN A_DT Pipe_NNP of_IN Tobacco_NNP -LRB-_-LRB- 1736_CD -RRB-_-RRB- ,_, somewhat_RB analogous_JJ to_TO the_DT Rejected_VBN Addresses_NNS of_IN a_DT later_JJ day_NN ._.
+He_PRP also_RB wrote_VBD a_DT Latin_JJ poem_NN on_IN the_DT immortality_NN of_IN the_DT soul_NN ,_, De_NNP Animi_NNP Immortalitate_NNP -LRB-_-LRB- 1754_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD born_VBN in_IN Burton-upon-Trent_NNP ,_, Staffordshire_NNP ,_, the_DT son_NN of_IN William_NNP Browne_NNP ,_, Vicar_NNP of_IN the_DT parish_NN ,_, and_CC Ann_NNP -LRB-_-LRB- née_FW Hawkins_NNP -RRB-_-RRB- Browne_NNP ._.
+He_PRP was_VBD educated_VBN in_IN Lichfield_NNP and_CC at_IN Westminster_NNP School_NNP ._.
+He_PRP entered_VBD Trinity_NNP College_NNP ,_, Cambridge_NNP ,_, in_IN 1721_CD and_CC was_VBD said_VBN to_TO have_VB graduated_VBN as_IN MA_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- although_IN no_DT record_NN of_IN the_DT award_NN has_VBZ been_VBN found_VBN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- A_DT country_NN gentleman_NN and_CC barrister_NN ,_, who_WP had_VBD been_VBN called_VBN to_TO the_DT bar_NN in_IN 1728_CD from_IN Lincoln_NNP 's_POS Inn_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- he_PRP had_VBD great_JJ conversational_JJ powers_NNS ._.
+He_PRP was_VBD a_DT friend_NN of_IN Samuel_NNP Johnson_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD MP_NNP for_IN Much_JJ Wenlock_NNP ,_, Shropshire_NNP from_IN 1744_CD to_TO 1754_CD ,_, although_IN he_PRP did_VBD not_RB apparently_RB contribute_VB much_RB in_IN debates_NNS ,_, Dr_NNP Johnson_NNP commenting_VBG that_IN ,_, ironically_RB :_: Browne_NNP ,_, one_CD of_IN the_DT first_JJ great_JJ wits_NNS of_IN this_DT country_NN ,_, got_VBD into_IN Parliament_NNP and_CC never_RB opened_VBD his_PRP$ mouth_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD elected_VBN a_DT fellow_NN of_IN the_DT Royal_NNP Society_NNP in_IN February_NNP ,_, 1750_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Browne_NNP ,_, recalled_VBN by_IN Dr_NNP Johnson_NNP -LRB-_-LRB- in_IN 1773_CD -RRB-_-RRB- to_TO have_VB drunk_JJ hard_JJ for_IN thirty_CD years_NNS ,_, -LRB-_-LRB- 5_CD -RRB-_-RRB- died_VBD at_IN his_PRP$ London_NNP home_NN in_IN Great_NNP Russell_NNP Street_NNP ,_, Bloomsbury_NNP Square_NNP ,_, on_IN 14_CD February_NNP 1760_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP is_VBZ memorialised_VBN at_IN Trinity_NNP College_NNP ,_, Cambridge_NNP chapel_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP married_VBD Jane_NNP Trimnell_NNP ,_, daughter_NN of_IN David_NNP Trimnell_NNP ,_, in_IN 1744_CD ._.
+They_PRP had_VBD one_CD child_NN ,_, Isaac_NNP Hawkins_NNP Browne_NNP

@@ -1,0 +1,11 @@
+Ada_NNP Ellen_NNP Bayly_NNP -LRB-_-LRB- March_NNP 25_CD ,_, 1857_CD ''_'' February_NNP 8_CD ,_, 1903_CD -RRB-_-RRB- ,_, a.k.a._IN Edna_NNP Lyall_NNP ,_, was_VBD an_DT English_JJ novelist_NN ,_, and_CC an_DT early_JJ feminist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Bayly_NNP was_VBD born_VBN in_IN Brighton_NNP ,_, the_DT youngest_JJS of_IN four_CD children_NNS of_IN a_DT barrister_NN ._.
+At_IN an_DT early_JJ age_NN ,_, she_PRP lost_VBD both_DT her_PRP$ parents_NNS and_CC she_PRP spent_VBD her_PRP$ youth_NN with_IN an_DT uncle_NN in_IN Surrey_NNP and_CC in_IN a_DT Brighton_NNP private_JJ school_NN ._.
+Bayly_RB never_RB married_VBN and_CC she_PRP seems_VBZ to_TO have_VB spent_VBN her_PRP$ adult_NN life_NN living_VBG with_IN her_PRP$ two_CD married_JJ sisters_NNS and_CC her_PRP$ brother_NN ,_, a_DT clergyman_NN in_IN Bosbury_NNP in_IN Herefordshire_NNP ._.
+In_IN 1879_CD ,_, she_PRP published_VBD her_PRP$ first_JJ novel_NN ,_, Won_NNP by_IN Waiting_NNP ,_, under_IN the_DT pen_NN name_NN of_IN ``_`` Edna_NNP Lyall_NNP ''_'' -LRB-_-LRB- apparently_RB derived_VBN from_IN transposing_VBG letters_NNS from_IN Ada_NNP Ellen_NNP Bayly_NNP -RRB-_-RRB- ._.
+The_DT book_NN was_VBD not_RB a_DT success_NN ._.
+Success_NN came_VBD with_IN We_PRP Two_CD ,_, based_VBN on_IN the_DT life_NN of_IN Charles_NNP Bradlaugh_NNP ,_, a_DT social_JJ reformer_NN and_CC advocate_NN of_IN free_JJ thought_NN ._.
+Her_PRP$ historical_JJ novel_NN In_IN the_DT Golden_NNP Days_NNS was_VBD the_DT last_JJ book_NN read_VBD to_TO John_NNP Ruskin_NNP on_IN his_PRP$ deathbed_JJ ;_: -LRB-_-LRB- 2_LS -RRB-_-RRB- while_IN Hope_NNP the_DT Hermit_NNP was_VBD a_DT best-seller_NN set_VBN in_IN the_DT Lake_NNP District_NNP which_WDT was_VBD later_RB an_DT inspiration_NN for_IN Hugh_NNP Walpole_NNP 's_POS Rogue_NNP Herries_NNPS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Bayly_RB wrote_VBD in_IN all_DT eighteen_JJ novels_NNS ,_, many_JJ of_IN them_PRP offering_VBG interesting_JJ explorations_NNS of_IN the_DT writer_NN 's_POS creative_JJ process_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Part_NN of_IN her_PRP$ success_NN was_VBD due_JJ to_TO her_PRP$ practice_NN of_IN using_VBG characters_NNS from_IN one_CD novel_NN in_IN a_DT different_JJ capacity_NN in_IN her_PRP$ next_JJ ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

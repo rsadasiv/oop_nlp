@@ -1,0 +1,26 @@
+George_NNP Cartwright_NNP -LRB-_-LRB- 12_CD February_NNP 1739\/40_CD ''_'' 19_CD May_NNP 1819_CD -RRB-_-RRB- was_VBD an_DT English_JJ army_NN officer_NN and_CC a_DT trader_NN and_CC explorer_NN in_IN Newfoundland_NNP and_CC Labrador_NNP ._.
+His_PRP$ name_NN is_VBZ borne_VBN by_IN Cartwright_NNP ,_, a_DT settlement_NN at_IN the_DT entrance_NN to_TO Sandwich_NNP Bay_NNP ._.
+George_NNP Cartwright_NNP was_VBD born_VBN at_IN Marnham_NNP in_IN Nottinghamshire_NNP ,_, England_NNP ,_, an_DT elder_JJR brother_NN of_IN Edmund_NNP Cartwright_NNP ,_, clergyman_NN and_CC inventor_NN of_IN the_DT power_NN loom_VBP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC of_IN John_NNP Cartwright_NNP ,_, naval_JJ officer_NN and_CC English_JJ parliamentary_JJ reformer_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- -LRB-_-LRB- 4_LS -RRB-_-RRB- Cartwright_NNP became_VBD a_DT gentleman_NN cadet_NN in_IN the_DT Royal_NNP Military_NNP Academy_NNP at_IN Woolwich_NNP ,_, London_NNP when_WRB he_PRP was_VBD fifteen_VBN ._.
+He_PRP served_VBD in_IN India_NNP as_IN ensign_NN in_IN the_DT 39th_JJ Foot_NNP ._.
+In_IN 1759_CD ,_, he_PRP was_VBD promoted_VBN lieutenant_NN while_IN in_IN Ireland_NNP ._.
+In_IN 1760_CD he_PRP was_VBD aide-de-camp_JJ to_TO the_DT Marquess_NNP of_IN Granby_NNP in_IN Germany_NNP and_CC a_DT staff_NN officer_NN under_IN Duke_NNP Ferdinand_NNP of_IN Brunswick_NNP ._.
+He_PRP was_VBD brevetted_VBN captain_NN in_IN 1762_CD ,_, returned_VBD to_TO England_NNP and_CC went_VBD on_IN half_DT pay_NN from_IN 1762_CD to_TO 1766_CD ._.
+In_IN 1766_CD ,_, Cartwright_NNP was_VBD commissioned_VBN Captain_NNP in_IN the_DT 37th_JJ Foot_NNP ,_, and_CC went_VBD to_TO Minorca_NNP during_IN 1766_CD and_CC 1767_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- -LRB-_-LRB- 6_CD -RRB-_-RRB- -LRB-_-LRB- 7_CD -RRB-_-RRB- George_NNP Cartwright_NNP 's_POS brother_NN John_NNP Cartwright_NNP was_VBD first_JJ lieutenant_NN on_IN HMS_NNP Guernsey_NNP ._.
+In_IN the_DT 1766_CD season_NN ,_, George_NNP Cartwright_NNP cruised_VBD the_DT Newfoundland_NNP coast_NN on_IN this_DT vessel_NN with_IN his_PRP$ brother_NN ._.
+In_IN 1768_CD ,_, George_NNP Cartwright_NNP went_VBD to_TO Newfoundland_NNP again_RB and_CC accompanied_VBN John_NNP Cartwright_NNP 's_POS voyage_NN attempting_VBG to_TO contact_VB the_DT Beothuk_NNP people_NNS on_IN the_DT Exploits_NNS river_NN ._.
+Between_IN 1770_CD and_CC 1786_CD ,_, Cartwright_NNP occupied_VBD a_DT number_NN of_IN fishing_NN and_CC furring_VBG stations_NNS from_IN Cape_NNP Charles_NNP to_TO Sandwich_NNP Bay_NNP and_CC developed_VBD connections_NNS with_IN the_DT Inuit_NNP and_CC Innu_NNP people_NNS there_RB ._.
+His_PRP$ financial_JJ successes_NNS was_VBD mixed_VBN at_IN best_JJS ,_, and_CC his_PRP$ many_JJ setbacks_NNS included_VBD being_VBG thoroughly_RB raided_VBN by_IN American_JJ privateers_NNS in_IN 1778_CD ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- This_DT came_VBD about_RB when_WRB his_PRP$ servant_NN Dominick_NNP Kinnien_NNP defected_VBD to_TO join_VB the_DT crew_NN of_IN the_DT Bostonian_NNP John_NNP Grimes_NNP ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- In_IN 1772_CD ,_, five_CD Inuit_NNP people_NNS traveled_VBD with_IN Cartwright_NNP to_TO Ireland_NNP and_CC England_NNP ,_, where_WRB they_PRP were_VBD a_DT sensation_NN ,_, drawing_VBG the_DT attention_NN of_IN King_NNP George_NNP III_NNP ,_, Joseph_NNP Banks_NNP ,_, John_NNP Hunter_NNP ,_, James_NNP Boswell_NNP ,_, Samuel_NNP Johnson_NNP ,_, and_CC great_JJ crowds_NNS ._.
+Tragically_NNP ,_, four_CD of_IN these_DT people_NNS died_VBD of_IN smallpox_NN before_IN returning_VBG home_NN ._.
+The_DT sole_JJ survivor_NN was_VBD Caubvick_NNP ,_, who_WP is_VBZ now_RB the_DT namesake_NN of_IN Mount_NNP Caubvick_NNP ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- In_IN 1786_CD ,_, Cartwright_NNP returned_VBD to_TO England_NNP ._.
+He_PRP published_VBD his_PRP$ diary_NN in_IN 1792_CD and_CC continued_VBD to_TO be_VB interested_JJ in_IN the_DT politics_NNS and_CC business_NN of_IN Labrador_NNP ._.
+He_PRP was_VBD barracks_JJ master_NN of_IN the_DT Nottingham_NNP Militia_NNP from_IN some_DT time_NN during_IN the_DT Napoleonic_NNP Wars_NNS until_IN 1817_CD ._.
+He_PRP died_VBD in_IN 1819_CD in_IN Mansfield_NNP ,_, England_NNP ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- He_PRP had_VBD an_DT unparalleled_JJ love_NN for_IN Labrador_NNP until_IN his_PRP$ death_NN ''_'' as_IN is_VBZ shown_VBN ,_, for_IN example_NN ,_, in_IN his_PRP$ lengthy_JJ and_CC somewhat_RB tedious_JJ piece_NN of_IN verse_JJ ,_, of_IN which_WDT this_DT is_VBZ a_DT small_JJ extract_VB :_: Cartwright_NNP died_VBD at_IN Mansfield_NNP ,_, Nottinghamshire_NNP ._.
+At_IN Cartwright_NNP ,_, Labrador_NNP ,_, there_EX is_VBZ a_DT substantial_JJ monument_NN commemorating_VBG him_PRP and_CC his_PRP$ brother_NN John_NNP ._.
+Part_NN of_IN the_DT inscription_NN reads_VBZ :_: ``_`` In_IN Memory_NN of_IN George_NNP Cartwright_NNP ,_, Captain_NNP in_IN his_PRP$ Majesty_NNP 's_POS 37th_JJ Regiment_NN of_IN Foot_NNP ..._: who_WP in_IN March_NNP 1770_CD made_VBD a_DT settlement_NN on_IN the_DT coast_NN of_IN Labrador_NNP ..._: also_RB of_IN John_NNP Cartwright_NNP ,_, Lieutenant_NNP of_IN the_DT Guernsey_NNP ..._: ''_'' ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB-

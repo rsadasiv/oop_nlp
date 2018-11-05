@@ -1,0 +1,14 @@
+Joseph_NNP Barret_NNP -LRB-_-LRB- 1665_CD ``_`` 1699_CD -RRB-_-RRB- was_VBD an_DT English_JJ businessman_NN and_CC theological_JJ writer_NN ._.
+Barret_NNP was_VBD the_DT son_NN of_IN John_NNP Barret_NNP ,_, a_DT nonconformist_JJ minister_NN at_IN Nottingham_NNP ,_, and_CC was_VBD born_VBN at_IN Sandivere_NNP ,_, Derbyshire_NNP ,_, 2_CD August_NNP 1665_CD ._.
+He_PRP was_VBD educated_VBN at_IN Nottingham_NNP ,_, where_WRB ,_, from_IN the_DT sobriety_NN of_IN his_PRP$ ways_NNS ,_, the_DT boys_NNS called_VBD him_PRP ``_`` good_JJ man_NN ''_'' ._.
+His_PRP$ parents_NNS wished_VBD him_PRP to_TO be_VB apprenticed_VBN in_IN London_NNP ,_, but_CC he_PRP preferred_VBD remaining_VBG at_IN Nottingham_NNP ,_, where_WRB he_PRP married_VBD Millicent_NNP ,_, daughter_NN of_IN John_NNP Reyner_NNP ,_, sometime_RB fellow_NN of_IN Emmanuel_NNP College_NNP ,_, Cambridge_NNP ._.
+He_PRP appears_VBZ to_TO have_VB prospered_VBN in_IN business_NN ,_, and_CC to_TO have_VB been_VBN remarkable_JJ from_IN childhood_NN for_IN his_PRP$ consistent_JJ piety_NN ._.
+He_PRP died_VBD 28_CD August_NNP 1699_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ Remains_NNS -LRB-_-LRB- London_NNP ,_, 1700_CD -RRB-_-RRB- ,_, include_VBP an_DT account_NN of_IN his_PRP$ religious_JJ experiences_NNS ,_, occasional_JJ meditations_NNS ,_, letters_NNS ,_, and_CC a_DT brief_JJ character_NN of_IN him_PRP by_IN his_PRP$ father_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Five_CD children_NNS survived_VBD their_PRP$ father_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Buckland_NNP ,_, Augustus_NNP Robert_NNP -LRB-_-LRB- 1885_CD -RRB-_-RRB- ._.
+``_`` Barret_NNP ,_, Joseph_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+3_LS ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP p._VBP 279_CD ._.

@@ -1,0 +1,19 @@
+It_PRP is_VBZ now_RB believed_VBN that_IN Samsung_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ upcoming_JJ flagship_NN device_NN ,_, the_DT Galaxy_NNP Note_NN 10_CD ,_, will_MD come_VB with_IN a_DT 6.66-inch_JJ display_NN ._.
+According_VBG to_TO The_DT Bell_NNP ,_, Samsung_NNP Mobile_NNP handed_VBD the_DT specifications_NNS over_IN to_TO Samsung_NNP Display_NNP so_IN that_IN the_DT company_NN can_MD start_VB work_NN on_IN the_DT Super_NNP AMOLED_NNP panel_NN ._.
+The_DT company_NN has_VBZ also_RB given_VBN the_DT code_NN name_NN ``_`` DaVinci_NNP ''_'' to_TO the_DT upcoming_VBG Galaxy_NNP Note_VB 10_CD and_CC has_VBZ stated_VBN development_NN on_IN the_DT same_JJ ._.
+Recently_RB ,_, rumors_NNS suggested_VBD that_IN Samsung_NNP may_MD merge_VB the_DT Galaxy_NNP Note_NN and_CC Galaxy_NNP S_NNP series_NN ._.
+This_DT would_MD result_VB in_IN lower_JJR production_NN costs_NNS and_CC also_RB increase_VB the_DT profit_NN margins_NNS ._.
+Samsung_NNP was_VBD reportedly_RB struggling_VBG to_TO adjust_VB its_PRP$ flagship_NN model_NN lineup_NN to_TO defeat_VB profitability_NN deterioration_NN caused_VBN by_IN the_DT saturation_NN of_IN the_DT smartphone_NN market_NN ._.
+The_DT Galaxy_NNP Note_NN and_CC the_DT S_NNP Series_NNP are_VBP almost_RB similar_JJ ._.
+The_DT only_JJ difference_NN between_IN the_DT two_CD is_VBZ the_DT fact_NN that_IN the_DT Note_NN series_NN offers_VBZ an_DT S_NNP Pen_NNP and_CC a_DT few_JJ other_JJ software_NN features_NNS ._.
+The_DT discussion_NN that_IN the_DT two_CD products_NNS should_MD be_VB unified_VBN into_IN a_DT single_JJ cost_NN reduction_NN has_VBZ been_VBN raised_VBN inside_IN the_DT IM_NNP division_NN ._.
+The_DT company_NN is_VBZ also_RB said_VBD to_TO have_VB a_DT modest_JJ sales_NNS goal_NN for_IN the_DT Galaxy_NNP Note_NN 9_CD ,_, aiming_VBG to_TO ship_VB a_DT total_NN of_IN 12_CD million_CD units_NNS ._.
+The_DT reports_NNS points_VBZ out_RP that_IN this_DT move_NN is_VBZ to_TO rather_RB ,_, retain_VB existing_VBG customers_NNS ,_, rather_RB than_IN win_VB over_IN new_JJ ones_NNS ._.
+Samsung_NNP launched_VBD the_DT Galaxy_NNP Note_NN 9_CD in_IN August_NNP this_DT year_NN ._.
+In_IN India_NNP ,_, the_DT 6GB_NNP RAM\/128GB_NNP storage_NN variant_NN is_VBZ priced_VBN at_IN Rs_NNP 67,900_CD while_IN the_DT 8GB_NNP RAM\/512GB_NNP storage_NN variant_NN is_VBZ priced_VBN at_IN Rs_NNP 84,900_CD ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 6.4-inch_JJ QHD_NNP +_CD Super_NNP AMOLED_NNP display_NN with_IN a_DT 1440_CD x_SYM 2960pixels_NNS resolution_NN and_CC an_DT aspect_NN ratio_NN of_IN 18.5:9_CD ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT Qualcomm_NNP Snapdragon_NNP 845_CD processor_NN ,_, paired_VBN with_IN 6GB\/8GB_NNP RAM_NNP options_NNS ._.
+It_PRP will_MD be_VB offered_VBN in_IN two_CD storage_NN variants_NNS ''_'' 128GB_NNP and_CC 512GB_NNP along_IN with_IN a_DT microSD_NNP card_NN ,_, expandable_JJ up_IN to_TO 512GB_NNP ._.
+Running_VBG Android_NNP Oreo_NNP ,_, the_DT smartphone_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP ''_'' 12MP_NNP +_NNP 12MP_NNP sensors_NNS along_IN with_IN an_DT 8MP_JJ front_NN facing_VBG camera_NN ._.
+Connectivity_NN features_NNS include_VBP Wi-Fi_NNP ,_, GPS_NNP ,_, Bluetooth_NNP ,_, NFC_NNP ,_, 3G_NNP and_CC 4G_NNP ._.
+A_DT 4000mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.

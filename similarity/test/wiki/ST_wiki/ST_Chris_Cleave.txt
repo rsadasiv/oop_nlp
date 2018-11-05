@@ -1,0 +1,12 @@
+Chris_NNP Cleave_NNP -LRB-_-LRB- born_VBN 1973_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN and_CC journalist_NN ._.
+Cleave_NNP was_VBD born_VBN in_IN London_NNP on_IN May_NNP 14_CD ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- 1973_CD ,_, brought_VBD up_RP in_IN Cameroon_NNP and_CC Buckinghamshire_NNP ,_, and_CC educated_VBN at_IN Balliol_NNP College_NNP ,_, Oxford_NNP where_WRB he_PRP studied_VBD psychology_NN ._.
+He_PRP lives_VBZ in_IN the_DT United_NNP Kingdom_NNP with_IN his_PRP$ French_JJ wife_NN and_CC three_CD children_NNS ._.
+Cleave_NNP 's_POS debut_NN novel_NN Incendiary_NNP was_VBD published_VBN in_IN twenty_CD countries_NNS and_CC has_VBZ been_VBN adapted_VBN into_IN a_DT feature_NN film_NN starring_VBG Michelle_NNP Williams_NNP and_CC Ewan_NNP McGregor_NNP ._.
+The_DT novel_NN won_VBD a_DT 2006_CD Somerset_NNP Maugham_NNP Award_NNP and_CC was_VBD shortlisted_VBN for_IN the_DT 2006_CD Commonwealth_NNP Writers_NNPS '_POS Prize_NNP ._.
+The_DT audio_JJ book_NN version_NN was_VBD read_VBN by_IN Australian_JJ actor_NN ,_, Susan_NNP Lyons_NNP His_PRP$ second_JJ novel_NN ,_, The_DT Other_JJ Hand_NNP ,_, was_VBD released_VBN in_IN August_NNP 2008_CD and_CC was_VBD described_VBN as_IN ``_`` A_DT powerful_JJ piece_NN of_IN art_NN ..._: shocking_JJ ,_, exciting_JJ and_CC deeply_RB affecting_VBG ..._: superb_NN ''_'' -LRB-_-LRB- 2_LS -RRB-_-RRB- by_IN The_DT Independent_NNP ._.
+It_PRP has_VBZ been_VBN shortlisted_VBN for_IN the_DT 2008_CD Costa_NNP Book_NNP Awards_NNPS in_IN the_DT Novel_NNP category_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Cleave_NNP was_VBD inspired_VBN to_TO write_VB The_DT Other_JJ Hand_NN from_IN his_PRP$ childhood_NN in_IN West_NNP Africa_NNP ._.
+It_PRP was_VBD released_VBN in_IN the_DT US_NNP and_CC Canada_NNP in_IN January_NNP 2009_CD under_IN the_DT title_NN Little_NNP Bee_NNP ,_, and_CC will_MD be_VB adapted_VBN into_IN a_DT film_NN starring_VBG Nicole_NNP Kidman_NNP by_IN Blossom_NNP Films_NNP in_IN association_NN with_IN BBC_NNP Films_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Cleave_NNP is_VBZ a_DT columnist_NN for_IN The_DT Guardian_NNP newspaper_NN in_IN London_NNP ._.
+From_IN 2008_CD until_IN 2010_CD he_PRP wrote_VBD a_DT column_NN for_IN The_DT Guardian_NNP entitled_VBN ``_`` Down_NNP with_IN the_DT kids_NNS ''_'' ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

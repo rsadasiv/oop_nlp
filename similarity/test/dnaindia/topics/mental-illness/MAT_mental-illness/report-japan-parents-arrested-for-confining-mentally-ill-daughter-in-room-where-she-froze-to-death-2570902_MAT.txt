@@ -1,0 +1,308 @@
+Japanese_JJ
+police_NN
+said_VBD [PUBV]
+on_PIN
+Wednesday_NN
+they_TPP3
+have_VPRT [PEAS]
+arrested_VBN
+a_DT
+couple_NN
+whose_WPS [WHOBJ]
+33-year-old_JJ
+daughter_NN
+froze_VBD
+to_PIN
+death_NN
+in_PIN
+a_DT
+tiny_JJ
+room_NN
+where_RB
+they_TPP3
+had_VBD [PEAS]
+confined_VBN
+her_TPP3
+for_PIN
+years_NN
+because_CAUS
+they_TPP3
+believed_VBD [PRIV] [THATD]
+she_TPP3
+had_VBD
+a_DT
+form_NN
+of_PIN
+mental_JJ
+illness_NOMZ
+that_TSUB
+made_VBD
+her_TPP3
+violent_JJ
+._.
+Western_JJ
+Japan_NN
+'s_POS
+Osaka_NN
+Prefectural_NN
+Police_NN
+Department_NOMZ
+said_VBD [PUBV]
+Airi_NN
+Kakimoto_NN
+'s_POS
+body_NN
+was_VBD [PASS]
+found_VBN [PRIV]
+in_PIN
+a_DT
+state_NN
+of_PIN
+extreme_JJ
+malnutrition_NOMZ
+after_IN
+her_TPP3
+parents_NN
+reported_VBD [PUBV]
+the_DT
+death_NN
+on_PIN
+Saturday_NN
+._.
+She_TPP3
+was_VBD [BEMA]
+145_CD
+cm_NN
+-LRB-_-LRB-
+4.76_CD
+ft_NN
+-RRB-_-RRB-
+tall_JJ
+and_CC
+weighed_VBD
+just_EMPH
+19_CD
+kg_NN
+-LRB-_-LRB-
+42_CD
+lb_NN
+-RRB-_-RRB-
+._.
+Police_NN
+said_VBD [PUBV]
+Yasutaka_NN
+Kakimoto_NN
+,_,
+55_CD
+,_,
+and_ANDC
+Yukari_NN
+Kakimoto_NN
+,_,
+53_CD
+,_,
+had_VBD [PEAS]
+confessed_VBN [PUBV]
+that_THVC
+they_TPP3
+fed_VBD
+their_TPP3
+daughter_NN
+only_DWNT
+once_TIME
+a_DT
+day_NN
+and_CC
+kept_VBD
+her_TPP3
+in_PIN
+a_DT
+3-square-metre_JJ
+room_NN
+for_PIN
+some_QUAN
+15_CD
+years_NN
+._.
+``_``
+Our_FPP1
+daughter_NN
+was_VBD [BEMA]
+mentally_RB
+ill_PRED
+and_CC
+,_,
+from_PIN
+age_NN
+16_CD
+or_CC
+17_CD
+,_,
+she_TPP3
+became_VBD
+violent_JJ
+,_,
+so_IN
+we_FPP1
+kept_VBD
+her_TPP3
+inside_PLACE
+the_DT
+room_NN
+,_,
+''_''
+police_NN
+quoted_VBD
+her_TPP3
+parents_NN
+as_IN
+saying_VBG [PUBV]
+._.
+People_NN
+with_PIN
+mental_JJ
+and_PHC
+physical_JJ
+disabilities_NOMZ
+and_CC
+their_TPP3
+families_NN
+can_POMD [SPAU]
+still_RB
+suffer_VB
+stigma_NN
+and_PHC
+shame_NN
+in_PIN
+Japan_NN
+despite_PIN
+some_QUAN
+changes_NN
+in_PIN
+public_JJ
+attitudes_NN
+._.
+Police_NN
+said_VBD [PUBV] [THATD]
+the_DT
+parents_NN
+added_VBD [PUBV]
+the_DT
+small_JJ
+room_NN
+-_:
+fitted_VBN [PASTP]
+with_PIN
+a_DT
+camera_NN
+and_CC
+a_DT
+double_JJ
+door_NN
+that_TSUB
+could_POMD [SPAU]
+only_DWNT
+be_VB [PASS]
+unlocked_VBN
+from_PIN
+the_DT
+outside_PLACE
+-_:
+to_PIN
+their_TPP3
+house_NN
+and_CC
+equipped_VBN
+it_PIT
+with_PIN
+a_DT
+makeshift_JJ
+toilet_NN
+and_PHC
+tube_NN
+to_PIN
+a_DT
+water_NN
+tank_NN
+outside_PLACE
+._.
+About_IN
+10_CD
+surveillance_NN
+cameras_NN
+were_VBD [PASS]
+installed_VBN
+outside_PLACE
+the_DT
+single-storey_JJ
+home_NN
+,_,
+which_WDT [SERE]
+was_VBD [BYPA]
+surrounded_VBN
+by_PIN
+a_DT
+2-metre_JJ
+high_JJ
+fence_NN
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+parents_NN
+found_VBD [PRIV]
+their_TPP3
+daughter_NN
+dead_JJ
+on_PIN
+Dec._NN
+18_CD
+but_CC
+they_TPP3
+reported_VBD [PUBV]
+the_DT
+death_NN
+Saturday_NN
+._.
+``_``
+We_FPP1
+wanted_VBD
+to_TO
+be_VB [BEMA]
+together_RB
+with_PIN
+our_FPP1
+daughter_NN
+,_,
+''_''
+police_NN
+quoted_VBD
+them_TPP3
+as_IN
+saying_VBG [PUBV]
+._.
+Police_NN
+said_VBD [PUBV] [THATD]
+the_DT
+couple_NN
+were_VBD [PASS]
+arrested_VBN
+on_PIN
+suspicion_NN
+of_PIN
+illegally_RB
+disposing_VBG
+of_PIN
+a_DT
+body_NN
+,_,
+a_DT
+step_NN
+that_TSUB
+often_RB
+precedes_VPRT
+more_EMPH
+serious_JJ
+charges_NN
+._.

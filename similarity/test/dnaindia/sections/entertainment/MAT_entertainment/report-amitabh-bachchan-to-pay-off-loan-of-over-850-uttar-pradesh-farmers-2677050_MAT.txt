@@ -1,0 +1,257 @@
+Megastar_NN
+Amitabh_NN
+Bachchan_NN
+has_VPRT [PEAS]
+revealed_VBN [PRIV] [THATD]
+he_TPP3
+will_PRMD
+be_VB
+paying_VBG
+off_PIN
+loans_NN
+of_PIN
+over_IN
+850_CD
+farmers_NN
+from_PIN
+Uttar_NN
+Pradesh_NN
+._.
+The_DT
+76-year-old_JJ
+actor_NN
+said_VBD [PUBV] [THATD]
+he_TPP3
+previously_TIME
+helped_VBD
+over_IN
+350_CD
+farmers_NN
+from_PIN
+Maharashtra_NN
+by_PIN
+clearing_VBG
+their_TPP3
+loans_NN
+._.
+``_``
+It_PIT
+has_VPRT [PEAS]
+been_VBN [BEMA]
+a_DT
+most_EMPH
+satisfying_JJ
+experience_NN
+to_TO
+give_VB
+some_QUAN
+to_PIN
+them_TPP3
+our_FPP1
+countrymen_NN
+that_TSUB
+sacrificed_VBD
+their_TPP3
+lives_NN
+for_PIN
+us_FPP1
+..._:
+44_CD
+families_NN
+diversified_VBN [WZPAST]
+into_PIN
+112_CD
+entities_NOMZ
+were_VBD [PASS]
+given_VBN
+out_PIN
+in_PIN
+my_FPP1
+small_JJ
+way_NN
+from_PIN
+Maharashtra_NN
+,_,
+the_DT
+brave_VPRT
+hearts_NN
+,_,
+the_DT
+SHAHEED_NN
+._.
+More_EMPH
+needs_VPRT
+to_TO
+be_VB [PASS]
+done_VBN [PROD]
+from_PIN
+other_JJ
+parts_NN
+of_PIN
+the_DT
+country_NN
+too_RB
+._.
+It_PIT
+shall_PRMD
+be_VB [PASS]
+done_VBN [PROD]
+._.
+''_''
+``_``
+Over_IN
+350_CD
+farmers_NN
+loans_NN
+that_TSUB
+were_VBD [BEMA]
+difficult_PRED
+to_TO
+pay_VB
+off_PIN [STPR]
+,_,
+and_ANDC
+to_TO
+prevent_VB
+them_TPP3
+from_PIN
+committing_VBG
+suicide_NN
+,_,
+was_VBD [PASS]
+paid_VBN
+off_PIN
+some_QUAN
+days_NN
+back_RB
+too_RB
+..._:
+Earlier_TIME
+farmer_NN
+loans_NN
+from_PIN
+Andhra_NN
+and_PHC
+Vidarbha_NN
+had_VBD [PEAS]
+been_VBN [PASS]
+done_VBN
+..._:
+Now_DPAR
+a_DT
+list_NN
+of_PIN
+over_IN
+850_CD
+farmers_NN
+from_PIN
+Uttar_NN
+Pradesh_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+and_CC
+their_TPP3
+loans_NN
+amounting_VBG [WZPRES]
+to_PIN
+over_IN
+Rs_NN
+5.5_CD
+crore_NN
+shall_PRMD
+be_VB [PASS]
+taken_VBN
+care_NN
+of_PIN [STPR]
+._.
+._.
+the_DT
+assistance_NN
+from_PIN
+the_DT
+bank_NN
+in_PIN
+question_NOMZ
+assists_VPRT
+in_PIN
+its_PIT
+execution_NOMZ
+and_CC
+its_PIT
+benevolence_NN
+,_,
+''_''
+Bachchan_NN
+wrote_VBD [PUBV]
+on_PIN
+his_TPP3
+blog_NN
+._.
+The_DT
+actor_NN
+also_RB
+shared_VBD
+that_DEMO
+he_TPP3
+will_PRMD
+be_VB
+helping_VBG
+Ajeet_NN
+Singh_NN
+,_,
+who_WP
+appeared_VBD [SMP]
+on_PIN
+KBC_NN
+Karmveer_NN
+._.
+``_``
+Tomorrow_TIME
+a_DT
+contribution_NOMZ
+to_PIN
+Ajeet_NN
+Singh_NN
+,_,
+who_WP
+was_VBD [BEMA]
+on_PIN
+KBC_NN
+Karmveer_NN
+,_,
+and_ANDC
+who_WP
+works_VPRT
+towards_PIN
+forced_VBN
+prostitution_NOMZ
+and_CC
+the_DT
+protection_NOMZ
+of_PIN
+young_JJ
+girls_NN
+being_VBG [WZPRES] [PASS]
+kidnapped_VBN
+and_PHC
+forced_VBN
+into_PIN
+this_DEMO
+dastardly_RB
+crime_NN
+,_,
+is_VPRT
+being_VBG [PASS]
+sent_VBN
+to_PIN
+him_TPP3
+to_TO
+help_VB
+in_PIN
+his_TPP3
+most_EMPH
+valiant_JJ
+endeavor_NN
+._.
+''_''

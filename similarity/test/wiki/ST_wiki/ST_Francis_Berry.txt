@@ -1,0 +1,9 @@
+Francis_NNP Berry_NNP -LRB-_-LRB- 23_CD March_NNP 1915_CD ''_'' 10_CD October_NNP 2006_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- -RRB-_-RRB- was_VBD a_DT British_JJ academic_JJ ,_, poet_NN ,_, critic_NN and_CC translator_NN ._.
+He_PRP was_VBD born_VBN in_IN Ipoh_NNP ,_, Malaya_NNP ,_, and_CC educated_VBN at_IN the_DT University_NNP of_IN London_NNP and_CC the_DT University_NNP of_IN Exeter_NNP ._.
+After_IN serving_VBG as_IN a_DT soldier_NN ,_, and_CC then_RB as_IN a_DT schoolteacher_NN in_IN Malta_NNP ,_, he_PRP held_VBD various_JJ appointments_NNS in_IN English_NNP literature_NN ._.
+He_PRP was_VBD professor_NN of_IN English_NNP Literature_NNP at_IN the_DT University_NNP of_IN Sheffield_NNP from_IN 1947_CD to_TO 1970_CD ,_, where_WRB he_PRP was_VBD a_DT friend_NN of_IN William_NNP Empson_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- From_IN 1970_CD until_IN his_PRP$ retirement_NN in_IN 1980_CD ,_, he_PRP was_VBD professor_NN at_IN Royal_NNP Holloway_NNP ,_, University_NNP of_IN London_NNP ._.
+He_PRP also_RB wrote_VBD radio_NN plays_NNS ,_, and_CC a_DT novel_NN I_PRP Tell_VBP of_IN Greenland_NNP -LRB-_-LRB- 1977_CD -RRB-_-RRB- ._.
+His_PRP$ first_JJ collection_NN of_IN poetry_NN ,_, Gospel_NNP of_IN Fire_NNP ,_, was_VBD published_VBN in_IN 1933_CD ;_: his_PRP$ Collected_NNP Poems_NNP ,_, drawing_VBG on_IN 11_CD books_NNS ,_, appeared_VBD in_IN 1994_CD ._.
+His_PRP$ work_NN has_VBZ been_VBN praised_VBN by_IN G._NNP Wilson_NNP Knight_NNP -LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC Philip_NNP Hobsbaum_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- His_PRP$ critical_JJ writing_NN includes_VBZ books_NNS on_IN John_NNP Masefield_NNP and_CC Herbert_NNP Read_NNP ._.

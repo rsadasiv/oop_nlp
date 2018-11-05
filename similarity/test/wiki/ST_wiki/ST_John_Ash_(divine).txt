@@ -1,0 +1,14 @@
+John_NNP Ash_NNP -LRB-_-LRB- c._FW 1724_CD ``_`` 1779_CD -RRB-_-RRB- was_VBD an_DT English_JJ Baptist_NNP minister_NN at_IN Pershore_NNP ,_, Worcestershire_NNP ,_, divine_NN ,_, and_CC author_NN of_IN an_DT English_JJ dictionary_JJ and_CC grammar_NN books_NNS ._.
+Ash_NNP was_VBD born_VBN in_IN Dorset_NNP about_IN 1724_CD ._.
+He_PRP studied_VBD for_IN the_DT ministry_NN at_IN Bristol_NNP ,_, under_IN Bernard_NNP Foskett_NNP ,_, became_VBD pastor_NN at_IN Loughwood_NNP Meeting_VBG House_NNP ,_, a_DT Baptist_NNP chapel_NN in_IN Dorset_NNP ,_, and_CC while_IN there_EX contributed_VBD to_TO periodicals_NNS ._.
+He_PRP settled_VBD in_IN the_DT ministry_NN at_IN Pershore_NNP in_IN 1746_CD ,_, as_IN the_DT result_NN of_IN a_DT compromise_NN between_IN different_JJ parties_NNS in_IN the_DT congregation_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP obtained_VBD a_DT degree_NN of_IN LL_NNP ._.
+D._NNP from_IN a_DT Scottish_JJ university_NN in_IN 1774_CD ,_, and_CC died_VBD at_IN Pershore_NNP in_IN March_NNP or_CC April_NNP 1779_CD ,_, aged_VBN 55_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Ash_NNP is_VBZ best_RB known_VBN as_IN a_DT lexicographer_NN ,_, author_NN of_IN :_: Ash_NNP 's_POS New_NNP and_CC Complete_JJ Dictionary_NNP was_VBD noteworthy_JJ for_IN the_DT number_NN of_IN obsolete_JJ and_CC provincial_JJ words_NNS contained_VBN in_IN it_PRP ._.
+It_PRP incorporated_VBD most_JJS of_IN Nathan_NNP Bailey_NNP 's_POS collection_NN of_IN canting_VBG words_NNS ._.
+This_DT dictionary_NN was_VBD the_DT first_JJ to_TO define_VB in_IN English_NNP the_DT previously_RB omitted_VBN words_NNS fuck_VBP and_CC cunt_VBP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- His_PRP$ debt_NN to_TO Samuel_NNP Johnson_NNP was_VBD demonstrated_VBN in_IN a_DT famous_JJ error_NN in_IN his_PRP$ etymology_NN of_IN the_DT word_NN curmudgeon_NN ,_, which_WDT he_PRP says_VBZ derives_VBZ from_IN the_DT French_JJ for_IN ``_`` unknown_JJ correspondent_NN ''_'' ;_: Johnson_NNP 's_POS A_DT Dictionary_NNP of_IN the_DT English_NNP Language_NN from_IN twenty_CD years_NNS before_IN had_VBD suggested_VBN -LRB-_-LRB- erroneously_RB ,_, as_IN it_PRP happens_VBZ -RRB-_-RRB- that_IN the_DT word_NN derives_VBZ from_IN ``_`` c_NN ``_`` ur_NN méchant_NN ''_'' -LRB-_-LRB- malicious-hearted_JJ -RRB-_-RRB- ,_, attributing_VBG his_PRP$ information_NN to_TO an_DT ``_`` unknown_JJ correspondent_NN ''_'' ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- An_DT earlier_JJR work_NN was_VBD :_: Other_JJ works_NNS :_: This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Ash_NNP ,_, John_NNP -LRB-_-LRB- 1724_CD ?_.
+-1779_CD -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

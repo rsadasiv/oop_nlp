@@ -1,0 +1,193 @@
+Orange_NN
+Is_VPRT [BEMA]
+the_DT
+New_NN
+Black_NN
+is_VPRT [PASS]
+set_VBN
+to_TO [SPIN]
+officially_RB
+call_VB
+it_PIT
+a_DT
+day_NN
+after_IN
+its_PIT
+seventh_JJ
+season_NN
+._.
+The_DT
+cast_NN
+of_PIN
+the_DT
+critically-acclaimed_JJ
+Netflix_NN
+prison_NN
+drama_NN
+announced_VBD [PUBV]
+the_DT
+news_NN
+Wednesday_NN
+on_PIN
+Twitter_NN
+._.
+Creator_NN
+Jenji_NN
+Kohan_NN
+said_VBD [PUBV]
+after_IN
+seven_CD
+seasons_NN
+,_,
+``_``
+It_PIT
+'s_VPRT [CONT]
+time_NN
+to_TO
+be_VB [PASS]
+released_VBN
+from_PIN
+prison_NN
+._.
+''_''
+``_``
+I_FPP1
+will_PRMD
+miss_VB
+all_QUAN
+the_DT
+badass_NN
+ladies_NN
+of_PIN
+Litchfield_NN
+and_CC
+the_DT
+incredible_JJ
+crew_NN
+we_FPP1
+'ve_VPRT [CONT]
+worked_VBN
+with_PIN [STPR]
+._.
+My_FPP1
+heart_NN
+is_VPRT [BEMA]
+orange_PRED
+but_CC
+fade_VPRT
+to_PIN
+black_JJ
+,_,
+''_''
+Kohan_NN
+said_VBD [PUBV]
+._.
+The_DT
+development_NOMZ
+comes_VPRT
+months_NN
+after_IN
+Kohan_NN
+,_,
+who_WP
+is_VPRT [SPAU] [PASS]
+also_RB
+attached_VBN
+as_IN
+executive_JJ
+director_NN
+,_,
+hinted_VBD [PUBV]
+that_THVC
+the_DT
+seventh_JJ
+season_NN
+of_PIN
+the_DT
+show_NN
+could_POMD [SPAU]
+very_AMP
+well_RB
+be_VB [BEMA]
+its_PIT
+last_JJ
+._.
+The_DT
+series_NN
+is_VPRT [PASS]
+based_VBN
+on_PIN
+Piper_NN
+Kerman_NN
+'s_POS
+2010_CD
+memoir_NN
+,_,
+Orange_NN
+Is_VPRT [BEMA]
+the_DT
+New_NN
+Black_NN
+:_:
+My_FPP1
+Year_NN
+in_PIN
+a_DT
+Women_NN
+'s_POS
+Prison_NN
+,_,
+about_IN
+her_TPP3
+experiences_NN
+at_PIN
+FCI_NN
+Danbury_NN
+,_,
+a_DT
+minimum-security_JJ
+federal_JJ
+prison_NN
+._.
+Back_RB
+in_PIN
+February_NN
+2016_CD
+,_,
+Netflix_NN
+renewed_VBD
+the_DT
+hit_NN
+show_NN
+for_PIN
+three_CD
+seasons_NN
+taking_VBG [WZPRES]
+it_PIT
+through_PIN
+to_PIN
+season_NN
+seven_CD
+._.
+OITNB_NN
+returned_VBD
+for_PIN
+season_NN
+six_CD
+on_PIN
+July_NN
+27_CD
+._.
+The_DT
+premiere_NN
+date_NN
+of_PIN
+the_DT
+final_JJ
+season_NN
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+announced_VBN [PUBV]
+._.

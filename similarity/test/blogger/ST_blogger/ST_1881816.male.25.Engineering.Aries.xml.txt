@@ -1,0 +1,405 @@
+I_PRP keep_VBP hearing_VBG politicians_NNS talking_VBG about_IN taxes_NNS and_CC tax_NN cuts_NNS to_TO the_DT different_JJ income_NN brackets_NNS ._.
+The_DT one_CD thing_NN I_PRP never_RB hear_VBP is_VBZ what_WP defines_VBZ someone_NN as_IN upper_JJ ,_, middle_JJ and_CC lower_JJR income_NN brackets_NNS ._.
+As_IN a_DT matter_NN of_IN opinion_NN I_PRP was_VBD curious_JJ because_IN this_DT could_MD sway_VB my_PRP$ vote_NN for_IN the_DT next_JJ president_NN ._.
+I_PRP wanted_VBD to_TO know_VB who_WP was_VBD looking_VBG out_RP for_IN me_PRP and_CC my_PRP$ money_NN ._.
+So_RB ,_, I_PRP did_VBD some_DT research_NN on_IN the_DT numbers_NNS ..._: The_DT published_VBN number_NN by_IN the_DT US_NNP Census_NNP Bureau_NNP for_IN the_DT median_NN household_NN income_NN for_IN 2002_CD -LRB-_-LRB- the_DT most_RBS recent_JJ published_VBN year_NN -RRB-_-RRB- was_VBD $_$ 42,409_CD ._.
+The_DT mean_NN -LRB-_-LRB- average_JJ -RRB-_-RRB- income_NN for_IN 2002_CD was_VBD $_$ 57,852_CD ._.
+We_PRP have_VBP to_TO look_VB at_IN both_DT of_IN these_DT numbers_NNS to_TO see_VB what_WP this_DT really_RB means_VBZ ._.
+Let_NNP 's_POS start_NN with_IN a_DT couple_NN definitions_NNS from_IN the_DT Census_NNP Bureau_NNP ._.
+Mean_VB -LRB-_-LRB- Average_JJ -RRB-_-RRB- income_NN ._.
+Mean_VB -LRB-_-LRB- average_JJ -RRB-_-RRB- income_NN is_VBZ the_DT amount_NN obtained_VBN by_IN dividing_VBG the_DT total_JJ aggregate_JJ income_NN of_IN a_DT group_NN by_IN the_DT number_NN of_IN units_NNS in_IN that_DT group_NN ._.
+The_DT means_NNS for_IN households_NNS ,_, families_NNS ,_, and_CC unrelated_JJ individuals_NNS are_VBP based_VBN on_IN all_DT households_NNS ,_, families_NNS ,_, and_CC unrelated_JJ individuals_NNS ,_, respectively_RB ._.
+The_DT means_NNS -LRB-_-LRB- averages_NNS -RRB-_-RRB- for_IN people_NNS are_VBP based_VBN on_IN people_NNS 15_CD years_NNS old_JJ and_CC over_IN with_IN income_NN ._.
+Median_JJ income_NN ._.
+Median_JJ income_NN is_VBZ the_DT amount_NN which_WDT divides_VBZ the_DT income_NN distribution_NN into_IN two_CD equal_JJ groups_NNS ,_, half_DT having_VBG incomes_NNS above_IN the_DT median_NN ,_, half_NN having_VBG incomes_NNS below_IN the_DT median_NN ._.
+The_DT medians_NNS for_IN households_NNS ,_, families_NNS ,_, and_CC unrelated_JJ individuals_NNS are_VBP based_VBN on_IN all_DT households_NNS ,_, families_NNS ,_, and_CC unrelated_JJ individuals_NNS ,_, respectively_RB ._.
+The_DT medians_NNS for_IN people_NNS are_VBP based_VBN on_IN people_NNS 15_CD years_NNS old_JJ and_CC over_IN with_IN income_NN ._.
+The_DT mean_NN -LRB-_-LRB- average_JJ -RRB-_-RRB- income_NN can_MD be_VB misleading_JJ ._.
+We_PRP take_VBP all_PDT the_DT income_NN for_IN everyone_NN in_IN the_DT US_NNP and_CC divide_VB it_PRP by_IN the_DT total_JJ number_NN of_IN people_NNS ._.
+This_DT includes_VBZ the_DT incomes_NNS of_IN people_NNS like_IN Bill_NNP Gate_NNP ,_, Donald_NNP Trump_NNP and_CC others_NNS that_WDT skew_VBD the_DT mean_JJ income_NN ._.
+The_DT number_NN to_TO really_RB look_VB at_IN is_VBZ the_DT median_JJ income_NN ._.
+That_DT is_VBZ what_WP the_DT guy_NN smack_VBP dab_NN in_IN the_DT middle_NN would_MD make_VB ._.
+So_RB ,_, your_PRP$ average_JJ joe_NN 6_CD pack_NN would_MD make_VB about_IN $_$ 42,000_CD US_NNP dollars_NNS per_IN year_NN ._.
+If_IN you_PRP are_VBP interested_JJ in_IN looking_VBG at_IN the_DT numbers_NNS yourself_PRP you_PRP can_MD check_VB them_PRP out_RP yourself_PRP at_IN the_DT US_NNP Census_NNP Bureau_NNP here_RB ._.
+Lets_VBZ look_NN at_IN the_DT tax_NN brackets_NNS ._.
+There_EX are_VBP several_JJ brackets_NNS depending_VBG on_IN what_WP you_PRP earn_VBP ._.
+I_PRP could_MD not_RB find_VB them_PRP for_IN 2002_CD but_CC the_DT 2003_CD brackets_NNS -LRB-_-LRB- coutrsey_NN of_IN Fairmark_NNP Press_NNP -RRB-_-RRB- are_VBP ..._: $_$ 0_CD to_TO $_$ 7,000_CD is_VBZ 10_CD %_NN $_$ 7,000_CD to_TO 28,400_CD is_VBZ 15_CD %_NN $_$ 28,400_CD to_TO 68,800_CD is_VBZ 25_CD %_NN $_$ 68,800_CD to_TO 143,500_CD is_VBZ 28_CD %_NN $_$ 143,500_CD to_TO 311,950_CD is_VBZ 33_CD %_NN $_$ 311,950_CD and_CC up_RB is_VBZ 35_CD %_NN Now_RB this_DT is_VBZ where_WRB opinion_NN comes_VBZ into_IN play_NN on_IN the_DT upper_JJ ,_, middle_JJ and_CC lower_JJR income_NN brackets_NNS ._.
+They_PRP say_VBP lower_JJR but_CC what_WP bracket_NN do_VBP they_PRP mean_VB ?_.
+There_EX are_VBP more_JJR than_IN 3_CD of_IN them_PRP ._.
+The_DT mean_NN and_CC median_NN incomes_NNS both_DT fall_VBP in_IN the_DT 25_CD %_NN tax_NN bracket_NN ._.
+So_RB ,_, I_PRP would_MD assume_VB this_DT to_TO be_VB ``_`` middle_JJ class_NN ''_'' and_CC at_IN least_JJS the_DT middle_JJ tax_NN bracket_NN ._.
+So_RB ,_, would_MD that_WDT make_VBP the_DT 10_CD %_NN and_CC 15_CD %_NN brackets_NNS to_TO be_VB the_DT lower_JJR income_NN bracket_NN ._.
+That_DT is_VBZ $_$ 28,400_CD per_IN year_NN and_CC under_IN ._.
+So_RB ,_, when_WRB they_PRP talk_VBP about_IN the_DT lower_JJR tax_NN bracket_NN I_PRP would_MD assume_VB this_DT is_VBZ what_WP they_PRP mean_VBP ._.
+I_PRP would_MD also_RB take_VB from_IN this_DT that_IN the_DT ``_`` upper_JJ middle_JJ class_NN ''_'' is_VBZ the_DT 28_CD %_NN bracket_NN and_CC the_DT 33_CD %_NN and_CC 35_CD %_NN bracket_NN are_VBP the_DT ``_`` upper_JJ class_NN ''_'' or_CC upper_JJ bracket_NN ._.
+Now_RB I_PRP know_VBP where_WRB I_PRP fit_VBP and_CC how_WRB these_DT tax_NN incentives_NNS ,_, cuts_NNS ,_, and_CC hikes_VBZ apply_VB to_TO me_PRP ._.
+Hope_NNP you_PRP do_VBP too_RB ._.
+I_PRP am_VBP stuck_VBN home_NN sick_JJ today_NN ._.
+I_PRP do_VBP n't_RB feel_VB so_RB hot_JJ ._.
+Now_RB ,_, I_PRP am_VBP bored_VBN and_CC wondering_VBG what_WP to_TO do_VB ._.
+The_DT few_JJ things_NNS running_VBG though_IN my_PRP$ head_NN are_VBP watch_NN tv_NN or_CC read_VB a_DT book_NN ._.
+Anyone_NN out_IN there_RB have_VBP any_DT better_JJR ideas_NNS ?_.
+I_PRP would_MD have_VB to_TO say_VB that_IN Detroit_NNP is_VBZ one_CD of_IN the_DT best_JJS sports_NNS towns_NNS out_IN there_RB ._.
+We_PRP have_VBP all_PDT the_DT major_JJ US_NNP sports_NNS ._.
+The_DT Red_NNP Wings_NNP -LRB-_-LRB- hockey_NN -RRB-_-RRB- ,_, Lions_NNP -LRB-_-LRB- football_NN -RRB-_-RRB- ,_, Pistons_NNP -LRB-_-LRB- NBA_NNP basketball_NN -RRB-_-RRB- ,_, Tigers_NNP -LRB-_-LRB- baseball_NN -RRB-_-RRB- ,_, Shock_NN -LRB-_-LRB- WNBA_NNP -RRB-_-RRB- basketball_NN ,_, Michigan_NNP State_NNP University_NNP and_CC University_NNP of_IN Micigan_NNP ._.
+Between_IN these_DT teams_NNS the_DT only_RB one_CD to_TO not_RB be_VB constantly_RB sold_VBN out_RP is_VBZ the_DT Tigers_NNP ._.
+To_TO get_VB tickets_NNS to_TO just_RB about_IN any_DT other_JJ game_NN is_VBZ difficult_JJ and_CC can_MD cost_VB you_PRP and_CC arm_NN and_CC a_DT leg_NN ._.
+Lets_VBZ talk_NN sucess_NN in_IN the_DT past_JJ 10_CD years_NNS ._.
+-_: The_DT Red_NNP Wings_NNPS have_VBP 3_CD Stanley_NNP Cups_NNS and_CC 2_CD Presidents_NNS Trophies_NNPS ._.
+-_: Pistons_NNS have_VBP set_VBN several_JJ NBA_NNP records_NNS this_DT season_NN and_CC one_CD again_RB have_VBP made_VBN it_PRP to_TO the_DT conference_NN finals_NNS ._.
+-_: Shock_NN are_VBP the_DT WNBA_NNP Champions_NNPS ._.
+They_PRP have_VBP the_DT coach_NN of_IN the_DT year_NN to_TO boot_NN ._.
+-_: MSU_NNP mens_VBZ basketball_NN was_VBD and_CC NCAA_NNP Champion_NNP and_CC has_VBZ won_VBN many_JJ conference_NN chamionships_NNS ._.
+-_: U_NNP of_IN M_NNP was_VBD a_DT football_NN NCAA_NNP Champion_NNP and_CC is_VBZ amazing_JJ at_IN many_JJ of_IN it_PRP 's_VBZ sports_NNS ._.
+Detroit_NNP is_VBZ known_VBN for_IN being_VBG overweight_JJ these_DT days_NNS being_VBG the_DT reigning_VBG nations_NNS champion_VBP there_RB ._.
+It_PRP is_VBZ cold_JJ half_PDT the_DT year_NN and_CC I_PRP mean_VBP cold_JJ ._.
+So_RB ,_, we_PRP spend_VBP hours_NNS and_CC hours_NNS watching_VBG sports_NNS and_CC checking_VBG espn.com_NN for_IN the_DT up_RB to_TO date_NN scores_NNS and_CC stats_NNS ._.
+If_IN only_RB the_DT boss_NN new_JJ ._.
+As_IN far_RB as_IN the_DT fans_NNS go_VBP the_DT Lions_NNPS fans_NNS are_VBP the_DT perfect_JJ example_NN of_IN that_DT ._.
+They_PRP have_VBP been_VBN below_IN .500_CD every_DT year_NN for_IN the_DT past_JJ several_JJ years_NNS ._.
+Yet_RB ,_, every_DT game_NN is_VBZ sold_VBN out_RP ._.
+And_CC the_DT fans_NNS are_VBP out_IN there_RB with_IN faces_NNS painted_VBN rooting_VBG the_DT team_NN on_IN to_TO the_DT bitter_JJ end_NN ._.
+Every_DT year_NN after_IN the_DT draft_NN and_CC trades_NNS there_EX is_VBZ hope_NN for_IN the_DT Lions_NNP in_IN the_DT eyes_NNS of_IN the_DT city_NN ._.
+But_CC ,_, this_DT year_NN it_PRP is_VBZ n't_RB just_RB hope_VB ;_: it_PRP 's_VBZ reality_NN ;_: -_: -RRB-_-RRB- Detroit_NNP is_VBZ really_RB a_DT sports_NNS town_NN ._.
+One_CD of_IN the_DT best_JJS sports_NNS towns_NNS ._.
+We_PRP have_VBP all_PDT the_DT drama_NN of_IN a_DT soap_NN -LRB-_-LRB- just_RB looka_FW the_DT cujo_NN and_CC hasek_NN goalie_NN delima_NN that_WDT drove_VBD us_PRP nuts_NNS for_IN the_DT year_NN -RRB-_-RRB- ,_, the_DT glory_NN of_IN a_DT championship_NN -LRB-_-LRB- the_DT wings_NNS for_IN example_NN -RRB-_-RRB- ,_, and_CC the_DT hope_NN behind_IN a_DT rebuilding_NN -LRB-_-LRB- Lions_NNPS and_CC Tigers_NNP -RRB-_-RRB- ._.
+We_PRP have_VBP all_PDT the_DT parts_NNS for_IN all_PDT the_DT kinds_NNS of_IN fans_NNS ._.
+Go_VB Pistons_NNPS !!!!!!!!!!!_NNP Crush_VB those_DT Pacers_NNP !!!!!!!!!!!!!!_NNP I_PRP grew_VBD up_RP going_VBG to_TO church_NN ._.
+It_PRP was_VBD soooo_JJ boring_NN ._.
+The_DT way_NN church_NN was_VBD for_IN me_PRP growing_VBG up_RP was_VBD my_PRP$ parents_NNS style_NN ._.
+The_DT music_NN was_VBD lame_JJ ,_, the_DT limited_JJ use_NN of_IN technology_NN ,_, the_DT message_NN coming_VBG across_IN ._.
+Times_NNP are_VBP changing_VBG though_RB ._.
+Many_JJ in_IN the_DT church_NN are_VBP waking_VBG up_RB and_CC seeing_VBG that_IN times_NNS have_VBP changed_VBN ._.
+In_IN part_NN because_IN there_EX has_VBZ been_VBN such_JJ a_DT big_JJ drop_NN off_RP in_IN attendance_NN from_IN those_DT in_IN the_DT 20_CD 's_POS and_CC under_IN ._.
+Churches_NNS are_VBP staring_VBG to_TO make_VB major_JJ changes_NNS in_IN the_DT way_NN they_PRP do_VBP things_NNS ._.
+One_CD of_IN the_DT new_JJ things_NNS to_TO the_DT net_NN is_VBZ church_NN on_IN the_DT net_NN ._.
+It_PRP is_VBZ a_DT virtual_JJ church_NN ._.
+They_PRP have_VBP preachers_NNS ,_, references_NNS ,_, you_PRP can_MD interact_VB with_IN other_JJ church_NN goers_NNS and_CC more_JJR ._.
+This_DT church_NN is_VBZ over_IN in_IN England_NNP where_WRB there_EX is_VBZ a_DT lot_NN happening_VBG in_IN post_NN modern_JJ ministry_NN ._.
+The_DT site_NN is_VBZ run_VBN by_IN Ship_NN of_IN Fools_NNS ._.
+You_PRP can_MD link_VB to_TO it_PRP right_RB from_IN their_PRP$ homepage_NN ._.
+There_EX have_VBP been_VBN problems_NNS with_IN the_DT online_JJ church_NN ._.
+It_PRP seems_VBZ that_IN there_EX have_VBP been_VBN a_DT lot_NN of_IN americans_NNS that_WDT have_VBP been_VBN causing_VBG trouble_NN in_IN there_RB ._.
+Some_DT of_IN the_DT features_NNS had_VBD to_TO be_VB restricted_VBN because_IN of_IN it_PRP ._.
+It_PRP 's_VBZ a_DT really_RB cool_JJ place_NN to_TO go_VB and_CC 6pm_VB EST_NNP Sunday_NNP night_NN there_EX are_VBP online_JJ services_NNS ._.
+Now_RB ,_, if_IN I_PRP want_VBP to_TO go_VB to_TO church_NN it_PRP 's_VBZ just_RB a_DT mouse_NN click_VBP away_RB ._.
+I_PRP recieved_VBD a_DT forward_RB yesterday_NN ._.
+It_PRP was_VBD a_DT little_JJ older_JJR and_CC many_JJ people_NNS may_MD have_VB seen_VBN it_PRP before_IN but_CC it_PRP really_RB talked_VBD about_IN some_DT things_NNS we_PRP Americans_NNPS along_IN with_IN many_JJ others_NNS take_VBP for_IN granted_VBN ._.
+It_PRP 's_VBZ really_RB something_NN to_TO read_VB and_CC think_VB about_IN ..._: An_DT open_JJ letter_NN to_TO America_NNP from_IN one_CD European_JJ Americans_NNPS kept_VBD Europeans_NNPS free_JJ to_TO disagree_VB From_IN :_: James_NNP Black_NNP ,_, Wychwood_NNP Park_NNP ,_, Cheshire_NNP ,_, England_NNP Dear_NNP America_NNP ,_, You_PRP quirky_JJ mix_NN of_IN 280_CD million_CD misfits_NNS that_WDT have_VBP somehow_RB blended_JJ into_IN the_DT strongest_JJS nation_NN in_IN the_DT world_NN ,_, I_PRP write_VBP to_TO offer_VB you_PRP four_CD apologies_NNS and_CC two_CD vows_VBZ ._.
+1_LS -RRB-_-RRB- I_PRP ,_, James_NNP Black_NNP ,_, a_DT European_JJ passport_NN holder_NN whose_WP$ parents_NNS are_VBP Scottish_JJ ,_, whose_WP$ wife_NN is_VBZ English_JJ ,_, and_CC whose_WP$ four_CD children_NNS are_VBP free_JJ to_TO be_VB whatever_WDT they_PRP may_MD want_VB to_TO be_VB -LRB-_-LRB- directly_RB because_IN of_IN the_DT sacrifice_NN of_IN your_PRP$ nation_NN -RRB-_-RRB- ,_, am_VBP ashamed_JJ for_IN pointing_VBG out_RP to_TO a_DT colleague_NN while_IN visiting_VBG your_PRP$ country_NN a_DT few_JJ days_NNS ago_IN that_DT Winston_NNP Churchill_NNP was_VBD wrong_JJ when_WRB he_PRP said_VBD the_DT biggest_JJS difference_NN between_IN Britain_NNP and_CC the_DT United_NNP States_NNPS was_VBD the_DT fact_NN we_PRP both_DT spoke_VBD the_DT same_JJ language_NN --_: and_CC instead_RB ,_, telling_VBG him_PRP that_IN the_DT real_JJ difference_NN between_IN our_PRP$ peoples_NNS was_VBD actually_RB about_IN 100_CD pounds_NNS per_IN person_NN ._.
+2_LS -RRB-_-RRB- I_PRP ,_, who_WP work_VBP as_IN a_DT journalist_NN with_IN the_DT Daily_NNP Mail_NNP ,_, one_CD of_IN Britain_NNP 's_POS national_JJ newspapers_NNS ,_, and_CC -LRB-_-LRB- directly_RB because_IN of_IN the_DT sacrifice_NN of_IN your_PRP$ nation_NN -RRB-_-RRB- is_VBZ able_JJ to_TO say_VB exactly_RB what_WP he_PRP wants_VBZ whenever_WRB he_PRP wants_VBZ without_IN fear_NN of_IN death_NN or_CC imprisonment_NN ,_, would_MD also_RB like_VB to_TO apologise_VB for_IN saying_VBG to_TO the_DT same_JJ colleague_NN that_WDT many_JJ of_IN the_DT Americans_NNPS I_PRP met_VBD were_VBD far_RB less_RBR sophisticated_JJ and_CC worldly_RB than_IN Europeans_NNPS ._.
+3_LS -RRB-_-RRB- I_PRP ,_, James_NNP Black_NNP ,_, a_DT man_NN born_VBN free_JJ of_IN social_JJ or_CC physical_JJ shackles_NNS and_CC chains_NNS ,_, who_WP is_VBZ able_JJ to_TO travel_VB around_IN the_DT world_NN and_CC visit_NN other_JJ countries_NNS and_CC who_WP -LRB-_-LRB- directly_RB because_IN of_IN the_DT sacrifice_NN of_IN your_PRP$ nation_NN -RRB-_-RRB- is_VBZ able_JJ to_TO converse_VB ,_, discuss_VB ,_, even_RB argue_VBP with_IN people_NNS from_IN other_JJ nations_NNS ,_, would_MD like_VB to_TO apologise_VB for_IN mocking_VBG your_PRP$ president_NN and_CC your_PRP$ political_JJ system_NN ._.
+Your_PRP$ president_NN may_MD not_RB be_VB the_DT sharpest_JJS knife_NN in_IN the_DT cutlery_NN set_NN ,_, but_CC I_PRP now_RB understand_VBP he_PRP and_CC the_DT good_JJ people_NNS of_IN the_DT United_NNP States_NNPS operate_VBP not_RB just_RB from_IN a_DT high_JJ intellectual_JJ stance_NN ,_, but_CC also_RB from_IN the_DT heart_NN --_: a_DT heart_NN that_WDT knows_VBZ the_DT difference_NN between_IN good_JJ and_CC evil_JJ ._.
+And_CC importantly_RB ,_, your_PRP$ president_NN was_VBD smart_JJ enough_JJ to_TO have_VB picked_VBN the_DT best_JJS to_TO sit_VB with_IN him_PRP at_IN the_DT world_NN table_NN ._.
+4_LS -RRB-_-RRB- I_PRP ,_, whose_WP$ friends_NNS ,_, family_NN and_CC colleagues_NNS are_VBP allowed_VBN to_TO set_VB up_RP home_NN ,_, take_VB a_DT job_NN ,_, even_RB run_VB for_IN politician_NN ,_, in_IN any_DT part_NN of_IN the_DT European_NNP Union_NNP -LRB-_-LRB- directly_RB because_IN of_IN the_DT sacrifice_NN of_IN your_PRP$ nation_NN -RRB-_-RRB- without_IN being_VBG rounded_VBD up_RP because_IN of_IN their_PRP$ religion_NN or_CC shot_NN on_IN the_DT spot_NN for_IN their_PRP$ place_NN of_IN birth_NN would_MD finally_RB like_VB to_TO apologise_VB for_IN the_DT biggest_JJS mistake_NN the_DT people_NNS of_IN my_PRP$ continent_NN have_VBP ever_RB made_VBN --_: their_PRP$ total_JJ lack_NN of_IN respect_NN for_IN the_DT greatest_JJS friend_NN they_PRP will_MD ever_RB have_VB --_: the_DT United_NNP States_NNPS of_IN America_NNP ._.
+My_PRP$ anger_NN at_IN some_DT of_IN my_PRP$ fellow_JJ Europeans_NNPS is_VBZ more_JJR than_IN palpable_JJ ._.
+I_PRP hear_VBP the_DT self-centered_JJ ,_, cowardly_JJ ,_, and_CC just_RB plain_JJ annoying_JJ words_NNS thrown_VBN out_RP by_IN old-minded_JJ --_: old_JJ world_NN --_: so-called_JJ leaders_NNS of_IN the_DT Free_NNP World_NNP ._.
+I_PRP may_MD have_VB made_VBN fun_NN of_IN America_NNP and_CC Americans_NNPS ,_, but_CC deep_RB down_IN I_PRP know_VBP this_DT is_VBZ only_RB friendly_JJ banter_NN between_IN the_DT greatest_JJS of_IN friends_NNS --_: and_CC friends_NNS who_WP should_MD give_VB their_PRP$ all_DT to_TO each_DT other_JJ when_WRB called_VBN upon_IN to_TO do_VB so_RB ._.
+So_IN I_PRP ,_, whose_WP$ grandfather_NN fought_VBN in_IN both_DT World_NNP Wars_NNS and_CC had_VBD the_DT good_JJ humor_NN to_TO suggest_VB the_DT Americans_NNPS were_VBD late_JJ for_IN both_DT events_NNS ,_, but_CC the_DT sense_NN to_TO point_VB out_RP they_PRP ensured_VBD victory_NN when_WRB they_PRP finally_RB did_VBD show_VB up_RP ,_, make_VB my_PRP$ first_JJ vow_NN :_: 1_LS -RRB-_-RRB- I_PRP will_MD never_RB forget_VB or_CC dishonor_VB the_DT amazing_JJ and_CC courageous_JJ sacrifice_NN of_IN the_DT people_NNS of_IN the_DT United_NNP States_NNPS in_IN coming_VBG to_TO the_DT aid_NN of_IN the_DT world_NN over_IN the_DT past_JJ ten_NN decades_NNS ._.
+The_DT men_NNS and_CC women_NNS who_WP left_VBD peace_NN and_CC prosperity_NN in_IN a_DT land_NN of_IN plenty_NN to_TO face_VB bullet_NN and_CC shrapnel_NN on_IN the_DT beaches_NNS of_IN Normandy_NNP and_CC around_IN the_DT World_NNP ._.
+2_LS -RRB-_-RRB- I_PRP will_MD honor_VB the_DT debt_NN my_PRP$ small_JJ island_NN nation_NN owes_VBZ for_IN your_PRP$ unswerving_JJ devotion_NN to_TO aiding_VBG our_PRP$ continued_VBN freedom_NN ._.
+Your_PRP$ help_NN when_WRB we_PRP stood_VBD small_JJ and_CC alone_RB against_IN the_DT plague_VBP of_IN Nazi_JJ aggression_NN ._.
+Your_PRP$ assistance_NN in_IN making_VBG us_PRP strong_JJ when_WRB the_DT battle_NN was_VBD finished_VBN and_CC the_DT peace_NN began_VBD ,_, and_CC your_PRP$ protection_NN from_IN a_DT colder_JJR enemy_NN in_IN the_DT decades_NNS that_WDT followed_VBD ._.
+I_PRP have_VBP stood_VBN ,_, and_CC I_PRP will_MD stand_VB again_RB ,_, with_IN my_PRP$ own_JJ family_NN ,_, in_IN places_NNS such_JJ as_IN the_DT cemetery_NN of_IN Colleville-sur-Mer_NNP ,_, an_DT eternal_JJ resting_NN place_NN for_IN over_IN 10,000_CD teen_NN and_CC twenty-something_JJ Americans_NNPS who_WP gave_VBD over_RP ALL_NNP their_PRP$ future_NN so_IN that_IN I_PRP and_CC my_PRP$ children_NNS could_MD have_VB a_DT future_JJ today_NN ,_, and_CC I_PRP will_MD again_RB pledge_NN my_PRP$ eternal_JJ gratitude_NN ._.
+3_LS -RRB-_-RRB- I_PRP ,_, James_NNP Black_NNP ,_, a_DT man_NN who_WP simply_RB wants_VBZ his_PRP$ children_NNS to_TO live_VB in_IN a_DT future_NN where_WRB all_DT good_JJ and_CC constructive_JJ things_NNS are_VBP possible_JJ ,_, a_DT future_NN where_WRB we_PRP can_MD discover_VB ,_, invent_VB ,_, enjoy_VB ,_, without_IN fear_NN of_IN fanatics_NNS or_CC madmen_NNS or_CC the_DT weapons_NNS and_CC pain_NN they_PRP may_MD wreak_VB ,_, pledge_NN my_PRP$ assistance_NN to_TO the_DT United_NNP States_NNPS in_IN its_PRP$ fight_NN against_IN evil_NN ._.
+This_DT pledge_NN is_VBZ not_RB some_DT brainwashed_VBN verse_NN ,_, but_CC based_VBN on_IN the_DT honorable_JJ history_NN and_CC proven_VBN friendship_NN the_DT United_NNP States_NNPS has_VBZ with_IN Europe_NNP ._.
+Further_RB ,_, it_PRP is_VBZ based_VBN on_IN the_DT fact_NN that_IN the_DT people_NNS and_CC leaders_NNS of_IN the_DT United_NNP States_NNPS have_VBP the_DT foresight_NN to_TO see_VB the_DT world_NN ,_, even_RB life_NN itself_PRP ,_, is_VBZ futile_JJ without_IN someone_NN to_TO love_VB ,_, things_NNS to_TO build_VB and_CC create_VB ,_, and_CC things_NNS to_TO look_VB forward_RB to_TO --_: and_CC none_NN of_IN these_DT things_NNS are_VBP possible_JJ in_IN a_DT world_NN awash_NN with_IN nuclear_JJ ,_, chemical_NN and_CC biological_JJ arms_NNS controlled_VBN by_IN those_DT who_WP despise_VBP the_DT life_NN we_PRP lead_VBP ._.
+I_PRP am_VBP one_CD person_NN ,_, but_CC there_EX are_VBP millions_NNS like_IN me_PRP who_WP thank_VBP the_DT USA_NNP and_CC wish_VB your_PRP$ nation_NN and_CC your_PRP$ people_NNS all_PDT the_DT best_JJS over_IN the_DT next_JJ few_JJ months_NNS --_: and_CC will_MD be_VB there_RB by_IN your_PRP$ side_NN when_WRB the_DT times_NNS get_VBP tough_JJ ._.
+Yours_NNS with_IN all_DT my_PRP$ gratitude_NN ,_, James_NNP Black_NNP ,_, Wychwood_NNP Park_NNP ,_, Cheshire_NNP ,_, England_NNP P.S._NNP :_: It_PRP is_VBZ said_VBD that_IN today_NN is_VBZ the_DT tomorrow_NN we_PRP worried_VBD about_IN yesterday_NN ._.
+You_PRP should_MD be_VB proud_JJ as_IN a_DT nation_NN that_IN you_PRP have_VBP something_NN to_TO do_VB with_IN the_DT fact_NN it_PRP did_VBD n't_RB turn_VB out_RP so_RB badly_RB after_IN all_DT --_: nor_CC should_MD it_PRP again_RB ._.
+While_IN I_PRP was_VBD traveling_VBG last_JJ week_NN I_PRP was_VBD talking_VBG to_TO a_DT buddy_NN of_IN mine_NN and_CC his_PRP$ girlfriend_NN asked_VBD one_CD of_IN those_DT questions_NNS one_CD should_MD never_RB ask_VB ._.
+They_PRP should_MD n't_RB ask_VB because_IN they_PRP wo_MD n't_RB like_VB the_DT answer_NN one_CD bit_NN ._.
+So_RB ,_, we_PRP came_VBD up_RP with_IN a_DT few_JJ rules_NNS that_WDT women_NNS should_MD know_VB ,_, never_RB ask_VB about_RB and_CC just_RB accept_VB ._.
+1_LS -RRB-_-RRB- Men_NN will_MD masturbate_VB even_RB when_WRB they_PRP are_VBP getting_VBG laid_VBN -LRB-_-LRB- possibly_RB more_RBR often_RB -RRB-_-RRB- 2_LS -RRB-_-RRB- They_PRP will_MD imagine_VB themselves_PRP with_IN her_PRP$ friends_NNS while_IN doing_VBG #_# 1_CD 3_CD -RRB-_-RRB- Men_NN will_MD look_VB at_IN other_JJ women_NNS ._.
+It_PRP has_VBZ nothing_NN to_TO do_VB is_VBZ his_PRP$ girl_NN or_CC if_IN the_DT other_JJ woman_NN is_VBZ better_JJR looking_VBG ._.
+It_PRP will_MD just_RB happen_VB ._.
+None_NN of_IN these_DT mean_VB a_DT man_NN will_MD cheat_VB or_CC is_VBZ even_RB more_RBR inclined_JJ ._.
+Every_DT straight_JJ man_NN does_VBZ this_DT ._.
+Even_RB if_IN they_PRP do_VBP n't_RB admit_VB it_PRP ._.
+I_PRP 'm_VBP sure_JJ there_EX will_MD be_VB more_JJR to_TO come_VB ._.
+Most_RBS likely_JJ after_IN a_DT long_JJ night_NN at_IN the_DT bar_NN ._.
+On_IN a_DT side_NN note_NN ..._: Congrats_NNS to_TO the_DT Pistons_NNPS for_IN tearing_VBG LA_NNP a_DT new_JJ one_CD ._.
+I_PRP never_RB thought_VBD Phil_NNP Jackson_NNP deserved_VBD to_TO be_VB the_DT winingest_JJS pro_JJ coach_NN of_IN all_DT time_NN ._.
+And_CC the_DT Pistons_NNP Rock_NNP !!!!!_NNP Prognostics_NNP is_VBZ actually_RB a_DT pretty_RB simple_JJ concept_NN in_IN principal_NN ._.
+It_PRP 's_VBZ the_DT implementation_NN that_WDT becomes_VBZ the_DT hard_JJ part_NN ._.
+When_WRB a_DT failure_NN happens_VBZ to_TO something_NN like_IN a_DT transmission_NN there_EX are_VBP signs_NNS first_RB ._.
+If_IN ,_, say_VB ,_, a_DT gear_NN were_VBD going_VBG to_TO break_VB then_RB before_IN the_DT break_NN there_EX would_MD be_VB a_DT change_NN in_IN ,_, say_VB ,_, vibration_NN ._.
+This_DT could_MD start_VB happening_VBG hours_NNS or_CC even_RB days_NNS before_IN the_DT break_NN ._.
+The_DT vibration_NN would_MD be_VB a_DT sympton_NN of_IN a_DT tiny_JJ crack_NN in_IN the_DT gear_NN that_WDT would_MD slowly_RB expand_VB until_IN the_DT break_NN ._.
+The_DT idea_NN is_VBZ to_TO detect_VB these_DT ``_`` small_JJ ''_'' or_CC ``_`` incipient_JJ ''_'' faults_NNS ,_, in_IN this_DT case_NN the_DT crack_NN ,_, and_CC know_VB what_WP this_DT means_VBZ to_TO the_DT gear_NN ._.
+Here_RB is_VBZ a_DT little_JJ chart_NN to_TO show_VB when_WRB this_DT happens_VBZ ..._: Prognostics_NNP Diagnostics_NNPS ``_`` small_JJ ''_'' or_CC ``_`` incipient_JJ ''_'' fault_NN Failure_NN |_SYM _____________________CD |_CD __________CD Time_NNP If_IN you_PRP know_VBP that_IN the_DT vibration_NN means_VBZ a_DT break_NN is_VBZ going_VBG to_TO occur_VB then_RB you_PRP have_VBP detected_VBN the_DT transmission_NN failure_NN before_IN it_PRP fails_VBZ ._.
+The_DT next_JJ part_NN is_VBZ knowing_VBG how_WRB long_RB until_IN it_PRP fails_VBZ ._.
+Knowing_VBG enough_RB about_IN the_DT transmission_NN and_CC how_WRB the_DT vibration_NN is_VBZ that_DT is_VBZ being_VBG caused_VBN my_PRP$ the_DT crack_NN the_DT time_NN can_MD be_VB plotted_VBN until_IN the_DT break_NN ._.
+The_DT hard_JJ part_NN is_VBZ putting_VBG all_DT of_IN this_DT together_RB on_IN something_NN ._.
+Knowing_VBG where_WRB to_TO mount_VB the_DT sensors_NNS and_CC what_WP the_DT different_JJ signals_NNS mean_VBP to_TO a_DT level_NN of_IN detail_NN to_TO predict_VB when_WRB the_DT failure_NN will_MD happen_VB consistantly_RB and_CC accurately_RB ._.
+But_CC ,_, it_PRP has_VBZ been_VBN done_VBN ,_, some_DT universities_NNS teach_VBP about_IN it_PRP ,_, the_DT DoD_NNP has_VBZ invested_VBN in_IN it_PRP and_CC it_PRP is_VBZ being_VBG done_VBN all_DT over_IN the_DT world_NN ._.
+Imagine_VB you_PRP are_VBP driving_VBG down_IN the_DT road_NN ,_, your_PRP$ transmission_NN breaks_NNS and_CC you_PRP are_VBP stuck_VBN dead_JJ in_IN the_DT road_NN ._.
+You_PRP 're_VBP frustrated_JJ ,_, plans_NNS are_VBP all_DT messed_VBN up_RP and_CC have_VBP to_TO get_VB a_DT tow_NN truck_NN to_TO take_VB it_PRP to_TO a_DT repair_NN shop_NN ._.
+Not_RB fun_NN and_CC a_DT definite_JJ pain_NN ._.
+Now_RB ,_, Imagine_VB that_IN a_DT few_JJ hours_NNS before_IN your_PRP$ transmission_NN broke_VBD you_PRP got_VBD a_DT warning_NN saying_VBG that_IN it_PRP was_VBD going_VBG to_TO break_VB in_IN a_DT few_JJ hours_NNS ._.
+You_PRP would_MD then_RB drive_VB it_PRP to_TO a_DT repair_NN shop_NN and_CC make_VB other_JJ arrangements_NNS for_IN your_PRP$ day_NN ._.
+You_PRP would_MD n't_RB have_VB to_TO get_VB a_DT tow_NN truck_NN or_CC be_VB stuck_VBN dead_JJ by_IN the_DT road_NN ._.
+The_DT idea_NN is_VBZ not_RB to_TO diagnose_VB the_DT problem_NN after_IN it_PRP happens_VBZ but_CC to_TO predict_VB the_DT failure_NN before_IN it_PRP happens_VBZ ._.
+Technology_NNP like_IN this_DT is_VBZ being_VBG developed_VBN and_CC it_PRP 's_VBZ called_VBN Prognostics_NNP ._.
+A_DT simple_JJ useful_JJ definition_NN would_MD be_VB :_: Prognostics_NNS -_: -_: Actual_JJ material_NN condition_NN assessment_NN which_WDT includes_VBZ predicting_VBG and_CC determining_VBG the_DT useful_JJ life_NN and_CC performance_NN life_NN remaining_VBG of_IN components_NNS by_IN modeling_NN fault_NN progression_NN -LRB-_-LRB- courtesy_NN of_IN the_DT Joint_NNP Strike_NN Fighter_NNP Program_NNP -RRB-_-RRB- Now_RB that_IN diagnostics_NNS has_VBZ become_VBN so_RB advanced_JJ and_CC processing_NN power_NN is_VBZ up_RB so_RB that_IN large_JJ math_NN equations_NNS take_VBP no_DT time_NN to_TO solve_VB on_IN embedded_VBN applications_NNS ;_: prognostics_NNS technology_NN is_VBZ taking_VBG off_RP ._.
+The_DT idea_NN is_VBZ to_TO monitor_VB the_DT physical_JJ condition_NN of_IN a_DT system_NN ._.
+Then_RB when_WRB changes_NNS occur_VBP you_PRP know_VB how_WRB those_DT changes_NNS affect_VBP the_DT remaining_VBG life_NN of_IN a_DT component_NN ._.
+For_IN this_DT you_PRP can_MD -LRB-_-LRB- not_RB easily_RB but_CC possibly_RB very_RB accurately_RB -RRB-_-RRB- predict_VB how_WRB much_JJ life_NN there_EX is_VBZ left_VBN in_IN the_DT component_NN ._.
+A_DT simple_JJ example_NN of_IN this_DT is_VBZ on_IN some_DT newer_JJR cars_NNS ._.
+On_IN some_DT cars_NNS there_RB is_VBZ an_DT indicator_NN to_TO tell_VB how_WRB much_JJ useful_JJ life_NN there_EX is_VBZ in_IN your_PRP$ oil_NN ._.
+This_DT is_VBZ many_JJ times_NNS displayed_VBD as_IN a_DT percentage_NN ._.
+The_DT idea_NN is_VBZ that_IN instead_RB of_IN changing_VBG it_PRP every_DT 3000_CD miles_NNS you_PRP do_VBP it_PRP based_VBN on_IN the_DT condition_NN of_IN the_DT oil_NN ._.
+What_WP if_IN your_PRP$ oil_NN was_VBD still_RB good_JJ after_IN 3000_CD miles_NNS ?_.
+Then_RB changing_VBG it_PRP would_MD be_VB a_DT waste_NN of_IN time_NN ,_, oil_NN and_CC money_NN for_IN the_DT user_NN ._.
+Someone_NN who_WP speeds_VBZ a_DT lot_NN vs_VBZ someone_NN who_WP is_VBZ a_DT conservative_JJ driver_NN will_MD have_VB different_JJ oil_NN conditions_NNS for_IN the_DT same_JJ amout_NN of_IN miles_NNS ._.
+If_IN your_PRP$ oil_NN is_VBZ still_RB good_JJ after_IN 3000_CD miles_NNS why_WRB change_NN ?_.
+Why_WRB not_RB wait_VB until_IN the_DT oil_NN is_VBZ no_RB longer_RBR in_IN good_JJ condition_NN ._.
+Prognostics_NNP is_VBZ a_DT new_JJ technology_NN frontier_NN where_WRB many_JJ different_JJ technologies_NNS work_VBP together_RB ._.
+More_JJR to_TO come_VB ..._: lots_NNS more_RBR ._.
+On_IN Friday_NNP night_NN I_PRP introduced_VBD my_PRP$ buddy_NN to_TO this_DT girl_NN ._.
+They_PRP hit_VBD it_PRP off_RP really_RB well_RB ._.
+We_PRP stayed_VBD at_IN the_DT bar_NN for_IN over_IN 4_CD hours_NNS and_CC they_PRP even_RB made_VBD date_NN plans_NNS for_IN the_DT following_VBG Monday_NNP ._.
+At_IN the_DT end_NN of_IN the_DT night_NN he_PRP walked_VBD her_PRP to_TO the_DT car_NN and_CC even_RB got_VBD a_DT good_JJ night_NN kiss_NN ._.
+The_DT next_JJ day_NN it_PRP went_VBD all_DT wrong_JJ ..._: In_IN the_DT middle_NN of_IN the_DT day_NN on_IN Saturday_NNP she_PRP called_VBD him_PRP to_TO say_VB she_PRP had_VBD a_DT great_JJ time_NN ._.
+While_IN he_PRP was_VBD talking_VBG to_TO her_PRP$ he_PRP got_VBD another_DT call_NN ._.
+He_PRP quickly_RB talked_VBD to_TO the_DT other_JJ person_NN and_CC came_VBD back_RB ._.
+But_CC ,_, he_PRP told_VBD this_DT new_JJ girl_NN that_IN the_DT woman_NN he_PRP had_VBD just_RB talked_VBN to_TO was_VBD an_DT ex-booty_JJ call_NN that_WDT was_VBD just_RB sex_NN and_CC now_RB they_PRP are_VBP friends_NNS but_CC nothing_NN else_RB ._.
+-LRB-_-LRB- Way_NN to_TO much_JJ info_NN the_DT day_NN after_IN you_PRP meet_VBP a_DT girl_NN -RRB-_-RRB- My_PRP$ girl_NN put_VBD the_DT move_NN this_DT way_NN ._.
+It_PRP turned_VBD him_PRP looking_VBG like_IN a_DT steak_NN dinner_NN with_IN the_DT works_NNS on_IN a_DT nice_JJ plate_NN to_TO looking_VBG like_IN a_DT steak_NN that_WDT had_VBD been_VBN thrown_VBN on_IN a_DT trash_NN can_MD lid_NN ._.
+Looks_VBZ good_JJ if_IN your_PRP$ still_RB hungry_JJ ._.
+Then_RB ,_, she_PRP had_VBD plans_NNS with_IN one_CD of_IN her_PRP$ girl_NN friends_NNS for_IN the_DT day_NN on_IN Saturday_NNP ._.
+He_PRP tried_VBD talking_VBG her_PRP$ into_IN canceling_VBG on_IN her_PRP$ girlfriend_NN and_CC moving_VBG up_RP seeing_VBG her_PRP$ to_TO that_DT day_NN ._.
+Asking_VBG a_DT girl_NN she_PRP just_RB met_VBD to_TO cancel_VB on_IN one_CD of_IN her_PRP$ girls_NNS is_VBZ a_DT no-no_NN ._.
+And_CC finially_RB ,_, He_PRP called_VBD her_PRP$ like_IN 4_CD times_NNS the_DT day_NN after_IN he_PRP met_VBD her_PRP ._.
+That_DT is_VBZ over_IN doing_VBG it_PRP ._.
+He_PRP got_VBD overzelous_JJ and_CC scared_JJ her_PRP$ off_RP ._.
+3_CD Strikes_NNPS and_CC Your_PRP$ Out_IN ._.
+In_IN a_DT matter_NN of_IN a_DT few_JJ hours_NNS he_PRP managed_VBD to_TO go_VB from_IN being_VBG golden_JJ with_IN her_PRP$ to_TO her_PRP not_RB wanting_VBG to_TO talk_VB to_TO him_PRP again_RB ._.
+I_PRP even_RB tried_VBD to_TO tell_VB him_PRP what_WP not_RB to_TO do_VB ._.
+Everything_NN I_PRP told_VBD him_PRP not_RB to_TO do_VB he_PRP did_VBD ._.
+Ah_UH well_RB ,_, another_DT one_CD bites_VBZ the_DT dust_NN I_PRP am_VBP sitting_VBG here_RB with_IN a_DT bit_NN of_IN a_DT hangover_NN this_DT morning_NN wonding_VBG how_WRB can_MD I_PRP nip_VB this_DT thing_NN so_IN I_PRP can_MD have_VB the_DT energy_NN for_IN another_DT night_NN of_IN madness_NN ._.
+It_PRP 's_VBZ been_VBN awhile_RB since_IN I_PRP had_VBD one_CD but_CC ,_, that_DT 's_VBZ how_WRB it_PRP can_MD go_VB when_WRB your_PRP$ at_IN the_DT bar_NN and_CC all_PDT the_DT friends_NNS are_VBP egging_VBG each_DT other_JJ on_IN ._.
+So_RB ,_, here_RB are_VBP some_DT good_JJ links_NNS I_PRP found_VBD about_IN how_WRB to_TO get_VB rid_JJ of_IN the_DT hangover_NN ..._: So_CC You_PRP Wanna_NNP Cure_NNP A_NNP Hangover_NNP ?_.
+-_: All_PDT around_IN information_NN Hangover.net_NNP -_: Need_VBD I_PRP say_VBP more_JJR From_IN The_DT UK_NNP Also_RB ,_, those_DT pills_NNS as_IN seen_VBN on_IN TV_NN do_VBP n't_RB really_RB work_VB ._.
+If_IN you_PRP read_VBP the_DT label_NN they_PRP say_VBP to_TO drink_VB a_DT glass_NN of_IN water_NN after_IN every_DT 2_CD beers_NNS or_CC so_RB ._.
+If_IN you_PRP drink_VBP the_DT water_NN you_PRP are_VBP stopping_VBG the_DT dehydration_NN effect_NN ._.
+After_IN reading_VBG yesterday_NN about_IN how_WRB Microsoft_NNP just_RB recieved_VBD a_DT patent_NN for_IN double_JJ clicking_VBG your_PRP$ mouse_NN I_PRP got_VBD a_DT little_JJ pissed_JJ ._.
+How_WRB can_MD something_NN that_WDT has_VBZ been_VBN out_RP for_IN so_RB long_JJ with_IN all_PDT the_DT prior_JJ art_NN get_VB a_DT patent_NN approved_VBN ?_.
+I_PRP also_RB know_VBP that_IN the_DT US_NNP Patent_NNP Office_NNP has_VBZ been_VBN approving_VBG patents_NNS with_IN prior_JJ art_NN for_IN some_DT time_NN especially_RB in_IN the_DT area_NN of_IN software_NN ._.
+It_PRP seems_VBZ that_IN there_EX needs_VBZ to_TO be_VB some_DT big_JJ reform_NN there_RB ._.
+They_PRP either_RB have_VBP out_RP dated_JJ policies_NNS ,_, are_VBP under_IN staffed_VBN ,_, are_VBP inappropriately_RB staffed_VBN or_CC some_DT combination_NN of_IN all_DT of_IN these_DT ._.
+These_DT patents_NNS on_IN software_NN with_IN prior_JJ art_NN seem_VBP to_TO mostly_RB -LRB-_-LRB- at_IN least_JJS from_IN what_WP I_PRP have_VBP seen_VBN -RRB-_-RRB- been_VBN by_IN big_JJ corperations_NNS who_WP have_VBP the_DT money_NN and_CC power_NN to_TO use_VB it_PRP to_TO squash_VB the_DT little_JJ guy_NN ._.
+Microsoft_NNP even_RB has_VBZ gone_VBN so_RB far_RB as_IN to_TO say_VB they_PRP will_MD use_VB this_DT patent_NN portfolio_NN to_TO make_VB money_NN ._.
+So_RB ,_, they_PRP patent_NN things_NNS with_IN prior_JJ art_NN then_RB go_VB after_IN other_JJ companies_NNS -LRB-_-LRB- easily_RB the_DT small_JJ ones_NNS -RRB-_-RRB- and_CC make_VB money_NN on_IN it_PRP ._.
+That_DT is_VBZ CRAP_NNP !!!!!_CD I_PRP even_RB just_RB went_VBD back_RB to_TO the_DT article_NN I_PRP read_VBP about_IN Microsoft_NNP and_CC the_DT double_JJ click_NN patent_NN and_CC the_DT story_NN has_VBZ been_VBN removed_VBN for_IN some_DT reason_NN ._.
+A_DT day_NN after_IN I_PRP read_VBP it_PRP ._.
+I_PRP believe_VBP we_PRP need_VBP to_TO contact_VB our_PRP$ congress_NN people_NNS -LRB-_-LRB- have_VBP to_TO stay_VB PC_NN -RRB-_-RRB- and_CC senators_NNS and_CC let_VB them_PRP know_VB we_PRP need_VBP the_DT reform_NN ._.
+Public_NNP outcry_NN can_MD get_VB reactions_NNS ._.
+There_EX is_VBZ a_DT petition_NN online_NN that_WDT deals_VBZ with_IN software_NN patents_NNS ._.
+I_PRP do_VBP n't_RB know_VB if_IN I_PRP agree_VBP with_IN the_DT course_NN of_IN the_DT petition_NN ._.
+It_PRP may_MD be_VB asking_VBG too_RB much_JJ but_CC it_PRP 's_VBZ a_DT place_NN to_TO start_VB ._.
+It_PRP 's_VBZ the_DT Petition_NNP Against_IN Software_NNP Patents_NNP ._.
+I_PRP encourage_VBP everyone_NN to_TO sign_VB it_PRP ._.
+We_PRP need_VBP reform_NN ._.
+Patents_NNP were_VBD n't_RB designed_VBN to_TO be_VB tied_VBN up_RP in_IN the_DT legal_JJ system_NN ._.
+They_PRP were_VBD designed_VBN to_TO protect_VB those_DT who_WP created_VBD ._.
+Not_RB for_IN lawyers_NNS to_TO make_VB a_DT lot_NN of_IN money_NN getting_VBG in_IN place_NN and_CC fighting_NN ._.
+Or_CC to_TO have_VB the_DT big_JJ guy_NN squash_VBP the_DT little_JJ guy_NN ._.
+Jenn_NNP who_WP is_VBZ the_DT first_JJ comment_NN to_TO my_PRP$ blog_NN from_IN yesterday_NN said_VBD ._. ._.
+I_PRP feel_VBP that_IN anyone_NN who_WP needs_VBZ to_TO meet_VB girls_NNS or_CC court_NN girls_NNS according_VBG to_TO a_DT list_NN of_IN rules_NNS has_VBZ no_DT game_NN to_TO start_VB with_IN and_CC should_MD n't_RB even_RB be_VB dating_VBG for_IN the_DT sheer_JJ fact_NN that_IN they_PRP must_MD have_VB social_JJ issues_NNS ._.
+She_PRP and_CC I_PRP also_RB exchanged_VBD many_JJ other_JJ emails_NNS yesterday_NN about_IN this_DT ._.
+She_PRP does_VBZ n't_RB think_VB someone_NN should_MD follow_VB a_DT list_NN of_IN rules_NNS ._.
+But_CC ..._: If_IN a_DT guy_NN calls_VBZ too_RB much_JJ she_PRP would_MD n't_RB give_VB him_PRP the_DT time_NN -LRB-_-LRB- reason_NN for_IN 2_CD day_NN rule_NN -RRB-_-RRB- If_IN a_DT guy_NN is_VBZ n't_RB confident_JJ with_IN her_PRP$ he_PRP does_VBZ n't_RB stand_VB a_DT chance_NN If_IN a_DT guy_NN has_VBZ bad_JJ hygiene_NN then_RB she_PRP would_MD n't_RB give_VB him_PRP the_DT time_NN of_IN day_NN She_PRP is_VBZ in_IN to_TO fashion_NN a_DT bit_NN and_CC if_IN a_DT guy_NN notices_NNS something_NN like_IN cute_JJ shoes_NNS it_PRP 's_VBZ big_JJ points_NNS She_PRP says_VBZ that_IN if_IN guys_NNS follow_VBP these_DT rules_NNS it_PRP 's_VBZ bad_JJ ._.
+But_CC she_PRP expects_VBZ guys_NNS to_TO do_VB all_PDT these_DT things_NNS anyway_RB ._.
+So_RB ,_, if_IN you_PRP just_RB do_VBP them_PRP or_CC if_IN you_PRP follow_VBP the_DT rules_NNS but_CC do_VBP n't_RB say_VB then_RB it_PRP 's_VBZ the_DT same_JJ result_NN ._.
+What_WP she_PRP likes_VBZ ._.
+I_PRP think_VBP the_DT biggest_JJS plus_CC for_IN the_DT rules_NNS is_VBZ well_RB ..._: they_PRP worked_VBD on_IN Jenn_NNP ._.
+You_PRP do_VBP those_DT things_NNS and_CC follow_VB any_DT ``_`` rules_NNS ''_'' to_TO force_VB yourself_PRP to_TO not_RB call_VB to_TO often_RB and_CC notice_VB the_DT little_JJ psychological_JJ things_NNS that_WDT give_VBP that_DT little_JJ extra_JJ edge_NN when_WRB you_PRP first_RB start_VBP dating_VBG ._.
+If_IN they_PRP did_VBD n't_RB work_VB they_PRP would_MD n't_RB have_VB lasted_VBN as_RB long_RB as_IN they_PRP have_VBP and_CC have_VBP such_PDT a_DT following_NN ._.
+I_PRP have_VBP followed_VBN them_PRP and_CC they_PRP work_VBP ._.
+As_IN far_RB as_IN the_DT anonymous_JJ comment_NN from_IN yesterday_NN ._.
+Well_RB ,_, the_DT idea_NN is_VBZ n't_RB to_TO let_VB her_PRP trample_VB you_PRP but_CC to_TO get_VB in_IN her_PRP$ head_NN ._.
+Jenn_NNP is_VBZ now_RB blogging_VBG ._.
+Check_VB her_PRP out_RP at_IN jenniferparadise.blogspot.com_NN Oh_UH ,_, and_CC that_DT is_VBZ her_PRP$ real_JJ God_NNP given_VBN name_NN ._.
+Lucky_JJ girl_NN ._.
+Over_IN the_DT last_JJ 7_CD years_NNS I_PRP have_VBP worked_VBN either_CC for_IN an_DT internet_NN service_NN provider_NN or_CC now_RB as_IN an_DT engineer_NN ._.
+One_CD thing_NN I_PRP have_VBP noticed_VBN is_VBZ how_WRB many_JJ of_IN the_DT guys_NNS -LRB-_-LRB- self_NN proclaimed_VBD nerds_NNS -RRB-_-RRB- I_PRP have_VBP worked_VBN with_IN ca_MD n't_RB seem_VB to_TO get_VB many_JJ women_NNS ._.
+I_PRP come_VBP from_IN a_DT slightly_RB different_JJ background_NN than_IN most_JJS engineers\/IT_NNP guys_NNS ._.
+I_PRP was_VBD in_IN a_DT fraternity_NN -LRB-_-LRB- do_VBP n't_RB hold_VB that_DT against_IN me_PRP -RRB-_-RRB- ,_, sports_NNS ,_, wild_JJ social_JJ scene_NN and_CC have_VBP never_RB had_VBN to_TO many_JJ problems_NNS with_IN women_NNS ._.
+There_EX are_VBP many_JJ reasons_NNS that_WDT guys_NNS have_VBP trouble_NN with_IN women_NNS but_CC with_IN a_DT few_JJ changes_NNS it_PRP is_VBZ pretty_RB easy_JJ to_TO get_VB on_IN the_DT right_JJ road_NN ._.
+And_CC no_DT ,_, the_DT changes_NNS have_VBP nothing_NN to_TO do_VB with_IN personality_NN ._.
+1_LS -RRB-_-RRB- The_DT first_JJ thing_NN when_WRB you_PRP meet_VBP a_DT woman_NN is_VBZ how_WRB you_PRP look_VBP ._.
+Most_JJS women_NNS notice_VBP clothes_NNS ._.
+There_EX are_VBP many_JJ different_JJ styles_NNS of_IN fashion_NN ,_, so_RB for_IN clothes_NNS ,_, as_RB long_RB as_IN they_PRP go_VBP together_RB should_MD pretty_RB much_RB be_VB fine_JJ -LRB-_-LRB- For_IN years_NNS I_PRP always_RB consulted_VBD either_CC my_PRP$ sister_NN or_CC a_DT neighbor_NN girl_NN on_IN my_PRP$ outfits_NN ._.
+I_PRP have_VBP no_DT fashion_NN sense_NN of_IN my_PRP$ own_JJ ._. -RRB-_-RRB-
+Also_RB ,_, make_VBP sure_JJ you_PRP dress_VBP well_RB ._.
+Those_DT faded_VBN ,_, now_RB stone_NN washed_VBD ,_, jeans_NNS that_WDT are_VBP ten_CD years_NNS old_JJ with_IN a_DT t-shirt_JJ or_CC polo_JJ shirt_NN you_PRP would_MD wear_VB to_TO work_VB wo_MD n't_RB usually_RB cut_VB the_DT mustard_NN ._.
+2_LS -RRB-_-RRB- Hygiene_NNP ._.
+Make_NNP sure_JJ you_PRP brush_VBP your_PRP$ teeth_NNS ,_, shower_VBP ,_, smell_VBP good_JJ -LRB-_-LRB- not_RB like_IN you_PRP have_VBP been_VBN gaming_NN for_IN 2_CD days_NNS and_CC hav_NN n't_RB moved_VBD from_IN your_PRP$ seat_NN -RRB-_-RRB- ._.
+This_DT will_MD make_VB for_IN a_DT much_JJ better_JJR first_JJ impression_NN ._.
+Women_NNS notice_VBP how_WRB men_NNS smell_VBP ._.
+If_IN you_PRP smell_VBP good_JJ women_NNS will_MD associate_VB you_PRP with_IN a_DT good_JJ smell_NN and_CC they_PRP will_MD remember_VB that_DT ._.
+3_LS -RRB-_-RRB- Confidence_NN ._.
+This_DT is_VBZ one_CD of_IN the_DT hardest_RBS things_NNS ._.
+Women_NNS always_RB seem_VBP like_IN they_PRP may_MD want_VB the_DT bad_JJ guy_NN ._.
+This_DT is_VBZ n't_RB true_JJ ._.
+The_DT bad_JJ guy_NN has_VBZ confidence_NN and_CC that_DT is_VBZ what_WP they_PRP really_RB like_IN ._.
+It_PRP is_VBZ something_NN that_WDT should_MD never_RB be_VB forgotten_VBN ._.
+Confidence_NN ._.
+4_LS -RRB-_-RRB- When_WRB your_PRP$ talking_VBG with_IN a_DT woman_NN keep_VB much_RB of_IN the_DT topic_NN on_IN her_PRP ._.
+That_DT will_MD make_VB her_PRP$ feel_NN important_JJ and_CC when_WRB you_PRP repeat_VBP things_NNS back_RB you_PRP show_VBP that_IN you_PRP were_VBD paying_VBG attention_NN ._.
+Being_VBG good_JJ at_IN conversation_NN is_VBZ a_DT very_RB important_JJ thing_NN ._.
+It_PRP 's_VBZ one_CD of_IN those_DT topics_NNS every_DT woman_NN either_CC brags_VBZ about_RB to_TO her_PRP$ friends_NNS or_CC complains_VBZ about_RB to_TO her_PRP$ friends_NNS ._.
+Now_RB ,_, for_IN a_DT few_JJ date_NN tips_NNS :_: 1_LS -RRB-_-RRB- Do_VBP for_IN her_PRP ._.
+By_IN this_DT I_PRP mean_VBP to_TO open_VB the_DT door_NN for_IN her_PRP$ -LRB-_-LRB- including_VBG the_DT car_NN door_NN -RRB-_-RRB- ,_, help_VB her_PRP with_IN her_PRP$ coat_NN and_CC be_VB sure_JJ that_IN when_WRB you_PRP sit_VBP down_RP that_IN she_PRP sits_VBZ first_RB ._.
+Also_RB ,_, when_WRB walking_VBG on_IN stairs_NNS you_PRP are_VBP on_IN the_DT bottom_JJ side_NN and_CC when_WRB walking_VBG down_RP the_DT street_NN you_PRP are_VBP on_IN the_DT street_NN side_NN ._.
+2_LS -RRB-_-RRB- If_IN your_PRP$ at_IN dinner_NN then_RB you_PRP take_VBP the_DT seat_NN facing_VBG the_DT wall_NN ._.
+This_DT will_MD curb_VB you_PRP from_IN looking_VBG around_RB and_CC keep_VB your_PRP$ attention_NN on_IN the_DT lady_NN of_IN the_DT evening_NN ._.
+3_LS -RRB-_-RRB- If_IN you_PRP give_VBP her_PRP$ compliments_NNS then_RB keep_VBP them_PRP to_TO a_DT few_JJ and_CC tell_VB her_PRP$ things_NNS like_IN you_PRP like_IN her_PRP$ outfit_NN or_CC point_NN out_RP something_NN nice_JJ about_IN her_PRP$ shoes_NNS ._.
+4_LS -RRB-_-RRB- Talk_NN to_TO her_PRP ._.
+Good_JJ conversation_NN is_VBZ what_WP will_MD keep_VB her_PRP around_RB ._.
+Ever_RB wonder_VB why_WRB there_EX is_VBZ the_DT term_NN `_`` Personality_NN Guy_NNP '_POS and_CC not_RB `_`` Personality_NN Girl_NNP '_POS ._.
+It_PRP 's_VBZ because_IN looks_NNS are_VBP n't_RB as_RB important_JJ to_TO women_NNS and_CC they_PRP key_VBP in_IN on_IN personality_NN ._.
+A_DT couple_JJ notes_NNS :_: 1_LS -RRB-_-RRB- The_DT 2_CD Day_NNP Rule_NNP ._.
+There_EX used_VBN to_TO be_VB the_DT 3_CD day_NN rule_NN when_WRB calling_VBG a_DT woman_NN but_CC now_RB it_PRP 's_VBZ 2_CD days_NNS ._.
+After_IN a_DT date_NN ,_, wait_VB 2_CD days_NNS to_TO call_VB ._.
+After_IN you_PRP get_VBP a_DT number_NN wait_VB 2_CD days_NNS to_TO call_VB ._.
+Then_RB you_PRP call_VBP every_DT 2_CD days_NNS unless_IN it_PRP gets_VBZ serious_JJ or_CC there_EX is_VBZ some_DT other_JJ special_JJ reason_NN ._.
+Plan_NNP every_DT 2_CD days_NNS to_TO call_VB though_RB ._.
+2_LS -RRB-_-RRB- If_IN you_PRP meet_VBP her_PRP$ at_IN a_DT bar_NN do_VBP n't_RB stay_VB by_IN her_PRP$ side_NN all_DT night_NN ._.
+Talk_NN to_TO her_PRP$ for_IN a_DT little_JJ bit_NN then_RB go_VB back_RB to_TO her_PRP$ friends_NNS ._.
+This_DT way_NN you_PRP do_VBP n't_RB overwhelm_VB her_PRP$ and_CC leave_VB her_PRP$ wanting_VBG more_RBR ._.
+Just_RB remember_VB to_TO say_VB goodbye_NN before_IN you_PRP leave_VBP ._.
+3_LS -RRB-_-RRB- Confidence_NN ._.
+Once_RB again_RB be_VB confident_JJ ._.
+It_PRP is_VBZ so_RB important_JJ I_PRP am_VBP saying_VBG again_RB ._.
+Even_RB if_IN your_PRP$ not_RB normally_RB confident_JJ be_VB confident_JJ with_IN her_PRP ._.
+Fake_VB it_PRP if_IN you_PRP have_VBP to_TO ._.
+I_PRP have_VBP a_DT friend_NN who_WP is_VBZ 25_CD ,_, overweight_NN and_CC heavily_RB balding_NN ._.
+He_PRP always_RB knows_VBZ how_WRB to_TO dress_VB -LRB-_-LRB- and_CC it_PRP 's_VBZ not_RB GQ_NNP -RRB-_-RRB- and_CC what_WP to_TO say_VB ._.
+He_PRP can_MD walk_VB into_IN a_DT bar_NN and_CC within_IN 10_CD minutes_NNS have_VBP women_NNS bringing_VBG their_PRP$ friends_NNS over_IN to_TO talk_VB to_TO him_PRP ._.
+There_EX is_VBZ nothing_NN special_JJ about_IN him_PRP ._.
+He_PRP just_RB puts_VBZ in_IN that_DT little_JJ extra_JJ effort_NN ._.
+Beyond_IN these_DT basic_JJ steps_NNS there_EX are_VBP a_DT million_CD other_JJ things_NNS you_PRP can_MD do_VB that_DT fit_JJ each_DT person_NN different_JJ and_CC things_NNS to_TO look_VB for_IN with_IN women_NNS ._.
+I_PRP would_MD suggest_VB picking_VBG up_RP a_DT mens_NNS magazine_NN -LRB-_-LRB- and_CC playboy_NN or_CC penthouse_NN do_VBP n't_RB count_VB -RRB-_-RRB- ._.
+My_PRP$ recommendation_NN is_VBZ Mens_NNP Health_NNP ._.
+It_PRP seems_VBZ to_TO give_VB the_DT best_JJS all_DT around_IN advice_NN ._.
+I_PRP found_VBD this_DT interesting_JJ ._.
+A_DT forward_RB I_PRP got_VBD the_DT other_JJ day_NN ._.
+The_DT reson_NN is_VBZ that_IN so_RB many_JJ Democrats_NNPS want_VBP Bush_NNP to_TO apologize_VB for_IN going_VBG to_TO Iraq_NNP and_CC going_VBG after_IN Waepons_NNP of_IN Mass_NNP Destruction_NNP ._.
+What_WP about_IN all_PDT those_DT in_IN congress_NN who_WP told_VBD him_PRP to_TO go_VB there_RB ?_.
+What_WP about_IN those_DT that_WDT before_IN we_PRP went_VBD told_VBD him_PRP to_TO go_VB there_RB ?_.
+Should_MD they_PRP also_RB get_VBP up_RB and_CC do_VB the_DT same_JJ as_IN they_PRP expect_VBP from_IN GW_NNP Bush_NNP ?_.
+Heck_NN ,_, yeah_NN ._.
+Just_RB because_IN Bush_NNP was_VBD the_DT one_CD with_IN the_DT authority_NN and_CC power_NN to_TO make_VB it_PRP happen_VB does_VBZ n't_RB mean_VB he_PRP is_VBZ the_DT only_RB one_CD that_WDT would_MD have_VB gone_VBN in_IN there_EX for_IN the_DT same_JJ reasons_NNS given_VBN the_DT same_JJ choice_NN he_PRP was_VBD given_VBN ._.
+Should_MD those_DT who_WP backed_VBD and_CC pushed_VBD him_PRP to_TO go_VB get_VB up_RP there_RB and_CC say_VB the_DT same_JJ things_NNS they_PRP expect_VBP Bush_NNP to_TO say_VB ?_.
+Heck_NN ,_, yeah_NN ._.
+For_IN someone_NN to_TO first_JJ support_NN and_CC push_NN Bush_NNP to_TO go_VB in_IN there_RB and_CC then_RB condem_VB him_PRP for_IN his_PRP$ actions_NNS is_VBZ just_RB wrong_JJ ._.
+You_PRP can_MD admit_VB you_PRP were_VBD wrong_JJ and_CC that_IN we_PRP should_MD n't_RB have_VB done_VBN that_IN but_CC to_TO put_VB all_PDT the_DT blame_NN on_IN the_DT person_NN that_WDT had_VBD the_DT power_NN and_CC followed_VBD through_IN with_IN the_DT deed_NN you_PRP wanted_VBD and_CC then_RB tearing_VBG them_PRP a_DT new_JJ one_CD for_IN it_PRP later_RB is_VBZ in_IN bad_JJ character_NN and_CC taste_NN ._.
+``_`` Character_NN is_VBZ like_IN a_DT tree_NN and_CC reputation_NN like_IN a_DT shadow_NN ._.
+The_DT shadow_NN is_VBZ what_WP we_PRP think_VBP of_IN it_PRP ;_: the_DT tree_NN is_VBZ the_DT real_JJ thing_NN ._. ''_''
+--_: Abraham_NNP Lincoln_NNP ''_'' -LRB-_-LRB- WE_NNP -RRB-_-RRB- urge_VBP you_PRP ,_, after_IN consulting_VBG with_IN Congress_NNP ,_, and_CC consistent_JJ with_IN the_DT U.S._NNP Constitution_NNP and_CC laws_NNS ,_, to_TO take_VB necessary_JJ actions_NNS -LRB-_-LRB- including_VBG ,_, if_IN appropriate_JJ ,_, air_NN and_CC missile_NN strikes_NNS on_IN suspect_JJ Iraqi_JJ sites_NNS -RRB-_-RRB- to_TO respond_VB effectively_RB to_TO the_DT threat_NN posed_VBN by_IN Iraq_NNP 's_POS refusal_NN to_TO end_VB its_PRP$ weapons_NNS of_IN mass_NN destruction_NN programs_NNS ._. ''_''
+-_: Letter_NN to_TO President_NNP Clinton_NNP ,_, signed_VBN by_IN Sens._NNP Carl_NNP Levin_NNP -LRB-_-LRB- D-MI_NNP -RRB-_-RRB- ,_, Tom_NNP Daschle_NNP -LRB-_-LRB- D-SD_NNP -RRB-_-RRB- ,_, John_NNP Kerry_NNP -LRB-_-LRB- D_NNP -_: MA_NNP -RRB-_-RRB- ,_, and_CC others_NNS Oct._NNP 9,1998_CD ``_`` We_PRP have_VBP known_VBN for_IN many_JJ years_NNS that_WDT Saddam_NNP Hussein_NNP is_VBZ seeking_VBG and_CC developing_VBG weapons_NNS of_IN mass_NN destruction_NN ._. ''_''
+-_: Sen._NNP Ted_NNP Kennedy_NNP -LRB-_-LRB- D_NNP ,_, MA_NNP -RRB-_-RRB- ,_, Sept._NNP 27_CD ,_, 2002_CD ``_`` I_PRP will_MD be_VB voting_VBG to_TO give_VB the_DT President_NNP of_IN the_DT United_NNP States_NNPS the_DT authority_NN to_TO use_VB force_NN --_: if_IN necessary_JJ --_: to_TO disarm_VB Saddam_NNP Hussein_NNP because_IN I_PRP believe_VBP that_IN a_DT deadly_JJ arsenal_NN of_IN weapons_NNS of_IN mass_NN destruction_NN in_IN his_PRP$ hands_NNS is_VBZ a_DT real_JJ and_CC grave_JJ threat_NN to_TO our_PRP$ security_NN ._. ''_''
+-_: Sen._NNP John_NNP F._NNP Kerry_NNP -LRB-_-LRB- D_NNP ,_, MA_NNP -RRB-_-RRB- ,_, Oct._NNP 9,2002_CD ``_`` In_IN the_DT four_CD years_NNS since_IN the_DT inspectors_NNS left_VBD ,_, intelligence_NN reports_NNS show_VBP that_IN Saddam_NNP Hussein_NNP has_VBZ worked_VBN to_TO rebuild_VB his_PRP$ chemical_NN and_CC biological_JJ weapons_NNS stock_NN ,_, his_PRP$ missile_NN delivery_NN capability_NN ,_, and_CC his_PRP$ nuclear_JJ program_NN ._.
+He_PRP has_VBZ also_RB given_VBN aid_NN ,_, comfort_NN ,_, and_CC sanctuary_NN to_TO terrorists_NNS ,_, including_VBG al_JJ Qaeda_NNP members_NNS ._. ._.
+It_PRP is_VBZ clear_JJ ,_, however_RB ,_, that_IN if_IN left_VBN unchecked_JJ ,_, Saddam_NNP Hussein_NNP will_MD continue_VB to_TO increase_VB his_PRP$ capacity_NN to_TO wage_NN biological_JJ and_CC chemical_JJ warfare_NN ,_, and_CC will_MD keep_VB trying_VBG to_TO develop_VB nuclear_JJ weapons_NNS ._. ''_''
+-_: Sen._NNP Hillary_NNP Clinton_NNP -LRB-_-LRB- D_NNP ,_, NY_NNP -RRB-_-RRB- ,_, Oct_NNP 10_CD ,_, 2002_CD ``_`` Without_IN question_NN ,_, we_PRP need_VBP to_TO disarm_VB Saddam_NNP Hussein_NNP ._.
+He_PRP is_VBZ a_DT brutal_JJ ,_, murderous_JJ dictator_NN ,_, leading_VBG an_DT oppressive_JJ regime_NN ..._: He_PRP presents_VBZ a_DT particularly_RB grievous_JJ threat_NN because_IN he_PRP is_VBZ so_RB consistently_RB prone_JJ to_TO miscalculation_NN ..._: And_CC now_RB he_PRP is_VBZ miscalculating_VBG America_NNP 's_POS response_NN to_TO his_PRP$ continued_JJ deceit_NN and_CC his_PRP$ consistent_JJ grasp_NN for_IN weapons_NNS of_IN mass_NN destruction_NN ..._: So_CC the_DT threat_NN of_IN Saddam_NNP Hussein_NNP with_IN weapons_NNS of_IN mass_NN destruction_NN is_VBZ real_JJ ''_'' -_: Sen._NNP John_NNP F._NNP Kerry_NNP -LRB-_-LRB- D_NNP ,_, MA_NNP -RRB-_-RRB- ,_, Jan._NNP 23_CD ._.
+2003_CD For_IN those_DT of_IN you_PRP who_WP requested_VBD Elizabeths_NNP picture_NN and_CC for_IN those_DT of_IN you_PRP who_WP wanted_VBD her_PRP$ on_IN hotornot.com_NN here_RB it_PRP is_VBZ ..._: Oh_UH yeehaw_JJ click_NN me_PRP So_RB ,_, my_PRP$ last_JJ few_JJ days_NNS have_VBP been_VBN really_RB interesting_JJ ._.
+I_PRP found_VBD out_RP my_PRP$ now_RB exgirlfriend_NN was_VBD a_DT liar_NN and_CC a_DT cheater_NN ._.
+Here_RB 's_POS my_PRP$ story_NN and_CC it_PRP 's_VBZ a_DT good_JJ ._.
+I_PRP got_VBD the_DT last_JJ laugh_NN ._.
+Elizabeth_NNP Cernava_NNP of_IN Michigan_NNP ,_, USA_NNP -LRB-_-LRB- just_RB to_TO warn_VB any_DT future_JJ guys_NNS who_WP may_MD come_VB accross_RB this_DT -RRB-_-RRB- and_CC I_PRP went_VBD out_RP for_IN 9_CD months_NNS ._.
+It_PRP was_VBD great_JJ until_IN the_DT last_JJ 2_CD months_NNS ._.
+The_DT first_JJ of_IN these_DT to_TO months_NNS she_PRP told_VBD me_PRP she_PRP had_VBD to_TO work_VB a_DT lot_NN and_CC was_VBD acting_VBG really_RB stressed_VBN ._.
+The_DT second_JJ month_NN we_PRP went_VBD down_RB hill_NN until_IN we_PRP broke_VBD up_RP a_DT week_NN and_CC a_DT half_NN ago_RB ._.
+Then_RB she_PRP tried_VBD to_TO win_VB me_PRP back_RB until_IN I_PRP found_VBD out_IN the_DT truth_NN about_IN her_PRP ._.
+Here_RB it_PRP is_VBZ ..._: When_WRB I_PRP started_VBD dating_VBG her_PRP$ she_PRP had_VBD a_DT guy_NN ._.
+I_PRP am_VBP pretty_RB sure_JJ she_PRP was_VBD exclusive_JJ with_IN both_DT of_IN us_PRP for_IN some_DT time_NN ._.
+Then_RB she_PRP ended_VBD it_PRP with_IN the_DT other_JJ guy_NN ._.
+Over_IN the_DT next_JJ few_JJ months_NNS ,_, which_WDT seemed_VBD to_TO be_VB the_DT best_JJS time_NN period_NN of_IN the_DT relationship_NN with_IN her_PRP$ and_CC I_PRP ,_, she_PRP was_VBD actually_RB cheating_VBG on_IN me_PRP with_IN flings_NNS here_RB and_CC there_RB -LRB-_-LRB- I_PRP actually_RB found_VBD out_RP names_NNS and_CC dates_NNS of_IN stuff_NN happening_VBG -RRB-_-RRB- ._.
+Then_RB ,_, 2_CD months_NNS ago_IN she_PRP met_VBD a_DT new_JJ guy_NN ._.
+Then_RB a_DT month_NN ago_IN she_PRP moved_VBD in_IN with_IN him_PRP ._.
+After_IN we_PRP broke_VBD up_IN I_PRP noticed_VBD something_NN was_VBD weird_JJ when_WRB she_PRP was_VBD trying_VBG to_TO get_VB back_RP with_IN me_PRP ._.
+She_PRP was_VBD trying_VBG pretty_RB hard_RB to_TO ._.
+Pulling_VBG out_RP all_PDT the_DT stops_NNS ._.
+So_RB ,_, I_PRP did_VBD the_DT dirt_NN digging_NN and_CC found_VBD out_RP all_DT that_DT stuff_NN about_IN her_PRP ._.
+Including_VBG who_WP the_DT new_JJ guy_NN was_VBD ,_, where_WRB he_PRP lived_VBD and_CC his_PRP$ phone_NN number_NN ._.
+He_PRP lives_VBZ 3_CD miles_NNS from_IN my_PRP$ parents_NNS ._.
+We_PRP went_VBD through_IN the_DT same_JJ school_NN system_NN ._.
+So_RB ,_, after_IN I_PRP changed_VBD the_DT locks_NNS and_CC turned_VBD of_IN the_DT cell_NN she_PRP was_VBD using_VBG -LRB-_-LRB- yes_UH ,_, my_PRP$ dumb_JJ ass_NN let_VB her_PRP have_VB a_DT cell_NN -RRB-_-RRB- I_PRP called_VBD him_PRP up_RP ._.
+I_PRP laid_VBD it_PRP all_DT out_RP ._.
+Told_VBD him_PRP everything_NN ._.
+And_CC ,_, told_VBD him_PRP how_WRB to_TO confirm_VB it_PRP himself_PRP ._.
+Last_JJ night_NN ,_, I_PRP got_VBD some_DT interesting_JJ calls_NNS concluding_VBG with_IN one_CD from_IN her_PRP ._.
+He_PRP kicked_VBD her_PRP out_RP last_JJ night_NN ._.
+Go_VB other_JJ guy_NN ._.
+My_PRP$ last_JJ laugh_NN ._.
+She_PRP is_VBZ furious_JJ with_IN me_PRP ._.
+I_PRP had_VBD to_TO give_VB him_PRP the_DT warning_NN I_PRP never_RB had_VBD ._.
+He_PRP deserved_VBD that_IN ._.
+Before_IN she_PRP trapped_VBD him_PRP or_CC took_VBD his_PRP$ money_NN ._.
+The_DT skinny_NN on_IN Liz_NNP is_VBZ that_IN she_PRP has_VBZ done_VBN this_DT many_JJ times_NNS before_IN with_IN many_JJ guys_NNS ._.
+She_PRP owes_VBZ many_JJ people_NNS money_NN that_WDT adds_VBZ up_RP to_TO tens_NNS of_IN thousands_NNS of_IN dollars_NNS ._.
+She_PRP lives_VBZ a_DT lie_NN and_CC tailors_VBZ it_PRP to_TO each_DT guy_NN to_TO get_VB him_PRP ._.
+She_PRP is_VBZ great_JJ at_IN ``_`` spinning_JJ tails_NNS ''_'' as_IN one_CD of_IN my_PRP$ informants_NNS told_VBD me_PRP ._.
+She_PRP targets_VBZ guys_NNS with_IN money_NN ._.
+Uses_VBZ them_PRP for_IN their_PRP$ money_NN to_TO buy_VB her_PRP$ things_NNS and_CC then_RB bolts_NNS after_IN a_DT few_JJ months_NNS ._.
+There_EX are_VBP many_JJ guys_NNS in_IN her_PRP$ path_NN ._.
+She_PRP told_VBD the_DT other_JJ guy_NN and_CC I_PRP things_NNS like_IN she_PRP had_VBD a_DT masters_NNS degree_NN when_WRB she_PRP does_VBZ n't_RB even_RB have_VB a_DT bachelors_NNS degree_NN ._.
+That_IN she_PRP had_VBD just_RB sold_VBN a_DT place_NN and_CC was_VBD building_VBG a_DT new_JJ place_NN when_WRB no_DT one_NN will_MD even_RB lend_VB her_PRP$ the_DT money_NN to_TO buy_VB anything_NN ._.
+All_DT lies_NNS ._.
+Lies_VBZ upon_IN lies_NNS ._.
+I_PRP ended_VBD up_RP getting_VBG the_DT last_JJ laugh_NN ._.
+She_PRP has_VBZ no_DT phone_NN and_CC got_VBD kicked_VBN out_IN of_IN the_DT place_NN where_WRB she_PRP lived_VBD -LRB-_-LRB- and_CC lost_VBD her_PRP$ sugar_NN daddy_NN -RRB-_-RRB- ._.
+She_PRP had_VBD to_TO crawl_VB back_RB to_TO her_PRP$ mom_NN ._.
+Her_PRP$ lies_NNS were_VBD revealed_VBN to_TO all_DT ._.
+So_RB ,_, guys_NNS if_IN you_PRP meet_VBP her_PRP$ do_VBP n't_RB fall_VB for_IN it_PRP ._.
+She_PRP has_VBZ been_VBN around_IN a_DT lot_NN and_CC cheated_VBD a_DT lot_NN ._.
+The_DT list_NN of_IN men_NNS she_PRP has_VBZ slept_VBN with_IN is_VBZ huge_JJ ._.
+She_PRP cheats_VBZ and_CC lies_VBZ all_PDT the_DT time_NN ._.
+Heed_VBN this_DT warning_NN ._.
+She_PRP may_MD seem_VB like_IN a_DT smooth_JJ talker_NN ._.
+She_PRP may_MD be_VB hot_JJ and_CC can_MD say_VB the_DT right_JJ thing_NN ._.
+She_PRP is_VBZ a_DT dirty_JJ whore_NN and_CC an_DT incredible_JJ liar_NN ._.
+So_RB ,_, are_VBP music_NN sales_NNS bouncing_VBG back_RB ?_.
+Well_RB ,_, at_IN least_JJS some_DT areas_NNS are_VBP ._.
+Check_VB it_PRP out_RP ._.
+So_RB ,_, where_WRB should_MD I_PRP complain_VB that_IN it_PRP 's_VBZ country_NN that_IN rising_VBG and_CC not_RB pop_NN ._.
+Toby_NNP Keith_NNP or_CC Britney_NNP Spears_NNP ._.
+Go_VB Toby_NNP ._.
+At_IN least_JJS you_PRP have_VBP something_NN to_TO say_VB ._.
+Although_IN Britney_NNP is_VBZ so_RB much_RB better_JJR to_TO look_VB at_IN ._.
+I_PRP also_RB realized_VBD that_IN this_DT is_VBZ a_DT sign_NN that_IN the_DT economy_NN is_VBZ really_RB getting_VBG back_RB on_IN track_NN ._.
+People_NNS have_VBP more_JJR disposable_JJ income_NN to_TO buy_VB more_JJR ._.
+So_RB ,_, I_PRP decided_VBD to_TO track_VB down_RP some_DT numbers_NNS on_IN the_DT economy_NN ._.
+Here_RB they_PRP are_VBP :_: ``_`` At_IN least_JJS 2.4_CD million_CD jobs_NNS have_VBP been_VBN created_VBN since_IN the_DT president_NN took_VBD office_NN ,_, 2_CD million_CD of_IN those_DT in_IN 2003_CD ._.
+The_DT gains_NNS more_JJR than_IN offset_VB the_DT losses_NNS ._. ''_''
+``_`` The_DT 5.6_CD percent_NN unemployment_NN rate_NN is_VBZ the_DT lowest_JJS in_IN two_CD years_NNS and_CC below_IN the_DT average_NN of_IN the_DT 1980s_NNS -LRB-_-LRB- 7.3_CD percent_NN -RRB-_-RRB- and_CC '90s_CD -LRB-_-LRB- 5.8_CD percent_NN -RRB-_-RRB- ..._: ''_'' And_CC there_EX is_VBZ a_DT lot_NN more_RBR ._.
+Guess_NNP we_PRP are_VBP not_RB that_IN bad_JJ off_IN economically_RB ._.
+Hey_NNP ,_, I_PRP got_VBD a_DT raise_NN this_DT year_NN ._.
+Wooohooo_NNP ._.
+Some_DT articles_NNS with_IN info_NN :_: This_DT one_CD has_VBZ conservative_JJ undertones_NNS but_CC has_VBZ lots_NNS of_IN straight_JJ up_IN facts_NNS For_IN some_DT numbers_NNS ,_, not_RB just_RB for_IN the_DT U.S._NNP and_CC it_PRP looks_VBZ good_JJ More_JJR people_NNS have_VBP jobs_NNS and_CC where_WRB I_PRP work_VBP is_VBZ constantly_RB hiring_VBG for_IN now_RB ._.
+So_RB ,_, we_PRP 're_VBP not_RB so_RB bad_JJ off_IN and_CC things_NNS are_VBP getting_VBG better_JJR ._.
+If_IN John_NNP Kerry_NNP becomes_VBZ the_DT US_NNP President_NNP there_RB will_MD be_VB many_JJ jobs_NNS lost_VBN ._.
+Some_DT people_NNS might_MD say_VB this_DT is_VBZ madness_NN and_CC I_PRP am_VBP crazy_JJ for_IN such_PDT a_DT thing_NN ._.
+Well_RB ,_, here_RB is_VBZ what_WP I_PRP know_VBP ._.
+The_DT economy_NN is_VBZ n't_RB tied_VBN to_TO a_DT paticular_JJ president_NN or_CC political_JJ party_NN ._.
+We_PRP give_VBP too_RB much_JJ credit_NN of_IN the_DT economic_JJ state_NN to_TO president_NN ._.
+Some_DT does_VBZ need_VB to_TO go_VB to_TO him_PRP but_CC most_JJS does_VBZ n't_RB ._.
+Every_DT 10_CD years_NNS -LRB-_-LRB- approximately_RB -RRB-_-RRB- there_EX is_VBZ a_DT recession_NN or_CC depression_NN ._.
+The_DT last_JJ one_NN was_VBD during_IN Bush_NNP Srs_NNP time_NN about_IN 10_CD years_NNS before_IN his_PRP$ son_NN ,_, before_IN that_IN it_PRP was_VBD Carter_NNP who_WP had_VBD one_CD and_CC it_PRP was_VBD about_RB 10_CD years_NNS before_IN that_DT ._.
+On_IN this_DT track_NN you_PRP can_MD go_VB back_RB every_DT 10_CD years_NNS and_CC the_DT Great_NNP Depression_NNP even_RB falls_VBZ in_IN this_DT trend_NN ._.
+This_DT means_VBZ that_IN Kerry_NNP in_IN office_NN does_VBZ not_RB mean_VB more_JJR new_JJ jobs_NNS than_IN Bush_NNP being_VBG in_IN office_NN ._.
+Next_RB there_RB comes_VBZ the_DT military_JJ contractor_NN sector_NN ._.
+There_EX are_VBP many_JJ new_JJ military_JJ programs_NNS going_VBG on_IN right_NN now_RB ._.
+Currently_RB the_DT military_NN is_VBZ greater_JJR than_IN 2\/3_CD logistics_NNS ._.
+This_DT is_VBZ a_DT large_JJ footprint_NN to_TO maintain_VB ._.
+These_DT new_JJ military_JJ programs_NNS are_VBP aimed_VBN at_IN brining_VBG technology_NN up_RB ,_, decreasing_VBG the_DT size_NN of_IN the_DT force_NN needed_VBN and_CC shrinking_VBG the_DT logistics_NNS footprint_NN by_IN a_DT large_JJ amount_NN ._.
+These_DT programs_NNS will_MD save_VB a_DT lot_NN of_IN long_JJ term_NN money_NN for_IN the_DT US_NNP Military_NNP ._.
+But_CC ,_, Kerry_NNP is_VBZ a_DT democrat_NN ._.
+And_CC put_VB simply_RB that_IN in_IN almost_RB all_DT cases_NNS means_VBZ a_DT shrink_VB in_IN short_JJ term_NN military_JJ spending_NN ._.
+That_DT means_VBZ that_IN many_JJ of_IN these_DT programs_NNS will_MD be_VB canceled_VBN and_CC tens_NNS of_IN thousands_NNS of_IN people_NNS laid_VBN off_RP ._.
+So_RB ,_, Kerry_NNP in_IN office_NN does_VBZ not_RB mean_VB more_JJR jobs_NNS ._.
+It_PRP probubaly_RB means_VBZ I_PRP would_MD get_VB laid_VBN off_RP ._.

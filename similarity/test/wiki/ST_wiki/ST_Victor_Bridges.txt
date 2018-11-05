@@ -1,0 +1,11 @@
+Victor_NNP Bridges_NNP -LRB-_-LRB- real_JJ name_NN Victor_NNP George_NNP de_NNP Freyne_NNP ,_, 1878_CD ``_`` 1972_CD -RRB-_-RRB- was_VBD a_DT prolific_JJ English_NNP author_NN of_IN detective_NN and_CC fantasy_NN fiction_NN ,_, and_CC also_RB a_DT playwright_NN and_CC occasional_JJ poet_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Born_VBN on_IN 14_CD March_NNP 1878_CD at_IN Clifton_NNP ,_, Bristol_NNP ,_, Victor_NNP George_NNP de_NNP Freyne_NNP may_MD have_VB been_VBN connected_VBN with_IN a_DT propertied_JJ family_NN in_IN County_NNP Sligo_NNP ,_, Ireland_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD educated_VBN at_IN Haileybury_NNP and_CC Imperial_NNP Service_NNP College_NNP ._.
+He_PRP worked_VBD as_IN a_DT bank_NN employee_NN and_CC as_IN an_DT actor_NN in_IN repertory_JJ theater_NN before_IN becoming_VBG a_DT full-time_JJ writer_NN ._.
+Bridges_NNP began_VBD to_TO publish_VB crime_NN and_CC mystery_NN stories_NNS and_CC novels_NNS regularly_RB in_IN 1909_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD an_DT early_JJ signing_NN by_IN the_DT new_JJ London_NNP publishing_NN firm_NN of_IN Mills_NNP &_CC Boon_NNP ,_, which_WDT was_VBD initially_RB a_DT light_JJ fiction_NN publisher_NN in_IN a_DT wide_JJ range_NN of_IN genres_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Many_JJ of_IN his_PRP$ stories_NNS were_VBD set_VBN in_IN Essex_NNP and_CC East_NNP Anglia_NNP ._.
+He_PRP also_RB had_VBD two_CD volumes_NNS of_IN poetry_NN published_VBN ._.
+He_PRP married_VBD in_IN 1920_CD Margaret_NNP Lindsay_NNP Mackay_NNP ,_, who_WP died_VBD in_IN 1957_CD ._.
+He_PRP himself_PRP died_VBD on_IN 29_CD November_NNP 1972_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

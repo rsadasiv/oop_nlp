@@ -1,0 +1,20 @@
+James_NNP Bramston_NNP -LRB-_-LRB- c._FW 1694_CD ''_'' 1743_CD -RRB-_-RRB- was_VBD an_DT English_JJ satirist_NN ._.
+The_DT son_NN of_IN Col._NNP Francis_NNP Bramston_NNP ,_, a_DT guards_NNS officer_NN ,_, he_PRP was_VBD born_VBN at_IN Skreens_NNP ,_, near_IN Chelmsford_NNP ,_, Essex_NNP ,_, and_CC educated_VBN at_IN Westminster_NNP School_NNP and_CC Christ_NNP Church_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Sir_NNP John_NNP Bramston_NNP -LRB-_-LRB- 1577_CD ``_`` 1654_CD -RRB-_-RRB- ,_, Lord_NNP Chief_NNP Justice_NNP of_IN the_DT King_NNP 's_POS Bench_NNP ,_, was_VBD his_PRP$ great-grandfather_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bramston_NNP took_VBD holy_JJ orders_NNS in_IN the_DT Anglican_JJ church_NN and_CC was_VBD appointed_VBN Chaplain_NNP to_TO the_DT 2nd_JJ Dragoon_NNP Guards_NNPS in_IN 1721_CD ._.
+By_IN 1724_CD he_PRP was_VBD married_VBN ,_, and_CC in_IN that_DT year_NN became_VBD Rector_NNP of_IN Lurgashall_NNP in_IN 1724_CD ,_, then_RB Vicar_NNP of_IN neighbouring_VBG Harting_NNP ,_, West_NNP Sussex_NNP in_IN 1725_CD ._.
+He_PRP was_VBD reinstituted_VBN to_TO Lugashall_NNP in_IN 1739_CD and_CC named_VBN Vicar_NNP of_IN Westhampnett_NNP ,_, near_IN Chichester_NNP on_IN the_DT same_JJ day_NN ._.
+He_PRP held_VBD these_DT and_CC some_DT other_JJ preferments_NNS as_IN a_DT pluralist_NN until_IN his_PRP$ death_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bramston_NNP 's_POS legacy_NN to_TO Lurgashall_NNP Church_NNP partly_RB paid_VBD for_IN rebuilding_VBG the_DT chancel_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP died_VBD on_IN 22_CD December_NNP 1743_CD and_CC was_VBD buried_VBN at_IN Chalton_NNP ,_, Hampshire_NNP ._.
+He_PRP was_VBD survived_VBN by_IN his_PRP$ wife_NN ,_, Elizabeth_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bramston_NNP 's_POS verses_NNS include_VBP The_DT Art_NN of_IN Politics_NNP -LRB-_-LRB- 1729_CD -RRB-_-RRB- ,_, in_IN imitation_NN of_IN Horace_NNP 's_POS Ars_NNP Poetica_NNP ,_, -LRB-_-LRB- ``_`` What_WP 's_VBZ not_RB destroy_VB 'd_MD by_IN Time_NNP 's_POS devouring_VBG Hand_NNP ?_.
+Where_WRB 's_POS Troy_NNP ,_, and_CC where_WRB 's_POS the_DT Maypole_NNP in_IN the_DT Strand_NNP ?_. ''_'' -RRB-_-RRB-
+-LRB-_-LRB- 3_LS -RRB-_-RRB- and_CC The_DT Man_NN of_IN Taste_NN -LRB-_-LRB- 1733_CD -RRB-_-RRB- ,_, in_IN imitation_NN of_IN Alexander_NNP Pope_NNP -LRB-_-LRB- ``_`` Sur_NNP loins_NNS and_CC rumps_NNS of_IN beef_NN offend_VB my_PRP$ eyes_NNS ,_, \/_VBP Pleas_NNP 'd_MD with_IN frogs_NNS fricasseed_VBN and_CC coxcomb_JJ pies_NNS ._. ''_'' -RRB-_-RRB-
+-LRB-_-LRB- 4_LS -RRB-_-RRB- His_PRP$ Ignorami_NNP lamentatio_NN super_JJ legis_NNS communis_VBZ translationem_NN ex_FW Latino_FW in_IN Anglicum_NNP -LRB-_-LRB- 1736_CD -RRB-_-RRB- ,_, dedicated_VBN by_IN ``_`` Ambi-dexter_JJ Ignoramus_NN ''_'' to_TO ``_`` Dulmannum_NNP ''_'' ,_, satirizes_VBZ lawyers_NNS ._.
+It_PRP is_VBZ written_VBN in_IN Dog_NNP Latin_NNP hexameters_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP also_RB parodied_VBD John_NNP Philips_NNP 's_POS ``_`` The_DT Splendid_JJ Shilling_NNP ''_'' in_IN ``_`` The_DT Crooked_NNP Sixpence_NNP ''_'' ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cousin_NN ,_, John_NNP William_NNP -LRB-_-LRB- 1910_CD -RRB-_-RRB- ._.
+A_DT Short_JJ Biographical_NNP Dictionary_NNP of_IN English_NNP Literature_NNP ._.
+London_NNP :_: J._NNP M._NNP Dent_NNP &_CC Sons_NNP ._.
+Wikisource_NNP

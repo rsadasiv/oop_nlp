@@ -1,0 +1,9 @@
+William_NNP Atkinson_NNP ,_, D.D._NNP -LRB-_-LRB- died_VBD 1509_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ cleric_NN and_CC translator_NN ._.
+Atkinson_NNP was_VBD a_DT native_NN of_IN the_DT diocese_NN of_IN York_NNP ,_, was_VBD M.A._NNP and_CC fellow_NN of_IN Pembroke_NNP Hall_NNP ,_, Cambridge_NNP ,_, in_IN 1477_CD ,_, B.D._NNP in_IN 1485_CD ,_, and_CC D.D._NNP in_IN 1498_CD ._.
+He_PRP became_VBD a_DT prebendary_NN of_IN Southwell_NNP in_IN 1501_CD ,_, canon_NN of_IN Lincoln_NNP 7_CD March_NNP 1503_CD ``_`` 04_CD ,_, and_CC canon_NN of_IN Windsor_NNP 25_CD Feb._NNP 1506_CD ``_`` 07_CD ._.
+He_PRP died_VBD 8_CD Aug._NNP 1509_CD ,_, and_CC was_VBD buried_VBN in_IN St._NNP George_NNP 's_POS chapel_NN ,_, Windsor_NNP ._.
+At_IN the_DT command_NN of_IN Margaret_NNP ,_, countess_NN of_IN Richmond_NNP and_CC Derby_NNP ,_, mother_NN of_IN King_NNP Henry_NNP VII_NNP ,_, Dr._NNP Atkinson_NNP translated_VBN from_IN the_DT French_JJ three_CD books_NNS of_IN the_DT Imitation_NN of_IN Jesus_NNP Christ_NNP attributed_VBD to_TO Jean_NNP Gerson_NNP ,_, but_CC now_RB accepted_VBN as_IN being_VBG by_IN Thomas_NNP à_NNP Kempis_NNP ._.
+This_DT translation_NN was_VBD published_VBN in_IN 1502_CD ,_, and_CC again_RB in_IN 1503_CD and_CC 1517_CD ,_, under_IN the_DT title_NN of_IN <sup>_NNP ~_NNP </sup>_NNP A_NNP full_JJ deuoute_NN &_CC gostely_RB treatyse_NN of_IN ye_JJ Imytacion_NNP &_CC folowynge_NN ye_NN blessyd_NN Lyfe_NNP of_IN our_PRP$ most_RBS mercifull_JJ Sauiour_NNP Cryst_NNP <sup>_NNP TM_NNP </sup>_NNP ._.
+``_`` Atkinson_NNP ,_, William_NNP -LRB-_-LRB- d._FW 1509_CD -RRB-_-RRB- ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

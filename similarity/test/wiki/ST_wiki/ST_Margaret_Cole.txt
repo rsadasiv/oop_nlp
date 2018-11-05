@@ -1,0 +1,23 @@
+Dame_NNP Margaret_NNP Isabel_NNP Cole_NNP ,_, DBE_NNP -LRB-_-LRB- née_FW Postgate_NNP ;_: 6_CD May_NNP 1893_CD ''_'' 7_CD May_NNP 1980_CD -RRB-_-RRB- was_VBD an_DT English_JJ socialist_JJ politician_NN ,_, writer_NN and_CC poet_NN ._.
+She_PRP wrote_VBD several_JJ detective_NN stories_NNS in_IN conjunction_NN with_IN her_PRP$ husband_NN ,_, G._NNP D._NNP H._NNP Cole_NNP ._.
+She_PRP went_VBD on_IN to_TO hold_VB important_JJ posts_NNS in_IN London_NNP government_NN in_IN the_DT period_NN after_IN the_DT Second_NNP World_NNP War_NNP ._.
+Daughter_NN of_IN John_NNP Percival_NNP Postgate_NNP and_CC Edith_NNP -LRB-_-LRB- née_FW Allen_NNP -RRB-_-RRB- Postgate_NNP ,_, Margaret_NNP was_VBD educated_VBN at_IN Roedean_NNP School_NNP and_CC Girton_NNP College_NNP ,_, Cambridge_NNP ._.
+While_IN at_IN Girton_NNP ,_, through_IN her_PRP$ reading_NN of_IN H._NNP G._NNP Wells_NNP ,_, George_NNP Bernard_NNP Shaw_NNP and_CC others_NNS ,_, she_PRP came_VBD to_TO question_VB the_DT Anglicanism_NNP of_IN her_PRP$ upbringing_NN and_CC to_TO embrace_VB socialism_NN after_IN reading_VBG notable_JJ books_NNS on_IN the_DT subject_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Upon_IN successfully_RB completing_VBG her_PRP$ course_NN -LRB-_-LRB- Cambridge_NNP did_VBD not_RB allow_VB women_NNS to_TO graduate_JJ formally_RB until_IN 1947_CD -RRB-_-RRB- ,_, Margaret_NNP became_VBD a_DT classics_NNS teacher_NN at_IN St._NNP Paul_NNP 's_POS Girls_NNP '_POS School_NNP ._.
+Her_PRP$ poem_NN The_DT Falling_NNP Leaves_NNP ,_, a_DT response_NN to_TO the_DT First_NNP World_NNP War_NNP ,_, and_CC currently_RB on_IN the_DT OCR_NNP English_NNP Literature_NNP syllabus_NN at_IN GCSE_NNP ,_, shows_VBZ the_DT influence_NN of_IN Latin_NNP poetry_NN in_IN its_PRP$ use_NN of_IN long_JJ and_CC short_JJ syllables_NNS to_TO create_VB mimetic_JJ effects_NNS ._.
+During_IN World_NNP War_NNP I_NNP ,_, her_PRP$ brother_NN Raymond_NNP Postgate_NNP sought_VBD exemption_NN from_IN military_JJ service_NN as_IN a_DT socialist_JJ conscientious_JJ objector_NN ,_, but_CC was_VBD denied_VBN recognition_NN and_CC jailed_VBN for_IN refusing_VBG military_JJ orders_NNS ._.
+Her_PRP$ support_NN for_IN her_PRP$ brother_NN led_VBD her_PRP to_TO a_DT belief_NN in_IN pacifism_NN ._.
+During_IN her_PRP$ subsequent_JJ campaign_NN against_IN conscription_NN ,_, she_PRP met_VBD G._NNP D._NNP H._NNP Cole_NNP ,_, whom_WP she_PRP married_VBD in_IN a_DT registry_NN office_NN in_IN August_NNP 1918_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- The_DT couple_NN worked_VBD together_RB for_IN the_DT Fabian_NNP Society_NNP before_IN moving_VBG to_TO Oxford_NNP in_IN 1924_CD ,_, where_WRB they_PRP both_DT taught_VBD and_CC wrote_VBD ._.
+In_IN the_DT early_JJ 1930s_CD ,_, Margaret_NNP abandoned_VBD her_PRP$ pacifism_NN in_IN reaction_NN to_TO the_DT suppression_NN of_IN socialist_JJ movements_NNS by_IN the_DT governments_NNS in_IN Germany_NNP and_CC Austria_NNP and_CC to_TO the_DT events_NNS of_IN the_DT Spanish_NNP Civil_NNP War_NNP ._.
+In_IN 1941_CD ,_, she_PRP was_VBD co-opted_VBN to_TO the_DT Education_NNP Committee_NNP of_IN the_DT London_NNP County_NNP Council_NNP ,_, on_IN the_DT nomination_NN of_IN Herbert_NNP Morrison_NNP ,_, and_CC became_VBD a_DT champion_NN of_IN comprehensive_JJ education_NN ._.
+She_PRP was_VBD an_DT alderman_NN on_IN London_NNP County_NNP Council_NNP from_IN 1952_CD until_IN the_DT Council_NNP 's_POS abolition_NN in_IN 1965_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP was_VBD a_DT member_NN of_IN the_DT Inner_NNP London_NNP Education_NNP Authority_NNP from_IN its_PRP$ creation_NN in_IN 1965_CD until_IN her_PRP$ retirement_NN from_IN public_JJ life_NN in_IN 1967_CD ._.
+Harold_NNP Wilson_NNP had_VBD given_VBN her_PRP$ an_DT OBE_NNP in_IN 1965_CD and_CC she_PRP became_VBD a_DT Dame_NNP when_WRB she_PRP was_VBD awarded_VBN a_DT DBE_NNP in_IN 1970_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP wrote_VBD several_JJ books_NNS including_VBG a_DT biography_NN of_IN her_PRP$ husband_NN ._.
+Margaret_NNP 's_POS brother_NN Raymond_NNP was_VBD a_DT labor_NN historian_NN ,_, journalist_NN and_CC novelist_NN ._.
+Margaret_NNP and_CC her_PRP$ husband_NN jointly_RB authored_VBD many_JJ mystery_NN novels_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Margaret_NNP and_CC her_PRP$ husband_NN created_VBD a_DT partnership_NN ,_, but_CC not_RB a_DT marriage_NN ._.
+Her_PRP$ husband_NN took_VBD little_JJ interest_NN in_IN sex_NN and_CC he_PRP regarded_VBD women_NNS as_IN a_DT distraction_NN for_IN men_NNS ._.
+Cole_NNP documented_VBD this_DT comprehensively_RB in_IN a_DT biography_NN she_PRP wrote_VBD of_IN her_PRP$ husband_NN after_IN his_PRP$ death_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB-

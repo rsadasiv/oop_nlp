@@ -1,0 +1,212 @@
+Seven_CD
+people_NN
+including_VBG [WZPRES]
+two_CD
+British_JJ
+tourists_NN
+were_VBD [PASS]
+wounded_VBN
+Sunday_NN
+in_PIN
+Paris_NN
+after_IN
+they_TPP3
+were_VBD [BYPA]
+attacked_VBN
+by_PIN
+a_DT
+man_NN
+armed_VBN [WZPAST]
+with_PIN
+a_DT
+knife_NN
+and_CC
+an_DT
+iron_NN
+bar_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+police_NN
+and_CC
+other_JJ
+sources_NN
+._.
+A_DT
+source_NN
+close_RB
+to_PIN
+the_DT
+inquiry_NN
+said_VBD [PUBV] [THATD]
+the_DT
+suspect_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+arrested_VBN
+and_PHC
+is_VPRT [PASS]
+believed_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+an_DT
+Afghan_NN
+national_JJ
+._.
+``_``
+Nothing_INPR
+at_PIN
+this_DEMO
+stage_NN
+shows_VPRT [PRIV]
+signs_NN
+of_PIN
+a_DT
+terrorist_JJ
+nature_NN
+in_PIN
+these_DEMO
+assaults_NN
+,_,
+''_''
+the_DT
+sources_NN
+said_VBD [PUBV]
+,_,
+adding_VBG [PUBV]
+that_THVC
+the_DT
+attacker_NN
+had_VBD [PEAS]
+targeted_VBN
+``_``
+strangers_NN
+in_PIN
+the_DT
+street_NN
+''_''
+._.
+Of_PIN
+the_DT
+seven_CD
+wounded_VBD
+,_,
+four_CD
+are_VPRT [BEMA]
+in_PIN
+a_DT
+critical_JJ
+condition_NOMZ
+,_,
+police_NN
+said_VBD [PUBV]
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+just_EMPH
+after_IN
+11:00_CD
+pm_NN
+-LRB-_-LRB-
+2100_CD
+GMT_NN
+-RRB-_-RRB-
+on_PIN
+the_DT
+banks_NN
+of_PIN
+a_DT
+canal_NN
+in_PIN
+the_DT
+northeast_NN
+of_PIN
+the_DT
+capital_NN
+._.
+A_DT
+security_NOMZ
+guard_NN
+at_PIN
+one_CD
+of_PIN
+two_CD
+cinemas_NN
+on_PIN
+either_DT
+side_NN
+of_PIN
+the_DT
+Canal_NN
+de_IN
+l'Ourcq_NN
+said_VBD [PUBV] [THATD]
+he_TPP3
+saw_VBD [PRIV]
+a_DT
+man_NN
+who_WP [WHSUB]
+had_VBD [SPAU] [PEAS]
+already_RB
+assaulted_VBN
+people_NN
+being_VBG [WZPRES] [BYPA]
+chased_VBN
+by_PIN
+two_CD
+other_JJ
+men_NN
+who_WP [WHSUB]
+tried_VBD
+to_TO
+stop_VB
+him_TPP3
+._.
+``_``
+He_TPP3
+had_VBD
+an_DT
+iron_NN
+bar_NN
+in_PIN
+his_TPP3
+hand_NN
+which_WDT [WHOBJ]
+he_TPP3
+threw_VBD
+at_PIN
+the_DT
+men_NN
+chasing_VBG [WZPRES]
+him_TPP3
+,_,
+then_RB
+he_TPP3
+took_VBD
+out_PIN
+a_DT
+knife_NN
+,_,
+''_''
+he_TPP3
+told_VBD
+AFP_NN
+._.
+A_DT
+police_NN
+investigation_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+launched_VBN
+for_PIN
+attempted_VBN
+murder_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+a_DT
+judicial_JJ
+source_NN
+._.

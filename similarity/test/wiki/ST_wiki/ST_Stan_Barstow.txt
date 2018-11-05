@@ -1,0 +1,10 @@
+Stanley_NNP Barstow_NNP FRSL_NNP -LRB-_-LRB- 28_CD June_NNP 1928_CD ''_'' 1_CD August_NNP 2011_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Barstow_NNP was_VBD born_VBN in_IN Horbury_NNP ,_, near_IN Wakefield_NNP in_IN the_DT West_NNP Riding_NNP of_IN Yorkshire_NNP ._.
+His_PRP$ father_NN was_VBD a_DT coal_NN miner_NN and_CC he_PRP attended_VBD Ossett_NNP Grammar_NNP School_NNP ._.
+He_PRP worked_VBD as_IN a_DT draughtsman_NN and_CC salesman_NN for_IN an_DT engineering_NN company_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD best_RB known_VBN for_IN his_PRP$ 1960_CD novel_NN A_DT Kind_NNP of_IN Loving_NNP ,_, which_WDT has_VBZ been_VBN turned_VBN into_IN a_DT film_NN ,_, a_DT television_NN series_NN ,_, a_DT radio_NN play_NN and_CC a_DT stage_NN play_NN ._.
+The_DT author_NN 's_POS other_JJ novels_NNS included_VBD Ask_NNP Me_PRP Tomorrow_NN -LRB-_-LRB- 1962_CD -RRB-_-RRB- ,_, The_DT Watchers_NNPS on_IN the_DT Shore_NNP -LRB-_-LRB- 1966_CD -RRB-_-RRB- and_CC The_DT Right_NNP True_JJ End_NN -LRB-_-LRB- 1976_CD -RRB-_-RRB- ._.
+He_PRP frequently_RB attended_VBD public_JJ events_NNS in_IN Ossett_NNP ,_, where_WRB he_PRP grew_VBD up_RB ,_, and_CC Horbury_NNP ,_, his_PRP$ birthplace_NN ._.
+Barstow_NNP 's_POS other_JJ works_NNS included_VBD Joby_NNP ,_, which_WDT was_VBD turned_VBN into_IN a_DT television_NN play_NN starring_VBG Patrick_NNP Stewart_NNP ,_, A_NNP Raging_NNP Calm_NNP ,_, A_DT Season_NN with_IN Eros_NNS ,_, A_DT Brother_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Tale_NNP ,_, Just_RB You_PRP Wait_VBP and_CC See_VB ,_, Modern_NNP Delights_NNP and_CC an_DT autobiography_NN ,_, In_IN My_PRP$ Own_JJ Good_JJ Time_NN -LRB-_-LRB- 2001_CD -RRB-_-RRB- ._.
+In_IN later_JJ life_NN ,_, Barstow_NNP lived_VBD in_IN Pontardawe_NNP ,_, South_NNP Wales_NNP ,_, with_IN his_PRP$ partner_NN ,_, Diana_NNP Griffiths_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB-

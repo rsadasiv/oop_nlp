@@ -1,0 +1,347 @@
+A_DT
+suicide_NN
+note_NN
+found_VBN [PRIV] [WZPAST]
+in_PIN
+the_DT
+deceased_VBN
+'s_POS
+house_NN
+has_VPRT [PEAS]
+explained_VBN [PUBV]
+the_DT
+family_NN
+'s_POS
+financial_JJ
+woes_NN
+in_PIN
+detail_NN
+,_,
+and_ANDC
+police_NN
+believes_VPRT [PRIV] [THATD]
+that_DEMP
+this_DEMO
+monetary_JJ
+crisis_NN
+may_POMD
+have_VB [PEAS]
+resulted_VBN
+in_PIN
+the_DT
+four_CD
+siblings_GER
+taking_VBG [WZPRES]
+their_TPP3
+lives_NN
+._.
+The_DT
+note_NN
+was_VBD [PASS]
+dated_VBN
+October_NN
+18_CD
+._.
+The_DT
+note_NN
+,_,
+a_DT
+copy_NN
+of_PIN
+which_WDT [PIRE]
+has_VPRT [PEAS]
+been_VBN [BYPA]
+accessed_VBN
+by_PIN
+DNA_NN
+,_,
+explains_VPRT [PUBV]
+in_PIN
+detail_NN
+about_IN
+how_RB
+they_TPP3
+want_VPRT
+their_TPP3
+last_JJ
+rites_NN
+to_TO
+take_VB
+place_NN
+._.
+It_PIT
+also_RB
+provides_VPRT
+names_NN
+and_PHC
+contacts_NN
+of_PIN
+those_DEMP
+who_WP
+helped_VBD
+them_TPP3
+out_PIN [STPR]
+._.
+Belongings_GER
+would_PRMD
+be_VB [PASS]
+given_VBN
+to_PIN
+charity_NOMZ
+,_,
+while_OSUB
+the_DT
+rest_NN
+would_PRMD
+be_VB [PASS]
+distributed_VBN
+among_PIN
+people_NN
+and_PHC
+institutions_NOMZ
+who_WP [WHSUB]
+helped_VBD
+them_TPP3
+out_PIN [STPR]
+,_,
+it_PIT
+said_VBD [PUBV]
+._.
+``_``
+All_QUAN
+four_CD
+are_VPRT
+giving_VBG
+up_RP
+our_FPP1
+lives_NN
+in_PIN
+our_FPP1
+complete_JJ
+senses_NN
+,_,
+because_CAUS
+we_FPP1
+ca_POMD
+n't_XX0 [CONT]
+imagine_VB [PRIV]
+living_VBG
+after_IN
+the_DT
+deaths_NN
+of_PIN
+our_FPP1
+parents_NN
+and_CC
+youngest_JJ
+brother_NN
+Sanju_NN
+,_,
+''_''
+the_DT
+siblings_GER
+wrote_VBD [PUBV]
+._.
+``_``
+One_CD
+mother_NN
+had_VBD
+to_TO
+get_VB
+Rs_NN
+1_CD
+lakh_NN
+from_PIN
+Hotel_NN
+Rajhans_NN
+,_,
+which_WDT [SERE]
+we_FPP1
+did_VBD
+n't_XX0 [CONT]
+get_VB
+on_PIN
+time_NN
+._.
+After_IN
+our_FPP1
+mother_NN
+and_PHC
+Sanju_NN
+died_VBD
+,_,
+the_DT
+hotel_NN
+gave_VBD
+us_FPP1
+Rs_NN
+60,000_CD
+and_CC
+Rs_NN
+10,000_CD
+on_PIN
+October_NN
+11_CD
+._.
+The_DT
+rest_NN
+if_COND
+with_PIN
+the_DT
+hotel_NN
+to_TO
+clear_VB
+our_FPP1
+electricity_NOMZ
+bills_NN
+,_,
+''_''
+it_PIT
+read_VBD
+._.
+The_DT
+family_NN
+declared_VBD [PUBV]
+some_QUAN
+of_PIN
+their_TPP3
+household_NN
+stuff_NN
+,_,
+like_IN
+Sanju_NN
+'s_POS
+belongings_GER
+,_,
+a_DT
+bed_NN
+,_,
+a_DT
+wheelchair_NN
+,_,
+blankets_NN
+,_,
+etc._FW
+to_TO
+be_VB [PASS]
+given_VBN
+to_PIN
+charity_NOMZ
+._.
+If_COND
+any_QUAN
+money_NN
+is_VPRT [PASS]
+collected_VBN
+after_IN
+selling_VBG
+the_DT
+remaining_VBG
+items_NN
+,_,
+it_PIT
+can_POMD
+be_VB [PASS]
+used_VBN
+for_PIN
+their_TPP3
+last_JJ
+rites_NN
+,_,
+they_TPP3
+said_VBD [PUBV]
+._.
+As_IN
+for_PIN
+their_TPP3
+last_JJ
+rites_NN
+,_,
+the_DT
+siblings_GER
+said_VBD [PUBV]
+all_QUAN
+four_CD
+shall_PRMD
+be_VB [PASS]
+buried_VBN
+at_PIN
+the_DT
+Burari_NN
+cemetery_NN
+._.
+``_``
+Nobody_INPR
+shall_PRMD
+be_VB [PASS]
+questioned_VBN
+about_IN
+us_FPP1
+,_,
+and_ANDC
+whatever_WDT
+money_NN
+is_VPRT [PASS]
+deposited_VBN
+to_PIN
+our_FPP1
+parents_NN
+'_POS
+accounts_NN
+shall_PRMD
+be_VB [PASS]
+given_VBN
+to_PIN
+the_DT
+church_NN
+,_,
+''_''
+they_TPP3
+added_VBD [PUBV]
+._.
+They_TPP3
+also_RB
+wrote_VBD [PUBV]
+,_,
+``_``
+We_FPP1
+have_VPRT [PEAS]
+paid_VBN
+the_DT
+rent_NN
+of_PIN
+the_DT
+house_NN
+,_,
+Rs_NN
+10,000_CD
+,_,
+on_PIN
+October_NN
+11_CD
+to_PIN
+the_DT
+caretaker_NN
+Rajkumar_NN
+._.
+Rs_NN
+7,000_CD
+in_PIN
+security_NOMZ
+money_NN
+plus_PIN
+Rs_NN
+7,000_CD
+as_IN
+advance_NN
+payment_NOMZ
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+recovered_VBN
+from_PIN
+the_DT
+landlord_NN
+._.
+''_''

@@ -1,0 +1,8 @@
+Winamp_NNP is_VBZ back_RB ._.
+The_DT legendary_JJ media_NNS player_NN ,_, poplar_NN with_IN users_NNS in_IN the_DT late_JJ 1990s_NNS and_CC early_JJ 2000s_NNS ,_, is_VBZ expected_VBN to_TO return_VB in_IN the_DT form_NN of_IN a_DT new_JJ mobile_JJ application_NN bringing_VBG together_RB all_DT of_IN a_DT user_NN 's_POS music_NN ,_, streaming_VBG services_NNS and_CC podcasts_NNS ,_, according_VBG to_TO the_DT website_JJ TechCrunch_NNP ._.
+Bought_VBN by_IN the_DT Belgian_JJ company_NN Radionomy_NNP in_IN 2014_CD --_: in_IN which_WDT Vivendi_NNP now_RB has_VBZ a_DT majority_NN stake_NN --_: Winamp_NNP still_RB exists_VBZ as_IN a_DT desktop_NN media_NNS player_NN for_IN PC_NN and_CC Mac_NNP ._.
+However_RB ,_, an_DT old_JJ mobile_JJ version_NN for_IN Android_NNP has_VBZ been_VBN long_RB abandoned_VBN ._.
+Now_RB ,_, the_DT idea_NN is_VBZ to_TO resurrect_VB Winamp_NNP for_IN mobile_JJ ,_, with_IN an_DT app_NN offering_NN users_NNS access_NN to_TO all_DT their_PRP$ audio_NN in_IN one_CD place_NN ,_, from_IN music_NN files_NNS stored_VBD on_IN their_PRP$ smartphone_NN to_TO music_NN from_IN streaming_VBG sites_NNS ,_, as_RB well_RB as_IN internet_NN radio_NN stations_NNS and_CC podcasts_NNS ._.
+The_DT app_NN is_VBZ expected_VBN to_TO land_VB for_IN Android_NNP and_CC iOS_NNP sometime_RB in_IN 2019_CD ._.
+In_IN the_DT meantime_NN ,_, the_DT Winamp_NNP chiefs_NNS will_MD need_VB to_TO negotiate_VB with_IN streaming_VBG services_NNS for_IN permission_NN to_TO integrate_VB their_PRP$ offerings_NNS directly_RB into_IN the_DT future_JJ application_NN ._.
+This_DT will_MD be_VB crucial_JJ to_TO the_DT comeback_NN if_IN Winamp_NNP hopes_VBZ to_TO return_VB with_IN an_DT original_JJ application_NN with_IN strong_JJ added_VBN value_NN ._.

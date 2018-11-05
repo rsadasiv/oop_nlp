@@ -1,0 +1,391 @@
+Ant_NN
+Financial_NN
+'s_POS
+Alipay_NN
+,_,
+the_DT
+operator_NN
+of_PIN
+one_CD
+of_PIN
+China_NN
+'s_POS
+top_JJ
+two_CD
+mobile_JJ
+payment_NOMZ
+apps_NN
+,_,
+said_VBD [PUBV] [THATD]
+hackers_NN
+have_VPRT [PEAS]
+taken_VBN
+an_DT
+unknown_JJ
+amount_NN
+of_PIN
+money_NN
+from_PIN
+accounts_NN
+using_VBG [WZPRES]
+stolen_VBN
+Apple_NN
+Inc_NN
+IDs_NN
+and_CC
+the_DT
+issue_NN
+remains_VPRT
+unresolved_JJ
+despite_PIN
+reaching_VBG
+out_PIN
+to_PIN
+the_DT
+U.S._NN
+giant_NN
+._.
+Alipay_NN
+said_VBD [PUBV]
+in_PIN
+a_DT
+post_NN
+on_PIN
+its_PIT
+Toutiao_NN
+social_JJ
+media_NN
+account_NN
+on_PIN
+Wednesday_NN
+that_TOBJ
+users_NN
+who_WP [WHSUB]
+have_VPRT [PEAS]
+linked_VBN
+their_TPP3
+accounts_NN
+using_VBG [WZPRES]
+Apple_NN
+IDs_NN
+should_NEMD
+lower_VB
+transaction_NOMZ
+limits_NN
+._.
+``_``
+Alipay_NN
+has_VPRT [PEAS]
+contacted_VBN
+Apple_NN
+many_QUAN
+times_NN
+..._:
+and_ANDC
+the_DT
+issue_NN
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+resolved_VBN [SUAV]
+,_,
+''_''
+the_DT
+post_NN
+said_VBD [PUBV]
+._.
+The_DT
+breach_NN
+has_VPRT [PEAS]
+affected_VBN
+users_NN
+of_PIN
+both_DT
+Alipay_NN
+and_PHC
+Tencent_NN
+Holdings_GER
+Ltd_NN
+'s_POS
+WeChat_NN
+and_CC
+some_QUAN
+users_NN
+lost_VBD
+up_RP
+to_PIN
+2,000_CD
+yuan_NN
+-LRB-_-LRB-
+$_$
+288_CD
+-RRB-_-RRB-
+,_,
+state_NN
+media_NN
+outlet_NN
+Xinhua_NN
+said_VBD [PUBV]
+on_PIN
+Thursday_NN
+._.
+A_DT
+Shanghai-based_JJ
+spokeswoman_NN
+for_PIN
+Apple_NN
+declined_VBD
+to_TO
+comment_VB [PUBV]
+._.
+Representatives_NN
+for_PIN
+Tencent_NN
+did_VBD
+not_XX0
+respond_VB
+to_PIN
+emails_NN
+or_CC
+phone_NN
+calls_NN
+seeking_VBG [WZPRES]
+comment_NOMZ
+._.
+Ant_NN
+Financial_NN
+is_VPRT [BEMA]
+the_DT
+payment_NOMZ
+affiliate_NN
+of_PIN
+Alibaba_NN
+Group_NN
+Holding_GER
+Ltd._NN
+._.
+It_PIT
+is_VPRT [BEMA]
+not_XX0
+clear_PRED
+how_RB
+many_QUAN
+users_NN
+were_VBD [BYPA]
+affected_VBN
+by_PIN
+the_DT
+breach_NN
+,_,
+and_ANDC
+Alipay_NN
+'s_POS
+statement_NOMZ
+urged_VBD [SUAV]
+affected_JJ
+users_NN
+to_TO
+contact_VB
+Apple_NN
+._.
+The_DT
+potential_JJ
+breach_NN
+underscores_VPRT
+the_DT
+security_NOMZ
+challenges_VPRT
+facing_VBG
+China_NN
+'s_POS
+huge_JJ
+mobile_JJ
+payments_NOMZ
+market_NN
+,_,
+where_RB
+WeChat_NN
+and_PHC
+Alipay_NN
+services_NN
+have_VPRT [PEAS]
+become_VBN
+ubiquitous_JJ
+in_PIN
+daily_JJ
+life_NN
+._.
+It_PIT
+also_RB
+highlights_VPRT
+the_DT
+pitfalls_NN
+facing_VBG [WZPRES]
+tech_JJ
+firms_NN
+in_PIN
+China_NN
+,_,
+where_RB
+smartphone_NN
+scams_NN
+and_CC
+personal_JJ
+data_NN
+breaches_NN
+are_VPRT [BEMA]
+more_EMPH
+common_PRED
+than_PIN
+other_JJ
+markets_NN
+._.
+Apple_NN
+was_VBD [BYPA]
+chastised_VBN
+by_PIN
+Chinese_JJ
+state_NN
+media_NN
+in_PIN
+July_NN
+for_PIN
+the_DT
+amount_NN
+of_PIN
+spam_NN
+being_VBG [WZPRES] [PASS]
+sent_VBN
+on_PIN
+iMessage_NN
+,_,
+with_PIN
+media_NN
+saying_VBG [PUBV] [WZPRES]
+with_PIN
+the_DT
+company_NN
+'s_POS
+strict_JJ
+stance_NN
+on_PIN
+privacy_NN
+was_VBD
+hindering_VBG
+its_PIT
+ability_NOMZ
+to_TO
+crack_VB
+down_RP
+on_PIN
+illegal_JJ
+behavior_NN
+._.
+The_DT
+company_NN
+has_VPRT
+since_OSUB
+said_VBD [PUBV] [THATD]
+it_PIT
+is_VPRT
+contact_NN
+with_PIN
+telecom_NN
+companies_NN
+on_PIN
+how_RB
+to_TO
+reduce_VB
+the_DT
+amount_NN
+of_PIN
+spam_NN
+received_VBN [WZPAST]
+through_PIN
+iMessage_NN
+._.
+Apple_NN
+users_NN
+in_PIN
+China_NN
+are_VPRT [PASS]
+required_VBN [SUAV]
+to_TO
+link_VB
+their_TPP3
+IDs_NN
+to_PIN
+their_TPP3
+phone_NN
+numbers_NN
+,_,
+which_WDT [SERE]
+are_VPRT [BEMA]
+in_PIN
+turn_NN
+linked_VBN [WZPAST]
+to_PIN
+their_TPP3
+national_JJ
+identification_NOMZ
+numbers_NN
+._.
+Apple_NN
+Pay_VB
+,_,
+while_OSUB
+not_XX0
+as_IN
+popular_JJ
+as_IN
+WeChat_NN
+Pay_VB
+and_CC
+Alipay_NN
+,_,
+has_VPRT [SPAU] [PEAS]
+also_RB
+become_VBN
+increasingly_RB
+popular_JJ
+in_PIN
+China_NN
+'s_POS
+large_JJ
+eastern_JJ
+cities_NOMZ
+._.
+For_PIN
+WeChat_NN
+Pay_VB
+and_CC
+Alipay_NN
+,_,
+which_WDT [SERE]
+each_QUAN
+have_VPRT
+around_PLACE
+half_PDT
+a_DT
+billion_CD
+users_NN
+,_,
+breaches_NN
+are_VPRT [BEMA]
+rare_PRED
+though_CONC
+users_NN
+are_VPRT [SPAU] [PASS]
+frequently_RB
+warned_VBN [PUBV]
+not_XX0
+to_TO
+send_VB
+money_NN
+to_PIN
+unidentified_JJ
+people_NN
+using_VBG [WZPRES]
+the_DT
+platforms_NN
+._.

@@ -1,0 +1,655 @@
+A_DT
+major_JJ
+feat_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+achieved_VBN
+in_PIN
+BDD_NN
+Chawl_NN
+redevelopment_NOMZ
+._.
+More_EMPH
+than_PIN
+100_CD
+residents_NN
+from_PIN
+NM_NN
+Joshi_NN
+marg_NN
+BDD_NN
+Chawl_NN
+have_VPRT [SPAU] [PEAS]
+finally_RB
+signed_VBN
+the_DT
+agreement_NOMZ
+with_PIN
+MHADA_NN
+._.
+The_DT
+ambitious_JJ
+BDD_NN
+Chawl_NN
+redevelopment_NOMZ
+is_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+start_VB
+within_PIN
+a_DT
+30-day_JJ
+period_NN
+and_PHC
+NM_NN
+Joshi_NN
+'s_POS
+BDD_NN
+chawl_NN
+is_VPRT [BEMA]
+from_PIN
+where_RB
+it_PIT
+will_PRMD
+begin_VB
+._.
+Out_PIN
+of_PIN
+500-plus_PIN
+residents_NN
+408_CD
+residents_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+allotted_VBN
+transit_NN
+accommodation_NOMZ
+within_PIN
+2_CD
+kilometre_NN
+of_PIN
+their_TPP3
+current_JJ
+stay_NN
+,_,
+MHADA_NN
+gave_VBD
+all_QUAN
+of_PIN
+them_TPP3
+agreement_NOMZ
+copies_NN
+and_CC
+once_TIME
+they_TPP3
+sign_VPRT
+it_PIT
+,_,
+they_TPP3
+are_VPRT [SPAU] [PASS]
+even_RB
+provided_VBN
+with_PIN
+`_``
+movers_NN
+and_PHC
+packers_NN
+'_POS
+services_NN
+to_TO
+shift_VB
+their_TPP3
+belongings_GER
+._.
+Of_PIN
+these_DEMO
+400_CD
+tenants_NN
+nearly_DWNT
+100_CD
+have_VPRT [PEAS]
+signed_VBN
+and_PHC
+submitted_VBN [PUBV]
+their_TPP3
+agreement_NOMZ
+to_PIN
+MHADA_NN
+._.
+After_IN
+an_DT
+incident_NN
+of_PIN
+slab_NN
+collapse_NN
+last_JJ
+month_NN
+MHADA_NN
+made_VBD
+a_DT
+vigorous_JJ
+attempt_NN
+to_TO
+shift_VB
+the_DT
+tenants_NN
+._.
+Last_JJ
+month_NN
+a_DT
+small_JJ
+portion_NOMZ
+of_PIN
+the_DT
+slab_NN
+in_PIN
+one_CD
+of_PIN
+the_DT
+BDD_NN
+chawls_VPRT
+located_VBN
+in_PIN
+NM_NN
+Joshi_NN
+Marg_NN
+came_VBD
+crashing_VBG
+down_RP
+._.
+Luckily_RB
+there_EX
+were_VBD
+no_SYNE
+casualties_NN
+reported_VBD [PUBV]
+,_,
+but_CC
+this_DEMP
+brought_VBN
+to_PIN
+the_DT
+fore_NN
+,_,
+the_DT
+issue_NN
+that_TOBJ
+these_DEMO
+close_JJ
+to_PIN
+95_CD
+year_NN
+old_JJ
+buildings_GER
+need_VPRT
+an_DT
+urgent_JJ
+redevelopment_NOMZ
+._.
+MHADA_NN
+which_WDT [WHSUB]
+is_VPRT
+carrying_VBG
+out_PIN
+the_DT
+redevelopment_NOMZ
+of_PIN
+BDD_NN
+chawls_NN
+in_PIN
+Mumbai_NN
+says_VPRT [PUBV]
+that_THVC
+transit_NN
+camps_NN
+within_PIN
+central_JJ
+Mumbai_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+available_JJ
+to_PIN
+the_DT
+tenants_NN
+,_,
+but_CC
+tenants_NN
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+yet_RB
+shifted_VBN
+._.
+Tenants_NN
+say_VPRT [PUBV]
+that_THVC
+most_EMPH
+of_PIN
+them_TPP3
+have_VPRT [PEAS]
+signed_VBN
+the_DT
+agreement_NOMZ
+and_CC
+given_VBN
+it_PIT
+to_PIN
+MHADA_NN
+for_PIN
+registration_NOMZ
+of_PIN
+the_DT
+agreement_NOMZ
+,_,
+but_CC
+yet_RB
+are_VPRT
+waiting_VBG
+because_CAUS
+they_TPP3
+wo_PRMD
+n't_XX0 [CONT]
+move_VB [SUAV]
+out_PIN
+unless_COND
+the_DT
+eligibility_NOMZ
+of_PIN
+remaining_VBG
+nearly_DWNT
+80-tenants_NN
+is_VPRT [PASS]
+decided_VBN [SUAV] [PRIV]
+._.
+They_TPP3
+are_VPRT [BEMA]
+hopeful_PRED
+that_THAC
+within_PIN
+a_DT
+month_NN
+'s_POS
+time_NN
+it_PIT
+will_PRMD
+be_VB [PASS]
+decided_VBN [SUAV] [PRIV]
+and_CC
+in_PIN
+November_NN
+all_QUAN
+of_PIN
+them_TPP3
+will_PRMD
+move_VB [SUAV]
+to_PIN
+transit_NN
+camps_NN
+._.
+Of_PIN
+the_DT
+total_JJ
+32_CD
+buildings_GER
+in_PIN
+NM_NN
+Joshi_NN
+Marg_NN
+,_,
+there_EX
+are_VPRT
+are_VPRT
+seven_CD
+buildings_GER
+which_WDT [WHSUB]
+have_VPRT [PEAS]
+been_VBN [PASS]
+taken_VBN
+up_RP
+for_PIN
+redevelopment_NOMZ
+in_PIN
+phase_NN
+1_CD
+._.
+According_VBG [PRESP]
+to_PIN
+a_DT
+senior_JJ
+MHADA_NN
+official_NN
+looking_VBG [WZPRES]
+after_IN
+the_DT
+redevelopment_NOMZ
+,_,
+there_EX
+are_VPRT
+more_EMPH
+than_PIN
+500_CD
+tenants_NN
+in_PIN
+these_DEMO
+buildings_GER
+that_DEMP
+is_VPRT
+undergoing_VBG
+redevelopment_NOMZ
+in_PIN
+the_DT
+first_JJ
+phase_NN
+and_CC
+of_PIN
+that_DEMO
+more_EMPH
+than_PIN
+400_CD
+people_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+found_VBN [PRIV]
+eligible_JJ
+,_,
+while_OSUB
+the_DT
+eligibility_NOMZ
+of_PIN
+remaining_VBG
+80_CD
+and_CC
+more_EMPH
+tenants_NN
+is_VPRT
+yet_RB
+to_TO
+be_VB [PASS]
+decided_VBN [SUAV] [PRIV]
+._.
+``_``
+We_FPP1
+have_VPRT [SPAU] [PEAS]
+even_RB
+finalized_VBN
+the_DT
+transit_NN
+camps_NN
+which_WDT [WHSUB]
+are_VPRT [BEMA]
+within_PIN
+a_DT
+two_CD
+kilometer_NN
+radius_NN
+of_PIN
+the_DT
+existing_VBG
+BDD_NN
+chawls_NN
+._.
+However_CONJ
+,_,
+because_CAUS
+of_PIN
+some_QUAN
+or_CC
+other_JJ
+reason_NN
+,_,
+the_DT
+tenants_NN
+were_VBD
+n't_XX0 [CONT]
+vacating_VBG
+the_DT
+dilapidated_JJ
+building_GER
+and_CC
+have_VB
+stay_VB
+put_VBN
+here_RB
+._.
+However_CONJ
+,_,
+things_NN
+have_VPRT [PEAS]
+changed_VBN
+post_IN
+the_DT
+last_JJ
+month_NN
+'s_POS
+incident_NN
+,_,
+where_RB
+almost_DWNT
+100_CD
+tenants_NN
+have_VPRT [PEAS]
+signed_VBN
+the_DT
+agreement_NOMZ
+and_CC
+handed_VBD
+it_PIT
+over_IN
+to_PIN
+us_FPP1
+,_,
+we_FPP1
+are_VPRT [BEMA]
+in_PIN
+process_NN
+of_PIN
+registering_VBG
+the_DT
+agreements_NOMZ
+._.
+''_''
+The_DT
+officer_NN
+claims_VPRT [PUBV] [THATD]
+that_DEMP
+,_,
+Instead_CONJ
+of_NULL
+the_DT
+small_JJ
+homes_NN
+where_RB
+the_DT
+tenants_NN
+currently_RB
+,_,
+they_TPP3
+will_PRMD
+be_VB [PASS]
+given_VBN
+bigger_JJ
+homes_NN
+with_PIN
+attached_VBN
+toilets_NN
+in_PIN
+the_DT
+transit_NN
+camps_NN
+._.
+However_CONJ
+,_,
+tenants_NN
+claim_VPRT [PUBV] [THATD]
+they_TPP3
+are_VPRT [BEMA]
+ready_PRED
+to_TO
+shift_VB
+,_,
+but_CC
+MHADA_NN
+should_NEMD [SPAU]
+first_RB
+fix_VB
+the_DT
+eligibility_NOMZ
+of_PIN
+the_DT
+remaining_VBG
+80-tenants_NN
+._.
+``_``
+We_FPP1
+are_VPRT
+expecting_VBG [PRIV]
+and_CC
+we_FPP1
+have_VPRT [SPAU] [PEAS]
+even_RB
+been_VBN [BYPA]
+assured_VBN
+by_PIN
+MHADA_NN
+that_DEMO
+within_PIN
+a_DT
+month_NN
+'s_POS
+time_NN
+the_DT
+eligibility_NOMZ
+issue_NN
+for_PIN
+the_DT
+remaining_VBG
+tenants_NN
+will_PRMD
+be_VB [PASS]
+finalized_VBN
+._.
+Yes_RB
+more_EMPH
+than_PIN
+half_NN
+of_PIN
+the_DT
+eligible_JJ
+tenants_NN
+have_VPRT [PEAS]
+signed_VBN
+the_DT
+agreements_NOMZ
+with_PIN
+MHADA_NN
+and_CC
+have_VPRT [PEAS]
+handed_VBN
+it_PIT
+to_PIN
+MHADA_NN
+for_PIN
+registration_NOMZ
+of_PIN
+agreement_NOMZ
+._.
+We_FPP1
+hope_VPRT [PRIV]
+that_THVC
+by_PIN
+Dilwai_NN
+everything_QUPR
+is_VPRT [PASS]
+finalized_VBN
+and_CC
+we_FPP1
+all_QUAN
+will_PRMD
+move_VB [SUAV]
+to_PIN
+the_DT
+transit_NN
+camps_NN
+._.
+We_FPP1
+can_POMD
+not_XX0
+leave_VB
+our_FPP1
+neighbors_NN
+alone_RB
+and_ANDC
+hence_CONJ
+have_VPRT [PEAS]
+taken_VBN
+this_DEMO
+stand_NN
+in_PIN
+a_DT
+meeting_GER
+and_CC
+informed_VBN
+MHADA_NN
+,_,
+''_''
+said_VBD [PUBV]
+Krishnkant_NN
+Nalge_NN
+,_,
+the_DT
+chairman_NN
+of_PIN
+one_CD
+of_PIN
+the_DT
+committees_NN
+of_PIN
+BDD_NN
+chawl_NN
+redevelopment_NOMZ
+._.
+Post_NN
+redevelopment_NOMZ
+the_DT
+tenants_NN
+are_VPRT [PASS]
+expected_VBN [PRIV]
+to_TO
+get_VB
+two_CD
+bedroom_NN
+hall_NN
+kitchen_NN
+flats_NN
+measuring_VBG [WZPRES]
+500_CD
+sq_JJ
+ft_NN
+instead_CONJ
+of_NULL
+their_TPP3
+single_JJ
+rooms_NN
+apartments_NOMZ
+that_TOBJ
+they_TPP3
+occupy_VPRT
+today_TIME
+._.
+Chawls_NN
+:_:
+32Tenants_NN
+:_:
+2,560_CD
+Funds_NN
+:_:
+Rs_NN
+2,460_CD
+crore_NN
++_CD
+Tender_NN
+Won_NN
+by_PIN
+:_:
+Shapoorij_NN
+Pallonji_NN

@@ -1,0 +1,28 @@
+John_NNP Bois_NNP -LRB-_-LRB- sometimes_RB spelled_VBD Boys_NNS or_CC ``_`` Boyse_NNP ''_'' -RRB-_-RRB- -LRB-_-LRB- 3_CD January_NNP 1560_CD ''_'' 14_CD January_NNP 1643_CD -RRB-_-RRB- was_VBD an_DT English_JJ scholar_NN ,_, remembered_VBD mainly_RB as_IN one_CD of_IN the_DT members_NNS of_IN the_DT translating_VBG committee_NN for_IN the_DT Authorized_VBN Version_NN of_IN the_DT Bible_NNP ._.
+He_PRP should_MD not_RB be_VB confused_VBN with_IN John_NNP Boys_NNPS ,_, Dean_NNP of_IN Canterbury_NNP from_IN 1619_CD to_TO 1625_CD ._.
+Bois_NNP was_VBD born_VBN in_IN Nettlestead_NNP ,_, Suffolk_NNP ,_, England_NNP ,_, His_PRP$ father_NN was_VBD William_NNP Bois_NNP ,_, a_DT graduate_NN of_IN Michaelhouse_NNP ,_, Cambridge_NNP and_CC a_DT Protestant_JJ converted_VBN by_IN Martin_NNP Bucer_NNP ,_, who_WP was_VBD vicar_NN of_IN Elmsett_NNP and_CC West_NNP Stow_NNP ;_: his_PRP$ mother_NN was_VBD Mirable_JJ Poolye_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ father_NN took_VBD great_JJ care_NN about_IN his_PRP$ education_NN ,_, and_CC already_RB at_IN the_DT age_NN of_IN five_CD years_NNS John_NNP could_MD read_VB the_DT Bible_NNP in_IN Hebrew_NNP ._.
+He_PRP was_VBD sent_VBN to_TO school_NN at_IN Hadleigh_NNP ,_, then_RB went_VBD to_TO St_NNP John_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, in_IN 1575_CD when_WRB he_PRP was_VBD 15_CD years_NNS old_JJ ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD taught_VBN by_IN Henry_NNP Copinger_NNP ,_, and_CC soon_RB was_VBD proficient_JJ in_IN Greek_JJ ._.
+He_PRP intended_VBD medicine_NN as_IN a_DT profession_NN ,_, but_CC its_PRP$ study_NN brought_VBD on_RP hypochondria_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ mentor_NN and_CC Greek_JJ teacher_NN at_IN St._NNP John_NNP 's_POS was_VBD none_NN other_JJ than_IN Andrew_NNP Downes_NNP ._.
+In_IN 1580_CD Bois_NNP was_VBD elected_VBN Fellow_NNP of_IN his_PRP$ College_NNP ,_, while_IN suffering_VBG from_IN smallpox_NN ._.
+On_IN 21_CD June_NNP 1583_CD he_PRP was_VBD ordained_VBN a_DT deacon_NN of_IN the_DT Church_NNP of_IN England_NNP ,_, by_IN Edmund_NNP Freake_NNP ._.
+For_IN ten_CD years_NNS ,_, he_PRP was_VBD Greek_JJ lecturer_NN in_IN his_PRP$ college_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- When_WRB he_PRP was_VBD about_IN thirty-six_CD years_NNS old_JJ ,_, on_IN 13_CD October_NNP 1596_CD ,_, he_PRP married_VBD the_DT daughter_NN of_IN Francis_NNP Holt_NNP ,_, rector_NN at_IN Boxworth_NNP ,_, after_IN the_DT death_NN of_IN her_PRP$ father_NN ,_, and_CC he_PRP took_VBD over_RP this_DT post_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Serious_JJ financial_JJ troubles_NNS followed_VBD ,_, and_CC he_PRP had_VBD to_TO sell_VB his_PRP$ library_NN ;_: his_PRP$ scholarly_JJ reputation_NN brought_VBD him_PRP tasks_NNS ,_, but_CC they_PRP were_VBD poorly_RB rewarded_VBN ._.
+In_IN 1609_CD he_PRP succeeded_VBD John_NNP Duport_NNP as_IN prebendary_NN of_IN Ely_NNP while_IN also_RB serving_VBG as_IN rector_NN of_IN Boxworth_NNP ._.
+He_PRP spent_VBD the_DT last_JJ years_NNS of_IN his_PRP$ life_NN there_RB ._.
+He_PRP was_VBD eighty-three_JJ when_WRB he_PRP died_VBD in_IN Ely_NNP ._.
+He_PRP had_VBD four_CD sons_NNS and_CC three_CD daughters_NNS ,_, none_NN of_IN whom_WP survived_VBD their_PRP$ father_NN ._.
+His_PRP$ wife_NN died_VBD two_CD years_NNS before_IN him_PRP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP assisted_VBD Henry_NNP Savile_NNP with_IN the_DT translation_NN of_IN the_DT works_NNS of_IN John_NNP Chrysostom_NNP ._.
+In_IN 1604_CD he_PRP was_VBD recruited_VBN for_IN one_CD of_IN the_DT Cambridge_NNP committees_NNS set_VBD up_RP to_TO translate_VB the_DT Bible_NNP into_IN English_NNP ._.
+He_PRP also_RB served_VBD in_IN the_DT ``_`` Second_JJ Cambridge_NNP Company_NN ''_'' charged_VBN by_IN James_NNP I_NNP of_IN England_NNP with_IN translating_VBG the_DT Apocrypha_NNP for_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ._.
+As_RB well_RB as_IN his_PRP$ own_JJ work_NN ,_, he_PRP assisted_VBD in_IN the_DT work_NN of_IN the_DT ``_`` First_JJ Cambridge_NNP Company_NN ''_'' translating_VBG from_IN Chronicles_NNPS to_TO Canticles_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Six_CD years_NNS later_RB ,_, when_WRB the_DT work_NN was_VBD done_VBN ,_, the_DT different_JJ translations_NNS were_VBD reviewed_VBN by_IN six_CD scholars_NNS for_IN the_DT final_JJ publication_NN ._.
+Bois_NNP was_VBD one_CD of_IN their_PRP$ number_NN ._.
+The_DT Bible_NNP was_VBD then_RB published_VBN in_IN 1611_CD ._.
+Scholarly_JJ notes_NNS he_PRP made_VBD on_IN the_DT Latin_NNP Vulgate_NNP survived_VBD and_CC were_VBD later_RB printed_VBN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT renderings_NNS of_IN the_DT Vulgate_NNP are_VBP in_IN the_DT main_JJ defended_VBD ,_, but_CC Bois_NNP frequently_RB proposes_VBZ more_JJR exact_JJ translations_NNS of_IN his_PRP$ own_JJ ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

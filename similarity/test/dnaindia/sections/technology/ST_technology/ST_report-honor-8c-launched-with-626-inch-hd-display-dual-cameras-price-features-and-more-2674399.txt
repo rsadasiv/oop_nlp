@@ -1,0 +1,20 @@
+Honor_NNP ,_, Huawei_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ sub_JJ brand_NN ,_, has_VBZ launched_VBN the_DT Honor_NNP 8C_NNP in_IN China_NNP ._.
+The_DT 4GB_NNP RAM\/32GB_NNP storage_NN variant_NN is_VBZ priced_VBN at_IN CNY_NNP 1,099_CD -LRB-_-LRB- approximately_RB Rs_VBZ 11,800_CD -RRB-_-RRB- while_IN the_DT price_NN for_IN the_DT 4GB_NNP RAM\/64GB_NNP storage_NN variant_NN is_VBZ priced_VBN at_IN CNY_NNP 1,399_CD -LRB-_-LRB- approximately_RB Rs_VBZ 15,000_CD -RRB-_-RRB- ._.
+It_PRP will_MD be_VB available_JJ in_IN Aurora_NNP Blue_NNP ,_, Magic_NNP Night_NNP Black_NNP ,_, Platinum_NN Gold_NN ,_, and_CC Nebula_NNP Purple_NNP color_NN variants_NNS ._.
+The_DT device_NN will_MD go_VB on_IN sale_NN on_IN October_NNP 16_CD ._.
+At_IN the_DT moment_NN ,_, there_EX is_VBZ no_DT information_NN provided_VBD as_RB to_TO when_WRB the_DT company_NN will_MD launch_VB the_DT smartphone_NN in_IN India_NNP ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 6.26-inch_JJ HD_NNP +_CD TFT_NNP LCD_NNP IPS_NNP display_NN with_IN an_DT aspect_NN ratio_NN of_IN 19:9_CD and_CC a_DT 720x1520_JJ pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN an_DT octa-core_JJ Qualcomm_NNP Snapdragon_NNP 626_CD SoC_NNP with_IN 4GB_NNP of_IN RAM_NNP ._.
+Running_VBG Android_JJ 8.1_CD Oreo_NNP with_IN EMUI_NNP 8.2_CD ,_, the_DT device_NN is_VBZ offered_VBN in_IN two_CD storage_NN variants_NNS ''_'' 32GB_NNP and_CC 64GB_NNP and_CC can_MD be_VB further_JJ expanded_VBN up_RP to_TO 256GB_CD via_IN microSD_NNP card_NN ._.
+The_DT device_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP -_: 13MP_CD primary_JJ sensor_NN along_IN with_IN a_DT 2MP_JJ secondary_JJ sensor_NN ._.
+It_PRP also_RB features_VBZ an_DT 8MP_JJ front-facing_JJ camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP VoLTE_NNP ,_, single-band_JJ Wi-Fi_JJ 802.11_CD b\/g\/n_NN ,_, Bluetooth_NNP v4_CD .2_CD LE_NNP with_IN aptX_NNP and_CC GPS\/A-GPS_NNP ._.
+A_DT 4000mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.
+Recently_RB ,_, the_DT Honor_NNP Play_NNP smartphone_NN went_VBD on_IN sale_NN in_IN India_NNP ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 6.3-inch_JJ full-HD_JJ +_NN display_NN with_IN a_DT 19.5:9_CD aspect_NN ratio_NN and_CC a_DT 1080x2340_JJ pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN a_DT HiSilicon_NNP Kirin_NNP 970_CD SoC_NN with_IN two_CD RAM_NNP variant_NN options_NNS ''_'' 4GB_NNP and_CC 6GB_NNP ._.
+Running_VBG Android_JJ 8.1_CD Oreo_NNP with_IN EMUI_NNP 8.2_CD ,_, the_DT device_NN includes_VBZ an_DT internal_JJ storage_NN of_IN 64GB_NNP and_CC can_MD be_VB further_JJ expanded_VBN up_RP to_TO 256GB_CD via_IN microSD_NNP card_NN ._.
+The_DT device_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP -_: 16MP_CD primary_JJ sensor_NN along_IN with_IN a_DT 2MP_JJ secondary_JJ sensor_NN ._.
+It_PRP also_RB features_VBZ a_DT 16MP_NNP front-facing_NN camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP VoLTE_NNP ,_, Wi-Fi_NNP 802.11_CD ac_NN ,_, Bluetooth_NNP v4_CD .2_CD ,_, USB_NNP Type-C_NNP -LRB-_-LRB- v2_CD .0_CD -RRB-_-RRB- ,_, GPS_NNP \/_CD A-GPS_NNP ,_, and_CC a_DT 3.5_CD mm_NN headphone_NN jack_NN ._.
+A_DT 3750mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.

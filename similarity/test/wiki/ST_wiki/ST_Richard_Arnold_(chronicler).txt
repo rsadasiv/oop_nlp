@@ -1,0 +1,30 @@
+Richard_NNP Arnold_NNP -LRB-_-LRB- died_VBD ca_MD ._.
+1521_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ antiquary_JJ and_CC chronicler_NN ._.
+Arnold_NNP was_VBD a_DT citizen_NN of_IN London_NNP ,_, dwelling_NN in_IN the_DT parish_NN of_IN St_NNP Magnus_NNP ,_, London_NNP Bridge_NNP ._.
+It_PRP would_MD appear_VB from_IN his_PRP$ own_JJ book_NN that_IN he_PRP was_VBD a_DT merchant_NN trading_NN with_IN Flanders_NNS ._.
+He_PRP was_VBD an_DT executor_NN of_IN the_DT will_NN of_IN John_NNP Amell_NNP the_DT elder_JJR ,_, citizen_NN and_CC cutler_NN of_IN London_NNP ,_, which_WDT was_VBD drawn_VBN up_RP in_IN 1473_CD ,_, and_CC he_PRP is_VBZ there_RB described_VBN as_IN a_DT haberdasher_NN ._.
+He_PRP was_VBD in_IN the_DT habit_NN ,_, for_IN purposes_NNS of_IN business_NN ,_, of_IN paying_VBG visits_NNS to_TO Flanders_NNP ,_, and_CC was_VBD in_IN 1488_CD confined_VBN in_IN the_DT Castle_NNP of_IN Sluys_NNP on_IN suspicion_NN of_IN being_VBG a_DT spy_NN ._.
+He_PRP was_VBD apparently_RB hard_JJ pressed_VBN by_IN creditors_NNS at_IN one_CD period_NN of_IN his_PRP$ life_NN ,_, and_CC sought_VBD shelter_NN in_IN the_DT sanctuary_NN at_IN Westminster_NNP ._.
+He_PRP had_VBD a_DT wife_NN named_VBN Alice_NNP and_CC a_DT son_NN Nicholas_NNP ._.
+The_DT date_NN of_IN his_PRP$ death_NN is_VBZ uncertain_JJ ._.
+Francis_NNP Douce_NNP ,_, who_WP fully_RB investigated_VBD the_DT matter_NN ,_, concluded_VBD that_IN he_PRP died_VBD shortly_RB after_IN the_DT publication_NN of_IN the_DT last_JJ edition_NN of_IN his_PRP$ book_NN ,_, in_IN 1520-1_CD ._.
+Arnold_NNP 's_POS work_NN is_VBZ a_DT book_NN dealing_VBG with_IN London_NNP antiquities_NNS ._.
+It_PRP contains_VBZ the_DT chief_JJ charters_NNS granted_VBN to_TO the_DT city_NN ,_, accounts_NNS of_IN its_PRP$ customs_NNS ,_, and_CC notes_NNS on_IN a_DT variety_NN of_IN topics_NNS chiefly_RB but_CC not_RB entirely_RB connected_VBN with_IN commerce_NN ._.
+Thomas_NNP Hearne_NNP called_VBD it_PRP a_DT chronicle_NN ;_: but_CC its_PRP$ only_JJ claim_NN to_TO that_DT title_NN rests_VBZ on_IN its_PRP$ opening_NN section_NN ,_, which_WDT gives_VBZ ,_, with_IN occasional_JJ historical_JJ notes_NNS ,_, a_DT list_NN of_IN the_DT names_NNS of_IN the_DT `_`` Balyfs_NNP ,_, Gustos_NNP ,_, Mayers_NNP ,_, and_CC Sherefs_NNP '_'' of_IN London_NNP between_IN 1189_CD and_CC 1502_CD ._.
+The_DT greater_JJR part_NN of_IN this_DT list_NN was_VBD evidently_RB borrowed_VBN direct_JJ from_IN a_DT manuscript_NN now_RB in_IN the_DT Cottonian_NNP Library_NNP at_IN the_DT British_JJ Museum_NNP ._.
+Arnold_NNP himself_PRP gives_VBZ the_DT book_NN no_DT name_NN ;_: Douce_NNP ,_, its_PRP$ latest_JJS editor_NN ,_, christens_VBZ it_PRP the_DT `_`` Customs_NNS of_IN London_NNP ._. '_''
+Its_PRP$ most_RBS interesting_JJ feature_NN is_VBZ its_PRP$ introduction_NN of_IN the_DT `_`` Ballade_NN of_IN ye_JJ Nottebrowne_NNP Mayde_NNP ,_, '_'' which_WDT occurs_VBZ ,_, without_IN any_DT explanation_NN ,_, between_IN an_DT account_NN of_IN the_DT tolls_NNS payable_JJ by_IN English_NNP merchants_NNS sending_VBG merchandise_NN to_TO Antwerp_NNP ,_, and_CC a_DT statement_NN of_IN the_DT differences_NNS between_IN English_NNP and_CC Flemish_NNP currencies_NNS ._.
+No_DT earlier_RBR version_NN of_IN the_DT ballad_NN is_VBZ known_VBN ,_, and_CC according_VBG to_TO Capel_NNP ,_, Warton_NNP ,_, Douce_NNP ,_, and_CC Collier_NNP ,_, it_PRP is_VBZ probable_JJ that_IN it_PRP had_VBD been_VBN composed_VBN only_RB a_DT few_JJ years_NNS before_IN Arnold_NNP transcribed_VBD and_CC printed_VBD it_PRP ._.
+Hearne_NNP ,_, however_RB ,_, assigns_VBZ it_PRP to_TO the_DT time_NN of_IN Henry_NNP V_NNP ,_, and_CC Thomas_NNP Percy_NNP to_TO the_DT early_JJ part_NN of_IN Henry_NNP VII_NNP 's_POS reign_NN ._.
+Its_PRP$ authorship_NN is_VBZ unknown_JJ ;_: but_CC Douce_NNP assumes_VBZ ,_, on_IN very_RB just_RB grounds_NNS ,_, that_IN it_PRP was_VBD translated_VBN from_IN an_DT old_JJ German_JJ ballad_NN by_IN some_DT Englishman_NNP whom_WP Arnold_NNP met_VBD at_IN Antwerp_NNP ._.
+It_PRP was_VBD frequently_RB reprinted_VBN separately_RB in_IN the_DT sixteenth_JJ century_NN ,_, and_CC enjoyed_VBD very_RB great_JJ popularity_NN for_IN many_JJ years_NNS ;_: interest_NN in_IN it_PRP was_VBD revived_VBN by_IN its_PRP$ republication_NN in_IN the_DT `_`` Muse_NNP 's_POS Mercury_NNP '_POS for_IN June_NNP 1707_CD ,_, where_WRB it_PRP was_VBD first_RB seen_VBN by_IN Prior_RB ,_, who_WP paraphrased_VBD it_PRP in_IN his_PRP$ `_`` Henry_NNP and_CC Emma_NNP '_POS about_IN 1718_CD ._.
+From_IN typographical_JJ evidence_NN it_PRP is_VBZ clear_JJ that_IN Arnold_NNP 's_POS book_NN was_VBD first_JJ published_VBN at_IN Antwerp_NNP in_IN 1502_CD by_IN John_NNP Doesborowe_NNP ,_, who_WP published_VBD other_JJ English_NNP books_NNS ._.
+This_DT edition_NN is_VBZ without_IN date_NN ,_, place_NN ,_, or_CC printer_NN 's_POS name_NN ._.
+A_DT second_JJ edition_NN ,_, in_IN which_WDT the_DT list_NN of_IN the_DT mayors_NNS and_CC sheriffs_NNS is_VBZ brought_VBN down_RP to_TO 1520_CD ''_'' doubtless_JJ the_DT date_NN of_IN publication_NN ''_'' is_VBZ ascribed_VBN by_IN typographical_JJ experts_NNS to_TO Peter_NNP Treveris_NNP ,_, the_DT first_JJ printer_NN who_WP set_VBD up_RP a_DT press_NN at_IN Southwark_NNP ._.
+It_PRP is_VBZ also_RB without_IN date_NN ,_, place_NN ,_, or_CC printer_NN 's_POS name_NN ._.
+A_DT third_JJ edition_NN ,_, with_IN introduction_NN by_IN Francis_NNP Douce_NNP ,_, appeared_VBD in_IN 1811_CD ._.
+Copies_NNS of_IN the_DT two_CD original_JJ editions_NNS ,_, which_WDT are_VBP now_RB of_IN excessive_JJ rarity_NN ,_, are_VBP in_IN the_DT British_JJ Library_NNP ,_, and_CC other_JJ copies_NNS may_MD be_VB found_VBN at_IN the_DT Huntington_NNP Library_NNP ,_, the_DT Folger_NNP Shakespeare_NNP Library_NNP ,_, and_CC other_JJ archives_NNS ._.
+A_DT copy_NN may_MD be_VB viewed_VBN through_IN Early_JJ English_NNP Books_NNPS On_IN Line_NNP -LRB-_-LRB- subscription_NN required_VBN -RRB-_-RRB- ._.
+``_`` Arnold_NNP ,_, Richard_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

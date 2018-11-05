@@ -1,0 +1,9 @@
+Barbarina_NNP Brand_NNP ,_, Lady_NNP Dacre_NNP -LRB-_-LRB- née_NN Ogle_NNP ;_: 1768_CD ``_`` 1854_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ poet_NN ,_, playwright_NN ,_, and_CC translator_NN ._.
+She_PRP was_VBD the_DT daughter_NN of_IN Admiral_NNP Sir_NNP Chaloner_NNP Ogle_NNP ,_, 1st_CD Baronet_NNP -LRB-_-LRB- died_VBD 1816_CD -RRB-_-RRB- ,_, and_CC Hester_NNP Thomas_NNP -LRB-_-LRB- daughter_NN of_IN John_NNP Thomas_NNP ,_, Bishop_NNP of_IN Winchester_NNP -RRB-_-RRB- ._.
+In_IN 1789_CD Barbarina_NNP married_JJ Valentine_NNP Henry_NNP Wilmot_NNP ,_, an_DT officer_NN in_IN the_DT guards_NNS ,_, though_IN they_PRP later_RB separated_VBD ._.
+The_DT couple_NN had_VBD one_CD daughter_NN ,_, Arabella_NNP Jane_NNP -LRB-_-LRB- Wilmont_NNP -RRB-_-RRB- Sullivan_NNP -LRB-_-LRB- 1796_CD ``_`` 1839_CD -RRB-_-RRB- ._.
+After_IN Wilmot_NNP 's_POS death_NN in_IN 1819_CD she_PRP married_VBD Thomas_NNP Brand_NNP ,_, 20th_JJ Baron_NNP Dacre_NNP -LRB-_-LRB- 1774_CD ``_`` 1851_CD -RRB-_-RRB- ,_, later_RB that_DT same_JJ year_NN ._.
+Educated_VBN at_IN home_NN ,_, she_PRP became_VBD ``_`` one_CD of_IN the_DT most_RBS accomplished_JJ women_NNS of_IN her_PRP$ time_NN ''_'' :_: -LRB-_-LRB- 1_CD -RRB-_-RRB- in_IN addition_NN to_TO her_PRP$ writing_NN ,_, she_PRP sculpted_VBD ,_, rode_VBD ,_, was_VBD proficient_JJ in_IN both_DT French_JJ and_CC Italian_JJ ,_, and_CC maintained_VBD an_DT extensive_JJ correspondence_NN with_IN a_DT circle_NN of_IN other_JJ literary_JJ women_NNS ,_, including_VBG Joanna_NNP Baillie_NNP ,_, Mary_NNP Russell_NNP Mitford_NNP ,_, and_CC Catherine_NNP Maria_NNP Fanshawe_NNP ._.
+Her_PRP$ final_JJ years_NNS were_VBD marred_VBN by_IN the_DT death_NN of_IN her_PRP$ daughter_NN Arabella_NNP Sullivan_NNP in_IN 1839_CD ,_, and_CC by_IN the_DT loss_NN of_IN her_PRP$ hearing_NN ._.
+She_PRP died_VBD May_NNP 17_CD ,_, 1854_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

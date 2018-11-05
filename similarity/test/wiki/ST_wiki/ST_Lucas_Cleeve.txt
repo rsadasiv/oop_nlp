@@ -1,0 +1,9 @@
+Adeline_NNP Georgiana_NNP Isabel_NNP Kingscote_NNP -LRB-_-LRB- née_FW Wolff_NNP ;_: 1862_CD ``_`` 1908_CD -RRB-_-RRB- ,_, who_WP wrote_VBD under_IN the_DT pseudonym_NN Lucas_NNP Cleeve_NNP ,_, was_VBD an_DT English_JJ novelist_NN ,_, the_DT author_NN of_IN over_IN sixty_JJ works_NNS including_VBG The_DT Woman_NNP Who_WP Would_MD n't_RB in_IN 1895_CD ._.
+After_IN her_PRP$ marriage_NN to_TO Colonel_NNP Howard_NNP Kingscote_NNP ,_, most_JJS of_IN her_PRP$ novels_NNS were_VBD published_VBN under_IN the_DT name_NN Mrs_NNP Howard_NNP Kingscote_NNP ._.
+Cleeve_NNP was_VBD the_DT only_JJ daughter_NN of_IN Henry_NNP Drummond_NNP Wolff_NNP ,_, a_DT diplomat_NN and_CC Conservative_JJ MP_NNP ._.
+Recorded_VBN in_IN Who_WP 's_VBZ Who_WP as_IN a_DT traveller_NN and_CC linguist_NN ,_, she_PRP compiled_VBD a_DT book_NN of_IN Indian_JJ folklore_NN ,_, Tales_NNS of_IN the_DT Sun_NNP ,_, or_CC ,_, Folklore_NN of_IN Southern_NNP India_NNP ,_, and_CC a_DT work_NN entitled_VBN The_DT English_JJ Baby_NNP in_IN India_NNP and_CC How_WRB to_TO Rear_VB it_PRP ._.
+However_RB she_PRP was_VBD best_RB known_VBN as_IN a_DT novelist_NN ._.
+Her_PRP$ most_RBS famous_JJ novel_NN was_VBD a_DT response_NN to_TO Grant_NNP Allen_NNP 's_POS The_DT Woman_NNP Who_WP Did_VBD ._.
+The_DT first_JJ edition_NN of_IN Cleeve_NNP 's_POS The_DT Woman_NNP Who_WP Would_MD n't_RB -LRB-_-LRB- 1895_CD -RRB-_-RRB- sold_VBN well_RB but_CC received_VBD hostile_JJ reviews_NNS ._.
+She_PRP said_VBD of_IN this_DT :_: She_PRP died_VBD in_IN Château-d_NNP '_POS `_`` x_LS ,_, Switzerland_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

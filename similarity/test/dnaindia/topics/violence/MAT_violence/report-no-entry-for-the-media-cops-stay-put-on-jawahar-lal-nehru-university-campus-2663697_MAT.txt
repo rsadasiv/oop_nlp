@@ -1,0 +1,313 @@
+``_``
+Monday_NN
+ko_FW
+aana_FW
+''_''
+was_VBD [BEMA]
+the_DT
+refrain_NN
+from_PIN
+security_NOMZ
+guards_NN
+manning_VBG [WZPRES]
+the_DT
+main_JJ
+gate_NN
+of_PIN
+Jawahar_NN
+Lal_NN
+Nehru_NN
+University_NOMZ
+-LRB-_-LRB-
+JNU_NN
+-RRB-_-RRB-
+which_WDT [SERE]
+was_VBD [BEMA]
+out_PIN
+of_PIN
+bounds_NN
+for_PIN
+media_NN
+persons_NN
+on_PIN
+Saturday_NN
+._.
+Violence_NN
+had_VBD [PEAS]
+marred_VBN
+counting_GER
+of_PIN
+votes_NN
+of_PIN
+JNU_NN
+Students_NN
+'_POS
+Union_NN
+-LRB-_-LRB-
+JNUSU_NN
+-RRB-_-RRB-
+when_RB
+a_DT
+group_NN
+of_PIN
+students_NN
+forcibly_RB
+entered_VBD
+the_DT
+counting_VBG
+center_NN
+and_CC
+tried_VBD
+to_TO
+snatch_VB
+ballot_NN
+boxes_NN
+._.
+Security_NOMZ
+was_VBD [PASS]
+beefed_VBN
+up_RP
+in_PIN
+and_CC
+around_PLACE
+the_DT
+university_NOMZ
+with_PIN
+Delhi_NN
+Police_NN
+guarding_VBG [WZPRES]
+the_DT
+entrance_NN
+._.
+A_DT
+large_JJ
+number_NN
+of_PIN
+private_JJ
+security_NOMZ
+guards_NN
+including_VBG [WZPRES]
+women_NN
+were_VBD [PASS]
+deployed_VBN
+outside_PLACE
+the_DT
+counting_VBG
+hall_NN
+._.
+They_TPP3
+had_VBD [PEAS]
+formed_VBN
+a_DT
+ring_NN
+around_PLACE
+the_DT
+protesting_VBG [PUBV]
+students_NN
+,_,
+to_TO
+prevent_VB
+them_TPP3
+from_PIN
+going_VBG
+inside_PLACE
+the_DT
+center_NN
+._.
+No_SYNE
+student_NN
+was_VBD [PASS]
+allowed_VBN [SUAV]
+inside_PLACE
+without_PIN
+their_TPP3
+identity_NOMZ
+card_NN
+._.
+Visitors_NN
+were_VBD
+being_VBG [PASS]
+checked_VBN [PRIV]
+for_PIN
+their_TPP3
+identity_NOMZ
+card_NN
+,_,
+and_ANDC
+no_SYNE
+one_NN
+from_PIN
+outside_PLACE
+the_DT
+campus_NN
+was_VBD [PASS]
+allowed_VBN [SUAV]
+to_TO
+enter_VB
+._.
+Entering_VBG [PRESP]
+the_DT
+premises_NN
+was_VBD [BEMA]
+an_DT
+arduous_JJ
+task_NN
+even_RB
+for_PIN
+public_JJ
+transport_NN
+like_IN
+autos_NN
+and_PHC
+cabs_NN
+that_TSUB
+were_VBD
+being_VBG [PASS]
+checked_VBN [PRIV]
+thoroughly_AMP
+._.
+OB_NN
+vans_NN
+were_VBD [PASS]
+parked_VBN
+outside_PLACE
+the_DT
+main_JJ
+campus_NN
+as_IN
+journalists_NN
+attempted_VBN
+to_TO
+gain_VB
+access_NN
+,_,
+only_DWNT
+to_TO
+be_VB [BYPA]
+thwarted_VBN
+by_PIN
+the_DT
+guards_NN
+who_WP [WHSUB]
+parroted_VBD
+,_,
+``_``
+Monday_NN
+ko_FW
+aana_FW
+''_''
+again_TIME
+and_CC
+again_TIME
+._.
+On_PIN
+being_VBG [PASS]
+asked_VBN [SUAV]
+,_,
+one_CD
+of_PIN
+the_DT
+guards_NN
+on_PIN
+duty_NN
+refused_VBD
+to_TO
+be_VB [PASS]
+named_VBN
+said_VBD [PUBV]
+,_,
+``_``
+The_DT
+media_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+barred_VBN
+from_PIN
+entering_VBG
+the_DT
+university_NOMZ
+since_OSUB
+6_CD
+am_VPRT [BEMA]
+We_FPP1
+have_VPRT [PEAS]
+got_VBN
+orders_NN
+to_TO
+not_XX0
+allow_VB [SUAV]
+reporters_NN
+inside_PLACE
+._.
+''_''
+``_``
+Votes_NN
+are_VPRT
+being_VBG [PASS]
+counted_VBN
+inside_PLACE
+._.
+There_EX
+was_VBD
+some_QUAN
+hungama_NN
+also_RB
+._.
+Monday_NN
+is_VPRT [BEMA]
+the_DT
+best_JJ
+day_NN
+to_TO
+come_VB
+and_PHC
+meet_VB
+whoever_WP
+you_SPP2
+want_VPRT
+._.
+University_NOMZ
+will_PRMD
+remain_VB
+closed_JJ
+tomorrow_TIME
+also_RB
+,_,
+''_''
+another_DT
+guard_NN
+chipped_VBD
+in_PIN [STPR]
+._.
+The_DT
+students_NN
+'_POS
+body_NN
+poll_NN
+for_PIN
+JNU_NN
+was_VBD [PASS]
+conducted_VBN
+in_PIN
+a_DT
+keenly_RB
+fought_VBN
+contest_NN
+on_PIN
+Friday_NN
+,_,
+followed_VBN [PASTP]
+by_PIN
+the_DT
+counting_VBG
+which_WDT
+was_VBD [PASS]
+stopped_VBN
+midway_NN
+in_PIN
+the_DT
+wee_NN
+hours_NN
+of_PIN
+Saturday_NN
+._.

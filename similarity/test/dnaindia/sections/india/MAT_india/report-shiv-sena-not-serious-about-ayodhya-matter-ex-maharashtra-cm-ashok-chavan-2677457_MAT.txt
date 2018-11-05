@@ -1,0 +1,332 @@
+Former_JJ
+chief_NN
+minister_NN
+of_PIN
+Maharashtra_NN
+and_PHC
+Congress_NN
+leader_NN
+Ashok_NN
+Chavan_NN
+has_VPRT [PEAS]
+criticised_VBN
+the_DT
+Shiv_NN
+Sena_NN
+for_PIN
+not_XX0
+being_VBG [BEMA]
+serious_PRED
+about_IN
+the_DT
+Ayodhya_NN
+temple_NN
+matter_NN
+,_,
+adding_VBG [PUBV]
+that_THVC
+the_DT
+name_NN
+of_PIN
+the_DT
+temple_NN
+is_VPRT
+being_VBG [PASS]
+taken_VBN
+as_IN
+the_DT
+2019_CD
+general_JJ
+elections_NOMZ
+are_VPRT
+inching_VBG
+closer_RB
+._.
+Reacting_VBG [PRESP]
+on_PIN
+Shiv_NN
+Sena_NN
+chief_NN
+Uddhav_NN
+Thackeray_NN
+'s_POS
+upcoming_JJ
+visit_NN
+to_PIN
+Ayodhya_NN
+,_,
+Chavan_NN
+told_VBD
+ANI_NN
+on_PIN
+Saturday_NN
+,_,
+``_``
+Uddhav_NN
+Thackeray_NN
+is_VPRT
+giving_VBG
+new_JJ
+statements_NOMZ
+every_QUAN
+other_JJ
+day_NN
+._.
+The_DT
+Shiv_NN
+Sena_NN
+has_VPRT [SPAU] [PEAS]
+never_RB
+been_VBN [BEMA]
+serious_PRED
+on_PIN
+Ayodhya_NN
+matter_NN
+._.
+Ayodhya_NN
+name_NN
+is_VPRT
+being_VBG [PASS]
+taken_VBN
+again_TIME
+and_CC
+again_TIME
+because_CAUS
+elections_NOMZ
+are_VPRT
+approaching_VBG
+._.
+''_''
+Upset_VBN [PASTP]
+with_PIN
+the_DT
+delay_NN
+in_PIN
+the_DT
+construction_NOMZ
+of_PIN
+the_DT
+Ram_NN
+Temple_NN
+in_PIN
+Ayodhya_NN
+,_,
+Thackeray_NN
+,_,
+on_PIN
+October_NN
+18_CD
+,_,
+announced_VBD [PUBV]
+that_THVC
+he_TPP3
+would_PRMD
+visit_VB
+the_DT
+city_NOMZ
+on_PIN
+November_NN
+25_CD
+._.
+``_``
+We_FPP1
+warn_VPRT [PUBV]
+everyone_QUPR
+who_WP
+thinks_VPRT [PRIV]
+that_THVC
+Hindutva_NN
+has_VPRT [PEAS]
+died_VBN
+._.
+We_FPP1
+are_VPRT [BEMA]
+still_RB
+alive_PRED
+._.
+We_FPP1
+are_VPRT [PASS]
+saddened_VBN
+that_DEMO
+Ram_NN
+Temple_NN
+has_VPRT [PEAS]
+not_XX0
+been_VBN [PASS]
+constructed_VBN
+yet_RB
+._.
+I_FPP1
+will_PRMD
+visit_VB
+Ayodhya_NN
+on_PIN
+November_NN
+25_CD
+,_,
+''_''
+Thackeray_NN
+had_VBD [PEAS]
+said_VBN [PUBV]
+._.
+Meanwhile_RB
+,_,
+the_DT
+Congress_NN
+leader_NN
+also_RB
+responded_VBD
+to_PIN
+senior_JJ
+Shiv_NN
+Sena_NN
+leader_NN
+Sanjay_NN
+Raut_NN
+'s_POS
+recent_JJ
+remark_NN
+that_TOBJ
+the_DT
+Supreme_NN
+Court_NN
+can_POMD
+not_XX0
+solve_VB
+the_DT
+Ram_NN
+Temple_NN
+issue_NN
+because_CAUS
+it_PIT
+is_VPRT [BEMA]
+a_DT
+matter_NN
+of_PIN
+faith_NN
+._.
+Chavan_NN
+said_VBD [PUBV]
+,_,
+``_``
+Our_FPP1
+country_NN
+functions_NOMZ
+on_PIN
+the_DT
+basis_NN
+of_PIN
+the_DT
+Constitution_NOMZ
+._.
+Whatever_WDT
+decision_NN
+will_PRMD
+be_VB [BYPA]
+taken_VBN
+by_PIN
+courts_NN
+will_PRMD
+be_VB [BYPA]
+followed_VBN
+by_PIN
+the_DT
+entire_JJ
+nation_NOMZ
+._.
+''_''
+The_DT
+long-standing_JJ
+Ram_NN
+Mandir_NN
+matter_NN
+is_VPRT
+pending_VBG
+before_IN
+the_DT
+Supreme_NN
+Court_NN
+for_PIN
+its_PIT
+final_JJ
+resolution_NOMZ
+._.
+The_DT
+matter_NN
+will_PRMD [SPAU]
+next_RB
+be_VB [PASS]
+heard_VBN [PRIV]
+on_PIN
+October_NN
+29_CD
+._.
+Earlier_TIME
+,_,
+the_DT
+court_NN
+had_VBD [PEAS]
+asked_VBN [SUAV]
+the_DT
+stakeholders_NN
+of_PIN
+the_DT
+issue_NN
+to_TO
+resolve_VB [SUAV]
+the_DT
+matter_NN
+amicably_RB
+out_PIN
+of_PIN
+the_DT
+court_NN
+._.
+The_DT
+Babri_NN
+Masjid_NN
+,_,
+built_VBN [PASTP]
+by_PIN
+Mughal_NN
+emperor_NN
+Babur_NN
+in_PIN
+Ayodhya_NN
+in_PIN
+1528_CD
+,_,
+was_VBD
+,_,
+on_PIN
+December_NN
+6_CD
+,_,
+1992_CD
+,_,
+pulled_VBD
+down_RP
+allegedly_RB
+by_PIN
+a_DT
+group_NN
+of_PIN
+Hindu_NN
+activists_NN
+,_,
+claiming_VBG [PUBV]
+that_THVC
+the_DT
+mosque_NN
+was_VBD [PASS]
+constructed_VBN
+after_IN
+demolishing_VBG
+a_DT
+Ram_NN
+Temple_NN
+that_TSUB
+originally_TIME
+stood_VBD
+there_RB
+._.

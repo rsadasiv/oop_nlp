@@ -1,0 +1,443 @@
+A_DT
+Mumbai_NN
+court_NN
+on_PIN
+Wednesday_NN
+did_VBD
+n't_XX0 [CONT]
+pass_VB
+an_DT
+interim_JJ
+order_NN
+and_CC
+allowed_VBD [SUAV]
+writer-producer_NN
+,_,
+who_WP
+accused_VBD
+actor_NN
+Alok_NN
+Nath_NN
+of_PIN
+rape_NN
+and_PHC
+violence_NN
+,_,
+to_TO
+use_VB
+social_JJ
+media_NN
+to_TO
+comment_VB [PUBV]
+on_PIN
+the_DT
+ordeal_NN
+and_CC
+the_DT
+allegations_NOMZ
+against_PIN
+the_DT
+actor_NN
+._.
+While_OSUB
+hearing_VBG [PRIV]
+Alok_NN
+Nath_NN
+'s_POS
+defamation_NOMZ
+suit_NN
+,_,
+the_DT
+court_NN
+even_RB
+asked_VBD [SUAV] [THATD]
+the_DT
+lawyers_NN
+representing_VBG [WZPRES]
+the_DT
+actor_NN
+to_TO
+make_VB
+necessary_JJ
+amendments_NOMZ
+in_PIN
+the_DT
+suit_NN
+,_,
+as_IN
+there_EX
+were_VBD
+technical_JJ
+errors_NN
+in_PIN
+it_PIT
+._.
+Alok_NN
+Nath_NN
+'s_POS
+lawyer_NN
+asked_VBD [SUAV]
+for_PIN
+the_DT
+actor_NN
+'s_POS
+exemption_NOMZ
+to_TO
+be_VB [BEMA]
+present_PRED
+in_PIN
+the_DT
+court_NN
+,_,
+to_PIN
+which_WDT [PIRE]
+the_DT
+defense_NN
+objected_VBD [PUBV]
+stating_VBG [PUBV]
+that_THVC
+he_TPP3
+is_VPRT [BEMA]
+the_DT
+main_JJ
+person_NN
+and_CC
+needs_VPRT
+to_TO
+be_VB [BEMA]
+present_PRED
+._.
+The_DT
+court_NN
+also_RB
+objected_VBD [PUBV]
+to_PIN
+his_TPP3
+absence_NN
+and_CC
+asked_VBD [SUAV]
+him_TPP3
+to_TO
+be_VB [BEMA]
+present_PRED
+in_PIN
+the_DT
+next_JJ
+hearing_GER
+,_,
+which_WDT [SERE]
+is_VPRT [PASS]
+slated_VBN
+to_TO
+be_VB [PASS]
+held_VBN [PRIV]
+on_PIN
+October_NN
+25_CD
+._.
+Earlier_TIME
+on_PIN
+Wednesday_NN
+,_,
+the_DT
+writer_NN
+had_VBD [PEAS]
+lodged_VBN
+a_DT
+complaint_NN
+against_PIN
+Alok_NN
+Nath_NN
+for_PIN
+allegedly_RB
+raping_VBG
+and_CC
+sexually_RB
+harassing_VBG
+her_TPP3
+in_PIN
+the_DT
+90s_CD
+._.
+Speaking_VBG [PRESP]
+to_PIN
+ANI_NN
+outside_PLACE
+the_DT
+Oshiwara_NN
+police_NN
+station_NOMZ
+,_,
+she_TPP3
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+have_VPRT [PEAS]
+lodged_VBN
+a_DT
+complaint_NN
+,_,
+which_WDT [SERE]
+has_VPRT [PEAS]
+been_VBN [BYPA]
+accepted_VBN [PRIV]
+by_PIN
+the_DT
+police_NN
+._.
+The_DT
+officials_NN
+have_VPRT [PEAS]
+been_VBN [BEMA]
+really_EMPH
+helpful_PRED
+and_CC
+the_DT
+process_NN
+went_VBD
+easy_JJ
+and_PHC
+smooth_JJ
+._.
+''_''
+However_CONJ
+,_,
+she_TPP3
+said_VBD [PUBV]
+that_THVC
+it_PIT
+was_VBD [BEMA]
+n't_XX0 [CONT]
+easy_PRED
+to_TO
+recount_VB
+the_DT
+whole_JJ
+event_NN
+which_WDT [WHSUB]
+took_VBD
+place_NN
+almost_DWNT
+two_CD
+decades_NN
+ago_RB
+._.
+The_DT
+write-producer_NN
+has_VPRT [PEAS]
+accused_VBN
+Alok_NN
+Nath_NN
+of_PIN
+rape_NN
+and_CC
+narrated_VBD
+her_TPP3
+horrifying_JJ
+ordeal_NN
+in_PIN
+a_DT
+Facebook_NN
+post_NN
+._.
+She_TPP3
+was_VBD [BEMA]
+the_DT
+writer_NN
+and_PHC
+producer_NN
+of_PIN
+teleserial_NN
+Tara_NN
+in_PIN
+the_DT
+90s_CD
+,_,
+in_PIN
+which_WDT [PIRE]
+Nath_NN
+played_VBD
+a_DT
+lead_JJ
+role_NN
+._.
+In_PIN
+the_DT
+wake_NN
+of_PIN
+ongoing_JJ
+#MeToo_NN
+movement_NOMZ
+,_,
+Cine_NN
+and_PHC
+TV_NN
+Artists_NN
+Association_NOMZ
+-LRB-_-LRB-
+CINTAA_NN
+-RRB-_-RRB-
+in_PIN
+a_DT
+statement_NOMZ
+said_VBD [PUBV]
+that_THVC
+it_PIT
+has_VPRT [PEAS]
+ordered_VBN [SUAV]
+a_DT
+high_JJ
+-_:
+powered_VBD
+committee_NN
+to_TO
+look_VB
+into_PIN
+all_QUAN
+sexual_JJ
+harassment_NOMZ
+complaints_NN
+._.
+``_``
+Various_JJ
+steps_NN
+are_VPRT
+being_VBG [PASS]
+taken_VBN
+to_TO
+address_VB
+this_DEMO
+menace_NN
+,_,
+including_VBG
+but_CC
+not_XX0
+limited_VBN
+to_TO
+spreading_VBG
+awareness_NOMZ
+and_CC
+encouraging_VBG
+our_FPP1
+members_NN
+to_TO
+not_XX0
+suffer_VB
+in_PIN
+silence_NN
+._.
+Nationally_RB
+we_FPP1
+contribute_VPRT
+billions_NN
+of_PIN
+rupees_NN
+to_PIN
+the_DT
+government_NOMZ
+'s_POS
+coffers_NN
+,_,
+and_ANDC
+yet_RB
+we_FPP1
+are_VPRT [PASS]
+not_XX0
+even_RB
+recognized_VBN [PRIV]
+as_IN
+an_DT
+industry_NN
+,_,
+''_''
+the_DT
+statement_NOMZ
+read_NN
+._.
+``_``
+We_FPP1
+do_VPRT
+n't_XX0 [CONT]
+even_RB
+know_VB [PRIV]
+which_WDT [WHCL]
+Ministry_NN
+to_TO
+approach_VB
+to_TO
+solve_VB
+our_FPP1
+problems_NN
+;_:
+Information_NOMZ
+and_PHC
+Broadcasting_GER
+Ministry_NN
+,_,
+Labor_NN
+Ministry_NN
+or_CC
+Culture_NN
+Ministry_NN
+._.
+We_FPP1
+have_VPRT [SPAU] [PEAS]
+already_RB
+approached_VBN
+the_DT
+central_JJ
+government_NOMZ
+to_TO
+formulate_VB
+a_DT
+separate_JJ
+Act_NN
+for_PIN
+the_DT
+Entertainment_NOMZ
+and_PHC
+Media_NN
+Sectorm_NN
+,_,
+which_WDT [SERE]
+lays_VPRT
+down_IN
+the_DT
+working_GER
+conditions_NOMZ
+and_PHC
+rights_NN
+of_PIN
+all_QUAN
+the_DT
+people_NN
+working_VBG [WZPRES]
+in_PIN
+films_NN
+,_,
+television_NN
+,_,
+sports_NN
+broadcasting_GER
+,_,
+digital_JJ
+media_NN
+,_,
+live-performances_NN
+and_CC
+you_SPP2
+,_,
+our_FPP1
+friends_NN
+working_VBG [WZPRES]
+in_PIN
+the_DT
+News_NN
+sector_NN
+,_,
+''_''
+it_PIT
+further_RB
+added_VBN [PUBV]
+._.

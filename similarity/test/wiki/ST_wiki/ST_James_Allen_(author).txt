@@ -1,0 +1,25 @@
+James_NNP Allen_NNP -LRB-_-LRB- 28_CD November_NNP 1864_CD ''_'' 24_CD January_NNP 1912_CD -RRB-_-RRB- was_VBD a_DT British_JJ philosophical_JJ writer_NN known_VBN for_IN his_PRP$ inspirational_JJ books_NNS and_CC poetry_NN and_CC as_IN a_DT pioneer_NN of_IN the_DT self-help_JJ movement_NN ._.
+His_PRP$ best_JJS known_VBN work_NN ,_, As_IN a_DT Man_NN Thinketh_NNP ,_, has_VBZ been_VBN mass-produced_JJ since_IN its_PRP$ publication_NN in_IN 1903_CD ._.
+It_PRP has_VBZ been_VBN a_DT source_NN of_IN inspiration_NN to_TO motivational_JJ and_CC self-help_JJ authors_NNS ._.
+Born_VBN in_IN Leicester_NNP ,_, England_NNP ,_, into_IN a_DT working-class_JJ family_NN ,_, Allen_NNP was_VBD the_DT elder_JJR of_IN two_CD brothers_NNS ._.
+His_PRP$ mother_NN could_MD neither_RB read_VB nor_CC write_VB ._.
+His_PRP$ father_NN ,_, William_NNP ,_, was_VBD a_DT factory_NN knitter_NN ._.
+In_IN 1879_CD following_VBG a_DT downturn_NN in_IN the_DT textile_NN trade_NN of_IN central_JJ England_NNP ,_, Allen_NNP 's_POS father_NN traveled_VBD alone_RB to_TO America_NNP to_TO find_VB work_NN and_CC establish_VB a_DT new_JJ home_NN for_IN the_DT family_NN ._.
+Within_IN two_CD days_NNS of_IN arriving_VBG his_PRP$ father_NN was_VBD pronounced_VBN dead_JJ at_IN New_NNP York_NNP City_NNP Hospital_NNP ,_, believed_VBD to_TO be_VB a_DT case_NN of_IN robbery_NN and_CC murder_NN ._.
+At_IN age_NN fifteen_NN ,_, with_IN the_DT family_NN now_RB facing_VBG economic_JJ disaster_NN ,_, Allen_NNP was_VBD forced_VBN to_TO leave_VB school_NN and_CC find_VB work_NN ._.
+For_IN much_JJ of_IN the_DT 1890s_CD ,_, Allen_NNP worked_VBD as_IN a_DT private_JJ secretary_NN and_CC stationer_NN in_IN several_JJ British_JJ manufacturing_NN firms_NNS ._.
+In_IN 1893_CD Allen_NNP moved_VBD to_TO London_NNP and_CC later_RB to_TO South_NNP Wales_NNP ,_, earning_VBG his_PRP$ living_NN by_IN journalism_NN and_CC reporting_NN ._.
+In_IN South_NNP Wales_NNP he_PRP met_VBD Lily_NNP Louisa_NNP Oram_NNP -LRB-_-LRB- Lily_NNP L._NNP Allen_NNP -RRB-_-RRB- who_WP he_PRP then_RB wed_VBD in_IN 1895_CD ._.
+In_IN 1898_CD Allen_NNP found_VBD an_DT occupation_NN in_IN which_WDT he_PRP could_MD showcase_NN his_PRP$ spiritual_NN and_CC social_JJ interests_NNS as_IN a_DT writer_NN for_IN the_DT magazine_NN The_DT Herald_NNP of_IN the_DT Golden_NNP Age_NNP ._.
+At_IN this_DT time_NN ,_, Allen_NNP entered_VBD a_DT creative_JJ period_NN where_WRB he_PRP then_RB published_VBD his_PRP$ first_JJ of_IN many_JJ books_NNS ,_, From_IN Poverty_NN to_TO Power_NNP -LRB-_-LRB- 1901_CD -RRB-_-RRB- ._.
+In_IN 1902_CD Allen_NNP began_VBD to_TO publish_VB his_PRP$ own_JJ spiritual_JJ magazine_NN ,_, The_DT Light_NN of_IN Reason_NNP ,_, later_RB retitled_VBD The_DT Epoch_NNP ._.
+In_IN 1903_CD Allen_NNP published_VBD his_PRP$ third_JJ and_CC most_RBS famous_JJ book_NN As_IN a_DT Man_NN Thinketh_NNP ._.
+Loosely_RB based_VBN on_IN the_DT Biblical_NNP passage_NN of_IN Proverbs_NNS 23:7_CD ,_, ``_`` As_IN a_DT man_NN thinketh_NN in_IN his_PRP$ heart_NN ,_, so_RB is_VBZ he_PRP ,_, ''_'' the_DT small_JJ work_NN eventually_RB became_VBD read_VBN around_IN the_DT world_NN and_CC brought_VBD Allen_NNP posthumous_JJ fame_NN as_IN one_CD of_IN the_DT pioneering_JJ figures_NNS of_IN modern_JJ inspirational_JJ thought_NN ._.
+The_DT book_NN 's_POS minor_JJ audience_NN allowed_VBD Allen_NNP to_TO quit_VB his_PRP$ secretarial_JJ work_NN and_CC pursue_VB his_PRP$ writing_NN and_CC editing_NN career_NN ._.
+In_IN 1903_CD ,_, the_DT Allen_NNP family_NN retired_VBD to_TO the_DT town_NN of_IN Ilfracombe_NNP where_WRB Allen_NNP would_MD spend_VB the_DT rest_NN of_IN his_PRP$ life_NN ._.
+Continuing_VBG to_TO publish_VB the_DT Epoch_NNP ,_, Allen_NNP produced_VBD more_JJR than_IN one_CD book_NN per_IN year_NN until_IN his_PRP$ death_NN in_IN 1912_CD ._.
+There_EX he_PRP wrote_VBD for_IN nine_CD years_NNS ,_, producing_VBG 19_CD works_NNS ._.
+Following_VBG his_PRP$ death_NN in_IN 1912_CD ,_, his_PRP$ wife_NN continued_VBD publishing_VBG the_DT magazine_NN under_IN the_DT name_NN The_DT Epoch_NNP ._.
+Lily_NNP Allen_NNP summarised_VBD her_PRP$ husband_NN 's_POS literary_JJ mission_NN in_IN the_DT preface_NN to_TO one_CD of_IN his_PRP$ posthumously_RB published_VBN manuscripts_NNS ,_, Foundation_NNP Stones_NNP to_TO Happiness_NNP and_CC Success_NNP saying_VBG :_: ``_`` He_PRP never_RB wrote_VBD theories_NNS ,_, or_CC for_IN the_DT sake_NN of_IN writing_NN ;_: but_CC he_PRP wrote_VBD when_WRB he_PRP had_VBD a_DT message_NN ,_, and_CC it_PRP became_VBD a_DT message_NN only_RB when_WRB he_PRP had_VBD lived_VBN it_PRP out_RP in_IN his_PRP$ own_JJ life_NN ,_, and_CC knew_VBD that_IN it_PRP was_VBD good_JJ ._.
+Thus_RB he_PRP wrote_VBD facts_NNS ,_, which_WDT he_PRP had_VBD proven_VBN by_IN practice_NN ._. ''_''
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

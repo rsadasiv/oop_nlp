@@ -1,0 +1,6 @@
+Dna_NNP 's_POS editor-in-chief_NN CP_NNP Surendran_NNP on_IN Friday_NNP read_VBD from_IN his_PRP$ poetry_NN collection_NN `_`` Portraits_NNS of_IN the_DT Space_NNP We_PRP Occupy_VBP '_'' during_IN a_DT poetry_NN hour_NN at_IN the_DT Zee_NNP Jaipur_NNP Literature_NNP Fest_NNP ._.
+Surendran_NNP also_RB read_VBD new_JJ poems_NNS from_IN his_PRP$ in-progress_JJ collection_NN ,_, `_`` Repeat_NN Radio_NNP '_POS ._.
+His_PRP$ dominant_JJ themes_NNS included_VBD his_PRP$ nostalgic_JJ remembrance_NN of_IN his_PRP$ dead_JJ father_NN ,_, wonder_NN at_IN the_DT beauty_NN of_IN existence_NN ,_, and_CC the_DT fragility_NN of_IN life_NN ._.
+The_DT poetry_NN hour_NN also_RB included_VBD Ruth_NNP Padel_NNP ,_, Kevin_NNP Powers_NNP ,_, Aidan_NNP Singh_NNP Bhati_NNP ,_, Vishvjit_NNP Singh_NNP ,_, and_CC Ashok_NNP Vajpeyi_NNP ._.
+It_PRP was_VBD a_DT multi-lingual_JJ poetry_NN session_NN ,_, featuring_VBG the_DT use_NN of_IN Hindi_NNP and_CC Rajasthani_NNP besides_IN English_NNP ._.
+The_DT well-attended_JJ session_NN saw_VBD much_JJ applause_NN for_IN each_DT of_IN the_DT poets_NNS who_WP participated_VBD ._.

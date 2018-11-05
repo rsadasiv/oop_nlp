@@ -1,0 +1,207 @@
+Writer_NN
+Ushakumari_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+awarded_VBN
+the_DT
+prestigious_JJ
+OV_NN
+Vijayan_NN
+Literature_NN
+Award_NN
+instituted_VBN [WZPAST]
+by_PIN
+the_DT
+Naveena_NN
+Samskarika_NN
+Kala_NN
+Kendram_NN
+-LRB-_-LRB-
+NSKK_NN
+-RRB-_-RRB-
+for_PIN
+her_TPP3
+second_JJ
+novel_NN
+Chithirapurathe_NN
+Janaki_NN
+,_,
+reports_VPRT [PUBV]
+Malayalam_NN
+Manorama_NN
+._.
+Ushakumari_NN
+,_,
+who_WP
+has_VPRT [PEAS]
+been_VBN
+running_VBG
+a_DT
+textile_NN
+shop_NN
+for_PIN
+the_DT
+last_JJ
+12_CD
+years_NN
+,_,
+will_PRMD
+receive_VB
+a_DT
+cash_NN
+prize_NN
+of_PIN
+Rs_NN
+50,001_CD
+,_,
+a_DT
+statuette_NN
+sculptured_VBN [WZPAST]
+by_PIN
+noted_VBN [PRIV]
+sculptor_NN
+Kanayi_NN
+Kunhiraman_NN
+and_CC
+a_DT
+citation_NOMZ
+._.
+The_DT
+committee_NN
+that_TSUB
+decided_VBD [SUAV] [PRIV]
+the_DT
+winning_VBG
+novelist_NN
+included_VBD
+writers_NN
+NS_NN
+Madhavan_NN
+,_,
+Dr_NN
+Azad_NN
+and_PHC
+Usha_NN
+Nampoothirippad_NN
+._.
+They_TPP3
+felt_VBD [PRIV]
+Ushakumari_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+novel_NN
+about_IN
+a_DT
+woman_NN
+who_WP [WHSUB]
+lived_VBD
+in_PIN
+a_DT
+remote_JJ
+village_NN
+in_PIN
+the_DT
+hills_NN
+in_PIN
+21st_JJ
+century_NN
+Kerala_NN
+was_VBD [BEMA]
+compelling_PRED
+._.
+The_DT
+novel_NN
+is_VPRT
+Ushakumari_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT [BEMA]
+second_PRED
+one_CD
+post_NN
+Tharayum_NN
+Kanchanayum_NN
+Randu_NN
+Poralikal_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+._.
+The_DT
+writer_NN
+told_VBD
+Malayalam_NN
+Manorama_NN
+that_TOBJ
+Chithirapuram_NN
+is_VPRT [BEMA]
+one_CD
+her_TPP3
+favorite_JJ
+places_NN
+and_CC
+it_PIT
+somehow_RB
+captured_VBD
+her_TPP3
+mind_NN
+._.
+She_TPP3
+also_RB
+added_VBD [PUBV]
+that_THVC
+her_TPP3
+writing_GER
+was_VBD [BYPA]
+influenced_VBN
+by_PIN
+regular_JJ
+people_NN
+who_WP [WHSUB]
+passed_VBD
+by_PIN
+her_TPP3
+shop_NN
+every_QUAN
+day_NN
+._.
+Her_TPP3
+son_NN
+Udayaravi_NN
+was_VBD [BEMA]
+the_DT
+one_NN
+who_WP [WHSUB]
+had_VBD [PEAS]
+sent_VBN
+the_DT
+novel_NN
+to_PIN
+the_DT
+competition_NOMZ
+._.
+Her_TPP3
+husband_NN
+is_VPRT [BEMA]
+a_DT
+farmer_NN
+._.
+She_TPP3
+will_PRMD
+be_VB [PASS]
+presented_VBN
+the_DT
+award_NN
+on_PIN
+November_NN
+8_CD
+at_PIN
+Hyderabad_NN
+at_PIN
+the_DT
+NSKK_NN
+School_NN
+._.

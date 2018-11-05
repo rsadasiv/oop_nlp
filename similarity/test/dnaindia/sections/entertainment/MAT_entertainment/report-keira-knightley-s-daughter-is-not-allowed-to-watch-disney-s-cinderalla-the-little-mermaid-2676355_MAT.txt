@@ -1,0 +1,235 @@
+Actor_NN
+Keira_NN
+Knightley_NN
+says_VPRT [PUBV] [THATD]
+she_TPP3
+has_VPRT [PEAS]
+barred_VBN
+her_TPP3
+daughter_NN
+from_PIN
+watching_VBG
+Disney_NN
+films_NN
+Cinderella_NN
+and_CC
+The_DT
+Little_NN
+Mermaid_NN
+._.
+During_PIN
+her_TPP3
+appearance_NN
+on_PIN
+The_DT
+Ellen_NN
+DeGeneres_NN
+Show_NN
+,_,
+the_DT
+33-year-old_JJ
+actor_NN
+said_VBD [PUBV] [THATD]
+she_TPP3
+is_VPRT [BEMA]
+not_XX0
+a_DT
+fan_NN
+of_PIN
+every_QUAN
+Disney_NN
+film_NN
+._.
+Knightley_NN
+said_VBD [PUBV] [THATD]
+she_TPP3
+has_VPRT
+``_``
+banned_VBN
+''_''
+her_TPP3
+three-year-old_JJ
+daughter_NN
+,_,
+Edie_NN
+Knightley_NN
+Righton_NN
+,_,
+from_PIN
+watching_VBG
+1950_CD
+classic_JJ
+Cinderella_NN
+because_CAUS
+``_``
+she_TPP3
+waits_VPRT
+around_PLACE
+for_PIN
+a_DT
+rich_JJ
+guy_NN
+to_TO
+rescue_VB
+her_TPP3
+''_''
+._.
+``_``
+Do_VPRT
+n't_XX0 [CONT]
+!_.
+Rescue_NN
+yourself_SPP2
+._.
+Obviously_RB
+!_.
+''_''
+she_TPP3
+said_VBD [PUBV]
+._.
+``_``
+And_ANDC
+this_DEMP
+is_VPRT [BEMA]
+the_DT
+one_CD
+that_DEMO
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+quite_RB
+annoyed_PRED
+about_IN
+because_CAUS
+I_FPP1
+really_EMPH
+like_IN
+the_DT
+film_NN
+,_,
+but_CC
+Little_NN
+Mermaid_NN
+-LRB-_-LRB-
+is_VPRT [PASS]
+banned_VBN
+,_,
+too_RB
+-RRB-_-RRB-
+._.
+I_FPP1
+mean_VPRT [PRIV]
+,_,
+the_DT
+songs_NN
+are_VPRT [BEMA]
+great_PRED
+,_,
+but_CC
+do_VPRT
+not_XX0
+give_VB
+your_SPP2
+voice_NN
+up_RP
+for_PIN
+a_DT
+man_NN
+._.
+Hello_UH
+!_.
+But_CC
+the_DT
+problem_NN
+with_PIN
+The_DT
+Little_NN
+Mermaid_NN
+is_VPRT [BEMA]
+I_FPP1
+love_VPRT
+The_DT
+Little_JJ
+Mermaid_NN
+!_.
+That_DEMO
+one_NN
+'s_POS
+a_DT
+little_JJ
+tricky_JJ
+but_CC
+I_FPP1
+'m_VPRT [CONT]
+keeping_VBG
+to_PIN
+it_PIT
+,_,
+''_''
+she_TPP3
+added_VBD [PUBV]
+._.
+Knightley_NN
+,_,
+however_CONJ
+,_,
+said_VBD [PUBV]
+Disney_NN
+'s_POS
+Finding_GER
+Dory_NN
+is_VPRT [PASS]
+not_XX0
+banned_VBN
+and_PHC
+added_VBN [PUBV]
+that_THVC
+the_DT
+film_NN
+is_VPRT
+``_``
+a_DT
+big_JJ
+favorite_NN
+in_PIN
+our_FPP1
+house_NN
+''_''
+._.
+``_``
+Frozen_NN
+is_VPRT [BEMA]
+huge_PRED
+and_CC
+`_``
+Moana_NN
+'_''
+is_VPRT [BEMA]
+totally_AMP
+fine_PRED
+,_,
+''_''
+she_TPP3
+added_VBD [PUBV]
+._.
+Knightley_NN
+will_PRMD
+be_VB [BEMA]
+next_PRED
+seen_VBN [PRIV]
+in_PIN
+Disney_NN
+'s_POS
+The_DT
+Nutcracker_NN
+and_CC
+the_DT
+Four_CD
+Realms_NN
+,_,
+where_RB
+she_TPP3
+plays_VPRT
+Sugar_NN
+Plum_NN
+Fairy_NN
+._.

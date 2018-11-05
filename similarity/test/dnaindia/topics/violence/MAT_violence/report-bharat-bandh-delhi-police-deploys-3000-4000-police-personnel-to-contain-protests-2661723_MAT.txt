@@ -1,0 +1,307 @@
+The_DT
+Delhi_NN
+Police_NN
+had_VBD [PEAS]
+made_VBN
+elaborate_JJ
+arrangements_NOMZ
+in_PIN
+view_NN
+of_PIN
+the_DT
+Bharat_NN
+Bandh_NN
+in_PIN
+the_DT
+country_NN
+._.
+While_OSUB
+no_SYNE
+such_JJ
+incidents_NN
+of_PIN
+violence_NN
+or_CC
+destruction_NOMZ
+were_VBD [PASS]
+reported_VBN [PUBV]
+,_,
+protests_NN
+were_VBD [PASS]
+carried_VBN
+out_PIN
+in_PIN
+isolated_JJ
+parts_NN
+in_PIN
+the_DT
+National_NN
+Capital_NN
+._.
+The_DT
+Delhi_NN
+Police_NN
+had_VBD [PEAS]
+deployed_VBN
+adequate_JJ
+number_NN
+of_PIN
+force_NN
+on_PIN
+the_DT
+ground_NN
+and_CC
+regular_JJ
+patrolling_GER
+parties_NN
+were_VBD
+moving_VBG [SUAV]
+in_PIN
+their_TPP3
+areas_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+no_SYNE
+untoward_JJ
+incident_NN
+occurred_VBD
+anywhere_RB
+._.
+Delhi_NN
+has_VPRT
+14_CD
+districts_NN
+and_CC
+each_QUAN
+district_NN
+Deputy_NN
+Commissioner_NN
+of_PIN
+Police_NN
+'s_POS
+-LRB-_-LRB-
+DCP_NN
+'s_POS
+-RRB-_-RRB-
+had_VBD [PEAS]
+instructed_VBN [SUAV]
+the_DT
+officers_NN
+in_PIN
+the_DT
+area_NN
+to_TO
+be_VB [BEMA]
+present_PRED
+in_PIN
+the_DT
+area_NN
+all_QUAN
+the_DT
+time_NN
+._.
+``_``
+Around_PLACE
+3,000-4_CD
+,000_CD
+police_NN
+personnel_NN
+were_VBD [PASS]
+deployed_VBN
+to_TO
+ensure_VB [SUAV] [PRIV]
+law_NN
+and_PHC
+order_NN
+is_VPRT [PASS]
+maintained_VBN [PUBV]
+._.
+The_DT
+district_NN
+DCP_NN
+reserve_NN
+force_NN
+which_WDT [WHSUB]
+is_VPRT [BEMA]
+usually_RB
+present_PRED
+in_PIN
+the_DT
+area_NN
+as_IN
+a_DT
+backup_NN
+force_NN
+was_VBD [BEMA]
+also_RB
+out_PIN
+in_PIN
+the_DT
+area_NN
+and_CC
+was_VBD
+constantly_RB
+patrolling_GER
+as_RB
+well_RB
+,_,
+''_''
+said_VBD [PUBV]
+a_DT
+police_NN
+officer_NN
+._.
+The_DT
+Police_NN
+Control_NN
+Room_NN
+received_VBD
+around_PLACE
+14_CD
+calls_NN
+in_PIN
+connection_NOMZ
+with_PIN
+the_DT
+Bharat_NN
+Bandh_NN
+._.
+Around_PLACE
+three_CD
+or_CC
+four_CD
+calls_NN
+were_VBD
+about_IN
+traffic_NN
+jams_NN
+in_PIN
+South-East_NN
+Delhi_NN
+,_,
+Outer_NN
+and_PHC
+South-West_NN
+Delhi_NN
+._.
+The_DT
+police_NN
+officials_NN
+also_RB
+added_VBD [PUBV]
+that_THVC
+when_RB
+the_DT
+traffic_NN
+officials_NN
+reached_VBD
+the_DT
+location_NOMZ
+to_TO
+check_VB [PRIV]
+on_PIN
+ground_NN
+situations_NOMZ
+there_EX
+was_VBD
+a_DT
+smooth_JJ
+flow_NN
+of_PIN
+traffic_NN
+._.
+The_DT
+other_JJ
+calls_NN
+were_VBD [PASS]
+related_VBN
+to_PIN
+a_DT
+gathering_GER
+already_RB
+at_PIN
+a_DT
+place_NN
+or_CC
+about_IN
+people_NN
+gathering_VBG [PRIV] [WZPRES]
+up_RP
+._.
+Calls_NN
+regarding_VBG [WZPRES]
+the_DT
+gathering_GER
+of_PIN
+about_IN
+100-150_CD
+people_NN
+were_VBD [PASS]
+received_VBN
+from_PIN
+Samaypur_NN
+Badli_NN
+area_NN
+,_,
+Farsh_NN
+Bazar_NN
+,_,
+Amar_NN
+Colony_NN
+,_,
+IP_NN
+Estate_NN
+,_,
+Shahbad_NN
+Dairy_NN
+,_,
+Kalyanpuri_NN
+,_,
+and_ANDC
+others_NN
+._.
+As_IN
+per_PIN
+senior_JJ
+police_NN
+officers_NN
+,_,
+no_SYNE
+cases_NN
+of_PIN
+violence_NN
+were_VBD [PASS]
+reported_VBN [PUBV]
+._.
+``_``
+all_QUAN
+the_DT
+gatherings_GER
+were_VBD [BEMA]
+peaceful_PRED
+and_CC
+people_NN
+dispersed_VBD
+quietly_RB
+._.
+Force_NN
+was_VBD [PASS]
+deployed_VBN
+just_EMPH
+to_TO
+ensure_VB [SUAV] [PRIV]
+law_NN
+and_PHC
+order_NN
+in_PIN
+the_DT
+National_NN
+Capital_NN
+is_VPRT [PASS]
+maintained_VBN [PUBV]
+,_,
+''_''
+added_VBD [PUBV]
+the_DT
+officer_NN
+._.

@@ -1,0 +1,15 @@
+Animals with large brains may be more susceptible to mental disorders such as schizophrenia and Alzheimer's disease due to weaker long-distance connections, a new study suggests.
+In mammals, the cerebral cortex is responsible for sensory, motor, and cognitive functions. Understanding the organisation of the neuronal networks in the cortex should provide insights into the computations that they carry out.
+Researchers including those from Washington University in the US and Babes-Bolyai University in Romania showed that the global architecture of the cortical networks in primates (with large brains) and rodents (with small brains) is organised by common principles.
+Despite the overall network invariances, primate brains have much weaker long-distance connections, which could explain why large brains are more susceptible to certain mental illnesses such as schizophrenia and Alzheimer disease.
+In earlier work, researchers combined tracing studies in macaques, which visualise connections in the brain, with network theory to show that the cortical network structure in this primate is governed by the so-called exponential distance rule (EDR).
+The EDR describes a consistent relationship between distances and connection strength.
+Consistent with the tracing results, the EDR predicts that there are fewer long-range axons (nerve fibres that function as transmission lines of the nervous system) than short ones, and this can be quantified by a mathematical equation.
+At the level of cortical areas (such as visual cortex or auditory cortex) examined by the tracing studies, the closer two areas are to each other, the more connections exist between them.
+In this study, researchers compared the features of the cortical networks in the macaque - a mammal with a large cortex - with those in the mouse, with much smaller cortex.
+They used detailed tracing data to quantify connections between functional areas, and those formed the basis for the analysis.
+Despite the substantial differences in the cortex size between the species and other apparent differences in cortex organisation, they found that the fundamental statistical features of all networks followed the EDR.
+Researchers presented mathematical arguments that support the universal applicability of the EDR as a governing principle of cortical connectivity, as well as further experimental support from high-resolution tracer experiments in small brain areas from macaque, mouse and mouse lemur.
+As the EDR predicts and the tracing data confirmed, neuronal connections weaken exponentially with distance.
+Assuming the EDR can be applied to all mammalian brains, the study suggests that long-distance connections could be quite weak in the human cortex, which is approximately five times larger than that of the macaque.
+The low weight of human long-range connections may contribute to an increased susceptibility to disconnection syndromes, such as have been proposed for Alzheimer disease and schizophrenia, researchers suggest. The study was published in the journal PLOS Biology.

@@ -1,0 +1,631 @@
+Good_JJ
+morning_GER
+folks_NN
+,_,
+How_RB
+are_VPRT [BEMA]
+me_FPP1
+brothers_NN
+and_PHC
+sisters_NN
+,_,
+friends_NN
+and_PHC
+foe_NN
+'s_POS
+?_.
+I_FPP1
+pray_VPRT [SUAV] [THATD]
+you_SPP2
+are_VPRT [PASS]
+blessed_VBN
+!_.
+I_FPP1
+have_VPRT [PEAS]
+been_VBN [PASS]
+requested_VBN [SUAV]
+to_TO
+write_VB [PUBV]
+._.
+I_FPP1
+accepted_VBD [PRIV]
+,_,
+but_CC
+I_FPP1
+warn_VPRT [PUBV]
+you_SPP2
+I_FPP1
+be_VB [BEMA]
+poor_JJ
+writer_NN
+._.
+I_FPP1
+have_VPRT
+only_DWNT
+me_FPP1
+self_NN
+to_TO
+blame_VB
+._.
+I_FPP1
+pray_VPRT [SUAV]
+to_TO
+bring_VB
+glory_NN
+and_PHC
+honor_NN
+to_PIN
+our_FPP1
+Lord_NN
+who_WP [WHOBJ]
+art_NN
+in_PIN
+heaven_NN
+._.
+Amen_UH
+and_CC
+amen_NN
+!_.
+Somthing_VBG [PRESP]
+that_DEMO
+so_RB
+many_QUAN
+today_TIME
+are_VPRT
+missing_VBG
+is_VPRT [BEMA]
+a_DT
+real_JJ
+drive_NN
+and_PHC
+goal_NN
+thier_JJ
+life_NN
+._.
+You_SPP2
+might_POMD
+say_VB [PUBV] [THATD]
+this_DEMP
+is_VPRT
+because_CAUS
+the_DT
+majority_NOMZ
+of_PIN
+the_DT
+globe_NN
+is_VPRT [SPAU]
+still_RB
+missing_VBG
+the_DT
+one_CD
+and_CC
+only_DWNT
+life_NN
+fulfilling_VBG [WZPRES]
+element_NOMZ
+called_VBN
+--_:
+GOD_NN
+!_.
+No_SYNE
+doubt_NN
+,_,
+this_DEMP
+is_VPRT [BEMA]
+the_DT
+real_JJ
+source_NN
+of_PIN
+the_DT
+problem_NN
+,_,
+yet_RB
+even_RB
+amongst_PIN
+the_DT
+Christian_NN
+community_NOMZ
+there_EX
+still_RB
+remains_VPRT
+a_DT
+large_JJ
+body_NN
+of_PIN
+individuals_NN
+who_WP [WHSUB]
+lack_VPRT
+a_DT
+passion_NN
+for_PIN
+life_NN
+._.
+I_FPP1
+believe_VPRT [PRIV] [THATD]
+this_DEMP
+is_VPRT [BEMA]
+a_DT
+very_AMP
+destructive_JJ
+and_CC
+yes_RB
+,_,
+even_RB
+an_DT
+unbiblical_JJ
+predicament_NOMZ
+for_PIN
+our_FPP1
+nation_NOMZ
+,_,
+and_ANDC
+especially_RB
+for_PIN
+the_DT
+Church_NN
+._.
+Let_NN
+'s_POS
+pray_NN
+for_PIN
+a_DT
+revitalization_JJ
+of_PIN
+our_FPP1
+passion_NN
+for_PIN
+Christ_NN
+and_CC
+his_TPP3
+word_NN
+!_.
+Also_RB
+,_,
+would_PRMD
+you_SPP2
+leave_VB
+a_DT
+comment_NOMZ
+on_PIN
+this_DEMO
+post_NN
+to_TO
+show_VB [PRIV] [THATD]
+you_SPP2
+support_VB
+and_CC
+participation_NOMZ
+in_PIN
+this_DEMO
+goal_NN
+for_PIN
+America_NN
+&_CC
+the_DT
+Church_NN
+?_.
+I_FPP1
+would_PRMD
+ask_VB [SUAV]
+that_THVC
+you_SPP2
+take_VPRT
+a_DT
+few_QUAN
+minutes_NN
+to_TO
+read_VB
+the_DT
+following_JJ
+article_NN
+by_PIN
+David_NN
+Jeremiah_NN
+._.
+Simply_RB
+put_VBN
+,_,
+its_PIT
+an_DT
+a_DT
+very_AMP
+enouraging_VBG
+and_PHC
+motivating_VBG
+take_VB
+on_PIN
+what_WP
+i_FPP1
+was_VBD
+talking_VBG
+about_IN
+above_PLACE
+._.
+I_FPP1
+would_PRMD [SPAU]
+HIGHLY_AMP
+recommend_VB [SUAV]
+this_DEMO
+article_NN
+,_,
+it_PIT
+definitely_RB
+inspired_VBD
+me_FPP1
+--_:
+and_ANDC
+i_FPP1
+know_VPRT [PRIV] [THATD]
+it_PIT
+will_PRMD
+do_VB [PROD]
+the_DT
+same_JJ
+for_PIN
+you_SPP2
+._.
+CLICK_NN
+HERE_RB
+TO_PIN
+VIEW_NN
+THE_DT
+ARTICLE_NN
+._.
+Colossians_NN
+3:23_CD
+-24_CD
+:_:
+``_``
+And_ANDC
+whatever_WDT
+you_SPP2
+do_VPRT
+,_,
+do_VPRT
+it_PIT
+heartily_RB
+,_,
+as_IN
+to_PIN
+the_DT
+Lord_NN
+and_CC
+not_XX0
+to_PIN
+men_NN
+,_,
+knowing_VBG [PRIV]
+that_THVC
+from_PIN
+the_DT
+Lord_NN
+you_SPP2
+will_PRMD
+receive_VB
+the_DT
+reward_NN
+of_PIN
+the_DT
+inheritance_NN
+;_:
+for_PIN
+you_SPP2
+serve_VPRT
+the_DT
+Lord_NN
+Christ_NN
+._.
+''_''
+In_PIN
+1913_CD
+,_,
+the_DT
+first_JJ
+direct_JJ
+federal-income-tax_NN
+was_VBD [PASS]
+imposed_VBN
+upon_PIN
+your_SPP2
+pocketbook_NN
+by_PIN
+Congress_NN
+._.
+This_DEMO
+motion_NOMZ
+succeeded_VBD
+only_DWNT
+after_IN
+the_DT
+much_QUAN
+debated_VBN
+16th_JJ
+Amendment_NOMZ
+had_VBD [PEAS]
+been_VBN [PASS]
+ratified_VBN
+and_PHC
+accepted_VBN [PRIV]
+by_PIN
+the_DT
+states_NN
+._.
+-LRB-_-LRB-
+An_DT
+action_NOMZ
+that_DEMP
+is_VPRT [SPAU] [PASS]
+now_TIME
+thought_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+been_VBN [SPAU] [PASS]
+unlawfully_RB
+executed_VBN
+!_.
+-RRB-_-RRB-
+Anyhow_DPAR
+,_,
+the_DT
+original_JJ
+income_NN
+tax_NN
+was_VBD [BEMA]
+INCREDIBLY_RB
+low_PRED
+--_:
+only_DWNT
+a_DT
+mere_JJ
+,_,
+yet_RB
+principally_RB
+wrong_JJ
+,_,
+ONE-PERCENT_NN
+!_.
+Moreover_CONJ
+,_,
+this_DEMO
+tax_NN
+was_VBD [BEMA]
+only_DWNT
+applicable_PRED
+to_PIN
+incomes_NN
+in_PIN
+excess_NN
+of_PIN
+$_$
+20,000_CD
+-LRB-_-LRB-
+1913_CD
+-RRB-_-RRB-
+,_,
+which_WDT [SERE]
+calculates_VPRT [PRIV]
+out_PIN
+to_PIN
+a_DT
+little_JJ
+under_IN
+$_$
+400,000_CD
+in_PIN
+2004_CD
+,_,
+after_IN
+being_VBG [PASS]
+adjusted_VBN
+for_PIN
+inflation_NOMZ
+._.
+Suprising_VBG
+?_.
+I_FPP1
+thought_VBD [PRIV]
+so_RB
+._.
+The_DT
+Founding_VBG
+Fathers_NN
+had_VBD [PEAS]
+forseen_VBN
+the_DT
+possibility_NOMZ
+of_PIN
+Congress_NN
+instating_VBG [WZPRES]
+taxes_NN
+for_PIN
+essential_JJ
+purposes_NN
+,_,
+yet_RB
+they_TPP3
+were_VBD [PASS]
+horrified_VBN
+at_PIN
+the_DT
+suggestion_NOMZ
+of_PIN
+a_DT
+Massachusets_NN
+Senator_NN
+who_WP [WHSUB]
+implied_VBD [PRIV]
+that_THVC
+Congress_NN
+may_POMD
+,_,
+at_PIN
+one_CD
+time_NN
+,_,
+abuse_NN
+the_DT
+Constitutonal_NN
+ability_NOMZ
+to_TO
+lay_VB
+taxes_NN
+-LRB-_-LRB-
+section_NOMZ
+8_CD
+,_,
+clause_NN
+1_CD
+-RRB-_-RRB-
+by_PIN
+levying_VBG
+a_DT
+direct_JJ
+income_NN
+tax_NN
+._.
+Additionally_RB
+,_,
+when_RB
+that_DEMO
+Senator_NN
+suggested_VBD [SUAV] [PUBV]
+that_THVC
+the_DT
+aforesaid_JJ
+tax_NN
+could_POMD
+reach_VB
+levels_NN
+as_RB
+high_JJ
+as_IN
+20_CD
+%_NN
+,_,
+he_TPP3
+was_VBD [BEMA]
+flaty_PRED
+refuted_VBN
+by_PIN
+Alexander_NN
+Hamilton_NN
+who_WP [WHSUB]
+angrily_RB
+stated_VBD [PUBV]
+that_THVC
+no_DT
+elected_VBN
+Congress_NN
+could_POMD [SPAU]
+possibly_RB
+be_VB [SPAU]
+so_RB
+lacking_VBG
+in_PIN
+fairness_NOMZ
+,_,
+justice_NN
+and_PHC
+patriotism_NN
+._.
+Nevertheless_CONJ
+,_,
+we_FPP1
+have_VPRT [PEAS]
+seen_VBN [PRIV] [THATD]
+the_DT
+Feds_NN
+pulling_VBG [WZPRES]
+up_RP
+SIXTY-FIVE_JJ
+percent_NN
+of_PIN
+your_SPP2
+annual_JJ
+paycheck_NN
+!_.
+-LRB-_-LRB-
+1970_CD
+'s_POS
+-RRB-_-RRB-
+So_RB
+,_,
+what_WP
+all_QUAN
+this_DEMO
+really_EMPH
+means_VPRT [PRIV]
+is_VPRT [BEMA]
+this_DEMP
+:_:
+every_QUAN
+year_NN
+,_,
+hundreds_NN
+of_PIN
+millions_NN
+of_PIN
+Americans_NN
+citizens_NN
+are_VPRT [SPAU] [BYPA]
+financially_RB
+plundered_VBN
+by_PIN
+the_DT
+very_AMP
+governing_VBG
+body_NN
+they_TPP3
+elected_VBD
+to_PIN
+office_NN
+._.
+Unless_COND
+you_SPP2
+make_VPRT
+over_IN
+370_CD
+grand_JJ
+a_DT
+year_NN
+,_,
+your_SPP2
+filing_NN
+1040_CD
+'s_POS
+that_DEMO
+our_FPP1
+Founding_VBG
+Fathers_NN
+would_PRMD
+riot_NN
+over_IN
+._.
+Your_SPP2
+welcome_JJ
+._.
+Have_VPRT
+a_DT
+great_JJ
+day_NN
+._.
+:_:
+-RRB-_-RRB-
+What_WP [WHQU]
+is_VPRT [BEMA]
+a_DT
+blog_NN
+?_.
+Hey_NN
+ya_PRP
+'ll_PRMD [CONT]
+!_.
+This_DEMO
+a_DT
+test_NN
+run_VB
+for_PIN
+an_DT
+upcoming_JJ
+blog_NN
+._.

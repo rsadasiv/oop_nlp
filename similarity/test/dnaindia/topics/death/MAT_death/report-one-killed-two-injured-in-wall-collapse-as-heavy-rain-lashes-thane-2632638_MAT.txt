@@ -1,0 +1,182 @@
+A_DT
+35-year-old_JJ
+man_NN
+was_VBD [PASS]
+killed_VBN
+and_CC
+two_CD
+other_JJ
+persons_NN
+were_VBD [SPAU] [PASS]
+seriously_RB
+injured_VBN
+when_RB
+the_DT
+compound_NN
+wall_NN
+of_PIN
+a_DT
+housing_GER
+society_NN
+collapsed_VBD
+amid_PIN
+heavy_JJ
+rains_NN
+in_PIN
+the_DT
+city_NOMZ
+,_,
+an_DT
+official_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+30-ft_JJ
+long_JJ
+compound_NN
+wall_NN
+of_PIN
+the_DT
+society_NN
+,_,
+located_VBN [PASTP]
+in_PIN
+Patlipada_NN
+area_NN
+on_PIN
+the_DT
+city_NOMZ
+'s_POS
+Ghodbunder_NN
+Road_NN
+,_,
+collapsed_VBD
+on_PIN
+houses_NN
+situated_VBN [WZPAST]
+in_PIN
+the_DT
+vicinity_NOMZ
+around_PLACE
+midnight_NN
+yesterday_TIME
+,_,
+Thane_NN
+Municipal_NN
+Corporation_NOMZ
+'s_POS
+Regional_NN
+Disaster_NN
+Management_NOMZ
+Cell_NN
+chief_NN
+Santosh_NN
+Kadam_NN
+said_VBD [PUBV]
+._.
+One_CD
+person_NN
+,_,
+identified_VBN
+as_IN
+Prakash_NN
+Sakharam_NN
+Wavale_NN
+,_,
+died_VBD
+on_PIN
+the_DT
+spot_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.
+A_DT
+29-year-old_JJ
+woman_NN
+and_CC
+a_DT
+10-year-old_JJ
+boy_NN
+sustained_VBD
+serious_JJ
+injuries_NN
+and_CC
+were_VBD [PASS]
+admitted_VBN [PUBV]
+to_PIN
+the_DT
+Chhatrapati_NN
+Shivaji_NN
+Maharaj_NN
+Hospital_NN
+in_PIN
+Kalwa_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.
+Four_CD
+houses_NN
+located_VBN
+next_JJ
+to_PIN
+the_DT
+compound_NN
+wall_NN
+suffered_VBD
+damages_NN
+,_,
+Kadam_NN
+said_VBD [PUBV]
+,_,
+adding_VBG [PUBV]
+that_THVC
+five_CD
+houses_NN
+near_PLACE
+the_DT
+mishap_NN
+site_NN
+were_VBD [PASS]
+evacuated_VBN
+._.
+As_IN
+a_DT
+precautionary_JJ
+measure_NN
+,_,
+the_DT
+remaining_VBG
+portion_NOMZ
+of_PIN
+the_DT
+compound_NN
+wall_NN
+,_,
+which_WDT [SERE]
+could_POMD
+pose_VB
+a_DT
+danger_NN
+to_PIN
+people_NN
+living_VBG [WZPRES]
+in_PIN
+the_DT
+vicinity_NOMZ
+,_,
+was_VBD [BYPA]
+demolished_VBN
+by_PIN
+the_DT
+civic_JJ
+and_CC
+fire_NN
+brigade_NN
+personnel_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.

@@ -1,0 +1,22 @@
+John_NNP Barrow_NNP -LRB-_-LRB- fl_NN ._.
+1735_CD ``_`` 1774_CD -RRB-_-RRB- was_VBD an_DT English_JJ mathematician_NN ,_, naval_JJ historian_NN and_CC lexicographer_NN ._.
+Nothing_NN is_VBZ known_VBN of_IN Barrow_NNP 's_POS family_NN ._.
+He_PRP was_VBD initially_RB a_DT teacher_NN of_IN mathematics_NNS and_CC navigation_NN aboard_IN ships_NNS of_IN the_DT Royal_NNP Navy_NNP ._.
+He_PRP retired_VBD before_IN 1750_CD and_CC devoted_JJ himself_PRP to_TO writing_VBG and_CC compiling_VBG dictionaries_NNS and_CC other_JJ works_NNS related_VBN to_TO his_PRP$ knowledge_NN of_IN mathematics_NNS and_CC science_NN ._.
+Barrow_NNP 's_POS best-known_JJ work_NN was_VBD Navigatio_NNP Britannica_NNP -LRB-_-LRB- 1750_CD -RRB-_-RRB- ,_, a_DT practical_JJ handbook_NN of_IN navigation_NN and_CC charts_NNS still_RB being_VBG advertised_VBN by_IN its_PRP$ publisher_NN ,_, Mount_NNP &_CC Page_NNP ,_, in_IN 1787_CD ._.
+It_PRP included_VBD an_DT examination_NN of_IN nautical_JJ instruments_NNS and_CC explained_VBD the_DT recently_RB introduced_VBN vernier_JJR scale_NN ._.
+Barrow_NNP seems_VBZ to_TO have_VB been_VBN in_IN close_JJ touch_NN with_IN nautical_JJ instrument_NN makers_NNS while_IN he_PRP was_VBD a_DT naval_JJ instructor_NN ._.
+It_PRP was_VBD not_RB realized_VBN until_IN the_DT 20th_JJ century_NN that_WDT John_NNP Barrow_NNP the_DT ``_`` geographical_JJ compiler_NN ''_'' mentioned_VBN in_IN the_DT British_JJ Dictionary_NNP of_IN National_NNP Biography_NNP -LRB-_-LRB- 1885_CD onwards_NNS -RRB-_-RRB- and_CC the_DT teacher_NN of_IN mathematics_NNS were_VBD the_DT same_JJ person_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1756_CD he_PRP published_VBD a_DT geographical_JJ dictionary_JJ anonymously_RB in_IN London_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN the_DT same_JJ year_NN ,_, he_PRP also_RB published_VBD the_DT first_JJ edition_NN of_IN his_PRP$ principal_JJ work_NN ,_, <sup>_VBP ~_CD </sup>_JJ A_DT Chronological_NNP Abridgment_NNP or_CC History_NN of_IN the_DT Discoveries_NNPS made_VBN by_IN Europeans_NNPS in_IN the_DT different_JJ parts_NNS of_IN the_DT world_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP In_IN his_PRP$ introduction_NN ,_, Barrow_NNP shows_VBZ a_DT considerable_JJ knowledge_NN of_IN astronomical_JJ geography_NN ,_, so_RB far_RB as_IN relates_VBZ to_TO the_DT finding_NN of_IN latitude_NN and_CC longitude_NN by_IN the_DT stars_NNS ._.
+The_DT French_JJ translation_NN seems_VBZ to_TO have_VB had_VBN more_RBR repute_JJ than_IN the_DT original_JJ work_NN ,_, but_CC even_RB in_IN France_NNP Barrow_NNP 's_POS History_NN of_IN Discoveries_NNPS was_VBD in_IN a_DT few_JJ years_NNS superseded_VBN by_IN that_DT of_IN the_DT Abbé_NNP Prévost_NNP ._.
+The_DT voyages_NNS selected_VBN by_IN Barrow_NNP are_VBP those_DT of_IN Columbus_NNP ,_, Vasco_NNP da_NNP Gama_NNP ,_, Cabral_NNP ,_, Sir_NNP Francis_NNP Drake_NNP ,_, Sir_NNP Walter_NNP Raleigh_NNP ,_, Sir_NNP Thomas_NNP Cavendish_NNP ,_, Olivier_NNP van_NNP Noort_NNP ,_, Joris_NNP van_NNP Spilbergen_NNP ,_, Abel_NNP Tasman_NNP ,_, William_NNP Dampier_NNP ,_, Lionel_NNP Wafer_NNP ,_, Woodes_NNP Rogers_NNP ,_, Francisco_NNP de_IN Ulloa_NNP ,_, Lord_NNP Anson_NNP ,_, Henry_NNP Ellis_NNP ,_, and_CC others_NNS ._.
+The_DT second_JJ edition_NN of_IN the_DT latter_JJ compilation_NN appeared_VBD in_IN 1765_CD ,_, and_CC was_VBD so_RB successful_JJ that_IN in_IN the_DT year_NN following_VBG a_DT French_JJ translation_NN ,_, by_IN Targe_NNP ,_, was_VBD published_VBN at_IN Paris_NNP ,_, in_IN twelve_CD volumes_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP created_VBD illustrations_NNS for_IN Sketches_NNP Representing_VBG the_DT Native_NNP Tribes_NNP ,_, Animals_NNS ,_, and_CC Scenery_NNP of_IN Southern_NNP Africa_NNP ,_, working_VBG alongside_IN Samuel_NNP Daniell_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Anderson_NNP ,_, Robert_NNP Edward_NNP -LRB-_-LRB- 1885_CD -RRB-_-RRB- ._.
+``_`` Barrow_NNP ,_, John_NNP -LRB-_-LRB- fl_NN .1756_CD -RRB-_-RRB- ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+3_LS ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

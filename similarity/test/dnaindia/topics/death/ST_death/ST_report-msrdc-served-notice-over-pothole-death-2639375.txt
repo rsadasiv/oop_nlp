@@ -1,0 +1,6 @@
+The_DT truck_NN driver_NN whose_WP$ truck_NN fell_VBD on_IN a_DT rickshaw_NN in_IN Kalyan_NNP ,_, thereby_RB killing_VBG one_CD passenger_NN and_CC injuring_VBG three_CD ,_, have_VBP told_VBN cops_NNS that_IN it_PRP was_VBD due_JJ to_TO a_DT pothole_NN on_IN the_DT road_NN ._.
+The_DT Kongaon_NNP police_NNS have_VBP issued_VBN notice_NN to_TO MSRDC_NNP contractor_NN on_IN why_WRB a_DT case_NN should_MD not_RB be_VB filed_VBN against_IN them_PRP for_IN negligence_NN ._.
+On_IN July_NNP 10_CD around_IN 8am_CD ,_, an_DT overloaded_JJ truck_NN carrying_VBG cattle_NNS feed_VB waded_VBN through_IN a_DT pothole_NN on_IN Kalyan_NNP 's_POS Kongaon_NNP road_NN ._.
+The_DT truck_NN which_WDT went_VBD through_IN the_DT 1.5_CD feet_NNS pothole_VBP lost_VBN balance_NN and_CC the_DT sacks_NNS of_IN cattle_NNS feed_NN fell_VBD on_IN a_DT rickshaw_NN behind_IN it_PRP ._.
+This_DT injured_JJ three_CD passengers_NNS and_CC the_DT driver_NN and_CC one_CD of_IN the_DT passengers_NNS ,_, Hasim_NNP Sheikh_NNP ,_, who_WP were_VBD injured_VBN ,_, died_VBD ._.
+The_DT Kongaon_NNP police_NN has_VBZ issued_VBN summons_NN to_TO MSRDC_NNP under_IN section_NN 91_CD of_IN the_DT CrPC_NNP asking_VBG for_IN documents_NNS of_IN the_DT road_NN ._.

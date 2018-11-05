@@ -1,0 +1,616 @@
+Speaking_VBG [PRESP]
+to_PIN
+Naipaul_NN
+about_IN
+his_TPP3
+life_NN
+and_PHC
+writings_GER
+was_VBD
+Farrukh_NN
+Dhondy_NN
+,_,
+his_TPP3
+long-time_JJ
+friend_NN
+and_CC
+eminent_JJ
+British_JJ
+novelist_NN
+and_PHC
+scriptwriter_NN
+,_,
+even_RB
+as_IN
+his_TPP3
+wife_NN
+,_,
+Lady_NN
+Nadira_NN
+,_,
+sat_VBD
+in_PIN
+a_DT
+chair_NN
+behind_PLACE
+him_TPP3
+,_,
+taking_VBG
+notes_NN
+,_,
+holding_VBG [PRIV] [PRESP]
+the_DT
+microphone_NN
+when_RB
+he_TPP3
+became_VBD
+too_RB
+tired_JJ
+to_TO
+hold_VB [PRIV]
+it_PIT
+,_,
+and_ANDC
+prompting_VBG
+the_DT
+words_NN
+when_RB
+he_TPP3
+forgot_VBD [PRIV]
+what_WP [WHCL]
+he_TPP3
+was_VBD
+saying_VBG [PUBV]
+or_CC
+ran_VBD
+out_PIN
+of_PIN
+steam_NN
+._.
+He_TPP3
+may_POMD
+be_VB [BEMA]
+old_PRED
+or_CC
+ill_JJ
+,_,
+but_CC
+Naipaul_NN
+hasn_VPRT
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+run_VBN
+out_PIN
+of_PIN
+steam_NN
+or_CC
+his_TPP3
+sense_NN
+of_PIN
+droll_NN
+._.
+oeI_NN
+don_VPRT
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+like_IN
+to_TO
+talk_VB
+about_IN
+sunsets_NN
+,_,
+''_''
+he_TPP3
+told_VBD
+Dhondy_NN
+who_WP [WHSUB]
+suggested_VBD [SUAV] [PUBV]
+,_,
+by_PIN
+way_NN
+of_PIN
+opening_VBG
+line_NN
+,_,
+that_THVC
+they_TPP3
+pretend_VPRT [PRIV]
+there_EX
+were_VBD
+sitting_VBG
+in_PIN
+their_TPP3
+homes_NN
+in_PIN
+England_NN
+,_,
+sipping_VBG
+wine_NN
+and_CC
+looking_VBG
+at_PIN
+the_DT
+birds_NN
+at_PIN
+sunset_NN
+._.
+oeIt_NN
+can_POMD
+be_VB [PASS]
+used_VBN
+against_PIN
+me_FPP1
+to_TO
+infer_VB [PRIV]
+that_THVC
+I_FPP1
+am_VPRT [BEMA]
+in_PIN
+the_DT
+sunset_NN
+of_PIN
+my_FPP1
+life_NN
+._.
+Unhappy_JJ
+metaphor_NN
+,_,
+''_''
+Naipaul_NN
+replied_VBD [PUBV]
+,_,
+much_QUAN
+to_PIN
+the_DT
+amusement_NOMZ
+of_PIN
+the_DT
+full_JJ
+house_NN
+at_PIN
+the_DT
+Rajnigandha_NN
+Front_NN
+Lawns_NN
+._.
+The_DT
+conversation_NOMZ
+,_,
+with_PIN
+Dhondy_NN
+filling_VBG [WZPRES]
+in_PIN
+every_QUAN
+time_NN
+Naipaul_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+memory_NN
+of_PIN
+events_NN
+or_CC
+anecdotes_NN
+seemed_VBD [SMP]
+to_TO
+fail_VB
+him_TPP3
+,_,
+ranged_VBD
+over_IN
+how_RB
+Naipaul_NN
+came_VBD
+to_TO
+be_VB [PASS]
+born_VBN
+in_PIN
+Trinidad_NN
+-LRB-_-LRB-
+oeI_NN
+can_POMD
+assure_VB
+you_SPP2
+I_FPP1
+had_VBD
+nothing_INPR
+to_TO
+do_VB [PROD]
+with_PIN
+it_PIT
+,_,
+''_''
+-RRB-_-RRB-
+,_,
+to_PIN
+how_RB
+he_TPP3
+came_VBD
+to_TO
+be_VB [BEMA]
+a_DT
+writer_NN
+,_,
+his_TPP3
+early_TIME
+comic_JJ
+novels_NN
+set_VBN [WZPAST]
+in_PIN
+the_DT
+Caribbean_NN
+,_,
+the_DT
+Caribbean_NN
+authors_NN
+he_TPP3
+admires_VPRT
+and_CC
+the_DT
+ones_NN
+he_TPP3
+doesn_VBD
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_NN
+,_,
+and_ANDC
+India_NN
+,_,
+a_DT
+subject_NN
+on_PIN
+which_WDT [PIRE]
+Naipaul_NN
+has_VPRT [PEAS]
+written_VBN [PUBV]
+three_CD
+books_NN
+-_:
+An_DT
+Area_NN
+of_PIN
+Darkness_NOMZ
+-LRB-_-LRB-
+1964_CD
+-RRB-_-RRB-
+,_,
+India_NN
+:_:
+A_NN
+Wounded_NN
+Civilisation_NOMZ
+-LRB-_-LRB-
+1977_CD
+-RRB-_-RRB-
+and_ANDC
+India_NN
+:_:
+A_DT
+Million_NN
+Mutanies_NN
+Now_TIME
+-LRB-_-LRB-
+1990_CD
+-RRB-_-RRB-
+._.
+All_QUAN
+three_CD
+books_NN
+were_VBD [BEMA]
+hugely_RB
+controversial_PRED
+when_RB
+they_TPP3
+came_VBD
+out_PIN [STPR]
+,_,
+with_PIN
+Indian_JJ
+readers_NN
+taking_VBG [WZPRES]
+exception_NOMZ
+to_PIN
+Naipaul_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT [BEMA]
+unsparing_JJ
+critical_JJ
+eye_NN
+that_TSUB
+homed_VBD
+in_PIN
+on_PIN
+the_DT
+chaos_NN
+and_PHC
+dysfunction_NOMZ
+on_PIN
+the_DT
+streets_NN
+,_,
+the_DT
+filth_NN
+and_CC
+oepublic_JJ
+nuisance_NN
+''_''
+,_,
+and_ANDC
+the_DT
+venal_JJ
+hypocrisy_NN
+of_PIN
+the_DT
+politicians_NN
+._.
+Speaking_VBG [PRESP]
+now_TIME
+,_,
+Naipaul_NN
+says_VPRT [PUBV]
+the_DT
+title_NN
+oearea_NN
+of_PIN
+darkness_NOMZ
+''_''
+was_VBD [BEMA]
+not_XX0
+a_DT
+description_NOMZ
+of_PIN
+India_NN
+,_,
+but_CC
+a_DT
+reference_NN
+to_PIN
+the_DT
+oedark_NN
+place_NN
+''_''
+,_,
+a_DT
+place_NN
+that_TOBJ
+he_TPP3
+had_VBD [SPAU] [PEAS]
+never_RB
+seen_VBN [PRIV]
+but_CC
+one_CD
+that_DEMP
+had_VBD [PEAS]
+been_VBN [BEMA]
+a_DT
+presence_NN
+all_QUAN
+his_TPP3
+life_NN
+._.
+As_IN
+such_JJ
+,_,
+Naipaul_NN
+said_VBD [PUBV] [THATD]
+he_TPP3
+was_VBD [BYPA]
+bewildered_VBN
+by_PIN
+the_DT
+reaction_NOMZ
+._.
+oeIt_NN
+was_VBD [PASS]
+written_VBN [PUBV]
+with_PIN
+a_DT
+desire_NN
+to_TO
+be_VB [BEMA]
+true_PRED
+to_PIN
+the_DT
+visual_JJ
+facts_NN
+._.
+I_FPP1
+learned_VBD [PRIV]
+to_TO
+live_VB
+with_PIN
+it_PIT
+._.
+''_''
+To_PIN
+which_WDT [PIRE]
+his_TPP3
+wife_NN
+added_VBD [PUBV]
+the_DT
+story_NN
+about_IN
+how_RB
+Naipaul_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+mother_NN
+,_,
+who_WP
+only_DWNT
+knew_VBD [PRIV]
+the_DT
+one_CD
+Hindi_NN
+word_NN
+beta_NN
+,_,
+had_VBD [PEAS]
+told_VBN
+him_TPP3
+not_XX0
+to_TO
+worry_VB
+about_IN
+the_DT
+Indians_NN
+._.
+oeLeave_NN
+India_NN
+to_PIN
+the_DT
+Indians_NN
+beta_NN
+,_,
+''_''
+she_TPP3
+is_VPRT [PASS]
+supposed_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+told_VBN
+him_TPP3
+._.
+Modesty_NN
+or_CC
+hindsight_NN
+,_,
+Naipaul_NN
+also_RB
+seemed_VBD [SMP]
+keen_JJ
+to_TO
+demystify_VB
+the_DT
+oegreat_NN
+writer_NN
+''_''
+myth_NN
+._.
+Writing_VBG [PUBV]
+,_,
+he_TPP3
+claimed_VBD [PUBV]
+,_,
+was_VBD
+as_IN
+oehard_NN
+for_PIN
+me_FPP1
+as_IN
+it_PIT
+is_VPRT [BEMA]
+for_PIN
+most_EMPH
+people_NN
+in_PIN
+the_DT
+audience_NN
+._.
+His_TPP3
+writing_GER
+,_,
+and_ANDC
+the_DT
+success_NN
+of_PIN
+his_TPP3
+books_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+,_,
+were_VBD [BEMA]
+a_DT
+oegreat_NN
+bit_NN
+of_PIN
+luck_NN
+''_''
+._.
+His_TPP3
+first_JJ
+book_NN
+he_TPP3
+wrote_VBD [PUBV]
+,_,
+Miguel_NN
+Street_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+,_,
+he_TPP3
+<sup>_VBD
+TM_NN
+</sup>_NN
+d_SYM
+taken_VBN
+to_PIN
+an_DT
+English_JJ
+critic_NN
+who_WP [WHSUB]
+told_VBD
+him_TPP3
+to_TO
+give_VB
+it_PIT
+up_RB
+and_CC
+do_VB
+something_QUPR
+else_RB
+._.
+The_DT
+only_DWNT
+reason_NN
+he_TPP3
+<sup>_VBD
+TM_NN
+</sup>_NN
+d_SYM
+stuck_VBD
+to_TO
+writing_VBG [PUBV]
+was_VBD [BEMA]
+his_TPP3
+oeinordinate_JJ
+confidence_NN
+and_PHC
+faith_NN
+in_PIN
+my_FPP1
+talent_NN
+._.
+I_FPP1
+felt_VBD [PRIV]
+that_THVC
+if_COND
+I_FPP1
+didnt_VPRT
+stay_VB
+true_JJ
+to_PIN
+my_FPP1
+talent_NN
+that_TSUB
+would_PRMD
+be_VB [BEMA]
+the_DT
+end_NN
+of_PIN
+me_FPP1
+''_''
+._.

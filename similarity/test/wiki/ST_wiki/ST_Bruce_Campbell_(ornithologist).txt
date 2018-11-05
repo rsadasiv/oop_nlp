@@ -1,0 +1,15 @@
+Bruce_NNP Campbell_NNP -LRB-_-LRB- 15_CD June_NNP 1912_CD ''_'' 9_CD January_NNP 1993_CD -RRB-_-RRB- was_VBD an_DT English_JJ ornithologist_NN ,_, writer_NN and_CC broadcaster_NN ,_, closely_RB associated_VBN with_IN the_DT British_NNP Trust_NNP for_IN Ornithology_NNP -LRB-_-LRB- BTO_NNP -RRB-_-RRB- ._.
+Campbell_NNP was_VBD born_VBN in_IN Southsea_NNP ,_, Hampshire_NNP on_IN 15_CD June_NNP 1912_CD ._.
+As_IN a_DT young_JJ boy_NN ,_, he_PRP was_VBD influenced_VBN by_IN his_PRP$ father_NN ,_, an_DT army_NN officer_NN ,_, birds-nester_NN and_CC egg-collector_NN ,_, who_WP later_RB became_VBD the_DT British_JJ Army_NNP 's_POS Inspector_NNP of_IN Physical_NNP Training_NNP ._.
+After_IN education_NN at_IN Winchester_NNP College_NNP ,_, he_PRP studied_VBD at_IN the_DT University_NNP of_IN Edinburgh_NNP ,_, obtaining_VBG a_DT BSc_NNP in_IN forestry_NN ._.
+He_PRP later_RB gained_VBD a_DT doctorate_NN in_IN comparative_JJ bird_NN studies_NNS ,_, so_RB becoming_VBG one_CD of_IN the_DT first_JJ field_NN naturalists_NNS to_TO also_RB be_VB a_DT trained_JJ scientist_NN ._.
+In_IN 1938_CD ,_, he_PRP married_VBD Margaret_NNP Gibson-Hill_NNP ,_, herself_PRP a_DT writer_NN ,_, with_IN whom_WP he_PRP had_VBD two_CD sons_NNS and_CC one_CD daughter_NN ._.
+From_IN 1936_CD to_TO 1948_CD ,_, he_PRP was_VBD a_DT teacher_NN and_CC university_NN lecturer_NN ._.
+After_IN World_NNP War_NNP II_NNP ,_, he_PRP brought_VBD the_DT work_NN of_IN sound_JJ recordist_NN Ludwig_NNP Koch_NNP to_TO the_DT attention_NN of_IN the_DT BTO_NNP ._.
+In_IN 1948_CD ,_, Campbell_NNP was_VBD appointed_VBN the_DT first_JJ full-time_JJ secretary_NN of_IN the_DT BTO_NNP ,_, a_DT post_NN he_PRP held_VBD until_IN 1959_CD ._.
+He_PRP served_VBD on_IN the_DT panel_NN of_IN the_DT Wildlife_NNP Collection_NNP with_IN Julian_NNP Huxley_NNP ,_, and_CC was_VBD active_JJ in_IN the_DT British_JJ Ornithologists_NNS '_POS Union_NNP ,_, the_DT British_JJ Ecological_NNP Society_NNP ,_, and_CC conservation_NN bodies_NNS ._.
+He_PRP conducted_VBD a_DT pioneering_JJ study_NN of_IN the_DT pied_VBN flycatcher_NN at_IN the_DT Nagshead_NNP woodland_NN reserve_NN ,_, Gloucestershire_NNP ._.
+He_PRP made_VBD radio_NN and_CC television_NN broadcasts_NNS relating_VBG to_TO natural_JJ history_NN for_IN the_DT BBC_NNP during_IN the_DT 1950s_CD ._.
+In_IN April_NNP 1959_CD ,_, despite_IN his_PRP$ having_VBG had_VBD no_DT previous_JJ experience_NN as_IN a_DT producer_NN ,_, he_PRP was_VBD appointed_VBN senior_JJ producer_NN at_IN the_DT BBC_NNP Natural_NNP History_NN Unit_NN in_IN Bristol_NNP ,_, a_DT position_NN he_PRP held_VBD until_IN 1962_CD ._.
+He_PRP died_VBD on_IN 9_CD January_NNP 1993_CD in_IN Witney_NNP ,_, Oxfordshire_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB-

@@ -1,0 +1,56 @@
+Dame_NNP Beryl_NNP Margaret_NNP Bainbridge_NNP DBE_NNP -LRB-_-LRB- 21_CD November_NNP 1932_CD ''_'' 2_CD July_NNP 2010_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN from_IN Liverpool_NNP ._.
+She_PRP was_VBD primarily_RB known_VBN for_IN her_PRP$ works_NNS of_IN psychological_JJ fiction_NN ,_, often_RB macabre_JJ tales_NNS set_VBN among_IN the_DT English_NNP working_VBG class_NN ._.
+Bainbridge_NNP won_VBD the_DT Whitbread_NNP Awards_NNPS prize_NN for_IN best_JJS novel_NN in_IN 1977_CD and_CC 1996_CD ;_: she_PRP was_VBD nominated_VBN five_CD times_NNS for_IN the_DT Booker_NNP Prize_NNP ._.
+She_PRP was_VBD described_VBN in_IN 2007_CD as_IN ``_`` a_DT national_JJ treasure_NN ''_'' ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 2008_CD ,_, The_DT Times_NNP named_VBD Bainbridge_NNP on_IN their_PRP$ list_NN of_IN ``_`` The_DT 50_CD greatest_JJS British_JJ writers_NNS since_IN 1945_CD ''_'' ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Beryl_NNP Bainbridge_NNP was_VBD born_VBN in_IN Liverpool_NNP and_CC brought_VBD up_RP in_IN nearby_JJ Formby_NNP ._.
+Her_PRP$ parents_NNS were_VBD Richard_NNP Bainbridge_NNP and_CC Winifred_NNP Baines_NNP ._.
+Although_IN she_PRP gave_VBD her_PRP$ date_NN of_IN birth_NN in_IN Who_WP 's_VBZ Who_WP and_CC elsewhere_RB as_IN 21_CD November_NNP 1934_CD ,_, she_PRP was_VBD born_VBN in_IN 1932_CD and_CC her_PRP$ birth_NN was_VBD registered_VBN in_IN the_DT first_JJ quarter_NN of_IN 1933_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- When_WRB German_JJ former_JJ prisoner_NN of_IN war_NN Harry_NNP Arno_NNP Franz_NNP wrote_VBD to_TO her_PRP$ in_IN November_NNP 1947_CD ,_, he_PRP mentioned_VBD her_PRP$ 15th_JJ birthday_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- She_PRP enjoyed_VBD writing_VBG ,_, and_CC by_IN the_DT age_NN of_IN 10_CD she_PRP was_VBD keeping_VBG a_DT diary_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- She_PRP had_VBD elocution_NN lessons_NNS and_CC ,_, when_WRB she_PRP was_VBD 11_CD ,_, appeared_VBD on_IN the_DT Northern_NNP Children_NNP 's_POS Hour_NNP radio_NN show_NN ,_, alongside_IN Billie_NNP Whitelaw_NNP and_CC Judith_NNP Chalmers_NNP ._.
+Bainbridge_NNP was_VBD expelled_VBN from_IN Merchant_NN Taylors_NNS '_POS Girls_NNS '_POS School_NNP -LRB-_-LRB- Crosby_NNP -RRB-_-RRB- because_IN she_PRP was_VBD caught_VBN with_IN a_DT ``_`` dirty_JJ rhyme_NN ''_'' -LRB-_-LRB- as_IN she_PRP later_RB described_VBD it_PRP -RRB-_-RRB- ,_, written_VBN by_IN someone_NN else_RB ,_, in_IN her_PRP$ gymslip_NN pocket_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- She_PRP then_RB went_VBD on_IN to_TO study_VB at_IN Cone-Ripman_NNP School_NNP ,_, Tring_NNP ,_, Hertfordshire_NNP -LRB-_-LRB- now_RB Tring_NNP Park_NNP School_NNP for_IN the_DT Performing_VBG Arts_NNS -RRB-_-RRB- ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- where_WRB she_PRP found_VBD she_PRP was_VBD good_JJ at_IN history_NN ,_, English_NNP and_CC art_NN ._.
+The_DT summer_NN she_PRP left_VBD school_NN ,_, she_PRP fell_VBD in_IN love_NN with_IN a_DT former_JJ German_JJ POW_NNP who_WP was_VBD waiting_VBG to_TO be_VB repatriated_VBN ._.
+For_IN the_DT next_JJ six_CD years_NNS ,_, the_DT couple_NN corresponded_VBD and_CC tried_VBD to_TO get_VB permission_NN for_IN the_DT German_JJ man_NN to_TO return_VB to_TO Britain_NNP so_IN that_IN they_PRP could_MD be_VB married_VBN ._.
+But_CC permission_NN was_VBD denied_VBN and_CC the_DT relationship_NN ended_VBN in_IN 1953_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- In_IN the_DT following_JJ year_NN -LRB-_-LRB- 1954_CD -RRB-_-RRB- ,_, Beryl_NNP married_VBD artist_NN Austin_NNP Davies_NNP ._.
+The_DT two_CD divorced_VBN soon_RB after_IN ,_, leaving_VBG Bainbridge_NNP a_DT single_JJ mother_NN of_IN two_CD children_NNS ._.
+She_PRP later_RB had_VBD a_DT third_JJ child_NN by_IN Alan_NNP Sharp_NNP ,_, the_DT actress_NN Rudi_NNP Davies_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Sharp_NNP ,_, a_DT Scotsman_NNP ,_, was_VBD at_IN the_DT start_NN of_IN his_PRP$ career_NN as_IN novelist_NN and_CC screenwriter_NN ;_: Beryl_NNP would_MD later_RB let_VB it_PRP be_VB thought_VBN that_IN he_PRP was_VBD her_PRP$ second_JJ husband_NN ;_: in_IN truth_NN ,_, they_PRP never_RB married_JJ but_CC the_DT relationship_NN encouraged_VBD her_PRP$ on_IN her_PRP$ way_NN to_TO fiction_NN ._.
+In_IN 1958_CD ,_, she_PRP attempted_VBD suicide_NN by_IN putting_VBG her_PRP$ head_NN in_IN a_DT gas_NN oven_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Bainbridge_NNP spent_VBD her_PRP$ early_JJ years_NNS working_VBG as_IN an_DT actress_NN ,_, and_CC she_PRP appeared_VBD in_IN one_CD 1961_CD episode_NN of_IN the_DT soap_NN opera_NN Coronation_NNP Street_NNP playing_VBG an_DT anti-nuclear_JJ protester_NN ._.
+To_TO help_VB fill_VB her_PRP$ time_NN ,_, Bainbridge_NNP began_VBD to_TO write_VB ,_, primarily_RB based_VBN on_IN incidents_NNS from_IN her_PRP$ childhood_NN ._.
+Her_PRP$ first_JJ novel_NN ,_, Harriet_NNP Said_NNP ..._: ,_, was_VBD rejected_VBN by_IN several_JJ publishers_NNS ,_, one_CD of_IN whom_WP found_VBD the_DT central_JJ characters_NNS ``_`` repulsive_JJ almost_RB beyond_IN belief_NN ''_'' ._.
+It_PRP was_VBD eventually_RB published_VBN in_IN 1972_CD ,_, four_CD years_NNS after_IN her_PRP$ third_JJ novel_NN -LRB-_-LRB- Another_DT Part_NN of_IN the_DT Wood_NNP -RRB-_-RRB- ._.
+Her_PRP$ second_JJ and_CC third_JJ novels_NNS were_VBD published_VBN -LRB-_-LRB- 1967\/68_CD -RRB-_-RRB- and_CC were_VBD received_VBN well_RB by_IN critics_NNS although_IN they_PRP failed_VBD to_TO earn_VB much_JJ money_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- -LRB-_-LRB- 9_CD -RRB-_-RRB- Seven_CD more_JJR novels_NNS were_VBD written_VBN and_CC published_VBN during_IN the_DT 1970s_NNS ,_, of_IN which_WDT the_DT fifth_JJ ,_, Injury_NNP Time_NNP ,_, was_VBD awarded_VBN the_DT Whitbread_NNP prize_NN for_IN best_JJS novel_NN in_IN 1977_CD ._.
+In_IN the_DT late_JJ 1970s_NNS ,_, she_PRP wrote_VBD a_DT screenplay_NN based_VBN on_IN her_PRP$ novel_NN Sweet_NNP William_NNP ._.
+The_DT resulting_VBG film_NN ,_, starring_VBG Sam_NNP Waterston_NNP ,_, was_VBD released_VBN in_IN 1980_CD ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- From_IN 1980_CD onwards_NNS ,_, eight_CD more_JJR novels_NNS appeared_VBD ._.
+The_DT 1989_CD novel_NN ,_, An_DT Awfully_RB Big_JJ Adventure_NN ,_, was_VBD adapted_VBN into_IN a_DT film_NN in_IN 1995_CD ,_, starring_VBG Alan_NNP Rickman_NNP and_CC Hugh_NNP Grant_NNP ._.
+In_IN the_DT 1990s_CD ,_, Bainbridge_NNP turned_VBD to_TO historical_JJ fiction_NN ._.
+These_DT novels_NNS continued_VBD to_TO be_VB popular_JJ with_IN critics_NNS ,_, but_CC this_DT time_NN ,_, were_VBD also_RB commercially_RB successful_JJ ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Among_IN her_PRP$ historical_JJ fiction_NN novels_NNS are_VBP Every_DT Man_NN for_IN Himself_PRP ,_, about_IN the_DT 1912_CD Titanic_NNP disaster_NN ,_, for_IN which_WDT Bainbridge_NNP won_VBD the_DT 1996_CD Whitbread_NNP Awards_NNP prize_NN for_IN best_JJS novel_NN ,_, and_CC Master_NNP Georgie_NNP ,_, set_VBN during_IN the_DT Crimean_NNP War_NNP ,_, for_IN which_WDT she_PRP won_VBD the_DT 1998_CD James_NNP Tait_NNP Black_NNP Memorial_NNP Prize_NNP for_IN fiction_NN ._.
+Her_PRP$ final_JJ novel_NN ,_, According_VBG to_TO Queeney_NNP ,_, is_VBZ a_DT fictionalized_JJ account_NN of_IN the_DT last_JJ years_NNS of_IN the_DT life_NN of_IN Samuel_NNP Johnson_NNP as_IN seen_VBN through_IN the_DT eyes_NNS of_IN Queeney_NNP Thrale_NNP ,_, eldest_JJ daughter_NN of_IN Henry_NNP and_CC Hester_NNP Thrale_NNP ._.
+The_DT Observer_NNP referred_VBD to_TO it_PRP as_IN a_DT ''_'' ..._: highly_RB intelligent_JJ ,_, sophisticated_JJ and_CC entertaining_JJ novel_NN ''_'' ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- From_IN the_DT 1990s_CD ,_, Bainbridge_NNP also_RB served_VBD as_IN a_DT theater_NN critic_NN for_IN the_DT monthly_JJ magazine_NN The_DT Oldie_NNP ._.
+Her_PRP$ reviews_NNS rarely_RB contained_VBD negative_JJ content_NN ,_, and_CC were_VBD usually_RB published_VBN after_IN the_DT play_NN had_VBD closed_VBN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- In_IN 2000_CD ,_, she_PRP was_VBD appointed_VBN Dame_NNP Commander_NNP of_IN the_DT Order_NN of_IN the_DT British_JJ Empire_NNP -LRB-_-LRB- DBE_NNP -RRB-_-RRB- ._.
+In_IN June_NNP 2001_CD ,_, Bainbridge_NNP was_VBD awarded_VBN an_DT honorary_JJ degree_NN by_IN the_DT Open_NNP University_NNP as_IN Doctor_NNP of_IN the_DT University_NNP ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- In_IN 2003_CD ,_, she_PRP was_VBD awarded_VBN the_DT David_NNP Cohen_NNP Prize_NNP for_IN Literature_NNP together_RB with_IN Thom_NNP Gunn_NNP ._.
+In_IN 2005_CD ,_, the_DT British_JJ Library_NNP acquired_VBD many_JJ of_IN Bainbridge_NNP 's_POS private_JJ letters_NNS and_CC diaries_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- In_IN 2011_CD ,_, she_PRP was_VBD posthumously_RB awarded_VBN a_DT special_JJ honor_NN by_IN the_DT Booker_NNP Prize_NNP committee_NN ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- Mark_NNP Knopfler_NNP included_VBD a_DT song_NN titled_VBN `_`` Beryl_NNP '_'' dedicated_VBN to_TO her_PRP$ and_CC her_PRP$ posthumous_JJ award_NN on_IN his_PRP$ 2015_CD album_NN Tracker_NNP ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- In_IN 2003_CD ,_, Bainbridge_NNP 's_POS grandson_NN Charlie_NNP Russell_NNP began_VBD filming_VBG a_DT documentary_NN ,_, Beryl_NNP 's_POS Last_JJ Year_NN ,_, about_IN her_PRP$ life_NN ._.
+The_DT documentary_NN detailed_VBN her_PRP$ upbringing_NN and_CC her_PRP$ attempts_NNS to_TO write_VB a_DT novel_NN ,_, Dear_NNP Brutus_NNP -LRB-_-LRB- which_WDT later_RB became_VBD The_DT Girl_NNP in_IN the_DT Polka_NNP Dot_NNP Dress_NNP -RRB-_-RRB- ;_: it_PRP was_VBD broadcast_VBN in_IN the_DT United_NNP Kingdom_NNP on_IN 2_CD June_NNP 2007_CD on_IN BBC_NNP Four_NNP ._.
+In_IN 2009_CD ,_, Beryl_NNP Bainbridge_NNP donated_VBD the_DT short_JJ story_NN Goodnight_NNP Children_NNP ,_, Everywhere_RB to_TO Oxfam_NNP 's_POS Ox-Tales_NNP project_NN ,_, four_CD collections_NNS of_IN UK_NNP stories_NNS written_VBN by_IN 38_CD authors_NNS ._.
+Her_PRP$ story_NN was_VBD published_VBN in_IN the_DT `_`` Air_NNP '_'' collection_NN ._.
+Bainbridge_NNP was_VBD the_DT patron_NN of_IN the_DT People_NNS 's_POS Book_NN Prize_NNP ._.
+Bainbridge_NNP was_VBD still_RB working_VBG on_IN The_DT Girl_NNP in_IN the_DT Polka_NNP Dot_NNP Dress_NNP at_IN the_DT time_NN of_IN her_PRP$ death_NN ._.
+The_DT novel_NN ,_, which_WDT was_VBD based_VBN on_IN a_DT real-life_JJ journey_NN Bainbridge_NNP made_VBD across_IN America_NNP in_IN 1968_CD ,_, is_VBZ about_IN the_DT mystery_NN girl_NN reputed_VBD to_TO have_VB been_VBN involved_VBN in_IN the_DT assassination_NN of_IN Robert_NNP Kennedy_NNP ._.
+The_DT novel_NN ,_, which_WDT was_VBD published_VBN in_IN May_NNP 2011_CD by_IN Little_NNP ,_, Brown_NNP ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- was_VBD edited_VBN for_IN publication_NN by_IN Brendan_NNP King_NNP ,_, whose_WP$ biography_NN Beryl_NNP Bainbridge_NNP :_: Love_NNP by_IN All_DT Sorts_NNS of_IN Means_NNP was_VBD published_VBN in_IN September_NNP 2016_CD ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- Bainbridge_NNP died_VBD on_IN 2_CD July_NNP 2010_CD ,_, aged_VBN 77_CD ,_, in_IN a_DT London_NNP hospital_NN after_IN her_PRP$ cancer_NN recurred_VBD ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- -LRB-_-LRB- 18_CD -RRB-_-RRB- Confusion_NN over_IN her_PRP$ birth_NN year_NN resulted_VBD in_IN some_DT reports_NNS giving_VBG her_PRP$ age_NN at_IN death_NN as_IN 75_CD ._.
+-LRB-_-LRB- 19_CD -RRB-_-RRB- She_PRP is_VBZ buried_VBN in_IN Highgate_NNP Cemetery_NNP ._.

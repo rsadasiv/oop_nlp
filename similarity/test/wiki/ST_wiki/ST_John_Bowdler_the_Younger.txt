@@ -1,0 +1,20 @@
+John_NNP Bowdler_NNP the_DT Younger_NNP -LRB-_-LRB- 2_CD February_NNP 1783_SYM -_: 1_CD February_NNP 1815_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ essayist_NN ,_, poet_NN and_CC lawyer_NN ._.
+John_NNP Bowdler_NNP was_VBD the_DT younger_JJR son_NN of_IN John_NNP Bowdler_NNP the_DT elder_JJR ._.
+He_PRP was_VBD born_VBN in_IN London_NNP on_IN 2_CD February_NNP 1783_CD ._.
+He_PRP had_VBD a_DT brother_NN ,_, Thomas_NNP Bowdler_NNP the_DT younger_JJR ._.
+He_PRP was_VBD educated_VBN at_IN Sevenoaks_NNP School_NNP ,_, Hyde_NNP Abbey_NNP School_NNP ,_, and_CC Winchester_NNP College_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1798_CD he_PRP was_VBD placed_VBN in_IN a_DT London_NNP solicitor_NN 's_POS office_NN ._.
+In_IN 1807_CD he_PRP was_VBD called_VBN to_TO the_DT bar_NN at_IN Lincoln_NNP 's_POS Inn_NNP ,_, made_VBD some_DT progress_NN in_IN his_PRP$ profession_NN ,_, and_CC attracted_VBD the_DT notice_NN of_IN Lord-Chancellor_NNP Eldon_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1810_CD he_PRP began_VBD to_TO show_VB signs_NNS of_IN tuberculosis_NN ,_, and_CC for_IN the_DT sake_NN of_IN his_PRP$ health_NN spent_VBD the_DT two_CD following_JJ years_NNS in_IN southern_JJ Europe_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN May_NNP 1812_CD ,_, he_PRP returned_VBD to_TO Britain_NNP ,_, and_CC lived_VBD with_IN an_DT aunt_NN near_IN Portsmouth_NNP ;_: but_CC his_PRP$ health_NN was_VBD not_RB restored_VBN ,_, Bowdler_NNP died_VBD on_IN 1_CD February_NNP 1815_CD ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Bowdler_NNP engaged_VBD in_IN literary_JJ pursuits_NNS during_IN his_PRP$ illness_NN ,_, and_CC in_IN 1816_CD his_PRP$ father_NN published_VBD his_PRP$ Select_NNP Pieces_NNP in_IN Prose_NNP and_CC Verse_NNP -LRB-_-LRB- 2_CD vols_NNS ._. -RRB-_-RRB-
+This_DT book_NN contained_VBD a_DT memoir_NN and_CC the_DT journal_NN kept_VBN by_IN Bowdler_NNP during_IN his_PRP$ tour_NN of_IN 1810_CD -_: 1812_CD ,_, as_RB well_RB as_IN an_DT exposition_NN of_IN Dugald_NNP Stewart_NNP 's_POS philosophical_JJ theories_NNS and_CC religious_JJ essays_NNS and_CC poems_NNS ._.
+It_PRP was_VBD reprinted_VBN in_IN 1817_CD ,_, 1818_CD ,_, 1819_CD ,_, and_CC 1820_CD ._.
+Selections_NNS from_IN its_PRP$ religious_JJ portions_NNS appeared_VBD in_IN 1821_CD and_CC 1823_CD ,_, and_CC in_IN 1857_CD the_DT author_NN 's_POS brother_NN Charles_NNP reissued_VBD a_DT part_NN of_IN it_PRP under_IN the_DT title_NN of_IN The_DT Religion_NNP of_IN the_DT Heart_NNP ,_, as_IN exemplified_VBN in_IN the_DT Life_NNP and_CC Writings_NNPS of_IN John_NNP Bowdler_NNP ._.
+This_DT edition_NN included_VBD a_DT new_JJ biographic_JJ preface_NN and_CC previously_RB unpublished_JJ correspondence_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Lee_NNP ,_, Sidney_NNP -LRB-_-LRB- 1886_CD -RRB-_-RRB- ._.
+``_`` Bowdler_NNP ,_, John_NNP -LRB-_-LRB- 1783-1815_CD -RRB-_-RRB- ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+6_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

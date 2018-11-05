@@ -1,0 +1,56 @@
+John_NNP Clavell_NNP -LRB-_-LRB- 1601_CD ``_`` 1643_CD -RRB-_-RRB- was_VBD a_DT highwayman_NN ,_, author_NN ,_, lawyer_NN ,_, and_CC doctor_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP is_VBZ known_VBN for_IN his_PRP$ poem_NN A_DT Recantation_NN of_IN an_DT Ill_NNP Led_VBD Life_NNP ,_, and_CC his_PRP$ play_NN The_DT Soddered_NNP Citizen_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- His_PRP$ life_NN is_VBZ mainly_RB split_VBN into_IN two_CD parts_NNS :_: his_PRP$ early_JJ life_NN in_IN England_NNP ,_, where_WRB he_PRP grew_VBD up_RB ,_, lived_VBD as_IN a_DT highwayman_NN ,_, and_CC started_VBD his_PRP$ reformation_NN ,_, and_CC the_DT latter_JJ part_NN of_IN his_PRP$ life_NN in_IN England_NNP and_CC Ireland_NNP where_WRB he_PRP was_VBD a_DT lawyer_NN and_CC physician_NN ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- John_NNP Clavell_NNP was_VBD the_DT youngest_JJS of_IN six_CD children_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP was_VBD baptized_VBN at_IN Wootton_NNP Glanville_NNP and_CC grew_VBD up_RP in_IN Sherborne_NNP ,_, England_NNP where_WRB he_PRP spent_VBD 18_CD years_NNS of_IN his_PRP$ life_NN ._.
+Clavell_NNP 's_POS heritage_NN comes_VBZ from_IN an_DT 11th-century_JJ family_NN ,_, the_DT Clavell_NNP family_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- The_DT Clavell_NNP 's_POS arrived_VBN in_IN England_NNP with_IN William_NNP the_DT Conqueror_NNP ._.
+John_NNP Clavell_NNP 's_POS parents_NNS were_VBD Frances_NNP and_CC John_NNP Clavell_NNP Senior_NNP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Clavell_NNP 's_POS father_NN was_VBD plagued_VBN by_IN a_DT life_NN of_IN financial_JJ trouble_NN ;_: he_PRP borrowed_VBD money_NN from_IN his_PRP$ son-in-law_NN Robert_NNP Freake_NNP ,_, but_CC never_RB paid_VBN off_RP the_DT loan_NN ._.
+He_PRP was_VBD said_VBN to_TO have_VB attended_VBN ``_`` Spiritual_NNP Court_NNP ''_'' for_IN ``_`` moral_JJ bisheavior_NN ''_'' ;_: allegedly_RB he_PRP engaged_VBD in_IN an_DT affair_NN while_IN married_VBN to_TO Frances_NNP ._.
+Clavell_NNP Sr._NNP played_VBD an_DT important_JJ role_NN in_IN pardoning_VBG his_PRP$ son_NN later_RB in_IN life_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Clavell_NNP 's_POS mother_NN ,_, Frances_NNP ,_, married_VBN three_CD times_NNS and_CC outlived_VBD all_DT of_IN her_PRP$ children_NNS ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Unlike_IN her_PRP$ husband_NN ,_, she_PRP did_VBD not_RB take_VB part_NN in_IN requesting_VBG a_DT pardon_NN for_IN her_PRP$ son_NN when_WRB he_PRP was_VBD jailed_VBN ._.
+Frances_NNP also_RB disapproved_VBD of_IN John_NNP 's_POS first_JJ wife_NN ,_, Joyce_NNP ,_, which_WDT led_VBD Clavell_NNP to_TO address_VB his_PRP$ mother_NN in_IN the_DT second_JJ edition_NN of_IN ``_`` A_DT Recantation_NN of_IN an_DT Ill_NNP Led_VBD Life_NNP ,_, ''_'' where_WRB he_PRP asks_VBZ both_DT her_PRP$ and_CC his_PRP$ sister_NN Elizabeth_NNP to_TO accept_VB Joyce_NNP as_IN a_DT good_JJ wife_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- John_NNP Clavell_NNP 's_POS uncle_NN was_VBD Sir_NNP William_NNP Clavell_NNP -LRB-_-LRB- 1568_CD ``_`` 1643_CD -RRB-_-RRB- ._.
+He_PRP was_VBD a_DT knight_NN banneret_NN and_CC gained_VBD this_DT title_NN in_IN 1599_CD ._.
+He_PRP was_VBD active_JJ in_IN commercial_JJ and_CC industrial_JJ ventures_NNS ,_, and_CC was_VBD John_NNP Clavell_NNP 's_POS connection_NN to_TO Ireland_NNP ,_, where_WRB Clavell_NNP spent_VBD part_NN of_IN his_PRP$ life_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- John_NNP Clavell_NNP attended_VBD Brasenose_NNP College_NNP ,_, Oxford_NNP from_IN 1619_CD to_TO 1621_CD ._.
+In_IN 1621_CD ,_, he_PRP left_VBD the_DT college_NN without_IN a_DT degree_NN ._.
+During_IN this_DT period_NN ,_, Clavell_NNP is_VBZ noted_VBN to_TO have_VB stolen_VBN a_DT golden_JJ or_CC silver_JJ plate_NN ._.
+He_PRP was_VBD sentenced_VBN to_TO time_NN in_IN jail_NN ,_, but_CC was_VBD pardoned_VBN in_IN April_NNP 1621_CD and_CC released_VBN without_IN bail_NN ._.
+It_PRP is_VBZ theorized_VBN that_IN his_PRP$ uncle_NN Sir_NNP William_NNP played_VBD a_DT major_JJ role_NN in_IN his_PRP$ receiving_VBG the_DT pardon_NN ,_, and_CC that_IN the_DT theft_NN is_VBZ the_DT reason_NN Clavell_NNP left_VBD Brasenose_NNP without_IN a_DT degree_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- After_IN he_PRP left_VBD school_NN in_IN 1621_CD ,_, Clavell_NNP spent_VBD the_DT next_JJ five_CD years_NNS in_IN London_NNP ,_, where_WRB he_PRP lived_VBD a_DT life_NN of_IN crime_NN ,_, poverty_NN and_CC ill_JJ health_NN ._.
+In_IN 1623_CD he_PRP became_VBD the_DT administrator_NN to_TO his_PRP$ father_NN 's_POS estate_NN ._.
+In_IN 1625_CD he_PRP married_VBD his_PRP$ first_JJ wife_NN ,_, Joyce_NNP ._.
+It_PRP is_VBZ believed_VBN that_IN she_PRP was_VBD of_IN low_JJ standing_NN and_CC little_JJ inheritance_NN ;_: in_IN the_DT second_JJ edition_NN of_IN ``_`` A_DT Recantation_NN of_IN an_DT Ill_NNP Led_VBD Life_NNP ''_'' Clavell_NNP appealed_VBD to_TO his_PRP$ mother_NN and_CC sister_NN to_TO accept_VB Joyce_NNP as_IN a_DT good_JJ woman_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- In_IN 1625_CD Clavell_NNP was_VBD imprisoned_VBN in_IN King_NNP 's_POS Bench_NNP Prison_NNP as_IN a_DT convicted_VBN felon_NN ._.
+In_IN 1627_CD he_PRP was_VBD apprehended_VBN ,_, found_VBD guilty_JJ and_CC sentenced_VBN to_TO death_NN ._.
+It_PRP is_VBZ said_VBD that_IN he_PRP owed_VBD his_PRP$ pardon_NN in_IN 1627_CD to_TO the_DT King_NNP and_CC Queen_NNP ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- Eventually_RB ,_, Clavell_NNP found_VBD his_PRP$ way_NN to_TO Ireland_NNP ._.
+Some_DT think_VBP he_PRP went_VBD there_RB in_IN 1631_CD ,_, but_CC the_DT actual_JJ date_NN is_VBZ disputed_VBN ._.
+On_IN 14_CD April_NNP 1635_CD ,_, Clavell_NNP married_VBD a_DT Dublin_NNP heiress_NN ,_, who_WP was_VBD noted_VBN to_TO be_VB younger_JJR than_IN ten_CD years_NNS old_JJ ._.
+Clavell_NNP 's_POS records_NNS of_IN cures_NNS from_IN his_PRP$ times_NNS as_IN a_DT doctor_NN are_VBP recorded_VBN in_IN a_DT manuscript_NN ,_, Bodleian_NNP MS._NNP Rawl_NNP ,_, D._NNP 399_CD ,_, which_WDT dates_VBZ from_IN 1636_CD and_CC places_VBZ Clavell_NNP in_IN Ireland_NNP around_IN this_DT time_NN ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- In_IN 1638_CD ,_, a_DT lawsuit_NN over_IN money_NN owed_VBN to_TO Clavell_NNP 's_POS brother-in-law_NN Robert_NNP Freake_NNP places_VBZ Clavell_NNP back_RB in_IN England_NNP ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- The_DT exact_JJ date_NN of_IN John_NNP Clavell_NNP 's_POS death_NN is_VBZ unknown_JJ ._.
+One_CD document_NN says_VBZ he_PRP died_VBD in_IN 1642_CD where_WRB another_DT document_NN says_VBZ he_PRP died_VBD in_IN 1643_CD ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- A_DT Recantation_NN of_IN an_DT Ill_NNP Led_VBD Life_NNP is_VBZ a_DT metrical_JJ autobiography_NN and_CC a_DT poem_NN in_IN which_WDT Clavell_NNP apologizes_VBZ about_IN all_DT his_PRP$ misdealings_NNS ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- In_IN it_PRP ,_, Clavell_NNP writes_VBZ about_IN being_VBG a_DT highway_NN man_NN and_CC sends_VBZ a_DT warning_NN to_TO travelers_NNS ._.
+In_IN this_DT piece_NN ,_, Clavell_NNP also_RB writes_VBZ to_TO everyone_NN who_WP helped_VBD him_PRP reach_VB a_DT pardon_NN from_IN his_PRP$ death_NN sentence_NN ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- The_DT first_JJ edition_NN was_VBD entered_VBN into_IN the_DT Stationers_NNP '_POS Register_NNP on_IN 22_CD September_NNP 1627_CD ,_, and_CC was_VBD first_JJ published_VBN in_IN 1628_CD ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- The_DT second_JJ edition_NN was_VBD also_RB published_VBN in_IN 1628_CD ,_, but_CC is_VBZ slightly_RB different_JJ because_IN of_IN the_DT aforementioned_JJ address_NN to_TO his_PRP$ mother_NN and_CC sister_NN ,_, asking_VBG them_PRP to_TO accept_VB his_PRP$ first_JJ wife_NN ,_, Joyce_NNP ._.
+The_DT third_JJ edition_NN was_VBD written_VBN in_IN 1634_CD and_CC contains_VBZ everything_NN except_IN the_DT address_NN to_TO his_PRP$ mother_NN and_CC sister_NN ._.
+All_DT three_CD volumes_NNS were_VBD published_VBN in_IN Clavell_NNP 's_POS lifetime_NN by_IN Richard_NNP Meighen_NNP ,_, who_WP also_RB published_VBD ``_`` The_DT Soddered_NNP Citzen_NNP ''_'' ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- In_IN his_PRP$ poem_NN ,_, Clavell_NNP provides_VBZ details_NNS of_IN the_DT activities_NNS of_IN the_DT ``_`` knights_NNS of_IN the_DT roads_NNS ._. ''_''
+At_IN one_CD point_NN he_PRP specifies_VBZ the_DT disguises_NNS they_PRP employed_VBD :_: The_DT Soddered_NNP Citizen_NNP is_VBZ a_DT comedic_JJ play_NN which_WDT is_VBZ thought_VBN to_TO have_VB been_VBN written_VBN between_IN 1629_CD and_CC 1634_CD ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- It_PRP was_VBD acted_VBN by_IN the_DT King_NNP 's_POS Men_NN at_IN the_DT Blackfriars_NNPS Theatre_NNP in_IN 1630_CD ._.
+That_DT play_NN was_VBD lost_VBN for_IN three_CD centuries_NNS ,_, known_VBN only_RB by_IN its_PRP$ title_NN ._.
+A_DT surviving_VBG manuscript_NN was_VBD then_RB discovered_VBN in_IN 1932_CD ,_, edited_VBN by_IN W._NNP W._NNP Greg_NNP and_CC J._NNP H._NNP P._NNP Pafford_NNP ,_, and_CC published_VBN by_IN the_DT Malone_NNP Society_NNP in_IN 1936_CD ._.
+Until_IN the_DT discovery_NN of_IN the_DT manuscript_NN in_IN 1932_CD the_DT play_NN was_VBD generally_RB ascribed_VBN to_TO Shackerley_NNP Marmion_NNP ._.
+However_RB ,_, Clavell_NNP 's_POS signature_NN was_VBD found_VBN on_IN the_DT manuscript_NN ,_, and_CC events_NNS in_IN his_PRP$ life_NN match_NN up_IN with_IN the_DT prologue_NN ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- Also_RB ,_, he_PRP was_VBD assumed_VBN to_TO be_VB in_IN Ireland_NNP at_IN the_DT same_JJ time_NN as_IN the_DT manuscript_NN was_VBD produced_VBN ._.
+Other_JJ sources_NNS believe_VBP that_IN John_NNP Clavell_NNP could_MD not_RB have_VB written_VBN it_PRP ,_, because_IN they_PRP trace_VBP the_DT date_NN that_IN it_PRP is_VBZ written_VBN before_IN 1630_CD -LRB-_-LRB- with_IN the_DT death_NN of_IN actor_NN Richard_NNP Sharp_NNP -RRB-_-RRB- -_: before_IN John_NNP Clavell_NNP traveled_VBD to_TO Ireland_NNP ._.
+-LRB-_-LRB- 12_CD -RRB-_-RRB- John_NNP Clavell_NNP and_CC Shakespeare_NNP 's_POS Falstaff_NNP Some_DT sources_NNS speculate_VBP that_IN John_NNP Clavell_NNP was_VBD influenced_VBN by_IN Shakespeare_NNP 's_POS character_NN Sir_NNP John_NNP Falstaff_NNP from_IN Henry_NNP IV_NNP as_IN a_DT source_NN for_IN ideas_NNS in_IN A_DT Recantation_NN ._.
+Both_DT Henry_NNP IV_NNP and_CC A_DT Recantation_NN reference_NN Gad_NNP 's_POS Hill_NNP ,_, the_DT place_NN of_IN the_DT robbery_NN in_IN Henry_NNP IV_NNP ,_, but_CC there_EX is_VBZ no_DT documentation_NN of_IN Clavell_NNP actually_RB being_VBG at_IN Gad_NNP 's_POS Hill_NNP ._.
+-LRB-_-LRB- 18_CD -RRB-_-RRB- Clavell_NNP claims_NNS that_IN the_DT first_JJ robbery_NN was_VBD at_IN Gad_NNP 's_POS Hill_NNP ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB-

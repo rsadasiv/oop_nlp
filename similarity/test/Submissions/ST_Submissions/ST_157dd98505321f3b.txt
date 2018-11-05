@@ -1,0 +1,900 @@
+From_IN :_: Zinia_NNP Mitra_NNP <ziniamitra@gmail.com>_NNP Date_NNP :_: 30_CD September_NNP 2016_CD at_IN 17:46_CD Subject_NNP :_: submission_NN To_TO :_: outofprintmagazine@gmail.com_JJ translator_NN 's_POS bio_NN :_: Dr._NNP Zinia_NNP Mitra_NNP is_VBZ the_DT Head_NNP of_IN the_DT Department_NNP of_IN English_NNP at_IN Nakshalbari_NNP College_NNP ,_, Darjeeling_NNP ,_, India_NNP ._.
+She_PRP writes_VBZ travelogues_NNS and_CC articles_NNS that_WDT have_VBP been_VBN published_VBN in_IN \*_SYM The_DT Statesman_NNP ,_, h_VBP \*_SYM er_JJR reviews_NNS ,_, articles_NNS ,_, translations_NNS have_VBP been_VBN published_VBN in_IN books_NNS and_CC journals_NNS ._.
+Her_PRP$ books_NNS include_VBP :_: \*_SYM Indian_JJ Poetry_NNP in_IN English_NNP Critical_JJ Essays_NNS ,_, Poetry_NNP of_IN Jayanta_NNP Mahapatra_NNP :_: Imagery_NN and_CC Experiential_NNP Identity_NNP and_CC Twentieth_NNP Century_NNP British_NNP Literature_NNP :_: Reconstructing_VBG Literary_NNP Sensibility_NNP \*_SYM ._.
+Her_PRP$ poems_NNS have_VBP been_VBN published_VBN in_IN Muse_NNP India_NNP ,_, Ruminations_NNP ,_, Contemporary_NNP Literary_NNP Review_NNP India_NNP ,_, Kavya_NNP Bharati_NNP ._.
+\*_SYM Bikash_NNP Sarkar_NNP is_VBZ a_DT renowned_JJ Bengali_NNP poet_NN and_CC writer_NN -LRB-_-LRB- \*\*_SYM https:\/\/en.wikipedia.org\/wiki\/Bikash_Sarkar_NNP <https://en.wikipedia.org/wiki/Bikash_Sarkar>_NNP -RRB-_-RRB- whose_WP$ honors_NNS and_CC awards_NNS include_VBP \*_SYM -_: Sundarimohan_NNP Das_NNP Award_NNP 2000_CD -_: Srijon_NNP Somman_NNP 2006_CD -_: Jugasankha_NNP Award_NNP 2010_CD This_DT story_NN was_VBD published_VBN in_IN bengali_NNS Desh_NNP Magazine_NNP ._.
+I_PRP have_VBP the_DT author_NN 's_POS permission_NN to_TO submit_VB it_PRP in_IN your_PRP$ magazine_NN ._.
+\*_SYM O_NN My_PRP$ Soul_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ Mate_NNP \*_SYM Rashik_NNP was_VBD ,_, what_WP we_PRP call_VBP ,_, a_DT dumbo_NN ._.
+He_PRP was_VBD frail_JJ and_CC mentally_RB a_DT derelict_NN ._.
+He_PRP had_VBD no_DT specific_JJ intellectual_JJ abilities_NNS ,_, nor_CC was_VBD he_PRP a_DT dexterous_JJ worker_NN ._.
+He_PRP was_VBD ,_, if_IN we_PRP are_VBP allowed_VBN to_TO we_PRP may_MD say_VB ,_, a_DT non-human_NN in_IN the_DT garb_NN of_IN human_JJ ._.
+But_CC Rashik_NNP could_MD put_VB in_IN a_DT lot_NN of_IN physical_JJ labor_NN ._.
+He_PRP could_MD really_RB work_VB his_PRP$ tail_NN off_RP ._.
+His_PRP$ devils_NNS <sup>_VBP TM_NNP </sup>_NNP labor_NN sometimes_RB resulted_VBD in_IN seeping_NN of_IN a_DT soapy_JJ fizz_NN out_IN of_IN the_DT corner_NN his_PRP$ mouth_NN ._.
+Ramanath_NNP had_VBD seen_VBN enough_RB of_IN life_NN ._.
+He_PRP had_VBD reflected_VBN much_RB on_IN this_DT Rashik_NNP ,_, and_CC had_VBD finally_RB come_VBN to_TO the_DT decision_NN that_WDT Rashik_NNP could_MD best_RB be_VB compared_VBN to_TO the_DT cows_NNS he_PRP kept_VBD in_IN his_PRP$ shed_VBN ._.
+But_CC since_IN <sup>_JJ ~_NN </sup>_VBD a_DT son_NN of_IN a_DT cow_NN <sup>_VBZ TM_NNP </sup>_NNP made_VBD no_DT strong_JJ sense_NN as_IN an_DT abuse_NN Ramanath_NNP preferred_VBD to_TO call_VB him_PRP <sup>_VB ~_CD </sup>_VBD a_DT son_NN of_IN a_DT bitch_NN <sup>_VBZ TM_NNP </sup>_NNP ._.
+He_PRP poured_VBD out_RP all_PDT the_DT abuses_NNS he_PRP knew_VBD on_IN Rashik_NNP ._.
+Rashik_NNP in_IN reply_NN only_RB smiled_VBD with_IN all_DT his_PRP$ teeth_NNS out_RP ._.
+After_IN Ramanath_NNP finished_VBD with_IN his_PRP$ abuses_NNS Rashik_NNP limped_VBD slowly_RB back_RB into_IN his_PRP$ room_NN ._.
+His_PRP$ left_VBN leg_NN was_VBD one_CD ``_`` and_CC -_: a_SYM -_: half_NN -_: inch_NN shorter_JJR than_IN his_PRP$ right_NN one_CD since_IN his_PRP$ birth_NN ._.
+When_WRB Rashik_NNP was_VBD only_RB two_CD years_NNS old_JJ ,_, his_PRP$ widowed_VBN mother_NN Raikishori_NNP had_VBD joined_VBN the_DT Thakurpath_NNP Bhattacharjee_NNP house_NN as_IN a_DT maid_NN ,_, carrying_VBG little_JJ Rashik_NNP against_IN her_PRP$ flank_NN ._.
+Ramanath_NNP went_VBD back_RB thinking_VBG on_IN the_DT days_NNS he_PRP had_VBD passed_VBN out_RP his_PRP$ School_NNP Final_NNP from_IN Bairatiguri_NNP High_NNP School_NNP ._.
+He_PRP had_VBD failed_VBN once_RB in_IN class_NN IX_CD and_CC was_VBD not_RB allowed_VBN to_TO sit_VB in_IN the_DT Test_NN Examination_NNP once_RB ._.
+That_DT made_VBD him_PRP 18_CD when_WRB he_PRP passed_VBD class_NN X._NNP Ramanath_NNP calculated_VBD ._.
+He_PRP was_VBD now_RB 51_CD ._.
+Rashik_NNP should_MD be_VB 35_CD ._.
+Ramanath_NNP used_VBD to_TO call_VB Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ mother_NN <sup>_VBD ~_CD </sup>_NNP Khuri_NNP <sup>_NNP TM_NNP </sup>_NNP ._.
+<sup>_NNP ~_NNP </sup>_NNP Raikhuri_NNP <sup>_NNP TM_NNP </sup>_NNP ._.
+Since_IN Raikhuri_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ death_NN ,_, three_CD years_NNS ago_RB ,_, Rashik_NNP lived_VBD alone_RB in_IN the_DT room_NN that_WDT stood_VBD leaning_VBG against_IN the_DT boundary_NN wall_NN with_IN its_PRP$ three_CD bamboo_NN walls_NNS and_CC a_DT thatched_JJ roof_NN ._.
+There_EX stood_VBD three_CD rooms_NNS in_IN a_DT row_NN ._.
+In_IN the_DT other_JJ two_CD lived_VBD two_CD labors_NNS who_WP worked_VBD on_IN his_PRP$ farm_NN -_: one_CD Nagen_NNP Roy_NNP ,_, the_DT other_JJ ,_, Banga_NNP Barman_NNP ._.
+None_NN of_IN them_PRP were_VBD ,_, however_RB ,_, as_IN stupid_JJ as_IN Rashik_NNP ._.
+Rather_RB a_DT shrewd_JJ and_CC a_DT wicked_JJ lot_NN ._.
+Matching_VBG tune_NN with_IN their_PRP$ \*_SYM malik_NN \*\*_SYM they_PRP also_RB called_VBD Rashik_NNP names_NNS ,_, called_VBD him_PRP cow_NN and_CC donkey_NN ._.
+Rashik_NNP always_RB ate_VBD the_DT humble_JJ pie_NN ._.
+He_PRP only_RB smiled_VBD back_RB ._.
+All_DT three_CD of_IN them_PRP ate_VBD their_PRP$ meals_NNS at_IN Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN ._.
+Nanda_NNP ,_, his_PRP$ cook_NN ,_, made_VBD them_PRP sit_VB in_IN the_DT corner_NN of_IN the_DT verandah_NN and_CC served_VBD them_PRP food_NN ._.
+Though_IN it_PRP is_VBZ true_JJ that_IN nothing_NN called_VBN \*_SYM Jothdaar_SYM -_: \*_SYM the_DT lords_NNS of_IN extensive_JJ agricultural_JJ farms_NNS -_: are_VBP left_VBN now_RB ,_, and_CC \*_SYM Barga_NNP \*_SYM is_VBZ a_DT practice_NN existing_VBG only_RB in_IN Government_NNP files_NNS ,_, but_CC Ramanath_NNP still_RB remained_VBD a_DT \*_SYM Jothdaar_NNP \*_SYM ._.
+All_DT land_NN reforms_NNS ,_, \*_SYM Barga_NNP \*_SYM etc._FW weree_FW defeated_VBN here_RB at_IN Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN ._.
+The_DT old_JJ residents_NNS of_IN Thakurpath_NNP still_RB called_VBD him_PRP \*_SYM Jothdarbabu_NNP \*_SYM ._.
+They_PRP respected_VBD him_PRP as_IN a_DT landlord_NN even_RB now_RB ._.
+One_CD was_VBD awestruck_RB at_IN the_DT lands_NNS he_PRP had_VBD in_IN Thakurpath_NNP ,_, Gilandi_NNP ,_, Deomali_NNP ._.
+But_CC he_PRP had_VBD to_TO sell_VB off_RP twenty_CD -_: two_CD \*_SYM bighas_FW \*_SYM of_IN land_NN near_IN Sakoajhora_NNP and_CC Dhiren_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ shop_NN for_IN his_PRP$ son_NN ._.
+He_PRP sent_VBD him_PRP to_TO Bangalore_NNP for_IN MBA_NNP ._.
+Rajatsubhro_NNP now_RB serves_VBZ in_IN a_DT multinational_JJ company_NN there_RB ._.
+Father_NNP and_CC son_NN had_VBD a_DT great_JJ squabble_NN on_IN the_DT subject_NN when_WRB he_PRP visited_VBD them_PRP before_IN the_DT Viswakarma_NNP Puja_NNP ._.
+-_: You_PRP joined_VBD work_NN without_IN letting_VBG me_PRP know_VB ._.
+How_WRB could_MD you_PRP do_VB that_DT ?_.
+-_: Got_VBD selected_VBN in_IN campusing_NN ._.
+How_WRB could_MD I_PRP let_VB the_DT opportunity_NN go_VB ?_.
+-_: You_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD need_NN to_TO work_VB ._.
+I_PRP still_RB have_VBP 50_CD bighas_NNS of_IN land_NN here_RB ._.
+-_: Why_WRB did_VBD you_PRP enroll_VBP me_PRP to_TO MBA_NNP then_RB ?_.
+-_: That_WDT was_VBD only_RB for_IN the_DT degree_NN ._.
+So_RB that_IN people_NNS respect_VBP you_PRP here_RB ._.
+-_: Does_VBZ anybody_NN let_VB go_VB a_DT job_NN of_IN forty_NN -_: thousand_CD ?_.
+In_IN this_DT period_NN of_IN economic_JJ crisis_NN ?_.
+-_: I_PRP will_MD give_VB you_PRP an_DT allowance_NN of_IN fifty_JJ thousand_CD per_IN month_NN ._.
+Come_VBN back_RB here_RB ._.
+There_EX is_VBZ no_DT economic_JJ crisis_NN in_IN Thakurpath_NNP ._.
+-_: What_WP shall_MD I_PRP do_VB here_RB ?_.
+Plough_NNP ?_.
+Quarrel_VB with_IN potato_NN sellers_NNS of_IN Dhupguri_NNP over_IN rates_NNS of_IN potatoes_NNS ?_.
+-_: That_WDT <sup>_VBZ TM_NNP </sup>_NNP s_VBZ what_WP you_PRP are_VBP supposed_VBN to_TO do_VB ._.
+Who_WP will_MD look_VB after_IN all_PDT this_DT land_NN ?_.
+-_: You_PRP take_VBP care_NN of_IN your_PRP$ property_NN ._.
+Or_CC else_RB sell_VB them_PRP off_RP ._.
+Do_VBP not_RB drag_VB me_PRP into_IN this_DT ._.
+Uff_NNP I_PRP feel_VBP so_RB suffocated_VBN here_RB at_IN Thakurpath_NNP ._.
+Pools_NNS everywhere_RB stinking_VBG with_IN rets_NNS of_IN jute_NN ._.
+I_PRP feel_VBP nauseating_VBG ._.
+-_: Those_DT are_VBP not_RB rets_NNS of_IN jute_NN ._.
+They_PRP are_VBP rets_NNS of_IN money_NN ._.
+The_DT smell_NN of_IN money_NN makes_VBZ you_PRP vomit_VB ?_.
+-_: Yes_UH ._.
+The_DT stink_VBP of_IN money_NN at_IN Thakurpath_NNP makes_VBZ me_PRP vomit_NN ._.
+Rajat_NNP went_VBD off_RB ._.
+But_CC he_PRP also_RB did_VBD some_DT good_JJ ._.
+He_PRP took_VBD his_PRP$ mother_NN along_IN ._.
+A_DT month_NN passed_VBD ._.
+Rajat_NNP had_VBD been_VBN very_RB busy_JJ ._.
+He_PRP did_VBD not_RB know_VB for_IN certain_JJ when_WRB he_PRP could_MD bring_VB his_PRP$ mother_NN back_RB ._.
+Anuradha_NNP had_VBD called_VBN up_RP ._.
+-_: Look_VB what_WP a_DT problem_NN I_PRP am_VBP into_IN ._.
+Babu_NNP brought_VBD me_PRP here_RB saying_VBG that_IN it_PRP would_MD be_VB just_RB for_IN fifteen_CD days_NNS ,_, and_CC ,_, now_RB how_WRB I_PRP am_VBP stuck_VBN ._. ''_''
+Stay_NNP with_IN your_PRP$ Babu_NNP for_IN few_JJ more_RBR days_NNS ._.
+\*_SYM Bechara_NNP \*_SYM ,_, \*_SYM he_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ so_RB alone_RB there_RB ._.
+-_: That_WDT <sup>_VBZ TM_NNP </sup>_NNP s_VBZ true_JJ ._.
+But_CC you_PRP are_VBP alone_RB too_RB at_IN Thakurpath_NNP ._.
+--_: \*_SYM Aare_NNP ,_, \*_SYM here_RB we_PRP have_VBP Nanda_NNP to_TO cook_VB for_IN us_PRP ._.
+Here_RB <sup>_JJ TM_NNP </sup>_NNP s_VBZ Nagen_NNP ,_, Banga_NNP ._.
+And_CC your_PRP$ favorite_JJ Rashik_NNP also_RB ._.
+-_: Do_VBP you_PRP take_VB your_PRP$ pressure_NN medicines_NNS regularly_RB ?_.
+-_: Yes_UH ,_, very_RB punctually_RB ._.
+Don_NNP <sup>_NNP TM_NNP </sup>_NNP t_IN you_PRP worry_VBP ._.
+-_: Then_RB I_PRP think_VBP I_PRP will_MD stay_VB back_RB for_IN the_DT winter_NN ._.
+-_: Absolutely_RB ._.
+Do_VBP not_RB worry_VB at_IN all_DT ._.
+Call_VB up_RP whenever_WRB you_PRP feel_VBP bad_JJ ._.
+You_PRP son_NN earns_VBZ forty_JJ thousand_CD ._.
+You_PRP can_MD call_VB at_IN your_PRP$ will_NN ._.
+The_DT Pujas_NNP are_VBP early_RB this_DT year_NN ._.
+It_PRP is_VBZ Autumn_NNP now_RB ._.
+But_CC it_PRP isn_FW <sup>_FW TM_FW </sup>_FW t_FW cold_NN at_IN all_DT ._.
+There_EX is_VBZ a_DT slight_JJ nip_NN in_IN the_DT air_NN during_IN the_DT night_NN ._.
+One_CD was_VBD compelled_VBN to_TO switch_VB the_DT fan_NN off_RP ._.
+To_TO look_VB at_IN least_JJS for_IN a_DT bed_NN sheet_NN to_TO cover_VB up_RP ._.
+But_CC the_DT heat_NN that_WDT Noorjahan_NNP emanated_VBD from_IN her_PRP$ thirty_CD -_: year_NN old_JJ -_: body_NN has_VBZ no_DT comparison_NN ._.
+It_PRP gave_VBD a_DT creepy_JJ kind_NN of_IN feeling_NN ._.
+Replacing_VBG the_DT receiver_NN on_IN its_PRP$ cradle_NN Ramanath_NNP climbed_VBD on_IN to_TO the_DT terrace_NN ._.
+The_DT terrace_NN was_VBD over_IN the_DT second_JJ floor_NN ._.
+One_CD could_MD see_VB till_IN a_DT distance_NN from_IN there_RB ._.
+As_IN far_RB as_IN the_DT eyes_NNS traveled_VBD ,_, all_DT were_VBD Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ land_NN ._.
+Rows_NNS of_IN potato_NN plants_NNS ._.
+The_DT geometrical_JJ greenery_NN pleased_VBD the_DT eye_NN ._.
+This_DT year_NN the_DT rates_NNS of_IN potatoes_NNS were_VBD sky_NN high_JJ ._.
+The_DT way_NN the_DT potato_NN plants_NNS were_VBD slinking_VBG up_RP in_IN Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ farm_NN ,_, it_PRP could_MD be_VB foretold_VBN that_IN the_DT year_NN would_MD see_VB a_DT good_JJ harvest_NN ._.
+Nagen_NNP and_CC Banga_NNP were_VBD spraying_VBG pesticides_NNS in_IN the_DT potato_NN farm_NN ._.
+They_PRP had_VBD tied_VBN \*_SYM gamcha_NN \*_SYM \*_SYM around_IN their_PRP$ neck_NN to_TO cover_VB their_PRP$ nose_NN ._.
+The_DT land_NN touching_VBG Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wall_NN had_VBD a_DT thin_JJ stretch_NN of_IN betel_NN nut_NN orchard_NN ._.
+Perched_VBN under_IN a_DT betel_NN nut_NN tree_NN Rashik_NNP was_VBD singing_VBG unmindfully_RB ''_'' \*_SYM Neel_NNP dariyar_NN majhi_FW re_FW ,_, \*_SYM \*_SYM kul_FW gheshiya_FW jao_FW re_FW ,_, \*_SYM \*_SYM sabdhane_NN ,_, sabdhane_NN baiyo_NN nao_NN \*_SYM -LRB-_-LRB- boatsman_NN of_IN the_DT blue_JJ sea_NN ,_, row_VB your_PRP$ boat_NN close_NN to_TO the_DT shore_NN ,_, carefully_RB ,_, carefully_RB row_VB your_PRP$ boat_NN -RRB-_-RRB- Only_RB the_DT stupid_JJ Rasik_NNP knew_VBD where_WRB he_PRP could_MD find_VB a_DT blue_JJ ocean_NN amidst_IN the_DT dry_JJ beetle_NN nuts_NNS ._.
+Thank_VB god_NN ,_, today_NN he_PRP was_VBD not_RB singing_VBG that_IN \*_SYM Paran_NN bondhu_NN re_NN ,_, dao_NN dekha_NN daya_NN kore_VBD \*_SYM ._.
+-LRB-_-LRB- O_NNP my_PRP$ soul_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ mate_NN ,_, reveal_VBP thyself_NN to_TO me_PRP ..._: -RRB-_-RRB- He_PRP sang_VBD it_PRP so_RB often_RB that_IN he_PRP had_VBD spoilt_VBN the_DT charm_NN of_IN the_DT song_NN ._.
+Ramanath_NNP had_VBD reproached_VBN him_PRP once_RB or_CC twice_RB -_: oeStop_NN this_DT song_NN of_IN yours_NNS ._.
+It_PRP boils_VBZ my_PRP$ blood_NN ._.
+When_WRB you_PRP have_VBP so_RB many_JJ numbers_NNS in_IN your_PRP$ warehouse_NN why_WRB do_VBP you_PRP harp_VB on_IN the_DT same_JJ tune_NN like_IN a_DT house_NN myna_NN ?_. ''_''
+Rashik_NNP had_VBD digested_VBN the_DT reproach_NN and_CC replied_VBD ''_'' oe_VB This_DT is_VBZ my_PRP$ most_RBS favorite_JJ song_NN K_NNP \*_SYM arta_NN \*_SYM ._. ''_''
+\*_SYM But_CC one_CD had_VBD to_TO admit_VB that_DT Rashik_NNP sang_VBD only_RB too_RB well_RB ._.
+He_PRP was_VBD an_DT illiterate_NN ,_, an_DT idiot_NN ,_, but_CC he_PRP had_VBD a_DT very_RB sharp_JJ memory_NN ._.
+Singing_VBG came_VBD to_TO him_PRP naturally_RB ._.
+He_PRP could_MD learn_VB all_PDT the_DT lyrics_NNS by_IN heart_NN only_RB by_IN listening_VBG to_TO them_PRP ._.
+He_PRP could_MD memorize_VB all_DT songs_NNS just_RB by_IN listening_VBG ._.
+He_PRP listened_VBD to_TO Pabanbaul_NNP at_IN Dhiren_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ shop_NN ,_, to_TO Khagen_NNP Adhikary_NNP of_IN Magurmari_NNP and_CC Dayal_NNP Mondal_NNP of_IN Noonkhoaya_NNP and_CC had_VBD picked_VBN up_RP all_DT ._.
+Thus_RB he_PRP had_VBD \*_SYM Bhatiyali_NNP \*_SYM ,_, \*_SYM Kirtan_NNP \*_SYM ,_, \*_SYM Baulanga_NNP \*_SYM ,_, \*_SYM Jari_SYM -_: Jikir_NNP \*_SYM ,_, and_CC also_RB some_DT \*_SYM Goyalpariya_NNP \*_SYM \*_SYM in_IN his_PRP$ collection_NN ._.
+He_PRP had_VBD earned_VBN quite_RB a_DT name_NN ._.
+He_PRP got_VBD regular_JJ invitations_NNS at_IN Thakurpath_NNP in_IN occasions_NNS like_IN Narayan_NNP Puja_NNP ,_, death_NN rituals_NNS ,_, rice_NN ceremony_NN ,_, and_CC Kirtan_NNP ._.
+Ashu_NNP Dutta_NNP ,_, the_DT manager_NN of_IN Thakurpath_NNP Jatra_NNP Samaj_NNP ,_, had_VBD requested_VBN Rashik_NNP to_TO play_VB the_DT role_NN of_IN Conscience_NN in_IN his_PRP$ \*_SYM Rahim_NNP Badshah_NNP Rupbaan_NNP Kanya_NNP \*_SYM ._.
+Rashik_NNP refused_VBD ._.
+Ramanath_NNP asked_VBD him_PRP ''_'' oeWhy_NNP did_VBD you_PRP refuse_VBP ?_.
+It_PRP was_VBD a_DT good_JJ opportunity_NN ._.
+So_RB many_JJ people_NNS come_VBP to_TO see_VB Jatra_NNP ,_, think_VBP of_IN that_DT ._.
+You_PRP could_MD have_VB become_VBN a_DT hero_NN Rashik_NNP ._. ''_''
+Rashik_NNP hung_VBD his_PRP$ head_NN down_IN abashed_JJ ''_'' oe_VB No_DT \*_SYM Kartababu_NNP \*_SYM ,_, that_DT is_VBZ troublesome_JJ ._.
+If_IN Conscience_NN climbs_VBZ on_IN stage_NN limping_VBG ,_, spectators_NNS will_MD throw_VB stones_NNS ._.
+It_PRP is_VBZ better_JJR to_TO sing_VB Kirtan_NNP ._.
+I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_NN have_VBP to_TO appear_VB on_IN stage_NN ._.
+I_PRP can_MD sing_VB off-stage_JJ sitting_VBG on_IN a_DT Tarpaulin_NNP ._. ''_''
+Ramanath_NNP had_VBD for_IN once_RB felt_VBD that_IN Rashik_NNP wasn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD so_RB much_JJ of_IN a_DT cow_NN that_IN he_PRP had_VBD taken_VBN him_PRP to_TO be_VB ._.
+Ramanath_NNP called_VBD out_RP for_IN Rashik_NNP form_VBP the_DT terrace_NN <sup>_VBD ~_CD </sup>_NNP Rashik_NNP ._.
+Aaaai_NNP Rashik_NNP ._.
+<sup>_JJ TM_NNP </sup>_SYM -_: Yes_UH ._.
+-_: Go_VB and_CC call_VB Puron_NNP ._.
+Tell_VB him_PRP I_PRP have_VBP to_TO go_VB to_TO Gilandi_NNP ._.
+-_: Right_RB \*_SYM Karta_NNP \*_SYM ._.
+Rashik_NNP stopped_VBD his_PRP$ song_NN and_CC limped_VBD towards_IN the_DT main_JJ road_NN to_TO call_VB Puron_NNP ._.
+Puron_NNP Dahal_NNP ,_, Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ driver_NN ,_, lived_VBD across_IN the_DT road_NN in_IN a_DT slum_NN ._.
+The_DT night_NN would_MD be_VB cold_JJ it_PRP seemed_VBD ._.
+Ramanath_NNP would_MD go_VB to_TO Gilandi_NNP today_NN ._.
+He_PRP would_MD spend_VB the_DT night_NN there_RB ._.
+Aradhana_NNP was_VBD not_RB home_NN ._.
+Who_WP would_MD care_VB about_IN his_PRP$ whereabouts_NN ?_.
+His_PRP$ son_NN had_VBD done_VBN a_DT service_NN to_TO him_PRP in_IN a_DT way_NN by_IN taking_VBG his_PRP$ mother_NN along_IN with_IN him_PRP to_TO Bangalore_NNP ._.
+Not_RB only_RB this_DT winter_NN ,_, if_IN Aradhana_NNP decided_VBD to_TO stay_VB with_IN her_PRP$ son_NN lifelong_JJ Ramanath_NNP would_MD only_RB be_VB salvaged_VBN ._.
+Puron_NNP was_VBD the_DT son_NN of_IN a_DT Brahmin_NNP priest_NN ._.
+He_PRP used_VBD to_TO study_VB in_IN Thakurpath_NNP High_NNP school_NN ._.
+To_TO maintain_VB the_DT family_NN status_NN Ramanath_NNP had_VBD to_TO be_VB enrolled_VBN in_IN Bairatiguri_NNP High_NNP school_NN ._.
+Since_IN they_PRP were_VBD of_IN the_DT same_JJ age_NN ,_, whatever_WDT schools_NNS they_PRP studied_VBD in_IN ,_, they_PRP became_VBD great_JJ friends_NNS ._.
+They_PRP would_MD meet_VB in_IN the_DT playground_NN ._.
+Puron_NNP was_VBD a_DT great_JJ goalkeeper_NN ._.
+He_PRP had_VBD played_VBN in_IN Bhutan_NNP Gold_NNP Cup_NNP in_IN Phuentsholing_NNP ._.
+When_WRB Ramanath_NNP purchased_VBD his_PRP$ car_NN ,_, Puorn_NNP was_VBD a_DT bus_NN driver_NN on_IN Hantupara_NNP ``_`` Jalpaiguri_NNP route_NN ._.
+Ramanath_NNP told_VBD Puron_NNP ''_'' oeWhen_NNP you_PRP are_VBP into_IN driving_VBG ,_, why_WRB don_VBP <sup>_JJ TM_NNP </sup>_NNP t_IN you_PRP drive_VBP my_PRP$ car_NN ._.
+We_PRP two_CD friends_NNS can_MD do_VB some_DT chatting_VBG when_WRB we_PRP go_VBP somewhere_RB ._. ''_''
+For_IN twenty-five_JJ long_JJ years_NNS since_IN then_RB Puron_NNP had_VBD been_VBN a_DT companion_NN to_TO many_JJ of_IN his_PRP$ misdeeds_NNS ._.
+Ramanath_NNP got_VBD ready_JJ and_CC sat_VBD on_IN the_DT sofa_NN in_IN his_PRP$ verandah_NN ._.
+He_PRP found_VBD Puron_NNP entering_VBG the_DT garage_NN ._.
+He_PRP looked_VBD older_JJR than_IN his_PRP$ years_NNS ._.
+His_PRP$ white_JJ skin_NN had_VBD turned_VBN copperish_NN ._.
+He_PRP has_VBZ also_RB turned_VBN 51_CD ._.
+Last_JJ winter_NN he_PRP married_VBD his_PRP$ daughter_NN off_IN to_TO Gangutia_NNP Tea_NNP Garden_NNP ._.
+Ramanath_NNP had_VBD advised_VBN ''_'' oe_VB If_IN the_DT boy_NN is_VBZ good_JJ go_NN ahead_RB with_IN the_DT wedding_NN Puron_NNP ._.
+Your_PRP$ daughter_NN is_VBZ my_PRP$ daughter_NN ._.
+Do_VBP not_RB worry_VB about_IN money_NN ''_'' ._.
+True_JJ to_TO his_PRP$ word_NN ,_, Ramanath_NNP had_VBD spent_VBN without_IN count_NN ._.
+He_PRP spent_VBD 1.5_CD Lacs_NNP in_IN Puron_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ daughter_NN <sup>_NN TM_NNP </sup>_NNP s_VBZ wedding_NN ._.
+Puron_NNP had_VBD not_RB expected_VBN that_IN much_JJ ._.
+After_IN that_DT day_NN Puron_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ shoulders_NNS wore_VBD a_DT hunch_NN of_IN acknowledgement_NN ._.
+He_PRP could_MD not_RB speak_VB to_TO him_PRP looking_VBG straight_RB into_IN his_PRP$ eyes_NNS ._.
+Ramanath_NNP stood_VBD up_RP and_CC called_VBN Nanda_NNP ''_'' oeI_NNP will_MD not_RB return_VB tonight_NN ._.
+I_PRP have_VBP a_DT meeting_NN ._.
+Ask_VB Rashik_NNP to_TO sleep_VB in_IN the_DT drawing_NN room_NN ._.
+Lock_NNP all_PDT the_DT doors_NNS and_CC windows_NNS properly_RB ._. ''_''
+Nanda_NNP nodded_VBD her_PRP$ head_NN ._.
+As_IN Puron_NNP took_VBD the_DT car_NN out_IN Ramanath_NNP went_VBD and_CC sat_VBD beside_IN him_PRP ._.
+As_IN the_DT car_NN crossed_VBD the_DT main_JJ gate_NN he_PRP saw_VBD Rashik_NNP limping_VBG towards_IN the_DT house_NN ._.
+Ramanath_NNP signaled_VBD to_TO Puron_NNP to_TO stop_VB the_DT car_NN ,_, craned_VBD his_PRP$ neck_NN out_IN of_IN the_DT window_NN and_CC called_VBN oeRashik_NNP ..._: Rashik_NNP ..._: listen_VB !_. ''_''
+-_: Yes_UH \*_SYM Karta_NNP ._.
+\*_SYM -_: I_PRP will_MD not_RB come_VB back_RB tonight_RB ._.
+Lock_NNP your_PRP$ room_NN and_CC sleep_VB in_IN the_DT drawing_NN room_NN ._.
+-_: I_PRP will_MD ._.
+-_: See_VB to_TO it_PRP that_IN Nagen_NNP and_CC Banga_NNP have_VBP early_JJ dinner_NN and_CC go_VB off_RP ._.
+Watch_NNP out_IN that_DT Nagen_NNP and_CC Banga_NNP do_VBP not_RB make_VB advances_NNS towards_IN Nanda_NNP ._.
+-_: No_UH they_PRP won_VBD <sup>_JJ TM_NNP </sup>_NNP t._NNP Remain_NNP in_IN peace_NN ._.
+-_: And_CC you_PRP too_RB ._.
+Do_VBP not_RB begin_VB discussing_VBG your_PRP$ philosophy_NN of_IN physiology_NN with_IN Nanda_NNP in_IN the_DT drawing_NN room_NN ._.
+Rashik_NNP stuck_VBD out_RP his_PRP$ tongue_NN ._.
+He_PRP hung_VBD his_PRP$ head_NN down_RB ._.
+Puron_NNP sped_VBD the_DT car_NN towards_IN the_DT main_JJ road_NN and_CC asked_VBD ,_, oeRight_NNP or_CC left_VBN ?_. ''_''
+-_: Left_VBN ,_, left_VBN ._.
+I_PRP still_RB am_VBP a_DT leftist_JJ ._.
+Everything_NN has_VBZ not_RB changed_VBN colors_NNS ._.
+Let_VB the_DT elections_NNS be_VB over_RB ._.
+Then_RB I_PRP shall_MD turn_VB right_NN ._.
+Ramanath_NNP thought_VBD that_IN he_PRP had_VBD been_VBN really_RB witty_JJ ._.
+He_PRP giggled_VBD ._.
+Puron_NNP understood_VBD that_IN Ramanath_NNP will_MD go_VB to_TO Gilandi_NNP at_IN Noorjahan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ house_NN ._.
+Bhattacharjee_NNP had_VBD five_CD \*_SYM bighas_FW \*_SYM of_IN land_NN beside_IN Gildani_NNP river_NN ._.
+Nuruddin_NNP Ali_NNP was_VBD employed_VBN to_TO look_VB after_IN it_PRP ._.
+Nuruddin_NNP was_VBD now_RB over_IN 80_CD ._.
+Decrepit_NNP ._.
+His_PRP$ son_NN Fakiruddin_NNP used_VBD to_TO cultivate_VB the_DT land_NN ._.
+Fakiruddin_NNP was_VBD murdered_VBN last_JJ year_NN ._.
+It_PRP was_VBD a_DT political_JJ murder_NN stemming_VBG from_IN local_JJ village_NN politics_NNS ._.
+Noorjahan_NNP is_VBZ Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ second_JJ wife_NN ._.
+After_IN Fakru_NNP <sup>_NNP ~_NNP </sup>_NNP s_VBZ death_NN old_JJ and_CC grief_NN stricken_JJ Nuruddin_NNP had_VBD requested_VBN Ramanath_NNP not_RB to_TO evict_VB them_PRP from_IN the_DT land_NN ._.
+How_WRB could_MD Ramanath_NNP evict_VB ?_.
+Sitting_VBG on_IN a_DT barkless_JJ wicker_NN stool_NN he_PRP had_VBD been_VBN watching_VBG a_DT mermaid_NN emerge_VBP out_IN of_IN Gilandi_NNP river_NN ._.
+So_RB long_RB he_PRP would_MD visit_VB only_RB Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ aubergine_JJ farm_NN ._.
+He_PRP would_MD look_VB at_IN the_DT healthy_JJ aubergines_NNS and_CC appreciate_VB Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ knowledge_NN of_IN farming_VBG ._.
+But_CC he_PRP had_VBD no_DT knowledge_NN that_WDT Fakru_NNP had_VBD kept_VBN a_DT mermaid_JJ hidden_VBN in_IN his_PRP$ hut_NN ._.
+Ramanath_NNP was_VBD a_DT genius_NN in_IN persuasion_NN ._.
+But_CC what_WP else_RB could_MD be_VB done_VBN without_IN being_VBG persuaded_VBN ?_.
+Where_WRB to_TO stay_VB ?_.
+What_WP to_TO eat_VB ?_.
+Since_IN that_DT day_NN ,_, the_DT aubergine_NN farm_NN gradually_RB filled_VBN with_IN weeds_NNS ._.
+All_PDT the_DT ploughing_VBG took_VBD place_NN inside_IN Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ hut_NN ._.
+Old_NNP ,_, decrepit_NN Nuruddin_NNP sat_VBD in_IN his_PRP$ room_NN and_CC sucked_VBN at_IN chicken_NN legs_NNS with_IN Puron_NNP ._.
+He_PRP could_MD not_RB chew_VB ._.
+He_PRP has_VBZ no_DT teeth_NNS left_VBD ._.
+He_PRP never_RB used_VBD to_TO drink_VB before_IN but_CC now_RB he_PRP took_VBD two_CD glasses_NNS from_IN Puron_NNP ,_, spread_VBD his_PRP$ legs_NNS and_CC went_VBD off_RB to_TO sleep_VB ._.
+He_PRP was_VBD enjoying_VBG life_NN just_RB because_IN Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wife_NN was_VBD pretty_RB ._.
+Old_NNP Nuruddin_NNP understood_VBD that_IN it_PRP was_VBD more_RBR dignified_JJ to_TO drink_VB two_CD glasses_NNS and_CC be_VB sloshed_VBN rather_RB then_RB look_VB into_IN the_DT drollery_NN that_IN the_DT wife_NN of_IN his_PRP$ dead_JJ son_NN indulged_VBD in_IN ._.
+When_WRB he_PRP was_VBD back_RB he_PRP found_VBD himself_PRP lying_VBG shapeless_JJ on_IN his_PRP$ bed_NN ._.
+Birds_NNS chirping_VBG ._.
+The_DT sun_NN coming_VBG in_IN through_IN the_DT open_JJ door_NN ._.
+Then_RB he_PRP found_VBD it_PRP difficult_JJ to_TO accept_VB himself_PRP as_IN a_DT Muslim_NNP ._.
+But_CC Noorjahan_NNP loved_VBD and_CC respected_VBD her_PRP$ old_JJ and_CC infirm_JJ father-in-law_NN ._.
+Her_PRP$ earnest_JJ attention_NN was_VBD almost_RB faultless_JJ ._.
+The_DT day_NN after_IN Fakru_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ murder_NN Nuruddin_NNP tightly_RB held_VBD on_IN to_TO Noor_NNP and_CC cried_VBD ''_'' oeMy_NNP son_NN is_VBZ gone_VBN ._.
+You_PRP do_VBP not_RB throw_VB me_PRP out_RP ._.
+Where_WRB will_MD I_PRP go_VB in_IN this_DT age_NN ?_.
+I_PRP won_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD even_RB be_VB able_JJ to_TO go_VB begging_VBG ._. ''_''
+Noor_NNP had_VBD not_RB thrown_VBN him_PRP out_RP ._.
+In_IN fact_NN she_PRP attended_VBD to_TO his_PRP$ needs_NNS more_JJR than_IN before_RB ._.
+Revered_VBD him_PRP more_JJR than_IN her_PRP$ own_JJ father_NN ._.
+To_TO tell_VB the_DT truth_NN ,_, Noor_NNP had_VBD given_VBN herself_PRP up_RP to_TO Ramanath_NNP in_IN order_NN to_TO save_VB her_PRP$ old_JJ and_CC infirm_JJ father-in_NN -_: law_NN ._.
+She_PRP did_VBD not_RB know_VB why_WRB a_DT sorrow_NN welled_VBD up_RP within_IN her_PRP$ whenever_WRB she_PRP looked_VBD at_IN that_DT skeletal_JJ old_JJ man_NN ._.
+For_IN so_RB many_JJ years_NNS he_PRP had_VBD kept_VBN the_DT Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ land_NN green_JJ ,_, breathing_NN and_CC meaningful_JJ ._.
+Today_NN he_PRP did_VBD not_RB have_VB the_DT capacity_NN to_TO work_VB ._.
+His_PRP$ head_NN reeled_VBD if_IN he_PRP went_VBD out_RB in_IN the_DT sun_NN ,_, if_IN he_PRP got_VBD wet_JJ in_IN the_DT rain_NN he_PRP had_VBD breathing_NN trouble_NN ._.
+If_IN she_PRP had_VBD not_RB accepted_VBN Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ adulterous_JJ proposal_NN they_PRP would_MD be_VB thrown_VBN out_IN of_IN their_PRP$ homestead_NN ._.
+Thank_VB god_NN she_PRP had_VBD that_IN graceful_JJ desirable_JJ body_NN !_.
+It_PRP was_VBD evident_JJ that_IN her_PRP$ old_JJ father_NN ``_`` in-law_NN could_MD not_RB accept_VB this_DT immorality_NN ._.
+It_PRP was_VBD evident_JJ from_IN his_PRP$ taking_VBG to_TO drinking_NN at_IN this_DT age_NN ._.
+Nuruddin_NNP who_WP once_RB thought_VBD himself_PRP to_TO be_VB a_DT true_JJ Muslim_NNP now_RB he_PRP drank_VB country_NN liquor_NN to_TO remain_VB oblivious_JJ of_IN the_DT love_NN ``_`` making_VBG moans_VBZ that_IN he_PRP sometimes_RB heard_VBD at_IN night_NN ._.
+But_CC everything_NN had_VBD changed_VBN now_RB ._.
+Although_IN it_PRP seemed_VBD quite_RB a_DT burden_NN in_IN the_DT beginning_NN ,_, she_PRP now_RB enjoyed_VBD her_PRP$ physical_JJ contact_NN with_IN Bhattacharjee_NNP ._.
+She_PRP also_RB felt_VBD an_DT attraction_NN ,_, but_CC she_PRP could_MD comprehend_VB that_IN it_PRP is_VBZ not_RB of_IN the_DT soul_NN ._.
+But_CC one_CD could_MD not_RB deny_VB the_DT body_NN ._.
+Bhattacharjee_NNP also_RB liked_VBD Noor_NNP ._.
+Or_CC else_RB would_MD one_CD spend_VBP so_RB much_RB just_RB to_TO spend_VB 5-6_CD nights_NNS every_DT month_NN ?_.
+Last_JJ week_NN when_WRB Bhattacharjee_NNP came_VBD on_IN his_PRP$ visit_NN ,_, Noor_NNP was_VBD running_VBG a_DT high_JJ temperature_NN ._.
+The_DT man_NN did_VBD not_RB do_VB anything_NN ._.
+Rather_RB he_PRP sent_VBD Puron_NNP to_TO Angrabhasa_NNP to_TO fetch_VB medicines_NNS form_VBP Kalu_NNP doctor_NN ._.
+At_IN night_NN he_PRP caressed_VBD her_PRP$ touching_VBG her_PRP$ lightly_RB on_IN her_PRP$ forehead_NN ._.
+Noor_NNP attempted_VBD to_TO open_VB her_PRP$ sari_NN ._.
+Bhattacharjee_NNP said_VBD -_: oeAre_NNP you_PRP mad_JJ ?_.
+Am_VBP I_PRP an_DT animal_NN ?_.
+Sleep_VB off_RP quietly_RB ._. ''_''
+After_IN taking_VBG the_DT tablet_NN Noor_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ temperature_NN went_VBD down_RB ._.
+She_PRP did_VBD not_RB know_VB when_WRB she_PRP drifted_VBD off_RP ._.
+She_PRP woke_VBD up_RP at_IN dawn_NN to_TO find_VB Bhattacharjee_NNP sleeping_VBG beside_IN her_PRP ,_, a_DT little_JJ shrunken_NN ._.
+Noor_NNP pulled_VBD the_DT blanket_NN upto_VB his_PRP$ neck_NN ._.
+A_DT little_JJ light_JJ slinked_VBN in_IN through_IN the_DT window_NN ._.
+In_IN that_DT enchanting_VBG light_JJ she_PRP looked_VBD at_IN Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ face_NN ._.
+It_PRP wasn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD so_RB impure_JJ after_IN all_DT ._.
+Noor_NNP walked_VBD out_IN of_IN the_DT room_NN ._.
+Her_PRP$ father-in-law_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ door_NN was_VBD already_RB open_JJ ._.
+She_PRP could_MD see_VB Puron_NNP lying_VBG prostrate_NN on_IN the_DT bed_NN ._.
+The_DT red_JJ car_NN near_IN the_DT gate_NN was_VBD sopping_VBG with_IN dew_NN ._.
+Towards_IN the_DT farm_NN behind_IN the_DT house_NN ,_, Nuruddin_NNP sat_VBD basking_VBG in_IN the_DT sun_NN on_IN a_DT big_JJ rock_NN under_IN the_DT \*_NN shefali_NN \*_SYM tree_NN ._.
+That_DT was_VBD his_PRP$ favorite_JJ spot_NN ._.
+Abundant_JJ \*_SYM shefali_NNS \*_SYM flowers_NNS had_VBD fallen_VBN on_IN the_DT ground_NN ._.
+An_DT intoxicating_VBG fragrance_NN emanated_VBN from_IN them_PRP ._.
+In_IN his_PRP$ white_JJ cap_NN ,_, brick_NN ``_`` colored_VBN shawl_NN and_CC checkered_VBD lungi_NNS the_DT fair_JJ Nuruddin_NN looked_VBD as_IN if_IN he_PRP had_VBD come_VBN down_RP form_NN the_DT sky_NN along_IN with_IN the_DT sun_NN rays_NNS ._.
+The_DT old_JJ man_NN would_MD climb_VB back_RB to_TO heaven_NN one_CD day_NN with_IN the_DT help_NN of_IN the_DT sunrays_NNS ._.
+--_: Is_VBZ your_PRP$ fever_NN down_IN ?_.
+Did_VBD you_PRP have_VBP the_DT tablet_NN ?_.
+-_: Yes_UH ,_, down_RB ._.
+Did_VBD you_PRP not_RB sleep_VB Abba_NNP ?_.
+-_: You_PRP were_VBD running_VBG temperature_NN ._.
+How_WRB could_MD I_PRP sleep_VB ?_.
+I_PRP was_VBD worried_VBN ._.
+Come_VBN here_RB ._.
+Sit_NNP for_IN a_DT while_NN ._.
+It_PRP is_VBZ suddenly_RB winter_NN ._.
+Noor_NNP sat_VBD beside_IN her_PRP$ father_NN -_: in_IN -_: law_NN covering_VBG her_PRP$ head_NN with_IN her_PRP$ shawl_NN ,_, a_DT little_JJ curled_VBD up_RP ._.
+-_: You_PRP have_VBP so_RB much_JJ of_IN problem_NN because_IN of_IN me_PRP Noor_NNP ._.
+If_IN I_PRP would_MD die_VB you_PRP could_MD live_VB in_IN peace_NN ._.
+I_PRP will_MD not_RB even_RB find_VB a_DT place_NN in_IN hell_NN ._.
+I_PRP sell_VBP you_PRP for_IN my_PRP$ living_NN ._.
+Noor_NNP listened_VBD to_TO such_JJ babble_JJ everyday_JJ ._.
+It_PRP had_VBD no_DT effect_NN on_IN her_PRP ._.
+She_PRP did_VBD not_RB reply_VB ._.
+She_PRP picked_VBD up_RP some_DT s_PRP \*_SYM hefali_FW \*_SYM flowers_NNS from_IN the_DT ground_NN ._.
+Was_VBD it_PRP so_RB easy_JJ to_TO die_VB ?_.
+So_RB much_RB of_IN disease_NN ,_, self-deception_NN ,_, oppression_NN --_: yet_RB life_NN seemed_VBD to_TO have_VB a_DT beauty_NN of_IN its_PRP$ own_JJ ._.
+Even_RB now_RB when_WRB the_DT \*_NN shefali_NN \*_SYM flowers_NNS bloom_VBP it_PRP feels_VBZ like_IN \*_SYM Id_NN \*_SYM time_NN ._.
+-_: The_DT flowers_NNS are_VBP so_RB beautiful_JJ ,_, aren_JJ <sup>_NN TM_NNP </sup>_NNP t_IN they_PRP \*_SYM Abba_NNP \*_SYM ?_.
+-_: There_EX <sup>_VBZ TM_NNP </sup>_NNP s_VBZ nothing_NN as_IN beautiful_JJ as_IN you_PRP ._.
+But_CC what_WP a_DT value_NN of_IN this_DT beauty_NN !_.
+Nuruddin_NNP sighed_VBD ._.
+He_PRP was_VBD asthmatic_JJ ._.
+His_PRP$ breath_NN trembled_VBD ._.
+Noor_NNP did_VBD not_RB reply_VB even_RB to_TO this_DT ._.
+She_PRP touched_VBD the_DT flowers_NNS one_CD by_IN one_CD and_CC said_VBD oeBhattacharjee_NNP wants_VBZ to_TO get_VB me_PRP married_JJ ..._: are_VBP you_PRP listening_VBG ?_. ''_''
+-_: Haa_NN ._.
+I_PRP know_VBP ,_, with_IN Rasik_NNP isn_NN <sup>_VBD TM_NNP </sup>_NNP t_VBD it_PRP ?_.
+I_PRP know_VBP that_IN chap_NN since_IN his_PRP$ childhood_NN ._.
+A_DT very_RB good_JJ human_JJ ._.
+Allah_NNP has_VBZ poured_VBN all_PDT his_PRP$ melody_JJ onto_IN him_PRP ._.
+-_: I_PRP heard_VBD that_IN he_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ lame_JJ ,_, he_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ an_DT idiot_NN ._.
+--_: Yes_UH ,_, Yes_UH ,_, I_PRP know_VBP everything_NN ._.
+But_CC he_PRP has_VBZ melody_NN ._.
+There_EX is_VBZ magic_NN in_IN his_PRP$ voice_NN ._.
+-_: Have_VBP you_PRP heard_VBD him_PRP singing_VBG ?_.
+-_: Yes_UH ,_, I_PRP have_VBP ._.
+Many_JJ times_NNS ._.
+He_PRP also_RB knows_VBZ \*_SYM Jari-Jikir_NNP ._.
+\*_SYM Nuruddin_NN began_VBD humming_VBG --_: \*_SYM Prem_NNP jane_NN na_TO rasik_VB kalachand_RB o_JJ mor_NN jhuriya_NN thake_NN mon_VB \*_SYM \*_SYM Katodine_NNP bondhur_NN sone_NN habo_NN darishon_NN \*_SYM \*_SYM Mor_NNP mon_FW urau_FW parng_FW kore_FW \*_SYM \*_SYM Bhador_NNP mashi_FW deoyor_FW jhobi_FW tappas_FW ki_FW tuppush_FW ki_FW jhamjhamaiya_FW pore_FW re_FW \*_SYM \*_SYM Hai_FW hai_FW praner_FW bondhu_FW re_FW ..._: \*_SYM -LRB-_-LRB- What_WP is_VBZ love_NN amorous_JJ Kalachand_NNP does_VBZ not_RB know_VB ,_, love_VB occupies_VBZ my_PRP$ mind_NN When_WRB will_MD meet_VB my_PRP$ friend_NN my_PRP$ mind_NN is_VBZ restless_JJ The_DT rain_NN in_IN the_DT month_NN of_IN \*_SYM bhador_NN \*_SYM drips_VBZ drops_NNS pours_VBZ down_RP Alas_NNP my_PRP$ dear_RB friend_NN ..._: -RRB-_-RRB- Noorjahan_JJ inhaled_VBD the_DT smell_NN of_IN the_DT flowers_NNS and_CC listened_VBD to_TO the_DT cracking_VBG nasal_JJ voice_NN of_IN his_PRP$ father_NN -_: in-law_NN ._.
+That_DT meant_VBD Abba_NNP had_VBD agreed_VBN ._.
+This_DT loose_JJ skinned_VBN haggard_NN did_VBD not_RB know_VB that_IN by_IN marrying_VBG Noor_NNP to_TO Rasik_NNP ,_, Bhattacharjee_NNP only_RB wanted_VBD to_TO secure_VB her_PRP$ for_IN himself_PRP ,_, wanted_VBD to_TO make_VB her_PRP$ his_PRP$ kept_VBN ._.
+Even_RB if_IN he_PRP knew_VBD ,_, the_DT spineless_JJ old_JJ man_NN did_VBD not_RB have_VB the_DT capability_NN to_TO disapprove_VB ._.
+He_PRP lived_VBD at_IN Noor_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ generosity_NN ,_, like_IN a_DT worm_NN ,_, and_CC Noor_NNP lived_VBD at_IN the_DT generosity_NN of_IN Ramanath_NNP Bhattacharjee_NNP ._.
+Noor_NNP had_VBD never_RB seen_VBN Rashik_NNP ._.
+Bhattacharjee_NNP said_VBD that_IN he_PRP was_VBD an_DT idiot_NN ,_, crazy_JJ about_IN songs_NNS ._.
+Foam_NN seeped_VBD out_IN of_IN his_PRP$ mouth_NN ._.
+He_PRP worked_VBD like_IN a_DT bull_NN ._.
+Even_RB if_IN he_PRP was_VBD abused_VBN as_IN a_DT son_NN of_IN a_DT bitch_NN he_PRP displayed_VBD all_PDT his_PRP$ teeth_NNS ._.
+One_CD of_IN his_PRP$ legs_NNS was_VBD smaller_JJR ,_, he_PRP limped_VBD ._.
+He_PRP was_VBD physically_RB weak_JJ ._.
+He_PRP knew_VBD no_DT desire_NN ._.
+That_DT is_VBZ why_WRB if_IN she_PRP married_VBD Rashik_NNP they_PRP could_MD live_VB closer_RBR comfortably_RB ._.
+Everything_NNP around_RB was_VBD changing_VBG fast_RB ._.
+Change_NNP was_VBD evident_JJ everywhere_RB ._.
+When_WRB Fakruddin_NNP was_VBD murdered_VBN it_PRP was_VBD whispered_VBN that_IN it_PRP was_VBD Bhattacharjee_NNP who_WP had_VBD got_VBN Fakruddin_NNP murdered_VBN in_IN order_NN to_TO enjoy_VB Noor_NNP ._.
+But_CC Ramanath_NNP Bhattacharjee_NNP never_RB did_VBD anything_NN like_IN that_DT ._.
+To_TO him_PRP right_RB or_CC left_VBD all_DT parties_NNS were_VBD equal_JJ ._.
+He_PRP donated_VBD generously_RB to_TO all_DT ._.
+But_CC why_WRB would_MD people_NNS believe_VB ?_.
+Spending_VBG nights_NNS with_IN Noor_NNP beside_IN river_NN Gildani_NNP was_VBD becoming_VBG risky_JJ ._.
+He_PRP might_MD be_VB gheraored_VBN by_IN some_DT hoodlums_NNS some_DT day_NN ._.
+Youngsters_NNS looked_VBD out_RP for_IN such_JJ chances_NNS ._.
+Then_RB his_PRP$ honor_NN would_MD be_VB at_IN stake_NN ._.
+But_CC Ramanath_NNP wanted_VBD Noor_NNP desperately_RB ._.
+It_PRP was_VBD a_DT kind_NN of_IN intoxication_NN for_IN Ramanath_NNP ._.
+After_IN those_DT who_WP were_VBD for_IN change_NN won_VBD the_DT Panchayat_NNP elections_NNS ,_, Ramanath_NNP visited_VBD them_PRP and_CC gave_VBD them_PRP a_DT substantial_JJ donation_NN ._.
+People_NNS in_IN power_NN had_VBD indirectly_RB supported_VBN Ramanath_NNP in_IN everyway_NN so_RB long_RB ._.
+But_CC Ramanath_NNP feared_VBD the_DT young_JJ faces_NNS ._.
+It_PRP wouldn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD be_VB a_DT problem_NN getting_VBG Rasik_NNP to_TO agree_VB for_IN the_DT marriage_NN with_IN a_DT few_JJ strong_JJ words_NNS of_IN rebuke_NN ._.
+It_PRP was_VBD difficult_JJ to_TO get_VB Noor_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ consent_NN ._.
+Ramanath_NNP had_VBD even_RB persuaded_VBN Nuruddin_NNP ._.
+He_PRP said_VBD that_IN he_PRP would_MD allow_VB Nuruddin_NNP to_TO stay_VB in_IN a_DT room_NN beside_IN Rasik_NNP that_WDT is_VBZ now_RB occupied_VBN by_IN the_DT laborers_NNS ._.
+Only_RB ,_, Noor_NNP did_VBD not_RB agree_VB ._.
+She_PRP was_VBD god-fearing_JJ ._.
+Noor_NNP picked_VBD up_RP the_DT \*_NN shefali_NN \*_SYM flowers_NNS and_CC walked_VBD towards_IN the_DT river_NN bank_NN beside_IN the_DT farmland_NN ._.
+There_EX lay_VBD Fakruddin_NNP in_IN his_PRP$ grave_NN ._.
+She_PRP placed_VBD the_DT flowers_NNS on_IN his_PRP$ grave_NN and_CC walked_VBD slowly_RB back_RB ._.
+She_PRP entered_VBD her_PRP$ room_NN and_CC gave_VBD the_DT sleeping_VBG Ramanath_NNP a_DT light_JJ push_NN ._.
+As_IN the_DT man_NN opened_VBD his_PRP$ eyes_NNS Noor_NNP said_VBD ''_'' oeI_NNP am_VBP ready_JJ to_TO marry_VB your_PRP$ dumb_JJ Rashik_NNP ._.
+I_PRP thought_VBD over_IN and_CC over_IN last_JJ night_NN ._.
+You_PRP were_VBD right_RB ._. ''_''
+Ramanath_NNP returned_VBD home_RB early_JJ to_TO find_VB Rashik_NNP seated_VBN on_IN the_DT wicker_NN stool_NN in_IN the_DT beetle_NN nut_NN orchard_NN and_CC singing_NN as_IN usual_JJ ._.
+The_DT noise_NN of_IN the_DT car_NN drowned_VBD the_DT words_NNS ._.
+Puron_NNP garaged_VBD the_DT car_NN and_CC walked_VBD off_RP home_NN ._.
+A_DT syrupy_JJ sunlight_NN began_VBD in_IN the_DT beetle_NN nut_NN orchard_NN and_CC spread_NN across_IN the_DT sprawling_VBG potato_NN farm_NN ._.
+The_DT delicate_JJ triumph_NN of_IN green_JJ assured_VBN that_IN the_DT harvest_NN would_MD be_VB good_JJ this_DT time_NN ._.
+Nagen_NNP and_CC Banga_NNP were_VBD working_VBG right_RB in_IN the_DT middle_NN of_IN the_DT farm_NN ._.
+They_PRP seemed_VBD to_TO be_VB clearing_VBG the_DT weeds_NNS ._.
+It_PRP looked_VBD like_IN they_PRP were_VBD swimming_VBG in_IN a_DT green_JJ sea_NN ._.
+But_CC both_DT of_IN them_PRP are_VBP very_RB shrewd_JJ ,_, wicked_JJ ._.
+The_DT first_JJ thing_NN he_PRP had_VBD to_TO do_VB was_VBD to_TO give_VB them_PRP a_DT notice_NN to_TO vacate_VB their_PRP$ rooms_NNS ._.
+He_PRP walked_VBD few_JJ paces_NNS and_CC stood_VBD in_IN the_DT sun_NN trying_VBG to_TO listen_VB to_TO Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ song_NN ._.
+\*_SYM Sadher_JJR bhomra_NN uriya_NN pore_NN thai_FW thai_FW \*_SYM \*_SYM Kay_NNP kay_NN se_FW keuya_FW phule_FW madhu_FW nai_FW \*_SYM \*_SYM Phuler_NNP ala_NN madhu_NN nai_FW bhomarao_FW ashe_FW na_TO \*_SYM \*_SYM Moner_JJR jato_NN gopon_NN katha_NN khuliya_NN kabar_NN chang_VBD \*_SYM \*_SYM Kaak_NNP kakim_NN mor_NN moner_NN katha_NN manushe_NN naa_NN pang_NN \*_SYM -LRB-_-LRB- The_DT bumble_VB bee_NN flies_VBZ and_CC falls_VBZ with_IN a_DT noise_NN he_PRP says_VBZ keya_NN flowers_NNS do_VBP not_RB bear_VB honey_NN there_EX is_VBZ no_DT honey_NN in_IN the_DT flowers_NNS ,_, no_DT bee_NN comes_VBZ I_PRP want_VBP to_TO speak_VB out_RP my_PRP$ mind_NN To_TO whom_WP should_MD I_PRP speak_VB out_RP my_PRP$ mind_NN I_PRP find_VBP no_DT one_NN -RRB-_-RRB- Ramanath_NNP listened_VBD to_TO the_DT song_NN and_CC smiled_VBD inwardly_RB ._.
+Rashik_NNP was_VBD singing_VBG ,_, self_NN -_: absorbed_VBN ._.
+He_PRP wore_VBD a_DT sky_NN colored_VBN pyjama_NN ._.
+He_PRP was_VBD wrapped_VBN in_IN an_DT old_JJ shawl_NN that_WDT Aradhana_NNP had_VBD brought_VBN for_IN him_PRP from_IN Dhupguri_NNP once_RB ._.
+On_IN his_PRP$ head_NN was_VBD a_DT brown_JJ tattered_JJ balaclava_NN ._.
+Fog_NN came_VBD out_IN of_IN his_PRP$ mouth_NN ._.
+He_PRP looked_VBD just_RB like_IN a_DT monkey_NN ._.
+Ramanath_NNP had_VBD never_RB thought_VBN that_IN this_DT shapeless_JJ lame_JJ Rashik_NN would_MD be_VB so_RB useful_JJ to_TO him_PRP one_CD day_NN ._.
+He_PRP smiled_VBD ._.
+Nanda_NNP served_VBD him_PRP tea_NN ._.
+He_PRP carried_VBD the_DT teacup_NN to_TO the_DT sun_NN and_CC called_VBN up_RP Aradhana_NNP ._.
+-_: Calling_VBG up_RP so_RB early_RB ?_.
+What_WP is_VBZ the_DT matter_NN ?_.
+-_: There_EX <sup>_VBZ TM_NNP </sup>_NNP s_VBZ good_JJ news_NN ._.
+-_: What_WP is_VBZ it_PRP ?_.
+The_DT rates_NNS of_IN potatoes_NNS have_VBP gone_VBN up_RP ?_.
+The_DT wholesale_JJ dealers_NNS have_VBP crowded_VBN to_TO you_PRP ?_.
+-_: \*_SYM Dhuur_NNP \*_SYM !_.
+You_PRP have_VBP taken_VBN after_IN your_PRP$ son_NN ._.
+This_DT is_VBZ a_DT different_JJ ._.
+-_: Awww_NNP ._.
+What_WP is_VBZ that_IN ?_.
+-_: I_PRP fixed_VBN up_RP Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ marriage_NN yesterday_NN ._.
+-_: Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ marriage_NN ?_.
+What_WP ?_.
+Where_WRB ?_.
+-_: In_IN Gilandi_NNP ._.
+-_: That_WDT <sup>_VBZ TM_NNP </sup>_NNP s_VBZ really_RB a_DT good_JJ news_NN ._.
+Is_VBZ she_PRP auspicious_JJ ?_.
+What_WP <sup>_VBZ TM_NNP </sup>_NNP s_VBZ her_PRP$ name_NN ?_.
+-_: Noorjahan_NN ._.
+-_: Noorjahan_NN !_.
+-_: \*_SYM Aare_NNP \*_SYM our_PRP$ old_JJ caretaker_NN at_IN Gilandi_NNP ,_, Nuruddin_NNP Alam_NNP ._.
+Don_NNP <sup>_NNP TM_NNP </sup>_NNP t_VB you_PRP remember_VB ?_.
+-_: Yes_UH ,_, yes_UH ,_, his_PRP$ son_NN Fakru_NNP ,_, he_PRP used_VBD to_TO do_VB farming_VBG in_IN our_PRP$ land_NN ._.
+He_PRP had_VBD been_VBN murdered_VBN ._.
+-_: She_PRP is_VBZ the_DT widow_NN of_IN Fakru_NNP ._.
+-_: In_IN the_DT end_NN you_PRP are_VBP marrying_VBG Rasik_NNP to_TO a_DT Muslim_NNP ?_.
+-_: \*_SYM Aare_NNP \*_SYM I_PRP will_MD convert_VB Noorjahan_NNP into_IN a_DT Hindu_NNP ._.
+-_: What_WP does_VBZ Rasik_NNP say_VB ?_.
+Has_VBZ he_PRP agreed_VBD ?_.
+-_: \*_SYM Dhuur_NNP \*_SYM ,_, he_PRP doesn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD yet_RB know_VB ._.
+That_DT irritated_JJ Anuradha_NNP ._.
+-_: That_WDT is_VBZ not_RB right_JJ ._.
+One_CD who_WP is_VBZ getting_VBG marred_VBN will_MD not_RB know_VB ?_.
+Won_NNP <sup>_NNP TM_NNP </sup>_NNP t_VB you_PRP consult_VB him_PRP ?_.
+Do_VBP not_RB impose_VB everything_NN on_IN him_PRP like_IN this_DT ._.
+--_: \*_SYM Aare_NNP \*_SYM Rasik_NNP is_VBZ a_DT stupid_JJ bull_NN ._.
+All_DT he_PRP needs_VBZ is_VBZ yoking_VBG and_CC caning_VBG at_IN the_DT back_NN ._.
+-_: Do_VBP not_RB start_VB with_IN your_PRP$ abuses_NNS so_RB early_RB ._.
+Don_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD know_VB what_WP witch_NN you_PRP are_VBP getting_VBG for_IN him_PRP ._.
+--_: No_DT witch_NN ._.
+Fairy_NN ._.
+Fairy_NN ._.
+Rasik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ fourteen_CD generation_NN hadn_NN <sup>_VBD TM_NNP </sup>_NNP t_VBD seen_VBN such_PDT a_DT fairy_NN ._.
+-_: Rashik_NN will_MD be_VB getting_VBG married_JJ and_CC I_PRP won_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD be_VB there_RB ?_.
+Feeling_VBG very_RB sad_JJ about_IN it_PRP ._.
+Look_VB even_RB if_IN you_PRP call_VBP him_PRP a_DT bull_NN Rashik_NNP is_VBZ a_DT good_JJ chap_NN ._.
+Do_VBP not_RB do_VB anything_NN that_WDT will_MD hurt_VB Rashik_NNP ._.
+\*_SYM Bechara_NNP \*_SYM ._.
+Even_RB if_IN he_PRP is_VBZ in_IN trouble_NN he_PRP will_MD never_RB complain_VB ._.
+Aradhana_NNP began_VBD with_IN her_PRP$ lecturing_NN early_RB morning_NN ._.
+Now_RB Ramanath_NNP got_VBD irritated_JJ ._.
+The_DT woman_NN will_MD never_RB miss_VB any_DT chance_NN of_IN lecturing_NN ._.
+Habits_NNS die_VBP hard_RB ._.
+-_: Why_WRB are_VBP you_PRP so_RB worried_JJ ?_.
+The_DT bull_NN will_MD get_VB a_DT good_JJ wife_NN ._.
+-_: Gift_NN some_DT gold_NN to_TO Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ bride_NN ._.
+Present_JJ Rashik_NNP a_DT finger-ring_NN ,_, a_DT wristwatch_NN ._.
+Make_VB a_DT bed_NN for_IN them_PRP ._.
+-_: Yes_UH ,_, yes_UH ._.
+Will_MD do_VB everything_NN ._.
+Disconnecting_VBG his_PRP$ cell_NN phone_NN he_PRP pocketed_VBD it_PRP to_TO find_VB Rashik_NNP standing_VBG right_RB in_IN front_NN of_IN him_PRP ._.
+As_IN Ramanath_NNP looked_VBD at_IN him_PRP he_PRP smiled_VBD with_IN all_DT his_PRP$ teeth_NNS out_RP ._.
+Then_RB he_PRP extended_VBD his_PRP$ hand_NN and_CC said_VBD oeHand_NNP me_PRP the_DT teacup_NN \*_SYM karta_FW ._.
+\*_SYM I_PRP <sup>_VBP TM_NNP </sup>_NNP ll_VBD keep_VB it_PRP in_IN the_DT kitchen_NN ._. ''_''
+He_PRP took_VBD the_DT empty_JJ cup_NN form_NN Ramanath_NNP <sup>_NNP ~_NNP </sup>_NNP s_VBZ hand_NN and_CC limped_VBD towards_IN the_DT kitchen_NN ._.
+Ramanath_NNP turned_VBD his_PRP$ head_NN to_TO look_VB at_IN him_PRP ._.
+He_PRP looked_VBD like_IN a_DT primate_NN slowly_RB walking_VBG forward_RB ``_`` a_DT creature_NN somewhere_RB in_IN between_IN man_NN and_CC animal_NN ._.
+Does_VBZ a_DT dumbo_NN like_IN him_PRP have_VBP anything_NN called_VBN sexual_JJ urge_NN ?_.
+Ramanath_NNP asked_VBD himself_PRP ._.
+Then_RB he_PRP took_VBD the_DT ridge_NN path_NN of_IN the_DT potato_NN farm_NN and_CC walked_VBD towards_IN Nagen_NNP and_CC Banga_NNP calculating_VBG the_DT interests_NNS that_IN he_PRP had_VBD to_TO reap_VB this_DT year_NN to_TO make_VB up_RP for_IN last_JJ year_NN <sup>_IN TM_NNP </sup>_NNP s_VBZ losses_NNS ._.
+The_DT wholesalers_NNS of_IN Dhupguri_NNP were_VBD already_RB willing_JJ to_TO buy_VB at_IN 500_CD per_IN quintal_JJ ._.
+In_IN the_DT evening_NN when_WRB the_DT sun_NN was_VBD dying_VBG but_CC the_DT far_RB ends_VBZ of_IN potato_NN farm_NN still_RB basked_VBN in_IN a_DT saffron_NN glow_NN ,_, Ramanath_NNP stepped_VBD onto_IN Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ verandah_NN for_IN the_DT first_JJ time_NN ._.
+Inside_IN Rashik_NNP was_VBD singing_VBG as_IN usual_JJ ''_'' \*_SYM Aji_FW aulailen_FW mor_FW banda_FW mayal_FW re_FW \*_SYM \*_SYM Hatir_NNP pithite_NN thakiyare_NN mahut_NN \*_SYM \*_SYM Kisher_JJR batul_NN maro_NN \*_SYM \*_SYM Ore_NNP porer_NN oi_NN kaminike_NN dekhiya_NN \*_SYM \*_SYM Jaila_NN keno_NN maro_NN ro_NN ..._: \*_SYM -LRB-_-LRB- Today_NN my_PRP$ pet_NN python_NN uttered_VBD Mahout_NNP ,_, sitting_VBG on_IN the_DT elephant_NN back_RB Why_WRB do_VBP you_PRP whip_VB the_DT elephant_NN Why_WRB do_VBP you_PRP burn_VBP with_IN jealousy_NN Seeing_VBG another_DT <sup>_NN TM_NNP </sup>_NNP s_VBZ love_NN -RRB-_-RRB- Listening_VBG to_TO few_JJ lines_NNS Ramanath_NNP had_VBD a_DT feeling_NN ;_: was_VBD the_DT son_NN of_IN the_DT bitch_NN intending_VBG those_DT lines_NNS at_IN him_PRP ?_.
+Ramanath_NNP coughed_VBD deliberately_RB ._.
+He_PRP pushed_VBD the_DT door_NN open_JJ and_CC entered_VBD into_IN the_DT room_NN ,_, for_IN the_DT first_JJ time_NN ._.
+This_DT was_VBD his_PRP$ room_NN ,_, why_WRB did_VBD he_PRP need_VB permission_NN ?_.
+Rashik_NNP was_VBD completely_RB taken_VBN aback_RB ._.
+Ramanath_NNP was_VBD equally_RB surprised_JJ ._.
+The_DT room_NN was_VBD smaller_JJR than_IN a_DT cow_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ shed_VBN ._.
+Rashik_NNP had_VBD kept_VBN it_PRP spick_JJ and_CC span_NN ._.
+The_DT bed_NN was_VBD neatly_RB arranged_VBN ,_, the_DT broken_JJ chair_NN was_VBD clean_JJ and_CC shinning_JJ ._.
+An_DT old_JJ Murphy_NNP radio_NN on_IN the_DT table_NN ._.
+A_DT glass_NN of_IN water_NN covered_VBN with_IN a_DT plate_NN ._.
+A_DT crude_JJ flute_NN beside_IN it_PRP ._.
+Smell_NN of_IN incense_NN stick_NN ._.
+Lot_NN of_IN calendars_NNS carrying_VBG pictures_NNS of_IN gods_NNS ``_`` Shiv_NNP -_: Parvati-Ganesh_NNP ``_`` Durga_NNP ``_`` Kartick_NNP -_: Kali_NNP ._.
+Jesus_NNP Christ_NNP was_VBD also_RB there_RB ._.
+Also_RB a_DT picture_NN of_IN Kabba_NNP of_IN Mecca_NNP ._.
+Rashik_NNP dusted_VBD the_DT chair_NN with_IN the_DT gamcha_NN that_WDT hung_VBD on_IN his_PRP$ shoulders_NNS and_CC said_VBD ''_'' oeSit_NNP \*_SYM Kartababu_NNP \*_SYM ._.
+How_WRB did_VBD come_VB suddenly_RB ?_. ''_''
+Ramanath_NNP sat_VBD on_IN the_DT chair_NN and_CC he_PRP took_VBD up_RP the_DT flute_NN ._.
+Rashik_NNP said_VBD ''_'' oeMother_NNP has_VBZ left_VBN me_PRP this_DT ._.
+It_PRP was_VBD father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ flute_NN ._.
+It_PRP is_VBZ like_IN god_NN <sup>_NN TM_NNP </sup>_NNP s_VBZ gift_NN to_TO me_PRP ._. ''_''
+-_: Rashik_NNP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_IN you_PRP want_VBP to_TO marry_VB ?_.
+-_: Marry_VB ?_.
+-_: Yes_UH ._.
+Everybody_NN marries_NNS ._.
+Keeps_VBZ a_DT family_NN ._.
+-_: No._NN ._.
+I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD wish_NN to_TO marry_VB ._.
+-_: Why_WRB ?_.
+Why_WRB don_VBP <sup>_JJ TM_NNP </sup>_NNP t_IN you_PRP wish_VBP to_TO marry_VB ?_.
+-_: You_PRP know_VBP everything_NN ._.
+I_PRP can_MD <sup>_VB TM_NNP </sup>_NNP t_VBD work_NN efficiently_RB ._.
+I_PRP am_VBP rebuked_VBN ._.
+I_PRP do_VBP not_RB earn_VB much_RB ._.
+Besides_IN ,_, I_PRP am_VBP lame_JJ ._.
+Physically_RB weak_JJ ._.
+I_PRP have_VBP no_DT brains_NNS ._.
+Everybody_NN calls_VBZ me_PRP cow_NN ._.
+You_PRP know_VBP everything_NN ._.
+-_: I_PRP will_MD enhance_VB your_PRP$ salary_NN ._.
+How_WRB much_RB are_VBP your_PRP$ expenses_NNS now_RB ?_.
+-_: You_PRP bear_VBP the_DT expense_NN of_IN food_NN ._.
+You_PRP have_VBP given_VBN me_PRP a_DT room_NN to_TO stay_VB ,_, and_CC pay_VB me_PRP a_DT thousand_CD ._.
+-_: Okay_UH ,_, from_IN now_RB on_IN your_PRP$ wife_NN will_MD cook_VB for_IN you_PRP ._.
+I_PRP shall_MD pay_VB you_PRP three_CD thousand_CD ._.
+Rashik_NNP thought_VBD something_NN ._.
+Perhaps_RB he_PRP quietly_RB calculated_VBD ._.
+-_: That_WDT will_MD do_VB I_PRP think_VBP ._.
+But_CC Girl_NNP ?_.
+-_: I_PRP have_VBP seen_VBN a_DT girl_NN for_IN you_PRP ._.
+She_PRP is_VBZ a_DT fairy_NN Rashik_NNP ,_, a_DT fairy_NN ._.
+But_CC a_DT widow_NN ._.
+-_: Widow_NN ._.
+\*_SYM Eshsh_NNP \*_SYM ._.
+If_IN hubands_NNS die_VBP the_DT wives_NNS suffer_VBP a_DT lot_NN ._.
+I_PRP saw_VBD my_PRP$ mother_NN ._.
+No_DT husband_NN means_VBZ no_DT life_NN ._.
+-_: Her_PRP$ name_NN is_VBZ Noorjahan_NNP ._.
+She_PRP is_VBZ a_DT Muslim_NNP -_: Muslim_NNP ._.
+-_: Yes_UH ._.
+But_CC I_PRP will_MD convert_VB her_PRP into_IN a_DT Hindu_NNP ._.
+She_PRP will_MD have_VB a_DT different_JJ name_NN ._.
+She_PRP will_MD also_RB do_VB Laxmipuja_NNP ._.
+-_: No._NN ._.
+No._NN ._.
+Why_WRB that_DT ?_.
+My_PRP$ religion_NN is_VBZ mine_JJ ._.
+My_PRP$ wife_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ religion_NN will_MD be_VB hers_NNS ._.
+Why_WRB change_NN ?_.
+-_: Then_RB you_PRP have_VBP agreed_VBN ?_.
+-_: When_WRB you_PRP have_VBP approved_VBN her_PRP$ ..._: But_CC one_CD word_NN ._.
+-_: What_WP ?_.
+-_: Does_VBZ the_DT girl_NN love_NN songs_NNS ?_.
+-_: Listen_VB ._.
+Stop_VB all_PDT these_DT nonsense_NN of_IN yours_NNS ._.
+If_IN she_PRP hears_VBZ your_PRP$ songs_NNS she_PRP will_MD run_VB away_RB the_DT very_RB first_JJ night_NN ._.
+No_DT body_NN listens_VBZ to_TO these_DT songs_NNS now-a-days_RB ._.
+Rashik_NNP was_VBD hurt_VBN ._.
+Then_RB he_PRP laughed_VBD forcefully_RB and_CC added_VBD oeOkay_NNP ,_, that_WDT will_MD be_VB done_VBN ._.
+That_DT means_VBZ she_PRP likes_VBZ movie_NN songs_NNS ._.
+Hindi_NNP movie_NN no_DT ?_.
+That_DT will_MD be_VB done_VBN ._.
+Next_JJ day_NN Banga_NNP and_CC Nagen_NNP were_VBD evicted_VBN ._.
+In_IN a_DT day_NN <sup>_VB TM_NNP </sup>_NNP s_VBZ notice_NN they_PRP rented_VBD rooms_NNS in_IN Puron_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ locality_NN ._.
+They_PRP could_MD not_RB understand_VB what_WP their_PRP$ faults_NNS were_VBD ._.
+Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN became_VBD a_DT big_JJ room_NN once_IN the_DT partition_NN wall_NN in_IN the_DT middle_NN was_VBD removed_VBN ._.
+It_PRP was_VBD as_IN if_IN Rashik_NNP was_VBD watching_VBG a_DT magic_JJ show_NN ._.
+A_DT new_JJ bed_NN came_VBD in_IN ._.
+New_NNP mattress_NN ,_, pillows_NNS ,_, quilt_NN ._.
+One_CD big_JJ mirror_NN ._.
+One_CD small_JJ color_NN TV_NN ._.
+Till_IN now_RB he_PRP used_VBD to_TO light_JJ oil_NN lamp_NN ._.
+New_NNP electric_JJ connection_NN came_VBD in_IN ._.
+A_DT twisted_JJ milk_NN white_JJ bulb_NN gave_VBD out_RP light_NN ._.
+New_NNP table_NN ._.
+Various_JJ cosmetics_NNS for_IN women_NNS ._.
+New_NNP scarlet_JJ red_JJ stove_NN ._.
+Plates-bowls-cauldrons-glasses-ladles-spatula_NN ._.
+Utensils_NNS for_IN kitchen_NN ._.
+One_CD day_NN while_IN spraying_VBG pesticides_NNS in_IN the_DT potato_NN farm_NN Nagen_NNP said_VBD oe_NN I_PRP see_VBP that_IN he_PRP has_VBZ placed_VBN you_PRP in_IN heaven_NN ._.
+Even_RB if_IN he_PRP calls_VBZ you_PRP son_NN of_IN a_DT bitch_NN the_DT landlord_NN loves_VBZ you_PRP from_IN the_DT core_NN of_IN his_PRP$ soul_NN ._. ''_''
+Rashik_NNP laughed_VBD with_IN all_DT his_PRP$ teeth_NNS out_RP ._.
+But_CC as_IN he_PRP laughed_VBD a_DT melancholy_JJ resounded_JJ inside_IN him_PRP ._.
+He_PRP had_VBD not_RB been_VBN singing_VBG the_DT few_JJ days_NNS ._.
+Songs_NNS came_VBD up_RP to_TO his_PRP$ throat_NN fervently_RB trying_VBG to_TO flow_VB out_RP ._.
+But_CC Rashik_NNP did_VBD not_RB sing_VB ._.
+He_PRP strangled_VBD all_DT songs_NNS inside_IN his_PRP$ throat_NN ._.
+His_PRP$ own_JJ room_NN seemed_VBD unfamiliar_JJ to_TO Rashik_NNP ._.
+As_IN if_IN a_DT dream_NN ._.
+He_PRP touched_VBD the_DT TV_NN ._.
+He_PRP touched_VBD the_DT bed_NN ._.
+Nanda_NNP had_VBD come_VBN to_TO instruct_VB him_PRP how_WRB to_TO operate_VB the_DT TV_NN ._.
+Rashik_NNP did_VBD not_RB remember_VB how_WRB ._.
+He_PRP left_VBD the_DT remote_JJ on_IN the_DT table_NN ._.
+He_PRP gained_VBD happiness_NN just_RB out_IN of_IN touching_VBG it_PRP ._.
+He_PRP hid_VBD the_DT old_JJ flute_NN under_IN the_DT mattress_NN to_TO avoid_VB Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ scolding_NN ._.
+He_PRP touched_VBD the_DT stove_NN ._.
+He_PRP touched_VBD the_DT steel_NN utensils_NNS ._.
+Rashik_NNP had_VBD never_RB ever_RB cooked_VBN ._.
+God_NNP knows_VBZ what_WP his_PRP$ wife_NN will_MD cook_VB for_IN him_PRP ._.
+He_PRP lied_VBD on_IN the_DT new_JJ soft_JJ bed_NN at_IN night_NN and_CC sang_VBD softly_RB :_: Baranir_JJ dhaner_NN khoi_FW bhajlam_FW Sonar_FW bondhu_FW mor_FW ashilen_FW koi_FW ?_.
+O_NNP mor_NN bondhu_NN dhon_NN rashiya_NN Guapaan_NNP khaiya_NN jao_NN bagole_NN bashiya_NN -LRB-_-LRB- I_PRP fried_VBD parched_VBN rice_NN My_PRP$ dear_RB friend_NN did_VBD not_RB come_VB O_NNP my_PRP$ friends_NNS come_VBP sometime_RB Sit_VB beside_RB me_PRP and_CC have_VB beetle_JJ nut_NN and_CC paan_NN -RRB-_-RRB- Just_RB two_CD days_NNS after_IN Mahalaya_NNP Ramanath_NNP said_VBD ''_'' oeBath_NNP properly_RB and_CC be_VB ready_JJ tomorrow_NN morning_NN ._.
+I_PRP will_MD go_VB to_TO bring_VB goddess_NN Durga_NNP for_IN you_PRP ._.
+Wear_VB these_DT and_CC look_VB robust_JJ ._. ''_''
+Ramanath_NNP left_VBD a_DT packet_NN for_IN him_PRP ._.
+Rashik_NNP opened_VBD and_CC saw_VBD an_DT embroidered_JJ Punjabi_NNP and_CC one_CD Pyjama_NNP ._.
+Ramanath_NNP had_VBD brought_VBN a_DT sandal_NN for_IN Rashik_NNP before_IN ._.
+Next_JJ morning_NN Rashik_NNP washed_VBD himself_PRP and_CC wore_VBD them_PRP ._.
+Ramanath_NNP took_VBD Puron_NNP and_CC went_VBD to_TO Gilandi_NNP in_IN his_PRP$ car_NN ._.
+There_EX was_VBD another_DT car_NN ._.
+Hired_VBN ._.
+That_DT was_VBD for_IN Rashik_NNP ._.
+Banga_NNP ,_, Nagen_NNP and_CC Nanda_NNP went_VBD along_IN with_IN him_PRP ._.
+Pata_NNP Chakraborty_NNP joined_VBD them_PRP on_IN the_DT highway_NN ._.
+Pata_NNP was_VBD the_DT Government_NN representative_NN here_RB for_IN arranging_VBG registry_NN marriage_NN ._.
+Rashik_NNP sat_VBD shyly_RB in_IN the_DT corridor_NN of_IN the_DT Marriage_NNP Registration_NNP Office_NNP in_IN Jalapiguri_NNP ._.
+Nagen_NNP and_CC Banga_NNP shared_VBD rotten_JJ adult_NN jokes_NNS ._.
+Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ ears_NNS burned_VBD hearing_VBG such_JJ rotten_JJ allusions_NNS to_TO body_NN ._.
+They_PRP waited_VBD for_IN one_CD long_JJ hour_NN ._.
+Nagen_NNP then_RB uttered_VBD the_DT worst_JJS joke_NN of_IN the_DT day_NN ''_'' oeDid_JJ \*_SYM Karta_NNP \*_SYM run_VB away_RB with_IN your_PRP$ bride_NN ?_.
+Such_JJ a_DT long_JJ wait_NN ._.
+They_PRP haven_NN <sup>_NN TM_NNP </sup>_NNP t_VBD yet_RB come_VBN ._. ''_''
+Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ car_NN entered_VBD a_DT little_JJ later_JJ ._.
+Rashik_NNP saw_VBD her_PRP$ white_JJ feet_NNS as_IN she_PRP opened_VBD the_DT door_NN and_CC stepped_VBD out_IN of_IN the_DT car_NN ._.
+Can_MD feet_NNS be_VB so_RB beautiful_JJ ?_.
+So_RB white_JJ ?_.
+Banga_NNP whispered_VBD ''_'' oeShe_NNP has_VBZ come_VBN from_IN heaven_NN Rashik_NNP ._.
+She_PRP is_VBZ not_RB a_DT human_JJ ._.
+She_PRP is_VBZ a_DT fairy_NN ._. ''_''
+They_PRP signed_VBD ,_, got_VBD married_VBN ._.
+While_IN exchanging_VBG garlands_NNS Rashik_NNP looked_VBD at_IN her_PRP$ face_NN ``_`` pretty_RB ,_, but_CC there_EX was_VBD a_DT melancholy_JJ in_IN her_PRP$ face_NN ._.
+After_IN the_DT ceremony_NN Ramanath_NNP took_VBD Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wife_NN in_IN his_PRP$ own_JJ car_NN ._.
+It_PRP did_VBD not_RB matter_VB to_TO Rashik_NNP ,_, but_CC even_RB Pata_NNP Chakraborty_NNP got_VBD angry_JJ ._.
+oeWhat_NNP is_VBZ this_DT ?_.
+After_IN marriage_NN bride_NN and_CC groom_NN should_MD travel_VB together_RB in_IN the_DT same_JJ car_NN ._.
+Why_WRB will_MD the_DT bride_NN travel_NN in_IN the_DT Landlord_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ car_NN ?_. ''_''
+Rashik_NNP took_VBD out_RP all_PDT his_PRP$ teeth_NNS out_RP ._.
+He_PRP smiled_VBD ._.
+Ramanath_NNP woke_VBD up_RP early_JJ next_JJ morning_NN and_CC told_VBD Nanda_NNP :_: oeGo_NNP ,_, call_NN Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wife_NN ._.
+I_PRP will_MD instruct_VB her_PRP to_TO help_VB you_PRP with_IN the_DT housework_NN ._. ''_''
+Nanda_NNP was_VBD very_RB happy_JJ ._.
+She_PRP got_VBD a_DT helper_NN after_IN a_DT long_JJ time_NN ._.
+She_PRP went_VBD and_CC called_VBD Noor_NNP ._.
+Ramanath_NNP sent_VBD Nanda_NNP to_TO the_DT farm_NN to_TO serve_VB Nagen_NNP and_CC Banga_NNP tea_NN and_CC biscuits_NNS ._.
+When_WRB she_PRP went_VBD out_IN of_IN sight_NN behind_IN the_DT beetle_NN nut_NN orchard_NN he_PRP caught_VBD hold_NN of_IN Noor_NNP and_CC gave_VBD her_PRP$ one_CD long_JJ kiss_NN ._.
+-_: See_VB how_WRB I_PRP solved_VBD all_DT problems_NNS ._.
+You_PRP got_VBD a_DT husband_NN ,_, I_PRP got_VBD a_DT fairy_NN ._.
+-_: Yes_UH \*_SYM Karta_NNP \*_SYM ._.
+You_PRP are_VBP very_RB clever_JJ ._.
+-_: He_PRP did_VBD not_RB do_VB anything_NN at_IN night_NN ,_, did_VBD he_PRP ?_.
+-_: No_UH ,_, no_DT ._.
+He_PRP was_VBD very_RB shy_JJ ._.
+He_PRP was_VBD hesitating_VBG to_TO change_VB into_IN his_PRP$ lungi_NN ._.
+He_PRP did_VBD not_RB open_VB his_PRP$ shirt_NN in_IN front_NN of_IN me_PRP ._.
+-_: He_PRP is_VBZ a_DT stupid_JJ fool_NN ._.
+He_PRP has_VBZ no_DT sense_NN of_IN love_NN or_CC desire_NN ._.
+He_PRP eats_VBZ ,_, sleeps_NNS and_CC works_NNS like_IN a_DT bull_NN ._.
+-_: Yes_UH \*_SYM Karta_NNP \*_SYM ._.
+He_PRP sleeps_VBZ deep_JJ ._.
+Snores_NNS loudly_RB ._.
+Ramanath_NNP kissed_VBD Noor_NNP again_RB ,_, felt_VBD her_PRP$ body_NN in_IN various_JJ places_NNS ._.
+He_PRP rubbed_VBD his_PRP$ moustache_NN against_IN her_PRP$ cheek_NN and_CC said_VBD ''_'' oeHe_NNP is_VBZ crazy_JJ about_IN songs_NNS ._.
+During_IN the_DT pujas_NNS he_PRP sings_VBZ wherever_WRB he_PRP gets_VBZ a_DT chance_NN ._.
+Will_MD send_VB the_DT chap_NN off_RP along_IN with_IN Thakurpath_NNP Jatra_NNP Samaj_NNP ._.
+Nanda_NNP also_RB wants_VBZ leave_NN ._.
+She_PRP wants_VBZ to_TO go_VB home_NN ._.
+I_PRP will_MD send_VB her_PRP to_TO Madarihat_NNP in_IN the_DT evening_NN ._. ''_''
+-_: Alright_NNP \*_SYM Karta_NNP \*_SYM ,_, everything_NN <sup>_NN TM_NNP </sup>_NNP s_VBZ alright_NN ._.
+But_CC when_WRB will_MD you_PRP bring_VB Abba_NNP ?_.
+-_: Let_VB the_DT old_JJ man_NN remain_VBP there_RB ._.
+Will_MD send_VB him_PRP some_DT cash_NN to_TO run_VB his_PRP$ household_NN ._.
+--_: He_PRP suffers_VBZ because_IN he_PRP is_VBZ old_JJ ._.
+Bring_VBG Abba_NNP today_NN ._.
+I_PRP feel_VBP sorry_JJ for_IN him_PRP ._.
+--_: Alright_NNP then_RB ._.
+He_PRP can_MD stay_VB in_IN Banga_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN ._.
+-_: Can_MD I_PRP go_VB now_RB ?_.
+-_: Will_MD you_PRP go_VB ?_.
+What_WP will_MD you_PRP do_VB there_RB ?_.
+-_: I_PRP will_MD make_VB some_DT tea_NN ._.
+Serve_VB the_DT man_NN some_DT tea_NN ._.
+--_: \*_SYM Babba_NNP \*_SYM ._.
+Feeling_VBG so_RB much_RB just_RB in_IN one_CD night_NN ?_.
+Ramanath_NNP snorted_VBD ._.
+On_IN Sasthi_NNP it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ Kahgenhat_NNP ._.
+Saptami_NNP Daukmari_NNP ._.
+Asthami_NNP ``_`` Ambadiba_NNP ._.
+Nabami_NNP ``_`` Talipara_NNP ._.
+Rashik_NNP would_MD sing_VB on_IN all_PDT the_DT four_CD days_NNS ._.
+Excited_VBN he_PRP shared_VBD his_PRP$ invitations_NNS with_IN Ramanath_NNP ._.
+He_PRP did_VBD not_RB have_VB any_DT anxiety_NN whatsoever_RB about_IN his_PRP$ newly_RB married_VBN bride_NN who_WP would_MD remain_VB back_JJ home_NN ,_, alone_RB ._.
+-_: When_WRB you_PRP are_VBP there_RB why_WRB do_VBP I_PRP need_VBP to_TO worry_VB ?_.
+I_PRP told_VBD Noor_NNP to_TO cook_VB you_PRP your_PRP$ rice_NN and_CC curry_VB ._.
+Nanda_NNP is_VBZ also_RB not_RB there_RB ._.
+You_PRP are_VBP suffering_VBG ._.
+--_: Will_MD your_PRP$ wife_NN let_VB you_PRP go_VB ?_.
+-_: She_PRP has_VBZ not_RB objected_VBN ._.
+Only_RB demanded_VBD that_IN on_IN Dashami_NNP she_PRP will_MD go_VB to_TO Gayerkanta_NNP burning_NN ghat_NN to_TO see_VB the_DT immersion_NN of_IN the_DT goddess_NN ._.
+I_PRP told_VBD her_PRP that_IN it_PRP will_MD be_VB arranged_VBN ._.
+-_: How_WRB is_VBZ your_PRP$ wife_NN ?_.
+-_: She_PRP is_VBZ very_RB good_JJ \*_SYM Karta_NNP \*_SYM ._.
+She_PRP understands_VBZ sorrow_NN ._.
+She_PRP is_VBZ religious_JJ ._.
+-_: How_WRB did_VBD you_PRP understand_VBP that_IN ?_.
+-_: When_WRB I_PRP play_VBP my_PRP$ flute_NN at_IN night_NN she_PRP cries_VBZ ._.
+Tears_NNS flow_VBP ceaselessly_RB then_RB ._.
+As_IN if_IN she_PRP is_VBZ so_RB much_JJ in_IN agony_NN ._.
+-_: Are_VBP you_PRP playing_VBG your_PRP$ flute_NN for_IN her_PRP$ stupid_JJ ?_.
+-_: I_PRP did_VBD not_RB ._.
+She_PRP wanted_VBD to_TO listen_VB to_TO it_PRP ._.
+There_EX was_VBD father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ flute_NN under_IN the_DT mattress_NN ._.
+She_PRP found_VBD out_RP ._.
+She_PRP said_VBD I_PRP will_MD listen_VB to_TO your_PRP$ flute_NN ._.
+I_PRP played_VBD ._.
+--_: I_PRP had_VBD told_VBN you_PRP not_RB to_TO ._.
+You_PRP dumb_JJ ._.
+-_: I_PRP have_VBP made_VBN a_DT mistake_NN ,_, \*_SYM Karta_NNP \*_SYM ._.
+-_: Does_VBZ anyone_NN play_NN flute_NN at_IN home_NN ?_.
+Play_NNP in_IN the_DT Jatra_NNP ._.
+You_PRP will_MD earn_VB applause_NN ._.
+-_: Right_RB \*_SYM Karta_NNP \*_SYM ._.
+I_PRP have_VBP no_DT sense_NN of_IN indoor_JJ and_CC outdoor_JJ ._.
+As_IN the_DT evening_NN dawned_VBD the_DT dark_JJ house_NN of_IN Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ wore_VBD a_DT look_NN of_IN a_DT haunted_VBN house_NN ._.
+There_EX was_VBD a_DT nip_NN in_IN the_DT air_NN ._.
+Ramanath_NNP climbed_VBD up_IN the_DT terrace_NN once_RB and_CC found_VBD Thakurpath_NNP engulfed_VBD in_IN darkness_NN ._.
+Far_RB away_RB on_IN the_DT Highway_NN Durga_NNP Puja_NNP was_VBD being_VBG celebrated_VBN ._.
+The_DT lights_NNS of_IN the_DT pandal_NN could_MD be_VB seen_VBN ._.
+It_PRP was_VBD Sasthi_NNP ._.
+All_PDT the_DT lighting_NN decorations_NNS were_VBD not_RB complete_JJ yet_RB ._.
+Suddenly_RB the_DT drums_NNS began_VBD beating_VBG ._.
+Perhaps_RB the_DT idol_NN of_IN the_DT goddess_NN arrived_VBD from_IN Gayerkantha_NNP by_IN truck_NN ._.
+The_DT drums_NNS played_VBD for_IN long_RB ._.
+Fireflies_NNS were_VBD flying_VBG thick_JJ in_IN thousands_NNS over_IN the_DT potato_NN farm_NN ._.
+Ramanath_NNP looked_VBD at_IN Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN ._.
+The_DT corridor_NN was_VBD dark_JJ ._.
+The_DT door_NN shut_VBN ._.
+A_DT dim_NN light_NN could_MD be_VB seen_VBN through_IN the_DT wicker_NN fence_NN ._.
+It_PRP looked_VBD mysterious_JJ ,_, the_DT room_NN that_WDT touched_VBD the_DT wall_NN ._.
+Nuruddin_NNP had_VBD put_VBN up_RP in_IN Banga_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN beside_IN Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s._VBZ The_DT old_JJ man_NN <sup>_VBN TM_NNP </sup>_NNP s_VBZ room_NN was_VBD dark_JJ ._.
+It_PRP seemed_VBD he_PRP had_VBD slept_VBN off_RB early_RB ._.
+Rashik_NNP had_VBD gone_VBN to_TO Khagenhat_NNP to_TO sing_VB ._.
+Ramanath_NNP had_VBD instructed_VBN Noor_NNP in_IN the_DT afternoon_NN to_TO serve_VB an_DT early_JJ dinner_NN to_TO the_DT old_JJ man_NN and_CC to_TO come_VB to_TO him_PRP ._.
+The_DT very_RB thought_VBN was_VBD exciting_JJ ._.
+Sasthi_NNP ,_, Saptami_NNP ,_, Astami_NNP ,_, Nabami_NNP ,_, four_CD days_NNS at_IN a_DT stretch_NN ._.
+No_DT risk_NN ,_, no_DT fear_NN of_IN young_JJ hooligans_NNS ._.
+The_DT clock_NN struck_VBD nine_CD ._.
+Noor_NNP had_VBD not_RB come_VBN ._.
+Ramanath_NNP climbed_VBD up_IN the_DT terrace_NN again_RB ._.
+Just_RB then_RB the_DT drums_NNS began_VBD beating_VBG again_RB ._.
+The_DT beats_NNS seemed_VBD louder_RBR now_RB because_IN it_PRP was_VBD nighttime_JJ and_CC all_PDT the_DT other_JJ sounds_NNS had_VBD died_VBN out_RP ._.
+That_DT dim_NN light_NN in_IN Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN ._.
+No_DT bulb_NN had_VBD been_VBN fixed_VBN yet_RB in_IN Nuruddin_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ room_NN ._.
+A_DT lantern_NN was_VBD burning_VBG there_RB ._.
+The_DT light_JJ flickered_VBN ._.
+The_DT old_JJ man_NN was_VBD coughing_VBG ._.
+One_CD could_MD hear_VB him_PRP cough_VB form_NN this_DT distance_NN ._.
+It_PRP seemed_VBD he_PRP did_VBD not_RB have_VB his_PRP$ dinner_NN ._.
+Maybe_RB he_PRP had_VBD ._.
+He_PRP could_MD not_RB sleep_VB because_IN of_IN his_PRP$ cough_NN ._.
+How_WRB could_MD poor_JJ men_NNS live_VBP for_IN so_RB long_JJ was_VBD a_DT real_JJ mystery_NN ._.
+Ramanath_NNP could_MD wait_VB no_RB longer_RB ._.
+He_PRP had_VBD not_RB given_VBN any_DT gold_NN ring_NN to_TO Rashik_NNP as_IN Aradhana_NNP had_VBD requested_VBN ._.
+But_CC he_PRP spent_VBD a_DT lot_NN ._.
+Not_RB for_IN Rashik_NNP ._.
+Actually_RB all_DT his_PRP$ investment_NN was_VBD for_IN Noor_NNP ._.
+That_DT beautiful_JJ widow_NN had_VBD shaken_VBN his_PRP$ very_RB roots_NNS ._.
+How_WRB could_MD he_PRP wait_VB ?_.
+At_IN ten_NN O_NNP <sup>_NNP TM_NNP </sup>_NNP clock_NN old_JJ Nuruddin_NNP stopped_VBD coughing_VBG and_CC his_PRP$ lantern_JJ went_VBD off_RB ._.
+Ramanath_NNP wrapped_VBD his_PRP$ shawl_NN and_CC came_VBD out_RP on_IN the_DT field_NN ._.
+He_PRP could_MD not_RB bear_VB it_PRP any_DT longer_JJR ._.
+He_PRP would_MD go_VB to_TO Noor_NNP himself_PRP ._.
+As_IN he_PRP stepped_VBD down_RB form_NN verandah_JJ his_PRP$ ears_NNS turned_VBD cold_JJ ._.
+He_PRP drew_VBD the_DT shawl_NN over_IN his_PRP$ head_NN ._.
+Own_JJ house_NN ,_, own_JJ homestead_NN ,_, own_JJ land_NN ,_, own_JJ investment_NN ``_`` but_CC still_RB he_PRP did_VBD not_RB know_VB why_WRB he_PRP felt_VBD like_IN a_DT thief_NN ._.
+Once_RB in_IN his_PRP$ childhood_NN in_IN an_DT autumn_NN night_NN like_IN this_DT wrapped_VBN in_IN shawl_NN a_DT thief_NN had_VBD come_VBN crossing_VBG the_DT boundary_NN ._.
+There_EX was_VBD a_DT granary_JJ where_WRB Rashiks_NNP stay_VB now_RB ._.
+At_IN midnight_NN Ramanath_NNP had_VBD woke_VBN up_RP to_TO go_VB to_TO the_DT toilet_NN ._.
+He_PRP wanted_VBD to_TO piss_VB on_IN the_DT corridor_NN instead_RB of_IN walking_VBG as_RB far_RB as_IN the_DT toilet_NN ._.
+As_IN he_PRP came_VBD up_RP to_TO the_DT corridor_NN he_PRP saw_VBD a_DT shadow_NN creeping_VBG towards_IN the_DT granary_NN in_IN the_DT dim_NN moonlight_NN ._.
+The_DT thief_NN creeped_VBD till_IN the_DT granary_JJ door_NN ._.
+Opened_VBD the_DT lock_NN by_IN some_DT trick_NN and_CC entered_VBD the_DT room_NN ._.
+Ramanath_NNP had_VBD forgotten_VBN all_DT about_IN his_PRP$ pissing_NN ._.
+With_IN widened_VBN eyes_NNS he_PRP stood_VBD there_RB and_CC watched_VBN ._.
+As_IN the_DT shadow_NN entered_VBD the_DT barn_NN Ramanath_NNP yelled_VBD :_: oeThief_NN ,_, thief_NN ,_, thief_NN ._. ''_''
+Chowkidaar_NNP came_VBD running_VBG with_IN his_PRP$ three_CD battery_NN torch_NN ._.
+Lakhan_NNP ran_VBD upto_RB the_DT beetle_NN nut_NN orchard_NN ._.
+At_IN Lakhan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Maithili_NNP shouting_VBG the_DT thief_NN jumped_VBD over_IN the_DT boundary_NN wall_NN and_CC ran_VBD off_RP ._.
+He_PRP had_VBD filled_VBN only_RB 2_CD kilos_NNS of_IN paddy_NN in_IN the_DT sack_NN but_CC could_MD not_RB take_VB it_PRP ._.
+Today_NN Ramanath_NNP was_VBD feeling_VBG like_IN that_DT thief_NN ._.
+As_IN he_PRP thought_VBD of_IN his_PRP$ childhood_NN he_PRP turned_VBD to_TO look_VB at_IN the_DT corridor_NN ._.
+Was_VBD anyone_NN there_RB ?_.
+Was_VBD anyone_NN watching_VBG ?_.
+Was_VBD he_PRP mad_JJ ?_.
+Aradhana_NNP was_VBD with_IN his_PRP$ son_NN at_IN Bangalore_NNP ._.
+Nanda_NNP had_VBD gone_VBN to_TO Madarihat_NNP ._.
+Nagen_NNP and_CC Banga_NNP had_VBD been_VBN evicted_VBN ._.
+They_PRP now_RB stay_VBP in_IN Puron_NNP Chettri_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ locality_NN ._.
+Stupid_JJ Rashik_NNP has_VBZ gone_VBN to_TO Khagenhat_NNP to_TO sing_VB at_IN the_DT Jatra_NNP ._.
+What_WP did_VBD it_PRP matter_NN if_IN that_DT old_JJ infirm_NN Nuruddin_NNP saw_VBD ._.
+Yet_RB Ramanath_NNP climbed_VBD up_IN the_DT courtyard_NN and_CC pushed_VBD at_IN his_PRP$ door_NN ._.
+It_PRP was_VBD locked_VBN form_NN within_IN ._.
+That_DT meant_VBD that_IN the_DT old_JJ man_NN had_VBD fallen_VBN asleep_RB ._.
+Now_RB in_IN the_DT autumnal_JJ wind_NN Ramanath_NNP could_MD smell_VB the_DT fragrance_NN of_IN Noorjahan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ body_NN ._.
+Now_RB he_PRP pushed_VBD Rashik_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ door_NN ,_, to_TO check_VB ._.
+That_DT was_VBD also_RB locked_VBN from_IN inside_RB ._.
+The_DT light_NN was_VBD on_IN ._.
+Had_VBD the_DT girl_NN fallen_VBN asleep_JJ leaving_VBG the_DT light_NN on_IN ?_.
+He_PRP tapped_VBD lightly_RB twice_RB ._.
+No_DT response_NN ._.
+Now_RB Ramanath_NNP was_VBD annoyed_VBN ._.
+He_PRP held_VBD the_DT iron_NN ring_NN of_IN the_DT door_NN and_CC struck_VBD loudly_RB ._.
+Noorjahan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ voice_NN came_VBD ''_'' oeWho_NNP ?_.
+Abba_NNP ?_. ''_''
+-_: Not_RB Abba_NNP ._.
+Noor_NNP ._.
+Me_PRP ._.
+Me_PRP ._.
+Noorjahan_NNP again_RB shouted_VBD oeIs_NNS it_PRP Abba_NNP ?_. ''_''
+Was_VBD the_DT girl_NN hard_RB of_IN hearing_NN ?_.
+Ramanath_NNP could_MD shout_VB if_IN he_PRP wanted_VBD to_TO ,_, because_IN it_PRP was_VBD all_PDT his_PRP$ investment_NN ._.
+But_CC he_PRP restrained_VBD himself_PRP and_CC said_VBD :_: oeIt_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ me_PRP Noor_NNP ,_, Ramanath_NNP ,_, your_PRP$ \*_SYM Karta_NNP \*_SYM ._. ''_''
+-_: Aww_NNP ._.
+\*_SYM Karta_NNP \*_SYM !_.
+Wait_VB ,_, wait_VB ._.
+Let_VB me_PRP open_VB the_DT door_NN ._.
+With_IN that_DT intoxicating_VBG aroma_NN of_IN hers_NNS Noorjahan_JJ opened_VBD the_DT door_NN ._.
+With_IN her_PRP$ open_JJ hair_NN she_PRP looked_VBD like_IN a_DT goddess_NN who_WP had_VBD left_VBN her_PRP$ other_JJ eight_CD arms_NNS back_RB in_IN the_DT room_NN to_TO stand_VB in_IN front_NN of_IN Ramanath_NNP ._.
+So_RB youthful_JJ was_VBD she_PRP !_.
+As_IN she_PRP stepped_VBD into_IN the_DT corridor_NN Ramanath_NNP embraced_VBD her_PRP$ tightly_RB and_CC said_VBD oeWhat_NNP are_VBP you_PRP ?_.
+When_WRB were_VBD you_PRP supposed_VBD to_TO come_VB ?_.
+Since_IN two_CD hours_NNS I_PRP have_VBP been_VBN restlessly_RB moving_VBG out_RP in_IN the_DT terrace_NN and_CC corridor_NN ._.
+And_CC you_PRP are_VBP showing_VBG your_PRP$ antiques_NNS here_RB ?_. ''_''
+Noorjahan_NNP moved_VBD away_RB ,_, took_VBD the_DT shawl_NN off_IN Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ head_NN and_CC said_VBD ''_'' oe_VB \*_SYM Karta_NNP \*_SYM ,_, I_PRP want_VBP to_TO tell_VB you_PRP something_NN ..._: ''_'' -_: What_WP is_VBZ it_PRP ?_.
+Why_WRB words_NNS now_RB ?_.
+No_DT words_NNS now_RB ._.
+Come_VBN up_RP fast_RB ._.
+-_: You_PRP have_VBP done_VBN so_RB much_RB for_IN me_PRP ._.
+-_: Yes_UH I_PRP have_VBP ._.
+I_PRP will_MD do_VB more_JJR ._.
+I_PRP shall_MD wrap_VB your_PRP$ body_NN in_IN gold_NN ._.
+-_: That_WDT is_VBZ why_WRB I_PRP am_VBP so_RB obliged_VBN ._.
+-_: Obliged_VBN ?_.
+So_RB what_WP ?_.
+You_PRP can_MD lie_VB with_IN me_PRP and_CC pay_VB everything_NN back_RB ._.
+-_: I_PRP can_MD not_RB repay_VB this_DT debt_NN ._.
+-_: \*_SYM Dhuur_NNP \*_SYM ._.
+Don_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD lecture_NN ._.
+Come_VBN ._.
+All_DT can_MD be_VB settled_VBN ._.
+Come_VBN ._.
+Lock_NNP your_PRP$ door_NN ._.
+-_: I_PRP can_MD not_RB go_VB anymore_RB \*_SYM Karta_NNP \*_SYM ._.
+-_: Can_MD not_RB go_VB ?_.
+Why_WRB ?_.
+Are_VBP you_PRP mad_JJ ?_.
+Why_WRB did_VBD I_PRP get_VBP you_PRP married_VBN to_TO the_DT bull_NN after_IN all_DT ?_.
+-_: No_UH \*_SYM Karta_NNP \*_SYM ._.
+Do_VBP not_RB force_VB ._.
+You_PRP are_VBP a_DT good_JJ human_JJ being_NN ._.
+Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ hands_NNS lost_VBD their_PRP$ hold_NN ._.
+He_PRP removed_VBD his_PRP$ hands_NNS from_IN Noorjahan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ shoulder_NN and_CC waist_NN and_CC asked_VBD ,_, -_: Have_VBP you_PRP fallen_VBN in_IN love_NN with_IN that_DT bull_NN ?_.
+-_: I_PRP do_VBP not_RB know_VB ._.
+Is_VBZ it_PRP love_VB ?_.
+Look_VB ._.
+He_PRP is_VBZ so_RB crazy_JJ about_IN songs_NNS ,_, but_CC once_RB I_PRP asked_VBD him_PRP not_RB to_TO go_VB he_PRP did_VBD not_RB ._.
+Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ voice_NN came_VBD down_RB ._.
+He_PRP whispered_VBD oeDidn_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD Rashik_NNP go_VB to_TO Khagenhath_NNP then_RB ?_. ''_''
+-_: He_PRP had_VBD been_VBN ._.
+But_CC he_PRP came_VBD back_RB in_IN the_DT evening_NN ._.
+He_PRP is_VBZ having_VBG rice_NN ._.
+Just_RB then_RB the_DT door_NN pushed_VBD open_JJ ._.
+A_DT broad_JJ light_NN fell_VBD on_IN the_DT shadowy_JJ corridor_NN and_CC Rashik_NNP limped_VBD out_RP with_IN all_DT his_PRP$ talents_NNS ._.
+He_PRP burped_VBD indecently_RB ,_, wiped_VBD his_PRP$ hands_NNS in_IN a_DT \*_NN gamcha_NN \*_SYM ,_, revealed_VBD all_PDT his_PRP$ teeth_NNS and_CC said_VBD -_: oe_NN Had_VBD been_VBN to_TO Khagenhath_NNP Karta_NNP ..._: but_CC could_MD not_RB tame_JJ the_DT mind_NN ._.
+Noorjahan_NNP had_VBD asked_VBN me_PRP not_RB to_TO go_VB but_CC still_RB I_PRP went_VBD ._.
+But_CC this_DT was_VBD the_DT first_JJ time_NN I_PRP felt_VBD that_IN there_EX was_VBD song_NN but_CC no_DT tune_NN ._.
+There_EX was_VBD flute_NN but_CC there_EX is_VBZ no_DT breath_NN left_VBD in_IN me_PRP to_TO blow_VB through_IN it_PRP ._.
+Because_IN of_IN Sasthi_NNP Puja_NNP there_EX were_VBD no_DT vehicles_NNS today_NN ._.
+How_WRB far_RB was_VBD Khagenhath_NNP ?_.
+I_PRP began_VBD walking_VBG ._.
+I_PRP reached_VBD now_RB ._. ''_''
+Ramanath_NNP was_VBD looking_VBG at_IN Rashik_NNP intently_RB ._.
+He_PRP seemed_VBD almost_RB celestial_JJ ._.
+His_PRP$ monkey_NN ''_'' face_NN shone_NN with_IN a_DT glow_NN ._.
+The_DT light_NN that_WDT was_VBD flowing_VBG from_IN behind_IN him_PRP ,_, was_VBD it_PRP a_DT halo_NN ?_.
+It_PRP was_VBD Ramanath_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ own_JJ house_NN ,_, his_PRP$ own_JJ homestead_NN ,_, his_PRP$ land_NN ,_, his_PRP$ investment_NN ,_, --_: but_CC yet_RB he_PRP felt_VBD like_IN a_DT worm_NN ._.
+He_PRP spoke_VBD in_IN a_DT soft_JJ voice_NN ''_'' oeI_NNP thought_VBD you_PRP were_VBD not_RB there_RB ,_, just_RB came_VBD to_TO see_VB your_PRP$ wife_NN ,_, if_IN everything_NN was_VBD alright_JJ ._.
+You_PRP walked_VBD all_PDT the_DT way_NN from_IN Khagenhat_NNP ?_.
+Must_MD be_VB exhausted_VBN ._.
+Go_VB ,_, go_VB to_TO sleep_VB ,_, both_DT of_IN you_PRP ._. ''_''
+Rashik_NNP took_VBD out_RP all_PDT his_PRP$ teeth_NNS out_IN and_CC smiled_VBD ._.
+oeKarta_NNP please_VB do_VB not_RB be_VB annoyed_VBN ._.
+We_PRP will_MD not_RB sleep_VB tonight_NN ._.
+I_PRP shall_MD sing_VB all_DT night_NN ._.
+Noorjahan_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ request_NN ._. ''_''
+Ramanath_NNP drew_VBD the_DT shawl_NN upto_VB his_PRP$ head_NN and_CC started_VBD walking_VBG towards_IN his_PRP$ house_NN ._.
+The_DT pleasant_JJ structure_NN of_IN Bhattacharjee_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ stood_VBD in_IN front_NN ._.
+Today_NN ,_, in_IN this_DT gloom_NN of_IN Shasthi_NNP it_PRP looked_VBD like_IN an_DT abode_NN of_IN the_DT dead_JJ ._.
+He_PRP walked_VBD towards_IN it_PRP like_IN a_DT ghost_NN ._.
+He_PRP realized_VBD that_IN he_PRP was_VBD limping_VBG ._.
+He_PRP must_MD be_VB looking_VBG like_IN a_DT primate_NN ,_, something_NN in-between_JJ man_NN and_CC animal_NN ._.
+Rashik_NNP began_VBD singing_VBG for_IN Noorjahan_NNP ''_'' oeO_NNP my_PRP$ soul_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ mate_NN ..._: ''_'' \*_SYM malik_SYM -_: master_NN \*_SYM Bechara_NNP ''_'' poor_JJ chap_NN \*_SYM Gamcha_NNP ``_`` checkered_VBD soft_JJ cloth_NN used_VBN as_IN towel_NN \*_SYM Karta_NNP ''_'' master_NN \*\*_SYM Bhatiyali_FW \*_SYM ,_, \*_SYM Kirtan_NNP \*_SYM ,_, \*_SYM Baulanga_NNP \*_SYM ,_, \*_SYM Jari_SYM -_: Jiki_NNP r_NN ,_, Goyalpariya_NNP -_: varieties_NNS of_IN song_NN \*_SYM

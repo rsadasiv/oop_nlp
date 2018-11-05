@@ -1,0 +1,761 @@
+As_IN
+many_QUAN
+as_IN
+80_CD
+per_PIN
+cent_NN
+players_NN
+in_PIN
+the_DT
+payment_NOMZ
+industry_NN
+,_,
+including_VBG
+Amazon_NN
+,_,
+Paytm_NN
+and_PHC
+WhatsApp_NN
+,_,
+have_VPRT [PEAS]
+complied_VBN
+with_PIN
+the_DT
+norms_NN
+for_PIN
+local_JJ
+storage_NN
+of_PIN
+data_NN
+,_,
+with_PIN
+RBI_NN
+'s_POS
+deadline_NN
+coming_VBG [WZPRES]
+to_TO
+close_VB
+on_PIN
+Monday_NN
+,_,
+sources_NN
+said_VBD [PUBV]
+._.
+However_CONJ
+,_,
+they_TPP3
+said_VBD [PUBV]
+some_QUAN
+debit\/credit_NN
+companies_NN
+are_VPRT
+yet_RB
+to_TO
+comply_VB
+with_PIN
+data_NN
+storage_NN
+norms_NN
+and_CC
+have_VPRT [SPAU] [PEAS]
+reportedly_RB
+sought_VBN
+more_EMPH
+time_NN
+._.
+The_DT
+Reserve_NN
+Bank_NN
+is_VPRT
+not_XX0
+contemplating_VBG
+review_NN
+of_PIN
+its_PIT
+notification_NOMZ
+on_PIN
+data_NN
+localisation_NOMZ
+norms_NN
+,_,
+the_DT
+sources_NN
+said_VBD [PUBV]
+._.
+In_PIN
+April_NN
+,_,
+the_DT
+central_JJ
+bank_NN
+had_VBD [PEAS]
+given_VBN
+six_CD
+months_NN
+to_PIN
+global_JJ
+payment_NOMZ
+companies_NN
+to_TO
+store_VB
+transaction_NOMZ
+data_NN
+of_PIN
+Indian_JJ
+customers_NN
+within_PIN
+India_NN
+._.
+Although_CONC
+80_CD
+per_PIN
+cent_NN
+of_PIN
+the_DT
+players_NN
+operating_VBG [WZPRES]
+in_PIN
+India_NN
+have_VPRT [PEAS]
+complied_VBN
+with_PIN
+the_DT
+Reserve_NN
+Bank_NN
+directive_NN
+,_,
+some_QUAN
+global_JJ
+financial_JJ
+technology_NN
+companies_NN
+have_VPRT [SPAU] [PEAS]
+reportedly_RB
+sought_VBN
+an_DT
+extension_NN
+to_PIN
+the_DT
+October_NN
+15_CD
+timeline_NN
+._.
+``_``
+The_DT
+RBI_NN
+will_PRMD
+look_VB
+at_PIN
+things_NN
+on_PIN
+a_DT
+case-to-case_JJ
+basis_NN
+from_PIN
+tomorrow_TIME
+while_OSUB
+handling_VBG
+the_DT
+subject_NN
+,_,
+''_''
+one_CD
+of_PIN
+the_DT
+sources_NN
+said_VBD [PUBV]
+,_,
+without_PIN
+mentioning_VBG [PUBV]
+if_COND
+the_DT
+central_JJ
+bank_NN
+would_PRMD
+take_VB
+action_NOMZ
+or_CC
+impose_VB
+penalties_NN
+for_PIN
+non-compliance_NN
+._.
+Digital_NN
+payments_NOMZ
+platform_NN
+PhonePe_NN
+said_VBD [PUBV] [THATD]
+it_PIT
+has_VPRT [PEAS]
+informed_VBN
+the_DT
+Reserve_NN
+Bank_NN
+of_PIN
+India_NN
+of_PIN
+its_PIT
+full_JJ
+compliance_NN
+with_PIN
+the_DT
+data_NN
+localisation_NOMZ
+mandate_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+payments_NOMZ
+data_NN
+of_PIN
+Indian_JJ
+users_NN
+is_VPRT [PASS]
+stored_VBN
+within_PIN
+the_DT
+country_NN
+._.
+The_DT
+central_JJ
+bank_NN
+'s_POS
+data_NN
+localisation_NOMZ
+policy_NN
+had_VBD [PEAS]
+elicited_VBN
+mixed_JJ
+response_NN
+from_PIN
+the_DT
+payment_NOMZ
+services_NN
+industry_NN
+._.
+While_OSUB
+some_QUAN
+of_PIN
+the_DT
+prominent_JJ
+domestic_JJ
+payment_NOMZ
+companies_NN
+like_IN
+Paytm_NN
+and_PHC
+PhonePe_NN
+have_VPRT [PEAS]
+been_VBN [BEMA]
+supportive_PRED
+of_PIN
+the_DT
+dictum_NN
+,_,
+global_JJ
+players_NN
+like_IN
+Google_NN
+-LRB-_-LRB-
+that_DEMP
+offers_VPRT
+Google_NN
+Pay_VB
+-RRB-_-RRB-
+had_VBD [PEAS]
+argued_VBN [PUBV]
+for_PIN
+free_JJ
+movement_NOMZ
+of_PIN
+data_NN
+._.
+Some_QUAN
+international_JJ
+players_NN
+have_VPRT [PEAS]
+appealed_VBN
+for_PIN
+more_EMPH
+time_NN
+for_PIN
+compliance_NN
+and_CC
+also_RB
+asked_VBD [SUAV]
+that_THVC
+they_TPP3
+be_VB [PASS]
+allowed_VBN [SUAV]
+to_TO
+mirror_VB
+the_DT
+data_NN
+._.
+Paytm_NN
+,_,
+which_WDT [SERE]
+had_VBD [SPAU] [PEAS]
+vociferously_RB
+supported_VBN
+data_NN
+localisation_NOMZ
+,_,
+said_VBD [PUBV] [THATD]
+critical_JJ
+data_NN
+must_NEMD
+not_XX0
+be_VB [PASS]
+allowed_VBN [SUAV]
+to_TO
+go_VB
+out_PIN
+of_PIN
+the_DT
+country_NN
+,_,
+not_XX0
+even_RB
+for_PIN
+processing_GER
+._.
+``_``
+We_FPP1
+have_VPRT [PEAS]
+complied_VBN
+to_PIN
+this_DEMO
+mandate_NN
+since_OSUB
+day_NN
+one_CD
+and_CC
+have_VPRT [PEAS]
+welcomed_VBN
+this_DEMO
+initiative_NN
+right_NN
+from_PIN
+the_DT
+beginning_GER
+._.
+It_PIT
+is_VPRT [BEMA]
+important_PRED
+that_THAC
+we_FPP1
+do_VPRT
+not_XX0
+become_VB
+mere_JJ
+internet_NN
+colonies_NN
+for_PIN
+global_JJ
+companies_NN
+,_,
+and_ANDC
+make_VB
+every_QUAN
+organization_NOMZ
+accountable_JJ
+towards_PIN
+the_DT
+security_NOMZ
+and_PHC
+privacy_NN
+of_PIN
+data_NN
+of_PIN
+our_FPP1
+fellow_JJ
+countrymen_NN
+,_,
+''_''
+a_DT
+Paytm_NN
+spokesperson_NN
+said_VBD [PUBV]
+._.
+US-based_JJ
+messaging_VBG
+platform_NN
+WhatsApp_NN
+has_VPRT [SPAU] [PEAS]
+already_RB
+said_VBD [PUBV] [THATD]
+it_PIT
+has_VPRT [PEAS]
+developed_VBN
+a_DT
+system_NN
+to_PIN
+store_NN
+payments-related_JJ
+data_NN
+in_PIN
+India_NN
+._.
+An_DT
+Amazon_NN
+spokesperson_NN
+said_VBD [PUBV]
+``_``
+compliance_NN
+with_PIN
+local_JJ
+laws_NN
+and_PHC
+regulation_NOMZ
+is_VPRT [BEMA]
+a_DT
+top_JJ
+priority_NOMZ
+for_PIN
+us_FPP1
+in_PIN
+all_QUAN
+the_DT
+countries_NN
+we_FPP1
+operate_VPRT
+in_PIN [STPR]
+._.
+We_FPP1
+continue_VPRT
+to_TO
+work_VB
+closely_RB
+with_PIN
+the_DT
+regulators_NN
+towards_PIN
+this_DEMP
+''_''
+._.
+Google_NN
+is_VPRT [PASS]
+learned_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+agreed_VBN [SUAV] [PUBV]
+to_TO
+follow_VB
+the_DT
+RBI_NN
+'s_POS
+local_JJ
+data_NN
+storage_NN
+norm_NN
+for_PIN
+payment_NOMZ
+services_NN
+but_CC
+has_VPRT [PEAS]
+asked_VBN [SUAV]
+for_PIN
+time_NN
+until_IN
+December_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+compliance_NN
+,_,
+a_DT
+government_NOMZ
+source_NN
+had_VBD [PEAS]
+indicated_VBN [PRIV]
+recently_TIME
+._.
+Critics_NN
+of_PIN
+data_NN
+localisation_NOMZ
+argue_VPRT [PUBV]
+that_THVC
+the_DT
+move_NN
+would_PRMD
+have_VB
+negative_JJ
+effects_NN
+on_PIN
+the_DT
+ability_NOMZ
+of_PIN
+companies_NN
+to_TO
+do_VB [PROD]
+business_NOMZ
+in_PIN
+India_NN
+._.
+Finance_NN
+Minister_NN
+Arun_NN
+Jaitley_NN
+recently_TIME
+held_VBD [PRIV]
+a_DT
+meeting_GER
+with_PIN
+RBI_NN
+Deputy_NN
+Governor_NN
+BP_NN
+Kanungo_NN
+and_PHC
+others_NN
+to_TO
+discuss_VB
+the_DT
+data_NN
+localisation_NOMZ
+norm_NN
+for_PIN
+global_JJ
+financial_JJ
+technology_NN
+companies_NN
+._.
+IT_PIT
+industry_NN
+body_NN
+Nasscom_NN
+said_VBD [PUBV]
+access_NN
+to_PIN
+information_NOMZ
+can_POMD
+be_VB [PASS]
+ensured_VBN [SUAV] [PRIV]
+irrespective_RB
+of_PIN
+location_NOMZ
+of_PIN
+the_DT
+data_NN
+._.
+``_``
+Access_NN
+can_POMD
+be_VB [PASS]
+provided_VBN
+even_RB
+if_COND
+the_DT
+data_NN
+is_VPRT [PASS]
+stored_VBN
+outside_PLACE
+India_NN
+._.
+It_PIT
+is_VPRT [BEMA]
+not_XX0
+clear_PRED
+how_RB
+this_DEMP
+-LRB-_-LRB-
+data_NN
+localisation_NOMZ
+mandate_NN
+-RRB-_-RRB-
+ties_NN
+in_PIN
+with_PIN
+the_DT
+overall_JJ
+objective_NN
+of_PIN
+ensuring_VBG [SUAV] [PRIV]
+enforcement_NOMZ
+,_,
+''_''
+Nasscom_NN
+Senior_NN
+Director_NN
+and_PHC
+Head_NN
+Public_NN
+Policy_NN
+Ashish_NN
+Aggarwal_NN
+said_VBD [PUBV]
+._.
+Moreover_CONJ
+,_,
+the_DT
+instances_NN
+of_PIN
+problems_NN
+being_VBG [WZPRES] [PASS]
+faced_VBN
+in_PIN
+accessing_VBG
+data_NN
+need_VPRT
+to_TO
+be_VB [PASS]
+seen_VBN [PRIV]
+in_PIN
+the_DT
+larger_JJ
+perspective_NN
+of_PIN
+total_JJ
+number_NN
+of_PIN
+transactions_NOMZ
+._.
+Nasscom_NN
+has_VPRT [PEAS]
+favored_VBN
+free_JJ
+flow_NN
+of_PIN
+data_NN
+,_,
+Aggarwal_NN
+said_VBD [PUBV]
+adding_VBG [PUBV]
+that_THVC
+imposition_NOMZ
+of_PIN
+conditions_NOMZ
+that_TSUB
+are_VPRT
+``_``
+onerous_JJ
+and_PHC
+unnecessary_JJ
+''_''
+may_POMD
+trigger_VB
+a_DT
+retaliatory_JJ
+measures_NN
+from_PIN
+other_JJ
+countries_NN
+._.
+In_PIN
+its_PIT
+April_NN
+monetary_JJ
+policy_NN
+review_NN
+,_,
+the_DT
+RBI_NN
+had_VBD [PEAS]
+said_VBN [PUBV]
+that_THVC
+in_PIN
+order_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+better_JJ
+monitoring_GER
+of_PIN
+payment_NOMZ
+service_NN
+operators_NN
+it_PIT
+was_VBD [BEMA]
+important_PRED
+to_TO
+have_VB
+``_``
+unfettered_JJ
+supervisory_JJ
+access_NN
+to_PIN
+data_NN
+stored_VBN [WZPAST]
+with_PIN
+these_DEMO
+system_NN
+providers_NN
+as_IN
+also_RB
+with_PIN
+their_TPP3
+service_NN
+providers_NN
+\/_VPRT
+intermediaries\/third_JJ
+party_NN
+vendors_NN
+and_CC
+other_JJ
+entities_NOMZ
+in_PIN
+the_DT
+payment_NOMZ
+ecosystem_NN
+''_''
+._.
+``_``
+All_QUAN
+system_NN
+providers_NN
+shall_PRMD
+ensure_VB [SUAV] [PRIV]
+that_THVC
+the_DT
+entire_JJ
+data_NN
+relating_VBG [WZPRES]
+to_PIN
+payment_NOMZ
+systems_NN
+operated_VBN [WZPAST]
+by_PIN
+them_TPP3
+are_VPRT [PASS]
+stored_VBN
+in_PIN
+a_DT
+system_NN
+only_DWNT
+in_PIN
+India_NN
+,_,
+''_''
+it_PIT
+had_VBD [PEAS]
+said_VBN [PUBV]
+._.
+The_DT
+RBI_NN
+had_VBD [SPAU] [PEAS]
+further_RB
+said_VBD [PUBV]
+that_THVC
+data_NN
+should_NEMD
+include_VB
+the_DT
+full_JJ
+end-to-end_JJ
+transaction_NOMZ
+details_NN
+,_,
+information_NOMZ
+collected_VBN
+,_,
+carried_VBD
+,_,
+processed_VBN
+as_IN
+part_NN
+of_PIN
+the_DT
+message_NN
+,_,
+payment_NOMZ
+instruction_NOMZ
+._.

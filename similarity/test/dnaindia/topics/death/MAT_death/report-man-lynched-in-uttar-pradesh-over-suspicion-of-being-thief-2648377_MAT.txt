@@ -1,0 +1,149 @@
+A_DT
+man_NN
+was_VBD [PASS]
+lynched_VBN
+in_PIN
+Bijopur_NN
+here_RB
+by_PIN
+a_DT
+group_NN
+villagers_NN
+on_PIN
+the_DT
+suspicion_NN
+of_PIN
+being_VBG [BEMA]
+a_DT
+thief_NN
+,_,
+police_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+incident_NN
+took_VBD
+place_NN
+last_JJ
+evening_GER
+and_CC
+a_DT
+case_NN
+of_PIN
+murder_NN
+was_VBD [PASS]
+registered_VBN
+against_PIN
+several_QUAN
+people_NN
+._.
+Two_CD
+persons_NN
+were_VBD [PASS]
+arrested_VBN
+,_,
+Station_NOMZ
+House_NN
+Officer_NN
+-LRB-_-LRB-
+SHO_NN
+-RRB-_-RRB-
+,_,
+Chapar_NN
+,_,
+Subhash_NN
+Rathore_NN
+said_VBD [PUBV]
+._.
+The_DT
+deceased_JJ
+was_VBD [PASS]
+identified_VBN
+as_IN
+Kapil_NN
+Tyagi_NN
+._.
+His_TPP3
+family_NN
+along_IN
+with_PIN
+others_NN
+staged_VBD
+a_DT
+protest_NN
+and_PHC
+gheraeod_NN
+the_DT
+Chapar_NN
+police_NN
+station_NOMZ
+demanding_VBG [SUAV] [WZPRES]
+more_EMPH
+arrests_NN
+in_PIN
+the_DT
+case_NN
+,_,
+the_DT
+officer_NN
+said_VBD [PUBV]
+._.
+They_TPP3
+claimed_VBD [PUBV]
+that_THVC
+Tyagi_NN
+was_VBD [BEMA]
+innocent_PRED
+and_CC
+was_VBD [PASS]
+beaten_VBN
+to_PIN
+death_NN
+when_RB
+he_TPP3
+gone_VBD
+to_TO
+work_VB
+at_PIN
+Bijopur_NN
+,_,
+Rathore_NN
+said_VBD [PUBV]
+._.
+The_DT
+protest_NN
+was_VBD [BYPA]
+led_VBN
+by_PIN
+former_JJ
+BJP_NN
+district_NN
+president_NN
+Devert_NN
+Tyagi_NN
+._.
+The_DT
+matter_NN
+is_VPRT
+being_VBG [PASS]
+investigated_VBN
+._.
+Security_NOMZ
+personnel_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+deployed_VBN
+in_PIN
+the_DT
+village_NN
+to_TO
+thwart_VB
+any_QUAN
+untoward_JJ
+incidents_NN
+,_,
+the_DT
+SHO_NN
+said_VBD [PUBV]
+._.

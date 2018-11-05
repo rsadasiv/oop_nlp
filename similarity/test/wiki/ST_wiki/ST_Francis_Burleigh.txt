@@ -1,0 +1,2 @@
+Francis_NNP Burleigh_NNP ,_, sometimes_RB spelled_VBD Burghley_NNP ,_, was_VBD an_DT English_JJ Vicar_NNP ,_, appointed_VBN in_IN 1590_CD to_TO Bishop_NNP 's_POS Stortford_NNP by_IN Lancelot_NNP Andrewes_NNP ._.
+He_PRP was_VBD among_IN Andrewes_NNP '_POS ``_`` First_NNP Westminster_NNP Company_NNP ''_'' ,_, charged_VBN by_IN James_NNP I_NNP of_IN England_NNP with_IN the_DT translation_NN of_IN the_DT first_JJ 12_CD books_NNS of_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ._.

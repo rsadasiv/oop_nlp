@@ -1,0 +1,30 @@
+Barbara_NNP Irene_NNP Veronica_NNP Comyns_NNP Carr_NNP -LRB-_-LRB- 24_CD December_NNP 1907_CD ''_'' 15_CD July_NNP 1992_CD -RRB-_-RRB- ,_, pseudonym_NN Barbara_NNP Comyns_NNP ,_, was_VBD an_DT English_JJ writer_NN and_CC artist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- Barbara_NNP Irene_NNP Veronica_NNP Bayley_NNP was_VBD born_VBN in_IN the_DT Warwickshire_NNP village_NN of_IN Bidford-on-Avon_NNP in_IN 1907_CD ._.
+She_PRP was_VBD one_CD of_IN six_CD children_NNS and_CC the_DT family_NN home_NN was_VBD Bell_NNP Court_NNP on_IN the_DT banks_NNS of_IN the_DT River_NNP Avon_NNP ._.
+Comyns_NNS later_RB recorded_VBD her_PRP$ childhood_NN in_IN her_PRP$ novel_NN Sisters_NNS by_IN a_DT River_NN ._.
+After_IN attending_VBG an_DT art_NN school_NN in_IN nearby_JJ Stratford-upon-Avon_NNP ,_, Comyns_NNP moved_VBD to_TO London_NNP to_TO attend_VB Heatherley_NNP School_NNP of_IN Fine_NNP Art_NNP ._.
+In_IN 1931_CD she_PRP married_VBD fellow_JJ artist_NN and_CC Warwickshire_NNP native_JJ John_NNP Pemberton_NNP ,_, who_WP was_VBD the_DT nephew_NN of_IN the_DT London_NNP Group_NNP president_NN and_CC noted_VBD artist_NN Rupert_NNP Lee_NNP ._.
+Comyns_NNS and_CC John_NNP exhibited_VBD their_PRP$ work_NN with_IN the_DT London_NNP Group_NNP of_IN artists_NNS in_IN 1934_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Comyns_NNPS mixed_JJ amongst_IN the_DT artistic_JJ community_NN of_IN London_NNP and_CC she_PRP knew_VBD Dylan_NNP Thomas_NNP and_CC Augustus_NNP John_NNP ._.
+Comyns_NNS recorded_VBD a_DT fictionalised_VBN version_NN of_IN her_PRP$ marriage_NN to_TO John_NNP ,_, which_WDT was_VBD fraught_JJ with_IN poverty_NN and_CC infidelity_NN ,_, in_IN her_PRP$ novel_NN Our_PRP$ Spoons_NNP Came_NNP from_IN Woolworths_NNPS ._.
+Comyns_NNS had_VBD two_CD children_NNS during_IN her_PRP$ marriage_NN to_TO John_NNP ,_, but_CC the_DT marriage_NN broke_VBD down_RP in_IN 1935_CD ._.
+During_IN the_DT late_JJ 1930s_NNS ,_, Comyns_NNS began_VBD a_DT relationship_NN with_IN the_DT black_JJ marketeer_NN Arthur_NNP Price_NNP ._.
+The_DT couple_NN lived_VBD with_IN Comyns_NNP 's_POS two_CD children_NNS at_IN various_JJ London_NNP addresses_NNS ._.
+Comyns_NNS generated_VBD money_NN by_IN breeding_VBG poodles_NNS ,_, renovating_VBG pianos_NNS ,_, dealing_VBG in_IN antiques_NNS and_CC classic_JJ cars_NNS and_CC drawing_VBG for_IN commercial_JJ advertisements_NNS ._.
+Comyns_NNS wrote_VBD about_IN her_PRP$ relationship_NN and_CC her_PRP$ commercial_JJ endeavors_NNS in_IN her_PRP$ novel_NN Mr._NNP Fox_NNP ._.
+With_IN the_DT outbreak_NN of_IN World_NNP War_NNP II_NNP ,_, Comyns_NNP 's_POS poverty_NN increased_VBD and_CC her_PRP$ relationship_NN with_IN Arthur_NNP broke_VBD down_RP ._.
+Comyns_NNS became_VBD a_DT cook_NN in_IN a_DT Hertfordshire_NNP country_NN house_NN ,_, where_WRB she_PRP and_CC her_PRP$ children_NNS lived_VBD until_IN the_DT end_NN of_IN the_DT war_NN and_CC where_WRB she_PRP began_VBD to_TO write_VB stories_NNS to_TO entertain_VB them_PRP ._.
+In_IN 1945_CD Comyns_NNS married_VBN Richard_NNP Strettell_NNP Comyns_NNP Carr_NNP -LRB-_-LRB- who_WP was_VBD the_DT son_NN of_IN the_DT barrister_NN and_CC Liberal_JJ MP_NNP Arthur_NNP Strettell_NNP Comyns_NNP Carr_NNP and_CC the_DT grandson_NN of_IN the_DT dramatist_NN Joseph_NNP Comyns_NNP Carr_NNP -RRB-_-RRB- ._.
+Richard_NNP was_VBD a_DT civil_JJ servant_NN based_VBN in_IN the_DT Foreign_NNP Office_NNP and_CC a_DT friend_NN and_CC colleague_NN of_IN Kim_NNP Philby_NNP ._.
+It_PRP was_VBD on_IN her_PRP$ second_JJ honeymoon_NN that_WDT Comyns_VBZ conceived_VBN the_DT idea_NN for_IN her_PRP$ most_RBS acclaimed_JJ novel_NN The_DT Vet_NNP 's_POS Daughter_NNP ._.
+The_DT couple_NN lived_VBD in_IN London_NNP where_WRB Comyns_NNP began_VBD to_TO write_VB professionally_RB ._.
+Comyns_NNP 's_POS first_JJ novel_NN was_VBD Sisters_NNS by_IN a_DT River_NNP which_WDT was_VBD serialised_VBN in_IN Lilliput_NNP under_IN the_DT title_NN ``_`` The_DT Novel_NNP Nobody_NN Will_MD Publish_VB ''_'' before_IN finally_RB being_VBG published_VBN by_IN Eyre_NNP and_CC Spottiswode_NNP in_IN 1947_CD ._.
+This_DT was_VBD followed_VBN by_IN the_DT publication_NN of_IN Our_PRP$ Spoons_NNP Came_NNP from_IN Woolworths_NNPS in_IN 1950_CD ._.
+In_IN the_DT 1950s_CD the_DT Comyns_NNP Carrs_NNP moved_VBD to_TO Spain_NNP and_CC lived_VBD briefly_NN on_IN Ibiza_NNP and_CC then_RB in_IN Barcelona_NNP ._.
+Comyns_NNS wrote_VBD about_IN their_PRP$ experience_NN in_IN Ibiza_NNP in_IN her_PRP$ novel_NN Out_IN of_IN the_DT Red_NNP and_CC into_IN the_DT Blue_NNP ._.
+After_IN living_VBG in_IN Barcelona_NNP for_IN 16_CD years_NNS ,_, they_PRP moved_VBD to_TO San_NNP Roque_NNP in_IN Andalusia_NNP ._.
+The_DT couple_NN returned_VBD to_TO England_NNP in_IN 1973_CD ._.
+Comyns_NNS published_VBD 11_CD novels_NNS in_IN total_NN ,_, most_JJS of_IN which_WDT were_VBD published_VBN by_IN Virago_NNP ._.
+Graham_NNP Greene_NNP and_CC Alan_NNP Hollinghurst_NNP were_VBD early_JJ fans_NNS of_IN her_PRP$ work_NN and_CC her_PRP$ novel_NN The_DT Vet_NNP 's_POS Daughter_NNP was_VBD serialied_VBN in_IN BBC_NNP radio_NN and_CC adapted_VBD into_IN the_DT 1978_CD musical_JJ The_DT Clapham_NNP Wonder_NNP by_IN Sandy_NNP Wilson_NNP ._.
+Comyns_NNS died_VBD in_IN the_DT Shropshire_NNP village_NN of_IN Stanton_NNP upon_IN Hine_NNP Heath_NNP in_IN 1992_CD and_CC is_VBZ buried_VBN there_RB in_IN St._NNP Andrew_NNP 's_POS Churchyard_NNP ._.
+The_DT Guardian_NNP and_CC The_DT Independent_NNP carried_VBD obituaries_NNS of_IN her_PRP$ life_NN ._.

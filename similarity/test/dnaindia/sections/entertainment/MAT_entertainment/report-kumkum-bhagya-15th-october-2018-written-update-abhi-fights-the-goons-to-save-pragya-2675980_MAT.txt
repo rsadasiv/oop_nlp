@@ -1,0 +1,499 @@
+In_PIN
+the_DT
+latest_JJ
+episode_NN
+of_PIN
+Kumkum_NN
+Bhagya_NN
+,_,
+Abhi_NN
+and_PHC
+Prgaya_NN
+have_VPRT
+no_SYNE
+idea_NN
+that_TOBJ
+goons_NN
+are_VPRT [BEMA]
+aware_PRED
+of_PIN
+their_TPP3
+plan_NN
+._.
+They_TPP3
+come_VPRT
+back_RB
+to_PIN
+the_DT
+godown_NN
+and_PHC
+attack_NN
+them_TPP3
+._.
+Abhi_NN
+argues_VPRT [PUBV]
+with_PIN
+Pragya_NN
+in_PIN
+front_NN
+of_PIN
+the_DT
+goons_NN
+and_CC
+blames_VPRT
+her_TPP3
+for_PIN
+the_DT
+plan_NN
+._.
+Boss_NN
+Bhupli_NN
+asks_VPRT [SUAV]
+Abhi_NN
+if_COND
+she_TPP3
+is_VPRT [BEMA]
+his_TPP3
+wife_NN
+._.
+Pragya_NN
+says_VPRT [PUBV]
+no_RB
+,_,
+but_CC
+Abhi_NN
+says_VPRT [PUBV]
+that_THVC
+yes_RB
+,_,
+she_TPP3
+is_VPRT [BEMA]
+my_FPP1
+wife_NN
+._.
+Neha_NN
+his_TPP3
+niece_NN
+and_PHC
+Tarun_NN
+is_VPRT [BEMA]
+his_TPP3
+wife_NN
+'s_POS
+brother_NN
+._.
+Abhi_NN
+and_PHC
+Pragya_NN
+again_TIME
+start_VPRT
+arguing_VBG [PUBV]
+._.
+Goon_NN
+asks_VPRT [SUAV]
+why_RB
+did_VBD
+he_TPP3
+insist_VPRT [SUAV] [PUBV]
+to_TO
+save_VB
+Tarun_NN
+?_.
+Pragya_NN
+says_VPRT [PUBV] [THATD]
+he_TPP3
+is_VPRT [BEMA]
+better_PRED
+than_PIN
+Abhi_NN
+and_CC
+argues_VPRT [PUBV]
+with_PIN
+him_TPP3
+._.
+She_TPP3
+asks_VPRT [SUAV]
+why_RB [WHCL]
+he_TPP3
+couldn_VB
+<sup>_JJ
+TM_NN
+</sup>_NN
+t_VBD
+act_NN
+properly_RB
+._.
+Abhi_NN
+says_VPRT [PUBV] [THATD]
+his_TPP3
+acting_NN
+was_VBD [BEMA]
+better_PRED
+than_PIN
+hers_NN
+._.
+To_TO
+distract_VB
+the_DT
+goons_NN
+,_,
+Abhi_NN
+asks_VPRT [SUAV]
+Pragya_NN
+to_TO
+push_VB
+him_TPP3
+on_PIN
+goons_NN
+._.
+Pragya_NN
+says_VPRT [PUBV]
+no_DT
+but_CC
+agrees_VPRT [SUAV] [PUBV]
+and_PHC
+pushes_VPRT
+him_TPP3
+on_PIN
+the_DT
+goons_NN
+._.
+Abhi_NN
+asks_VPRT [SUAV]
+Pragya_NN
+,_,
+Neha_NN
+and_PHC
+Tarun_NN
+to_TO
+run_VB
+from_PIN
+there_EX
+and_CC
+starts_VPRT
+thrashing_VBG
+the_DT
+goons_NN
+._.
+He_TPP3
+also_RB
+runs_VPRT
+from_PIN
+there_EX
+._.
+Pragya_NN
+is_VPRT [PASS]
+stuck_VBN
+at_PIN
+a_DT
+dead_JJ
+end_NN
+and_CC
+thinks_VPRT [PRIV]
+what_WP [WHCL]
+to_TO
+do_VB
+now_TIME
+._.
+Abhi_NN
+runs_VPRT
+out_PIN
+from_PIN
+the_DT
+godown_NN
+._.
+Pragya_NN
+,_,
+Neha_NN
+and_PHC
+Tarun_NN
+are_VPRT [PASS]
+held_VBN [PRIV]
+captive_JJ
+again_TIME
+and_CC
+are_VPRT [BEMA]
+with_PIN
+the_DT
+goons_NN
+._.
+Abhi_NN
+comes_VPRT
+out_PIN
+and_CC
+realizes_VPRT [PRIV]
+that_THVC
+they_TPP3
+are_VPRT
+still_RB
+inside_PLACE
+._.
+He_TPP3
+sees_VPRT [PRIV]
+them_TPP3
+,_,
+and_ANDC
+again_TIME
+fights_VPRT
+the_DT
+goons_NN
+and_CC
+runs_VPRT
+inside_PLACE
+,_,
+closing_VBG [PRESP]
+the_DT
+door_NN
+from_PIN
+inside_PLACE
+._.
+Goon_NN
+thinks_VPRT [PRIV] [THATD]
+he_TPP3
+had_VBD
+a_DT
+good_JJ
+chance_NN
+to_TO
+elope_VB
+,_,
+but_CC
+he_TPP3
+returned_VBD
+to_TO
+die_VB
+here_RB
+again_TIME
+._.
+Abhi_NN
+comes_VPRT
+down_RP
+the_DT
+hall_NN
+where_RB
+Pragya_NN
+,_,
+Neha_NN
+and_PHC
+Tarun_NN
+are_VPRT [PASS]
+tied_VBN
+up_RP
+with_PIN
+the_DT
+ropes_NN
+._.
+He_TPP3
+then_RB
+starts_VPRT
+fighting_VBG
+the_DT
+goons_NN
+that_TSUB
+are_VPRT
+inside_PLACE
+._.
+Abhi_NN
+fights_VPRT
+the_DT
+goon_NN
+and_CC
+threatens_VPRT
+him_TPP3
+to_TO
+leave_VB
+Pragya_NN
+and_CC
+asks_VPRT [SUAV]
+her_TPP3
+to_TO
+run_VB
+from_PIN
+there_RB
+._.
+Pragya_NN
+comes_VPRT
+to_PIN
+Abhi_NN
+and_PHC
+hugs_NN
+him_TPP3
+._.
+Abhi_NN
+beats_VPRT
+the_DT
+goons_NN
+with_PIN
+stick_NN
+and_CC
+takes_VPRT
+Pragya_NN
+,_,
+Tarun_NN
+and_PHC
+Neha_NN
+from_PIN
+there_RB
+._.
+While_OSUB
+running_VBG
+out_PIN
+from_PIN
+the_DT
+kidnaper_NN
+<sup>_VPRT
+TM_NN
+</sup>_NN
+s_VPRT
+den_NN
+,_,
+Abhi_NN
+feels_VPRT [PRIV]
+the_DT
+pain_NN
+._.
+Pragya_NN
+asks_VPRT [SUAV]
+what_WP [WHCL]
+happened_VBD
+?_.
+Abhi_NN
+shows_VPRT [PRIV]
+the_DT
+wound_NN
+he_TPP3
+got_VBD
+while_OSUB
+fighting_VBG
+the_DT
+goons_NN
+._.
+Pragya_NN
+goes_VPRT
+to_TO
+bring_VB
+her_TPP3
+bag_NN
+and_CC
+asks_VPRT [SUAV]
+him_TPP3
+to_TO
+sit_VB
+and_PHC
+applies_VPRT
+ointment_NOMZ
+on_PIN
+his_TPP3
+chest_NN
+._.
+Goons_NN
+are_VPRT [SPAU]
+still_RB
+searching_VBG
+them_TPP3
+and_CC
+decide_VB [SUAV] [PRIV]
+to_TO
+kill_VB
+them_TPP3
+._.
+Abhi_NN
+and_PHC
+Pragya_NN
+come_VPRT
+out_PIN
+of_PIN
+the_DT
+haveli_NN
+._.
+Pragya_NN
+asks_VPRT [SUAV]
+where_RB
+are_VPRT [BEMA]
+the_DT
+car_NN
+keys_NN
+?_.
+Abhi_NN
+says_VPRT [PUBV] [THATD]
+he_TPP3
+lost_VBD
+the_DT
+keys_NN
+somewhere_RB
+while_OSUB
+fighting_VBG
+._.
+They_TPP3
+decide_VPRT [SUAV] [PRIV]
+to_TO
+go_VB
+towards_PIN
+jungle_NN
+to_TO
+hide_VB
+from_PIN
+goons_NN
+._.
+Meanwhile_RB
+Tanu_NN
+and_PHC
+Aaliya_NN
+come_VPRT
+there_RB
+and_CC
+see_VB [PRIV]
+Pragya_NN
+<sup>_NN
+TM_NN
+</sup>_NN
+s_VPRT
+car_NN
+._.
+They_TPP3
+meet_VPRT
+the_DT
+goons_NN
+and_CC
+ask_VB [SUAV]
+if_COND
+they_TPP3
+saw_VBD [PRIV]
+Abhi_NN
+and_ANDC
+show_VB [PRIV]
+his_TPP3
+pic_NN
+._.
+Boss_NN
+asks_VPRT [SUAV]
+who_WP
+are_VPRT [BEMA]
+you_SPP2
+?_.
+Tanu_NN
+says_VPRT [PUBV] [THATD]
+I_FPP1
+am_VPRT [BEMA]
+his_TPP3
+wife_NN
+._.
+Boss_NN
+kidnaps_VPRT
+Tanu_NN
+._.
+To_TO
+watch_VB
+the_DT
+latest_JJ
+episodes_NN
+of_PIN
+all_QUAN
+your_SPP2
+other_JJ
+favorite_JJ
+shows_NN
+''_''
+click_VPRT
+here_RB
+._.

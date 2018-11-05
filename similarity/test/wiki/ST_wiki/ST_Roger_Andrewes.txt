@@ -1,0 +1,5 @@
+Roger_NNP Andrewes_NNP -LRB-_-LRB- sometimes_RB Andrews_NNP -RRB-_-RRB- -LRB-_-LRB- 1574_CD ``_`` 1635_CD -RRB-_-RRB- was_VBD an_DT English_JJ churchman_NN and_CC academic_JJ ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- archdeacon_NN and_CC Chancellor_NNP at_IN Chichester_NNP Cathedral_NNP in_IN the_DT English_NNP Church_NNP ._.
+He_PRP was_VBD also_RB a_DT scholar_NN ,_, a_DT Fellow_NNP of_IN Pembroke_NNP Hall_NNP and_CC was_VBD ,_, in_IN 1618_CD ,_, made_VBN Master_NNP of_IN Jesus_NNP College_NNP ,_, Cambridge_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD the_DT younger_JJR brother_NN of_IN the_DT scholar_NN and_CC cleric_JJ Lancelot_NNP Andrewes_NNPS and_CC ,_, like_IN his_PRP$ brother_NN ,_, served_VBD as_IN a_DT translator_NN for_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ._.
+He_PRP was_VBD the_DT incumbent_JJ of_IN many_JJ church_NN parishes_NNS during_IN his_PRP$ life_NN ,_, including_VBG Cocking_NNP in_IN West_NNP Sussex_NNP from_IN September_NNP 1606_CD to_TO July_NNP 1609_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

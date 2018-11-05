@@ -1,0 +1,15 @@
+Artemis_NNP Cooper_NNP ,_, Lady_NNP Beevor_NNP FRSL_NNP -LRB-_-LRB- born_VBN 22_CD April_NNP 1953_CD -RRB-_-RRB- is_VBZ a_DT British_JJ writer_NN ,_, primarily_RB of_IN biographies_NNS ._.
+Born_VBN Hon._NNP Alice_NNP Clare_NNP Antonia_NNP Opportune_NNP Cooper_NNP ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- she_PRP is_VBZ the_DT only_JJ daughter_NN of_IN John_NNP Julius_NNP Cooper_NNP ,_, 2nd_JJ Viscount_NNP Norwich_NNP and_CC his_PRP$ first_JJ wife_NN ,_, Anne_NNP -LRB-_-LRB- née_FW Clifford_NNP -RRB-_-RRB- ,_, and_CC a_DT granddaughter_NN of_IN Lady_NNP Diana_NNP Cooper_NNP ._.
+She_PRP has_VBZ a_DT brother_NN ,_, the_DT Hon._NNP Jason_NNP Charles_NNP Duff_NNP Bede_NNP Cooper_NNP ,_, and_CC a_DT half-sister_NN ,_, Allegra_NNP Huston_NNP ,_, the_DT only_JJ child_NN of_IN Lord_NNP Norwich_NNP and_CC Enrica_NNP Soma_NNP Huston_NNP ,_, the_DT estranged_VBN wife_NN of_IN American_JJ film_NN director_NN John_NNP Huston_NNP ._.
+Cooper_NNP attended_VBD the_DT French_JJ Lycee_NNP ,_, the_DT Convent_NNP of_IN the_DT Sacred_NNP Heart_NNP in_IN Woldingham_NNP and_CC Camden_NNP School_NNP for_IN Girls_NNP ._.
+She_PRP then_RB went_VBD to_TO St_NNP Hugh_NNP 's_POS College_NNP ,_, Oxford_NNP and_CC obtained_VBD a_DT degree_NN in_IN English_NNP language_NN and_CC literature_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN July_NNP 2015_CD ,_, she_PRP was_VBD awarded_VBN an_DT honorary_JJ doctorate_NN from_IN the_DT University_NNP of_IN York_NNP ._.
+She_PRP spent_VBD time_NN in_IN Egypt_NNP with_IN Voluntary_NNP Service_NNP Overseas_NNP teaching_NN English_NNP at_IN the_DT University_NNP of_IN Alexandria_NNP ._.
+She_PRP has_VBZ also_RB lived_VBN in_IN America_NNP ,_, mostly_RB in_IN New_NNP Mexico_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1986_CD ,_, Artemis_NNP Cooper_NNP married_VBD fellow_JJ writer_NN and_CC historian_NN Antony_NNP Beevor_NNP ._.
+The_DT couple_NN have_VBP two_CD children_NNS ,_, Eleanor_NNP ``_`` Nella_NNP ''_'' and_CC Adam_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Cooper_NNP 's_POS first_JJ book_NN was_VBD a_DT collection_NN of_IN the_DT letters_NNS of_IN her_PRP$ grandmother_NN ,_, Lady_NNP Diana_NNP Cooper_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- When_WRB her_PRP$ biography_NN of_IN Patrick_NNP Leigh_NNP Fermor_NNP appeared_VBD in_IN 2012_CD ,_, it_PRP was_VBD serialised_VBN on_IN BBC_NNP Radio_NNP 4_CD ._.
+It_PRP was_VBD followed_VBN in_IN September_NNP 2013_CD by_IN The_DT Broken_NNP Road_NNP ,_, effectively_RB the_DT third_JJ volume_NN of_IN Leigh_NNP Fermor_NNP 's_POS memoir_NN of_IN his_PRP$ walking_VBG trip_NN from_IN the_DT Hook_NNP of_IN Holland_NNP to_TO Istanbul_NNP in_IN the_DT 1930s_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- Cooper_NNP was_VBD elected_VBN a_DT Fellow_NNP of_IN the_DT Royal_NNP Society_NNP of_IN Literature_NNP in_IN 2017_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Official_NNP website_NN

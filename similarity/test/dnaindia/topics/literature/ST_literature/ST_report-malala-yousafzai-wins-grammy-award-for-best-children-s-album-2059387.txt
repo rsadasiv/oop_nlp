@@ -1,0 +1,5 @@
+Malala_NNP Yousafzai_NNP ,_, who_WP recently_RB won_VBD an_DT Nobel_NNP Peace_NNP Prize_NNP ,_, has_VBZ won_VBN a_DT Grammy_NNP award_NN for_IN Best_JJS Children_NNP 's_POS Album_NNP titled_VBN '_'' I_PRP Am_VBP Malala_NN '_'' ._. '_''
+I_PRP Am_VBP Malala_NN '_'' was_VBD a_DT book_NN by_IN Nobel_NNP Prize_NNP winner_NN which_WDT was_VBD narrated_VBN by_IN Neela_NNP Vaswani_NNP ,_, the_DT Mirror_NNP reported_VBD ._.
+Vaswani_NNP ,_, a_DT professor_NN of_IN creative_JJ writing_NN ,_, literature_NN and_CC cultural_JJ studies_NNS ,_, accepted_VBD the_DT award_NN at_IN the_DT Staples_NNP Center_NNP in_IN Los_NNP Angeles_NNP ._.
+Vaswani_NNP said_VBD Malala_NNP is_VBZ very_RB busy_JJ going_VBG to_TO school_NN and_CC saving_VBG the_DT children_NNS of_IN the_DT world_NN and_CC hope_NN that_IN she_PRP is_VBZ happy_JJ after_IN winning_VBG the_DT award_NN ._.
+The_DT 57th_JJ annual_JJ Grammy_NNP Awards_NNPS were_VBD held_VBN at_IN the_DT Nokia_NNP Theatre_NNP and_CC Staples_NNP Center_NNP in_IN United_NNP States_NNPS ._.

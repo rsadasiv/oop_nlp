@@ -1,0 +1,10 @@
+John_NNP Josias_NNP Conybeare_NNP -LRB-_-LRB- 1779_CD ``_`` 1824_CD -RRB-_-RRB- ,_, the_DT elder_JJR brother_NN of_IN William_NNP Daniel_NNP Conybeare_NNP ,_, was_VBD a_DT scholar_NN of_IN Anglo-Saxon_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD an_DT accomplished_JJ scholar_NN ,_, and_CC studied_VBD at_IN Christ_NNP Church_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP became_VBD vicar_NN of_IN Batheaston_NNP ,_, and_CC was_VBD Rawlinsonian_NNP Professor_NNP of_IN Anglo-Saxon_NNP -LRB-_-LRB- 1808_CD ``_`` 1812_CD -RRB-_-RRB- ,_, and_CC afterwards_RB Professor_NNP of_IN Poetry_NNP -LRB-_-LRB- 1812_CD ``_`` 1821_CD -RRB-_-RRB- ,_, at_IN the_DT University_NNP of_IN Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP published_VBD a_DT translation_NN of_IN Beowulf_NNP in_IN English_NNP and_CC Latin_NNP verse_VBP -LRB-_-LRB- 1814_CD -RRB-_-RRB- ,_, but_CC is_VBZ particularly_RB noted_VBN for_IN his_PRP$ posthumously_RB published_VBN 1826_CD Illustrations_NNS of_IN Anglo-Saxon_NNP Poetry_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Like_IN his_PRP$ brother_NN ,_, he_PRP was_VBD a_DT student_NN of_IN geology_NN and_CC communicated_VBN papers_NNS to_TO the_DT Annals_NNP of_IN Philosophy_NNP and_CC the_DT Transactions_NNS of_IN the_DT Geological_NNP Society_NNP of_IN London_NNP -LRB-_-LRB- Obituary_NNP in_IN Ann_NNP ._.
+Phil_NNP ._.
+vol_NN ._.
+viii._NN ,_, Sept._NNP 1824_CD ,_, p._FW 162_CD ._. -RRB-_-RRB-
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP gave_VBD the_DT Bampton_NNP Lectures_VBZ at_IN Oxford_NNP in_IN 1824_CD ._.
+These_DT were_VBD published_VBN posthumously_RB -LRB-_-LRB- also_RB in_IN 1824_CD -RRB-_-RRB- as_IN An_DT attempt_NN to_TO trace_VB the_DT History_NN and_CC ascertain_NN the_DT Limits_NNPS of_IN the_DT Secondary_JJ and_CC Spiritual_JJ Interpretation_NN of_IN Scripture_NNP ._.

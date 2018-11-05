@@ -1,0 +1,366 @@
+Several_QUAN
+#MeToo_NN
+stories_NN
+are_VPRT
+coming_VBG
+to_PIN
+the_DT
+fore_NN
+with_PIN
+the_DT
+names_NN
+of_PIN
+Bollywood_NN
+biggies_NN
+being_VBG [WZPRES] [PASS]
+called_VBN
+out_PIN
+and_CC
+accused_VBN
+of_PIN
+sexual_JJ
+harassment_NOMZ
+,_,
+rape_NN
+or_CC
+misconduct_NN
+._.
+As_IN
+the_DT
+campaign_NN
+is_VPRT
+gaining_VBG
+momentum_NN
+,_,
+in_PIN
+a_DT
+fresh_JJ
+set_NN
+of_PIN
+allegations_NOMZ
+,_,
+former_JJ
+Bigg_NN
+Boss_NN
+contestant_JJ
+Pooja_NN
+Misra_NN
+has_VPRT [PEAS]
+shared_VBN
+her_TPP3
+story_NN
+too_RB
+,_,
+and_ANDC
+has_VPRT [PEAS]
+expressed_VBN
+her_TPP3
+ordeal_NN
+through_PIN
+a_DT
+series_NN
+of_PIN
+videos_NN
+posted_VBN [WZPAST]
+on_PIN
+her_TPP3
+Instagram_NN
+handle_VB
+._.
+In_PIN
+a_DT
+shocking_JJ
+set_NN
+of_PIN
+allegations_NOMZ
+,_,
+according_VBG [PRESP]
+to_PIN
+a_DT
+report_NN
+by_PIN
+India_NN
+Times_NN
+,_,
+the_DT
+former_JJ
+model-VJ_NN
+has_VPRT [PEAS]
+accused_VBN
+Salman_NN
+Khan_NN
+and_CC
+his_TPP3
+brothers_NN
+-_:
+Arbaaz_NN
+and_PHC
+Sohail_NN
+of_PIN
+raping_VBG
+her_TPP3
+,_,
+Shatrughan_NN
+and_PHC
+Poonam_NN
+Sinha_NN
+of_PIN
+harassing_VBG
+her_TPP3
+and_CC
+Malaika_NN
+Arora_NN
+Khan_NN
+of_PIN
+being_VBG [BEMA]
+jealous_PRED
+of_PIN
+her_TPP3
+and_CC
+snatching_VBG
+away_PLACE
+projects_NN
+from_PIN
+her_TPP3
+kitty_NN
+._.
+In_PIN
+fact_NN
+,_,
+she_TPP3
+has_VPRT [PEAS]
+alleged_VBN [PUBV]
+that_THVC
+all_QUAN
+these_DEMO
+celebrities_NOMZ
+have_VPRT [PEAS]
+exploited_VBN
+and_PHC
+harassed_VBN
+her_TPP3
+both_DT
+mentally_RB
+and_PHC
+physically_RB
+,_,
+and_ANDC
+have_VPRT [SPAU] [PEAS]
+even_RB
+destroyed_VBN
+her_TPP3
+life_NN
+and_PHC
+career_NN
+,_,
+and_ANDC
+pushed_VBD
+her_TPP3
+to_PIN
+an_DT
+extent_NN
+that_TOBJ
+she_TPP3
+is_VPRT [BEMA]
+suicidal_PRED
+._.
+It_PIT
+does_VPRT
+n't_XX0 [CONT]
+end_VB
+here_RB
+._.
+Pooja_NN
+also_RB
+alleges_VPRT [PUBV]
+that_THVC
+Shatrughan_NN
+Sinha_NN
+used_VBD
+black_JJ
+magic_NN
+on_PIN
+her_TPP3
+so_OSUB
+that_DEMP
+his_TPP3
+daughter_NN
+Sonakshi_NN
+Sinha_NN
+could_POMD
+prosper_VB
+._.
+Pooja_NN
+Misra_NN
+has_VPRT [PEAS]
+claimed_VBN [PUBV]
+that_THVC
+Salman_NN
+,_,
+Arbaaz_NN
+and_PHC
+Sohail_NN
+raped_VBD
+her_TPP3
+on_PIN
+multiple_JJ
+occasions_NN
+and_CC
+have_VPRT [PEAS]
+ruined_VBN
+her_TPP3
+career_NN
+,_,
+health_NN
+and_CC
+she_TPP3
+has_VPRT [PEAS]
+yet_RB
+not_XX0
+recovered_VBD
+from_PIN
+the_DT
+loss_NN
+._.
+The_DT
+model_NN
+further_RB
+,_,
+in_PIN
+the_DT
+series_NN
+of_PIN
+videos_NN
+that_TOBJ
+she_TPP3
+has_VPRT [PEAS]
+shared_VBN
+on_PIN
+her_TPP3
+social_JJ
+media_NN
+alleges_VPRT [PUBV]
+that_THVC
+Shatrughan_NN
+Sinha_NN
+has_VPRT [PEAS]
+hacked_VBN
+her_TPP3
+phone_NN
+and_PHC
+laptop_NN
+to_TO
+steal_VB
+her_TPP3
+creative_JJ
+ideas_NN
+,_,
+which_WDT [SERE]
+were_VBD [PASS]
+used_VBN
+to_TO
+lift_VB
+up_RP
+Sonakshi_NN
+and_PHC
+Malaika_NN
+'s_POS
+career_NN
+._.
+She_TPP3
+also_RB
+claimed_VBD [PUBV]
+that_THVC
+because_CAUS
+the_DT
+veteran_NN
+actor_NN
+has_VPRT [PEAS]
+used_VBN
+black_JJ
+magic_NN
+on_PIN
+her_TPP3
+,_,
+she_TPP3
+is_VPRT
+being_VBG [BYPA]
+haunted_VBN
+by_PIN
+ghosts_NN
+._.
+She_TPP3
+has_VPRT [SPAU] [PEAS]
+also_RB
+alleged_VBN [PUBV] [THATD]
+that_DEMP
+his_TPP3
+father_NN
+was_VBD [BYPA]
+killed_VBN
+by_PIN
+them_TPP3
+._.
+Watch_NN
+her_TPP3
+narrate_NN
+the_DT
+story_NN
+in_PIN
+some_QUAN
+of_PIN
+the_DT
+videos_NN
+below_PLACE
+:_:
+A_DT
+post_NN
+shared_VBN [WZPAST]
+by_PIN
+pooja_NN
+misra_NN
+-LRB-_-LRB-
+@poojamisraproduction_NOMZ
+-RRB-_-RRB-
+on_PIN
+Oct_NN
+10_CD
+,_,
+2018_CD
+at_PIN
+7:29_CD
+am_VPRT
+PDT_NN
+A_NN
+post_NN
+shared_VBN [WZPAST]
+by_PIN
+pooja_NN
+misra_NN
+-LRB-_-LRB-
+@poojamisraproduction_NOMZ
+-RRB-_-RRB-
+on_PIN
+Oct_NN
+10_CD
+,_,
+2018_CD
+at_PIN
+7:35_CD
+am_VPRT
+PDT_NN
+15am_CD
+PDT_NN
+The_DT
+ordeal_NN
+narrated_VBN [WZPAST]
+by_PIN
+Pooja_NN
+Misra_NN
+has_VPRT [SPAU] [PEAS]
+merely_DWNT
+been_VBN [BYPA]
+reported_VBN [PUBV]
+by_PIN
+DNA_NN
+._.

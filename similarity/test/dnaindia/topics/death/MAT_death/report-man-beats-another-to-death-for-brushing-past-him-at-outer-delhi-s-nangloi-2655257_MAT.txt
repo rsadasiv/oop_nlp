@@ -1,0 +1,324 @@
+A_DT
+27-year-old_JJ
+man_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+arrested_VBN
+for_PIN
+allegedly_RB
+beating_VBG
+a_DT
+26-year-old_JJ
+man_NN
+to_PIN
+death_NN
+in_PIN
+an_DT
+intoxicated_JJ
+state_NN
+after_IN
+the_DT
+victim_NN
+'s_POS
+shoulder_NN
+brushed_VBN [WZPAST]
+against_PIN
+the_DT
+accused_VBN
+'s_POS
+while_OSUB
+crossing_VBG
+paths_NN
+on_PIN
+Sunday_NN
+afternoon_NN
+in_PIN
+Outer_NN
+Delhi_NN
+'s_POS
+Nangloi_NN
+area_NN
+._.
+According_VBG [PRESP]
+to_PIN
+the_DT
+police_NN
+,_,
+the_DT
+accused_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Deepak_NN
+who_WP [WHSUB]
+collects_VPRT
+cash_NN
+at_PIN
+a_DT
+public_JJ
+convenience_NN
+outlet_NN
+in_PIN
+Nangloi_NN
+._.
+``_``
+We_FPP1
+received_VBD
+a_DT
+call_NN
+around_PLACE
+4_CD
+pm_NN
+stating_VBG [PUBV] [WZPRES]
+that_THVC
+a_DT
+person_NN
+is_VPRT
+lying_VBG
+unconscious_JJ
+on_PIN
+the_DT
+road_NN
+in_PIN
+the_DT
+JJ_NN
+Colony_NN
+._.
+A_DT
+police_NN
+team_NN
+was_VBD [PASS]
+sent_VBN
+to_PIN
+the_DT
+spot_NN
+,_,
+which_WDT [SERE]
+later_TIME
+rushed_VBD
+the_DT
+victim_NN
+to_PIN
+a_DT
+government_NOMZ
+hospital_NN
+in_PIN
+the_DT
+vicinity_NOMZ
+._.
+The_DT
+man_NN
+was_VBD [PASS]
+identified_VBN
+as_IN
+Jeetu_NN
+,_,
+who_WP
+succumbed_VBD
+to_PIN
+his_TPP3
+injuries_NN
+within_PIN
+minutes_NN
+of_PIN
+reaching_VBG
+the_DT
+hospital_NN
+,_,
+''_''
+said_VBD [PUBV]
+Rajinder_NN
+Singh_NN
+Sagar_NN
+,_,
+Additional_JJ
+Deputy_NN
+Commissioner_NN
+of_PIN
+Police_NN
+-LRB-_-LRB-
+Outer_NN
+-RRB-_-RRB-
+._.
+During_PIN
+the_DT
+investigation_NOMZ
+,_,
+it_PIT
+was_VBD [PASS]
+revealed_VBN [PRIV]
+that_THVC
+Jeetu_NN
+was_VBD [SPAU] [BYPA]
+allegedly_RB
+beaten_VBN
+by_PIN
+Deepak_NN
+._.
+The_DT
+police_NN
+nabbed_VBD
+Deepak_NN
+with_PIN
+the_DT
+help_NN
+of_PIN
+locals_NN
+and_CC
+technical_JJ
+surveillance_NN
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]
+._.
+``_``
+During_PIN
+the_DT
+interrogation_NOMZ
+,_,
+he_TPP3
+disclosed_VBD [PUBV]
+that_THVC
+victim_NN
+'s_POS
+shoulder_NN
+brushed_VBN [WZPAST]
+against_PIN
+his_TPP3
+while_OSUB
+they_TPP3
+were_VBD
+crossing_VBG
+paths_NN
+._.
+After_IN
+which_WDT
+Jeetu_NN
+allegedly_RB
+commented_VBD [PUBV]
+,_,
+``_``
+Ca_POMD
+n't_XX0 [CONT]
+you_SPP2
+see_VPRT [PRIV]
+and_PHC
+walk_VPRT
+''_''
+which_WDT [SERE]
+enraged_VBD
+the_DT
+accused_VBN
+and_CC
+the_DT
+two_CD
+got_VBD
+into_PIN
+an_DT
+abusive_JJ
+argument_NOMZ
+which_WDT [WHSUB]
+turned_VBD
+violent_JJ
+,_,
+''_''
+said_VBD [PUBV]
+Sagar_NN
+._.
+The_DT
+police_NN
+said_VBD [PUBV]
+that_THVC
+Deepak_NN
+punched_VBD
+Jeetu_NN
+several_QUAN
+times_NN
+and_CC
+then_RB
+sat_VBD
+on_PIN
+his_TPP3
+stomach_NN
+to_TO
+beat_VB
+him_TPP3
+._.
+The_DT
+police_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+victim_NN
+had_VBD
+a_DT
+few_QUAN
+visible_JJ
+injuries_NN
+but_CC
+they_TPP3
+suspect_VPRT [PRIV]
+that_THVC
+he_TPP3
+died_VBD
+of_PIN
+an_DT
+internal_JJ
+injury_NN
+._.
+The_DT
+post-mortem_JJ
+report_NN
+is_VPRT [PASS]
+awaited_VBN
+for_PIN
+further_JJ
+investigation_NOMZ
+._.
+The_DT
+accused_VBN
+has_VPRT [PEAS]
+been_VBN [PASS]
+identified_VBN
+as_IN
+Deepak_NN
+,_,
+who_WP
+collects_VPRT
+cash_NN
+at_PIN
+a_DT
+public_JJ
+convenience_NN
+outlet_NN
+in_PIN
+Nangloi_NN
+._.
+Probe_NN
+revealed_VBD [PRIV]
+that_THVC
+Jeetu_NN
+was_VBD [SPAU] [BYPA]
+allegedly_RB
+beaten_VBN
+by_PIN
+Deepak_NN
+._.
+The_DT
+police_NN
+nabbed_VBD
+Deepak_NN
+with_PIN
+the_DT
+help_NN
+of_PIN
+locals_NN
+and_CC
+technical_JJ
+surveillance_NN
+,_,
+the_DT
+police_NN
+said_VBD [PUBV]

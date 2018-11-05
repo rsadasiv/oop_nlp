@@ -1,0 +1,18 @@
+John_NNP Percy_NNP Vyvian_NNP Dacre_NNP Balsdon_NNP ,_, FBA_NNP -LRB-_-LRB- 4_CD November_NNP 1901_CD ''_'' 18_CD September_NNP 1977_CD -RRB-_-RRB- ,_, known_VBN as_IN J._NNP P._NNP V._NNP D._NNP Balsdon_NNP in_IN his_PRP$ academic_JJ work_NN and_CC otherwise_RB as_IN Dacre_NNP Balsdon_NNP ,_, was_VBD an_DT English_JJ ancient_JJ historian_NN and_CC author_NN ._.
+He_PRP was_VBD a_DT Fellow_NNP of_IN Exeter_NNP College_NNP ,_, Oxford_NNP from_IN 1927_CD to_TO 1969_CD ,_, and_CC President_NNP of_IN the_DT Society_NNP for_IN the_DT Promotion_NNP of_IN Roman_NNP Studies_NNPS from_IN 1968_CD to_TO 1971_CD ._.
+Balsdon_NNP was_VBD born_VBN on_IN 4_CD November_NNP 1901_CD in_IN Bideford_NNP ,_, Devon_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD educated_VBN at_IN Exeter_NNP School_NNP ,_, Exeter_NNP ._.
+He_PRP studied_VBD classics_NNS at_IN Exeter_NNP College_NNP ,_, Oxford_NNP ._.
+In_IN 1922_CD ,_, he_PRP was_VBD awarded_VBN first_JJ class_NN honors_NNS in_IN Mods_NNP ,_, -LRB-_-LRB- 2_LS -RRB-_-RRB- and_CC in_IN 1924_CD he_PRP was_VBD also_RB awarded_VBN first_JJ class_NN honors_NNS in_IN Greats_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Balsdon_NNP began_VBD his_PRP$ academic_JJ career_NN as_IN a_DT teacher_NN at_IN Sedbergh_NNP School_NNP ,_, then_RB an_DT all_DT boys_NNS public_JJ boarding_VBG school_NN ._.
+His_PRP$ first_JJ university_NN post_NN was_VBD as_IN a_DT Fellow_NNP of_IN Keble_NNP College_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- From_IN 1927_CD ,_, he_PRP was_VBD a_DT Fellow_NNP of_IN Exeter_NNP College_NNP ,_, Oxford_NNP ,_, where_WRB he_PRP taught_VBD Ancient_NNP History_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- His_PRP$ research_NN was_VBD primarily_RB in_IN Roman_JJ History_NN ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 1940_CD ,_, he_PRP was_VBD elected_VBN Junior_NNP Proctor_NNP of_IN Oxford_NNP University_NNP ;_: serving_VBG from_IN March_NNP 1940_CD to_TO March_NNP 1941_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- In_IN 1956_CD ,_, he_PRP was_VBD a_DT candidate_NN for_IN the_DT Rectorship_NN of_IN Exeter_NNP College_NNP ,_, but_CC lost_VBD out_RP to_TO Kenneth_NNP Wheare_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP served_VBD as_IN President_NNP of_IN the_DT Society_NNP for_IN the_DT Promotion_NNP of_IN Roman_NNP Studies_NNPS from_IN 1968_CD to_TO 1971_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP retired_VBD from_IN full-time_JJ academia_NN in_IN 1969_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT same_JJ year_NN he_PRP was_VBD elected_VBN an_DT emeritus_JJ Fellow_NNP of_IN Exeter_NNP College_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP also_RB wrote_VBD novels_NNS using_VBG the_DT name_NN Dacre_NNP Balsdon_NNP ;_: his_PRP$ academic_JJ works_NNS gave_VBD his_PRP$ name_NN as_IN J._NNP P._NNP V._NNP D._NNP Balsdon_NNP ._.
+He_PRP was_VBD elected_VBN Fellow_NNP of_IN the_DT British_JJ Academy_NNP -LRB-_-LRB- FBA_NNP -RRB-_-RRB- in_IN 1967_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- As_IN J._NNP P._NNP V._NNP D._NNP Balsdon_NNP :_: As_IN Dacre_NNP Balsdon_NNP :_:

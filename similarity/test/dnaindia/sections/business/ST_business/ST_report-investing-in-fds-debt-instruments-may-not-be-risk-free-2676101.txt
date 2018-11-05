@@ -1,0 +1,28 @@
+Indian_JJ stock_NN markets_NNS are_VBP seeing_VBG corrections_NNS ._.
+Many_JJ stocks_NNS have_VBP taken_VBN a_DT hit_NN and_CC even_RB market_NN experts_NNS are_VBP not_RB sure_JJ of_IN the_DT bottom_NN ._.
+These_DT are_VBP some_DT reasons_NNS ,_, why_WRB Subhash_NNP ,_, an_DT employee_NN with_IN an_DT automobile_NN company_NN is_VBZ now_RB discussing_VBG if_IN he_PRP should_MD change_VB his_PRP$ approach_NN and_CC ''_'' ..._: start_VB investing_VBG in_IN risk-free_JJ FDs_NNS ''_'' Subhash_NNP earns_VBZ a_DT moderate_JJ salary_NN ._.
+Saving_VBG regularly_RB and_CC investing_VBG in_IN mutual_JJ funds_NNS has_VBZ been_VBN his_PRP$ mantra_NN ._.
+Most_JJS people_NNS consider_VBP FDs_NNS and_CC debt_NN ,_, to_TO be_VB ``_`` Risk-free_JJ ''_'' ._.
+Is_VBZ it_PRP because_IN the_DT principal_NN was_VBD not_RB being_VBG invested_VBN in_IN stocks_NNS ,_, or_CC it_PRP because_IN FDs_NNS gave_VBD assured_VBN monthly_JJ interest_NN ?_.
+``_`` Well_UH both_DT ''_'' according_VBG to_TO Subhash_NNP ._.
+When_WRB the_DT risks_NNS associated_VBN with_IN investments_NNS in_IN debt_NN products_NNS ,_, including_VBG the_DT FDs_NNS were_VBD pointed_VBN out_RP to_TO him_PRP ,_, Subhash_NNP was_VBD surprised_VBN ,_, as_IN his_PRP$ recent_JJ understanding_NN led_VBD him_PRP to_TO believe_VB otherwise_RB ._.
+His_PRP$ reasoning_NN was_VBD that_IN because_IN the_DT principal_JJ invested_VBN remains_VBZ fixed_JJ and_CC the_DT interest_NN rate_NN is_VBZ also_RB fixed_VBN ,_, then_RB there_EX is_VBZ no_DT risk_NN ._.
+However_RB ,_, if_IN the_DT financial_JJ institution_NN issuing_VBG the_DT FD_NNP defaults_NNS due_JJ to_TO any_DT reason_NN we_PRP may_MD not_RB get_VB our_PRP$ principal_JJ money_NN back_RB ._.
+Although_IN ,_, such_JJ cases_NNS may_MD be_VB rare_JJ ,_, the_DT probability_NN exists_VBZ ._.
+There_EX is_VBZ also_RB a_DT re-investment_JJ risk_NN associated_VBN with_IN interest_NN rate_NN volatility_NN ._.
+This_DT means_VBZ that_IN if_IN Subhash_NNP were_VBD to_TO invest_VB in_IN an_DT FD_NNP for_IN ,_, say_VB five_CD years_NNS ,_, at_IN 7_CD %_NN interest_NN and_CC if_IN after_IN two_CD years_NNS the_DT interest_NN rates_NNS move_VBP upwards_RB to_TO 7.50_CD %_NN ,_, then_RB the_DT existing_VBG FD_NNP would_MD still_RB be_VB giving_VBG him_PRP 7_CD %_NN interest_NN in_IN the_DT balance_NN three-year_JJ period_NN ._.
+So_RB ,_, his_PRP$ investment_NN would_MD yield_VB half_PDT a_DT percent_NN less_RBR for_IN the_DT remaining_VBG time_NN frame_NN of_IN investment_NN ._.
+Of_IN course_NN ,_, the_DT FD_NNP can_MD be_VB broken_VBN to_TO reinvest_VB -_: but_CC then_RB there_EX is_VBZ a_DT penalty_NN charged_VBN by_IN most_JJS of_IN the_DT financial_JJ institutions_NNS for_IN doing_VBG that_DT ._.
+There_EX is_VBZ also_RB liquidity_NN risk_NN ._.
+The_DT bank_NN or_CC company_NN could_MD take_VB a_DT month_NN to_TO give_VB back_RP the_DT principal_JJ money_NN at_IN the_DT time_NN of_IN maturity_NN ._.
+Liquidity_NN risk_NN means_VBZ how_WRB much_JJ liquid_NN funds_NNS the_DT financial_JJ company_NN has_VBZ on_IN a_DT regular_JJ basis_NN to_TO meet_VB its_PRP$ obligations_NNS to_TO investors_NNS ._.
+If_IN the_DT company_NN takes_VBZ unduly_RB long_JJ in_IN meeting_VBG the_DT obligations_NNS then_RB the_DT investor_NN may_MD not_RB be_VB able_JJ to_TO meet_VB his_PRP$ financial_JJ goal_NN on_IN time_NN ,_, which_WDT could_MD defeat_VB the_DT very_RB purpose_NN of_IN his_PRP$ investment_NN ._.
+Many_JJ a_DT times_NNS ,_, nationalised_JJ banks_NNS do_VBP not_RB give_VB the_DT provision_NN of_IN encashing_VBG the_DT FD_NNP before_IN maturity_NN ;_: and_CC as_IN such_JJ the_DT principal_NN is_VBZ not_RB accessible_JJ to_TO the_DT investor_NN for_IN the_DT investment_NN period_NN ._.
+With_IN everything_NN from_IN petrol_NN to_TO health_NN to_TO education_NN getting_VBG expensive_JJ by_IN the_DT day_NN ,_, it_PRP could_MD also_RB be_VB the_DT case_NN that_WDT inflation_NN is_VBZ more_JJR than_IN the_DT interest_NN rate_NN of_IN your_PRP$ FD_NN after_IN three_CD years_NNS ._.
+That_DT can_MD be_VB understood_VBN as_IN purchasing_VBG power_NN risk_NN as_IN interest_NN rates_NNS on_IN FD_NNP rarely_RB beat_VBD the_DT inflation_NN ._.
+Plus_CC ,_, interest_NN received_VBN is_VBZ also_RB taxable_JJ on_IN `_`` accrual_NN basis_NN '_'' and_CC not_RB on_IN `_`` receipt_NN basis_NN '_'' thereby_RB reducing_VBG your_PRP$ real_JJ rate_NN of_IN return_NN on_IN most_JJS ,_, if_IN not_RB all_DT ,_, debt_NN investments_NNS ._.
+Despite_IN the_DT risks_NNS ,_, debt_NN investments_NNS ,_, including_VBG FDs_NNP ,_, continue_VBP to_TO remain_VB a_DT safer_JJR option_NN to_TO invest_VB one_CD 's_POS hard_JJ earned_VBN money_NN ._.
+It_PRP is_VBZ important_JJ to_TO know_VB the_DT current_JJ rate_NN of_IN interest_NN and_CC also_RB risks_NNS attached_VBN with_IN the_DT product_NN in_IN which_WDT we_PRP are_VBP investing_VBG ._.
+Also_RB ,_, investors_NNS should_MD follow_VB the_DT age_NN old_JJ principle_NN of_IN not_RB keeping_VBG all_DT eggs_NNS in_IN one_CD basket_NN and_CC should_MD invest_VB in_IN different_JJ asset_NN classes_NNS and_CC different_JJ products_NNS within_IN the_DT asset_NN class_NN ._.
+Now_RB Subhash_NNP would_MD go_VB ahead_RB with_IN his_PRP$ decision_NN of_IN investing_VBG in_IN FDs_NNP ,_, but_CC with_IN a_DT lot_NN more_JJR conviction_NN and_CC confidence_NN ._.
+The_DT author_NN is_VBZ a_DT certified_JJ financial_JJ planner_NN

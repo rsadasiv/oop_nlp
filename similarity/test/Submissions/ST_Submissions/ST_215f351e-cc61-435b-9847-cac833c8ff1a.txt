@@ -1,0 +1,198 @@
+From_IN :_: Bikram_NNP Sharma_NNP <bikram.singh.sharma@gmail.com>_NNP Date_NNP :_: 07_CD November_NNP 2016_CD 19:00_CD Subject_NNP :_: A_NNP Vocabulary_NNP of_IN Absence_NNP To_TO :_: outofprintmagazine@gmail.com_NN Days_NNS before_IN his_PRP$ visa_NN expired_VBD ,_, Sandeep_NNP caught_VBD a_DT flight_NN back_RB to_TO Bangalore_NNP ,_, leaving_VBG behind_IN Alexandra_NNP and_CC their_PRP$ apartment_NN in_IN Norwich_NNP ._.
+They_PRP had_VBD shared_VBN it_PRP for_IN the_DT final_JJ year_NN of_IN his_PRP$ PhD_NNP ._.
+Though_IN the_DT heater_NN conked_VBD out_RP half_PDT the_DT time_NN and_CC the_DT bathroom_NN ceiling_NN was_VBD stained_VBN green_JJ with_IN water_NN rings_NNS ,_, the_DT place_NN had_VBD grown_VBN to_TO become_VB their_PRP$ home_NN ,_, cluttered_VBN with_IN the_DT warm_JJ detritus_NN of_IN their_PRP$ personal_JJ lives_NNS ._.
+Alex_NNP ,_, laden_JJ with_IN the_DT responsibility_NN of_IN readying_VBG it_PRP for_IN the_DT next_JJ batch_NN of_IN tenants_NNS ,_, had_VBD stumbled_VBN across_IN an_DT obvious_JJ revelation_NN which_WDT she_PRP shared_VBD with_IN Sandeep_NNP over_IN the_DT phone_NN :_: without_IN him_PRP ,_, without_IN their_PRP$ things_NNS ,_, their_PRP$ home_NN sweet_JJ home_NN transformed_VBN into_IN something_NN ordinary_JJ and_CC functional_JJ ''_'' a_DT rental_NN ._.
+A_DT pretty_JJ shitty_JJ one_NN at_IN that_DT ._.
+Two_CD months_NNS later_RB ,_, she_PRP too_RB caught_VBD a_DT flight_NN to_TO Bangalore_NNP ._.
+While_IN Alex_NNP had_VBD prepared_VBN to_TO exchange_VB a_DT life_NN in_IN the_DT UK_NNP for_IN a_DT life_NN in_IN India_NNP ,_, Sandeep_NNP resumed_VBD working_VBG with_IN his_PRP$ old_JJ business_NN consultancy_NN firm_NN ''_'' no_DT promotion_NN ,_, no_DT pay_NN hike_NN ,_, no_DT questions_NNS asked_VBD about_IN his_PRP$ gained_VBN academic_JJ experience_NN ._.
+His_PRP$ return_NN had_VBD been_VBN too_RB smooth_JJ ._.
+He_PRP believed_VBD he_PRP had_VBD matured_VBN into_IN an_DT adult_NN in_IN Norwich_NNP ,_, yet_RB people_NNS acted_VBD like_IN he_PRP <sup>_VBD TM_NNP </sup>_NNP d_SYM never_RB been_VBN away_RB and_CC treated_VBD him_PRP the_DT same_JJ ._.
+He_PRP was_VBD settling_VBG into_IN old_JJ routines_NNS ''_'' joining_VBG the_DT boys_NNS for_IN drinks_NNS on_IN Church_NNP Street_NNP ,_, stalling_VBG along_IN the_DT same_JJ traffic-congested_JJ routes_NNS ,_, spending_VBG late_JJ nights_NNS lazing_VBG in_IN front_NN of_IN the_DT television_NN ._.
+In_IN an_DT attempt_NN to_TO distance_VB his_PRP$ present_JJ and_CC past_JJ selves_NNS he_PRP moved_VBD into_IN a_DT tidy_JJ two-bedroom_JJ apartment_NN in_IN the_DT center_NN of_IN the_DT city_NN where_WRB the_DT landlord_NN didn_NN <sup>_VBD TM_NNP </sup>_NNP t_VBD ask_VB too_RB many_JJ questions_NNS ._.
+<sup>_NNP ~_NNP </sup>_NNP What_WP do_VBP you_PRP mean_VB by_IN too_RB many_JJ questions_NNS ?_.
+<sup>_JJ TM_NNP </sup>_NNP Alex_NNP asked_VBD ,_, her_PRP$ tone_NN quizzical_NN ._.
+He_PRP tried_VBD to_TO explain_VB ._.
+<sup>_NNP ~_NNP </sup>_NNP What_WP does_VBZ it_PRP matter_NN if_IN we_PRP <sup>_VBP TM_NNP </sup>_NNP re_VBD married_JJ or_CC not_RB ?_.
+<sup>_JJ TM_NNP </sup>_NNP Alex_NNP asked_VBD ,_, her_PRP$ tone_NN annoyed_VBD ._.
+He_PRP tried_VBD to_TO explain_VB again_RB ,_, recounting_VBG horror_NN stories_NNS his_PRP$ friends_NNS had_VBD endured_VBN in_IN Gurgaon_NNP and_CC Hyderabad_NNP ._.
+Alex_NNP processed_VBD his_PRP$ answers_NNS in_IN silence_NN before_IN finally_RB saying_VBG ,_, <sup>_VB ~_CD </sup>_NNP Well_NNP ,_, I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN traveling_VBG across_IN continents_NNS to_TO be_VB with_IN you_PRP ._.
+I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_NN really_RB care_VB about_IN nosy_JJ landlords_NNS and_CC their_PRP$ crappy_JJ rules_NNS ._.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP admired_VBD her_PRP$ defiance_NN but_CC was_VBD filled_VBN with_IN a_DT prickly_JJ sense_NN of_IN trepidation_NN as_IN he_PRP waited_VBD for_IN her_PRP$ outside_JJ Bangalore_NNP airport_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ arrivals_NNS hall_NN ._.
+She_PRP appeared_VBD ,_, looking_VBG shrunken_NN ._.
+She_PRP cocked_VBD her_PRP$ head_NN this_DT way_NN and_CC that_IN ,_, in_IN search_NN of_IN his_PRP$ face_NN in_IN a_DT jostling_VBG crowd_NN ._.
+He_PRP called_VBD out_RP to_TO her_PRP ,_, his_PRP$ voice_NN loud_JJ then_RB soft_JJ ._.
+AL-ex_NNP ._.
+She_PRP rushed_VBD towards_IN him_PRP ,_, kissed_VBD him_PRP on_IN the_DT cheek_NN despite_IN his_PRP$ protestations_NNS of_IN not_RB here_RB ,_, not_RB here_RB ,_, and_CC collapsed_VBD in_IN his_PRP$ arms_NNS ._.
+<sup>_JJ ~_NN </sup>_IN I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN exhausted_VBN ,_, <sup>_VB TM_NNP </sup>_VB she_PRP said_VBD into_IN his_PRP$ shoulders_NNS ._.
+<sup>_NNP ~_NNP </sup>_NNP Take_VB me_PRP home_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP He_PRP carried_VBD her_PRP$ suitcase_NN ,_, extraordinarily_RB heavy_JJ with_IN the_DT weight_NN of_IN her_PRP$ life_NN ._.
+Inside_IN was_VBD a_DT Ziploc_NNP bag_NN that_WDT contained_VBD pebbles_VBZ the_DT color_NN purple_JJ -LRB-_-LRB- Sandeep_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ favorite_JJ -RRB-_-RRB- ,_, which_WDT they_PRP had_VBD collected_VBN from_IN various_JJ beaches_NNS along_IN Britain_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ eastern_JJ coast_NN ._.
+She_PRP filled_VBD a_DT jar_NN with_IN those_DT pebbles_NNS ,_, and_CC that_IN jar_NN became_VBD the_DT centrepiece_NN of_IN their_PRP$ new_JJ bedroom_NN ._.
+Detritus_NNP carried_VBD from_IN shore_NN to_TO shore_NN ._.
+For_IN Alex_NNP ,_, Bangalore_NNP was_VBD a_DT difficult_JJ beast_NN of_IN broken_JJ roads_NNS ._.
+Crossings_NNS became_VBD a_DT matter_NN of_IN life_NN and_CC death_NN in_IN which_WDT victory_NN meant_VBD emerging_VBG with_IN lungs_NNS shallow_JJ from_IN pollution_NN ._.
+She_PRP spoke_VBD of_IN the_DT simple_JJ pleasures_NNS she_PRP missed_VBD ,_, like_IN cycling_VBG to_TO the_DT park_NN ,_, or_CC going_VBG for_IN a_DT midnight_NN stroll_VB down_RB slippery_JJ cobblestoned_VBN lanes_NNS ,_, or_CC even_RB just_RB drinking_VBG water_NN from_IN a_DT tap_VBP ._.
+And_CC yet_RB she_PRP coped_VBD well_RB ,_, better_JJR than_IN Sandeep_NNP could_MD have_VB hoped_VBN ._.
+Her_PRP$ first_JJ week_NN was_VBD spent_VBN sloughing_VBG off_RP jet_NN lag_NN ,_, painting_NN self-portraits_NNS that_WDT were_VBD outlines_VBZ containing_VBG startling_JJ splashes_NNS of_IN yellow_JJ -LRB-_-LRB- her_PRP$ favorite_NN -RRB-_-RRB- ._.
+Sandeep_NNP would_MD return_VB from_IN office_NN to_TO the_DT sharp_JJ smell_NN of_IN acrylic_NN ._.
+He_PRP would_MD lie_VB in_IN bed_NN and_CC peel_NN dried_VBD paint_NN from_IN her_PRP$ arms_NNS ._.
+If_IN it_PRP was_VBD sunny_JJ she_PRP would_MD explore_VB the_DT neighborhood_NN ._.
+She_PRP discovered_VBD an_DT arts_NNS center_NN which_WDT hosted_VBD early-morning_JJ yoga_NN sessions_NNS and_CC made_VBN friends_NNS with_IN two_CD of_IN the_DT trainers_NNS ,_, inviting_VBG them_PRP over_IN for_IN tea_NN ,_, then_RB arts-and-crafts_JJ night_NN ,_, then_RB movie_NN night_NN ._.
+Synonyms_NNS for_IN girls_NNS <sup>_VBP TM_NNP </sup>_NNP nights_NNS ._.
+She_PRP began_VBD working_VBG freelance_NN for_IN an_DT NGO_NNP in_IN Bristol_NNP ,_, earning_VBG British_JJ pounds_NNS that_WDT went_VBD into_IN her_PRP$ British_JJ bank_NN account_NN ._.
+This_DT made_VBD her_PRP$ at_IN times_NNS financially_RB dependent_JJ on_IN Sandeep_NNP ,_, something_NN she_PRP disliked_VBD and_CC repeatedly_RB expressed_VBN by_IN complaining_VBG about_IN Brexit_NNP :_: <sup>_VB ~_NN </sup>_IN I_PRP should_MD have_VB converted_VBN my_PRP$ money_NN when_WRB it_PRP was_VBD worth_JJ more_JJR than_IN toilet_NN paper_NN ._.
+<sup>_VB TM_NNP </sup>_VB He_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD mind_NN ._.
+What_WP <sup>_VBZ TM_NNP </sup>_NNP s_VBZ yours_NNS is_VBZ mine_JJ ,_, he_PRP would_MD say_VB ,_, meaning_VBG the_DT opposite_NN ._.
+One_CD morning_NN they_PRP woke_VBD up_RP to_TO a_DT state-wide_JJ bandh_NN ._.
+They_PRP lay_VBD in_IN bed_NN ,_, watching_VBG television_NN ._.
+The_DT news_NN focused_VBD on_IN the_DT Cauvery_NNP water_NN issue_NN ,_, flashing_VBG images_NNS of_IN farmers_NNS in_IN Mysore_NNP and_CC Mandya_NNP who_WP were_VBD blocking_VBG highways_NNS to_TO protest_VB the_DT Supreme_NNP Court_NNP <sup>_VBD TM_NNP </sup>_NNP s_VBZ verdict_NN ;_: some_DT of_IN the_DT farmers_NNS lit_VBD tyres_NNS on_IN fire_NN ,_, shouting_VBG slogans_NNS while_IN curls_NNS of_IN rubber_NN mushroomed_VBD into_IN dense_JJ black_JJ smoke_NN ._.
+Sandeep_NNP muted_VBD the_DT television_NN ._.
+Alex_NNP stretched_VBD ,_, tenting_VBG the_DT bedsheets_NNS ,_, and_CC said_VBD ,_, <sup>_VB ~_NN </sup>_VB It_PRP <sup>_VB TM_NNP </sup>_NNP s_VBZ so_RB peaceful_JJ ._.
+<sup>_JJ TM_NNP </sup>_NN For_IN the_DT first_JJ time_NN since_IN she_PRP <sup>_VBD TM_NNP </sup>_NNP d_SYM arrived_VBD ,_, Bangalore_NNP was_VBD silent_JJ ._.
+From_IN their_PRP$ balcony_NN Sandeep_NNP looked_VBD down_RP at_IN the_DT apartment_NN complex_JJ <sup>_NN TM_NNP </sup>_NNP s_VBZ cracked_VBN driveway_NN ,_, at_IN the_DT dhobi_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ stall_VB by_IN the_DT gate_NN and_CC the_DT park_NN across_IN the_DT street_NN ._.
+There_EX were_VBD no_DT cars_NNS ,_, no_DT motorcycles_NNS ,_, not_RB even_RB any_DT pedestrians_NNS ._.
+Recognising_VBG this_DT for_IN the_DT opportunity_NN it_PRP was_VBD ,_, he_PRP dragged_VBD Alex_NNP out_IN of_IN bed_NN ._.
+Outside_JJ ,_, tree_NN branches_NNS swayed_VBD and_CC leaves_VBZ cascaded_VBN from_IN the_DT rustling_NN canopy_NN ,_, carpeting_NN the_DT sidewalk_NN a_DT dirty_JJ orange_NN ._.
+For_IN Sandeep_NNP ,_, it_PRP was_VBD like_IN stepping_VBG back_RB in_IN time_NN to_TO a_DT gentler_JJR Bangalore_NNP ,_, one_CD in_IN which_WDT he_PRP and_CC the_DT neighborhood_NN children_NNS used_VBN to_TO play_VB cricket_NN ,_, lagoori_NN or_CC hide_VB and_CC seek_VB ._.
+When_WRB he_PRP told_VBD her_PRP this_DT ,_, she_PRP held_VBD his_PRP$ hand_NN ._.
+With_IN a_DT laugh_NN ,_, she_PRP leapt_VBD into_IN the_DT middle_NN of_IN the_DT street_NN ,_, pulling_VBG him_PRP with_IN her_PRP$ so_IN that_IN their_PRP$ bodies_NNS softly_RB collided_VBD ._.
+The_DT invisible_JJ strings_NNS that_WDT tugged_VBD his_PRP$ body_NN into_IN ducking_VBG ,_, swerving_VBG ,_, weaving_VBG to_TO dodge_VB traffic_NN went_VBD razor_NN taut_JJ ._.
+But_CC there_EX were_VBD no_DT blaring_NN horns_NNS ._.
+No_DT sweltering_VBG fumes_VBZ ._.
+The_DT air_NN was_VBD light_JJ and_CC leaves_VBZ crackled_VBN under_IN their_PRP$ every_DT step_NN ._.
+They_PRP spent_VBD the_DT whole_JJ day_NN walking_VBG down_RP empty_JJ lanes_NNS ,_, past_JJ shuttered_VBD shops_NNS and_CC silent_JJ markets_NNS ,_, Sandeep_NNP naming_VBG in_IN Hindi_NNP those_DT things_NNS Alex_NNP pointed_VBD at_IN ,_, slowly_RB introducing_VBG her_PRP$ to_TO a_DT vocabulary_JJ unfamiliar_JJ to_TO her_PRP$ tongue_NN ._.
+Flash_VB cards_NNS entered_VBD their_PRP$ lives_NNS ,_, strewn_VBN across_IN the_DT surfaces_NNS of_IN their_PRP$ apartment_NN ._.
+Alex_NNP took_VBD to_TO writing_VBG down_RP useful_JJ Hindi_NNP or_CC Kannada_NNP words_NNS ,_, along_IN with_IN their_PRP$ English_JJ meanings_NNS ,_, and_CC Sandeep_NNP tested_VBD her_PRP ._.
+Though_IN her_PRP$ pronunciation_NN was_VBD off_RB ,_, her_PRP$ language_NN skills_NNS were_VBD excellent_JJ ._.
+Soon_RB you_PRP <sup>_VBP TM_NNP </sup>_NNP ll_NN be_VB more_RBR fluent_JJ than_IN I_PRP am_VBP ,_, he_PRP said_VBD ,_, watching_VBG her_PRP$ shuffle_NN cards_NNS contentedly_RB ._.
+Despite_IN this_DT encouragement_NN ,_, fruit_NN vendors_NNS continued_VBD to_TO laugh_NN whenever_WRB she_PRP asked_VBD for_IN kelas_NNS ._.
+<sup>_NNP ~_NNP </sup>_NNP How_WRB is_VBZ it_PRP funny_JJ ?_.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP m_VB just_RB trying_VBG to_TO speak_VB the_DT language_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP Sandeep_NNP understood_VBD what_WP she_PRP was_VBD saying_VBG ._.
+In_IN many_JJ ways_NNS their_PRP$ lives_NNS had_VBD turned_VBN dichotomous_NNS :_: in_IN the_DT privacy_NN of_IN their_PRP$ apartment_NN they_PRP were_VBD as_IN they_PRP had_VBD been_VBN in_IN Norwich_NNP ,_, comfortable_JJ walking_VBG naked_JJ from_IN room_NN to_TO room_NN ;_: but_CC in_IN public_JJ there_EX was_VBD a_DT palpable_JJ sense_NN of_IN unbelonging_JJ ._.
+At_IN university_NN he_PRP had_VBD grown_VBN accustomed_VBN to_TO kissing_VBG in_IN public_JJ ''_'' as_IN a_DT form_NN of_IN greeting_VBG ,_, consolation_NN ,_, or_CC even_RB as_IN a_DT simple_JJ expression_NN of_IN happiness_NN ''_'' but_CC in_IN Bangalore_NNP such_JJ displays_NNS of_IN affection_NN troubled_VBD him_PRP ._.
+Outdoors_NNP ,_, he_PRP hesitated_VBD to_TO kiss_VB ,_, to_TO curl_VB an_DT arm_NN around_IN her_PRP$ shoulder_NN ._.
+It_PRP made_VBD him_PRP wonder_VB if_IN his_PRP$ identity_NN was_VBD dependent_JJ on_IN location_NN ,_, as_IN though_IN there_RB existed_VBN distinct_JJ geographical_JJ variations_NNS of_IN himself_PRP ._.
+His_PRP$ parents_NNS visited_VBD for_IN a_DT weekend_NN ._.
+Listening_VBG to_TO his_PRP$ mother_NN and_CC Alex_NNP get_VBP along_IN so_RB well_RB ,_, he_PRP felt_VBD proud_JJ ,_, even_RB accomplished_VBN ._.
+But_CC this_DT feeling_NN was_VBD obliterated_VBN at_IN the_DT end_NN of_IN the_DT trip_NN when_WRB his_PRP$ father_NN ,_, ears_NNS blushing_VBG red_JJ ,_, had_VBD sat_VBN them_PRP down_RP at_IN their_PRP$ own_JJ table_NN to_TO say_VB ,_, <sup>_VB ~_CD </sup>_NNP Look_VB ,_, I_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD want_VB to_TO tell_VB you_PRP kids_NNS what_WP to_TO do_VB ,_, and_CC I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN so_RB happy_JJ you_PRP both_DT are_VBP so_RB ..._: but_CC you_PRP have_VBP to_TO be_VB careful_JJ here_RB ._.
+<sup>_JJ TM_NNP </sup>_NNP Sandeep_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ mother_NN avoided_VBD eye_NN contact_NN ._.
+<sup>_NNP ~_NNP </sup>_NNP People_NNS are_VBP quick_JJ to_TO draw_VB assumptions_NNS ,_, <sup>_VB TM_NNP </sup>_VB his_PRP$ father_NN finished_VBD ._.
+After_IN they_PRP left_VBD ,_, Alex_NNP was_VBD brittle_JJ with_IN anger_NN ._.
+She_PRP believed_VBD his_PRP$ parents_NNS were_VBD ashamed_JJ of_IN her_PRP ._.
+He_PRP promised_VBD her_PRP$ that_IN it_PRP wasn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD like_IN that_DT ,_, that_IN they_PRP were_VBD just_RB looking_VBG out_RP for_IN the_DT two_CD of_IN them_PRP ._.
+Anger_NN flared_VBD at_IN the_DT memory_NN of_IN the_DT conversation_NN ,_, and_CC just_RB as_RB quickly_RB burnt_VBN into_IN remorse_NN ._.
+He_PRP had_VBD kissed_VBN her_PRP$ naked_JJ shoulders_NNS in_IN apology_NN ._.
+But_CC his_PRP$ father_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ unspoken_JJ words_NNS took_VBD root_NN ._.
+Standing_VBG in_IN Johnson_NNP Market_NNP ,_, helping_VBG Alex_NNP pick_VB onions_NNS from_IN jute_JJ sacks_NNS ,_, Sandeep_NNP was_VBD uncomfortably_RB aware_JJ of_IN eyes_NNS tracing_VBG the_DT contours_NNS of_IN her_PRP$ body_NN ._.
+At_IN home_NN he_PRP suggested_VBD she_PRP wear_VB full-sleeved_JJ shirts_NNS ._.
+For_IN safety_NN <sup>_NN TM_NNP </sup>_NNP s_VBZ sake_NN ._.
+Her_PRP$ argument_NN was_VBD succinct_NN :_: <sup>_VB ~_CD </sup>_NNP Why_WRB the_DT hell_NN should_MD I_PRP ?_.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ so_RB bloody_JJ hot_JJ outside_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP The_NNP Cauvery_NNP situation_NN worsened_VBD ._.
+The_DT government_NN ignored_VBD the_DT Supreme_NNP Court_NNP and_CC soon_RB more_JJR bandhs_NNS followed_VBD ._.
+They_PRP came_VBD like_IN water_NN to_TO a_DT parched_JJ throat_NN ._.
+Bangalore_NNP retreated_VBD in_IN time_NN and_CC Alex_NNP and_CC Sandeep_NNP took_VBD to_TO walking_VBG its_PRP$ empty_JJ streets_NNS ,_, expanding_VBG their_PRP$ combined_VBN vocabulary_NN by_IN creating_VBG new_JJ names_NNS for_IN the_DT city_NN ._.
+Ghost_NN Town_NNP ._.
+The_DT Abandoned_NNP City_NNP ._.
+The_DT Land_NNP of_IN How_WRB It_PRP Used_VBD to_TO Be_VB ._.
+Garden_NNP City_NNP Reborn_NNP ._.
+New_NNP words_NNS ,_, new_JJ names_NNS ,_, and_CC with_IN every_DT passing_VBG day_NN Sandeep_NNP introduced_VBD new_JJ suggestions_NNS ._.
+Better_RBR to_TO take_VB a_DT cab_NN than_IN an_DT auto_NN ._.
+Better_RBR to_TO go_VB with_IN him_PRP than_IN go_VB alone_RB ._.
+Better_RBR to_TO walk_VB in_IN the_DT day_NN rather_RB than_IN in_IN the_DT night_NN ._.
+Better_RBR to_TO avoid_VB walking_VBG by_IN yourself_PRP ._.
+Better_RBR to_TO wear_VB trousers_NNS than_IN shorts_NNS ._.
+Better_RBR to_TO wear_VB shirts_NNS than_IN tank-tops_NNS ._.
+Better_RBR to_TO be_VB safe_JJ than_IN sorry_JJ ._.
+Alex_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ discontent_NN grew_VBD heavy_JJ ,_, settling_VBG like_IN thick_JJ layers_NNS of_IN silt_NN ._.
+She_PRP went_VBD for_IN walks_VBZ ,_, timing_VBG them_PRP so_RB that_IN he_PRP returned_VBD from_IN work_NN to_TO an_DT empty_JJ apartment_NN ._.
+When_WRB he_PRP called_VBD her_PRP$ name_NN ,_, stretching_VBG it_PRP from_IN Alex_NNP to_TO Alexandra_NNP and_CC listening_VBG to_TO its_PRP$ echo_VBP ,_, he_PRP would_MD feel_VB ashamed_JJ ,_, petty_JJ ,_, small_JJ ._.
+He_PRP took_VBD to_TO cleaning_NN ._.
+He_PRP took_VBD to_TO polishing_VBG ._.
+The_DT cutlery_NN in_IN the_DT kitchen_NN shone_NN brilliantly_RB ._.
+Why_WRB was_VBD he_PRP so_RB concerned_JJ about_IN conservatism_NN ?_.
+he_PRP would_MD ask_VB himself_PRP ._.
+Why_WRB was_VBD the_DT Sandeep_NNP in_IN Bangalore_NNP so_RB different_JJ from_IN the_DT one_CD in_IN Norwich_NNP ''_'' the_DT same_JJ one_NN who_WP had_VBD lain_VBN in_IN a_DT park_NN while_IN Alex_NNP had_VBD done_VBN a_DT handstand_NN above_IN him_PRP ,_, lowering_VBG herself_PRP till_IN their_PRP$ lips_NNS met_VBD ._.
+And_CC then_RB came_VBD the_DT day_NN of_IN the_DT man_NN on_IN a_DT motorbike_NN ._.
+Alex_NNP had_VBD gone_VBN for_IN a_DT walk_NN ._.
+Sandeep_NNP ,_, irritated_JJ with_IN her_PRP$ and_CC irritated_JJ with_IN himself_PRP for_IN feeling_VBG irritated_JJ ,_, was_VBD busy_JJ boiling_VBG water_NN on_IN the_DT stove_NN and_CC wiping_VBG the_DT kitchen_NN counters_NNS clean_JJ ._.
+The_DT front_JJ door_NN opened_VBD ._.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN making_VBG tea_NN ,_, he_PRP said_VBD ,_, but_CC Alex_NNP ignored_VBD him_PRP ._.
+She_PRP went_VBD straight_RB to_TO their_PRP$ bedroom_NN ._.
+He_PRP was_VBD surprised_VBN to_TO find_VB her_PRP$ standing_NN by_IN the_DT curtains_NNS ,_, watching_VBG the_DT road_NN ._.
+What_WP happened_VBD ?_.
+he_PRP asked_VBD ._.
+<sup>_NNP ~_NNP </sup>_NNP There_EX was_VBD a_DT man_NN on_IN a_DT motorbike_NN ._.
+He_PRP told_VBD me_PRP someone_NN was_VBD following_VBG me_PRP and_CC asked_VBD if_IN he_PRP could_MD drop_VB me_PRP off_RP safely_RB ._.
+<sup>_JJ TM_NNP </sup>_NNP And_CC ?_.
+<sup>_JJ ~_NN </sup>_IN I_PRP had_VBD only_RB just_RB stepped_VBD out_IN of_IN the_DT building_NN ._.
+<sup>_VB TM_NNP </sup>_VB It_PRP took_VBD Sandeep_NNP a_DT few_JJ seconds_NNS to_TO process_VB the_DT significance_NN of_IN her_PRP$ words_NNS ._.
+Realisation_NNP brought_VBD with_IN it_PRP a_DT calamitous_JJ sense_NN of_IN vertigo_NN ._.
+He_PRP stood_VBD beside_IN her_PRP$ and_CC together_RB they_PRP watched_VBD motorists_NNS drive_NN by_IN as_IN sunlight_NN diffused_VBD into_IN a_DT pale_JJ blue_NN ,_, bringing_VBG with_IN it_PRP the_DT fluttering_NN wings_NNS of_IN bats_NNS and_CC moths_NNS ._.
+The_DT stove_NN was_VBD still_RB on_IN ._.
+Most_JJS of_IN the_DT water_NN had_VBD evaporated_VBN ._.
+The_DT next_JJ day_NN he_PRP returned_VBD early_RB from_IN work_NN to_TO find_VB her_PRP$ stepping_VBG out_RP once_RB again_RB ._.
+Where_WRB are_VBP you_PRP going_VBG ?_.
+<sup>_JJ ~_NN </sup>_NN For_IN my_PRP$ walk_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP But_CC ,_, I_PRP mean_VBP ,_, what_WP about_IN the_DT man_NN on_IN the_DT motorbike_NN ?_.
+<sup>_JJ ~_NN </sup>_NNP Well_NNP ,_, what_WP about_IN him_PRP ?_.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ not_RB like_IN it_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ the_DT first_JJ time_NN this_DT stuff_NN has_VBZ happened_VBN ._.
+<sup>_JJ TM_NNP </sup>_NNP What_WP do_VBP you_PRP mean_VB it_PRP <sup>_VB TM_NNP </sup>_NNP s_VBZ not_RB the_DT first_JJ time_NN ?_.
+Have_NNP other_JJ people_NNS followed_VBD you_PRP ?_.
+<sup>_NNP ~_NNP </sup>_NNP Couple_NN of_IN times_NNS ._.
+There_EX was_VBD some_DT idiot_NN outside_IN the_DT Arts_NNS Centre_NNP who_WP kept_VBD whistling_VBG at_IN me_PRP ,_, but_CC I_PRP asked_VBD for_IN a_DT lift_NN that_DT day_NN ._.
+And_CC the_DT security_NN guard_NN made_VBD sure_JJ he_PRP didn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD bother_VB us_PRP ._.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ no_DT big_JJ deal_NN ._.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN used_VBN to_TO it_PRP ._.
+Even_RB in_IN Norwich_NNP ,_, remember_VBP ,_, there_EX was_VBD that_IN guy_NN in_IN the_DT car_NN ?_.
+<sup>_JJ TM_NNP </sup>_NNP She_PRP shrugged_VBD ._.
+<sup>_NNP ~_NNP </sup>_NNP Anyway_RB ,_, I_PRP better_RB go_VBP ._.
+<sup>_JJ TM_NNP </sup>_NNP No._NN ._.
+<sup>_NNP ~_NNP </sup>_NNP Excuse_NNP me_PRP ?_.
+<sup>_JJ TM_NNP </sup>_NNP Give_VB it_PRP a_DT day_NN or_CC two_CD ._.
+It_PRP <sup>_VBD TM_NNP </sup>_NNP s_VBZ not_RB safe_JJ ._.
+<sup>_NNP ~_NNP </sup>_NNP But_CC this_DT happens_VBZ all_PDT the_DT time_NN ._.
+Why_WRB are_VBP you_PRP acting_VBG like_IN you_PRP <sup>_VBP TM_NNP </sup>_NNP ve_VBD never_RB seen_VBN it_PRP before_IN ?_.
+<sup>_JJ TM_NNP </sup>_NNP The_NNP months_NNS they_PRP had_VBD spent_VBN in_IN Bangalore_NNP were_VBD tainted_VBN by_IN this_DT knowledge_NN ;_: previous_JJ events_NNS suddenly_RB made_VBD fraught_JJ with_IN danger_NN ._.
+Why_WRB hadn_NN <sup>_VBZ TM_NNP </sup>_NNP t_IN she_PRP told_VBD him_PRP ?_.
+As_IN she_PRP pressed_VBD the_DT button_NN calling_VBG for_IN the_DT lift_NN ,_, anger_NN sliced_VBD through_IN his_PRP$ body_NN ;_: he_PRP wanted_VBD her_PRP to_TO wait_VB ,_, to_TO \*_SYM listen_VBP \*_SYM to_TO him_PRP ._.
+He_PRP grabbed_VBD her_PRP ,_, yanking_VBG her_PRP$ by_IN the_DT wrist_NN so_RB hard_RB that_IN she_PRP gasped_VBD ._.
+Within_IN hours_NNS purple_JJ bruises_NNS bloomed_VBD across_IN her_PRP$ skin_NN ._.
+She_PRP had_VBD locked_VBN herself_PRP in_IN the_DT bedroom_NN ._.
+They_PRP did_VBD not_RB sleep_VB together_RB ._.
+Sandeep_NNP lay_VBD on_IN the_DT living_NN room_NN sofa_NN ,_, staring_VBG at_IN his_PRP$ hands_NNS ,_, his_PRP$ fingers_NNS ,_, unable_JJ to_TO believe_VB they_PRP were_VBD capable_JJ of_IN so_RB monstrous_JJ a_DT betrayal_NN ._.
+In_IN the_DT early_JJ hours_NNS of_IN the_DT morning_NN he_PRP awoke_VBD to_TO find_VB her_PRP$ across_IN from_IN him_PRP ,_, sitting_VBG in_IN an_DT armchair_NN and_CC weeping_VBG into_IN a_DT pillow_NN ._.
+Her_PRP$ body_NN shuddered_VBD with_IN grief_NN as_IN she_PRP spoke_VBD :_: <sup>_VB ~_CD </sup>_NNP You_PRP don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD listen_VB to_TO me_PRP anymore_RB ._.
+Who_WP am_VBP I_PRP supposed_VBN to_TO talk_VB to_TO ?_.
+I_PRP <sup>_VBP TM_NNP </sup>_NNP ve_VBD never_RB felt_VBN this_DT lonely_JJ in_IN our_PRP$ relationship_NN ._.
+<sup>_JJ TM_NNP </sup>_NNP I_PRP <sup>_VBP TM_NNP </sup>_NNP m_NN sorry_JJ ,_, he_PRP said_VBD ._.
+What_WP he_PRP wanted_VBD most_RBS was_VBD to_TO comfort_NN her_PRP ,_, to_TO hold_VB her_PRP$ in_IN his_PRP$ arms_NNS ,_, but_CC he_PRP was_VBD terrified_VBN of_IN the_DT language_NN his_PRP$ body_NN had_VBD last_JJ used_VBN ._.
+In_IN the_DT moonlit_NN darkness_NN of_IN their_PRP$ living_NN room_NN ,_, he_PRP whispered_VBD to_TO her_PRP ,_, I_PRP promise_VBP ,_, no_DT more_JJR ._.
+The_DT silence_NN of_IN Bangalore_NNP during_IN a_DT bandh_NN ballooned_VBD their_PRP$ walls_NNS ._.
+She_PRP did_VBD not_RB speak_VB ._.
+Eventually_RB ,_, she_PRP fell_VBD asleep_RB ._.
+The_DT next_JJ morning_NN ,_, she_PRP spoke_VBD little_RB ,_, though_IN she_PRP continued_VBD with_IN her_PRP$ regular_JJ routine_NN ._.
+Sandeep_NNP turned_VBD into_IN parchment_NN ''_'' time_NN tearing_VBG him_PRP into_IN halves_NNS ,_, then_RB quarters_NNS ,_, waiting_VBG until_IN she_PRP left_VBD before_IN scattering_VBG his_PRP$ remains_NNS across_IN Bangalore_NNP ._.
+But_CC she_PRP didn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD leave_NN ._.
+To_TO his_PRP$ shame_NN she_PRP wore_VBD full-sleeved_JJ shirts_NNS to_TO cover_VB her_PRP$ bruises_NNS ;_: the_DT purple_JJ band_NN of_IN discolouration_NN around_IN her_PRP$ wrist_NN slowly_RB turning_VBG green_JJ ,_, then_RB yellow_JJ ,_, before_IN fading_JJ away_RB ._.
+After_IN a_DT long_JJ day_NN at_IN work_NN he_PRP returned_VBD to_TO an_DT empty_JJ apartment_NN ._.
+Streetlights_NNS were_VBD flickering_VBG to_TO life_NN and_CC she_PRP was_VBD nowhere_RB in_IN sight_NN ._.
+Nervous_JJ ,_, he_PRP cleaned_VBD the_DT apartment_NN ,_, collecting_VBG all_DT of_IN her_PRP$ flashcards_NNS ,_, even_RB those_DT that_WDT had_VBD slid_VBN under_IN their_PRP$ bed_NN ._.
+He_PRP smoothed_VBD their_PRP$ dog-eared_JJ edges_NNS ._.
+They_PRP were_VBD no_RB longer_RB necessary_JJ as_IN Alex_NNP had_VBD graduated_VBN from_IN learning_VBG words_NNS to_TO stringing_VBG them_PRP together_RB to_TO form_VB coherent_JJ sentences_NNS ,_, but_CC they_PRP reminded_VBD him_PRP of_IN a_DT moment_NN during_IN a_DT bandh_NN ''_'' prompted_VBN by_IN farmers_NNS committing_VBG suicide_NN and_CC attacks_NNS increasing_VBG in_IN both_DT states_NNS due_JJ to_TO the_DT government_NN <sup>_VBD TM_NNP </sup>_NNP s_VBZ delaying_VBG tactics_NNS ''_'' when_WRB he_PRP and_CC Alex_NNP had_VBD been_VBN walking_VBG the_DT empty_JJ streets_NNS and_CC come_VB across_IN a_DT bungalow_NN ._.
+It_PRP must_MD have_VB been_VBN forty_JJ or_CC fifty_JJ years_NNS old_JJ ._.
+It_PRP had_VBD a_DT clay_NN courtyard_NN ._.
+Stray_VB dogs_NNS lay_VBD curled_VBN up_RP under_IN the_DT shade_NN of_IN a_DT tamarind_NN tree_NN ._.
+Worn_JJ red_JJ steps_NNS led_VBD to_TO a_DT doorway_NN and_CC chipped_VBD yellow_JJ pillars_NNS supported_VBD the_DT roof_NN ._.
+It_PRP was_VBD the_DT most_RBS idyllic_JJ place_NN Sandeep_NNP had_VBD seen_VBN ,_, a_DT tangible_JJ representative_NN of_IN a_DT time_NN long_JJ past_NN ._.
+Alex_NNP was_VBD frowning_VBG ._.
+Her_PRP$ face_NN was_VBD contorted_JJ in_IN concentration_NN ._.
+She_PRP was_VBD trying_VBG to_TO think_VB of_IN a_DT word_NN ,_, a_DT new_JJ one_CD for_IN their_PRP$ expanding_VBG intimate_JJ language_NN ,_, one_CD that_WDT captured_VBD the_DT feeling_NN of_IN this_DT time-displaced_JJ Bangalore_NNP ._.
+What_WP was_VBD the_DT word_NN ?_.
+It_PRP seemed_VBD impossible_JJ that_IN he_PRP could_MD forget_VB ._.
+He_PRP raced_VBD to_TO the_DT window_NN ,_, then_RB down_IN the_DT stairs_NNS to_TO the_DT apartment_NN complex_JJ <sup>_NN TM_NNP </sup>_NNP s_VBZ gate_NN ,_, waiting_VBG for_IN her_PRP ._.
+When_WRB at_IN last_JJ she_PRP appeared_VBD at_IN the_DT top_NN of_IN the_DT street_NN ,_, he_PRP waved_VBD as_IN he_PRP had_VBD done_VBN when_WRB he_PRP first_RB saw_VBD her_PRP$ at_IN the_DT airport_NN ._.
+Confused_JJ ,_, she_PRP waved_VBD back_RB ._.
+He_PRP clutched_VBD at_IN the_DT flashcards_NNS ._.
+There_EX was_VBD a_DT chance_NN ,_, he_PRP hoped_VBD ,_, that_IN if_IN she_PRP answered_VBD this_DT one_CD question_NN ,_, then_RB perhaps_RB he_PRP could_MD relearn_VB the_DT vocabulary_NN of_IN their_PRP$ relationship_NN ,_, relearn_VBP the_DT language_NN they_PRP had_VBD created_VBN together_RB ,_, so_RB that_IN in_IN time_NN he_PRP could_MD express_VB his_PRP$ regret_NN and_CC take_VB them_PRP back_RB to_TO a_DT place_NN of_IN comfort_NN ,_, safety_NN ,_, and_CC trust_NN ._.

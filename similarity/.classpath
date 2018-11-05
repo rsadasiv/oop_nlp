@@ -25,5 +25,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/stanford-corenlp-3.9.1-models.jar"/>
+	<classpathentry kind="lib" path="/phrasefinder-client-java/target/phrasefinder-0.2.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

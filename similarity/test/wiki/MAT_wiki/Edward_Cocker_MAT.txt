@@ -1,0 +1,217 @@
+Edward_NN
+Cocker_NN
+-LRB-_-LRB-
+1631_CD
+''_''
+22_CD
+August_NN
+1676_CD
+-RRB-_-RRB-
+was_VBD [BEMA]
+an_DT
+English_JJ
+engraver_NN
+,_,
+who_WP
+also_RB
+taught_VBD
+writing_GER
+and_PHC
+arithmetic_NN
+._.
+Cocker_NN
+was_VBD [BEMA]
+the_DT
+reputed_JJ
+author_NN
+of_PIN
+the_DT
+famous_JJ
+Arithmetick_NN
+,_,
+the_DT
+popularity_NOMZ
+of_PIN
+which_WDT [PIRE]
+has_VPRT [PEAS]
+added_VBN [PUBV]
+a_DT
+phrase_NN
+-LRB-_-LRB-
+``_``
+according_VBG [PRESP]
+to_PIN
+Cocker_NN
+''_''
+-RRB-_-RRB-
+to_PIN
+the_DT
+list_NN
+of_PIN
+English_NN
+proverbialisms_NN
+._.
+He_TPP3
+is_VPRT [PASS]
+credited_VBN
+with_PIN
+the_DT
+authorship_NN
+and_PHC
+execution_NOMZ
+of_PIN
+some_QUAN
+fourteen_CD
+sets_NN
+of_PIN
+copy_NN
+slips_VPRT
+,_,
+one_CD
+of_PIN
+which_WDT [PIRE]
+,_,
+Daniel_NN
+'s_POS
+Copy-Book_NN
+,_,
+ingraven_VBN [PASTP]
+by_PIN
+Edward_NN
+Cocker_NN
+,_,
+Philomath_NN
+-LRB-_-LRB-
+1664_CD
+-RRB-_-RRB-
+,_,
+is_VPRT [PASS]
+preserved_VBN
+in_PIN
+the_DT
+British_JJ
+Museum_NN
+._.
+Samuel_NN
+Pepys_NN
+,_,
+in_PIN
+his_TPP3
+Diary_NN
+,_,
+makes_VPRT
+very_AMP
+favourable_JJ
+mention_NOMZ
+of_PIN
+Cocker_NN
+,_,
+who_WP
+appears_VPRT [SMP]
+to_TO
+have_VB [PEAS]
+displayed_VBN
+great_JJ
+skill_NN
+in_PIN
+his_TPP3
+art_NN
+._.
+Cocker_NN
+'s_POS
+Arithmetick_NN
+,_,
+the_DT
+fifty-second_JJ
+edition_NOMZ
+of_PIN
+which_WDT [PIRE]
+appeared_VBD [SMP]
+in_PIN
+1748_CD
+,_,
+and_ANDC
+which_WDT
+passed_VBD
+through_PIN
+over_IN
+100_CD
+editions_NOMZ
+in_PIN
+all_QUAN
+,_,
+was_VBD [PASS]
+not_XX0
+published_VBN
+during_PIN
+the_DT
+lifetime_NN
+of_PIN
+its_PIT
+reputed_JJ
+author_NN
+,_,
+the_DT
+first_JJ
+impression_NN
+being_VBG [WZPRES] [PASS]
+dated_VBN
+1678_CD
+._.
+Augustus_NN
+De_NN
+Morgan_NN
+in_PIN
+his_TPP3
+Arithmetical_NN
+Books_NN
+-LRB-_-LRB-
+1847_CD
+-RRB-_-RRB-
+argues_VPRT [PUBV]
+that_THVC
+the_DT
+work_NN
+was_VBD [BEMA]
+a_DT
+forgery_NN
+of_PIN
+the_DT
+editor_NN
+and_PHC
+publisher_NN
+,_,
+John_NN
+Hawkins_NN
+._.
+Ruth_NN
+Wallis_NN
+,_,
+in_PIN
+1997_CD
+,_,
+wrote_VBD [PUBV]
+an_DT
+article_NN
+in_PIN
+Annals_NN
+of_PIN
+Science_NN
+,_,
+claiming_VBG [PUBV]
+De_NN
+Morgan_NN
+'s_POS
+analysis_NN
+was_VBD [PASS]
+flawed_VBN
+and_CC
+Cocker_NN
+was_VBD [BEMA]
+the_DT
+real_JJ
+author_NN
+._.
+-LRB-_-LRB-
+1_CD
+-RRB-_-RRB-

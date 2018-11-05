@@ -1,0 +1,15 @@
+China_NNP successfully_RB launched_VBD twin_JJ BeiDou-3_JJ navigation_NN satellites_NNS into_IN space_NN to_TO strengthen_VB its_PRP$ satellite_NN navigation_NN network_NN being_VBG built_VBN to_TO rival_VB the_DT US_NNP '_POS Global_JJ Positioning_NNP System_NNP -LRB-_-LRB- GPS_NNP -RRB-_-RRB- ._.
+The_DT satellites_NNS were_VBD launched_VBN from_IN a_DT Long_JJ March-3B_NN carrier_NN rocket_NN from_IN Xichang_NNP Satellite_NNP Launch_NNP Centre_NNP in_IN Sichuan_NNP province_NN ._.
+The_DT satellites_NNS entered_VBD their_PRP$ planned_VBN orbit_NN after_IN flying_VBG for_IN over_IN three_CD hours_NNS ,_, and_CC will_MD work_VB with_IN the_DT 14_CD BeiDou-3_NN satellites_NNS already_RB in_IN orbit_NN ._.
+The_DT satellites_NNS are_VBP the_DT 39th_JJ and_CC 40th_JJ of_IN the_DT BeiDou_NNP navigation_NN system_NN ,_, and_CC the_DT 15th_JJ and_CC 16th_JJ of_IN the_DT BeiDou-3_JJ family_NN ,_, state-run_JJ Xinhua_NNP news_NN agency_NN reported_VBD ._.
+The_DT satellites_NNS and_CC rocket_NN were_VBD developed_VBN by_IN the_DT Innovation_NNP Academy_NNP for_IN Microsatellites_NNP of_IN the_DT Chinese_JJ Academy_NNP of_IN Sciences_NNPS and_CC the_DT China_NNP Academy_NNP of_IN Launch_NNP Vehicle_NNP Technology_NNP ,_, respectively_RB ._.
+The_DT launch_NN was_VBD the_DT 287th_JJ mission_NN of_IN the_DT Long_NNP March_NNP rocket_NN series_NN ._.
+This_DT year_NN has_VBZ seen_VBN an_DT intensive_JJ launch_NN of_IN BeiDou_NNP satellites_NNS ._.
+China_NNP plans_VBZ to_TO send_VB another_DT three_CD BeiDou-3_JJ satellites_NNS into_IN space_NN to_TO form_VB a_DT basic_JJ system_NN to_TO provide_VB services_NNS for_IN countries_NNS participating_VBG in_IN the_DT Belt_NNP and_CC Road_NNP Initiative_NNP ,_, by_IN the_DT end_NN of_IN the_DT year_NN ._.
+Named_VBN after_IN the_DT Chinese_JJ term_NN for_IN the_DT Big_JJ Dipper_NNP ,_, the_DT BeiDou_NNP system_NN started_VBD serving_VBG China_NNP in_IN 2000_CD and_CC the_DT Asia-Pacific_NNP region_NN in_IN 2012_CD ._.
+Over_IN the_DT past_JJ five_CD years_NNS ,_, the_DT system_NN has_VBZ helped_VBN rescue_NN more_JJR than_IN 10,000_CD fishermen_NNS ._.
+More_JJR than_IN 40,000_CD fishing_NN vessels_NNS and_CC around_IN 4.8_CD million_CD commercial_JJ vehicles_NNS in_IN China_NNP are_VBP equipped_VBN with_IN BeiDou_NNP ,_, the_DT Xinhua_NNP report_NN said_VBD ._.
+The_DT system_NN is_VBZ also_RB helping_VBG monitor_VB the_DT structural_JJ integrity_NN of_IN highways_NNS ,_, pipelines_NNS ,_, dams_NNS and_CC bridges_NNS ._.
+More_JJR than_IN 300_CD million_CD mobile_JJ phones_NNS -_: 40_CD per_IN cent_NN of_IN all_DT smartphones_NNS in_IN China_NNP -_: can_MD connect_VB to_TO BeiDou_NNP ._.
+The_DT system_NN now_RB covers_VBZ more_JJR than_IN 50_CD countries_NNS with_IN a_DT total_JJ population_NN of_IN more_JJR than_IN three_CD billion_CD ._.
+By_IN 2020_CD ,_, BeiDou_NNP will_MD provide_VB first-class_JJ services_NNS around_IN the_DT globe_NN ,_, the_DT report_NN said_VBD ._.

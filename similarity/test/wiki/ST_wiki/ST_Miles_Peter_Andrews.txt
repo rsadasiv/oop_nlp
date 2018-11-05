@@ -1,0 +1,14 @@
+Miles_NNP Peter_NNP Andrews_NNP -LRB-_-LRB- 1742_CD ''_'' 18_CD July_NNP 1814_CD -RRB-_-RRB- was_VBD an_DT 18th-century_JJ English_NNP playwright_NN ,_, gunpowder_NN manufacturer_NN and_CC politician_NN who_WP sat_VBD in_IN the_DT House_NNP of_IN Commons_NNPS from_IN 1796_CD to_TO 1814_CD ._.
+Andrews_NNP was_VBD the_DT son_NN of_IN William_NNP Andrews_NNP ,_, a_DT drysalter_NN of_IN Watling_NNP Street_NNP and_CC his_PRP$ wife_NN Catherine_NNP Pigou_NNP ._.
+After_IN helping_VBG his_PRP$ father_NN in_IN business_NN in_IN the_DT day_NN time_NN ,_, he_PRP was_VBD ``_`` accustomed_VBN to_TO sally_RB forth_RB in_IN the_DT evening_NN with_IN sword_NN and_CC bag_NN to_TO Ranelagh_NNP or_CC some_DT other_JJ public_JJ place_NN ''_'' ._.
+He_PRP gradually_RB made_VBD useful_JJ social_JJ connections_NNS and_CC became_VBD a_DT constant_JJ companion_NN of_IN Lord_NNP Lyttelton_NNP ._.
+He_PRP wrote_VBD plays_NNS musicals_NNS and_CC operas_NNS ._.
+The_DT first_JJ was_VBD performed_VBN at_IN Drury_NNP Lane_NNP in_IN 1774_CD ._.
+In_IN 1775_CD the_DT opera_NN diva_NN Ann_NNP Cargill_NNP aged_VBN 15_CD ran_VBD away_RB with_IN him_PRP and_CC she_PRP then_RB had_VBD to_TO be_VB restrained_VBN at_IN home_NN by_IN a_DT court_NN order_NN ._.
+Andrews_NNP had_VBD several_JJ further_JJ plays_NNS performed_VBN at_IN the_DT Haymarket_NNP ._.
+Andrews_NNP lived_VBD in_IN a_DT mansion_NN at_IN Green_NNP Park_NNP where_WRB he_PRP entertained_VBD the_DT fashionable_JJ society_NN of_IN London_NNP ,_, and_CC was_VBD a_DT member_NN of_IN several_JJ clubs_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- With_IN his_PRP$ uncle_NN Frederick_NNP Pigou_NNP ,_, a_DT director_NN of_IN the_DT British_NNP East_NNP India_NNP Company_NNP ,_, Andrews_NNP became_VBD the_DT owner_NN of_IN an_DT extensive_JJ gunpowder_NN factory_NN at_IN Hawley_NNP Mills_NNP on_IN the_DT River_NNP Darent_NNP at_IN Dartford_NNP ,_, Kent_NNP ._.
+George_NNP Colman_NNP the_DT Younger_NNP described_VBD Andrews_NNP as_IN ``_`` one_CD of_IN the_DT most_RBS persevering_JJ poetical_JJ pests_NNS ''_'' ,_, and_CC his_PRP$ plays_NNS as_IN ``_`` like_IN his_PRP$ powder_NN mills_NNS ,_, particularly_RB hazardous_JJ affairs_NNS ,_, and_CC in_IN great_JJ danger_NN of_IN going_VBG off_RP with_IN a_DT sudden_JJ and_CC violent_JJ explosion_NN ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- This_DT was_VBD no_DT idle_JJ comparison_NN as_IN an_DT explosion_NN occurred_VBD in_IN October_NNP 1790_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN 1796_CD Andrews_NNP succeeded_VBD Lord_NNP Lyttleton_NNP as_IN Member_NNP of_IN Parliament_NNP for_IN Bewdley_NNP which_WDT he_PRP represented_VBD until_IN his_PRP$ death_NN in_IN 1814_CD ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- There_EX is_VBZ a_DT memorial_NN to_TO him_PRP in_IN St_NNP James_NNP 's_POS Church_NNP ,_, Piccadilly_NNP ._.

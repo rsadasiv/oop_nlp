@@ -1,0 +1,7 @@
+Tessa_NNP Biddington_NNP ,_, -LRB-_-LRB- born_VBN 1954_CD in_IN Pinner_NNP ,_, north-west_JJ London_NNP -RRB-_-RRB- is_VBZ a_DT British_JJ poet_NN ._.
+Biddington_NNP works_VBZ as_IN a_DT freelance_NN trainer_NN ,_, raising_VBG awareness_NN about_IN domestic_JJ violence_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP began_VBD writing_VBG in_IN 1996_CD ._.
+Her_PRP$ poetry_NN has_VBZ appeared_VBN in_IN The_DT New_NNP Welsh_NNP Review_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 2002_CD ,_, FAW_NNP !_.
+commissioned_VBN local_JJ poets_NNS Tessa_NNP Biddington_NNP and_CC Keith_NNP Morgan_NNP ;_: this_DT work_NN was_VBD featured_VBN on_IN Forest_NN of_IN Dean_NNP Community_NNP Radio_NNP and_CC performed_VBN at_IN the_DT Cheltenham_NNP Literature_NNP Festival_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB-

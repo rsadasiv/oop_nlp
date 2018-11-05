@@ -1,0 +1,312 @@
+Spanish_JJ
+researchers_NN
+investigating_VBG [WZPRES]
+the_DT
+early_TIME
+'70s_CD
+death_NN
+of_PIN
+Chilean_JJ
+poet_NN
+Pablo_NN
+Neruda_NN
+to_TO
+determine_VB [SUAV] [PRIV]
+if_COND
+he_TPP3
+was_VBD [PASS]
+poisoned_VBN
+,_,
+have_VPRT [PEAS]
+found_VBN [PRIV]
+no_SYNE
+conclusive_JJ
+evidence_NN
+of_PIN
+foul_JJ
+play_NN
+,_,
+according_VBG [PRESP]
+to_PIN
+an_DT
+initial_JJ
+report_NN
+handed_VBN [WZPAST]
+to_PIN
+the_DT
+investigating_VBG
+judge_NN
+._.
+The_DT
+Chilean_JJ
+government_NOMZ
+reopened_VBD
+the_DT
+investigation_NOMZ
+into_PIN
+his_TPP3
+death_NN
+in_PIN
+January_NN
+,_,
+with_PIN
+new_JJ
+tests_NN
+designed_VBN
+to_TO
+look_VB
+for_PIN
+protein_NN
+damage_NN
+caused_VBN [WZPAST]
+by_PIN
+chemical_NN
+agents_NN
+,_,
+suggesting_VBG [SUAV] [PUBV]
+poisoning_GER
+._.
+Forensic_JJ
+experts_NN
+at_PIN
+the_DT
+Universidad_NN
+de_IN
+Murcia_NN
+found_VBD [PRIV]
+three_CD
+types_NN
+of_PIN
+protein_NN
+in_PIN
+the_DT
+remains_NN
+of_PIN
+Neruda_NN
+,_,
+a_DT
+Nobel_NN
+laureate_NN
+,_,
+two_CD
+of_PIN
+which_WDT [PIRE]
+could_POMD
+be_VB [BYPA]
+explained_VBN [PUBV]
+by_PIN
+advanced_JJ
+prostrate_NN
+cancer_NN
+,_,
+said_VBD [PUBV] [THATD]
+the_DT
+report_NN
+seen_VBN [PRIV] [WZPAST]
+by_PIN
+Reuters_NN
+on_PIN
+Thursday_NN
+._.
+The_DT
+source_NN
+of_PIN
+the_DT
+third_JJ
+protein_NN
+was_VBD
+not_XX0
+immediately_TIME
+clear_PRED
+,_,
+but_CC
+could_POMD
+be_VB [BEMA]
+due_PRED
+to_PIN
+natural_JJ
+causes_NN
+such_JJ
+as_IN
+infection_NOMZ
+,_,
+or_CC
+posthumous_JJ
+manipulation_NOMZ
+of_PIN
+the_DT
+remains_NN
+,_,
+the_DT
+report_NN
+said_VBD [PUBV]
+._.
+An_DT
+expert_NN
+panel_NN
+will_PRMD [SPAU]
+now_TIME
+examine_VB
+the_DT
+evidence_NN
+,_,
+while_OSUB
+a_DT
+further_JJ
+genomic_JJ
+analysis_NN
+is_VPRT [SPAU]
+still_RB
+pending_VBG
+._.
+Neruda_NN
+,_,
+famed_JJ
+for_PIN
+his_TPP3
+passionate_JJ
+love_NN
+poems_NN
+and_CC
+staunch_VB
+communist_JJ
+views_NN
+,_,
+is_VPRT [PASS]
+presumed_VBN [PRIV]
+to_TO
+have_VB [PEAS]
+died_VBN
+of_PIN
+cancer_NN
+days_NN
+after_IN
+a_DT
+coup_NN
+in_PIN
+1973_CD
+that_DEMP
+ushered_VBD
+in_PIN
+the_DT
+brutal_JJ
+dictatorship_NN
+of_PIN
+Augusto_NN
+Pinochet_NN
+._.
+However_CONJ
+,_,
+the_DT
+poet_NN
+'s_POS
+chauffeur_NN
+has_VPRT [PEAS]
+claimed_VBN [PUBV]
+that_THVC
+Pinochet_NN
+'s_POS
+agents_NN
+took_VBD
+advantage_NN
+of_PIN
+Neruda_NN
+'s_POS
+illness_NOMZ
+to_TO
+inject_VB
+poison_NN
+into_PIN
+his_TPP3
+stomach_NN
+as_IN
+he_TPP3
+lay_VBD
+in_PIN
+hospital_NN
+._.
+Initial_JJ
+tests_NN
+on_PIN
+his_TPP3
+exhumed_JJ
+body_NN
+in_PIN
+2013_CD
+found_VBD [PRIV]
+no_SYNE
+evidence_NN
+of_PIN
+the_DT
+remains_NN
+of_PIN
+poison_NN
+._.
+Neruda_NN
+'s_POS
+family_NN
+and_PHC
+supporters_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+divided_VBN
+over_IN
+whether_IN
+the_DT
+case_NN
+should_NEMD
+be_VB [PASS]
+closed_VBN
+and_CC
+his_TPP3
+remains_NN
+returned_VBD
+to_PIN
+his_TPP3
+grave_NN
+near_PLACE
+his_TPP3
+coastal_JJ
+home_NN
+of_PIN
+Isla_NN
+Negra_NN
+,_,
+or_CC
+whether_IN
+researchers_NN
+should_NEMD
+continue_VB
+carrying_VBG
+out_PIN
+tests_NN
+._.
+``_``
+The_DT
+data_NN
+analysis_NN
+requires_VPRT [SUAV]
+a_DT
+dose_NN
+of_PIN
+caution_NOMZ
+to_TO
+avoid_VB
+jumping_VBG
+to_PIN
+conclusions_NN
+in_PIN
+the_DT
+absence_NN
+of_PIN
+additional_JJ
+information_NOMZ
+which_WDT [WHOBJ]
+we_FPP1
+currently_RB
+lack_VPRT
+,_,
+''_''
+it_PIT
+said_VBD [PUBV]
+._.

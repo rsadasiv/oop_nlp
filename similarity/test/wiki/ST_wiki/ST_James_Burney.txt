@@ -1,0 +1,23 @@
+James_NNP Burney_NNP -LRB-_-LRB- 13_CD June_NNP 1750_CD ''_'' 17_CD November_NNP 1821_CD -RRB-_-RRB- was_VBD an_DT English_JJ rear-admiral_JJ ,_, who_WP accompanied_VBD Captain_NNP Cook_NNP on_IN his_PRP$ last_JJ two_CD voyages_NNS ._.
+He_PRP later_RB wrote_VBD two_CD books_NNS on_IN naval_JJ voyages_NNS and_CC a_DT third_JJ on_IN the_DT game_NN of_IN whist_NN ._.
+Burney_NNP was_VBD born_VBN in_IN London_NNP ,_, although_IN he_PRP moved_VBD to_TO King_NNP 's_POS Lynn_NNP as_IN a_DT small_JJ child_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD the_DT son_NN of_IN the_DT composer_NN and_CC music_NN scholar_NN Charles_NNP Burney_NNP and_CC his_PRP$ wife_NN Esther_NNP Sleepe_NNP -LRB-_-LRB- c._FW 1725_CD ``_`` 1762_CD -RRB-_-RRB- ._.
+He_PRP was_VBD the_DT brother_NN of_IN Charles_NNP Burney_NNP and_CC of_IN the_DT novelist_NN and_CC diarist_NN Fanny_NNP Burney_NNP ,_, and_CC half-brother_NN of_IN the_DT novelist_NN Sarah_NNP Burney_NNP ,_, who_WP kept_VBD house_NN for_IN him_PRP from_IN 1798_CD to_TO 1803_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Burney_NNP 's_POS father_NN obtained_VBD him_PRP a_DT berth_NN as_IN a_DT midshipman_NN on_IN Cook_NNP 's_POS Resolution_NNP ,_, which_WDT sailed_VBD for_IN the_DT South_NNP Seas_NNPS in_IN June_NNP 1772_CD ._.
+Back_RB in_IN England_NNP in_IN 1774_CD ,_, he_PRP acted_VBD as_IN interpreter_NN for_IN Omai_NNP ,_, the_DT first_JJ Tahitian_NNP to_TO visit_VB Britain_NNP ._.
+He_PRP witnessed_VBD Cook_NNP 's_POS killing_VBG in_IN Hawaii_NNP in_IN 1779_CD ._.
+He_PRP was_VBD belatedly_RB promoted_VBN ,_, but_CC in_IN June_NNP 1782_CD commissioned_VBN captain_NN of_IN the_DT 50-gun_JJ Bristol_NNP on_IN a_DT 12-ship_JJ convoy_NN to_TO Madras_NNP ._.
+He_PRP saw_VBD action_NN as_IN part_NN of_IN Sir_NNP Edward_NNP Hughes_NNP '_POS squadron_NN in_IN the_DT final_JJ engagement_NN with_IN the_DT French_JJ fleet_NN off_IN Cuddalore_NNP on_IN 20_CD June_NNP 1783_CD ._.
+At_IN the_DT end_NN of_IN 1784_CD Burney_NNP fell_VBD seriously_RB ill_JJ and_CC departed_VBD for_IN England_NNP ._.
+This_DT was_VBD the_DT end_NN of_IN his_PRP$ active_JJ naval_JJ career_NN ._.
+Repeated_VBN petitions_NNS for_IN a_DT new_JJ command_NN were_VBD rebuffed_VBN ,_, in_IN part_NN because_IN of_IN his_PRP$ openly_RB republican_JJ political_JJ views_NNS ._.
+However_RB ,_, he_PRP became_VBD a_DT prolific_JJ naval_JJ author_NN ,_, who_WP enjoyed_VBD the_DT friendship_NN of_IN Charles_NNP Lamb_NNP ,_, Henry_NNP Crabb_NNP Robinson_NNP and_CC other_JJ literary_JJ figures_NNS ._.
+Burney_NNP married_JJ Sarah_NNP Payne_NNP -LRB-_-LRB- 1759_CD ``_`` 1832_CD -RRB-_-RRB- on_IN 6_CD September_NNP 1785_CD ,_, by_IN whom_WP he_PRP had_VBD three_CD children_NNS ,_, Catherine_NNP -LRB-_-LRB- 1786_CD ``_`` 1793_CD -RRB-_-RRB- ,_, Martin_NNP Charles_NNP -LRB-_-LRB- 1788_CD ``_`` 1852_CD -RRB-_-RRB- ,_, later_RB a_DT solicitor_NN ,_, and_CC Sarah_NNP -LRB-_-LRB- 1796_CD ''_'' post_NN 1868_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- However_RB ,_, he_PRP was_VBD separated_VBN from_IN his_PRP$ wife_NN and_CC living_NN with_IN his_PRP$ half-sister_NN from_IN 1798_CD to_TO 1803_CD ._.
+He_PRP was_VBD elected_VBN a_DT member_NN of_IN the_DT Royal_NNP Society_NNP in_IN 1809_CD ._.
+In_IN July_NNP 1821_CD ,_, aged_VBN 71_CD ,_, Burney_NNP was_VBD promoted_VBN to_TO rear-admiral_JJ on_IN the_DT retired_JJ list_NN after_IN a_DT personal_JJ intervention_NN by_IN the_DT Duke_NNP of_IN Clarence_NNP -LRB-_-LRB- later_RB William_NNP IV_NNP -RRB-_-RRB- ,_, Admiral_NNP of_IN the_DT Fleet_NNP ._.
+He_PRP died_VBD on_IN 17_CD November_NNP 1821_CD and_CC was_VBD buried_VBN at_IN St._NNP Margaret_NNP 's_POS ,_, Westminster_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- A_DT great_JJ whist_NN player_NN ,_, he_PRP left_VBD a_DT pamphlet_NN on_IN the_DT subject_NN ._.
+When_WRB he_PRP died_VBD ,_, Lamb_NNP wrote_VBD to_TO William_NNP Wordsworth_NNP :_: ``_`` There_EX 's_VBZ Captain_NNP Burney_NNP gone_VBN !_. ''_''
+What_WP fun_NN has_VBZ whist_VBN now_RB ?_. ''_''
+-LRB-_-LRB- 5_CD -RRB-_-RRB-

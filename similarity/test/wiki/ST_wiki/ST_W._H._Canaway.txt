@@ -1,0 +1,5 @@
+William_NNP Hamilton_NNP Canaway_NNP ,_, known_VBN as_IN W.H._NNP Canaway_NNP ,_, also_RB known_VBN as_IN Bill_NNP Canaway_NNP ,_, was_VBD the_DT author_NN of_IN novels_NNS that_WDT combined_VBD adventure_NN with_IN natural_JJ history_NN and_CC a_DT love_NN of_IN the_DT outdoors_NNS ._.
+He_PRP was_VBD born_VBN in_IN 1925_CD in_IN Altrincham_NNP ,_, Cheshire_NNP ,_, England_NNP ,_, UK_NNP ,_, and_CC died_VBD on_IN 22_CD May_NNP 1988_CD -LRB-_-LRB- age_NN 62_CD -RRB-_-RRB- in_IN Derbyshire_NNP ,_, England_NNP ,_, UK_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Canaway_NNP 's_POS 1961_CD novel_NN Sammy_NNP Going_VBG South_NNP was_VBD made_VBN into_IN an_DT adventure_NN film_NN in_IN 1963_CD ._.
+As_IN Bill_NNP Canaway_NNP ,_, he_PRP co-wrote_VBP the_DT screenplay_NN for_IN the_DT 1965_CD film_NN version_NN of_IN Len_NNP Deighton_NNP 's_POS The_DT IPCRESS_NNP File_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB-

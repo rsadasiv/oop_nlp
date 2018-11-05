@@ -1,0 +1,14 @@
+Thomas_NNP Eliel_NNP Fenwick_NNP Blackburn_NNP -LRB-_-LRB- 10_CD February_NNP 1916_CD ''_'' 13_CD August_NNP 1977_CD -RRB-_-RRB- was_VBD a_DT British_JJ poet_NN ._.
+His_PRP$ work_NN is_VBZ noted_VBN for_IN its_PRP$ self-examination_NN and_CC spiritual_JJ imagery_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ autobiographical_JJ novel_NN ,_, A_DT Clip_NN of_IN Steel_NNP -LRB-_-LRB- 1969_CD -RRB-_-RRB- ,_, portrays_VBZ a_DT childhood_NN under_IN a_DT repressive_JJ clergyman_NN father_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Blackburn_NNP was_VBD born_VBN in_IN Hensingham_NNP ,_, Cumberland_NNP ,_, England_NNP ._.
+He_PRP was_VBD the_DT product_NN of_IN an_DT affair_NN his_PRP$ father_NN had_VBD with_IN a_DT Mauritian_JJ woman_NN in_IN the_DT West_NNP Indies_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- As_IN a_DT child_NN his_PRP$ father_NN repeatedly_RB washed_VBD his_PRP$ face_NN with_IN a_DT mixture_NN of_IN bleach_NN and_CC lemon_NN because_IN he_PRP believed_VBD it_PRP would_MD avoid_VB the_DT appearance_NN of_IN mixed_JJ ancestry_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- After_IN briefly_NN studying_VBG law_NN at_IN Selwyn_NNP College_NNP ,_, Cambridge_NNP ,_, he_PRP completed_VBD a_DT course_NN in_IN psychology_NN at_IN Birkbeck_NNP ,_, University_NNP of_IN London_NNP ,_, before_IN going_VBG on_IN to_TO study_VB English_NNP at_IN Durham_NNP University_NNP -LRB-_-LRB- Hatfield_NNP College_NNP -RRB-_-RRB- ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- On_IN graduating_NN from_IN Durham_NNP in_IN June_NNP 1940_CD ,_, he_PRP moved_VBD down_RB to_TO London_NNP and_CC became_VBD involved_VBN with_IN the_DT Soho_NNP literary_JJ scene_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP held_VBD a_DT Gregory_NNP Fellowship_NNP in_IN poetry_NN at_IN the_DT University_NNP of_IN Leeds_NNP between_IN 1956_CD and_CC 1958_CD ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP was_VBD married_VBN three_CD times_NNS ,_, with_IN his_PRP$ second_JJ wife_NN Rosalie_NNP de_IN Meric_NNP ,_, a_DT painter_NN ,_, he_PRP had_VBD a_DT daughter_NN ,_, Julia_NNP Blackburn_NNP ._.
+Blackburn_NNP was_VBD an_DT alcoholic_JJ and_CC suffered_VBD several_JJ mental_JJ breakdowns_NNS during_IN his_PRP$ life_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- He_PRP died_VBD from_IN a_DT cerebral_JJ hemorrhage_NN at_IN home_NN in_IN Wales_NNP as_IN he_PRP was_VBD getting_VBG into_IN bed_NN ,_, immediately_RB after_IN finishing_VBG a_DT letter_NN to_TO his_PRP$ brother_NN John_NNP ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Blackburn_NNP taught_VBD at_IN the_DT College_NNP of_IN St._NNP Mark_NNP and_CC St._NNP John_NNP in_IN Chelsea_NNP ,_, London_NNP ,_, as_RB well_RB as_IN other_JJ educational_JJ institutions_NNS ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB-

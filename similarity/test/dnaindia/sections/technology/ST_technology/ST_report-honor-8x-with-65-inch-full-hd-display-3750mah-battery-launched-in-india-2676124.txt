@@ -1,0 +1,18 @@
+Huawei_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ sub-brand_JJ Honor_NNP ,_, has_VBZ launched_VBN a_DT new_JJ smartphone_NN in_IN India_NNP called_VBD the_DT Honor_NNP 8X_NNP ._.
+The_DT Honor_NNP 8X_NNP for_IN the_DT 4GB_NNP RAM_NNP ,_, 64GB_NNP storage_NN variant_NN will_MD be_VB available_JJ for_IN Rs_NNS 14,999_CD while_IN the_DT 6GB_NNP RAM_NNP ,_, 128GB_NNP storage_NN variant_NN will_MD be_VB priced_VBN at_IN Rs_NNP 16,999_CD ._.
+It_PRP will_MD be_VB available_JJ in_IN Black_NNP ,_, Red_NNP ,_, and_CC Blue_NNP color_NN variant_NN via_IN e-commerce_JJ portal_JJ Amazon_NNP India_NNP ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 6.5-inch_JJ full-HD_JJ +_NN display_NN with_IN an_DT aspect_NN ratio_NN of_IN 19:5:9_CD ._.
+It_PRP is_VBZ powered_VBN by_IN an_DT octa-core_JJ HiSilicon_NNP Kirin_NNP 710_CD processor_NN and_CC will_MD be_VB available_JJ in_IN 4GB_NNP and_CC 6GB_NNP RAM_NNP variants_NNS ._.
+Running_VBG Android_JJ 8.0_CD Oreo_NNP ,_, the_DT device_NN will_MD sport_NN two_CD storage_NN variants_NNS ''_'' 64GB_NNP and_CC 128GB_NNP and_CC can_MD be_VB further_JJ expanded_VBN up_RP to_TO 400GB_NNP via_IN microSD_NNP card_NN ._.
+The_DT device_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP -_: 20_CD primary_JJ sensor_NN along_IN with_IN a_DT 2MP_JJ secondary_JJ sensor_NN ._.
+It_PRP also_RB includes_VBZ a_DT 16MP_NNP front-facing_NN camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP VoLTE_NNP ,_, dual-band_JJ Wi-Fi_NNP 802.11_CD ac_NN ,_, Bluetooth_NNP v4_CD .2_CD ,_, GPS_NNP \/_CD A-GPS_NNP ,_, GLONASS_NNP and_CC microUSB_NNP ._.
+A_DT 3750mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.
+Recently_RB ,_, Honor_NNP launched_VBD the_DT Honor_NNP 8C_NNP in_IN China_NNP ._.
+In_IN terms_NNS of_IN specifications_NNS ,_, the_DT device_NN features_VBZ a_DT 6.26-inch_JJ HD_NNP +_CD TFT_NNP LCD_NNP IPS_NNP display_NN with_IN an_DT aspect_NN ratio_NN of_IN 19:9_CD and_CC a_DT 720x1520_JJ pixels_NNS resolution_NN ._.
+It_PRP is_VBZ powered_VBN by_IN an_DT octa-core_JJ Qualcomm_NNP Snapdragon_NNP 626_CD SoC_NNP with_IN 4GB_NNP of_IN RAM_NNP ._.
+Running_VBG Android_JJ 8.1_CD Oreo_NNP with_IN EMUI_NNP 8.2_CD ,_, the_DT device_NN is_VBZ offered_VBN in_IN two_CD storage_NN variants_NNS ''_'' 32GB_NNP and_CC 64GB_NNP and_CC can_MD be_VB further_JJ expanded_VBN up_RP to_TO 256GB_CD via_IN microSD_NNP card_NN ._.
+The_DT device_NN comes_VBZ equipped_VBN with_IN a_DT dual_JJ rear_JJ camera_NN set_VBN up_RP -_: 13MP_CD primary_JJ sensor_NN along_IN with_IN a_DT 2MP_JJ secondary_JJ sensor_NN ._.
+It_PRP also_RB features_VBZ an_DT 8MP_JJ front-facing_JJ camera_NN ._.
+Connectivity_NN features_NNS include_VBP 4G_NNP VoLTE_NNP ,_, single-band_JJ Wi-Fi_JJ 802.11_CD b\/g\/n_NN ,_, Bluetooth_NNP v4_CD .2_CD LE_NNP with_IN aptX_NNP and_CC GPS\/A-GPS_NNP ._.
+A_DT 4000mAh_JJ battery_NN completes_VBZ the_DT package_NN ._.

@@ -1,0 +1,727 @@
+Well_DPAR
+this_DEMP
+is_VPRT [BEMA]
+it_PIT
+._.
+I_FPP1
+'ve_VPRT [CONT]
+got_VBN
+to_TO
+go_VB
+traveling_VBG
+now_TIME
+._.
+I_FPP1
+'ve_VPRT [CONT]
+had_VBD
+8_CD
+jabs_NN
+,_,
+bought_VBD
+a_DT
+rucsac_NN
+and_PHC
+boots_NN
+,_,
+plus_PIN
+I_FPP1
+'ve_VPRT [CONT]
+started_VBN
+this_DEMO
+weblog_NN
+._.
+My_FPP1
+official_JJ
+leaving_VBG
+date_NN
+is_VPRT [BEMA]
+17_CD
+September_NN
+but_CC
+I_FPP1
+'m_VPRT [CONT]
+hoping_VBG [PRIV]
+to_TO
+get_VB
+gardening_VBG
+leave_NN
+so_RB
+I_FPP1
+wo_PRMD
+n't_XX0 [CONT]
+have_VB
+to_TO
+do_VB [PROD]
+much_QUAN
+more_EMPH
+work_NN
+._.
+Do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+when_RB [WHCL]
+that_DEMP
+'ll_PRMD [CONT]
+be_VB
+,_,
+I_FPP1
+'ve_VPRT [CONT]
+heard_VBN [PRIV]
+dates_NN
+from_PIN
+the_DT
+end_NN
+of_PIN
+July_NN
+to_PIN
+the_DT
+middle_NN
+of_PIN
+August_NN
+._.
+Who_WP
+knows_VPRT [PRIV]
+?!_NN
+Well_NN
+I_FPP1
+still_RB
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+when_RB [WHCL]
+I_FPP1
+'m_VPRT [CONT]
+going_VBG
+to_TO
+be_VB
+leaving_VBG
+work_NN
+._.
+My_FPP1
+leaving_VBG
+date_NN
+started_VBD
+as_IN
+the_DT
+end_NN
+of_PIN
+July_NN
+,_,
+migrated_VBD
+to_TO
+``_``
+maybe_HDG
+the_DT
+middle_NN
+of_PIN
+August_NN
+''_''
+and_ANDC
+now_TIME
+is_VPRT [BEMA]
+dependant_PRED
+upon_PIN
+when_RB
+I_FPP1
+finish_VPRT
+an_DT
+assigned_VBN
+task_NN
+._.
+No_SYNE
+mean_JJ
+feat_NN
+seeing_VBG [PRIV] [WZPRES]
+as_IN
+I_FPP1
+'m_VPRT [CONT]
+being_VBG [PASS]
+thwarted_VBN
+at_PIN
+every_QUAN
+turn_NN
+as_IN
+I_FPP1
+try_VPRT
+to_TO
+complete_VB
+it_PIT
+!!_VB
+And_CC
+to_TO
+top_VB
+it_PIT
+all_QUAN
+off_PIN [STPR]
+,_,
+I_FPP1
+'m_VPRT [CONT]
+decorating_VBG
+my_FPP1
+flat_JJ
+-_:
+I_FPP1
+absolutely_AMP
+hate_VPRT
+painting_GER
+and_CC
+all_QUAN
+other_JJ
+forms_NN
+of_PIN
+DIY_NN
+._.
+Why_RB [WHQU]
+ca_POMD
+n't_XX0 [CONT]
+I_FPP1
+just_EMPH
+ride_VB
+my_FPP1
+bike_NN
+instead_CONJ
+?!_VPRT
+The_DT
+Streets_NN
+are_VPRT
+Number_NN
+One_CD
+._.
+The_DT
+only_DWNT
+problem_NN
+with_PIN
+this_DEMP
+is_VPRT
+that_DEMP
+`_``
+Dry_NN
+Your_SPP2
+Eyes_NN
+'_POS
+is_VPRT [BEMA]
+just_EMPH
+another_DT
+break_NN
+up_RP
+,_,
+love_VPRT
+ballad_JJ
+kind_NN
+of_PIN
+affair_NN
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+hardly_DWNT
+representative_PRED
+of_PIN
+the_DT
+album_NN
+._.
+I_FPP1
+reckon_VPRT [PRIV]
+the_DT
+individual_JJ
+songs_NN
+on_PIN
+the_DT
+album_NN
+only_DWNT
+really_EMPH
+work_VB
+when_RB
+you_SPP2
+listen_VPRT
+to_PIN
+the_DT
+whole_JJ
+thing_NN
+,_,
+hear_VPRT [PRIV] [THATD]
+the_DT
+full_JJ
+story_NN
+being_VBG [WZPRES] [PASS]
+told_VBN
+._.
+The_DT
+Streets_NN
+are_VPRT [BEMA]
+n't_XX0 [CONT]
+my_FPP1
+favorite_JJ
+band_NN
+in_PIN
+the_DT
+world_NN
+but_CC
+I_FPP1
+quite_RB
+like_IN
+the_DT
+album_NN
+._.
+But_CC
+the_DT
+good_JJ
+thing_NN
+is_VPRT
+that_DEMO
+now_TIME
+the_DT
+bleedin_NN
+'_''
+Busted_VBN
+song_NN
+is_VPRT [BEMA]
+off_PIN
+Number_NN
+One_CD
+!!!!_NN
+I_FPP1
+hate_VPRT
+Busted_JJ
+,_,
+they_TPP3
+'re_VPRT [CONT] [BEMA]
+just_EMPH
+a_DT
+poor_JJ
+excuse_NN
+for_PIN
+a_DT
+band_NN
+-_:
+they_TPP3
+seem_VPRT [SMP]
+to_TO
+have_VB
+3_CD
+lead_JJ
+guitarists_NN
+for_PIN
+God_NN
+'s_POS
+sake_NN
+._.
+They_TPP3
+epitomise_VPRT
+everything_QUPR
+I_FPP1
+hate_VPRT
+about_IN
+pretend_JJ
+bands_NN
+who_WP [WHSUB]
+simply_RB
+play_VPRT
+to_PIN
+the_DT
+kiddy-pop_JJ
+market_NN
+._.
+I_FPP1
+'d_PRMD [CONT]
+much_QUAN
+rather_RB
+listen_VB
+to_PIN
+proper_JJ
+bands_NN
+who_WP [WHSUB]
+make_VPRT
+up_RP
+their_TPP3
+own_JJ
+minds_NN
+about_IN
+stuff_NN
+and_CC
+do_VPRT
+n't_XX0 [CONT]
+aim_VB
+for_PIN
+the_DT
+10_CD
+year_NN
+old_JJ
+market_NN
+._.
+I_FPP1
+just_EMPH
+got_VBD
+offered_VBN
+a_DT
+contract_NN
+extension_NN
+until_IN
+22_CD
+October_NN
+._.
+Which_WDT [SERE]
+is_VPRT [BEMA]
+great_PRED
+because_CAUS
+it_PIT
+'ll_PRMD [CONT]
+mean_VB [PRIV]
+that_THVC
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+have_VB
+to_TO
+spend_VB
+my_FPP1
+traveling_VBG
+money_NN
+living_VBG [WZPRES]
+at_PIN
+my_FPP1
+Mum_NN
+'s_POS
+house_NN
+until_IN
+I_FPP1
+leave_VPRT
+._.
+It_PIT
+also_RB
+means_VPRT [PRIV]
+that_THVC
+I_FPP1
+'ll_PRMD [CONT]
+get_VB
+to_TO
+stay_VB
+in_PIN
+Edinburgh_NN
+for_PIN
+another_DT
+few_QUAN
+weeks_NN
+-LRB-_-LRB-
+there_EX
+may_POMD
+be_VB
+reasons_NN
+for_PIN
+this_DEMO
+you_SPP2
+know_VPRT [PRIV]
+..._:
+-RRB-_-RRB-
+._.
+The_DT
+only_DWNT
+problem_NN
+is_VPRT
+that_DEMO
+I_FPP1
+might_POMD [SPAU]
+actually_RB
+have_VB
+to_TO
+do_VB [PROD]
+some_QUAN
+work_NN
+now_TIME
+!_.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+sick_PRED
+fed_VBN
+up_IN
+of_PIN
+decorating_GER
+._.
+I_FPP1
+'ve_VPRT [CONT]
+spent_VBN
+the_DT
+last_JJ
+few_QUAN
+weeks_NN
+painting_GER
+,_,
+filling_VBG
+and_PHC
+sanding_VBG
+in_PIN
+preparation_NOMZ
+for_PIN
+selling_VBG
+the_DT
+flat_JJ
+._.
+I_FPP1
+ca_POMD
+n't_XX0 [CONT]
+put_VB
+into_PIN
+words_NN
+how_RB
+much_QUAN
+I_FPP1
+detest_VPRT
+DIY_NN
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+know_VB [PRIV]
+how_RB [WHCL]
+people_NN
+can_POMD
+do_VB [PROD]
+this_DEMO
+for_PIN
+fun_NN
+._.
+How_RB
+many_QUAN
+people_NN
+do_VPRT
+you_SPP2
+see_VB [PRIV]
+who_WP [WHCL]
+spend_VPRT
+their_TPP3
+weekends_NN
+in_PIN
+B&Q_NN
+?_.
+I_FPP1
+'ve_VPRT [CONT]
+got_VBN
+far_PLACE
+better_RB
+things_NN
+to_TO
+do_VB [PROD]
+with_PIN
+my_FPP1
+time_NN
+-_:
+and_ANDC
+far_PLACE
+more_EMPH
+fun_NN
+things_NN
+too_RB
+._.
+Booked_VBN
+my_FPP1
+air_NN
+ticket_NN
+yesterday_TIME
+._.
+Leaving_VBG [PRESP]
+the_DT
+UK_NN
+on_PIN
+16_CD
+Nov_NN
+for_PIN
+Rio_NN
+._.
+Then_RB
+Sao_NN
+Paulo_NN
+to_PIN
+Bueonas_NN
+Aires_NN
+,_,
+Santiago_NN
+to_PIN
+Auckland_NN
+,_,
+Christchurch_NN
+to_PIN
+Sydney_NN
+,_,
+Sydney_NN
+-_:
+Perth_NN
+,_,
+Perth_NN
+-_:
+Alice_NN
+Springs_GER
+,_,
+Darwin_NN
+-_:
+Singapore_NN
+,_,
+Bangkok_NN
+-_:
+London_NN
+._.
+I_FPP1
+'ll_PRMD [CONT]
+have_VB
+to_TO
+get_VB
+a_DT
+few_QUAN
+internal_JJ
+flights_NN
+in_PIN
+different_JJ
+countries_NN
+and_CC
+definately_RB
+do_VB [PROD]
+some_QUAN
+overland_PLACE
+travel_NN
+but_CC
+the_DT
+basis_NN
+of_PIN
+my_FPP1
+trip_NN
+is_VPRT
+there_RB
+now_TIME
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+all_QUAN
+becoming_VBG
+quite_RB
+real_JJ
+now_TIME
+._.
+God_NN
+bless_VB
+America_NN
+!_.
+They_TPP3
+'ve_VPRT [CONT]
+given_VBN
+us_FPP1
+so_RB
+much_QUAN
+._.
+McDonalds_NN
+,_,
+for_CONJ
+example_NULL
+._.
+The_DT
+right_NN
+to_TO
+invade_VB
+another_DT
+country_NN
+just_EMPH
+because_CAUS
+we_FPP1
+do_VPRT
+n't_XX0 [CONT]
+like_VB
+the_DT
+way_NN
+they_TPP3
+do_VPRT [PROD]
+things_NN
+over_IN
+there_RB
+._.
+The_DT
+American_JJ
+Way_NN
+._.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+not_XX0
+sure_PRED
+if_COND
+this_DEMP
+is_VPRT
+why_RB
+I_FPP1
+'m_VPRT [CONT] [PASS]
+expected_VBN [PRIV]
+to_TO [SPIN]
+really_EMPH
+give_VB
+a_DT
+toss_VB
+about_IN
+completing_VBG
+all_QUAN
+my_FPP1
+work_NN
+before_IN
+my_FPP1
+leaving_VBG
+date_NN
+,_,
+for_PIN
+the_DT
+good_JJ
+of_PIN
+the_DT
+company_NN
+of_PIN
+course_NN
+._.
+While_OSUB
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+want_VB
+to_TO
+drop_VB
+my_FPP1
+friends_NN
+in_PIN
+it_PIT
+,_,
+I_FPP1
+could_POMD [SPAU]
+just_EMPH
+swing_VB
+the_DT
+lead_NN
+for_PIN
+another_DT
+6_CD
+weeks_NN
+,_,
+take_VB
+some_QUAN
+holidays_NN
+and_CC
+do_VPRT
+as_RB
+little_JJ
+as_IN
+possible_JJ
+._.
+They_TPP3
+'re_VPRT [CONT]
+not_XX0
+going_VBG
+to_TO
+keep_VB
+me_FPP1
+back_RB
+after_IN
+my_FPP1
+leaving_VBG
+date_NN
+are_VPRT [BEMA]
+they_TPP3
+?_.
+Some_QUAN
+kind_NN
+of_PIN
+perverse_JJ
+,_,
+grown-up_JJ
+detention_NOMZ
+..._:

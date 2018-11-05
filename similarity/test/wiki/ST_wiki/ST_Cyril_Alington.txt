@@ -1,0 +1,27 @@
+Cyril_NNP Argentine_JJ Alington_NNP -LRB-_-LRB- 22_CD October_NNP 1872_CD ''_'' 16_CD May_NNP 1955_CD -RRB-_-RRB- was_VBD an_DT English_JJ educationalist_NN ,_, scholar_NN ,_, cleric_JJ ,_, and_CC prolific_JJ author_NN ._.
+He_PRP was_VBD successively_RB the_DT headmaster_NN of_IN Shrewsbury_NNP School_NNP and_CC Eton_NNP College_NNP ._.
+He_PRP also_RB served_VBD as_IN chaplain_NN to_TO King_NNP George_NNP V_NNP and_CC as_IN Dean_NNP of_IN Durham_NNP ._.
+Dr_NNP Alington_NNP was_VBD the_DT second_JJ son_NN of_IN the_DT Rev._NNP Henry_NNP Giles_NNP Alington_NNP ,_, an_DT inspector_NN of_IN schools_NNS ,_, and_CC his_PRP$ wife_NN Jane_NNP Margaret_NNP Booth_NNP -LRB-_-LRB- d._FW 1910_CD -RRB-_-RRB- ,_, daughter_NN of_IN Rev._NNP Thomas_NNP Willingham_NNP Booth_NNP ._.
+His_PRP$ father_NN came_VBD from_IN a_DT long_JJ line_NN of_IN clerics_NNS ,_, and_CC was_VBD descended_VBN from_IN the_DT Alingtons_NNP of_IN Horseheath_NNP ,_, an_DT ancient_JJ Cambridgeshire_NNP family_NN ._.
+He_PRP was_VBD educated_VBN at_IN Marlborough_NNP College_NNP and_CC Trinity_NNP College_NNP ,_, Oxford_NNP ,_, and_CC was_VBD elected_VBN a_DT Fellow_NNP of_IN All_DT Souls_NNP College_NNP ,_, Oxford_NNP in_IN 1896_CD ._.
+He_PRP was_VBD ordained_VBN as_IN an_DT Anglican_JJ priest_NN in_IN 1901_CD ._.
+Alington_NNP 's_POS educational_JJ career_NN began_VBD as_IN a_DT sixth-form_JJ master_NN at_IN Marlborough_NNP College_NNP in_IN 1896_CD ._.
+He_PRP moved_VBD to_TO Eton_NNP College_NNP in_IN 1899_CD ,_, but_CC left_VBD to_TO become_VB headmaster_NN of_IN Shrewsbury_NNP School_NNP in_IN 1908_CD ._.
+In_IN 1917_CD he_PRP returned_VBD to_TO Eton_NNP to_TO succeed_VB his_PRP$ brother-in-law_NN ,_, Edward_NNP Lyttelton_NNP ,_, as_IN headmaster_NN ;_: he_PRP remained_VBD there_EX until_IN his_PRP$ retirement_NN from_IN teaching_NN in_IN 1933_CD ._.
+He_PRP served_VBD as_IN chairman_NN of_IN the_DT Headmasters_NNPS '_POS Conference_NN ,_, 1924_CD ``_`` 25_CD ._.
+At_IN Eton_NNP ,_, a_DT building_NN which_WDT houses_NNS much_RB of_IN the_DT English_NNP department_NN is_VBZ now_RB named_VBN after_IN him_PRP ,_, as_IN is_VBZ Shrewsbury_NNP 's_POS school_NN hall_NN ._.
+From_IN 1933_CD to_TO 1951_CD Alington_NNP served_VBD as_IN Dean_NNP of_IN Durham_NNP ._.
+He_PRP had_VBD become_VBN a_DT Doctor_NNP of_IN Divinity_NNP at_IN Oxford_NNP in_IN 1917_CD and_CC received_VBD other_JJ honors_NNS :_: he_PRP was_VBD chaplain_VBN to_TO the_DT King_NNP from_IN 1921_CD until_IN 1933_CD ;_: he_PRP was_VBD made_VBN an_DT Honorary_JJ Fellow_NNP of_IN Trinity_NNP College_NNP ,_, Oxford_NNP in_IN 1926_CD ,_, and_CC an_DT honorary_JJ DCL_NNP at_IN Durham_NNP University_NNP in_IN 1937_CD ._.
+He_PRP received_VBD the_DT freedom_NN of_IN the_DT City_NNP of_IN Durham_NNP in_IN 1949_CD ._.
+He_PRP appeared_VBD on_IN the_DT cover_NN of_IN Time_NNP magazine_NN on_IN 29_CD June_NNP 1931_CD ._.
+``_`` An_DT accomplished_JJ classicist_NN ,_, a_DT witty_JJ writer_NN especially_RB of_IN light_JJ verse_JJ ,_, and_CC a_DT priest_NN of_IN orthodox_JJ convictions_NNS ..._: ''_'' -LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1904_CD ,_, Alington_NNP married_VBD Hester_NNP Margaret_NNP Lyttelton_NNP -LRB-_-LRB- CBE_NNP ;_: died_VBD 1958_CD -RRB-_-RRB- ,_, the_DT youngest_JJS daughter_NN of_IN George_NNP Lyttelton_NNP ,_, 4th_JJ Baron_NNP Lyttelton_NNP ._.
+The_DT couple_NN had_VBD four_CD daughters_NNS and_CC two_CD sons_NNS ._.
+Their_PRP$ eldest_JJS daughter_NN ,_, Kathleen_NNP ,_, died_VBD at_IN the_DT age_NN of_IN 30_CD ,_, and_CC their_PRP$ youngest_JJS son_NN Patrick_NNP Alington_NNP was_VBD killed_VBN in_IN World_NNP War_NNP II_NNP at_IN Salerno_NNP in_IN 1943_CD ._.
+Their_PRP$ eldest_JJS son_NN ,_, Giles_NNP Alington_NNP ,_, became_VBD Dean_NNP and_CC Senior_NNP Tutor_NNP of_IN University_NNP College_NNP ,_, Oxford_NNP ._.
+The_DT three_CD surviving_VBG daughters_NNS all_DT married_JJ Etonians_NNPS ._.
+Lavinia_NNP married_JJ Sir_NNP Roger_NNP Mynors_NNP ,_, academic_JJ and_CC classical_JJ scholar_NN ;_: Elizabeth_NNP married_JJ Sir_NNP Alec_NNP Douglas-Home_NNP ,_, British_JJ prime_JJ minister_NN ;_: and_CC Joan_NNP married_JJ Rev._NNP John_NNP Wilkes_NNP ,_, Master_NNP in_IN College_NNP and_CC later_RB housemaster_NN at_IN Eton_NNP ,_, Warden_NNP of_IN Radley_NNP College_NNP and_CC later_RB vicar_NN of_IN Marlow_NNP ._.
+Alington_NNP died_VBD at_IN the_DT age_NN of_IN 82_CD and_CC was_VBD buried_VBN at_IN Durham_NNP Cathedral_NNP ,_, where_WRB there_EX is_VBZ a_DT memorial_NN in_IN the_DT north_NN transept_NN ._.
+Alington_NNP wrote_VBD more_JJR than_IN 50_CD books_NNS ,_, including_VBG works_NNS on_IN religion_NN ,_, biography_NN ,_, history_NN ,_, poetry_NN ,_, and_CC a_DT series_NN of_IN detective_NN novels_NNS ._.
+He_PRP also_RB wrote_VBD several_JJ popular_JJ hymns_NNS ,_, including_VBG Good_JJ Christian_JJ Men_NN ,_, Rejoice_NNP and_CC Sing_NNP -LRB-_-LRB- recently_RB altered_VBN to_TO Good_JJ Christians_NNS All_DT ,_, Rejoice_NNP and_CC Sing_NNP -RRB-_-RRB- ,_, Ye_NN that_WDT know_VBP The_DT Lord_NNP is_VBZ gracious_JJ and_CC The_DT Lord_NNP of_IN Hosts_NNPS Our_PRP$ King_NNP Shall_NNP Be_VB which_WDT is_VBZ used_VBN as_IN the_DT epigraph_NN to_TO Nevil_NNP Shute_NNP 's_POS novel_NN In_IN the_DT Wet_NNP ._.
+-LRB-_-LRB- Shute_NNP was_VBD a_DT pupil_NN at_IN Shrewsbury_NNP ._. -RRB-_-RRB-
+His_PRP$ works_NNS of_IN fiction_NN include_VBP :_: His_PRP$ non-fiction_JJ works_NNS include_VBP :_: The_DT New_NNP Standard_NNP Encyclopaedia_NNP and_CC World_NNP Atlas_NNP 1932_CD

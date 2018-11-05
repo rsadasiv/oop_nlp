@@ -1,0 +1,15 @@
+Rhidian_NNP Brook_NNP -LRB-_-LRB- born_VBN 1964_CD -RRB-_-RRB- is_VBZ a_DT Welsh_JJ novelist_NN ,_, screenwriter_NN and_CC broadcaster_NN ._.
+His_PRP$ first_JJ novel_NN ,_, The_DT Testimony_NNP Of_IN Taliesin_NNP Jones_NNP -LRB-_-LRB- HarperCollins_NNP -RRB-_-RRB- won_VBD three_CD prizes_NNS ,_, including_VBG the_DT 1997_CD Somerset_NNP Maugham_NNP Award_NNP ,_, and_CC was_VBD made_VBN into_IN a_DT film_NN of_IN the_DT same_JJ name_NN starring_VBG Jonathan_NNP Pryce_NNP ._.
+His_PRP$ second_JJ novel_NN ,_, Jesus_NNP And_CC The_DT Adman_NNP -LRB-_-LRB- HarperCollins_NNP -RRB-_-RRB- was_VBD published_VBN in_IN 1999_CD ._.
+His_PRP$ third_JJ novel_NN ,_, The_DT Aftermath_NNP ,_, was_VBD published_VBN in_IN April_NNP 2013_CD by_IN Penguin_NNP UK_NNP ,_, Knopf_NNP US_NNP and_CC a_DT further_JJ 18_CD publishers_NNS around_IN the_DT world_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ short_JJ stories_NNS have_VBP been_VBN published_VBN by_IN The_DT Paris_NNP Review_NNP ,_, Punch_NNP ,_, The_DT New_NNP Statesman_NNP ,_, Time_NNP Out_IN and_CC others_NNS ;_: and_CC several_JJ were_VBD broadcast_VBN on_IN BBC_NNP Radio_NNP 4_CD <sup>_JJ TM_NNP </sup>_NNP s_VBZ Short_JJ Story_NNP ._.
+His_PRP$ first_JJ commission_NN for_IN television_NN -_: Mr._NNP Harvey_NNP Lights_NNP a_DT Candle_NNP -_: was_VBD broadcast_VBN in_IN 2005_CD on_IN BBC1_CD and_CC starred_VBD Timothy_NNP Spall_NNP ._.
+He_PRP wrote_VBD for_IN the_DT BBC_NNP series_NN Silent_NNP Witness_NNP between_IN 2005-7_CD ,_, and_CC the_DT factual_JJ drama_NN Atlantis_NNP for_IN BBC1_NNP in_IN 2008_CD ._.
+Africa_NNP United_NNP ,_, his_PRP$ first_JJ feature_NN film_NN -LRB-_-LRB- Pathe_NNP -RRB-_-RRB- ,_, went_VBD on_IN general_JJ release_NN in_IN the_DT UK_NNP in_IN October_NNP 2010_CD ._.
+He_PRP is_VBZ adapting_VBG The_DT Aftermath_NNP as_IN a_DT feature_NN for_IN Scott_NNP Free_NNP and_CC BBC_NNP Film_NNP ._.
+He_PRP has_VBZ written_VBN articles_NNS for_IN papers_NNS ,_, including_VBG The_DT Observer_NNP ,_, The_DT Guardian_NNP and_CC The_DT Daily_NNP Telegraph_NNP ._.
+In_IN 2005_CD ,_, he_PRP presented_VBD Nailing_NNP The_NNP Cross_NNP ,_, a_DT documentary_NN for_IN BBC1_NNP ._.
+In_IN 2006_CD he_PRP broadcast_VBD a_DT series_NN In_IN The_DT Blood_NNP for_IN BBC_NNP World_NNP Service_NNP ,_, recording_VBG his_PRP$ family_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ journey_NN through_IN the_DT AIDS_NNP pandemic_NN ._.
+His_PRP$ book_NN about_IN that_DT journey_NN -_: More_JJR Than_IN Eyes_NNS Can_MD See_VB -_: was_VBD published_VBN by_IN Marion_NNP Boyars_NNP in_IN 2007_CD ._.
+He_PRP has_VBZ been_VBN a_DT regular_JJ contributor_NN to_TO Radio_NNP 4_CD <sup>_JJ TM_NNP </sup>_NNP s_VBZ Thought_NNP for_IN the_DT Day_NNP for_IN more_JJR than_IN twelve_CD years_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP lives_VBZ with_IN his_PRP$ wife_NN and_CC two_CD children_NNS in_IN London_NNP ._.

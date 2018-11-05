@@ -1,0 +1,5 @@
+Alice_NNP Albinia_NNP -LRB-_-LRB- born_VBN London_NNP ,_, 1976_CD -RRB-_-RRB- is_VBZ an_DT English_JJ journalist_NN and_CC author_NN whose_WP$ first_JJ book_NN ,_, Empires_NNS of_IN the_DT Indus_NNP ,_, won_VBD several_JJ awards_NNS ._.
+Albinia_NNP read_VBD English_NNP Literature_NNP at_IN Cambridge_NNP University_NNP and_CC South_JJ Asian_JJ History_NN at_IN SOAS_NNP ._.
+In_IN between_IN ,_, she_PRP worked_VBD for_IN two_CD years_NNS in_IN Delhi_NNP as_IN a_DT journalist_NN and_CC editor_NN ._.
+She_PRP was_VBD one_CD of_IN the_DT three_CD Judges_NNPS for_IN the_DT 2008_CD Jerwood_NNP Awards_NNPS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Her_PRP$ newest_JJS novel_NN ,_, Leela_NNP 's_POS Book_NN ,_, was_VBD published_VBN in_IN January_NNP 2012_CD by_IN W._NNP W._NNP Norton_NNP &_CC Company_NNP ._.

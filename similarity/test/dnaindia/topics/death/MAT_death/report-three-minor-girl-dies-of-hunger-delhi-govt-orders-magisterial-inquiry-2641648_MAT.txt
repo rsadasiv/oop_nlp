@@ -1,0 +1,291 @@
+The_DT
+Delhi_NN
+government_NOMZ
+has_VPRT
+order_NN
+a_DT
+magisterial_JJ
+inquiry_NN
+after_IN
+three_CD
+minor_JJ
+sisters_NN
+died_VBD
+due_JJ
+to_TO
+`_``
+starvation_NOMZ
+'_''
+on_PIN
+Tuesday_NN
+._.
+The_DT
+girls_NN
+''_''
+aged_VBN
+two_CD
+,_,
+four_CD
+and_CC
+years_NN
+were_VBD [PASS]
+found_VBN [PRIV]
+unconscious_JJ
+in_PIN
+their_TPP3
+one-room_JJ
+house_NN
+by_PIN
+their_TPP3
+neighbors_NN
+in_PIN
+Mandawali_NN
+area_NN
+of_PIN
+east_PLACE
+Delhi_NN
+._.
+They_TPP3
+were_VBD [PASS]
+rushed_VBN
+to_PIN
+Lal_NN
+Bahadur_NN
+Shastri_NN
+Hospital_NN
+,_,
+however_CONJ
+,_,
+they_TPP3
+were_VBD [PASS]
+declared_VBN [PUBV]
+brought_VBN
+dead_JJ
+._.
+According_VBG [PRESP]
+to_PIN
+family_NN
+members_NN
+,_,
+the_DT
+two_CD
+sisters_NN
+were_VBD
+vomiting_VBG
+due_JJ
+to_TO
+diarrhoea_VB
+._.
+The_DT
+girls_NN
+family_NN
+had_VBD [PEAS]
+moved_VBN [SUAV]
+to_PIN
+Mandawali_NN
+a_DT
+few_QUAN
+days_NN
+back_RB
+and_CC
+they_TPP3
+were_VBD
+living_VBG
+with_PIN
+a_DT
+relative_JJ
+after_IN
+earlier_TIME
+landlord_NN
+removed_VBD
+them_TPP3
+from_PIN
+the_DT
+house_NN
+due_JJ
+to_PIN
+lack_NN
+of_PIN
+money_NN
+._.
+Their_TPP3
+father_NN
+,_,
+Mangal_NN
+,_,
+is_VPRT [BEMA]
+a_DT
+rickshaw-puller_NN
+,_,
+but_CC
+some_QUAN
+people_NN
+had_VBD [SPAU] [PEAS]
+reportedly_RB
+taken_VBN
+away_PLACE
+his_TPP3
+rickshaw_NN
+a_DT
+few_QUAN
+days_NN
+ago_RB
+,_,
+and_ANDC
+since_OSUB
+then_RB
+there_EX
+was_VBD
+no_SYNE
+work_NN
+for_PIN
+him_TPP3
+._.
+The_DT
+family_NN
+is_VPRT [BEMA]
+financially_RB
+weak_PRED
+._.
+However_CONJ
+,_,
+Mangal_NN
+,_,
+who_WP
+went_VBD
+out_PIN
+in_PIN
+search_NN
+of_PIN
+work_NN
+has_VPRT [PEAS]
+not_XX0
+returned_VBN
+yet_RB
+,_,
+whereas_OSUB
+,_,
+the_DT
+minors_NN
+mother_NN
+is_VPRT [SPAU] [PASS]
+mentally_RB
+challenged_VBN
+._.
+While_OSUB
+the_DT
+police_NN
+claimed_VBD [PUBV]
+that_THVC
+the_DT
+case_NN
+was_VBD [SPAU]
+still_RB
+being_VBG [PASS]
+investigated_VBN
+and_CC
+that_THVC
+the_DT
+cause_NN
+of_PIN
+death_NN
+was_VBD [PASS]
+not_XX0
+yet_RB
+known_VBN [PRIV]
+,_,
+the_DT
+doctor_NN
+of_PIN
+Lal_NN
+Bahadur_NN
+Shastri_NN
+Hospital_NN
+said_VBD [PUBV]
+that_THVC
+during_PIN
+the_DT
+post-mortem_NN
+,_,
+the_DT
+children_NN
+'s_POS
+stomachs_NN
+were_VBD [BEMA]
+empty_PRED
+._.
+``_``
+It_PIT
+seems_VPRT [SMP]
+that_THVC
+the_DT
+children_NN
+have_VPRT [PEAS]
+not_XX0
+eaten_VBN
+anything_QUPR
+since_OSUB
+eight_CD
+days_NN
+._.
+''_''
+The_DT
+police_NN
+,_,
+however_CONJ
+,_,
+have_VPRT [PEAS]
+ruled_VBN [SUAV]
+out_PIN
+any_QUAN
+foul_JJ
+play_NN
+as_IN
+no_SYNE
+injury_NN
+marks_NN
+were_VBD [PASS]
+found_VBN [PRIV]
+on_PIN
+their_TPP3
+bodies_NN
+,_,
+a_DT
+police_NN
+officer_NN
+said_VBD [PUBV]
+._.
+It_PIT
+seemed_VBD [SMP]
+to_TO
+be_VB [BEMA]
+a_DT
+case_NN
+of_PIN
+natural_JJ
+death_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+,_,
+adding_VBG [PUBV]
+that_THVC
+the_DT
+bodies_NN
+were_VBD [PASS]
+sent_VBN
+for_PIN
+postmortem_NN
+and_CC
+an_DT
+inquiry_NN
+ordered_VBN [SUAV] [WZPAST]
+in_PIN
+the_DT
+case_NN
+._.
+-LRB-_-LRB-
+With_PIN
+agency_NN
+inputs_NN
+-RRB-_-RRB-

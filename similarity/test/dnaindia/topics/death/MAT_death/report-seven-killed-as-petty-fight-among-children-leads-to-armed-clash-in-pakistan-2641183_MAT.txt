@@ -1,0 +1,103 @@
+A_DT
+quarrel_VPRT
+among_PIN
+children_NN
+led_VBD
+to_PIN
+a_DT
+clash_NN
+between_PIN
+two_CD
+families_NN
+in_PIN
+Pakistan_NN
+'s_POS
+Khyber_NN
+Pakhtunkhwa_NN
+province_NN
+,_,
+killing_VBG [PRESP]
+seven_CD
+persons_NN
+including_VBG [WZPRES]
+six_CD
+members_NN
+of_PIN
+the_DT
+same_JJ
+family_NN
+,_,
+police_NN
+said_VBD [PUBV]
+today_TIME
+._.
+The_DT
+tragic_JJ
+incident_NN
+occurred_VBN
+last_JJ
+night_NN
+in_PIN
+the_DT
+outskirts_NN
+of_PIN
+Peshawar_NN
+._.
+A_DT
+minor_JJ
+was_VBD [BEMA]
+also_RB
+among_PIN
+the_DT
+dead_JJ
+._.
+Police_NN
+said_VBD [PUBV] [THATD]
+the_DT
+clash_NN
+erupted_VBD
+after_IN
+a_DT
+petty_JJ
+fight_NN
+among_PIN
+the_DT
+children_NN
+of_PIN
+the_DT
+two_CD
+families_NN
+._.
+They_TPP3
+said_VBD [PUBV]
+that_THVC
+the_DT
+dead_JJ
+have_VPRT [PEAS]
+been_VBN [PASS]
+shifted_VBN
+to_PIN
+the_DT
+hospital_NN
+for_PIN
+autopsy_NN
+and_CC
+an_DT
+investigation_NOMZ
+has_VPRT [PEAS]
+been_VBN [PASS]
+initiated_VBN
+in_PIN
+the_DT
+case_NN
+._.
+However_CONJ
+,_,
+no_SYNE
+arrests_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+made_VBN
+till_IN
+now_TIME
+._.

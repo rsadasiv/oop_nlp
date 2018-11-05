@@ -1,0 +1,16 @@
+Martin_NNP Baynton_NNP -LRB-_-LRB- born_VBN 13_CD February_NNP 1953_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- is_VBZ a_DT British_JJ author_NN ,_, illustrator_NN ,_, and_CC TV_NN producer_NN ._.
+He_PRP is_VBZ a_DT children_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ book_NN writer_NN ,_, he_PRP has_VBZ also_RB written_VBN fiction_NN for_IN adults_NNS and_CC a_DT selection_NN of_IN his_PRP$ short_JJ stories_NNS have_VBP been_VBN anthologised_VBN ._.
+He_PRP is_VBZ well_RB known_VBN for_IN his_PRP$ children_NNS <sup>_VBP TM_NNP </sup>_NNP s_VBZ book_NN Jane_NNP and_CC the_DT Dragon_NNP -LRB-_-LRB- 1988_CD -RRB-_-RRB- ,_, which_WDT has_VBZ since_IN been_VBN adapted_VBN for_IN television_NN and_CC produced_VBN by_IN Weta_NNP Workshop_NNP ._.
+His_PRP$ books_NNS have_VBP been_VBN widely_RB published_VBN in_IN the_DT UK_NNP ,_, US_NNP ,_, New_NNP Zealand_NNP and_CC Australia_NNP ,_, and_CC he_PRP has_VBZ illustrated_VBN books_NNS written_VBN by_IN authors_NNS such_JJ as_IN Russell_NNP Hoban_NNP and_CC Kenneth_NNP Grahame_NNP ._.
+Born_VBN in_IN London_NNP ,_, -LRB-_-LRB- 1_LS -RRB-_-RRB- Baynton_NNP was_VBD educated_VBN at_IN Hereford_NNP Cathedral_NNP Prep_NNP School_NNP and_CC Ledbury_NNP Grammar_NNP School_NNP ,_, and_CC studied_VBD electroencephalography_NN at_IN Great_NNP Ormond_NNP Street_NNP Hospital_NNP ._.
+In_IN the_DT 1970s_NNS ,_, he_PRP joined_VBD St_NNP Bartholomew_NNP 's_POS Hospital_NNP developing_VBG biofeedback_NN technology_NN ,_, and_CC as_IN a_DT therapist_NN working_VBG for_IN biofeedback_NN pioneer_NN Dr_NNP Ann_NNP Wooley-Hart_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN addition_NN to_TO writing_VBG and_CC illustrating_VBG children_NNS 's_POS books_NNS ,_, Baynton_NNP has_VBZ been_VBN a_DT Producer_NNP ,_, writer_NN and_CC director_NN for_IN the_DT stage_NN and_CC TV_NN ._.
+In_IN 2002_CD he_PRP teamed_VBD up_RP with_IN Richard_NNP Taylor_NNP of_IN Weta_NNP Workshop_NNP to_TO create_VB and_CC produce_VB children_NNS 's_POS television_NN ._.
+They_PRP created_VBD the_DT award-winning_JJ Jane_NNP and_CC the_DT Dragon_NNP -LRB-_-LRB- based_VBN on_IN Baynton_NNP 's_POS book_NN series_NN of_IN the_DT same_JJ name_NN -RRB-_-RRB- ,_, and_CC more_RBR recently_RB The_DT WotWots_NNS -LRB-_-LRB- for_IN pre-schoolers_NNS -RRB-_-RRB- ._.
+Baynton_NNP and_CC Taylor_NNP are_VBP founding_VBG partners_NNS and_CC owners_NNS of_IN Pukeko_NNP Pictures_NNP -LRB-_-LRB- 3_LS -RRB-_-RRB- a_DT New_NNP Zealand-based_JJ IP_NNP development_NN company_NN creating_VBG children_NNS 's_POS properties_NNS for_IN film_NN and_CC TV_NN ._.
+Baynton_NNP moved_VBD to_TO New_NNP Zealand_NNP in_IN 1987_CD with_IN his_PRP$ wife_NN Diane_NNP and_CC his_PRP$ children_NNS Theo_NNP and_CC Terri_NNP ._.
+His_PRP$ son_NN Theo_NNP Baynton_NNP who_WP is_VBZ also_RB a_DT writer_NN and_CC illustrator_NN ,_, was_VBD the_DT art_NN director_NN on_IN Jane_NNP and_CC the_DT Dragon_NNP ._.
+In_IN 2009_CD Baynton_NNP and_CC Theo_NNP developed_VBD The_DT WotWots_NNS along_IN with_IN Richard_NNP Taylor_NNP for_IN Pukeko_NNP Pictures_NNP and_CC Weta_NNP Workshop_NNP ._.
+Baynton_NNP has_VBZ also_RB worked_VBN as_IN an_DT actor_NN for_IN the_DT stage_NN and_CC for_IN TV_NN ._.
+Martin_NNP is_VBZ a_DT writer_NN and_CC illustrator_NN of_IN many_JJ books_NNS ,_, and_CC anthologies_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Meet_NNP Martin_NNP Baynton_NNP

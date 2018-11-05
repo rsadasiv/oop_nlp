@@ -1,0 +1,31 @@
+Well_RB ,_, my_PRP$ household_NN just_RB got_VBD Sasktel_NNP Max_NNP ._.
+Okay_UH ,_, I_PRP imagine_VBP that_IN I_PRP just_RB lost_VBD many_JJ of_IN you_PRP ,_, so_IN I_PRP 'll_MD explain_VB ._.
+Sasktel_NNP Max_NNP is_VBZ on_IN of_IN those_DT services_NNS you_PRP get_VBP from_IN your_PRP$ telecommunication_NN company_NN ._.
+It_PRP 's_VBZ TV_NN that_IN comes_VBZ to_TO your_PRP$ house_NN over_IN the_DT phone_NN line_NN ._.
+How_WRB ?_.
+Well_RB the_DT only_JJ thing_NN I_PRP know_VBP for_IN sure_JJ is_VBZ what_WP its_PRP$ like_IN on_IN this_DT end_NN :_: It_PRP 's_VBZ simple_JJ ,_, I_PRP 've_VBP got_VBD a_DT 8mbps_NNS -LRB-_-LRB- downstream_JJ -RRB-_-RRB- DSL_NNP connection_NN and_CC each_DT TV_NN has_VBZ a_DT set_NN top_JJ box_NN -LRB-_-LRB- like_IN with_IN satellite_NN -RRB-_-RRB- which_WDT connects_VBZ to_TO the_DT Ethernet_NNP network_NN like_IN any_DT other_JJ computer_NN ._.
+When_WRB your_PRP$ watching_VBG one_CD TV_NN you_PRP 're_VBP consuming_NN about_IN 3.2_CD mbps_NNS ._.
+Now_RB where_WRB I_PRP live_VBP DSL_NNP lines_NNS ca_MD n't_RB exceed_VB 8mbps_NNS ,_, this_DT means_VBZ that_IN we_PRP can_MD only_RB have_VB 2_CD set_VBN top_JJ boxes_NNS -LRB-_-LRB- 8mbps_NNS line_NN speed_NN -_: 3.2_CD mbps_NNS for_IN one_CD set_NN top_JJ box_NN -_: 3.2_CD for_IN another_DT set_VBN top_JJ box_NN -_: 1.5_CD mbps_NNS for_IN the_DT included_VBN regular_JJ internet_NN =_SYM 1.6_CD mbps_NNS left_VBD -LRB-_-LRB- not_RB enough_RB for_IN another_DT set_VBN top_JJ box_NN -RRB-_-RRB- -RRB-_-RRB- ._.
+Anyway_RB ,_, the_DT normal_JJ TV_NN broadcasts_NNS are_VBP sent_VBN using_VBG the_DT iptv_NN protocol_NN ._.
+The_DT nice_JJ thing_NN about_IN Max_NNP is_VBZ that_IN it_PRP is_VBZ all_DT digital_JJ ;_: this_DT means_VBZ it_PRP has_VBZ a_DT interactive_JJ guide_NN ,_, you_PRP can_MD surf_NN the_DT web_NN on_IN it_PRP ,_, and_CC Pay-per-view_NN is_VBZ replaced_VBN by_IN a_DT much_JJ nicer_JJR feature_NN which_WDT resembles_VBZ a_DT VCR_NNP or_CC DVD_NNP player_NN -LRB-_-LRB- you_PRP can_MD pause_VB ,_, fast_RB forward_RB ,_, rewind_NN -RRB-_-RRB- ._.
+This_DT interactive_JJ movie_NN renting_VBG thing_NN used_VBN rtsp_NN -LRB-_-LRB- Real_JJ Time_NNP Streaming_NNP Protocol_NNP -RRB-_-RRB- ._.
+So_RB being_VBG a_DT computer_NN geek_NN ..._: er_JJR ..._: enthusiast_NN I_PRP instantly_RB saw_VBD potential_JJ for_IN this_DT set_NN top_JJ box_NN ._.
+How_WRB could_MD n't_RB I_PRP ?_.
+It_PRP has_VBZ MPEG_VBN 1_CD and_CC 2_CD codes_NNS and_CC can_MD receive_VB a_DT constant_JJ stream_NN over_IN epitaph_NN ,_, or_CC a_DT real_JJ time_NN ,_, request_NN based_VBN stream_NN over_IN rtsp_NN ._.
+Heck_NN ,_, its_PRP$ even_RB got_VBD ps\/2_CD ,_, serial_NN ,_, and_CC parallel_JJ ports_NNS as_RB well_RB as_IN S-Video_NNP ,_, RCA_NNP ,_, and_CC coaxial_JJ video_NN outputs_NNS ._.
+So_RB here_RB is_VBZ the_DT project_NN goal_NN I_PRP 've_VBP come_VBN up_RP with_IN :_: Set_VB up_RP my_PRP$ desktop_NN computer_NN to_TO stream_NN video_NN that_WDT can_MD be_VB paused_VBN ,_, fastforwarded_VBN ,_, etc_FW to_TO my_PRP$ livingroom_NN TV_NN without_IN loosing_VBG the_DT ability_NN to_TO watch_VB TV_NN that_IN I_PRP pay_VBP 70_CD Canadian_JJ bucks_NNS a_DT month_NN to_TO get_VB ._.
+--_: I_PRP 'll_MD keep_VB you_PRP posted_VBD Wow_UH ,_, this_DT is_VBZ kind_NN of_IN cool_NN ._.
+I_PRP think_VBP I_PRP may_MD have_VB underestimated_VBN the_DT traffic_NN blogs_NNS receive_VBP ._.
+Sure_RB ,_, maybe_RB its_PRP$ only_JJ 2_CD comments_NNS ,_, but_CC that_DT seems_VBZ like_IN a_DT heck_NN of_IN a_DT lot_NN considering_VBG this_DT blog_NN has_VBZ only_RB been_VBN on_IN the_DT internet_NN for_IN 5_CD hours_NNS ._.
+I_PRP always_RB found_VBD blogs_NNS to_TO be_VB kind_NN of_IN weird_JJ ._.
+I_PRP bet_VBP most_RBS blogs_JJ dont_NN even_RB get_VB read_VB unless_IN they_PRP actually_RB have_VBP some_DT usefull_NN topic_NN to_TO them_PRP ._.
+Oh_UH well_UH ,_, I_PRP decided_VBD I_PRP 'd_MD better_RB go_VB make_VB myself_PRP a_DT blog_NN to_TO see_VB first_JJ hand_NN what_WP their_PRP$ all_DT about_IN ..._: Oh_UH yeah_NN ,_, and_CC even_RB more_RBR importantly_RB ,_, to_TO test_VB one_CD man_NN 's_POS theory_NN that_IN Gmail_NNP invites_VBZ are_VBP sent_VBN to_TO people_NNS with_IN Blogger_NNP accounts_NNS ._.
+There_RB ,_, now_RB I_PRP dont_VBP have_VBP to_TO feel_VB bad_JJ about_IN using_VBG the_DT system_NN ;_: if_IN I_PRP receive_VBP a_DT Gmail_NNP invite_VB ,_, I_PRP earned_VBD it_PRP by_IN writting_VBG this_DT entry_NN ._.
+Well_RB ,_, I_PRP 'm_VBP impressed_JJ ._.
+This_DT whole_JJ Blogger_NNP interface_NN is_VBZ really_RB really_RB nice_JJ -LRB-_-LRB- even_RB in_IN Firefox_NNP running_VBG under_IN Linux_NNP ,_, now_RB thats_VBZ saying_VBG something_NN -RRB-_-RRB- ._.
+Everything_NN is_VBZ just_RB really_RB smooth_JJ ._.
+Hmm_NNP ..._: I_PRP dont_VBP have_VB anything_NN else_RB to_TO say_VB ._.
+Maybe_RB ,_, if_IN I_PRP post_VBP again_RB ,_, I_PRP will_MD introduce_VB myself_PRP a_DT bit_NN ._.
+\*_SYM This_DT is_VBZ not_RB spell_VB checked_VBN ._.
+The_DT button_NN was_VBD broken_VBN ._.
+\*_SYM

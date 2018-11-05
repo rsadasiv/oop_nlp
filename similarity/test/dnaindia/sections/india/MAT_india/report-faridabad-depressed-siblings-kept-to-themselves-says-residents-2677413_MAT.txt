@@ -1,0 +1,373 @@
+Residents_NN
+of_PIN
+Aman_NN
+Apartments_NOMZ
+in_PIN
+Faridabad_NN
+'s_POS
+Surajkund_NN
+woke_VBD
+up_RP
+on_PIN
+Saturday_NN
+to_TO
+see_VB [PRIV] [THATD]
+blood_NN
+oozing_VBG [WZPRES]
+out_PIN
+of_PIN
+the_DT
+house_NN
+on_PIN
+the_DT
+building_GER
+'s_POS
+ground_NN
+floor_NN
+._.
+Within_PIN
+minutes_NN
+,_,
+they_TPP3
+realized_VBD [PRIV] [THATD]
+four_CD
+siblings_GER
+had_VBD [PEAS]
+hung_VBN
+themselves_TPP3
+from_PIN
+ceiling_GER
+fans_NN
+,_,
+and_ANDC
+the_DT
+news_NN
+spread_NN
+like_IN
+wildfire_NN
+,_,
+reminding_VBG [PRESP]
+many_QUAN
+of_PIN
+the_DT
+tragic_JJ
+incident_NN
+that_TSUB
+took_VBD
+place_NN
+in_PIN
+North_NN
+Delhi_NN
+'s_POS
+Burari_NN
+in_PIN
+July_NN
+this_DEMO
+year_NN
+._.
+Rajesh_NN
+Mehta_NN
+,_,
+a_DT
+first-floor_NN
+resident_NN
+,_,
+said_VBD [PUBV] [THATD]
+they_TPP3
+will_PRMD
+move_VB [SUAV]
+out_PIN
+of_PIN
+the_DT
+building_GER
+now_TIME
+._.
+``_``
+The_DT
+smell_NN
+and_PHC
+sight_NN
+of_PIN
+bodies_NN
+hanging_VBG [WZPRES]
+is_VPRT [BEMA]
+still_RB
+fresh_PRED
+in_PIN
+my_FPP1
+mind_NN
+._.
+If_COND
+i_FPP1
+ca_POMD
+n't_XX0 [CONT]
+get_VB
+over_IN
+it_PIT
+,_,
+I_FPP1
+'ll_PRMD [CONT]
+move_VB [SUAV]
+out_PIN
+and_CC
+look_VB
+for_PIN
+another_DT
+place_NN
+._.
+My_FPP1
+children_NN
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+seen_VBN [PRIV]
+anything_QUPR
+and_CC
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+want_VB
+them_TPP3
+to_TO
+be_VB [BEMA]
+curious_PRED
+._.
+Memories_NN
+will_PRMD [SPAU]
+still_RB
+haunt_VB
+me_FPP1
+every_QUAN
+time_NN
+I_FPP1
+pass_VPRT
+the_DT
+ground_NN
+floor_NN
+though_CONC
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Raj_NN
+Kumar_NN
+,_,
+the_DT
+building_GER
+caretaker_NN
+,_,
+said_VBD [PUBV] [THATD]
+the_DT
+Mehtas_NN
+might_POMD
+not_XX0
+be_VB [BEMA]
+the_DT
+only_DWNT
+residents_NN
+to_TO
+move_VB [SUAV]
+out_PIN [STPR]
+._.
+``_``
+The_DT
+place_NN
+will_PRMD
+be_VB [PASS]
+labeled_VBN
+as_IN
+haunted_VBN
+._.
+Nobody_INPR
+would_PRMD
+want_VB
+to_TO
+occupy_VB
+the_DT
+house_NN
+,_,
+as_IN
+they_TPP3
+would_PRMD
+fear_VB [PRIV] [THATD]
+it_PIT
+would_PRMD
+bring_VB
+losses_NN
+to_PIN
+business_NOMZ
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+The_DT
+Mathews_NN
+family_NN
+had_VBD [PEAS]
+been_VBN
+suffering_VBG
+from_PIN
+financial_JJ
+difficulties_NN
+since_OSUB
+quite_RB
+some_QUAN
+time_NN
+,_,
+he_TPP3
+said_VBD [PUBV]
+._.
+``_``
+All_QUAN
+tenants_NN
+paid_VBD
+rent_NN
+on_PIN
+time_NN
+._.
+However_CONJ
+,_,
+they_TPP3
+would_PRMD [SPAU]
+usually_RB
+pay_VB
+only_DWNT
+by_PIN
+the_DT
+10th_JJ
+or_CC
+even_RB
+15th_JJ
+of_PIN
+every_QUAN
+month_NN
+,_,
+''_''
+he_TPP3
+added_VBD [PUBV]
+._.
+Another_DT
+resident_NN
+said_VBD [PUBV] [THATD]
+the_DT
+family_NN
+kept_VBD
+to_PIN
+themselves_TPP3
+and_CC
+were_VBD [SPAU] [PASS]
+rarely_RB
+seen_VBN [PRIV]
+outdoors_PLACE
+._.
+``_``
+In_PIN
+the_DT
+last_JJ
+six_CD
+months_NN
+,_,
+I_FPP1
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+seen_VBN [PRIV]
+anybody_QUPR
+visiting_VBG
+them_TPP3
+._.
+They_TPP3
+would_PRMD [SPAU]
+usually_RB
+go_VB
+to_PIN
+church_NN
+or_CC
+stay_VB
+indoors_PLACE
+._.
+I_FPP1
+tried_VBD
+speaking_VBG
+to_PIN
+them_TPP3
+on_PIN
+a_DT
+couple_NN
+of_PIN
+occasions_NN
+,_,
+but_CC
+they_TPP3
+refused_VBD
+to_TO
+speak_VB
+,_,
+''_''
+said_VBD [PUBV]
+Nitin_NN
+Meena_NN
+,_,
+another_DT
+resident_NN
+._.
+Another_DT
+elderly_JJ
+man_NN
+from_PIN
+the_DT
+neighborhood_NN
+claimed_VBD [PUBV] [THATD]
+he_TPP3
+had_VBD [PEAS]
+visited_VBN
+the_DT
+Mathews_NN
+residence_NN
+to_TO
+recite_VB
+the_DT
+Bible_NN
+a_DT
+few_QUAN
+weeks_NN
+ago_RB
+._.
+The_DT
+neighbors_NN
+worry_VPRT
+the_DT
+house_NN
+may_POMD
+be_VB [PASS]
+haunted_VBN
+and_CC
+may_POMD
+bring_VB
+losses_NN
+to_PIN
+the_DT
+neighborhood_NN
+._.
+They_TPP3
+say_VPRT [PUBV] [THATD]
+they_TPP3
+will_PRMD
+move_VB [SUAV]
+out_PIN
+if_COND
+they_TPP3
+can_POMD
+<sup>_VB
+TM_NN
+</sup>_NN
+t_NN
+live_VPRT
+down_IN
+the_DT
+memories_NN
+attached_VBN [WZPAST]
+to_PIN
+the_DT
+place_NN
+._.

@@ -1,0 +1,12 @@
+BSNL_NNP has_VBZ introduced_VBN a_DT new_JJ annual_JJ plan_NN of_IN Rs_NNS 1,097_CD ,_, under_IN which_WDT users_NNS will_MD get_VB a_DT total_NN of_IN 25GB_JJ data_NNS ,_, for_IN a_DT validity_NN period_NN of_IN 365_CD days_NNS ._.
+This_DT new_JJ plan_NN has_VBZ been_VBN launched_VBN in_IN Kolkata_NNP circle_NN and_CC it_PRP will_MD be_VB valid_JJ until_IN January_NNP 6_CD ,_, 2019_CD ._.
+Additionally_RB ,_, users_NNS also_RB get_VBP unlimited_JJ voice_NN calls_NNS ,_, but_CC the_DT calls_NNS can_MD only_RB be_VB made_VBN to_TO numbers_NNS located_VBN in_IN Mumbai_NNP and_CC Delhi_NNP circles_NNS ._.
+These_DT calls_NNS are_VBP not_RB capped_VBN to_TO 250_CD minutes_NNS or_CC 1000_CD minutes_NNS respectively_RB ._.
+Recently_RB ,_, the_DT government_NN started_VBD the_DT selection_NN process_NN for_IN the_DT post_NN of_IN Chairman_NNP and_CC Managing_VBG Director_NNP of_IN state-owned_JJ telecom_NN firm_NN BSNL_NNP ,_, as_IN present_JJ CMD_NNP Anupam_NNP Shrivastava_NNP will_MD superannuate_VB in_IN June_NNP next_JJ year_NN ._.
+``_`` PESB_NNP has_VBZ invited_VBN names_NNS of_IN qualified_VBN candidates_NNS for_IN the_DT post_NN of_IN CMD_NNP ,_, BSNL_NNP by_IN 15_CD hours_NNS on_IN October_NNP 22_CD ,_, 2018_CD ,_, ''_'' the_DT Department_NNP of_IN Telecom_NNP said_VBD in_IN a_DT note_NN to_TO heads_NNS of_IN state-run_JJ firms_NNS under_IN it_PRP ._.
+The_DT selection_NN process_NN starts_VBZ 8-10_CD months_NNS in_IN advance_NN of_IN retirement_NN of_IN the_DT public_JJ sector_NN enterprise_NN CMD_NNP ._.
+The_DT pay_NN scale_NN for_IN the_DT post_NN is_VBZ in_IN the_DT range_NN of_IN Rs_NNP 80,000-Rs_NNP 1.25_CD lakh_NN ._.
+Candidates_NNS working_VBG in_IN private_JJ sector_NN firm_NN with_IN annual_JJ turnover_NN of_IN over_IN Rs_NNS 2,000_CD crore_NN can_MD also_RB apply_VB for_IN the_DT post_NN ._.
+Shrivastava_NNP was_VBD appointed_VBN CMD_NNP of_IN BSNL_NNP for_IN a_DT period_NN of_IN five_CD years_NNS or_CC till_IN the_DT time_NN of_IN superannuation_NN age_NN of_IN 60_CD years_NNS in_IN 2015_CD ._.
+During_IN his_PRP$ tenure_NN ,_, BSNL_NNP reported_VBD an_DT operating_NN profit_NN of_IN Rs_NNS 672_CD crore_NN for_IN 2014-15_CD ,_, aided_VBN by_IN a_DT fall_NN in_IN administrative_JJ costs_NNS and_CC jump_NN in_IN revenue_NN ._.
+The_DT company_NN has_VBZ also_RB been_VBN able_JJ to_TO arrest_VB decline_NN in_IN subscriber_NN base_NN after_IN Shrivastava_NNP gained_VBD control_NN ._.

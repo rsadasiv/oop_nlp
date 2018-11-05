@@ -1,0 +1,17 @@
+Timothy_NNP John_NNP Binyon_NNP -LRB-_-LRB- 18_CD February_NNP 1936_CD ''_'' 7_CD October_NNP 2004_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- was_VBD an_DT English_JJ scholar_NN and_CC crime_NN writer_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP was_VBD a_DT great-nephew_NN of_IN the_DT poet_NN Laurence_NNP Binyon_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- T._NNP J._NNP Binyon_NNP was_VBD born_VBN in_IN Leeds_NNP ,_, where_WRB his_PRP$ father_NN Denis_NNP was_VBD a_DT university_NN lecturer_NN ._.
+When_WRB ,_, aged_VBN 18_CD ,_, doing_VBG his_PRP$ National_NNP Service_NNP ,_, he_PRP was_VBD assigned_VBN to_TO the_DT Joint_NNP Services_NNP School_NNP for_IN Linguists_NNP in_IN Bodmin_NNP ,_, Cornwall_NNP ,_, to_TO learn_VB Russian_JJ ._.
+There_RB ,_, in_IN 1954_CD ,_, the_DT young_JJ soldiers_NNS ,_, among_IN them_PRP Alan_NNP Bennett_NNP ,_, Michael_NNP Frayn_NNP and_CC Dennis_NNP Potter_NNP ,_, were_VBD trained_VBN to_TO serve_VB as_IN translators_NNS and_CC interpreters_NNS in_IN the_DT Cold_NNP War_NNP ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- It_PRP was_VBD there_RB that_IN Binyon_NNP 's_POS interest_NN in_IN Russian_JJ language_NN and_CC literature_NN was_VBD kindled_VBN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- He_PRP studied_VBD at_IN Exeter_NNP College_NNP ,_, Oxford_NNP ,_, but_CC read_VBD German_JJ and_CC Russian_JJ instead_RB of_IN History_NN ,_, which_WDT had_VBD been_VBN his_PRP$ original_JJ plan_NN ._.
+After_IN graduating_VBG he_PRP spent_VBD a_DT year_NN at_IN Moscow_NNP State_NNP University_NNP ._.
+On_IN returning_VBG to_TO England_NNP ,_, he_PRP took_VBD up_RP teaching_NN Russian_JJ literature_NN at_IN the_DT University_NNP of_IN Leeds_NNP ._.
+Eventually_RB ,_, in_IN 1968_CD ,_, he_PRP became_VBD a_DT fellow_NN of_IN Wadham_NNP College_NNP ._.
+Oxford_NNP ,_, and_CC taught_VBD in_IN the_DT Faculty_NN of_IN Medieval_JJ and_CC Modern_NNP Languages_NNPS ._.
+He_PRP served_VBD as_IN Dean_NNP of_IN Wadham_NNP during_IN the_DT 1970s_NNS and_CC 80s_NNS and_CC retired_VBN in_IN the_DT early_JJ 2000s_NNS ._.
+Apart_RB from_IN his_PRP$ academic_JJ career_NN ,_, Binyon_NNP had_VBD a_DT great_JJ interest_NN in_IN crime_NN fiction_NN ._.
+He_PRP worked_VBD as_IN a_DT reviewer_NN of_IN detective_NN fiction_NN for_IN The_DT Times_NNP Literary_NNP Supplement_NNP and_CC the_DT London_NNP Evening_NNP Standard_NNP and_CC wrote_VBD a_DT theoretical_JJ book_NN ''_'' ``_`` Murder_NN Will_MD Out_RB ''_'' :_: The_DT Detective_NN in_IN Fiction_NN -LRB-_-LRB- OUP_NNP ,_, 1989_CD -RRB-_-RRB- ``_`` and_CC two_CD crime_NN novels_NNS ,_, Swan_NN Song_NN -LRB-_-LRB- 1982_CD -RRB-_-RRB- and_CC Greek_JJ Gifts_NNS -LRB-_-LRB- 1988_CD -RRB-_-RRB- ._.
+As_IN emeritus_NN ,_, Binyon_NNP became_VBD a_DT prize-winning_JJ author_NN with_IN a_DT biography_NN of_IN Aleksandr_NNP Pushkin_NNP ,_, Pushkin_NNP :_: A_NNP Biography_NNP -LRB-_-LRB- 2002_CD -RRB-_-RRB- ,_, it_PRP was_VBD the_DT Samuel_NNP Johnson_NNP Prize_NNP winner_NN of_IN 2003_CD ._.
+Binyon_NNP was_VBD married_VBN twice_RB ,_, first_RB to_TO Felicity_NNP Butterwick_NNP -LRB-_-LRB- 1974_CD ``_`` 1992_CD -RRB-_-RRB- and_CC ,_, after_IN a_DT divorce_NN ,_, to_TO Helen_NNP Ellis_NNP -LRB-_-LRB- from_IN 2000_CD up_IN to_TO his_PRP$ death_NN -RRB-_-RRB- ._.
+He_PRP died_VBD ,_, aged_VBN 68_CD ,_, of_IN sudden_JJ heart_NN failure_NN in_IN his_PRP$ house_NN in_IN Witney_NNP ,_, Oxfordshire_NNP ,_, while_IN doing_VBG research_NN for_IN what_WP was_VBD to_TO be_VB his_PRP$ next_JJ book_NN ,_, on_IN Mikhail_NNP Lermontov_NNP ._.

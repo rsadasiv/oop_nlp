@@ -1,0 +1,3 @@
+Frances_NNP Boothby_NNP -LRB-_-LRB- floruit_JJ 1669_CD ``_`` 1670_CD -RRB-_-RRB- was_VBD an_DT English_JJ playwright_NN ,_, the_DT first_JJ woman_NN to_TO have_VB a_DT play_NN produced_VBN in_IN London_NNP ;_: her_PRP$ tragicomedy_NN Marcelia_NNP ,_, or_CC ,_, The_DT Treacherous_NNP Friend_NNP -LRB-_-LRB- published_VBN 1670_CD -RRB-_-RRB- was_VBD performed_VBN by_IN the_DT King_NNP 's_POS Company_NN at_IN the_DT Theatre_NNP Royal_NNP in_IN 1669_CD ._.
+The_DT plot_NN involves_VBZ romantic_JJ difficulties_NNS and_CC deceit_NN ._.
+It_PRP is_VBZ her_PRP$ only_JJ work_NN extant_NN ,_, and_CC little_JJ else_JJ is_VBZ known_VBN of_IN her_PRP ._.

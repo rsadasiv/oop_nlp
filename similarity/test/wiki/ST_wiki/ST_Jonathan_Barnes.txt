@@ -1,0 +1,13 @@
+Jonathan_NNP Barnes_NNP ,_, FBA_NNP -LRB-_-LRB- born_VBN 26_CD December_NNP 1942_CD in_IN Wenlock_NNP ,_, Shropshire_NNP -RRB-_-RRB- is_VBZ an_DT English_JJ scholar_NN of_IN ancient_JJ philosophy_NN ._.
+He_PRP was_VBD educated_VBN at_IN the_DT City_NNP of_IN London_NNP School_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC Balliol_NNP College_NNP ,_, Oxford_NNP University_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP taught_VBD for_IN 25_CD years_NNS at_IN Oxford_NNP University_NNP before_IN moving_VBG to_TO the_DT University_NNP of_IN Geneva_NNP ._.
+He_PRP was_VBD a_DT Fellow_NNP of_IN Oriel_NNP College_NNP ,_, Oxford_NNP ,_, 1968_CD ``_`` 78_CD ;_: -LRB-_-LRB- 1_CD -RRB-_-RRB- a_DT Fellow_NNP of_IN Balliol_NNP College_NNP ,_, Oxford_NNP ,_, 1978_CD ``_`` 94_CD ,_, and_CC has_VBZ been_VBN Emeritus_NNP Fellow_NNP of_IN Balliol_NNP College_NNP since_IN 1994_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD Professor_NNP of_IN Ancient_NNP Philosophy_NNP ,_, Oxford_NNP University_NNP ,_, 1989_CD ``_`` 94_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD Professor_NNP of_IN Ancient_NNP Philosophy_NNP at_IN the_DT University_NNP of_IN Geneva_NNP 1994_CD ``_`` 2002_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP taught_VBD at_IN the_DT University_NNP of_IN Paris-Sorbonne_NNP in_IN France_NNP ,_, and_CC took_VBD his_PRP$ éméritat_NN in_IN 2006_CD ._.
+He_PRP was_VBD elected_VBN a_DT Fellow_NNP of_IN the_DT British_JJ Academy_NNP in_IN 1987_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP is_VBZ an_DT expert_NN on_IN ancient_JJ Greek_JJ philosophy_NN ,_, and_CC has_VBZ edited_VBN the_DT two-volume_JJ collection_NN of_IN Aristotle_NNP 's_POS works_NNS as_RB well_RB as_IN a_DT number_NN of_IN commentaries_NNS on_IN Aristotle_NNP ,_, the_DT pre-Socratics_NNPS and_CC other_JJ areas_NNS of_IN Greek_JJ thought_NN ._.
+He_PRP was_VBD elected_VBN a_DT Foreign_JJ Honorary_NNP Member_NNP of_IN the_DT American_NNP Academy_NNP of_IN Arts_NNS and_CC Sciences_NNPS in_IN 1999_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD awarded_VBN an_DT honorary_JJ doctorate_NN by_IN the_DT Humboldt_NNP University_NNP of_IN Berlin_NNP in_IN 2012_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP married_VBD in_IN 1965_CD and_CC has_VBZ two_CD daughters_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP is_VBZ the_DT brother_NN of_IN the_DT novelist_NN Julian_NNP Barnes_NNP ,_, and_CC he_PRP and_CC his_PRP$ family_NN feature_NN in_IN the_DT latter_NN 's_POS memoir_NN Nothing_NN to_TO be_VB Frightened_VBN Of_IN -LRB-_-LRB- 2008_CD -RRB-_-RRB- ._.

@@ -1,0 +1,12 @@
+Moses_NNP Browne_NNP -LRB-_-LRB- 1704_CD ''_'' September_NNP 1787_CD -RRB-_-RRB- ,_, born_VBN in_IN Severn_NNP Stoke_NNP ,_, Worcestershire_NNP ,_, England_NNP ,_, became_VBD a_DT pen-cutter_NN in_IN Clerkenwell_NNP ,_, London_NNP ,_, after_IN the_DT death_NN of_IN his_PRP$ patron_NN ,_, Lord_NNP Molesworth_NNP ,_, in_IN 1725_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP became_VBD a_DT poet_NN ,_, and_CC in_IN middle_JJ age_NN a_DT clergyman_NN of_IN the_DT Church_NNP of_IN England_NNP ._.
+Browne_NNP contributed_VBD poems_NNS to_TO The_DT Gentleman_NNP 's_POS Magazine_NNP ,_, winning_VBG several_JJ prizes_NNS from_IN its_PRP$ founder_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- During_IN this_DT time_NN ,_, Browne_NNP would_MD be_VB mixing_VBG with_IN some_DT of_IN the_DT distinguished_JJ literary_JJ figures_NNS of_IN the_DT time_NN ,_, including_VBG Samuel_NNP Johnson_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- Moses_VBZ Browne_NNP married_JJ Ann_NNP Wibourne_NNP in_IN 1738_CD in_IN Clerkenwell_NNP ._.
+He_PRP had_VBD in_IN excess_NN of_IN nine_CD children_NNS ''_'' some_DT records_NNS indicate_VBP up_RP to_TO 13_CD ._.
+His_PRP$ great-great-great-grandson_NN was_VBD to_TO be_VB the_DT stage-performing_JJ mnemonist_NN Edward_NNP Cyril_NNP De_NNP Hault_NNP Laston_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- Browne_NNP found_VBD success_NN as_IN a_DT devotional_JJ writer_NN ,_, and_CC on_IN the_DT instigation_NN of_IN the_DT evangelical_JJ writer_NN James_NNP Hervey_NNP ,_, was_VBD ordained_VBN in_IN 1753_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP was_VBD then_RB appointed_VBN vicar_NN of_IN Olney_NNP ,_, Buckinghamshire_NNP in_IN 1753_CD ._.
+In_IN 1764_CD ,_, Browne_NNP took_VBD the_DT additional_JJ post_NN of_IN Chaplain_NNP at_IN Morden_NNP College_NNP in_IN Blackheath_NNP ,_, London_NNP ,_, one_CD of_IN the_DT reasons_NNS being_VBG that_IN his_PRP$ Olney_NNP post_NN could_MD not_RB sustain_VB such_PDT a_DT large_JJ family_NN ._.
+However_RB ,_, he_PRP remained_VBD Vicar_NNP of_IN Olney_NNP at_IN the_DT same_JJ time_NN as_IN Vicar_NNP of_IN Sutton_NNP ,_, Lincolnshire_NNP until_IN his_PRP$ death_NN in_IN 1787_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- 1729_CD ''_'' Piscatory_NNP Eclogues_NNP 1750_CD ''_'' The_DT Compleat_NNP Angler_NNP 1752_CD ''_'' The_DT Works_NNP and_CC Rest_VB of_IN the_DT Creation_NNP 1772_CD ''_'' The_DT Excellency_NNP of_IN the_DT Knowledge_NNP of_IN Jesus_NNP Christ_NNP -LRB-_-LRB- 2_LS -RRB-_-RRB-

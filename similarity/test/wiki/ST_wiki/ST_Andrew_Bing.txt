@@ -1,0 +1,4 @@
+Andrew_NNP Bing_NNP -LRB-_-LRB- 1574_CD ``_`` 1652_CD -RRB-_-RRB- was_VBD an_DT English_JJ scholar_NN ._.
+He_PRP was_VBD a_DT fellow_NN of_IN Peterhouse_NNP ,_, Cambridge_NNP ,_, and_CC succeeded_VBD Geoffrey_NNP King_NNP as_IN Regius_NNP Professor_NNP of_IN Hebrew_NNP at_IN Cambridge_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- He_PRP served_VBD on_IN the_DT ``_`` First_JJ Cambridge_NNP Company_NN ''_'' charged_VBN by_IN James_NNP I_NNP of_IN England_NNP with_IN translating_VBG parts_NNS of_IN the_DT Old_NNP Testament_NNP for_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ._.
+Bing_NNP served_VBD as_IN subdean_NN of_IN York_NNP Cathedral_NNP in_IN 1606_CD and_CC Archdeacon_NNP of_IN Norwich_NNP in_IN 1618_CD ._.

@@ -1,0 +1,22 @@
+Sir_NNP John_NNP Cullum_NNP ,_, 6th_JJ Baronet_NNP -LRB-_-LRB- 21_CD June_NNP 1733_CD ''_'' 9_CD October_NNP 1785_CD -RRB-_-RRB- was_VBD an_DT English_JJ clergyman_NN and_CC antiquary_JJ ._.
+The_DT eldest_NN son_NN of_IN Sir_NNP John_NNP Cullum_NNP ,_, 5th_JJ Baronet_NNP ,_, of_IN Hawsted_NNP and_CC Hardwick_NNP ,_, Suffolk_NNP ,_, by_IN Susanna_NNP ,_, daughter_NN and_CC coheiress_NN of_IN Sir_NNP Thomas_NNP Gery_NNP ,_, he_PRP was_VBD born_VBN at_IN Hawsted_NNP 21_CD June_NNP 1733_CD ,_, and_CC baptised_VBN in_IN the_DT chapel_NN at_IN Hawsted_NNP Place_NNP on_IN 19_CD July_NNP ._.
+He_PRP was_VBD educated_VBN at_IN King_NNP Edward_NNP VI_NNP 's_POS School_NNP ,_, Bury_NNP St._NNP Edmunds_NNP ._.
+He_PRP went_VBD to_TO Catharine_NNP Hall_NNP ,_, Cambridge_NNP ,_, and_CC in_IN January_NNP 1756_CD was_VBD fourth_JJ junior_NN optime_NN in_IN the_DT Mathematical_NNP Tripos_NNP ;_: his_PRP$ classics_NNS ,_, however_RB ,_, were_VBD stronger_JJR ,_, and_CC in_IN 1758_CD he_PRP obtained_VBD the_DT member_NN 's_POS prize_NN for_IN the_DT best_JJS dissertation_NN in_IN Latin_NNP prose_NN ._.
+He_PRP was_VBD elected_VBN Fellow_NNP of_IN his_PRP$ college_NN ,_, and_CC was_VBD only_RB just_RB defeated_VBN in_IN an_DT election_NN for_IN the_DT mastership_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN April_NNP 1762_CD he_PRP was_VBD presented_VBN by_IN his_PRP$ father_NN to_TO the_DT rectory_NN of_IN Hawsted_NNP ,_, and_CC in_IN December_NNP 1774_CD he_PRP was_VBD instituted_VBN to_TO the_DT vicarage_NN of_IN Great_NNP Thurlow_NNP ,_, also_RB Suffolk_NNP ._.
+In_IN 1774_CD also_RB ,_, he_PRP succeeded_VBD his_PRP$ father_NN as_IN sixth_JJ baronet_NN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cullum_NNP was_VBD a_DT scholar_NN ,_, antiquary_JJ and_CC student_NN of_IN natural_JJ science_NN ._.
+In_IN March_NNP 1774_CD he_PRP was_VBD elected_VBN a_DT Fellow_NNP of_IN the_DT Society_NNP of_IN Antiquaries_NNPS of_IN London_NNP ,_, and_CC in_IN March_NNP 1775_CD a_DT Fellow_NNP of_IN the_DT Royal_NNP Society_NNP ._.
+Cullum_NNP died_VBD of_IN consumption_NN on_IN 9_CD October_NNP 1785_CD ,_, and_CC was_VBD buried_VBN at_IN Hawsted_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cullum_NNP 's_POS diaries_NNS and_CC correspondence_NN survived_VBD at_IN Hardwick_NNP House_NNP in_IN Bury_NNP St._NNP Edmunds_NNP ,_, and_CC elsewhere_RB ._.
+Among_IN his_PRP$ circle_NN were_VBD the_DT Duchess_NNP of_IN Portland_NNP ,_, Mary_NNP Delany_NNP ,_, Richard_NNP Gough_NNP who_WP began_VBD his_PRP$ Sepulchral_NNP Monuments_NNP at_IN Cullum_NNP 's_POS prompting_VBG ,_, Michael_NNP Lort_NNP ,_, Peter_NNP Sandford_NNP ,_, Thomas_NNP Pennant_NNP ,_, James_NNP Granger_NNP ,_, George_NNP Ashby_NNP ,_, Michael_NNP Tyson_NNP ,_, John_NNP Lightfoot_NNP ,_, and_CC William_NNP Cole_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cullum_NNP devoted_JJ time_NN to_TO the_DT preparation_NN of_IN The_DT History_NN and_CC Antiquities_NNS of_IN Hawsted_NNP and_CC Hardwick_NNP in_IN the_DT County_NNP of_IN Suffolk_NNP ,_, published_VBN in_IN No._NN xxiii_NNS ._.
+-LRB-_-LRB- 1784_CD -RRB-_-RRB- of_IN Bibliotheca_NNP Topographica_NNP Britannica_NNP ,_, and_CC subsequently_RB in_IN separate_JJ form_NN ._.
+He_PRP made_VBD collections_NNS for_IN a_DT History_NN of_IN Suffolk_NNP ,_, and_CC projected_VBD a_DT new_JJ Flora_NNP Anglicana_NNP ,_, but_CC neither_DT were_VBD published_VBN ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Cullum_NNP married_VBN at_IN West_NNP Ham_NNP ,_, Essex_NNP ,_, 11_CD July_NNP 1765_CD ,_, Peggy_NNP ,_, only_RB daughter_NN of_IN Daniel_NNP Bisson_NNP distiller_NN of_IN Three_CD Mills_NNPS ,_, who_WP died_VBD in_IN August_NNP 1810_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cust_NNP ,_, Lionel_NNP Henry_NNP -LRB-_-LRB- 1888_CD -RRB-_-RRB- ._.
+``_`` Cullum_NNP ,_, John_NNP ''_'' ._.
+In_IN Stephen_NNP ,_, Leslie_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+13_CD ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP p._VBP 283_CD ._.

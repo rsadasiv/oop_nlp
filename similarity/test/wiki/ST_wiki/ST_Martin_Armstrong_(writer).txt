@@ -1,0 +1,7 @@
+Martin_NNP Donisthorpe_NNP Armstrong_NNP -LRB-_-LRB- 2_CD October_NNP 1882_CD ''_'' 24_CD February_NNP 1974_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN and_CC poet_NN ,_, known_VBN for_IN his_PRP$ stories_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Armstrong_NNP was_VBD born_VBN in_IN Newcastle-upon-Tyne_NNP ,_, and_CC educated_VBN at_IN Charterhouse_NNP and_CC Pembroke_NNP College_NNP ,_, Cambridge_NNP ._.
+During_IN World_NNP War_NNP I_PRP he_PRP volunteered_VBD with_IN the_DT British_JJ Army_NNP and_CC served_VBD in_IN France_NNP as_IN a_DT Private_JJ in_IN the_DT Artists_NNS '_POS Rifles_NNS ._.
+He_PRP was_VBD commissioned_VBN into_IN the_DT 8th_JJ Battalion_NNP Middlesex_NNP Regiment_NNP ,_, T.F._NNP in_IN 1915_CD and_CC promoted_VBN to_TO the_DT rank_NN of_IN Lieutenant_NN in_IN 1916_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD included_VBN in_IN the_DT final_JJ Georgian_JJ Poetry_NNP anthology_NN ._.
+He_PRP married_VBD in_IN 1929_CD Canadian_JJ writer_NN Jessie_NNP McDonald_NNP after_IN she_PRP had_VBD divorced_VBN Conrad_NNP Aiken_NNP ,_, making_VBG Armstrong_NNP the_DT stepfather_NN of_IN the_DT young_JJ Joan_NNP Aiken_NNP ._.
+He_PRP appears_VBZ in_IN disguised_JJ form_NN as_IN a_DT character_NN in_IN Conrad_NNP Aiken_NNP 's_POS Ushant_NNP ._.

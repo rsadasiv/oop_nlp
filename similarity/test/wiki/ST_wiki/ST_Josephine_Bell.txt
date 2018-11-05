@@ -1,0 +1,12 @@
+Josephine_NNP Bell_NNP ,_, pseudonym_NN of_IN Doris_NNP Bell_NNP Collier_NNP ,_, -LRB-_-LRB- 8_CD December_NNP 1897_CD ''_'' 24_CD April_NNP 1987_CD -RRB-_-RRB- ,_, was_VBD an_DT English_JJ physician_NN and_CC writer_NN ._.
+Bell_NNP wrote_VBD nineteen_JJ novels_NNS and_CC forty-five_JJ mystery_NN novels_NNS in_IN her_PRP$ lifetime_NN ,_, as_RB well_RB as_IN radio_NN plays_NNS ,_, short_JJ stories_NNS ,_, and_CC series_NN for_IN women_NNS 's_POS magazines_NNS ._.
+Bell_NNP was_VBD born_VBN in_IN Manchester_NNP ,_, England_NNP in_IN 1897_CD and_CC studied_VBN at_IN Godolphin_NNP School_NNP between_IN 1910_CD and_CC 1916_CD ._.
+She_PRP then_RB trained_VBD at_IN Newnham_NNP College_NNP ,_, Cambridge_NNP until_IN 1919_CD ._.
+At_IN the_DT University_NNP College_NNP Hospital_NNP in_IN London_NNP she_PRP was_VBD granted_VBN M.R.C.S._NNP and_CC L.R.C.P._NNP in_IN 1922_CD ,_, and_CC a_DT M.B._NNP B.S._NNP in_IN 1924_CD ._.
+In_IN 1923_CD ,_, she_PRP married_VBD Dr._NNP Norman_NNP Dyer_NNP Ball_NNP ,_, and_CC the_DT couple_NN had_VBD a_DT son_NN and_CC three_CD daughters_NNS ._.
+From_IN 1927_CD until_IN 1935_CD the_DT couple_NN practiced_VBD medicine_NN in_IN Greenwich_NNP and_CC London_NNP ._.
+When_WRB her_PRP$ husband_NN died_VBD ,_, Bell_NNP moved_VBD to_TO Guildford_NNP ,_, Surrey_NNP ._.
+From_IN 1954_CD through_IN 1962_CD she_PRP was_VBD a_DT member_NN of_IN the_DT management_NN committee_NN of_IN St._NNP Luke_NNP 's_POS Hospital_NN ._.
+Bell_NNP began_VBD to_TO write_VB detective_NN novels_NNS beginning_VBG in_IN 1936_CD under_IN her_PRP$ pen_NN name_NN ._.
+Many_JJ of_IN her_PRP$ works_NNS used_VBD a_DT medical_JJ background_NN and_CC featured_VBD the_DT fictional_JJ character_NN Dr._NNP David_NNP Wintringham_NNP ,_, who_WP worked_VBD at_IN Research_NNP Hospital_NNP in_IN London_NNP as_IN a_DT junior_JJ assistant_NN physician_NN ._.
+In_IN 1953_CD ,_, Bell_NNP helped_VBD found_VBN the_DT Crime_NN Writers_NNPS '_POS Association_NNP and_CC served_VBD as_IN chair_NN from_IN 1959_CD to_TO 1960_CD ._.

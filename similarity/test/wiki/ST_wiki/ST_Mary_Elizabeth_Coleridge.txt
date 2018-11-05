@@ -1,0 +1,15 @@
+Mary_NNP Elizabeth_NNP Coleridge_NNP -LRB-_-LRB- 23_CD September_NNP 1861_CD ''_'' 25_CD August_NNP 1907_CD -RRB-_-RRB- was_VBD a_DT British_JJ novelist_NN and_CC poet_NN who_WP also_RB wrote_VBD essays_NNS and_CC reviews_NNS ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP taught_VBD at_IN the_DT London_NNP Working_NNP Women_NNP 's_POS College_NNP for_IN twelve_CD years_NNS from_IN 1895_CD to_TO 1907_CD ._.
+She_PRP wrote_VBD poetry_NN under_IN the_DT pseudonym_NN Anodos_NNP ,_, taken_VBN from_IN George_NNP MacDonald_NNP ;_: other_JJ influences_NNS on_IN her_PRP$ were_VBD Richard_NNP Watson_NNP Dixon_NNP and_CC Christina_NNP Rossetti_NNP ._.
+Robert_NNP Bridges_NNP ,_, the_DT Poet_NNP Laureate_NNP ,_, described_VBD her_PRP$ poems_NNS as_IN `_`` wonderously_RB beautiful_JJ ..._: but_CC mystical_JJ rather_RB and_CC enigmatic_JJ '_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Coleridge_NNP published_VBD five_CD novels_NNS ,_, the_DT best_JJS known_VBN of_IN those_DT being_VBG The_DT King_NNP with_IN Two_CD Faces_NNP ,_, which_WDT earned_VBD her_PRP #_# 900_CD in_IN royalties_NNS in_IN 1897_CD ._.
+She_PRP traveled_VBD widely_RB throughout_IN her_PRP$ life_NN ,_, although_IN her_PRP$ home_NN was_VBD in_IN London_NNP ,_, where_WRB she_PRP lived_VBD with_IN her_PRP$ family_NN ._.
+Her_PRP$ father_NN was_VBD Arthur_NNP Duke_NNP Coleridge_NNP who_WP ,_, along_IN with_IN the_DT singer_NN Jenny_NNP Lind_NNP ,_, was_VBD responsible_JJ for_IN the_DT formation_NN of_IN the_DT London_NNP Bach_NNP Choir_NNP in_IN 1875_CD ._.
+Other_JJ family_NN friends_NNS included_VBD Robert_NNP Browning_NNP ,_, Alfred_NNP ,_, Lord_NNP Tennyson_NNP ,_, John_NNP Millais_NNP and_CC Fanny_NNP Kemble_NNP ._.
+Mary_NNP Coleridge_NNP was_VBD the_DT great-grandniece_NN of_IN Samuel_NNP Taylor_NNP Coleridge_NNP and_CC the_DT great_JJ niece_NN of_IN Sara_NNP Coleridge_NNP ,_, the_DT author_NN of_IN Phantasmion_NNP ._.
+She_PRP died_VBD from_IN complications_NNS arising_VBG from_IN appendicitis_NN while_IN on_IN holiday_NN in_IN Harrogate_NNP in_IN 1907_CD ,_, leaving_VBG an_DT unfinished_JJ manuscript_NN for_IN her_PRP$ next_JJ novel_NN and_CC hundreds_NNS of_IN unpublished_JJ poems_NNS ._.
+Eight_CD of_IN her_PRP$ poems_NNS ,_, including_VBG ``_`` The_DT Blue_NNP Bird_NNP ''_'' ,_, were_VBD set_VBN to_TO music_NN for_IN chorus_NN by_IN Charles_NNP Villiers_NNP Stanford_NNP ,_, and_CC three_CD poems_NNS including_VBG ``_`` Thy_NNP Hand_NNP in_IN Mine_NNP ''_'' were_VBD set_VBN by_IN Frank_NNP Bridge_NNP ._.
+A_DT family_NN friend_NN ,_, the_DT composer_NN Hubert_NNP Parry_NNP ,_, also_RB set_VBD several_JJ of_IN her_PRP$ poems_NNS as_IN songs_NNS for_IN voice_NN and_CC piano_NN ._.
+And_CC Cyril_NNP Rootham_NNP -LRB-_-LRB- an_DT erstwhile_JJ pupil_NN of_IN Stanford_NNP and_CC Parry_NNP -RRB-_-RRB- set_VBN four_CD of_IN her_PRP$ poems_NNS for_IN solo_NN voice_NN and_CC orchestra_NN ,_, though_IN when_WRB published_VBN in_IN 1913_CD the_DT songs_NNS were_VBD rewritten_VBN for_IN voice_NN and_CC piano_NN ._.
+The_DT Collected_NNP Poems_NNP of_IN Mary_NNP Coleridge_NNP ,_, ed_VBD ._.
+Theresa_NNP Whistler_NNP London_NNP :_: Rupert_NNP Hart-Davis_NNP ,_, 1954_CD

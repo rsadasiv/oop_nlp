@@ -1,0 +1,52 @@
+Caroline_NNP Clive_NNP ,_, sometimes_RB known_VBN as_IN Caroline_NNP Wigley_NNP Clive_NNP -LRB-_-LRB- 24_CD June_NNP 1801_CD ''_'' 13_CD July_NNP 1872_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN born_VBN Caroline_NNP Meysey-Wigley_NNP in_IN Brompton_NNP Grove_NNP ,_, London_NNP to_TO Edmund_NNP Meysey-Wigley_NNP of_IN Shakenhurst_NNP ,_, Worcestershire_NNP and_CC Anna_NNP Marie_NNP Meysey_NNP ._.
+She_PRP used_VBD the_DT pseudonym_NN ``_`` V_NNP ''_'' Some_DT of_IN her_PRP$ texts_NNS can_MD be_VB found_VBN online_NN at_IN the_DT Victorian_JJ Women_NNS Writers_NNP Project_NNP ._.
+Born_VBN in_IN London_NNP ,_, she_PRP was_VBD the_DT daughter_NN of_IN Edmund_NNP Mersey-Wigley_NNP ,_, of_IN Shakenhurst_NNP ,_, Worcestershire_NNP ,_, and_CC in_IN 1840_CD was_VBD married_VBN to_TO Rev._NNP Archer_NNP Clive_NNP ._.
+Mrs._NNP Clive_NNP was_VBD a_DT confirmed_VBN invalid_JJ for_IN some_DT years_NNS prior_RB to_TO her_PRP$ death_NN -_: the_DT result_NN of_IN an_DT accident_NN after_IN her_PRP$ dress_NN having_VBG caught_VBN fire_NN while_IN she_PRP was_VBD writing_VBG in_IN her_PRP$ boudoir_NN at_IN Whitfield_NNP ,_, Herefordshire_NNP ._.
+Her_PRP$ works_NNS were_VBD all_DT published_VBN anonymously_RB ._.
+1_LS ._.
+IX_CD Poems_NNP ._.
+By_IN V._NNP Lon._NNP ,_, 1840_CD ,_, p._FW 8vo_FW ;_: 2d_CD ed._FW ,_, 1841_CD ._.
+-LRB-_-LRB- This_DT volume_NN attracted_VBD much_JJ notice_NN ,_, and_CC was_VBD very_RB favourably_RB reviewed_VBN in_IN the_DT Quarterly_JJ ._.
+The_DT second_JJ edition_NN includes_VBZ nine_CD additional_JJ poems_NNS -RRB-_-RRB- ._.
+2_LS ._.
+I_PRP Watched_VBD the_DT Heavens_NNPS :_: a_DT Poem_NNP ._.
+By_IN V._NNP Lon._NNP ,_, 1842_CD ,_, p._FW 8vo_FW ._.
+-LRB-_-LRB- The_DT first_JJ canto_NN of_IN an_DT unfinished_JJ poem_NN ._. -RRB-_-RRB-
+3_LS ._.
+The_DT Queen_NNP 's_POS Ball_NNP :_: a_DT Poem_NNP By_IN V._NNP Lon._NNP ,_, 1847_CD ,_, p._FW 8vo_FW ._.
+4_LS ._.
+The_DT Valley_NNP of_IN the_DT Rea_NNP :_: a_DT Poem_NNP By_IN V._NNP Lon._NNP ,_, 1851_CD ,_, p._FW 8vo_FW ._.
+5_CD ._.
+The_DT Morlas_NNP :_: a_DT Poem_NNP ._.
+By_IN V._NNP Lon._NNP ,_, 1853_CD ,_, p._FW 8vo_FW ._.
+6_CD ._.
+Paul_NNP Ferroll_NNP :_: a_DT Tale_NNP ._.
+By_IN the_DT Author_NN of_IN ``_`` IX_CD Poems_NNP ,_, ''_'' by_IN V._NNP Lon._NNP ,_, 1855_CD ,_, p._FW 8vo_FW ._.
+-LRB-_-LRB- The_DT fourth_JJ edition_NN contains_VBZ a_DT concluding_VBG chapter_NN ,_, bringing_VBG the_DT story_NN down_IN to_TO the_DT death_NN of_IN Paul_NNP Ferroll_NNP ._. -RRB-_-RRB-
+7_CD ._.
+Poems_NNS ._.
+By_IN the_DT Author_NN of_IN ``_`` Paul_NNP Ferroll_NNP ._. ''_''
+Including_VBG a_DT New_NNP Edition_NNP of_IN ``_`` IX_CD Poems_NNP ,_, ''_'' by_IN V._NNP :_: with_IN Former_NNP and_CC Recent_JJ Editions_NNS ._.
+Lon._NNP ,_, 1856_CD ,_, 8vo_CD ._.
+-LRB-_-LRB- Some_DT of_IN the_DT earlier_JJR poems_NNS are_VBP omitted_VBN in_IN this_DT edition_NN -RRB-_-RRB- ._.
+8_CD ._.
+Year_NN after_IN Year_NN ._.
+By_IN the_DT Author_NN of_IN ``_`` Paul_NNP Ferroll_NNP ''_'' and_CC ``_`` IX_CD Poems_NNS ._. ''_''
+Lon._NNP ,_, 1858,12_CD mo._FW ._.
+9_CD ._.
+Why_WRB Paul_NNP Ferroll_NNP Killed_VBD his_PRP$ Wife_NN ,_, Lon._NNP ,_, 1860,12_CD mo._NN ;_: new_JJ ed._FW ,_, 1864_CD ._.
+-LRB-_-LRB- The_DT preface_NN contains_VBZ a_DT defense_NN of_IN ``_`` Paul_NNP Ferroll_NNP ''_'' against_IN some_DT strictures_NNS in_IN the_DT Edinburgh_NNP Review_NNP -RRB-_-RRB- ._.
+10_CD ._.
+John_NNP Greswold_NNP ._.
+By_IN the_DT Author_NN of_IN ``_`` Paul_NNP Ferroll_NNP ._. ''_''
+Lon._NNP ,_, 1864_CD ,_, 2_CD vols_NNS ._.
+p._FW 8vo_FW ._.
+11_CD ._.
+Poems_NNS ._.
+By_IN V._NNP ,_, Author_NN of_IN ``_`` Paul_NNP Ferroll_NNP ._. ''_''
+Including_VBG the_DT ``_`` IX_CD Poems_NNS ._. ''_''
+Lon._NNP ,_, 1872_CD ,_, 8vo_CD ._.
+-LRB-_-LRB- This_DT contains_VBZ twelve_CD new_JJ poems_NNS ,_, but_CC is_VBZ not_RB a_DT complete_JJ edition_NN -RRB-_-RRB- ._.
+``_`` Kirk_NNP ,_, John_NNP Foster_NNP ,_, 1891_CD ,_, A_DT Supplement_NN to_TO Allibone_NNP 's_POS Critical_JJ Dictionary_NNP of_IN English_NNP Literature_NNP ,_, vol_NN ._.
+i._FW p._FW 348_CD ._.
+Poems_NNP Tales_NNS Play_NNP Articles_NNPS On_IN 10_CD November_NNP 1840_CD she_PRP married_VBD the_DT Reverend_NNP Archer_NNP Clive_NNP ,_, son_NN of_IN Edward_NNP Bolton_NNP Clive_NNP and_CC Harriet_NNP Archer_NNP ._.

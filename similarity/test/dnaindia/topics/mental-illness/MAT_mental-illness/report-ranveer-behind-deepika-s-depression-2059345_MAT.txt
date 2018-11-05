@@ -1,0 +1,356 @@
+Remember_VB [PRIV]
+when_RB [WHCL]
+Deepika_NN
+Padukone_NN
+tweeted_VBD
+about_IN
+supporting_VBG
+the_DT
+cause_NN
+of_PIN
+mental_JJ
+illness_NOMZ
+earlier_TIME
+this_DEMO
+year_NN
+?_.
+And_ANDC
+how_RB
+,_,
+she_TPP3
+shared_VBD
+in_PIN
+an_DT
+interview_NN
+that_TOBJ
+she_TPP3
+had_VBD [PEAS]
+been_VBN
+struggling_VBG
+with_PIN
+depression_NN
+for_PIN
+over_IN
+a_DT
+year_NN
+,_,
+how_RB
+she_TPP3
+took_VBD
+medication_NOMZ
+and_CC
+is_VPRT [BEMA]
+much_QUAN
+better_JJ
+now_TIME
+?_.
+Well_DPAR
+,_,
+what_WP
+if_COND
+we_FPP1
+told_VBD
+you_SPP2
+that_DEMO
+it_PIT
+was_VBD
+n't_XX0 [CONT]
+just_EMPH
+Deepika_NN
+who_WP [WHSUB]
+was_VBD
+struggling_VBG
+,_,
+but_CC
+also_RB
+her_TPP3
+beau_NN
+Ranveer_NN
+Singh_NN
+?_.
+A_DT
+source_NN
+close_RB
+to_PIN
+the_DT
+actress_NN
+says_VPRT [PUBV]
+,_,
+``_``
+Deepika_NN
+was_VBD
+suffering_VBG
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+true_PRED
+,_,
+but_CC
+what_WP
+no_SYNE
+one_NN
+knows_VPRT [PRIV]
+is_VPRT
+that_DEMO
+Ranveer_NN
+was_VBD [BEMA]
+the_DT
+one_NN
+who_WP [WHSUB]
+was_VBD [PASS]
+disturbed_VBN
+and_PHC
+was_VBD
+seeking_VBG
+help_NN
+._.
+Deepika_NN
+saw_VBD [PRIV]
+that_THVC
+he_TPP3
+was_VBD
+having_VBG
+a_DT
+tough_JJ
+time_NN
+trying_VBG [WZPRES]
+to_TO
+come_VB
+to_PIN
+terms_NN
+with_PIN
+the_DT
+suicide_NN
+of_PIN
+a_DT
+friend_NN
+,_,
+who_WP
+was_VBD
+dealing_VBG
+with_PIN
+depression_NN
+._.
+The_DT
+friend_NN
+shot_VBD
+himself_TPP3
+last_JJ
+year_NN
+,_,
+minutes_NN
+after_IN
+putting_VBG
+up_RP
+a_DT
+status_NN
+on_PIN
+Facebook_NN
+saying_VBG [PUBV] [THATD] [WZPRES]
+he_TPP3
+was_VBD
+going_VBG
+to_TO
+kill_VB
+himself_TPP3
+._.
+But_CC
+before_IN
+any_QUAN
+of_PIN
+his_TPP3
+family_NN
+members_NN
+or_CC
+friends_NN
+could_POMD
+reach_VB
+him_TPP3
+,_,
+he_TPP3
+had_VBD [PEAS]
+pulled_VBN
+the_DT
+trigger_NN
+._.
+Those_DEMO
+close_NN
+to_PIN
+the_DT
+deceased_JJ
+blamed_VBN
+themselves_TPP3
+for_PIN
+not_XX0
+being_VBG [BEMA]
+able_PRED
+to_TO
+help_VB
+or_CC
+doing_VBG
+enough_RB
+or_CC
+just_EMPH
+being_VBG [BEMA]
+there_RB
+with_PIN
+him_TPP3
+._.
+''_''
+Adds_VPRT [PUBV]
+the_DT
+source_NN
+,_,
+``_``
+Ranveer_NN
+does_VPRT
+n't_XX0 [CONT]
+like_VB
+to_TO
+show_VB [PRIV]
+his_TPP3
+emotions_NOMZ
+in_PIN
+public_JJ
+,_,
+but_CC
+people_NN
+close_RB
+to_PIN
+him_TPP3
+,_,
+especially_RB
+Deepika_NN
+knew_VBD [PRIV] [THATD]
+that_DEMP
+this_DEMO
+tragedy_NN
+had_VBD [PEAS]
+hit_VBN
+him_TPP3
+hard_RB
+._.
+She_TPP3
+saw_VBD [PRIV]
+him_TPP3
+struggle_NN
+with_PIN
+his_TPP3
+grief_NN
+mixed_VBN [WZPAST]
+with_PIN
+guilt_NN
+._.
+He_TPP3
+even_RB
+saw_VBD [PRIV]
+a_DT
+therapist_NN
+for_PIN
+a_DT
+while_OSUB
+._.
+Deepika_NN
+was_VBD [BEMA]
+his_TPP3
+silent_JJ
+support_NN
+at_PIN
+the_DT
+time_NN
+,_,
+and_ANDC
+she_TPP3
+saw_VBD [PRIV]
+first-hand_JJ
+how_RB
+depression_NN
+was_VBD [BEMA]
+a_DT
+serious_JJ
+disorder_NN
+._.
+Perhaps_RB
+that_DEMP
+pushed_VBD
+her_TPP3
+to_TO
+talk_VB
+about_IN
+this_DEMO
+issue_NN
+._.
+No_SYNE
+one_NN
+is_VPRT
+denying_VBG [PUBV]
+that_THVC
+she_TPP3
+too_RB
+perhaps_RB
+was_VBD
+going_VBG
+through_PIN
+the_DT
+same_JJ
+thing_NN
+,_,
+but_CC
+her_TPP3
+decision_NN
+to_TO
+address_VB
+depression_NN
+publicly_RB
+had_VBD
+a_EMPH
+lot_NULL
+to_TO
+do_VB [PROD]
+with_PIN
+Ranveer_NN
+and_CC
+his_TPP3
+friend_NN
+who_WP [WHSUB]
+lost_VBD
+his_TPP3
+life_NN
+to_PIN
+the_DT
+illness_NOMZ
+._.
+''_''
+Whatever_WDT
+the_DT
+cause_NN
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+the_DT
+effect_NN
+that_TSUB
+matters_VPRT
+._.
+Awareness_NOMZ
+,_,
+in_PIN
+this_DEMO
+case_NN
+,_,
+can_POMD
+save_VB
+lives_NN
+._.
+And_ANDC
+that_DEMP
+is_VPRT [BEMA]
+the_DT
+most_EMPH
+important_JJ
+takeaway_NN
+from_PIN
+Deepika_NN
+'s_POS
+admission_NN
+._.

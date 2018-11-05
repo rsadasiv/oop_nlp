@@ -1,0 +1,11 @@
+Richard_NNP Brett_NNP -LRB-_-LRB- 1567_CD ``_`` 1637_CD -RRB-_-RRB- was_VBD an_DT English_JJ clergyman_NN and_CC academic_JJ ._.
+During_IN the_DT translation_NN of_IN the_DT King_NNP James_NNP Version_NNP of_IN the_DT Bible_NNP ,_, Brett_NNP served_VBD in_IN the_DT ``_`` First_JJ Oxford_NNP Company_NN ''_'' ,_, responsible_JJ for_IN the_DT later_JJ books_NNS of_IN the_DT Old_NNP Testament_NNP Born_NNP into_IN the_DT gentry_NN in_IN London_NNP ,_, Brett_NNP attended_VBD Hart_NNP Hall_NNP ,_, Oxford_NNP where_WRB he_PRP entered_VBD as_IN a_DT commoner_NN in_IN 1582_CD ._.
+He_PRP was_VBD appointed_VBN Rector_NNP of_IN Quainton_NNP ,_, Buckinghamshire_NNP ,_, in_IN 1595_CD ._.
+That_DT same_JJ year_NN ,_, he_PRP was_VBD granted_VBN a_DT Fellowship_NNP in_IN Lincoln_NNP College_NNP under_IN Richard_NNP Kilby_NNP ,_, where_WRB he_PRP pursued_VBD his_PRP$ study_NN of_IN Latin_NNP ,_, Greek_JJ ,_, Aramaic_JJ ,_, Arabic_NNP ,_, Hebrew_NNP ,_, and_CC Ge'ez_NNP -LRB-_-LRB- Ethiopic_NNP -RRB-_-RRB- tongues_NNS ._.
+In_IN 1597_CD he_PRP was_VBD admitted_VBN bachelor_NN of_IN divinity_NN ,_, and_CC he_PRP proceeded_VBD in_IN divinity_NN in_IN 1605_CD ._.
+He_PRP died_VBD in_IN Quainton_NNP on_IN 5_CD April_NNP 1637_CD ,_, aged_VBN 70_CD ,_, and_CC is_VBZ buried_VBN in_IN the_DT chancel_NN of_IN Quainton_NNP Church_NNP ,_, which_WDT he_PRP served_VBD for_IN 43_CD years_NNS ._.
+Over_IN his_PRP$ grave_NN a_DT monument_NN with_IN his_PRP$ effigies_NNS and_CC a_DT Latin_NNP and_CC English_NNP epitaph_NN was_VBD erected_VBN by_IN his_PRP$ widow_NN ._.
+By_IN his_PRP$ wife_NN Alice_NNP ,_, daughter_NN of_IN Richard_NNP Brown_NNP ,_, sometime_RB mayor_NN of_IN Oxford_NNP ,_, he_PRP left_VBD four_CD daughters_NNS ,_, of_IN whom_WP Margaret_NNP married_JJ Calybute_NNP Downing_NNP in_IN 1627_CD ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- His_PRP$ scholarly_JJ publications_NNS were_VBD in_IN Latin_NNP :_: This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: ``_`` Brett_NNP ,_, Richard_NNP ''_'' ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP 1885_CD ``_`` 1900_CD ._.

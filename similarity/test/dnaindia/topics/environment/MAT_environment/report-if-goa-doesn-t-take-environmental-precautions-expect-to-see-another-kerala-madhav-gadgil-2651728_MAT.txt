@@ -1,0 +1,503 @@
+Noted_VBN [PRIV]
+ecologist_NN
+Madhav_NN
+Gadgil_NN
+has_VPRT [PEAS]
+warned_VBN [PUBV] [THATD]
+Goa_NN
+may_POMD
+face_VB
+the_DT
+same_JJ
+fate_NN
+as_IN
+the_DT
+flood-battered_JJ
+Kerala_NN
+if_COND
+it_PIT
+does_VPRT
+not_XX0
+take_VB
+precautions_NOMZ
+on_PIN
+the_DT
+environmental_JJ
+front_NN
+._.
+Like_IN
+in_PIN
+some_QUAN
+other_JJ
+states_NN
+,_,
+Goa_NN
+,_,
+too_RB
+,_,
+is_VPRT
+witnessing_VBG
+activities_NOMZ
+which_WDT [WHSUB]
+are_VPRT [BYPA]
+driven_VBN
+by_PIN
+greed_NN
+for_PIN
+unlimited_JJ
+profits_NN
+,_,
+said_VBD [PUBV]
+Gadgil_NN
+,_,
+who_WP
+headed_VBD
+a_DT
+committee_NN
+that_TSUB
+authored_VBD
+a_DT
+widely_RB
+debated_VBN
+study_NN
+on_PIN
+the_DT
+Western_JJ
+Ghats_NN
+a_DT
+few_QUAN
+years_NN
+ago_RB
+._.
+``_``
+Certainly_RB
+all_QUAN
+sorts_NN
+of_PIN
+problems_NN
+are_VPRT
+beginning_VBG
+to_TO
+surface_VB
+on_PIN
+the_DT
+environmental_JJ
+front_NN
+in_PIN
+the_DT
+Western_JJ
+Ghats_NN
+._.
+Goa_NN
+,_,
+of_PIN
+course_NN
+,_,
+does_VPRT
+not_XX0
+have_VB
+Western_JJ
+Ghats_NN
+which_WDT [WHSUB]
+are_VPRT [BEMA]
+so_EMPH
+high_PRED
+as_IN
+in_PIN
+Kerala_NN
+,_,
+but_CC
+I_FPP1
+am_VPRT [BEMA]
+sure_JJ
+Goa_NN
+will_PRMD [SPAU]
+also_RB
+experience_VB
+all_QUAN
+sorts_NN
+of_PIN
+problems_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+,_,
+reacting_VBG [PRESP]
+to_PIN
+the_DT
+worst-ever_NN
+floods_NN
+in_PIN
+the_DT
+southern_JJ
+state_NN
+._.
+He_TPP3
+said_VBD [PUBV]
+thereason_NN
+for_PIN
+not_XX0
+taking_VBG
+any_QUAN
+environmental_JJ
+precaution_NOMZ
+-LRB-_-LRB-
+in_PIN
+general_JJ
+-RRB-_-RRB-
+is_VPRT
+purely_RB
+greed_NN
+for_PIN
+unlimited_JJ
+profits_NN
+._.
+``_``
+You_SPP2
+have_VPRT [PEAS]
+seen_VBN [PRIV]
+it_PIT
+in_PIN
+Goa_NN
+too_RB
+._.
+The_DT
+Union_NN
+government_NOMZ
+-_:
+constituted_VBD
+Justice_NN
+M_NN
+B_NN
+Shah_NN
+commission_NN
+has_VPRT [PEAS]
+estimated_VBN [PRIV]
+illegal_JJ
+profits_NN
+of_PIN
+Rs_NN
+35,000_CD
+crore_NN
+from_PIN
+illegal_JJ
+mining_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+``_``
+There_EX
+is_VPRT
+also_RB
+enormous_JJ
+profit_NN
+in_PIN
+the_DT
+business_NOMZ
+of_PIN
+stone_NN
+quarrying_VBG [WZPRES]
+while_OSUB
+there_EX
+is_VPRT
+very_AMP
+little_JJ
+investment_NOMZ
+,_,
+''_''
+he_TPP3
+added_VBD [PUBV]
+while_OSUB
+talking_VBG
+about_IN
+rampant_JJ
+hill_NN
+in_PIN
+the_DT
+Western_JJ
+Ghats_NN
+._.
+``_``
+The_DT
+greed_NN
+for_PIN
+enormous_JJ
+profits_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+allowed_VBN [SUAV]
+to_TO
+go_VB
+on_PIN
+unchecked_JJ
+,_,
+which_WDT [SERE]
+has_VPRT [SPAU] [PEAS]
+actually_RB
+worsened_VBN
+economic_JJ
+disparity_NOMZ
+in_PIN
+the_DT
+society_NN
+._.
+``_``
+So_RB
+now_TIME
+those_DEMP
+who_WP
+are_VPRT
+making_VBG
+money_NN
+through_PIN
+these_DEMO
+means_NN
+are_VPRT
+even_RB
+more_EMPH
+effective_JJ
+in_PIN
+getting_VBG
+the_DT
+government_NOMZ
+allow_VB [SUAV]
+this_DEMO
+kind_NN
+of_PIN
+rampant_JJ
+illegal_JJ
+behavior_NN
+,_,
+''_''
+Gadgil_NN
+said_VBD [PUBV]
+._.
+The_DT
+ecologist_NN
+said_VBD [PUBV] [THATD]
+governments_NOMZ
+have_VB [PEAS]
+been_VBN [BEMA]
+lax_PRED
+on_PIN
+implementing_VBG
+environmental_JJ
+norms_NN
+._.
+``_``
+The_DT
+central_JJ
+government_NOMZ
+is_VPRT [SPAU]
+actually_RB
+bending_VBG
+over_IN
+backwards_RB
+to_TO
+make_VB
+sure_JJ
+the_DT
+National_NN
+Green_NN
+Tribunal_NN
+does_VPRT
+not_XX0
+function_VB
+properly_RB
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Gadgil_NN
+had_VBD [PEAS]
+done_VBN [PROD]
+extensive_JJ
+study_NN
+on_PIN
+Goa_NN
+'s_POS
+environment_NOMZ
+based_VBN [WZPAST]
+on_PIN
+the_DT
+data_NN
+provided_VBN [WZPAST]
+by_PIN
+iron_NN
+ore_NN
+mining_NN
+companies_NN
+in_PIN
+their_TPP3
+Environment_NOMZ
+Impact_NN
+Assessment_NOMZ
+-LRB-_-LRB-
+EIA_NN
+-RRB-_-RRB-
+reports_NN
+in_PIN
+2011_CD
+._.
+He_TPP3
+had_VBD [SPAU] [PEAS]
+then_RB
+said_VBD [PUBV]
+the_DT
+mining_NN
+companies_NN
+submitted_VBD [PUBV]
+false_JJ
+information_NOMZ
+in_PIN
+their_TPP3
+EIA_NN
+reports_NN
+._.
+``_``
+In_PIN
+Goa_NN
+,_,
+they_TPP3
+had_VBD [PEAS]
+asked_VBN [SUAV]
+me_FPP1
+to_TO
+look_VB
+into_PIN
+the_DT
+impact_NN
+of_PIN
+mining_NN
+on_PIN
+environment_NOMZ
+._.
+Every_QUAN
+EIA_NN
+suppressed_VBD
+fact_NN
+about_IN
+hydrological_JJ
+impact_NN
+of_PIN
+mining_NN
+,_,
+''_''
+the_DT
+73-year-old_JJ
+expert_NN
+said_VBD [PUBV]
+._.
+``_``
+On_PIN
+`_``
+sadas_NN
+'_POS
+-LRB-_-LRB-
+plains_NN
+-RRB-_-RRB-
+of_PIN
+Goa_NN
+there_EX
+are_VPRT
+a_EMPH
+lot_NULL
+of_PIN
+streams_NN
+which_WDT [WHSUB]
+are_VPRT
+originating_VBG
+but_CC
+they_TPP3
+dont_VPRT
+mention_VB [PUBV]
+about_IN
+them_TPP3
+in_PIN
+their_TPP3
+EIA_NN
+reports_NN
+._.
+All_QUAN
+kind_NN
+of_PIN
+false_JJ
+statements_NOMZ
+are_VPRT [PASS]
+made_VBN
+in_PIN
+these_DEMO
+reports_NN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+._.
+Gadgil_NN
+had_VBD [PEAS]
+headed_VBN
+the_DT
+Western_JJ
+Ghats_NN
+Ecology_NN
+Expert_NN
+Panel_NN
+-LRB-_-LRB-
+WGEEP_NN
+-RRB-_-RRB-
+set_VBN
+up_RP
+by_PIN
+the_DT
+government_NOMZ
+._.
+The_DT
+WGEEP_NN
+,_,
+in_PIN
+its_PIT
+2011_CD
+report_NN
+,_,
+had_VBD [PEAS]
+recommended_VBN [SUAV]
+that_THVC
+several_QUAN
+areas_NN
+in_PIN
+Kerala_NN
+which_WDT [WHSUB]
+come_VPRT
+under_IN
+the_DT
+Western_JJ
+Ghats_NN
+be_VB [PASS]
+classified_VBN
+as_IN
+ecologically_RB
+sensitive_JJ
+._.
+The_DT
+panel_NN
+had_VBD [PEAS]
+recommended_VBN [SUAV]
+strict_JJ
+curbs_NN
+on_PIN
+mining_NN
+and_CC
+quarrying_VBG
+and_CC
+on_PIN
+use_NN
+of_PIN
+land_NN
+for_PIN
+non-forest_JJ
+purposes_NN
+._.

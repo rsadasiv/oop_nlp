@@ -1,0 +1,116 @@
+From_IN :_: Vineetha_NNP Mokkil_NNP <vmokkil@gmail.com>_NNP Date_NNP :_: 20_CD October_NNP 2015_CD at_IN 10:42_CD Subject_NNP :_: submission_NN To_TO :_: Indira_NNP Chandrasekhar_NNP <outofprintmagazine@gmail.com>_NNP \*_SYM Author_NN bio_NN \*_SYM :_: Vineetha_NNP Mokkil_NNP is_VBZ a_DT writer_NN currently_RB based_VBN in_IN New_NNP Delhi_NNP ,_, India_NNP ._.
+She_PRP is_VBZ the_DT author_NN of_IN the_DT collection_NN ,_, oeA_NNP Happy_JJ Place_NNP and_CC Other_JJ Stories_NNP ''_'' -LRB-_-LRB- HarperCollins_NNP ,_, April_NNP 2014_CD -RRB-_-RRB- ._.
+She_PRP writes_VBZ a_DT monthly_JJ column_NN on_IN oe_NN writing_NN ''_'' for_IN Litro_NNP Magazine_NNP ,_, USA_NNP ._.
+Her_PRP$ stories_NNS have_VBP appeared_VBN in_IN publications_NNS including_VBG the_DT Santa_NNP Fe_NNP Writers_NNP Project_NNP Journal_NNP ;_: The_DT North_NNP East_NNP Review_NNP ,_, The_DT Missing_NNP Slate_NNP ;_: and_CC Cha_NNP :_: an_DT Asian_JJ Literary_NNP Journal_NNP ._.
+Her_PRP$ first_JJ novel_NN is_VBZ in_IN the_DT pipeline_NN ._.
+\*_SYM Across_IN the_DT Water_NNP \*_SYM \*_SYM Vineetha_NNP Mokkil_NNP \*_SYM There_EX are_VBP two_CD possible_JJ endings_NNS to_TO her_PRP$ story_NN :_: she_PRP gets_VBZ out_IN of_IN the_DT boat_NN alive_JJ and_CC breathes_NNS in_IN the_DT scent_NN of_IN a_DT new_JJ day_NN ,_, a_DT new_JJ life_NN ._.
+Or_CC she_PRP doesn_VBZ <sup>_JJ TM_NNP </sup>_NNP t._NNP She_PRP knows_VBZ this_DT when_WRB she_PRP steps_VBZ on_IN the_DT boat_NN with_IN her_PRP$ father_NN ,_, uncle_NN ,_, aunt_NN and_CC cousin_NN ._.
+It_PRP is_VBZ a_DT gamble_NN they_PRP have_VBP to_TO take_VB ._.
+The_DT boat_NN could_MD ferry_VB them_PRP across_IN the_DT sea_NN or_CC dump_VB them_PRP in_IN the_DT freezing_NN depths_NNS where_WRB fishes_VBZ dive_NN like_IN synchronized_VBN swimmers_NNS ._.
+They_PRP will_MD see_VB Sameera_NNP flail_NN around_IN and_CC drift_VB past_JJ her_PRP$ without_IN blinking_RB ._.
+Schools_NNS of_IN fish_NN will_MD watch_VB her_PRP drown_VB ,_, perhaps_RB not_RB unkindly_RB ._.
+She_PRP thinks_VBZ of_IN them_PRP as_IN gentle_JJ creatures_NNS ._.
+The_DT underwater_JJ world_NN has_VBZ rules_NNS :_: not_RB even_RB sharks_NNS kill_VBP for_IN sport_NN ._.
+The_DT boat_NN started_VBD up_RP with_IN a_DT low_JJ ,_, menacing_VBG growl_NN ._.
+Sameera_NNP huddled_VBD under_IN a_DT blanket_NN with_IN her_PRP$ cousin_NN ,_, wishing_VBG she_PRP had_VBD not_RB hidden_VBN in_IN her_PRP$ bedroom_NN two_CD summers_NNS ago_RB when_WRB her_PRP$ uncle_NN had_VBD offered_VBN to_TO give_VB her_PRP$ swimming_NN lessons_NNS ._.
+She_PRP had_VBD been_VBN a_DT coward_NN at_IN 10_CD ''_'' afraid_JJ of_IN the_DT water_NN ,_, scared_VBN to_TO step_VB out_IN of_IN the_DT house_NN after_IN dark_JJ ,_, always_RB on_IN the_DT lookout_NN for_IN an_DT excuse_NN to_TO crawl_VB into_IN bed_NN with_IN her_PRP$ parents_NNS at_IN night_NN ._.
+oeYou_NNP <sup>_NNP TM_NNP </sup>_NNP re_VBD not_RB a_DT baby_NN now_RB ,_, baby_NN ''_'' Ammi_NNP would_MD laugh_NN ,_, gathering_VBG her_PRP$ in_IN her_PRP$ arms_NNS ._.
+Ammi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ embrace_VB was_VBD the_DT warmest_JJS ,_, safest_JJS place_NN in_IN the_DT world_NN ._.
+But_CC that_IN place_NN now_RB existed_VBD only_RB in_IN Sameera_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ dreams_NNS ._.
+It_PRP was_VBD gone_VBN ''_'' smashed_VBD to_TO rubble_NN by_IN gunfire_NN and_CC missiles_NNS and_CC stealthy_JJ drones_NNS ._.
+Ammi_NNP and_CC her_PRP$ friends_NNS were_VBD out_RB in_IN the_DT backyard_NN when_WRB the_DT drone_NN swooped_VBD down_RP from_IN the_DT sky_NN on_IN a_DT summer_NN day_NN ._.
+The_DT sky_NN glittered_VBN and_CC there_RB wasn_VB <sup>_JJ TM_NNP </sup>_NNP t_VBD a_DT cloud_NN in_IN the_DT blue_JJ ._.
+Ammi_NNP was_VBD out_IN there_RB plucking_VBG olives_NNS ._.
+She_PRP carried_VBD her_PRP$ favorite_JJ cane_NN basket_NN in_IN her_PRP$ hand_NN and_CC once_IN it_PRP was_VBD full_JJ ,_, she_PRP would_MD come_VB back_RB into_IN the_DT house_NN ,_, feed_VB her_PRP$ friends_NNS lunch_NN ,_, and_CC get_VB around_IN to_TO pickling_VBG the_DT olives_NNS ._.
+It_PRP started_VBD off_RP as_IN an_DT ordinary_JJ day_NN ,_, that_IN blood-soaked_JJ April_NNP noon_NN ._.
+Nothing_NN had_VBD prepared_VBN Abba_NNP and_CC Sameera_NNP for_IN it_PRP ''_'' no_DT omens_NNS or_CC signs_NNS ,_, no_DT word_NN of_IN warning_VBG from_IN the_DT Almighty_NNP ,_, not_RB even_RB a_DT dark_JJ cloud_NN in_IN the_DT sky_NN to_TO announce_VB the_DT arrival_NN of_IN the_DT murderous_JJ drone_NN ._.
+oeAre_NNP you_PRP ok_VBP ?_. ''_''
+Ahmed_NNP asked_VBD ,_, peering_VBG into_IN her_PRP$ face_NN from_IN under_IN the_DT blanket_NN they_PRP shared_VBD ._.
+Her_PRP$ cousin_NN was_VBD only_RB a_DT year_NN older_JJR than_IN her_PRP$ but_CC he_PRP enjoyed_VBD playing_VBG big_JJ brother_NN ._.
+oeSameera_NNP ,_, don_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD go_VB out_RP alone_RB ._. ''_''
+oeSameera_NNP ,_, you_PRP talk_VBP too_RB much_JJ for_IN a_DT girl_NN ._.
+Don_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD crack_NN jokes_NNS ._.
+Watch_NNP your_PRP$ tongue_NN ._. ''_''
+Ahmed_NNP was_VBD always_RB trying_VBG to_TO boss_NN her_PRP$ around_IN ._.
+He_PRP won_VBD all_PDT the_DT track_NN and_CC field_NN championships_NNS at_IN school_NN but_CC his_PRP$ grades_NNS were_VBD pathetic_JJ ._.
+At_IN the_DT end_NN of_IN every_DT school_NN term_NN ,_, his_PRP$ father_NN compared_VBN Ahmed_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ report_NN card_NN to_TO Sameera_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ and_CC wept_VBD ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD worry_NN ,_, uncle_NN ,_, ''_'' Sameera_NNP consoled_VBD him_PRP ,_, making_VBG sure_JJ Ahmed_NNP was_VBD within_IN earshot_NN ._.
+oeI_NNP <sup>_NNP TM_NNP </sup>_NNP ll_NN help_NN him_PRP with_IN his_PRP$ homework_NN ''_'' ._.
+No_DT wonder_NN Ahmed_NNP hated_VBD her_PRP ._.
+His_PRP$ track_NN and_CC field_NN glory_NN was_VBD eclipsed_VBN by_IN her_PRP$ stuffy_JJ academic_JJ feats_NNS ._.
+oeIf_NNP a_DT missile_NN hits_VBZ our_PRP$ town_NN ,_, I_PRP <sup>_VBP TM_NNP </sup>_NNP ll_NN be_VB the_DT first_JJ to_TO run_VB to_TO safety_NN ,_, ''_'' he_PRP liked_VBD to_TO boast_VB ,_, pointing_VBG at_IN the_DT shiny_JJ trophies_NNS on_IN his_PRP$ shelf_NN ._.
+oeYour_NN nose_NN will_MD be_VB buried_VBN in_IN a_DT book_NN and_CC you_PRP won_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD even_RB notice_VB if_IN the_DT whole_JJ place_NN blows_NNS up_RB ._. ''_''
+Ahmed_VBN couldn_NN <sup>_NN TM_NNP </sup>_NNP t_VBD run_VBN to_TO safety_NN when_WRB the_DT fighting_NN started_VBD ._.
+There_EX was_VBD nowhere_RB to_TO run_VB to_TO ._.
+The_DT missiles_NNS pounded_VBD houses_NNS and_CC offices_NNS and_CC reduced_VBD their_PRP$ home_NN to_TO a_DT ghost_NN town_NN ._.
+Gunshots_NNS rang_VBD out_RP day_NN and_CC night_NN like_IN one_CD long_RB ,_, endless_JJ boom_NN ._.
+The_DT air_NN reeked_VBD of_IN smoke_NN and_CC death_NN ._.
+The_DT stench_NN was_VBD unbearable_JJ ._.
+Sameera_NNP thought_VBD she_PRP would_MD go_VB mad_JJ ._.
+The_DT drone_NN had_VBD snatched_VBN Ammi_NNP away_RB and_CC Abba_NNP had_VBD aged_VBN ten_CD years_NNS since_IN that_DT day_NN ._.
+His_PRP$ hair_NN had_VBD turned_VBN white_JJ ,_, his_PRP$ cheeks_NNS were_VBD sunken_JJ ,_, and_CC a_DT hunted_VBN look_NN was_VBD etched_VBN on_IN his_PRP$ face_NN permanently_RB ._.
+He_PRP was_VBD lost_VBN without_IN Ammi_NNP and_CC Sameera_NNP felt_VBD him_PRP drifting_VBG farther_RB and_CC farther_RB away_RB ._.
+It_PRP was_VBD her_PRP$ uncle_NN who_WP decided_VBD it_PRP was_VBD time_NN for_IN them_PRP to_TO leave_VB ._.
+Abba_NNP was_VBD too_RB confused_VBN by_IN sorrow_NN to_TO see_VB things_NNS clearly_RB ._.
+He_PRP didn_VBZ <sup>_JJ TM_NNP </sup>_NNP t_NN have_VBP the_DT energy_NN to_TO make_VB arrangements_NNS to_TO get_VB them_PRP on_IN a_DT boat_NN ._.
+Everyone_NN they_PRP knew_VBD was_VBD looking_VBG for_IN a_DT way_NN out_RP ._.
+There_EX were_VBD too_RB many_JJ desperate_JJ people_NNS around_IN and_CC too_RB few_JJ boats_NNS ._.
+The_DT agents_NNS gauged_VBD the_DT measure_NN of_IN the_DT town_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ need_NN and_CC put_VBD a_DT price_NN on_IN it_PRP ._.
+They_PRP were_VBD sure_JJ that_IN if_IN Sameera_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ family_NN didn_NN <sup>_VBD TM_NNP </sup>_NNP t_JJ cough_NN up_IN the_DT exorbitant_JJ sum_NN they_PRP demanded_VBD someone_NN else_RB would_MD ._.
+The_DT competition_NN to_TO get_VB on_IN the_DT boats_NNS was_VBD cutthroat_JJ even_RB if_IN the_DT whole_JJ town_NN knew_VBD there_EX was_VBD no_DT guarantee_NN of_IN safety_NN ,_, not_RB an_DT iota_NN of_IN surety_NN how_WRB the_DT journey_NN would_MD end_VB ._.
+Sameera_NNP found_VBD a_DT way_NN to_TO get_VB used_VBN to_TO the_DT boat_NN <sup>_VBZ TM_NNP </sup>_NNP s_VBZ sudden_JJ movements_NNS ._.
+She_PRP let_VBD her_PRP body_NN move_NN with_IN it_PRP like_IN she_PRP was_VBD dancing_VBG to_TO a_DT tune_NN ._.
+The_DT sea_NN set_VBD the_DT tune_NN ,_, the_DT boat_NN followed_VBD the_DT beat_NN ,_, and_CC Sameera_NNP gave_VBD in_IN to_TO the_DT rhythm_NN without_IN complaining_VBG ._.
+She_PRP breathed_VBD in_IN the_DT wet_JJ ,_, salty_JJ air_NN and_CC watched_VBD the_DT stars_NNS draw_VBP strange_JJ patterns_NNS in_IN the_DT sky_NN ._.
+Abba_NNP and_CC her_PRP$ uncle_NN were_VBD talking_VBG to_TO each_DT other_JJ in_IN whispers_NNS ._.
+She_PRP couldn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD follow_VB what_WP they_PRP were_VBD saying_VBG but_CC the_DT sound_NN of_IN their_PRP$ voices_NNS was_VBD a_DT familiar_JJ comfort_NN ._.
+oeSo_NNP you_PRP think_VBP you_PRP <sup>_VB TM_NNP </sup>_NNP ll_NN be_VB first_RB in_IN class_NN when_WRB we_PRP join_VBP a_DT new_JJ school_NN ?_. ''_''
+Ahmed_VBN hissed_VBN in_IN her_PRP$ ear_NN ._.
+He_PRP tugged_VBD at_IN her_PRP$ necklace_NN to_TO get_VB her_PRP$ attention_NN ._.
+He_PRP had_VBD short_JJ ,_, stubby_JJ fingers_NNS and_CC he_PRP had_VBD forgotten_VBN to_TO cut_VB his_PRP$ nails_NNS before_IN getting_VBG on_IN the_DT boat_NN ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD break_NN it_PRP ,_, ''_'' Sameera_NNP rolled_VBD her_PRP$ eyes_NNS at_IN him_PRP ._.
+oeIt_NNP was_VBD Ammi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ favorite_JJ and_CC she_PRP gave_VBD it_PRP to_TO me_PRP ''_'' ._.
+She_PRP had_VBD seen_VBN Abba_NNP staring_VBG at_IN the_DT necklace_NN when_WRB they_PRP stepped_VBD out_IN of_IN the_DT house_NN ._.
+He_PRP must_MD remember_VB how_WRB beautiful_JJ it_PRP used_VBD to_TO look_VB when_WRB it_PRP was_VBD clasped_VBN around_IN Ammi_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ slender_JJR neck_NN ._.
+oeSorry_NNP ,_, ''_'' Ahmed_NNP said_VBD in_IN a_DT gruff_JJ voice_NN ._.
+He_PRP opened_VBD his_PRP$ mouth_NN to_TO say_VB something_NN more_RBR and_CC then_RB he_PRP shut_VBD up_RP ._.
+Her_PRP$ cousin_NN was_VBD a_DT pain_NN in_IN the_DT neck_NN but_CC he_PRP had_VBD his_PRP$ moments_NNS ._.
+He_PRP could_MD be_VB a_DT decent_JJ human_JJ being_VBG one_CD day_NN if_IN he_PRP worked_VBD a_DT little_JJ harder_JJR on_IN it_PRP ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD worry_NN ,_, ''_'' Sameera_NNP said_VBD ,_, keeping_VBG her_PRP$ eyes_NNS on_IN the_DT stars_NNS ._.
+oeI_NNP <sup>_NNP TM_NNP </sup>_NNP m_NN going_VBG to_TO be_VB first_RB in_IN class_NN ._.
+New_NNP school_NN ,_, old_JJ school_NN -_: all_PDT the_DT same_JJ to_TO me_PRP ''_'' oeNew_NNP school_NN ,_, old_JJ school_NN ,_, ''_'' Ahmed_NNP mimicked_VBD her_PRP$ in_IN a_DT nasal_JJ voice_NN ._.
+oeI_NNP <sup>_NNP TM_NNP </sup>_NNP m_NN always_RB first_RB in_IN class_NN ''_'' oeShut_VB up_RP ,_, ''_'' she_PRP said_VBD ,_, poking_VBG him_PRP in_IN the_DT ribs_NNS ._.
+oeLook_NNP at_IN the_DT stars_NNS up_IN there_RB ._.
+They_PRP <sup>_VBP TM_NNP </sup>_NNP re_VBD so_RB pretty_RB ''_'' oeHmm_NNP ..._: ''_'' he_PRP grunted_VBD ,_, pulling_VBG up_RP the_DT blanket_NN over_IN his_PRP$ face_NN ._.
+oeI_NNP <sup>_NNP TM_NNP </sup>_NNP m_NN going_VBG to_TO sleep_VB ''_'' She_PRP fell_VBD asleep_RB faster_RBR that_IN she_PRP thought_VBD ._.
+It_PRP was_VBD almost_RB daybreak_NN when_WRB she_PRP opened_VBD her_PRP$ eyes_NNS ._.
+Pale_NNP light_JJ bounced_VBD off_RP the_DT water_NN ._.
+She_PRP saw_VBD the_DT shore_NN in_IN the_DT distance_NN ''_'' land_NN ,_, like_IN a_DT mirage_NN ,_, shimmering_JJ before_IN her_PRP$ eyes_NNS ._.
+She_PRP wanted_VBD to_TO lean_VB over_IN the_DT railing_NN and_CC touch_VB it_PRP ._.
+Grasp_VB the_DT future_NN with_IN both_DT hands_NNS and_CC make_VB sure_JJ it_PRP never_RB slipped_VBD away_RB from_IN her_PRP$ embrace_VB ._.
+The_DT boat_NN started_VBD to_TO rock_VB from_IN side_NN to_TO side_VB like_IN a_DT sapling_NN in_IN the_DT wind_NN ._.
+oeDon_NNP <sup>_NNP TM_NNP </sup>_NNP t_VBD worry_NN ,_, ''_'' Ahmed_VBN shouted_VBD ,_, raising_VBG his_PRP$ voice_NN to_TO outshout_VB the_DT wind_NN ._.
+oeIt_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ nothing_NN ._.
+We_PRP <sup>_VBP TM_NNP </sup>_NNP re_VBD almost_RB there_RB ._. ''_''
+She_PRP reached_VBD out_RP for_IN his_PRP$ hand_NN and_CC they_PRP stood_VBD shoulder_NN to_TO shoulder_VB ,_, trying_VBG to_TO keep_VB their_PRP$ balance_NN while_IN the_DT sea_NN and_CC the_DT wind_NN ganged_VBD up_RP on_IN the_DT boat_NN ._.
+The_DT boat_NN was_VBD too_RB old_JJ to_TO put_VB up_RP a_DT fight_NN ._.
+It_PRP sank_VBD with_IN a_DT shudder_NN ._.
+The_DT water_NN was_VBD so_RB cold_JJ it_PRP made_VBD her_PRP$ scream_NN when_WRB she_PRP hit_VBD it_PRP and_CC the_DT cry_NN sucked_VBD all_PDT the_DT air_NN out_IN of_IN her_PRP$ lungs_NNS and_CC she_PRP felt_VBD herself_PRP sinking_VBG fast_RB ._.
+The_DT sea_NN was_VBD everywhere_RB ''_'' above_IN ,_, below_IN ,_, and_CC around_IN her_PRP ._.
+Ahmed_NNP had_VBD drifted_VBN away_RB from_IN her_PRP$ and_CC she_PRP tried_VBD to_TO call_VB out_RP to_TO him_PRP and_CC to_TO Abba_NNP and_CC her_PRP$ uncle_NN and_CC aunt_NN ._.
+The_DT water_NN muffled_VBD her_PRP$ cries_VBZ ._.
+It_PRP dragged_VBD her_PRP$ down_RP like_IN a_DT brutish_JJ hand_NN she_PRP couldn_VBD <sup>_JJ TM_NNP </sup>_NNP t_VBD fight_NN ._.
+She_PRP kept_VBD thrashing_VBG around_RB ,_, looking_VBG for_IN something_NN to_TO hold_VB on_RP to_TO ''_'' passing_VBG flotsam_NN ,_, wreckage_NN from_IN the_DT boat_NN ,_, a_DT piece_NN of_IN rubble_NN to_TO keep_VB her_PRP$ afloat_RB till_IN she_PRP was_VBD found_VBN ._.
+The_DT water_NN was_VBD ice_NN cold_NN ,_, it_PRP left_VBD her_PRP$ numb_JJ ._.
+She_PRP couldn_VBP <sup>_JJ TM_NNP </sup>_NNP t_VBD feel_VB her_PRP$ arms_NNS and_CC her_PRP$ feet_NNS ._.
+Her_PRP$ teeth_NNS were_VBD chattering_VBG ._.
+Her_PRP$ blood_NN froze_VBD ._.
+oeNew_NNP school_NN ,_, old_JJ school_NN ,_, ''_'' Ahmed_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ nasal_JJ chant_NN rang_VBD out_RP in_IN her_PRP$ ears_NNS ._.
+She_PRP heard_VBD his_PRP$ voice_NN ,_, the_DT sound_NN of_IN his_PRP$ laughter_NN drifting_VBG towards_IN her_PRP$ in_IN the_DT wind_NN ._.
+oeAhmed_VBN ?_. ''_''
+she_PRP called_VBD out_RP his_PRP$ name_NN ,_, hoping_VBG he_PRP could_MD hear_VB her_PRP ._.
+oeAhmed_NNP ,_, is_VBZ that_IN you_PRP ?_. ''_''
+oeAre_NNP you_PRP going_VBG to_TO be_VB first_RB in_IN class_NN in_IN the_DT new_JJ school_NN ?_. ''_''
+he_PRP asked_VBD ,_, raising_VBG his_PRP$ voice_NN to_TO outshout_VB the_DT storm_NN ._.
+oeNew_NNP school_NN ..._: old_JJ school_NN ..._: all_PDT the_DT same_JJ to_TO me_PRP ,_, ''_'' she_PRP chanted_VBD ,_, flapping_VBG her_PRP$ arms_NNS like_IN a_DT bird_NN about_IN to_TO take_VB flight_NN ._.
+END_NN

@@ -1,0 +1,24 @@
+Ralph_NNP Bates_NNP -LRB-_-LRB- 3_CD November_NNP 1899_CD ''_'' 26_CD November_NNP 2000_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN ,_, writer_NN ,_, journalist_NN and_CC political_JJ activist_NN ._.
+He_PRP is_VBZ best_RB known_VBN for_IN his_PRP$ writings_NNS on_IN pre_NN ``_`` Civil_NNP War_NNP Spain_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Bates_NNP was_VBD born_VBN in_IN Swindon_NNP ,_, England_NNP in_IN 1899_CD and_CC as_IN a_DT teenager_NN worked_VBD at_IN the_DT Great_NNP Western_NNP Railway_NNP factory_NN ._.
+In_IN 1917_CD ,_, he_PRP enlisted_VBD in_IN the_DT British_JJ Army_NNP and_CC served_VBD in_IN World_NNP War_NNP I_NNP ,_, training_NN soldiers_NNS to_TO prepare_VB for_IN poison_NN gas_NN attacks_NNS ._.
+After_IN returning_VBG from_IN the_DT war_NN ,_, he_PRP began_VBD to_TO travel_VB ,_, to_TO France_NNP and_CC then_RB ,_, in_IN 1923_CD ,_, to_TO Spain_NNP ,_, where_WRB he_PRP had_VBD wanted_VBN to_TO visit_VB since_IN boyhood_NN -LRB-_-LRB- his_PRP$ great-grandfather_NN ,_, a_DT steamer_JJR captain_NN ,_, was_VBD buried_VBN in_IN Cadiz_NNP -RRB-_-RRB- ._.
+He_PRP stayed_VBD in_IN the_DT country_NN permanently_RB from_IN then_RB on_IN ,_, traveling_VBG and_CC doing_VBG odd_JJ jobs_NNS ._.
+He_PRP published_VBD his_PRP$ first_JJ work_NN ,_, Sierra_NNP ,_, a_DT collection_NN of_IN short_JJ stories_NNS ,_, in_IN 1933_CD ;_: in_IN 1934_CD ,_, a_DT novel_NN ,_, Lean_VB Men_NN ._.
+When_WRB the_DT Spanish_NNP Civil_NNP War_NNP began_VBD in_IN 1936_CD ,_, Bates_NNP enlisted_VBD with_IN the_DT government_NN forces_NNS and_CC made_VBN rank_NN of_IN political_JJ commissar_NN ._.
+He_PRP helped_VBD to_TO organize_VB the_DT International_NNP Brigade_NNP ._.
+Later_RB that_DT year_NN he_PRP traveled_VBD to_TO the_DT United_NNP States_NNPS to_TO raise_VB awareness_NN of_IN the_DT plight_NN of_IN the_DT Spanish_JJ Republic_NNP ._.
+The_DT year_NN also_RB saw_VBD the_DT publication_NN of_IN Bates_NNP 's_POS best-known_JJ work_NN ,_, The_DT Olive_NNP Field_NNP ,_, about_IN olive_JJ workers_NNS in_IN southern_JJ Spain_NNP ._.
+The_DT book_NN received_VBD good_JJ critical_JJ notices_NNS in_IN the_DT United_NNP States_NNPS ._.
+For_IN such_JJ writing_NN ,_, Bates_NNP has_VBZ been_VBN hailed_VBN as_IN a_DT master_NN of_IN the_DT ``_`` proletarian_JJ novel_NN ''_'' ,_, alongside_IN Tressell_NNP ,_, MacGill_NNP and_CC Grassic_NNP Gibbon_NNP ,_, a_DT genre_JJ offering_NN ``_`` a_DT new_JJ set_NN of_IN narrative_JJ concerns_NNS and_CC characters_NNS ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Bates_NNP was_VBD briefly_RB arrested_VBN for_IN arms_NNS smuggling_NN when_WRB traveling_VBG through_IN France_NNP back_RB to_TO Spain_NNP in_IN February_NNP 1937_CD ._.
+Upon_IN his_PRP$ return_NN ,_, he_PRP moved_VBD to_TO Madrid_NNP and_CC founded_VBD the_DT International_NNP Brigade_NNP 's_POS newspaper_NN ,_, The_DT Volunteer_NN for_IN Liberty_NNP ._.
+He_PRP frequently_RB traveled_VBD to_TO the_DT United_NNP States_NNPS and_CC Mexico_NNP in_IN 1937_CD and_CC 1938_CD ,_, meeting_VBG his_PRP$ future_JJ wife_NN ,_, Eve_NNP Salzman_NNP on_IN one_CD trip_NN ._.
+He_PRP joined_VBD the_DT British_JJ Communist_NNP Party_NNP in_IN 1923_CD ._.
+After_IN the_DT Soviet_JJ invasion_NN of_IN Finland_NNP in_IN November_NNP ,_, 1939_CD ,_, he_PRP publicly_RB condemned_VBD the_DT Communists_NNPS in_IN an_DT article_NN for_IN The_DT New_NNP Republic_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- During_IN the_DT investigations_NNS of_IN suspected_JJ Communists_NNPS in_IN the_DT 1950s_CD ,_, he_PRP refused_VBD to_TO testify_VB before_IN the_DT House_NNP Committee_NNP on_IN Un-American_NNP Activities_NNPS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- After_IN the_DT end_NN of_IN the_DT Spanish_NNP Civil_NNP War_NNP ,_, Bates_NNP moved_VBD to_TO Mexico_NNP ,_, where_WRB he_PRP lived_VBD for_IN a_DT number_NN of_IN years_NNS ,_, publishing_VBG The_DT Fields_NNP of_IN Paradise_NNP in_IN 1940_CD ._.
+In_IN 1947_CD ,_, he_PRP became_VBD a_DT professor_NN of_IN creative_JJ writing_NN and_CC English_JJ literature_NN at_IN New_NNP York_NNP University_NNP ,_, a_DT post_NN he_PRP would_MD hold_VB until_IN his_PRP$ retirement_NN in_IN 1966_CD ._.
+He_PRP published_VBD his_PRP$ last_JJ book_NN ,_, The_DT Dolphin_NNP in_IN the_DT Wood_NNP ,_, in_IN 1950_CD ,_, although_IN he_PRP would_MD continue_VB to_TO work_VB on_IN several_JJ unfinished_JJ writings_NNS up_IN to_TO his_PRP$ death_NN 50_CD years_NNS later_RB ._.
+After_IN his_PRP$ retirement_NN ,_, he_PRP moved_VBD with_IN his_PRP$ wife_NN to_TO the_DT Greek_JJ island_NN of_IN Naxos_NNP ,_, where_WRB he_PRP pursued_VBD his_PRP$ lifelong_JJ hobby_NN of_IN mountain-climbing_JJ well_RB into_IN his_PRP$ 80s_NNS ._.
+He_PRP died_VBD in_IN Manhattan_NNP in_IN 2000_CD ,_, aged_VBN 101_CD ,_, and_CC his_PRP$ cremated_JJ remains_NNS were_VBD scattered_VBN in_IN Naxos_NNP ._.

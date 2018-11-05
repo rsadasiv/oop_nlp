@@ -1,0 +1,30 @@
+Sir_NNP Walter_NNP Besant_NNP -LRB-_-LRB- 14_CD August_NNP 1836_CD ''_'' 9_CD June_NNP 1901_CD -RRB-_-RRB- ,_, was_VBD a_DT novelist_NN and_CC historian_NN ._.
+William_NNP Henry_NNP Besant_NNP was_VBD his_PRP$ brother_NN ,_, and_CC another_DT brother_NN ,_, Frank_NNP ,_, was_VBD the_DT husband_NN of_IN Annie_NNP Besant_NNP ._.
+The_DT son_NN of_IN a_DT merchant_NN ,_, he_PRP was_VBD born_VBN at_IN Portsmouth_NNP ,_, Hampshire_NNP and_CC attended_VBD school_NN at_IN St_NNP Paul_NNP 's_POS ,_, Southsea_NNP ,_, Stockwell_NNP Grammar_NNP ,_, London_NNP and_CC King_NNP 's_POS College_NNP London_NNP ._.
+In_IN 1855_CD ,_, he_PRP was_VBD admitted_VBN as_IN a_DT pensioner_NN to_TO Christ_NNP 's_POS College_NNP ,_, Cambridge_NNP ,_, where_WRB he_PRP graduated_VBD in_IN 1859_CD as_IN 18th_JJ wrangler_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- After_IN a_DT year_NN as_IN Mathematical_NNP Master_NNP at_IN Rossall_NNP School_NNP ,_, Fleetwood_NNP ,_, Lancashire_NNP ,_, and_CC a_DT year_NN at_IN Leamington_NNP College_NNP ,_, he_PRP spent_VBD six_CD years_NNS as_IN professor_NN of_IN mathematics_NNS at_IN the_DT Royal_NNP College_NNP ,_, Mauritius_NNP ._.
+A_DT decline_NN in_IN health_NN compelled_VBD him_PRP to_TO resign_VB ,_, and_CC he_PRP returned_VBD to_TO England_NNP and_CC settled_VBN in_IN London_NNP in_IN 1867_CD ._.
+From_IN 1868_CD to_TO 1885_CD he_PRP held_VBD the_DT position_NN of_IN Secretary_NNP to_TO the_DT Palestine_NNP Exploration_NNP Fund_NNP ._.
+In_IN 1871_CD ,_, he_PRP was_VBD admitted_VBN to_TO Lincoln_NNP 's_POS Inn_NNP ._.
+In_IN 1868_CD he_PRP published_VBD Studies_NNS in_IN French_JJ Poetry_NNP ._.
+Three_CD years_NNS later_RB he_PRP began_VBD his_PRP$ collaboration_NN with_IN writer_NN James_NNP Rice_NNP ._.
+Among_IN their_PRP$ joint_JJ productions_NNS are_VBP Ready-money_JJ Mortiboy_NNP -LRB-_-LRB- 1872_CD -RRB-_-RRB- ,_, and_CC The_DT Golden_NNP Butterfly_NNP -LRB-_-LRB- 1876_CD -RRB-_-RRB- ,_, both_DT ,_, especially_RB the_DT latter_JJ ,_, very_RB successful_JJ ._.
+This_DT association_NN was_VBD ended_VBN by_IN the_DT death_NN of_IN Rice_NNP in_IN 1882_CD ._.
+Thereafter_RB Besant_JJ continued_VBN to_TO write_VB voluminously_RB by_IN himself_PRP ,_, his_PRP$ main_JJ novels_NNS being_VBG All_DT in_IN a_DT Garden_NNP Fair_NNP -LRB-_-LRB- which_WDT Rudyard_NNP Kipling_NNP credited_VBD in_IN Something_NN of_IN Myself_NNP with_IN inspiring_JJ him_PRP to_TO leave_VB India_NNP and_CC make_VB a_DT career_NN as_IN a_DT writer_NN -RRB-_-RRB- ,_, Dorothy_NNP Forster_NNP -LRB-_-LRB- his_PRP$ own_JJ favorite_JJ -RRB-_-RRB- ,_, Children_NNP of_IN Gibeon_NNP ,_, and_CC All_DT Sorts_NNS and_CC Conditions_NNS of_IN Men_NN ._.
+The_DT two_CD last_JJ belonged_VBN to_TO a_DT series_NN in_IN which_WDT he_PRP endeavored_VBD to_TO arouse_VB the_DT public_JJ conscience_NN to_TO the_DT hardship_NN among_IN the_DT poorest_JJS classes_NNS of_IN cities_NNS ._.
+In_IN this_DT crusade_NN Besant_NNP had_VBD considerable_JJ success_NN ,_, the_DT establishment_NN of_IN The_DT People_NNS 's_POS Palace_NNP in_IN the_DT East_NNP of_IN London_NNP being_VBG one_CD result_NN ._.
+In_IN addition_NN to_TO his_PRP$ fiction_NN ,_, Besant_NNP wrote_VBD largely_RB on_IN the_DT history_NN and_CC topography_NN of_IN London_NNP ._.
+His_PRP$ plans_NNS for_IN this_DT topic_NN were_VBD left_VBN unfinished_JJ :_: among_IN his_PRP$ books_NNS on_IN this_DT subject_NN is_VBZ London_NNP in_IN the_DT 18th_JJ Century_NNP ._.
+Besant_NNP was_VBD a_DT freemason_NN ,_, joining_VBG the_DT Lodge_NNP of_IN Harmony_NNP in_IN Mauritius_NNP in_IN 1862_CD ._.
+He_PRP became_VBD Master_NNP of_IN Marquis_NNP of_IN Dalhousie_NNP Lodge_NNP ,_, London_NNP in_IN 1873_CD ,_, having_VBG joined_VBN in_IN 1869_CD ._.
+He_PRP was_VBD one_CD of_IN the_DT founders_NNS of_IN the_DT first_JJ Masonic_NNP research_NN lodge_VBP ,_, Quatuor_NNP Coronati_NNP Lodge_NNP No_NNP 2076_CD ,_, of_IN which_WDT he_PRP was_VBD the_DT first_JJ treasurer_NN from_IN 1886_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD also_RB one_CD of_IN the_DT founders_NNS -LRB-_-LRB- 3_CD -RRB-_-RRB- and_CC first_JJ chair_NN -LRB-_-LRB- 4_LS -RRB-_-RRB- of_IN the_DT Society_NNP of_IN Authors_NNPS in_IN 1884_CD ._.
+He_PRP was_VBD knighted_VBN in_IN the_DT 1895_CD Birthday_NN Honours_NNP ._.
+He_PRP was_VBD treasurer_NN of_IN the_DT `_`` Atlantic_NNP Union_NNP '_POS ,_, an_DT association_NN which_WDT sought_VBD to_TO improve_VB social_JJ relations_NNS between_IN Britons_NNP and_CC Americans_NNPS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- He_PRP died_VBD in_IN Frognal_NNP in_IN London_NNP on_IN 9_CD June_NNP 1901_CD ,_, aged_VBN 64_CD ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Fiction_NN Collected_VBN editions_NNS -LRB-_-LRB- fiction_NN -RRB-_-RRB- Novels_NNPS by_IN W.B._NNP and_CC James_NNP Rice_NNP ._.
+Library_NNP ed_VBD ._.
+10_CD vols_NNS ._.
+1887_CD ``_`` 88_CD ._.
+Comprising_VBG in_IN sequence_NN Ready-Money_NNP Mortiboy_NNP ,_, This_DT Son_NNP of_IN Vulcan_NNP ,_, With_IN Harp_NNP and_CC Crown_NNP ,_, The_DT Golden_NNP Butterfly_NNP ,_, By_IN Celia_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Arbour_NNP ,_, The_DT Seamy_NNP Side_NN ,_, The_DT Chaplain_NNP of_IN the_DT Fleet_NNP ,_, The_DT Case_NN of_IN Mr._NNP Lucraft_NNP and_CC Other_JJ Tales_NNS ,_, <sup>_VBP ~_CD </sup>_JJ Twas_NNP in_IN Trafalgar_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ Bay_NNP and_CC Other_JJ Stories_NNP ,_, The_DT Ten_CD Years_NNS <sup>_VBP TM_NNP </sup>_NNP Tenant_NNP and_CC Other_JJ Stories_NNP -LRB-_-LRB- My_PRP$ Little_JJ Girl_NNP ,_, The_DT Monks_NNP of_IN Thelema_NNP apparently_RB missing_VBG from_IN this_DT series_NN -RRB-_-RRB- ._.
+Plays_NNP General_NNP non-fiction_NN -LRB-_-LRB- excluding_VBG items_NNS on_IN London_NNP -RRB-_-RRB- Selected_NNP Books_NNPS on_IN London_NNP -LRB-_-LRB- volumes_NNS in_IN the_DT 10-volume_JJ Survey_NN of_IN London_NNP published_VBN by_IN A_NNP &_CC C._NNP Black_NNP are_VBP included_VBN under_IN their_PRP$ individual_JJ volume_NN titles_NNS and_CC marked_VBN with_IN an_DT asterisk_NN -RRB-_-RRB-

@@ -1,0 +1,2 @@
+Elizabeth_NNP Berridge_NNP -LRB-_-LRB- 3_CD December_NNP 1919_CD ''_'' 2_CD December_NNP 2009_CD -RRB-_-RRB- was_VBD a_DT British_JJ novelist_NN and_CC critic_NN ,_, most_JJS famous_JJ for_IN the_DT novels_NNS Across_IN the_DT Common_JJ ,_, which_WDT won_VBD the_DT 1964_CD Yorkshire_NNP Post_NNP Novel_NNP of_IN the_DT Year_NN Award_NNP ,_, and_CC Touch_NNP and_CC Go_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

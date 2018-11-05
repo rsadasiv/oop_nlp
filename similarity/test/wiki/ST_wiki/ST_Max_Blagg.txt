@@ -1,0 +1,10 @@
+Max_NNP Blagg_NNP is_VBZ a_DT British-born_JJ poet_NN ,_, writer_NN ,_, and_CC performer_NN from_IN England_NNP ._.
+Blagg_NNP has_VBZ performed_VBN in_IN New_NNP York_NNP City_NNP since_IN 1971_CD ._.
+He_PRP is_VBZ currently_RB a_DT Visiting_VBG lecturer_NN in_IN poetry_NN at_IN The_DT New_NNP School_NNP in_IN New_NNP York_NNP City_NNP -LRB-_-LRB- continuous_JJ from_IN 2005_CD -RRB-_-RRB- ._.
+Max_NNP Blagg_NNP was_VBD reportedly_RB born_VBN in_IN 1948_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- at_IN Retford_NNP ,_, England_NNP ._.
+He_PRP immigrated_VBD to_TO New_NNP York_NNP City_NNP in_IN 1971_CD ,_, and_CC still_RB lives_VBZ there_EX today_NN ._.
+He_PRP was_VBD recognized_VBN as_IN an_DT influential_JJ performer_NN ,_, respected_VBN writer_NN ,_, and_CC poet_NN in_IN the_DT New_NNP York_NNP literary_JJ scene_NN ._.
+In_IN 1992_CD ,_, his_PRP$ poem_NN ``_`` What_WP Fits_VBZ ?_. ''_''
+was_VBD the_DT soundtrack_NN to_TO a_DT commercial_NN for_IN Gap_NNP jeans_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- The_DT venues_NNS where_WRB Blagg_NNP has_VBZ performed_VBN include_VBP the_DT Kitchen_NN ,_, Guggenheim_NNP Museum_NNP ,_, Jackie_NNP 60_CD ,_, Cable_NNP gallery_NN ,_, Nuyorican_NNP 's_POS Poet_NNP 's_POS café_NN ,_, St_NNP Marks_NNP Church_NNP ,_, Bowery_NNP Poetry_NNP Club_NNP ,_, CBGB_NNP ,_, KGB_NNP Bar_NNP ,_, Performing_VBG Garage_NN ,_, Mudd_NNP Club_NNP ,_, and_CC many_JJ other_JJ cultural_JJ landmarks_NNS ._.
+Magazines_NNS published_VBN in_IN :_: Film_NNP Appearances_NNPS :_: Newspapers_NNS published_VBN in_IN :_: Books_NNS :_:

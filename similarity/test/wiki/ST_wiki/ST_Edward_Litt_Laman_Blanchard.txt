@@ -1,0 +1,39 @@
+Edward_NNP Litt_NNP Laman_NNP Blanchard_NNP ,_, often_RB referred_VBD to_TO as_IN E._NNP L._NNP Blanchard_NNP -LRB-_-LRB- 11_CD December_NNP 1820_CD ''_'' 4_CD September_NNP 1889_CD -RRB-_-RRB- ,_, -LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ writer_NN who_WP is_VBZ best_RB known_VBN for_IN his_PRP$ contributions_NNS to_TO the_DT Drury_NNP Lane_NNP pantomime_NN ._.
+He_PRP began_VBD writing_VBG plays_NNS and_CC other_JJ literature_NN to_TO support_VB himself_PRP as_IN a_DT teenager_NN after_IN his_PRP$ father_NN died_VBD ._.
+He_PRP soon_RB became_VBD a_DT prolific_JJ creator_NN of_IN dramas_NN and_CC eventually_RB gained_VBD critical_JJ acclaim_NN for_IN his_PRP$ works_NNS ._.
+He_PRP also_RB served_VBD as_IN a_DT newspaper_NN drama_NN critic_NN and_CC mentored_VBD other_JJ writers_NNS ._.
+Edward_NNP Blanchard_NNP was_VBD born_VBN at_IN 28_CD Great_NNP Queen_NNP Street_NNP ,_, London_NNP ,_, the_DT second_JJ son_NN of_IN the_DT actor_NN William_NNP Blanchard_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD educated_VBN at_IN Brixton_NNP ,_, Ealing_NNP and_CC Lichfield_NNP ,_, and_CC accompanied_VBD his_PRP$ father_NN to_TO New_NNP York_NNP in_IN 1831_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- William_NNP died_VBD in_IN 1835_CD when_WRB Edward_NNP was_VBD only_RB 14_CD years_NNS old_JJ ;_: Shortly_RB afterwards_RB ,_, he_PRP dropped_VBD out_IN of_IN school_NN and_CC joined_VBD a_DT traveling_VBG ``_`` oxyhydrogen_NN microscope_NN ''_'' exhibition_NN ,_, even_RB giving_VBG the_DT lectures_VBZ to_TO the_DT public_JJ himself_PRP on_IN occasions_NNS ._.
+However_RB ,_, it_PRP did_VBD not_RB pay_VB well_RB and_CC he_PRP was_VBD eventually_RB left_VBN stranded_VBN in_IN the_DT west_NN of_IN England_NNP ;_: fortunately_RB he_PRP managed_VBD to_TO borrow_VB half_PDT a_DT crown_NN from_IN a_DT scene-painter_NN he_PRP had_VBD met_VBN in_IN Bristol_NNP ,_, and_CC walked_VBD back_RB to_TO London_NNP in_IN 3_CD days_NNS ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- In_IN London_NNP ,_, he_PRP embarked_VBD on_IN a_DT literary_JJ career_NN ._.
+He_PRP soon_RB started_VBD writing_VBG plays_NNS ,_, and_CC had_VBD written_VBN over_IN 30_CD of_IN them_PRP by_IN the_DT time_NN that_IN he_PRP turned_VBD 20_CD ._.
+His_PRP$ initial_JJ plays_NNS were_VBD written_VBN under_IN the_DT pen_NN name_NN Francisco_NNP Frost_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- He_PRP was_VBD paid_VBN only_RB #_# 2_CD per_IN play_NN when_WRB he_PRP started_VBD writing_VBG ,_, and_CC wrote_VBD advertisements_NNS for_IN businesses_NNS and_CC comic_JJ songs_NNS for_IN clowns_NNS to_TO supplement_VB his_PRP$ income_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- Blanchard_NNP began_VBD contributing_VBG to_TO Renton_NNP Nicholson_NNP 's_POS The_DT Town_NNP at_IN the_DT age_NN of_IN 17_CD ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- He_PRP began_VBD contributing_VBG articles_NNS to_TO the_DT paper_NN shortly_RB after_IN it_PRP was_VBD launched_VBN in_IN 1837_CD and_CC continued_VBD writing_VBG for_IN them_PRP for_IN the_DT next_JJ two_CD years_NNS ._.
+He_PRP later_RB described_VBD the_DT articles_NNS that_IN he_PRP wrote_VBD there_RB as_IN ``_`` social_JJ essays_NNS and_CC dramatic_JJ notices_NNS ''_'' ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- One_CD of_IN the_DT first_JJ articles_NNS that_IN he_PRP wrote_VBD for_IN the_DT paper_NN described_VBD underground_JJ gambling_NN in_IN Leicester_NNP Square_NNP ._.
+The_DT articles_NNS The_DT Town_NNP published_VBN on_IN the_DT gambling_NN there_EX were_VBD later_RB credited_VBN with_IN causing_VBG the_DT London_NNP police_NN to_TO suppress_VB the_DT gambling_NN there_RB ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- Years_NNS later_RB ,_, after_IN Nicholson_NNP 's_POS death_NN ,_, Blanchard_NNP defended_VBD Nicholson_NNP against_IN some_DT of_IN his_PRP$ critics_NNS ,_, contending_VBG that_IN he_PRP was_VBD a_DT kind_NN and_CC generous_JJ man_NN who_WP produced_VBD much_JJ ``_`` clever_JJ and_CC utterly_RB unobjectionable_JJ ''_'' work_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- In_IN 1841_CD Blanchard_NNP was_VBD hired_VBN by_IN the_DT Olympic_NNP Theatre_NNP to_TO write_VB regularly_RB for_IN their_PRP$ plays_NNS ._.
+In_IN 1845_CD a_DT play_NN that_IN he_PRP wrote_VBD was_VBD staged_VBN at_IN the_DT Surrey_NNP Theatre_NNP for_IN the_DT first_JJ time_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- He_PRP also_RB served_VBD as_IN a_DT writer_NN and_CC editor_NN for_IN several_JJ periodicals_NNS in_IN the_DT early_JJ 1840s_CD ,_, including_VBG Punch_NNP and_CC The_DT New_NNP London_NNP Magazine_NNP ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB- -LRB-_-LRB- 12_CD -RRB-_-RRB- He_PRP also_RB edited_VBD a_DT large_JJ work_NN on_IN William_NNP Shakespeare_NNP by_IN Samuel_NNP Phelps_NNP ._.
+-LRB-_-LRB- 13_CD -RRB-_-RRB- Blanchard_NNP 's_VBZ most_RBS successful_JJ position_NN was_VBD writing_VBG the_DT Drury_NNP Lane_NNP pantomimes_NNS ._.
+He_PRP contributed_VBD pantomimes_NNS for_IN that_DT theater_NN for_IN 37_CD years_NNS ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP was_VBD applauded_VBN for_IN his_PRP$ skill_NN in_IN writing_VBG on_IN a_DT variety_NN of_IN different_JJ topics_NNS ,_, including_VBG dramas_NN ,_, farces_NNS and_CC burlesques_NNS ._.
+His_PRP$ work_NN was_VBD often_RB praised_VBN for_IN good_JJ taste_NN and_CC moral_JJ themes_NNS ,_, in_IN addition_NN to_TO its_PRP$ imaginative_JJ qualities_NNS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1858_CD he_PRP began_VBD writing_VBG for_IN The_DT Daily_NNP Telegraph_NNP ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- He_PRP later_RB became_VBD the_DT paper_NN 's_POS dramatic_JJ critic_NN ._.
+In_IN that_DT role_NN he_PRP served_VBD as_IN a_DT mentor_NN to_TO Clement_NNP Scott_NNP ,_, who_WP later_RB became_VBD his_PRP$ successor_NN ._.
+-LRB-_-LRB- 15_CD -RRB-_-RRB- In_IN 1859_CD Blanchard_NNP began_VBD writing_VBG for_IN the_DT Birmingham_NNP Daily_NNP Gazette_NNP ,_, as_RB well_RB ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- Blanchard_NNP lived_VBD in_IN Adelphi_NNP Terrace_NNP from_IN 1876_CD until_IN 1889_CD ._.
+-LRB-_-LRB- 16_CD -RRB-_-RRB- He_PRP had_VBD four_CD children_NNS and_CC often_RB struggled_VBD to_TO support_VB his_PRP$ family_NN due_JJ to_TO the_DT limited_JJ income_NN he_PRP received_VBD from_IN his_PRP$ writing_NN ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- His_PRP$ wife_NN Caroline_NNP was_VBD active_JJ in_IN Louisa_NNP Hubbard_NNP 's_POS Women_NNP 's_POS Emigration_NN Society_NNP that_IN helped_VBD indigent_VB young_JJ women_NNS from_IN London_NNP emigrate_VB to_TO Australia_NNP or_CC Canada_NNP ._.
+-LRB-_-LRB- 14_CD -RRB-_-RRB- He_PRP died_VBD on_IN 4_CD September_NNP 1889_CD at_IN Albert_NNP Mansions_NNP ,_, Victoria_NNP Street_NNP ,_, London_NNP ,_, after_IN a_DT long_JJ illness_NN described_VBN by_IN the_DT attending_VBG Doctor_NNP as_IN ``_`` creeping_VBG paralysis_NN ''_'' ._.
+He_PRP was_VBD buried_VBN at_IN Kensington_NNP Cemetery_NNP in_IN Hanwell_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN 1891_CD The_DT Life_NN and_CC Reminiscences_NNS of_IN E._NNP L._NNP Blanchard_NNP was_VBD published_VBN in_IN two_CD volumes_NNS ._.
+It_PRP was_VBD edited_VBN by_IN Clement_NNP Scott_NNP and_CC Cecil_NNP Howard_NNP and_CC published_VBN by_IN Hutchinson_NNP ._.
+-LRB-_-LRB- 17_CD -RRB-_-RRB- The_DT book_NN has_VBZ been_VBN described_VBN as_IN ``_`` a_DT memorial_NN of_IN arduous_JJ and_CC incessant_JJ struggles_NNS and_CC ,_, until_IN near_IN the_DT end_NN ,_, of_IN miserable_JJ pay_NN ''_'' and_CC ``_`` a_DT delightful_JJ picture_NN of_IN one_CD of_IN the_DT kindest_JJS ,_, most_RBS genial_JJ and_CC lovable_JJ of_IN Bohemians_NNPS ''_'' a_DT man_NN with_IN some_DT of_IN the_DT charm_NN of_IN Charles_NNP Lamb_NNP ''_'' ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

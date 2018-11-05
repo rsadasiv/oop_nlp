@@ -1,0 +1,764 @@
+``_``
+You_SPP2
+have_VPRT
+to_TO
+be_VB
+,_,
+as_IN
+Virginia_NN
+Woolf_NN
+says_VPRT [PUBV]
+,_,
+bisexual_JJ
+to_TO
+write_VB [PUBV]
+,_,
+''_''
+said_VBD [PUBV]
+Australian_NN
+author_NN
+of_PIN
+Greek_JJ
+heritage_NN
+Christos_NN
+Tsiolkas_NN
+,_,
+who_WP
+was_VBD
+part_NN
+of_PIN
+a_DT
+panel_NN
+at_PIN
+a_DT
+packed_JJ
+session_NN
+on_PIN
+gender_NN
+identity_NOMZ
+in_PIN
+literature_NN
+and_CC
+performing_VBG
+arts_NN
+''_''
+Dance_NN
+Like_IN
+a_DT
+Man_NN
+:_:
+Refiguring_GER
+Maculinity_NOMZ
+on_PIN
+the_DT
+fourth_JJ
+day_NN
+of_PIN
+the_DT
+ZeeJLF_NN
+._.
+``_``
+It_PIT
+is_VPRT
+n't_XX0 [CONT]
+about_IN
+who_WP
+you_SPP2
+sleep_VPRT
+with_PIN [STPR]
+,_,
+man_NN
+or_CC
+woman_NN
+,_,
+but_CC
+about_IN
+being_VBG [BEMA]
+able_PRED
+to_TO
+be_VB [BEMA]
+in_PIN
+touch_NN
+with_PIN
+your_SPP2
+feminine_JJ
+or_CC
+masculine_JJ
+side_NN
+which_WDT [WHSUB]
+makes_VPRT
+you_SPP2
+write_VB [PUBV]
+better_RB
+._.
+''_''
+He_TPP3
+admitted_VBD [PUBV]
+to_TO
+being_VBG [BEMA]
+at_PIN
+a_DT
+disadvantage_NN
+growing_VBG [WZPRES]
+up_RP
+with_PIN
+a_DT
+Christian_JJ
+background_NN
+as_IN
+a_DT
+child_NN
+._.
+``_``
+I_FPP1
+think_VPRT [PRIV]
+in_PIN
+India_NN
+you_SPP2
+have_VPRT
+an_DT
+advantage_NN
+because_CAUS
+of_PIN
+Hinduism_NN
+._.
+Monotheist_NN
+religions_NN
+do_VPRT
+n't_XX0 [CONT]
+have_VB
+the_DT
+advantage_NN
+of_PIN
+deities_NOMZ
+comfortable_JJ
+with_PIN
+their_TPP3
+alternative_JJ
+sexuality_NOMZ
+._.
+''_''
+Joining_VBG [PRESP]
+him_TPP3
+in_PIN
+the_DT
+discussion_NN
+were_VBD
+writers_NN
+Mukul_NN
+Deva_NN
+,_,
+Shobhaa_NN
+De_NN
+and_PHC
+Ashok_NN
+Ferrey_NN
+._.
+To_PIN
+Ashok_NN
+Ferrey_NN
+'s_POS
+question_NOMZ
+on_PIN
+what_WP
+``_``
+dancing_VBG
+like_IN
+a_DT
+man_NN
+,_,
+''_''
+meant_VBN [PRIV]
+,_,
+De_NN
+said_VBD [PUBV]
+,_,
+``_``
+I_FPP1
+think_VPRT [PRIV]
+its_PIT
+unfortunately_RB
+come_VBN
+to_TO
+mean_VB [PRIV]
+dancing_VBG
+like_IN
+a_DT
+Salman_NN
+Khan_NN
+,_,
+Shah_NN
+Rukh_NN
+Khan_NN
+or_CC
+Akshay_NN
+Kumar_NN
+._.
+Its_PIT
+no_SYNE
+longer_JJ
+just_EMPH
+dancing_VBG
+because_CAUS
+you_SPP2
+want_VPRT
+to_TO
+._.
+What_WP [WHQU]
+is_VPRT
+below_PLACE
+the_DT
+belt_NN
+often_RB
+is_VPRT [PASS]
+brought_VBN
+into_PIN
+play_NN
+with_PIN
+really_EMPH
+hard_JJ
+pelvic_JJ
+thrusts_NN
+at_PIN
+the_DT
+world_NN
+watching_VBG [WZPRES]
+._.
+''_''
+She_TPP3
+added_VBD [PUBV]
+,_,
+``_``
+This_DEMP
+is_VPRT [BEMA]
+sad_PRED
+since_OSUB
+it_PIT
+has_VPRT
+to_TO
+be_VB
+dancing_VBG
+because_CAUS
+you_SPP2
+want_VPRT
+to_TO
+._.
+''_''
+The_DT
+author_NN
+who_WP [WHSUB]
+wore_VBD
+a_DT
+necklace_NN
+with_PIN
+a_DT
+large_JJ
+pendant_NN
+which_WDT [WHSUB]
+said_VBD [PUBV]
+Devi_NN
+in_PIN
+the_DT
+Devnagri_NN
+script_NN
+,_,
+lamented_VBD
+that_DEMO
+the_DT
+world_NN
+of_PIN
+fine_JJ
+arts_NN
+including_VBG [WZPRES]
+dance_NN
+is_VPRT [BYPA]
+plagued_VBN
+by_PIN
+stereotyping_VBG
+._.
+``_``
+The_DT
+sniggering_VBG
+that_DEMO
+a_DT
+male_JJ
+Bharatanatyam_NN
+dancer_NN
+faces_VPRT
+or_CC
+the_DT
+more_EMPH
+recent_JJ
+controversy_NN
+over_IN
+the_DT
+Russian_JJ
+ballet_NN
+dancer_NN
+who_WP [WHSUB]
+was_VBD [PASS]
+told_VBN
+that_DEMO
+he_TPP3
+could_POMD
+n't_XX0 [CONT]
+play_VB
+certain_JJ
+parts_NN
+because_CAUS
+he_TPP3
+has_VPRT
+thick_JJ
+thighs_NN
+are_VPRT [BEMA]
+all_QUAN
+indicative_JJ
+of_PIN
+the_DT
+ridiculous_JJ
+limits_NN
+we_FPP1
+have_VPRT [PEAS]
+taken_VBN
+our_FPP1
+gender_NN
+stereotyping_VBG [WZPRES]
+to_TO
+._.
+''_''
+Tsiolkas_NN
+admitted_VBD [PUBV]
+that_THVC
+words_NN
+like_IN
+`_``
+metrosexual_JJ
+,_,
+'_''
+mean_VPRT [PRIV]
+little_JJ
+._.
+``_``
+This_DEMP
+is_VPRT [BEMA]
+a_DT
+media-created_JJ
+term_NN
+and_CC
+can_POMD [SPAU]
+only_DWNT
+be_VB [BEMA]
+acceptable_PRED
+in_PIN
+an_DT
+urban_JJ
+cosmopolitan_NN
+scenario_NN
+._.
+Once_TIME
+you_SPP2
+go_VPRT
+to_PIN
+the_DT
+interiors_NN
+things_NN
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+changed_VBN
+much_QUAN
+even_RB
+in_PIN
+a_DT
+supposedly_RB
+progressive_JJ
+developed_JJ
+country_NN
+like_IN
+Australia_NN
+._.
+''_''
+He_TPP3
+also_RB
+pointed_VBD
+out_PIN
+that_DEMO
+women_NN
+who_WP [WHSUB]
+try_VPRT
+to_TO
+assert_VB [PUBV] [THATD]
+themselves_TPP3
+are_VPRT [SPAU] [PASS]
+often_RB
+called_VBN
+sluts_NN
+._.
+''_''
+De_NN
+agreed_VBD [SUAV] [PUBV]
+with_PIN
+him_TPP3
+that_DEMO
+labels_NN
+like_IN
+slut_NN
+-LRB-_-LRB-
+for_PIN
+girls_NN
+-RRB-_-RRB-
+or_CC
+sissy_JJ
+-LRB-_-LRB-
+for_PIN
+boys_NN
+-RRB-_-RRB-
+do_VPRT
+a_EMPH
+lot_NULL
+of_PIN
+harm_NN
+._.
+``_``
+It_PIT
+creates_VPRT
+insecurities_NOMZ
+forcing_VBG [WZPRES]
+them_TPP3
+to_TO
+conform_VB
+to_PIN
+conventional_JJ
+,_,
+traditional_JJ
+gender_NN
+roles_NN
+._.
+''_''
+According_VBG [PRESP]
+to_PIN
+her_TPP3
+,_,
+society_NN
+still_RB
+equates_VPRT
+masculinity_NOMZ
+with_PIN
+violence_NN
+against_PIN
+women_NN
+._.
+``_``
+The_DT
+way_NN
+Bollywood_NN
+condones_VPRT
+eve-teasing_JJ
+or_CC
+the_DT
+way_NN
+we_FPP1
+at_PIN
+Stardust_NN
+,_,
+in_PIN
+our_FPP1
+own_JJ
+uninformed_JJ
+way_NN
+long_RB
+back_RB
+created_VBN
+expressions_NN
+like_IN
+Garam-Dharam_NN
+are_VPRT [BEMA]
+all_QUAN
+part_NN
+of_PIN
+the_DT
+same_JJ
+mindset_NN
+,_,
+''_''
+she_TPP3
+said_VBD [PUBV]
+,_,
+reminding_VBG [PRESP]
+the_DT
+gathering_GER
+of_PIN
+the_DT
+way_NN
+Indira_NN
+Gandhi_NN
+and_PHC
+Margaret_NN
+Thatcher_NN
+were_VBD [SPAU] [PASS]
+often_RB
+called_VBN
+the_DT
+`_``
+the_DT
+only_DWNT
+men_NN
+in_PIN
+their_TPP3
+respective_JJ
+cabinets_NN
+._.
+''_''
+She_TPP3
+cited_VBD
+the_DT
+example_NN
+of_PIN
+the_DT
+Rani_NN
+Mukherjee-starrer_NN
+Mardaani_NN
+which_WDT [WHSUB]
+chose_VBD
+to_TO
+think_VB [PRIV]
+that_THVC
+a_DT
+woman_NN
+who_WP [WHSUB]
+asserts_VPRT [PUBV] [THATD]
+herself_TPP3
+is_VPRT
+being_VBG [BEMA]
+man-like_PRED
+and_CC
+said_VBD [PUBV]
+Bollywood_NN
+revels_NN
+in_PIN
+such_JJ
+stereotypes_NN
+._.
+She_TPP3
+felt_VBD [PRIV]
+that_THVC
+despite_PIN
+South_NN
+Asia_NN
+'s_POS
+poor_JJ
+track_NN
+record_NN
+on_PIN
+equality_NOMZ
+it_PIT
+has_VPRT [PEAS]
+had_VBN
+women_NN
+leaders_NN
+only_DWNT
+because_CAUS
+they_TPP3
+began_VBD
+their_TPP3
+careers_NN
+with_PIN
+a_DT
+sympathy_NN
+wave_NN
+._.
+``_``
+Society_NN
+was_VBD
+trying_VBG
+to_TO
+compensate_VB
+them_TPP3
+for_PIN
+their_TPP3
+widowhood_NN
+on_PIN
+account_NN
+of_PIN
+assassinations_NOMZ
+,_,
+''_''
+she_TPP3
+averred_VBD
+._.
+She_TPP3
+went_VBD
+on_PIN
+to_TO
+add_VB [PUBV]
+,_,
+``_``
+The_DT
+West_NN
+or_CC
+metropolitan_JJ
+India_NN
+should_NEMD
+not_XX0
+be_VB [PASS]
+held_VBN [PRIV]
+up_RP
+as_IN
+some_QUAN
+shining_VBG
+example_NN
+when_RB
+it_PIT
+comes_VPRT
+to_PIN
+the_DT
+way_NN
+it_PIT
+treats_VPRT
+its_PIT
+women_NN
+._.
+Women_NN
+there_RB
+too_RB
+have_VPRT
+an_DT
+increasingly_RB
+tough_JJ
+challenge_NN
+to_TO
+face_VB
+daily_JJ
+._.
+Women_NN
+like_IN
+Indira_NN
+Nooyi_NN
+have_VPRT [PEAS]
+said_VBN [PUBV]
+so_RB
+._.
+''_''
+Mukul_NN
+Deva_NN
+said_VBD [PUBV] [THATD]
+he_TPP3
+did_VBD
+not_XX0
+see_VB [PRIV]
+the_DT
+need_NN
+for_PIN
+refiguring_VBG
+masculinity_NOMZ
+._.
+``_``
+I_FPP1
+'ve_VPRT [CONT]
+thought_VBN [PRIV]
+about_IN
+it_PIT
+long_RB
+and_PHC
+hard_RB
+with_PIN
+some_QUAN
+great_JJ
+help_NN
+from_PIN
+Kingfisher_NN
+last_JJ
+night_NN
+but_CC
+I_FPP1
+did_VBD
+not_XX0
+see_VB [PRIV]
+any_QUAN
+need_NN
+for_PIN
+reconfiguration_NOMZ
+._.
+''_''
+According_VBG [PRESP]
+to_PIN
+him_TPP3
+,_,
+the_DT
+fact_NN
+that_TOBJ
+he_TPP3
+was_VBD [BYPA]
+raised_VBN
+by_PIN
+his_TPP3
+mother_NN
+and_CC
+that_THVC
+he_TPP3
+'s_VPRT [CONT]
+raising_VBG
+two_CD
+daughters_NN
+all_QUAN
+by_PIN
+himself_TPP3
+had_VBD [PEAS]
+helped_VBN
+sort_VB
+him_TPP3
+out_PIN [STPR]
+._.
+De_NN
+felt_VBD [PRIV] [THATD]
+the_DT
+younger_JJ
+generation_NOMZ
+held_VBD [PRIV]
+hope_NN
+for_PIN
+change_NN
+._.
+``_``
+They_TPP3
+want_VPRT
+to_TO
+break_VB
+the_DT
+grid_NN
+their_TPP3
+parents_NN
+created_VBN
+,_,
+often_RB
+challenging_JJ
+and_CC
+excercising_VBG
+their_TPP3
+sexual_JJ
+options_NOMZ
+in_PIN
+a_DT
+different_JJ
+way_NN
+._.
+This_DEMP
+needs_VPRT
+to_TO
+be_VB [PASS]
+encouraged_VBN
+and_PHC
+celebrated_VBN
+because_CAUS
+unlike_IN
+our_FPP1
+generation_NOMZ
+they_TPP3
+do_VPRT
+not_XX0
+want_VB
+to_TO
+live_VB
+a_DT
+lie_NN
+._.
+''_''

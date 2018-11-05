@@ -1,0 +1,694 @@
+The_DT
+Punjab_NN
+government_NOMZ
+on_PIN
+Saturday_NN
+ordered_VBD [SUAV]
+a_DT
+magisterial_JJ
+probe_NN
+into_PIN
+the_DT
+accident_NN
+near_PLACE
+Amritsar_NN
+where_RB
+59_CD
+Dussehra_NN
+revellers_NN
+were_VBD [PASS]
+mowed_VBN
+down_RP
+by_PIN
+a_DT
+train_NN
+,_,
+while_OSUB
+railways_NN
+has_VPRT [PEAS]
+ruled_VBN [SUAV]
+out_PIN
+any_QUAN
+inquiry_NN
+on_PIN
+its_PIT
+part_NN
+._.
+Punjab_NN
+Chief_NN
+Minister_NN
+Amarinder_NN
+Singh_NN
+Saturday_NN
+said_VBD [PUBV]
+that_THVC
+a_DT
+magisterial_JJ
+inquiry_NN
+into_PIN
+the_DT
+train_NN
+accident_NN
+will_PRMD
+be_VB [PASS]
+conducted_VBN
+and_CC
+the_DT
+report_NN
+will_PRMD
+be_VB [PASS]
+submitted_VBN [PUBV]
+in_PIN
+four_CD
+weeks_NN
+._.
+The_DT
+chief_NN
+minister_NN
+postponed_VBD
+a_DT
+trip_NN
+to_PIN
+Israel_NN
+and_CC
+arrived_VBD
+in_PIN
+Amritsar_NN
+this_DEMO
+morning_GER
+to_TO
+assess_VB
+the_DT
+damage_NN
+._.
+``_``
+We_FPP1
+are_VPRT
+announcing_VBG [PUBV]
+a_DT
+magisterial_JJ
+probe_NN
+into_PIN
+the_DT
+incident_NN
+,_,
+''_''
+Singh_NN
+told_VBD
+reporters_NN
+._.
+He_TPP3
+said_VBD [PUBV] [THATD]
+four_CD
+weeks_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+given_VBN
+to_TO
+submit_VB [PUBV]
+the_DT
+report_NN
+to_TO
+find_VB [PRIV]
+out_PIN
+who_WP [PIRE]
+was_VBD [BEMA]
+at_PIN
+fault_NN
+._.
+The_DT
+divisional_JJ
+commissioner_NN
+of_PIN
+Jalandhar_NN
+,_,
+Baldeo_NN
+Purushartha_NN
+,_,
+has_VPRT [PEAS]
+been_VBN [PASS]
+entrusted_VBN
+with_PIN
+the_DT
+job_NN
+of_PIN
+holding_VBG [PRIV]
+the_DT
+inquiry_NN
+._.
+Later_TIME
+,_,
+issuing_VBG [PRESP]
+a_DT
+notification_NOMZ
+of_PIN
+the_DT
+magisterial_JJ
+inquiry_NN
+,_,
+Punjab_NN
+Home_NN
+Department_NOMZ
+said_VBD [PUBV]
+in_PIN
+a_DT
+statement_NOMZ
+that_TOBJ
+the_DT
+inquiry_NN
+will_PRMD
+look_VB
+into_PIN
+all_QUAN
+aspects_NN
+of_PIN
+the_DT
+unfortunate_JJ
+incident_NN
+._.
+Purushartha_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+appointed_VBN
+special_JJ
+executive_NN
+magistrate_NN
+under_IN
+the_DT
+provision_NN
+of_PIN
+Section_NOMZ
+21_CD
+of_PIN
+Code_NN
+of_PIN
+Criminal_NN
+Procedure_NN
+,_,
+1973_CD
+,_,
+and_ANDC
+shall_PRMD
+exercise_VB
+all_QUAN
+such_JJ
+powers_NN
+conferred_VBD
+upon_PIN
+an_DT
+executive_NN
+magistrate_NN
+while_OSUB
+conducting_VBG
+the_DT
+enquiry_NN
+,_,
+a_DT
+notification_NOMZ
+issued_VBN [WZPAST]
+by_PIN
+Additional_JJ
+Chief_NN
+Secretary_NN
+Home_NN
+Nirmaljit_NN
+Singh_NN
+Kalsi_NN
+._.
+The_DT
+notification_NOMZ
+also_RB
+lists_VPRT
+the_DT
+terms_NN
+and_PHC
+reference_NN
+of_PIN
+the_DT
+inquiry_NN
+._.
+The_DT
+inquiry_NN
+has_VPRT [PEAS]
+been_VBN [PASS]
+authorised_VBN
+``_``
+to_TO
+conduct_VB
+a_DT
+thorough_JJ
+probe_NN
+into_PIN
+the_DT
+unfortunate_JJ
+incident_NN
+and_CC
+to_TO
+examine_VB
+acts_NN
+of_PIN
+omission_NN
+and_PHC
+commission_NN
+by_PIN
+an_DT
+individual_JJ
+or_CC
+agency_NN
+,_,
+if_COND
+any_QUAN
+,_,
+and_ANDC
+accordingly_RB
+fix_VB
+responsibility_NOMZ
+._.
+''_''
+It_PIT
+has_VPRT [SPAU] [PEAS]
+also_RB
+been_VBN [PASS]
+asked_VBN [SUAV]
+``_``
+to_TO
+suggest_VB [SUAV] [PUBV]
+remedial_JJ
+measures_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+that_THVC
+such_JJ
+unfortunate_JJ
+incident_NN
+do_VPRT
+not_XX0
+reoccur_VB
+,_,
+''_''
+the_DT
+statement_NOMZ
+said_VBD [PUBV]
+._.
+Meanwhile_RB
+railways_NN
+on_PIN
+Saturday_NN
+said_VBD [PUBV]
+that_THVC
+the_DT
+tragedy_NN
+was_VBD [BEMA]
+a_DT
+case_NN
+of_PIN
+trespassing_GER
+and_CC
+not_XX0
+a_DT
+railway_NN
+accident_NN
+and_CC
+ruled_VBD [SUAV]
+out_PIN
+a_DT
+probe_NN
+by_PIN
+the_DT
+Commissioner_NN
+Railway_NN
+Safety_NN
+._.
+The_DT
+Commission_NN
+of_PIN
+Railway_NN
+Safety_NN
+works_VPRT
+under_IN
+the_DT
+administrative_JJ
+control_NN
+of_PIN
+the_DT
+Ministry_NN
+of_PIN
+Civil_NN
+Aviation_NOMZ
+and_CC
+conducts_VPRT
+mandatory_JJ
+inquiry_NN
+into_PIN
+all_QUAN
+railway_NN
+accidents_NN
+-_:
+at_PIN
+unmanned_JJ
+level_NN
+crossings_GER
+,_,
+derailments_NOMZ
+or_CC
+after_IN
+a_DT
+bridge_NN
+collapse_NN
+._.
+``_``
+The_DT
+Commission_NN
+conducts_VPRT
+statutory_JJ
+investigation_NOMZ
+into_PIN
+railway_NN
+accidents_NN
+._.
+This_DEMP
+was_VBD [BEMA]
+an_DT
+incident_NN
+where_RB
+people_NN
+were_VBD
+trespassing_GER
+on_PIN
+the_DT
+tracks_NN
+and_CC
+not_XX0
+an_DT
+accident_NN
+,_,
+''_''
+Railway_NN
+Board_NN
+chairman_NN
+Ashwani_NN
+Lohani_NN
+told_VBD
+PTI_NN
+._.
+Railways_NN
+also_RB
+said_VBD [PUBV]
+that_THVC
+no_SYNE
+action_NOMZ
+will_PRMD
+be_VB [PASS]
+taken_VBN
+against_PIN
+the_DT
+driver_NN
+of_PIN
+the_DT
+train_NN
+who_WP [WHSUB]
+had_VBD [PEAS]
+managed_VBN
+to_TO
+slow_VB
+down_RP
+the_DT
+train_NN
+to_PIN
+around_PLACE
+68_CD
+kmph_NN
+from_PIN
+the_DT
+speed_NN
+of_PIN
+91kmph_CD
+at_PIN
+which_WDT [PIRE]
+he_TPP3
+was_VBD [PASS]
+assigned_VBN
+to_TO
+run_VB
+._.
+``_``
+The_DT
+incident_NN
+was_VBD [BEMA]
+not_XX0
+the_DT
+railways_NN
+'_POS
+fault_NN
+._.
+There_EX
+was_VBD
+no_SYNE
+lapse_NN
+on_PIN
+our_FPP1
+part_NN
+and_CC
+no_SYNE
+action_NOMZ
+against_PIN
+the_DT
+driver_NN
+will_PRMD
+be_VB [PASS]
+initiated_VBN
+,_,
+''_''
+Minister_NN
+of_PIN
+State_NN
+for_PIN
+Railways_NN
+Manoj_NN
+Sinha_NN
+said_VBD [PUBV]
+on_PIN
+Saturday_NN
+._.
+``_``
+People_NN
+should_NEMD
+refrain_VB
+from_PIN
+organising_VBG
+such_JJ
+events_NN
+near_PLACE
+the_DT
+tracks_NN
+in_PIN
+future_NN
+._.
+I_FPP1
+think_VPRT [PRIV]
+if_COND
+precautions_NOMZ
+had_VBD [PEAS]
+been_VBN [PASS]
+taken_VBN
+,_,
+the_DT
+accident_NN
+could_POMD
+have_VB [PEAS]
+been_VBN [PASS]
+averted_VBN
+,_,
+''_''
+he_TPP3
+said_VBD [PUBV]
+,_,
+adding_VBG [PUBV] [PRESP]
+wherever_RB [WHCL]
+such_JJ
+events_NN
+are_VPRT [PASS]
+held_VBN [PRIV]
+,_,
+the_DT
+district_NN
+administration_NOMZ
+gives_VPRT
+the_DT
+permission_NN
+._.
+An_DT
+FIR_NN
+was_VBD [PASS]
+lodged_VBN
+against_PIN
+unknown_JJ
+persons_NN
+,_,
+officials_NN
+said_VBD [PUBV]
+as_IN
+locals_NN
+asserted_VBD [PUBV]
+that_THVC
+effigy_JJ
+burning_GER
+had_VBD [PEAS]
+been_VBN
+going_VBG
+on_PIN
+at_PIN
+the_DT
+spot_NN
+for_PIN
+at_PIN
+least_JJ
+20_CD
+years_NN
+._.
+The_DT
+organiser_NN
+of_PIN
+Friday_NN
+'s_POS
+event_NN
+,_,
+Saurabh_NN
+Madan_NN
+,_,
+who_WP
+is_VPRT [BEMA]
+also_RB
+the_DT
+president_NN
+of_PIN
+Dussehra_NN
+Committee_NN
+-LRB-_-LRB-
+East_NN
+-RRB-_-RRB-
+and_ANDC
+husband_NN
+of_PIN
+Congress_NN
+Councillor_NN
+Vijay_NN
+Madan_NN
+,_,
+is_VPRT
+missing_VBG
+._.
+Meanwhile_RB
+,_,
+the_DT
+Amritsar_NN
+police_NN
+said_VBD [PUBV]
+though_CONC
+they_TPP3
+had_VBD [PEAS]
+given_VBN
+a_DT
+``_``
+no_SYNE
+objection_NOMZ
+''_''
+certificate_NN
+for_PIN
+the_DT
+Dussehra_NN
+celebrations_NOMZ
+,_,
+the_DT
+organisers_NN
+did_VBD
+not_XX0
+take_VB
+permission_NN
+from_PIN
+the_DT
+municipal_JJ
+corporation_NOMZ
+and_CC
+the_DT
+pollution_NOMZ
+department_NOMZ
+._.
+According_VBG [PRESP]
+to_PIN
+the_DT
+permission_NN
+document_NOMZ
+,_,
+the_DT
+organisers_NN
+were_VBD [PASS]
+given_VBN
+the_DT
+go-ahead_PLACE
+following_VBG
+their_TPP3
+assurance_NN
+that_TOBJ
+they_TPP3
+would_PRMD
+follow_VB
+the_DT
+directions_NOMZ
+of_PIN
+the_DT
+Punjab_NN
+and_PHC
+Haryana_NN
+High_NN
+Court_NN
+on_PIN
+usage_NN
+of_PIN
+loud_JJ
+speakers_NN
+._.
+They_TPP3
+had_VBD [SPAU] [PEAS]
+also_RB
+assured_VBN
+that_DEMO
+traffic_NN
+movement_NOMZ
+would_PRMD
+not_XX0
+be_VB [PASS]
+disrupted_VBN
+and_CC
+nobody_INPR
+would_PRMD
+carry_VB
+any_QUAN
+weapon_NN
+at_PIN
+the_DT
+event_NN
+,_,
+it_PIT
+said_VBD [PUBV]
+._.
+``_``
+Nobody_INPR
+had_VBD [PEAS]
+applied_VBN
+for_PIN
+the_DT
+permission_NN
+with_PIN
+the_DT
+Amritsar_NN
+Municipal_NN
+Corporation_NOMZ
+,_,
+''_''
+AMC_NN
+commissioner_NN
+Sonali_NN
+Giri_NN
+said_VBD [PUBV]
+._.

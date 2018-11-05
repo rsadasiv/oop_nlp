@@ -1,0 +1,932 @@
+#MeToo_NN
+'s_POS
+India_NN
+chapter_NN
+has_VPRT [PEAS]
+come_VBN
+like_IN
+a_DT
+reckoning_VBG [PRIV]
+for_PIN
+many_QUAN
+but_CC
+actor_NN
+Renuka_NN
+Shahane_NN
+says_VPRT [PUBV]
+there_EX
+are_VPRT
+still_RB
+uncountable_PRED
+,_,
+unknown_JJ
+stories_NN
+of_PIN
+women_NN
+who_WP [WHSUB]
+have_VPRT [PEAS]
+faced_VBN
+sexual_JJ
+harassment_NOMZ
+and_PHC
+abuse_NN
+that_TSUB
+are_VPRT
+waiting_VBG
+to_TO
+be_VB [PASS]
+heard_VBN [PRIV]
+._.
+The_DT
+actor_NN
+says_VPRT [PUBV] [THATD]
+she_TPP3
+also_RB
+has_VPRT
+a_DT
+story_NN
+but_CC
+she_TPP3
+was_VBD [BYPA]
+not_XX0
+wronged_VBN
+by_PIN
+someone_QUPR
+famous_JJ
+._.
+``_``
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+think_VB [PRIV]
+there_EX
+'s_VPRT [CONT]
+a_DT
+single_JJ
+woman_NN
+who_WP [WHSUB]
+does_VPRT
+not_XX0
+have_VB
+a_DT
+#MeToo_NN
+story_NN
+._.
+My_FPP1
+story_NN
+does_VPRT
+not_XX0
+involve_VB
+anyone_QUPR
+famous_JJ
+._.
+It_PIT
+happened_VBD
+a_DT
+long_JJ
+time_NN
+ago_IN
+but_CC
+it_PIT
+impacted_VBD
+me_FPP1
+for_PIN
+the_DT
+longest_JJ
+time_NN
+._.
+It_PIT
+has_VPRT [PEAS]
+colored_VBN
+how_RB
+I_FPP1
+view_VPRT
+things_NN
+._.
+I_FPP1
+have_VPRT [PEAS]
+spent_VBN
+my_FPP1
+entire_JJ
+life_NN
+traveling_VBG [WZPRES]
+in_PIN
+local_JJ
+trains_NN
+and_PHC
+buses_NN
+._.
+You_SPP2
+are_VPRT [BEMA]
+constantly_RB
+aware_PRED
+that_THAC
+you_SPP2
+will_PRMD
+get_VB
+pinched_VBN
+,_,
+your_SPP2
+breast_NN
+will_PRMD
+be_VB [PASS]
+pressed_VBN
+and_CC
+so_RB
+on_PIN [STPR]
+._.
+It_PIT
+does_VPRT
+n't_XX0 [CONT]
+matter_VB
+if_COND
+you_SPP2
+'re_VPRT [CONT] [BEMA]
+underage_PRED
+,_,
+married_JJ
+or_CC
+pregnant_JJ
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+never-ending_JJ
+list_NN
+,_,
+''_''
+Shahane_NN
+said_VBD [PUBV]
+in_PIN
+a_DT
+telephonic_JJ
+interview_NN
+._.
+The_DT
+actor_NN
+,_,
+who_WP
+unfailingly_RB
+voices_VPRT
+her_TPP3
+opinions_NN
+on_PIN
+important_JJ
+issues_NN
+on_PIN
+social_JJ
+media_NN
+,_,
+was_VBD [SPAU] [PASS]
+recently_TIME
+announced_VBN [PUBV]
+as_IN
+a_DT
+member_NN
+of_PIN
+an_DT
+advisory_JJ
+committee_NN
+by_PIN
+CINTAA_NN
+-LRB-_-LRB-
+Cine_NN
+And_PHC
+TV_NN
+Artistes_NN
+'_POS
+Association_NOMZ
+-RRB-_-RRB-
+to_TO
+tackle_VB
+sexual_JJ
+harassment_NOMZ
+in_PIN
+the_DT
+industry_NN
+,_,
+where_RB
+the_DT
+movement_NOMZ
+first_RB
+began_VBD
+with_PIN
+Tanushree_NN
+Dutta_NN
+reiterating_VBG [WZPRES]
+her_TPP3
+decade-old_JJ
+harassment_NOMZ
+story_NN
+against_PIN
+Nana_NN
+Patekar_NN
+._.
+Many_QUAN
+more_EMPH
+names_NN
+have_VPRT [PEAS]
+followed_VBN
+since_OSUB
+with_PIN
+people_NN
+like_IN
+Alok_NN
+Nath_NN
+,_,
+Sajid_NN
+Khan_NN
+,_,
+Subhash_NN
+Ghai_NN
+,_,
+Kailash_NN
+Kher_NN
+and_PHC
+Rajat_NN
+Kapoor_NN
+being_VBG [WZPRES] [PASS]
+accused_VBN
+of_PIN
+sexual_JJ
+harassment_NOMZ
+and_CC
+in_PIN
+some_QUAN
+cases_NN
+of_PIN
+rape_NN
+._.
+Shahane_NN
+,_,
+53_CD
+,_,
+says_VPRT [PUBV] [THATD]
+she_TPP3
+did_VBD
+not_XX0
+face_VB
+any_QUAN
+sexual_JJ
+harassment_NOMZ
+in_PIN
+the_DT
+industry_NN
+but_CC
+``_``
+it_PIT
+'s_VPRT [CONT] [BEMA]
+just_EMPH
+a_DT
+matter_NN
+of_PIN
+luck_NN
+''_''
+._.
+``_``
+There_EX
+have_VPRT [PEAS]
+been_VBN
+propositions_NOMZ
+but_CC
+when_RB
+I_FPP1
+refused_VBD
+the_DT
+people_NN
+respected_VBN
+my_FPP1
+decision_NN
+,_,
+so_RB
+there_EX
+'s_VPRT [CONT]
+that_DEMP
+._.
+''_''
+Alok_NN
+Nath_NN
+'s_POS
+misbehavior_NN
+was_VBD [BEMA]
+one_CD
+of_PIN
+industry_NN
+'s_POS
+worst-kept_JJ
+secret_NN
+,_,
+Shahane_NN
+says_VPRT [PUBV]
+,_,
+corroborating_VBG
+accounts_NN
+of_PIN
+Sandhya_NN
+Mridul_NN
+,_,
+Himani_NN
+Shivpuri_NN
+and_PHC
+Deepika_NN
+Amin_NN
+._.
+She_TPP3
+adds_VPRT [PUBV] [THATD]
+it_PIT
+was_VBD
+years_NN
+after_IN
+she_TPP3
+worked_VBD
+with_PIN
+the_DT
+actor_NN
+in_PIN
+Rajshri_NN
+Productions_NOMZ
+'_POS
+Hum_NN
+Aapke_NN
+Hain_NN
+Koun_NN
+!_.
+and_ANDC
+DD_NN
+show_VPRT [PRIV]
+Imtihaan_JJ
+that_THAC
+she_TPP3
+got_VBD
+to_TO
+know_VB [PRIV]
+about_IN
+Nath_NN
+'s_POS
+alleged_JJ
+behavior_NN
+when_RB
+magazines_NN
+splashed_VBD
+the_DT
+news_NN
+of_PIN
+Tara_NN
+star_NN
+Navneet_NN
+Nishan_NN
+slapping_GER
+him_TPP3
+._.
+Tara_NN
+writer-producer_NN
+Vinta_NN
+Nanda_NN
+has_VPRT [PEAS]
+accused_VBN
+Nath_NN
+of_PIN
+sexual_JJ
+harassment_NOMZ
+and_PHC
+rape_NN
+from_PIN
+almost_DWNT
+two_CD
+decades_NN
+ago_RB
+._.
+``_``
+Everyone_QUPR
+knew_VBD [PRIV]
+that_THVC
+once_TIME
+he_TPP3
+downed_VBD
+a_DT
+drink_NN
+,_,
+he_TPP3
+would_PRMD
+become_VB
+another_DT
+person_NN
+._.
+When_RB
+I_FPP1
+read_VPRT
+Sandhya_NN
+Mridul_NN
+'s_POS
+account_NN
+,_,
+I_FPP1
+thought_VBD [PRIV]
+at_PIN
+least_JJ
+he_TPP3
+admitted_VBD [PUBV]
+it_PIT
+to_PIN
+her_TPP3
+._.
+But_CC
+we_FPP1
+see_VPRT [PRIV]
+over_IN
+the_DT
+years_NN
+,_,
+the_DT
+behavior_NN
+just_EMPH
+went_VBD
+on_PIN
+and_CC
+on_PIN [STPR]
+._.
+I_FPP1
+was_VBD [BEMA]
+not_XX0
+a_DT
+party_NN
+person_NN
+,_,
+perhaps_RB
+that_DEMP
+'s_VPRT [CONT]
+why_RB
+I_FPP1
+never_RB
+experienced_VBD
+anything_QUPR
+with_PIN
+him_TPP3
+,_,
+''_''
+she_TPP3
+says_VPRT [PUBV]
+,_,
+adding_VBG [PUBV]
+Rajshri_NN
+always_RB
+maintained_VBD [PUBV]
+strict_JJ
+discipline_NN
+on_PIN
+its_PIT
+film_NN
+sets_NN
+._.
+``_``
+Everybody_QUPR
+behaves_VPRT
+in_PIN
+a_DT
+very_AMP
+different_JJ
+way_NN
+on_PIN
+a_DT
+Rajshri_NN
+set_NN
+,_,
+''_''
+she_TPP3
+says_VPRT [PUBV]
+._.
+Some_QUAN
+sections_NOMZ
+of_PIN
+the_DT
+society_NN
+have_VPRT [PEAS]
+branded_VBN
+#MeToo_NN
+as_IN
+a_DT
+``_``
+witch-hunt_NN
+''_''
+or_CC
+``_``
+public_JJ
+lynching_GER
+''_''
+with_PIN
+even_RB
+innocent_JJ
+men_NN
+'s_POS
+reputation_NOMZ
+being_VBG [WZPRES] [PASS]
+torched_VBN
+on_PIN
+social_JJ
+media_NN
+._.
+Shahane_NN
+disagrees_VPRT
+,_,
+saying_VBG [PUBV]
+nobody_INPR
+wants_VPRT
+an_DT
+innocent_JJ
+person_NN
+behind_PLACE
+the_DT
+bars_NN
+but_CC
+the_DT
+movement_NOMZ
+has_VPRT [PEAS]
+come_VBN
+into_PIN
+existence_NN
+because_CAUS
+the_DT
+legal_JJ
+route_NN
+is_VPRT [BEMA]
+long_PRED
+and_PHC
+tedious_PRED
+._.
+``_``
+The_DT
+burden_NN
+to_TO
+prove_VB [PRIV] [THATD]
+the_DT
+truth_NN
+is_VPRT [BEMA]
+heavy_PRED
+._.
+That_DEMP
+'s_VPRT [CONT]
+why_RB
+the_DT
+movement_NOMZ
+has_VPRT [PEAS]
+been_VBN [BEMA]
+important_JJ
+because_CAUS
+at_PIN
+least_JJ
+they_TPP3
+are_VPRT
+being_VBG [PASS]
+named_VBN
+and_PHC
+shamed_VBN
+._.
+Yes_UH
+,_,
+there_EX
+will_PRMD
+be_VB
+some_QUAN
+posts_NN
+that_TSUB
+will_PRMD
+be_VB [PASS]
+shared_VBN
+out_PIN
+of_PIN
+revenge_NN
+but_CC
+most_EMPH
+of_PIN
+the_DT
+people_NN
+who_WP [WHSUB]
+have_VPRT [PEAS]
+been_VBN [PASS]
+named_VBN
+and_PHC
+shamed_VBN
+like_IN
+MJ_NN
+Akbar_NN
+and_PHC
+Alok_NN
+Nath_NN
+have_VPRT [PEAS]
+been_VBN [PASS]
+known_VBN [PRIV]
+to_TO
+be_VB [BEMA]
+serial_JJ
+offenders_NN
+for_PIN
+years_NN
+._.
+These_DEMO
+people_NN
+have_VPRT [PEAS]
+made_VBN
+life_NN
+miserable_JJ
+for_PIN
+women_NN
+for_PIN
+years_NN
+altogether_AMP
+._.
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+see_VB [PRIV]
+it_PIT
+as_IN
+lynching_VBG
+._.
+They_TPP3
+are_VPRT
+moving_VBG [SUAV]
+court_NN
+for_PIN
+defamation_NOMZ
+cases_NN
+._.
+Women_NN
+are_VPRT
+standing_VBG
+up_RP
+._.
+If_COND
+they_TPP3
+were_VBD [BEMA]
+not_XX0
+sure_PRED
+of_PIN
+such_JJ
+accusations_NOMZ
+,_,
+they_TPP3
+would_PRMD
+not_XX0
+be_VB
+standing_VBG
+up_RB
+,_,
+''_''
+she_TPP3
+says_VPRT [PUBV]
+._.
+Shahane_NN
+is_VPRT [BEMA]
+happy_PRED
+that_THAC
+industry_NN
+bodies_NN
+such_JJ
+as_IN
+CINTAA_NN
+,_,
+Indian_NN
+Film_NN
+&_CC
+Television_NN
+Directors_NN
+'_POS
+Association_NOMZ
+and_PHC
+Screen_NN
+Writers_NN
+'_POS
+Association_NOMZ
+and_PHC
+Producers_NN
+Guild_NN
+of_PIN
+India_NN
+are_VPRT
+taking_VBG
+steps_NN
+to_TO
+ensure_VB [SUAV] [PRIV]
+safe_JJ
+working_VBG
+environment_NOMZ
+for_PIN
+women_NN
+in_PIN
+showbiz_NN
+._.
+The_DT
+actor_NN
+says_VPRT [PUBV]
+now_TIME
+the_DT
+people_NN
+who_WP [WHSUB]
+have_VPRT [PEAS]
+faced_VBN
+sexual_JJ
+harassment_NOMZ
+in_PIN
+the_DT
+industry_NN
+will_PRMD
+have_VB
+a_DT
+place_NN
+to_TO
+go_VB
+to_PIN
+where_RB
+they_TPP3
+can_POMD
+be_VB [PASS]
+heard_VBN [PRIV]
+._.
+``_``
+All_QUAN
+these_DEMO
+associations_NOMZ
+have_VPRT [PEAS]
+taken_VBN
+a_DT
+very_AMP
+positive_JJ
+and_PHC
+strong_JJ
+reaction_NOMZ
+on_PIN
+the_DT
+issue_NN
+._.
+CINTAA_NN
+has_VPRT [PEAS]
+taken_VBN
+it_PIT
+seriously_RB
+from_PIN
+day_NN
+one_CD
+._.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+really_EMPH
+happy_PRED
+that_THAC
+men_NN
+like_IN
+Sushant_NN
+Singh_NN
+and_PHC
+Amit_NN
+Behl_NN
+have_VPRT [PEAS]
+stood_VBN
+up_RP
+and_CC
+decided_VBD [SUAV] [PRIV] [THATD]
+that_DEMP
+`_``
+enough_RB
+is_VPRT [BEMA]
+enough_PRED
+'_''
+._.
+It_PIT
+is_VPRT [BEMA]
+important_PRED
+to_TO
+understand_VB [PRIV]
+that_THVC
+it_PIT
+is_VPRT [BEMA]
+not_XX0
+a_DT
+women_NN
+'s_POS
+movement_NOMZ
+,_,
+it_PIT
+'s_VPRT [CONT] [BEMA]
+a_DT
+human_JJ
+movement_NOMZ
+._.
+Irrespective_RB
+of_PIN
+the_DT
+gender_NN
+,_,
+we_FPP1
+all_QUAN
+have_VPRT
+to_TO
+work_VB
+together_RB
+._.
+Sexual_JJ
+harassment_NOMZ
+has_VPRT
+no_SYNE
+place_NN
+in_PIN
+the_DT
+workplace_NN
+and_CC
+it_PIT
+has_VPRT
+to_TO
+be_VB [PASS]
+done_VBN [PROD]
+away_PLACE
+with_PIN [STPR]
+._.
+It_PIT
+ca_POMD
+n't_XX0 [CONT]
+be_VB [BEMA]
+a_DT
+rule_NN
+rather_RB
+than_PIN
+being_VBG [BEMA]
+an_DT
+exception_NOMZ
+._.
+That_DEMO
+so_RB
+many_QUAN
+people_NN
+knew_VBD [PRIV]
+about_IN
+it_PIT
+and_CC
+did_VBD [PROD]
+nothing_INPR
+,_,
+now_DPAR
+that_DEMP
+can_POMD
+not_XX0
+be_VB [BEMA]
+acceptable_PRED
+,_,
+''_''
+she_TPP3
+says_VPRT [PUBV]
+._.
+Shahane_NN
+,_,
+who_WP
+will_PRMD
+be_VB [BEMA]
+next_PRED
+be_VB [PASS]
+seen_VBN [PRIV]
+in_PIN
+the_DT
+second_JJ
+season_NN
+of_PIN
+Dice_NN
+Media_NN
+'s_POS
+webseries_NN
+What_WP
+the_DT
+Folks_NN
+,_,
+says_VPRT [PUBV]
+working_VBG
+on_PIN
+the_DT
+sets_NN
+of_PIN
+the_DT
+family_NN
+comedy_NN
+,_,
+was_VBD [BEMA]
+a_DT
+breath_NN
+of_PIN
+fresh_JJ
+air_NN
+for_PIN
+her_TPP3
+._.
+``_``
+It_PIT
+is_VPRT [BEMA]
+so_EMPH
+easy_PRED
+to_TO
+work_VB
+in_PIN
+a_DT
+non-misogynist_JJ
+environment_NOMZ
+,_,
+''_''
+she_TPP3
+says_VPRT [PUBV]
+._.

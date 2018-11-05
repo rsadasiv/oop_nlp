@@ -1,0 +1,7 @@
+Andrea_NNP Ashworth_NNP -LRB-_-LRB- born_VBN 1969_CD -RRB-_-RRB- is_VBZ an_DT English_JJ writer_NN and_CC academic_JJ ,_, known_VBN for_IN her_PRP$ memoir_NN Once_RB in_IN a_DT House_NNP on_IN Fire_NNP ,_, which_WDT won_VBD the_DT Somerset_NNP Maugham_NNP Award_NNP from_IN the_DT Society_NNP of_IN Authors_NNPS in_IN 1999_CD ._.
+Ashworth_NNP was_VBD born_VBN in_IN Manchester_NNP in_IN 1969_CD ._.
+She_PRP studied_VBD at_IN Xaverian_JJ college_NN in_IN Manchester_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- She_PRP studied_VBD at_IN Hertford_NNP College_NNP ,_, Oxford_NNP ,_, where_WRB she_PRP was_VBD a_DT scholar_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- She_PRP later_RB became_VBD a_DT Junior_NNP Research_NNP Fellow_NNP of_IN Jesus_NNP College_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- Once_RB in_IN a_DT House_NNP on_IN Fire_NNP ,_, published_VBN in_IN 1998_CD ,_, won_VBD the_DT Somerset_NNP Maugham_NNP Award_NNP from_IN the_DT Society_NNP of_IN Authors_NNPS in_IN 1999_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- It_PRP tells_VBZ the_DT story_NN of_IN her_PRP$ traumatic_JJ upbringing_NN and_CC the_DT abuse_NN that_IN she_PRP suffered_VBD at_IN the_DT hands_NNS of_IN her_PRP$ two_CD stepfathers_NNS ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

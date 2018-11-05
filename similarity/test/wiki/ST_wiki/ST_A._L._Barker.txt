@@ -1,0 +1,4 @@
+Audrey_NNP Lilian_NNP Barker_NNP FRSL_NNP -LRB-_-LRB- 13_CD April_NNP 1918_CD ''_'' 21_CD February_NNP 2002_CD -RRB-_-RRB- was_VBD an_DT English_JJ novelist_NN and_CC short_JJ story_NN writer_NN ._.
+She_PRP was_VBD born_VBN in_IN St_NNP Pauls_NNP Cray_NNP ,_, Kent_NNP and_CC brought_VBD up_RP in_IN Beckenham_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- During_IN her_PRP$ lifetime_NN ,_, she_PRP published_VBD ten_NN collections_NNS of_IN short_JJ stories_NNS and_CC eleven_JJ novels_NNS ,_, one_CD of_IN which_WDT -_: John_NNP Brown_NNP 's_POS Body_NNP -_: was_VBD shortlisted_VBN for_IN the_DT Booker_NNP Prize_NNP in_IN 1970_CD ._.
+She_PRP was_VBD also_RB the_DT winner_NN of_IN the_DT inaugural_JJ Somerset_NNP Maugham_NNP Prize_NNP in_IN 1947_CD ,_, with_IN her_PRP$ collection_NN of_IN short_JJ stories_NNS called_VBN Innocents_NNS ._.

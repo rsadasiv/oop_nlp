@@ -1,0 +1,18 @@
+In_IN September_NNP this_DT year_NN ,_, Apple_NNP launched_VBD the_DT iPhone_NNP XS_NNP ,_, iPhone_NNP XS_NNP Max_NNP ,_, and_CC iPhone_NNP XR_NNP ._.
+Compared_VBN to_TO the_DT premium_NN iPhone_NNP Xs_NNP and_CC iPhone_NNP Xs_NNP Max_NNP ,_, the_DT iPhone_NNP XR_NNP is_VBZ a_DT budget-friendly_JJ iPhone_NNP ._.
+Now_RB ,_, analyst_NN with_IN KGI_NNP Securities_NNP Ming-Chi_NNP Kuo_NNP has_VBZ stated_VBN that_IN the_DT iPhone_NNP XR_NNP will_MD be_VB the_DT top_JJ selling_NN iPhone_NNP model_NN of_IN the_DT year_NN ._.
+He_PRP believes_VBZ that_IN most_JJS people_NNS with_IN upgrade_NN to_TO this_DT model_NN ,_, rather_RB than_IN the_DT other_JJ two_CD ._.
+According_VBG to_TO MacRumours_NNP ,_, Apple_NNP is_VBZ expected_VBN to_TO ship_VB 36_CD to_TO 38_CD million_CD iPhone_NNP XR_NNP units_NNS in_IN the_DT fourth_JJ quarter_NN of_IN 2018_CD ,_, up_RB 10_CD percent_NN from_IN an_DT original_JJ estimate_NN of_IN 33_CD to_TO 35_CD million_CD units_NNS ._.
+iPhone_NNP XR_NNP shipments_NNS are_VBP also_RB expected_VBN to_TO be_VB up_RB in_IN the_DT first_JJ quarter_NN of_IN 2019_CD ,_, a_DT historically_RB slow_JJ quarter_NN for_IN Apple_NNP ._.
+In_IN India_NNP ,_, the_DT iPhone_NNP XR_NNP is_VBZ priced_VBN at_IN Rs_NNP 76,900_CD for_IN the_DT 64GB_NNP variant_NN ,_, Rs_NNP 81,900_CD for_IN the_DT 256GB_NNP variant_NN and_CC Rs_NNS 91,900_CD for_IN the_DT 512GB_NNP variant_NN ._.
+In_IN terms_NNS of_IN features_NNS ,_, the_DT iPhone_NNP XR_NNP has_VBZ a_DT single-lens_JJ glass-backed_JJ design_NN and_CC is_VBZ available_JJ in_IN a_DT bunch_NN of_IN colors_NNS including_VBG red_JJ ,_, blue_JJ ,_, copper_NN and_CC yellow_NN ._.
+The_DT iPhone_NNP XR_NNP is_VBZ the_DT new_JJ budget_NN iPhone_NNP ,_, customers_NNS can_MD possess_VB ._.
+The_DT phone_NN is_VBZ iP67_JJ water_NN resistant_NN ._.
+It_PRP has_VBZ LCD_VBN edge_NN to_TO edge_VB and_CC not_RB OLED_NNP like_IN the_DT other_JJ phones_NNS ._.
+It_PRP 's_VBZ a_DT bigger_JJR display_NN than_IN the_DT 8_CD Plus_NNP but_CC physically_RB smaller_JJR than_IN an_DT 8_CD Plus_NNP ._.
+iPhone_NNP XR_NNP has_VBZ a_DT new_JJ name_NN for_IN the_DT display_NN :_: Liquid_NN Retina_NNP display_NN ._.
+iPhone_NNP XR_NNP will_MD not_RB have_VB 3D_VBN touch_NN but_CC it_PRP does_VBZ get_VB 120Hz_JJ touch_NN responsiveness_NN ,_, True-Tone_NNP and_CC tap-to-wake_JJ on_IN an_DT LCD_NNP ._.
+The_DT device_NN will_MD have_VB rear_JJ camera_NN with_IN a_DT 12MP_NNP wide_JJ angle_NN ,_, same_JJ as_IN in_IN the_DT Xs_NNP and_CC Xs_NNP Max_NNP ._.
+But_CC it_PRP will_MD have_VB single_JJ lens_NN only_RB ._.
+Also_RB ,_, iPhone_NNP XR_NNP gets_VBZ the_DT new_JJ True_JJ Tone_NN flash_NN ._.
+The_DT iPhone_NNP XR_NNP also_RB gets_VBZ portrait_NN mode_NN and_CC depth_NN control_NN ,_, just_RB like_IN the_DT iPhone_NNP Xs_NNP ._.

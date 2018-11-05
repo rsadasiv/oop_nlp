@@ -1,0 +1,39 @@
+Anne_NNP Bacon_NNP -LRB-_-LRB- née_NN Cooke_NNP ;_: 1527_CD or_CC 1528_CD ''_'' 27_CD August_NNP 1610_CD -RRB-_-RRB- was_VBD an_DT English_JJ lady_NN and_CC scholar_NN ._.
+She_PRP made_VBD a_DT lasting_JJ contribution_NN to_TO English_NNP religious_JJ literature_NN with_IN her_PRP$ translation_NN from_IN Latin_NNP of_IN John_NNP Jewel_NNP 's_POS Apologie_NNP of_IN the_DT Anglican_NNP Church_NNP -LRB-_-LRB- 1564_CD -RRB-_-RRB- ._.
+She_PRP was_VBD the_DT mother_NN of_IN Francis_NNP Bacon_NNP ._.
+Anne_NNP or_CC Ann_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- was_VBD an_DT English_JJ translator_NN and_CC lady_NN of_IN the_DT British_JJ court_NN ._.
+Though_IN Anne_NNP <sup>_NNP TM_NNP </sup>_NNP s_VBZ exact_JJ date_NN of_IN birth_NN is_VBZ not_RB known_VBN ,_, it_PRP is_VBZ presumed_VBN she_PRP was_VBD born_VBN in_IN or_CC around_IN 1528_CD ._.
+Anne_NNP was_VBD born_VBN in_IN Essex_NNP ,_, England_NNP ,_, one_CD of_IN the_DT five_CD daughters_NNS of_IN Anthony_NNP Cooke_NNP ,_, tutor_NN to_TO Henry_NNP VIII_NNP 's_POS only_JJ son_NN Edward_NNP ._.
+Being_VBG an_DT educator_NN ,_, Anthony_NNP ensured_VBD that_IN all_DT of_IN his_PRP$ four_CD sons_NNS and_CC five_CD daughters_NNS received_VBD a_DT humanist_JJ educations_NNS ,_, with_IN in-depth_JJ studies_NNS in_IN languages_NNS and_CC the_DT classics_NNS ._.
+From_IN the_DT success_NN of_IN not_RB just_RB Anne_VB ,_, but_CC Anthony_NNP 's_POS other_JJ daughters_NNS ,_, this_DT thorough_JJ education_NN is_VBZ quite_RB evident_JJ ._.
+Anne_NNP was_VBD trained_VBN in_IN Latin_NNP ,_, Italian_NNP ,_, French_NNP ,_, Greek_JJ ,_, and_CC possibly_RB even_RB Hebrew_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Her_PRP$ sister_NN the_DT Lady_NNP Elizabeth_NNP Hoby_NNP was_VBD trained_VBN in_IN languages_NNS and_CC is_VBZ also_RB well_RB known_VBN for_IN similar_JJ translations_NNS and_CC texts_NNS ._.
+Her_PRP$ family_NN 's_POS social_JJ status_NN was_VBD high_JJ ,_, in_IN part_NN because_IN her_PRP$ father_NN worked_VBD so_RB closely_RB with_IN the_DT Tudor_NNP royal_NN family_NN ,_, and_CC were_VBD large_JJ landowners_NNS as_IN a_DT result_NN ._.
+They_PRP had_VBD an_DT association_NN of_IN some_DT sort_NN with_IN Stratford_NNP though_IN what_WP precisely_RB this_DT association_NN was_VBD remains_VBZ unspecified_JJ ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- A_DT deeply_RB religious_JJ woman_NN ,_, Anne_NNP 's_POS main_JJ works_NNS are_VBP religious_JJ centred_JJ ._.
+Anne_NNP was_VBD overly_RB passionate_JJ about_IN her_PRP$ religion_NN ,_, which_WDT can_MD be_VB seen_VBN in_IN the_DT letters_NNS she_PRP wrote_VBD to_TO her_PRP$ sons_NNS ,_, Anthony_NNP Bacon_NNP and_CC Sir_NNP Francis_NNP Bacon_NNP ._.
+Due_JJ to_TO her_PRP$ education_NN ,_, she_PRP wrote_VBD many_JJ letters_NNS to_TO clergymen_NNS and_CC debated_VBD theology_NN with_IN them_PRP as_RB well_RB ,_, however_RB ,_, the_DT letters_NNS to_TO her_PRP$ sons_NNS are_VBP more_RBR concerned_JJ with_IN their_PRP$ well-being_NN both_DT in_IN mind_NN ,_, body_NN ,_, and_CC spirit_NN ._.
+At_IN twenty-two_NN ,_, she_PRP translated_VBD and_CC published_VBD Bernardino_NNP Ochino_NNP 's_POS work_NN Ochines_NNP Sermons_NNP from_IN the_DT Italian_JJ ._.
+Her_PRP$ translation_NN from_IN the_DT Latin_NNP into_IN English_NNP of_IN Bishop_NNP John_NNP Jewel_NNP 's_POS work_NN of_IN 1564_CD Apology_NNP for_IN the_DT Church_NNP of_IN England_NNP was_VBD a_DT significant_JJ step_NN in_IN the_DT intellectual_JJ justification_NN of_IN Protestantism_NNP in_IN England_NNP ._.
+The_DT work_NN was_VBD a_DT clarification_NN of_IN the_DT differences_NNS between_IN Anglicanism_NNP and_CC Roman_NNP Catholicism_NNP ,_, and_CC was_VBD critical_JJ to_TO the_DT support_NN of_IN Elizabeth_NNP I_PRP 's_POS religious_JJ policies_NNS ._.
+Anne_NNP Cooke_NNP married_JJ Sir_NNP Nicholas_NNP Bacon_NNP ,_, Queen_NNP Elizabeth_NNP 's_POS Keeper_NNP of_IN the_DT Great_NNP Seal_NNP ,_, in_IN 1553_CD and_CC they_PRP had_VBD two_CD sons_NNS ,_, Anthony_NNP and_CC Francis_NNP Bacon_NNP ,_, the_DT latter_JJ later_JJ becoming_VBG a_DT philosopher_NN and_CC a_DT pioneer_NN of_IN the_DT scientific_JJ revolution_NN ._.
+For_IN a_DT while_NN ,_, Anne_NNP Bacon_NNP was_VBD a_DT leading_VBG Lady-in-Waiting_NNP to_TO Queen_NNP Elizabeth_NNP ._.
+Her_PRP$ religious_JJ views_NNS remained_VBD strongly_RB Puritan_NNP ,_, and_CC she_PRP called_VBD for_IN the_DT eradication_NN of_IN all_DT Popery_NNP in_IN the_DT Church_NNP of_IN England_NNP ._.
+Anne_NNP wrote_VBD many_JJ letters_NNS ,_, fervent_JJ with_IN her_PRP$ passion_NN for_IN her_PRP$ Protestant_JJ beliefs_NNS ._.
+Many_JJ of_IN her_PRP$ later_JJ letters_NNS were_VBD addressed_VBN to_TO her_PRP$ sons_NNS ,_, Anthony_NNP and_CC Francis_NNP ._.
+Her_PRP$ letters_NNS to_TO her_PRP$ sons_NNS are_VBP said_VBN to_TO express_VB ``_`` the_DT jealousy_NN with_IN which_WDT she_PRP regarded_VBD her_PRP$ authority_NN over_IN them_PRP long_RB after_IN they_PRP had_VBD reached_VBN manhood_NN ,_, ''_'' and_CC being_VBG concerned_VBN with_IN their_PRP$ spiritual_JJ welfare_NN ._.
+In_IN the_DT letters_NNS she_PRP also_RB demands_VBZ they_PRP follow_VBP her_PRP$ wishes_NNS ,_, scorns_VBZ them_PRP when_WRB they_PRP disregard_VBP her_PRP$ wishes_NNS ,_, and_CC expects_VBZ her_PRP$ sons_NNS to_TO update_VB her_PRP$ quite_RB thoroughly_RB on_IN their_PRP$ day-to-day_JJ lives_NNS ._.
+Though_IN these_DT demands_NNS she_PRP makes_VBZ are_VBP true_JJ ,_, sources_NNS agree_VBP ,_, her_PRP$ main_JJ concern_NN was_VBD their_PRP$ spiritual_JJ welfare_NN ,_, and_CC their_PRP$ religious_JJ lives_NNS ._.
+In_IN James_NNP Spedding_NNP 's_POS book_NN ,_, The_DT Letters_NNP and_CC Life_NNP of_IN Francis_NNP Bacon_NNP ,_, a_DT letter_NN from_IN Anne_NNP to_TO Francis_NNP is_VBZ featured_VBN ._.
+Here_RB Anne_NNP addresses_NNS her_PRP$ views_NNS of_IN the_DT on-goings_NNS of_IN the_DT church_NN and_CC the_DT government_NN ,_, speaking_VBG knowledgeably_RB and_CC elegantly_RB ._.
+She_PRP addresses_VBZ her_PRP$ son_NN ,_, and_CC though_IN the_DT letter_NN is_VBZ quite_RB formal_JJ and_CC written_VBN in_IN flowery_NN vocabulary_NN ,_, her_PRP$ emotions_NNS and_CC love_NN for_IN her_PRP$ religion_NN and_CC her_PRP$ son_NN come_VBN through_IN ._.
+She_PRP expresses_VBZ her_PRP$ desires_NNS that_IN he_PRP be_VB a_DT good_JJ man_NN ._.
+Others_NNS of_IN these_DT letters_NNS were_VBD addressed_VBN to_TO clergymen_NNS ,_, amongst_IN them_PRP Bishop_NNP Goodman_NNP ._.
+Anne_NNP wrote_VBD letters_NNS thoroughly_RB quoting_VBG classic_JJ Greek_JJ and_CC Latin_JJ ._.
+In_IN her_PRP$ later_JJ years_NNS ,_, Bishop_NNP Goodman_NNP called_VBD Anne_NNP ``_`` frantic_JJ in_IN her_PRP$ age_NN ''_'' and_CC so_IN it_PRP seems_VBZ she_PRP lived_VBD somewhat_RB out_IN of_IN the_DT spotlight_NN until_IN her_PRP$ death_NN in_IN 1610_CD ._.
+This_DT is_VBZ a_DT portion_NN of_IN Anne_NNP 's_POS life_NN where_WRB we_PRP can_MD find_VB little_JJ information_NN ._.
+Her_PRP$ later_JJ years_NNS seem_VBP to_TO be_VB somewhat_RB of_IN a_DT mystery_NN ,_, as_IN she_PRP wrote_VBD few_JJ letters_NNS ,_, and_CC participated_VBD in_IN few_JJ events_NNS at_IN court_NN ._.
+In_IN her_PRP$ last_JJ letter_NN ,_, dated_VBN 27_CD August_NNP 1610_CD ,_, Anne_NNP wrote_VBD to_TO her_PRP$ friend_NN Sir_NNP Michael_NNP Hicks_NNP ,_, inviting_VBG him_PRP to_TO her_PRP$ funeral_JJ ._.
+Her_PRP$ exact_JJ date_NN of_IN passing_VBG is_VBZ not_RB precisely_RB known_VBN ,_, though_IN it_PRP is_VBZ clearly_RB in_IN the_DT days_NNS surrounding_VBG this_DT letter_NN ._.
+She_PRP died_VBD at_IN about_IN the_DT age_NN of_IN 82_CD and_CC was_VBD entombed_VBN in_IN St_NNP Michael_NNP 's_POS Church_NNP in_IN St_NNP Albans_NNPS ._.
+Her_PRP$ second_JJ son_NN ,_, Sir_NNP Francis_NNP Bacon_NNP is_VBZ buried_VBN there_RB as_RB well_RB ,_, per_IN his_PRP$ request_NN to_TO be_VB near_IN his_PRP$ mother_NN ._.

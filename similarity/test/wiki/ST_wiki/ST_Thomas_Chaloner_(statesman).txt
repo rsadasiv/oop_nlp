@@ -1,0 +1,36 @@
+Sir_NNP Thomas_NNP Chaloner_NNP -LRB-_-LRB- 1521_CD ''_'' 14_CD October_NNP 1565_CD -RRB-_-RRB- was_VBD an_DT English_JJ statesman_NN and_CC poet_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- Thomas_NNP Chaloner_NNP was_VBD born_VBN in_IN 1521_CD to_TO Margaret_NNP Myddleton_NNP and_CC Roger_NNP Challoner_NNP -LRB-_-LRB- c._FW 1490_CD ``_`` 1550_CD -RRB-_-RRB- ,_, a_DT descendant_NN of_IN the_DT Denbighshire_NNP Chaloners_NNPS ._.
+His_PRP$ father_NN was_VBD a_DT London_NNP silk_NN merchant_NN who_WP lived_VBD at_IN St_NNP Mary-at-Hill_NNP Street_NNP ,_, Billingsgate_NNP ._.
+A_DT courtier_NN ,_, Roger_NNP was_VBD a_DT Gentleman-Usher_NNP of_IN the_DT Privy_NNP Chamber_NNP to_TO King_NNP Henry_NNP VIII_NNP ,_, a_DT Teller_NNP of_IN the_DT Receipt_NNP of_IN the_DT Exchequer_NNP ,_, and_CC a_DT Freeman_NNP of_IN the_DT City_NNP of_IN London_NNP through_IN the_DT Worshipful_NNP Company_NN of_IN Mercers_NNPS ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- -LRB-_-LRB- 3_LS -RRB-_-RRB- Roger_NNP died_VBD in_IN 1550_CD and_CC was_VBD buried_VBN in_IN the_DT main_JJ body_NN of_IN the_DT Church_NNP of_IN St_NNP Dunstan-in-the-East_NNP ._.
+Sir_NNP Thomas_NNP 's_POS two_CD brothers_NNS ,_, Francis_NNP and_CC John_NNP Challoner_NNP settled_VBD in_IN Ireland_NNP where_WRB John_NNP became_VBD a_DT prominent_JJ politician_NN and_CC administrator_NN ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- No_DT details_NNS are_VBP known_VBN of_IN Thomas_NNP Chaloner_NNP 's_POS youth_NN except_IN that_IN he_PRP was_VBD educated_VBN at_IN both_DT Oxford_NNP and_CC Cambridge_NNP -LRB-_-LRB- likely_JJ St_NNP John_NNP 's_POS College_NNP -RRB-_-RRB- ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- In_IN 1540_CD he_PRP went_VBD ,_, as_IN secretary_NN to_TO Sir_NNP Henry_NNP Knyvett_NNP ,_, to_TO the_DT court_NN of_IN Charles_NNP V_NNP ,_, whom_WP he_PRP accompanied_VBD in_IN his_PRP$ expedition_NN against_IN Algiers_NNP in_IN 1541_CD ,_, and_CC was_VBD wrecked_VBN on_IN the_DT Barbary_JJ coast_NN ._.
+In_IN 1547_CD he_PRP joined_VBD in_IN the_DT expedition_NN to_TO Scotland_NNP ,_, and_CC was_VBD knighted_VBN ,_, after_IN the_DT battle_NN of_IN Pinkie_NNP near_IN Musselburgh_NNP ,_, by_IN the_DT protector_NN Somerset_NNP ,_, whose_WP$ patronage_NN he_PRP enjoyed_VBD ._.
+In_IN 1549_CD he_PRP was_VBD a_DT witness_NN against_IN Edmund_NNP Bonner_NNP ,_, bishop_NN of_IN London_NNP ;_: in_IN 1551_CD against_IN Stephen_NNP Gardiner_NNP ,_, bishop_NN of_IN Winchester_NNP ;_: in_IN the_DT spring_NN of_IN the_DT latter_JJ year_NN he_PRP was_VBD sent_VBN as_IN a_DT commissioner_NN to_TO Scotland_NNP to_TO conclude_VB the_DT Treaty_NNP of_IN Norham_NNP ,_, and_CC again_RB in_IN March_NNP 1552_CD ._.
+In_IN 1553_CD he_PRP went_VBD with_IN Sir_NNP Nicholas_NNP Wotton_NNP and_CC Sir_NNP William_NNP Pickering_NNP on_IN an_DT embassy_NN to_TO France_NNP ,_, but_CC was_VBD recalled_VBN by_IN Queen_NNP Mary_NNP on_IN her_PRP$ accession_NN ._.
+In_IN spite_NN of_IN his_PRP$ Protestant_JJ views_NNS ,_, Chaloner_NNP was_VBD still_RB employed_VBN by_IN the_DT government_NN ,_, going_VBG to_TO Scotland_NNP in_IN 1555_CD ``_`` 1556_CD ,_, and_CC providing_VBG carriages_NNS for_IN troops_NNS in_IN the_DT war_NN with_IN France_NNP ,_, 1557_CD ``_`` 1558_CD ._.
+In_IN 1558_CD he_PRP went_VBD as_IN Elizabeth_NNP 's_POS ambassador_NN to_TO the_DT Emperor_NNP Ferdinand_NNP at_IN Cambrai_NNP ,_, from_IN July_NNP 1559_CD to_TO February_NNP 1559\/60_CD he_PRP was_VBD ambassador_NN to_TO Philip_NNP II_NNP of_IN Spain_NNP at_IN Brussels_NNP ,_, and_CC in_IN 1561_CD he_PRP went_VBD in_IN the_DT same_JJ capacity_NN to_TO Spain_NNP ._.
+His_PRP$ letters_NNS are_VBP full_JJ of_IN complaints_NNS of_IN his_PRP$ treatment_NN there_RB ,_, but_CC it_PRP was_VBD not_RB till_IN 1564_CD ,_, when_WRB in_IN failing_VBG health_NN ,_, that_IN he_PRP was_VBD allowed_VBN to_TO return_VB home_NN ._.
+He_PRP died_VBD at_IN his_PRP$ house_NN in_IN Clerkenwell_NNP on_IN 14_CD October_NNP 1565_CD ._.
+He_PRP acquired_VBD during_IN his_PRP$ years_NNS of_IN service_NN three_CD estates_NNS ,_, Guisborough_NNP in_IN Yorkshire_NNP ,_, Steeple_NNP Claydon_NNP in_IN Buckinghamshire_NNP ,_, and_CC St_NNP Bees_NNPS in_IN Cumberland_NNP ._.
+He_PRP married_VBD -LRB-_-LRB- I_PRP -RRB-_-RRB- Joan_NNP ,_, widow_NN of_IN Sir_NNP Thomas_NNP Leigh_NNP ;_: and_CC -LRB-_-LRB- 2_LS -RRB-_-RRB- Audrey_NNP ,_, daughter_NN of_IN Edward_NNP Frodsham_NNP ,_, of_IN Elton_NNP ,_, Cheshire_NNP ,_, by_IN whom_WP he_PRP had_VBD one_CD son_NN ,_, Sir_NNP Thomas_NNP Chaloner_NNP -LRB-_-LRB- 1559_CD ``_`` 1615_CD -RRB-_-RRB- ._.
+Chaloner_NNP was_VBD the_DT intimate_JJ of_IN most_JJS of_IN the_DT learned_VBN men_NNS of_IN his_PRP$ day_NN ,_, and_CC with_IN Lord_NNP Burghley_NNP he_PRP had_VBD a_DT lifelong_JJ friendship_NN ._.
+Throughout_IN his_PRP$ busy_JJ official_JJ life_NN he_PRP occupied_VBD himself_PRP with_IN literature_NN ,_, his_PRP$ Latin_JJ verses_NNS and_CC his_PRP$ pastoral_JJ poems_NNS being_VBG much_JJ admired_VBN by_IN his_PRP$ contemporaries_NNS ._.
+Chaloner_NNP 's_POS ''_'' Howe_NNP the_DT Lorde_NNP Mowbray_NNP ._. ._.
+was_VBD ._. ._. ._.
+banyshed_VBD the_DT Realme_NNP ,_, ''_'' printed_VBN in_IN the_DT 1559_CD edition_NN of_IN William_NNP Baldwin_NNP 's_POS Mirror_NNP for_IN Magistrates_NNP -LRB-_-LRB- repr_NN ._.
+in_IN vol_NN ._.
+ii_FW ._.
+pt_NN ._.
+1_CD of_IN Joseph_NNP Haslewood_NNP 's_POS edition_NN of_IN 1815_CD -RRB-_-RRB- ,_, has_VBZ sometimes_RB been_VBN attributed_VBN to_TO Thomas_NNP Churchyard_NNP ._.
+His_PRP$ most_RBS important_JJ work_NN ,_, De_NNP Rep._NNP Anglorum_NNP instauranda_NN libri_NN decem_NN ,_, written_VBN while_IN he_PRP was_VBD in_IN Spain_NNP ,_, was_VBD first_JJ published_VBN by_IN William_NNP Malim_NNP -LRB-_-LRB- 1579_CD ,_, 3_CD pts_NNS ._. -RRB-_-RRB-
+,_, with_IN complimentary_JJ Latin_JJ verses_NNS in_IN praise_NN of_IN the_DT author_NN by_IN Burghley_NNP and_CC others_NNS ._.
+Chaloner_NNP 's_POS epigrams_NNS and_CC epitaphs_NNS were_VBD also_RB added_VBN to_TO the_DT volume_NN ,_, as_RB well_RB as_IN in_IN laudem_NN Henrici_NNP octavi_NN ..._: carmen_NNS Panegericum_NNP ,_, first_JJ printed_VBN in_IN 1560_CD ._.
+Amongst_IN his_PRP$ other_JJ works_NNS are_VBP The_DT praise_NN of_IN folie_NN ,_, Moriae_NNP encomium_NN ..._: by_IN Erasmus_NNP ..._: Englished_VBN by_IN Sir_NNP Thomas_NNP Chaloner_NNP ,_, Knight_NNP -LRB-_-LRB- 1549_CD ,_, ed_VBN ._.
+Janet_NNP E._NNP Ashbee_NNP ,_, 1901_CD -RRB-_-RRB- ;_: A_DT book_NN of_IN the_DT Office_NNP of_IN Servantes_NNP -LRB-_-LRB- 1543_CD -RRB-_-RRB- ,_, translated_VBN from_IN Gilbert_NNP Cognatus_NNP ;_: and_CC An_DT homilie_NN of_IN Saint_NNP John_NNP Chrysostome_NNP ..._: Englished_VBN by_IN T._NNP C._NNP -LRB-_-LRB- 1544_CD -RRB-_-RRB- ._.
+See_VB ``_`` The_DT Chaloners_NNP ,_, Lords_NNPS of_IN the_DT Manor_NNP of_IN St_NNP Bees_NNPS ,_, ''_'' by_IN William_NNP Jackson_NNP ,_, in_IN Transactions_NNS of_IN the_DT Cumberland_NNP Assoc_NNP ._.
+for_IN the_DT Advancement_NNP of_IN Literature_NNP and_CC Science_NNP ,_, pt_NN ._.
+vi_FW ._.
+pp_NN ._.
+47_CD ``_`` 74_CD ,_, 1880_CD ``_`` 1881_CD ._.

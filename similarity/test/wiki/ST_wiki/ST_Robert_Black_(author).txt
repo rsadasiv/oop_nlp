@@ -1,0 +1,14 @@
+Robert_NNP Black_NNP -LRB-_-LRB- 1829_CD ``_`` 1915_CD -RRB-_-RRB- was_VBD a_DT British_JJ author_NN of_IN fiction_NN and_CC non-fiction_NN ,_, as_RB well_RB as_IN a_DT journalist_NN and_CC translator_NN ._.
+He_PRP is_VBZ chiefly_RB remembered_VBN for_IN his_PRP$ works_NNS on_IN horse_NN racing_NN and_CC for_IN a_DT translation_NN of_IN François_NNP Guizot_NNP 's_POS Popular_NNP History_NN of_IN France_NNP ,_, his_PRP$ most_RBS successful_JJ work_NN ._.
+Black_NNP was_VBD born_VBN on_IN 14_CD May_NNP 1829_CD in_IN London_NNP ,_, England_NNP ,_, the_DT second_JJ son_NN of_IN Robert_NNP Black_NNP ,_, a_DT clerk_NN of_IN the_DT same_JJ city_NN ._.
+He_PRP matriculated_VBD from_IN Christ_NNP 's_POS Hospital_NN in_IN 1848_CD ,_, and_CC was_VBD admitted_VBN to_TO Pembroke_NNP College_NNP at_IN Cambridge_NNP University_NNP on_IN 24_CD June_NNP 1848_CD at_IN the_DT age_NN of_IN 19_CD ._.
+He_PRP took_VBD his_PRP$ B.A._NNP in_IN 1852_CD and_CC M.A._NNP in_IN 1856_CD ._.
+During_IN his_PRP$ last_JJ years_NNS he_PRP lived_VBD a_DT life_NN of_IN seclusion_NN in_IN London_NNP ,_, where_WRB he_PRP died_VBD on_IN 8_CD April_NNP 1915_CD ._.
+Black_NNP commenced_VBD his_PRP$ writing_VBG career_NN as_IN a_DT classical_JJ scholar_NN who_WP produced_VBD articles_NNS on_IN current_JJ affairs_NNS and_CC the_DT Italian_JJ Renaissance_NNP ,_, and_CC translations_NNS of_IN French_JJ works_NNS ._.
+His_PRP$ translation_NN of_IN Guizot_NNP went_VBD through_IN numerous_JJ editions_NNS in_IN England_NNP and_CC America_NNP ._.
+He_PRP started_VBD contributing_VBG fiction_NN to_TO such_JJ periodicals_NNS as_IN the_DT Cornhill_NNP Magazine_NNP ,_, Macmillan_NNP 's_POS Magazine_NNP and_CC Chambers_NNP '_POS Journal_NNP in_IN the_DT 1860s_NNS ._.
+His_PRP$ work_NN also_RB appeared_VBD in_IN the_DT Athenaeum_NNP and_CC The_DT Field_NN ._.
+Black_NNP 's_POS early_JJ short_JJ stories_NNS were_VBD gathered_VBN into_IN two_CD collections_NNS ,_, after_IN which_WDT he_PRP attempted_VBD a_DT novel_NN ,_, Love_NNP or_CC Lucre_NNP ,_, published_VBN by_IN Richard_NNP Bentley_NNP &_CC Son_NNP in_IN 1878_CD ._.
+A_DT protracted_JJ dispute_NN over_IN Bentley_NNP 's_POS editorial_NN practices_NNS appears_VBZ to_TO have_VB soured_VBN him_PRP on_IN fiction_NN ,_, and_CC though_IN another_DT short_JJ story_NN collection_NN and_CC novel_NN were_VBD projected_VBN nothing_NN came_VBD of_IN these_DT efforts_NNS ._.
+Black_NNP later_RB achieved_VBD some_DT success_NN as_IN an_DT authority_NN on_IN horse_NN racing_NN ,_, contributing_VBG articles_NNS on_IN the_DT subject_NN to_TO the_DT St._NNP James_NNP Gazette_NNP ,_, the_DT Pall_NNP Mall_NNP Gazette_NNP ,_, The_NNP Times_NNP ,_, and_CC The_DT Sportsman_NNP ,_, and_CC three_CD books_NNS ,_, the_DT third_JJ of_IN which_WDT was_VBD again_RB published_VBN by_IN Bentley_NNP ._.
+Incomplete_JJ listing_NN ,_, based_VBN largely_RB on_IN the_DT contents_NNS of_IN The_DT Blackbird_NNP of_IN Baden_NNP and_CC Lady_NNP Caroline_NNP ._.

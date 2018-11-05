@@ -1,0 +1,29 @@
+James_NNP Bateman_NNP -LRB-_-LRB- 18_CD July_NNP 1811_CD ''_'' 27_CD November_NNP 1897_CD -RRB-_-RRB- was_VBD a_DT British_JJ landowner_NN and_CC accomplished_JJ horticulturist_NN ._.
+He_PRP developed_VBD Biddulph_NNP Grange_NNP after_IN moving_VBG there_RB around_IN 1840_CD ,_, from_IN nearby_JJ Knypersley_NNP Hall_NNP in_IN Staffordshire_NNP ,_, England_NNP ._.
+He_PRP created_VBD the_DT famous_JJ gardens_NNS at_IN Biddulph_NNP with_IN the_DT aid_NN of_IN his_PRP$ friend_NN and_CC painter_NN of_IN seascapes_NNS Edward_NNP William_NNP Cooke_NNP ._.
+From_IN 1865_CD ``_`` 70_CD he_PRP was_VBD the_DT founding_JJ president_NN of_IN the_DT North_NNP Staffordshire_NNP Field_NNP Club_NNP ,_, the_DT large_JJ local_JJ club_NN which_WDT to_TO this_DT day_NN researches_VBZ local_JJ natural_JJ history_NN and_CC folklore_NN ._.
+He_PRP was_VBD born_VBN at_IN Redvales_NNP near_IN Bury_NNP in_IN Lancashire_NNP ,_, he_PRP matriculated_VBD with_IN Lincoln_NNP College_NNP ,_, Oxford_NNP ,_, in_IN 1829_CD ,_, graduating_VBG from_IN Magdalen_NNP College_NNP with_IN a_DT BA_NNP in_IN 1834_CD and_CC an_DT MA_NNP in_IN 1845_CD ._.
+Over_IN the_DT twenty_CD years_NNS he_PRP made_VBD a_DT great_JJ deal_NN of_IN money_NN in_IN iron_NN ,_, engineering_NN and_CC banking_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- In_IN 1861_CD ,_, Bateman_NNP and_CC his_PRP$ notable_JJ sons_NNS -LRB-_-LRB- who_WP included_VBD the_DT painter_NN Robert_NNP Bateman_NNP -RRB-_-RRB- gave_VBD up_RP the_DT house_NN and_CC gardens_NNS at_IN Biddulph_NNP ,_, and_CC he_PRP moved_VBD to_TO Kensington_NNP in_IN London_NNP ._.
+He_PRP later_RB moved_VBD to_TO Worthing_JJ in_IN Sussex_NNP ,_, where_WRB he_PRP died_VBD on_IN 27_CD November_NNP 1897_CD ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- ``_`` MA_NNP Magdalen_NNP College_NNP ,_, Oxford_NNP ,_, 1845_CD ,_, took_VBD great_JJ interest_NN in_IN collecting_VBG and_CC cultivating_VBG tropical_JJ plants_NNS ;_: FLS_NNP ,_, 1833_CD ;_: FRS_NNP ,_, 1838_CD ;_: fellow_NN of_IN Royal_NNP Horticultural_NNP Society_NNP ;_: published_VBN writings_NNS on_IN orchids_NNS and_CC other_JJ horticultural_JJ subjects_NNS ._. ''_''
+-LRB-_-LRB- 3_LS -RRB-_-RRB- He_PRP was_VBD a_DT collector_NN of_IN and_CC scholar_NN on_IN orchids_NNS ,_, President_NNP of_IN the_DT North_NNP Staffordshire_NNP Field_NNP Society_NNP ,_, and_CC served_VBD on_IN the_DT Royal_NNP Horticultural_NNP Society_NNP 's_POS Plant_NNP Exploration_NNP Committee_NNP ._.
+He_PRP especially_RB loved_VBD rhododendrons_NNS and_CC azaleas_NNS ._.
+He_PRP had_VBD a_DT number_NN of_IN notable_JJ sons_NNS who_WP grew_VBD up_RP at_IN Biddulph_NNP Grange_NNP ,_, including_VBG the_DT painter_NN Robert_NNP Bateman_NNP ._.
+Bateman_NNP was_VBD ``_`` a_DT collector_NN and_CC scholar_NN on_IN orchids_NNS ,_, ''_'' -LRB-_-LRB- 4_LS -RRB-_-RRB- and_CC ``_`` was_VBD one_CD of_IN the_DT early_JJ developers_NNS of_IN orchid_JJ culture_NN ._.
+He_PRP sponsored_VBD expeditions_NNS to_TO Mexico_NNP and_CC South_NNP America_NNP enabling_VBG collectors_NNS to_TO gather_VB rare_JJ specimens_NNS ._.
+He_PRP published_VBD three_CD lavish_JJ books_NNS about_IN orchids_NNS ._.
+He_PRP pioneered_VBD ``_`` cool_JJ orchid_NN cultivation_NN ''_'' which_WDT enabled_VBD the_DT Odontoglossum_NNP to_TO be_VB cultivated_VBN in_IN England_NNP ,_, replicating_VBG the_DT cool_JJ arid_JJ climate_NN of_IN the_DT cloud_NN forests_NNS in_IN Central_NNP America_NNP where_WRB these_DT exotic_JJ flowers_NNS are_VBP found_VBN ._.
+Walter_NNP Hood_NNP Fitch_NNP ,_, -LRB-_-LRB- 1817_CD ``_`` 1892_CD -RRB-_-RRB- ..._: was_VBD employed_VBN by_IN Bateman_NNP to_TO create_VB the_DT paintings_NNS for_IN his_PRP$ magnificent_JJ orchid_JJ books_NNS ..._: exceedingly_RB rare_JJ ,_, A_DT Monograph_NNP of_IN Odontoglossum_NNP ,_, is_VBZ composed_VBN of_IN thirty_CD large_JJ scale_NN hand-coloured_JJ lithographs_NNS ._. ''_''
+-LRB-_-LRB- 5_CD -RRB-_-RRB- The_DT naturalist_NN ,_, Charles_NNP Darwin_NNP ``_`` received_VBD a_DT box_NN of_IN orchids_NNS from_IN Bateman_NNP on_IN 25_CD January_NNP 1862_CD -LRB-_-LRB- and_CC -RRB-_-RRB- a_DT letter_NN from_IN him_PRP dated_VBN 28_CD January_NNP 1862_CD ._. ''_''
+-LRB-_-LRB- 6_CD -RRB-_-RRB- He_PRP created_VBD the_DT famous_JJ gardens_NNS at_IN Biddulph_NNP with_IN the_DT aid_NN of_IN his_PRP$ friend_NN and_CC painter_NN of_IN seascapes_NNS Edward_NNP William_NNP Cooke_NNP ._.
+His_PRP$ gardens_NNS at_IN Biddulph_NNP are_VBP a_DT rare_JJ survival_NN of_IN the_DT interim_JJ period_NN between_IN Capability_NNP Brown_NNP landscape_NN garden_NN and_CC the_DT High_NNP Victorian_JJ style_NN ._.
+The_DT gardens_NNS are_VBP compartmentalised_VBN and_CC divided_VBN into_IN themes_NNS ._.
+Bateman_NNP ``_`` was_VBD also_RB responsible_JJ for_IN laying_VBG out_RP the_DT Arboretum_NNP at_IN Derby_NNP ,_, the_DT first_JJ public_JJ park_NN in_IN England_NNP ._. ''_''
+-LRB-_-LRB- 7_CD -RRB-_-RRB- The_DT children_NNS 's_POS book_NN by_IN Priscilla_NNP Masters_NNP ,_, Mr_NNP Bateman_NNP 's_POS Garden_NNP -LRB-_-LRB- 1987_CD -RRB-_-RRB- ,_, is_VBZ a_DT fantasy_NN set_VBN in_IN the_DT gardens_NNS ._.
+On_IN 24_CD April_NNP 1838_CD ,_, he_PRP married_VBD Maria_NNP Sybilla_NNP ,_, third_JJ daughter_NN of_IN Rowland_NNP Egerton_NNP Warburton_NNP and_CC sister_NN of_IN Peter_NNP Egerton_NNP Warburton_NNP ;_: they_PRP had_VBD three_CD sons_NNS ,_, John_NNP ,_, Rowland_NNP ,_, and_CC Robert_NNP ,_, and_CC a_DT daughter_NN ,_, Katherine_NNP ,_, who_WP married_VBD Ulrick_NNP Ralph_NNP Burke_NNP ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Carlyle_NNP ,_, Edward_NNP Irving_NNP -LRB-_-LRB- 1901_CD -RRB-_-RRB- ._.
+``_`` Bateman_NNP ,_, James_NNP ''_'' ._.
+In_IN Lee_NNP ,_, Sidney_NNP ._.
+Dictionary_NNP of_IN National_NNP Biography_NNP ,_, 1901_CD supplement_NN -LRB-_-LRB- ._.
+London_NNP :_: Smith_NNP ,_, Elder_NNP &_CC Co._NNP ._.

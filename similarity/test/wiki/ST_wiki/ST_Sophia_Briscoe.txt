@@ -1,0 +1,16 @@
+Sophia_NNP Briscoe_NNP -LRB-_-LRB- fl_NN ._.
+1770s_NNS -RRB-_-RRB- was_VBD an_DT 18th-century_JJ English_JJ novelist_NN ._.
+Little_NNP is_VBZ known_VBN of_IN her_PRP$ life_NN ._.
+Briscoe_NNP was_VBD the_DT author_NN of_IN the_DT epistolary_JJ novels_NNS Miss_NNP Melmoth_NNP ;_: or_CC the_DT New_NNP Clarissa_NNP -LRB-_-LRB- 1771_CD -RRB-_-RRB- -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC The_DT Fine_JJ Lady_NNP :_: A_NNP Novel_NNP -LRB-_-LRB- sometimes_RB The_DT Fine_JJ Lady_NNP ;_: or_CC a_DT history_NN of_IN Mrs._NNP Montague_NNP ,_, 1772_CD -RRB-_-RRB- ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- Briscoe_NNP was_VBD paid_VBN 20_CD guineas_NNS for_IN the_DT copyright_NN of_IN The_DT Fine_JJ Lady_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- A_DT German_JJ translation_NN of_IN The_DT Fine_JJ Lady_NNP appeared_VBD as_IN Die_VBP Frau_NNP nach_NN der_NN Mode_NNP in_IN Leipzig_NNP ,_, dated_VBN 1771_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- Both_DT novels_NNS are_VBP available_JJ in_IN print-on-demand_JJ editions_NNS ._.
+Miss_NNP Melmoth_NNP was_VBD well_RB received_VBN in_IN The_DT Critical_JJ Review_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- The_DT Monthly_JJ Review_NNP mildly_RB commended_VBD it_PRP ._.
+-LRB-_-LRB- 6_CD -RRB-_-RRB- The_DT treatment_NN of_IN incest_NN in_IN Miss_NNP Melmoth_NNP -LRB-_-LRB- Caroline_NNP Melmoth_NNP shies_VBZ away_RB from_IN marrying_VBG Sir_NNP John_NNP Evelin_NNP instinctively_RB ,_, before_IN discovering_VBG their_PRP$ relationship_NN -RRB-_-RRB- has_VBZ been_VBN discussed_VBN along_IN with_IN other_JJ aspects_NNS by_IN at_IN least_JJS one_CD modern_JJ critic_NN ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- It_PRP has_VBZ been_VBN speculated_VBN that_IN The_DT Sylph_NNP ,_, a_DT novel_NN published_VBN in_IN 1778_CD that_WDT was_VBD attributed_VBN to_TO Georgiana_NNP Cavendish_NNP ,_, Duchess_NNP of_IN Devonshire_NNP ,_, was_VBD written_VBN by_IN Briscoe_NNP ._.
+A_DT receipt_NN at_IN the_DT British_JJ Library_NNP suggests_VBZ that_IN the_DT publisher_NN T._NNP Lowndes_NNP paid_VBD Briscoe_NNP #_# 12_CD for_IN The_DT Sylph_NNP ,_, -LRB-_-LRB- 8_CD -RRB-_-RRB- but_CC it_PRP is_VBZ thought_VBN more_RBR likely_JJ on_IN stylistic_JJ grounds_NNS that_WDT Briscoe_NNP simply_RB served_VBD as_IN an_DT intermediary_JJ between_IN the_DT Duchess_NNP and_CC her_PRP$ publisher_NN ,_, so_RB that_IN Georgiana_NNP could_MD retain_VB her_PRP$ anonymity_NN ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- The_DT novel_NN has_VBZ its_PRP$ champions_NNS to_TO this_DT day_NN ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB- Little_NNP further_RBR is_VBZ known_VBN of_IN Sophia_NNP Briscoe_NNP ._.
+It_PRP is_VBZ not_RB possible_JJ to_TO say_VB whether_IN the_DT person_NN who_WP wrote_VBD from_IN Leyton_NNP ,_, Essex_NNP ,_, to_TO William_NNP Pitt_NNP the_DT Younger_NNP on_IN 14_CD December_NNP 1797_CD ,_, on_IN the_DT subject_NN of_IN taxation_NN ,_, was_VBD the_DT novelist_NN or_CC a_DT namesake_NN ._.
+-LRB-_-LRB- 11_CD -RRB-_-RRB-

@@ -1,0 +1,85 @@
+Make wordnet, dictionaries part of ra, share across scorers
+New scorers
+Words not in wordnet
+Sentences without verbs
+Topics distribution - zipf ?
+Topic weighting? First sentence in text, first paragraph in text, first word in sentence
+Don’t filter too soon. No stop words .
+Every counting measure divided by number of tokens scaled to 100
+
+
+
+Submissions vs wiki
+Submissions vs blog
+Submissions vs Victorian
+Submissions vs dnaindia
+
+Gutenberg short story corpus?
+Wikipedia literary genres? - Unpromising :(
+
+Stanford NLP
+Understand pipeline
+Understand annotators
+Depparse
+TokensRegex
+Quotes
+Understand custom annotators
+Understand client server
+Annotator factories
+Annotation serialization
+Threading
+Resource loading
+
+OOP
+Logging
+Testing
+Docker
+Refactor scorer interfaces
+Make all scorers nlp annotators
+Implement Biber factors
+Mappers/reducers/normalizers
+
+Qualitative
+I as character/not in quote
+Characters-coref-descriptions
+Locations-setting-descriptions
+Setting
+Interior/exterior
+Time
+Place
+Who/when/where
+Wikimedia images
+Flickr images
+
+Quantitative
+Database schema
+Database inserter
+Analytics
+Cluster analysis
+Tfidf
+
+Corpora
+Inter corpus similarity vectors
+Intra corpus similarity vectors
+Intra document similarity vectors
+
+Drupal
+Content type
+API loaders
+Custom Forms
+Buttons/actions
+Navigation/links
+Personalization
+
+UI
+Story reader
+Quantitative visualizations
+Qualitative visualizations
+Display example sentences per feature
+Profile builder/feedback
+Query by example
+Navigate similarity vectors
+Sentence reader
+Animations
+Midi
+Video

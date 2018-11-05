@@ -1,0 +1,19 @@
+Martin_NNP Booth_NNP -LRB-_-LRB- 7_CD September_NNP 1944_CD ''_'' 12_CD February_NNP 2004_CD -RRB-_-RRB- was_VBD a_DT British_JJ novelist_NN and_CC poet_NN ._.
+He_PRP also_RB worked_VBD as_IN a_DT teacher_NN and_CC screenwriter_NN ,_, and_CC was_VBD the_DT founder_NN of_IN the_DT Sceptre_NNP Press_NNP ._.
+Booth_NN was_VBD born_VBN in_IN Lancashire_NNP ,_, but_CC was_VBD brought_VBN up_RP mainly_RB in_IN Hong_NNP Kong_NNP ,_, where_WRB he_PRP first_RB attended_VBD Kowloon_NNP Junior_NNP School_NNP ,_, the_DT Peak_NNP School_NNP then_RB King_NNP George_NNP V_NNP School_NNP ,_, and_CC left_VBD in_IN 1964_CD ._.
+He_PRP first_RB made_VBD his_PRP$ name_NN as_IN a_DT poet_NN and_CC as_IN a_DT publisher_NN ,_, producing_VBG elegant_JJ volumes_NNS by_IN British_JJ and_CC American_JJ poets_NNS ,_, including_VBG slim_JJ volumes_NNS of_IN work_NN by_IN Sylvia_NNP Plath_NNP and_CC Ted_NNP Hughes_NNP ._.
+His_PRP$ own_JJ books_NNS of_IN verse_JJ include_VBP The_DT Knotting_NNP Sequence_NNP -LRB-_-LRB- 1977_CD -RRB-_-RRB- ,_, named_VBN for_IN the_DT village_NN in_IN which_WDT Booth_NNP was_VBD living_VBG at_IN the_DT time_NN ._.
+The_DT book_NN features_VBZ a_DT series_NN of_IN lyrics_NNS in_IN which_WDT he_PRP seeks_VBZ links_NNS between_IN the_DT present_JJ and_CC the_DT Saxon_NNP past_NN ,_, and_CC the_DT man_NN called_VBN Knot_NNP who_WP gave_VBD his_PRP$ name_NN to_TO the_DT village_NN ._.
+Booth_NN also_RB accumulated_VBN a_DT library_NN of_IN contemporary_JJ verse_NN ,_, which_WDT allowed_VBD him_PRP to_TO produce_VB anthologies_NNS and_CC lectures_VBZ ._.
+In_IN the_DT late_JJ 1970s_NNS Booth_NNP turned_VBD mainly_RB to_TO writing_VBG fiction_NN ._.
+His_PRP$ first_JJ successful_JJ novel_NN ,_, Hiroshima_NNP Joe_NNP ,_, was_VBD published_VBN in_IN 1985_CD ._.
+The_DT book_NN is_VBZ based_VBN on_IN what_WP he_PRP heard_VBD from_IN a_DT man_NN he_PRP met_VBD as_IN a_DT boy_NN in_IN Hong_NNP Kong_NNP and_CC contains_VBZ passages_NNS set_VBN in_IN that_DT city_NN during_IN the_DT Second_NNP World_NNP War_NNP ._.
+Booth_NN was_VBD a_DT veteran_NN traveller_NN who_WP retained_VBD an_DT enthusiasm_NN for_IN flying_VBG ,_, also_RB expressed_VBN in_IN his_PRP$ poems_NNS ,_, such_JJ as_IN ``_`` Kent_NNP Says_VBZ ''_'' and_CC In_IN Killing_VBG the_DT Moscs_NNP ._.
+His_PRP$ interest_NN in_IN observing_VBG and_CC studying_VBG wildlife_NN resulted_VBD in_IN a_DT book_NN about_IN Jim_NNP Corbett_NNP ,_, a_DT big-game_JJ hunter_NN and_CC expert_NN on_IN man-eating_JJ tigers_NNS ._.
+Many_JJ of_IN Booth_NNP 's_POS works_NNS were_VBD linked_VBN to_TO the_DT British_JJ imperial_JJ past_NN in_IN China_NNP ,_, Hong_NNP Kong_NNP and_CC Central_NNP Asia_NNP ._.
+Booth_NN was_VBD also_RB fond_JJ of_IN the_DT United_NNP States_NNPS ,_, where_WRB he_PRP had_VBD many_JJ poet_NN friends_NNS ,_, and_CC of_IN Italy_NNP ,_, which_WDT features_VBZ in_IN many_JJ of_IN his_PRP$ later_JJ poems_NNS and_CC in_IN his_PRP$ novel_NN A_DT Very_NNP Private_NNP Gentleman_NNP -LRB-_-LRB- 1990_CD -RRB-_-RRB- ._.
+These_DT interests_NNS form_VBP a_DT thread_NN through_IN his_PRP$ later_JJ novels_NNS ,_, travel_NN books_NNS and_CC biographies_NNS ._.
+Booth_NN 's_POS novel_NN Industry_NN of_IN Souls_NNS was_VBD shortlisted_VBN for_IN the_DT 1998_CD Booker_NNP Prize_NNP ._.
+Booth_NN died_VBD of_IN cancer_NN in_IN Devon_NNP in_IN 2004_CD ,_, shortly_RB after_IN completing_VBG Gweilo_NNP ,_, a_DT memoir_NN of_IN his_PRP$ Hong_NNP Kong_NNP childhood_NN written_VBN for_IN his_PRP$ own_JJ children_NNS ._.
+The_DT 2010_CD film_NN The_DT American_NNP ,_, starring_VBG George_NNP Clooney_NNP ,_, was_VBD based_VBN on_IN his_PRP$ novel_NN A_DT Very_NNP Private_NNP Gentleman_NNP ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB-

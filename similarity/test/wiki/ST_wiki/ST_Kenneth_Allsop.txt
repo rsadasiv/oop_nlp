@@ -1,0 +1,13 @@
+Kenneth_NNP Allsop_NNP -LRB-_-LRB- 29_CD January_NNP 1920_CD ''_'' 23_CD May_NNP 1973_CD -RRB-_-RRB- was_VBD a_DT British_JJ broadcaster_NN ,_, author_NN and_CC naturalist_NN ._.
+-LRB-_-LRB- 1_CD -RRB-_-RRB- -LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP was_VBD a_DT regular_JJ reporter_NN on_IN the_DT BBC_NNP current_JJ affairs_NNS program_NN Tonight_NNP during_IN the_DT 1960s_NNS ._.
+He_PRP also_RB was_VBD Rector_NNP of_IN Edinburgh_NNP University_NNP and_CC won_VBD the_DT John_NNP Llewellyn_NNP Rhys_NNP Prize_NNP ._.
+In_IN 1958_CD he_PRP wrote_VBD an_DT account_NN of_IN 1950s_CD British_JJ literature_NN ,_, The_DT Angry_NNP Decade_NNP ,_, -LRB-_-LRB- 3_LS -RRB-_-RRB- at_IN the_DT end_NN of_IN which_WDT he_PRP remarked_VBD that_IN :_: ``_`` In_IN this_DT technologically_RB triumphant_JJ age_NN ,_, when_WRB the_DT rockets_NNS begin_VBP to_TO scream_VB up_RP towards_IN the_DT moon_NN but_CC the_DT human_JJ mind_NN seems_VBZ at_IN an_DT even_RB greater_JJR distance_NN ,_, anger_NN has_VBZ a_DT limited_JJ use_NN ._.
+Love_NNP has_VBZ a_DT wider_JJR application_NN ,_, and_CC it_PRP is_VBZ that_IN which_WDT needs_VBZ describing_VBG wherever_WRB it_PRP can_MD be_VB found_VBN so_IN that_IN we_PRP may_MD all_DT recognize_VB it_PRP and_CC learn_VB its_PRP$ use_NN ._. ''_''
+He_PRP was_VBD married_VBN in_IN St_NNP Peter_NNP 's_POS Church_NNP ,_, Ealing_NNP ,_, in_IN March_NNP 1942_CD ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT inquest_JJS on_IN his_PRP$ death_NN recorded_VBD an_DT open_JJ verdict_NN ,_, despite_IN having_VBG found_VBN that_IN it_PRP was_VBD brought_VBN about_RB by_IN an_DT overdose_NN of_IN barbiturates_NNS ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- He_PRP is_VBZ buried_VBN at_IN Powerstock_NNP in_IN Dorset_NNP ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- The_DT Kenneth_NNP Allsop_NNP Memorial_NNP Trust_NNP ,_, a_DT registered_VBN charity_NN ,_, -LRB-_-LRB- 6_CD -RRB-_-RRB- was_VBD launched_VBN in_IN 1973_CD with_IN an_DT appeal_NN for_IN funds_NNS ,_, at_IN first_JJ intending_VBG to_TO acquire_VB and_CC conserve_VB Eggardon_NNP Hill_NNP in_IN Dorset_NNP ._.
+-LRB-_-LRB- 7_CD -RRB-_-RRB- Instead_RB ,_, in_IN 1976_CD the_DT trust_NN bought_VBD the_DT island_NN of_IN Steep_NNP Holm_NNP in_IN the_DT Bristol_NNP Channel_NNP for_IN #_# 10,000_CD ,_, and_CC runs_VBZ it_PRP as_IN a_DT nature_NN reserve_NN ._.
+-LRB-_-LRB- 8_CD -RRB-_-RRB- The_DT Sunday_NNP Times_NNP instituted_VBD a_DT Kenneth_NNP Allsop_NNP Memorial_NNP Essay_NNP Competition_NNP ,_, which_WDT took_VBD place_NN annually_RB until_IN 1986_CD ._.
+-LRB-_-LRB- 9_CD -RRB-_-RRB- The_DT Allsop_NNP Gallery_NNP ,_, an_DT exhibition_NN space_NN in_IN Bridport_NNP Arts_NNP Centre_NNP ,_, Dorset_NNP ,_, is_VBZ named_VBN after_IN him_PRP ._.
+-LRB-_-LRB- 10_CD -RRB-_-RRB-

@@ -1,0 +1,16 @@
+Cathy_NNP Cassidy_NNP -LRB-_-LRB- born_VBN 13_CD June_NNP 1962_CD -RRB-_-RRB- is_VBZ a_DT British_JJ author_NN of_IN young_JJ adult_NN fiction_NN ._.
+She_PRP was_VBD born_VBN in_IN Coventry_NNP ,_, in_IN Warwickshire_NNP ._.
+For_IN a_DT number_NN of_IN years_NNS she_PRP lived_VBD near_IN New_NNP Galloway_NNP in_IN Scotland_NNP where_WRB she_PRP started_VBD writing_VBG her_PRP$ novels_NNS but_CC now_RB lives_VBZ on_IN The_DT Wirral_NNP ._.
+She_PRP has_VBZ written_VBN 30_CD books_NNS and_CC a_DT few_JJ e-books_NNS as_RB well_RB ._.
+She_PRP has_VBZ also_RB been_VBN the_DT agony_JJ aunt_NN for_IN Shout_NNP ,_, a_DT magazine_NN for_IN teenage_JJ girls_NNS ,_, and_CC she_PRP presently_RB has_VBZ a_DT series_NN of_IN four_CD books_NNS about_IN Daizy_NNP Star_NNP for_IN younger_JJR readers_NNS and_CC a_DT series_NN of_IN books_NNS for_IN older_JJR readers_NNS called_VBD the_DT Chocolate_NNP Box_NNP Girls_NNP ._.
+Cassidy_NNP now_RB lives_VBZ on_IN The_DT Wirral_NNP ,_, Merseyside_NNP with_IN her_PRP$ husband_NN ,_, Liam_NNP ._.
+She_PRP has_VBZ two_CD children_NNS Calum_NNP -LRB-_-LRB- 22_CD -RRB-_-RRB- and_CC Caitlin_NNP -LRB-_-LRB- 21_CD -RRB-_-RRB- ._.
+She_PRP has_VBZ been_VBN a_DT vegetarian_NN for_IN over_IN 35_CD years_NNS ,_, and_CC was_VBD a_DT vegan_NN for_IN 8_CD years_NNS ._.
+Her_PRP$ lurcher_NN ,_, Kelpie_NNP ,_, inspired_VBD the_DT dog_NN Legg-It_NNP in_IN her_PRP$ first_JJ book_NN ._.
+Cassidy_NNP was_VBD the_DT agony_JJ aunt_NN on_IN teenage_JJ Shout_NNP magazine_NN for_IN 12_CD years_NNS and_CC for_IN many_JJ years_NNS taught_VBD art_NN in_IN local_JJ primary_JJ schools_NNS ._.
+She_PRP attended_VBD Liverpool_NNP Polytechnic_NNP ,_, where_WRB she_PRP studied_VBD Illustration_NNP ._.
+She_PRP has_VBZ drawn_VBN all_DT of_IN the_DT illustrations_NNS and_CC the_DT front_NN covers_VBZ to_TO all_PDT the_DT Daizy_NNP Star_NNP books_NNS ._.
+Cassidy_NNP has_VBZ three_CD times_NNS been_VBN nominated_VBN for_IN the_DT Queen_NNP of_IN Teen_NNP award_NN ,_, in_IN 2008_CD -LRB-_-LRB- when_WRB it_PRP was_VBD founded_VBN -RRB-_-RRB- ,_, 2010_CD and_CC 2012_CD ._.
+Authors_NNS have_VBP included_VBN Sarah_NNP Webb_NNP ,_, Louise_NNP Rennison_NNP -LRB-_-LRB- the_DT 2008_CD winner_NN -RRB-_-RRB- -RRB-_-RRB- and_CC Sarra_NNP Manning_NNP ._.
+In_IN 2010_CD ,_, fans_NNS voted_VBD Cassidy_NNP as_IN the_DT winner_NN ._.
+In_IN 2012_CD ,_, she_PRP was_VBD a_DT runner_NN up_IN to_TO Maureen_NNP Johnson_NNP ._.

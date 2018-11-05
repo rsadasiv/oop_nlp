@@ -1,0 +1,8 @@
+Edwyn_NNP Robert_NNP Bevan_NNP OBE_NNP ,_, FBA_NNP -LRB-_-LRB- 15_CD February_NNP 1870_CD in_IN London_NNP ''_'' 18_CD October_NNP 1943_CD in_IN London_NNP -LRB-_-LRB- 1_CD -RRB-_-RRB- -RRB-_-RRB- was_VBD a_DT versatile_JJ British_JJ philosopher_NN and_CC historian_NN of_IN the_DT Hellenistic_JJ world_NN ._.
+He_PRP was_VBD the_DT fourteenth_NN of_IN sixteen_JJ children_NNS of_IN Robert_NNP Cooper_NNP Lee_NNP Bevan_NNP ,_, a_DT partner_NN in_IN Barclays_NNP Bank_NNP ,_, and_CC his_PRP$ second_JJ wife_NN Emma_NNP Frances_NNP Shuttleworth_NNP ,_, daughter_NN of_IN Philip_NNP Nicholas_NNP Shuttleworth_NNP ,_, Bishop_NNP of_IN Chichester_NNP ._.
+Bevan_NNP had_VBD an_DT academic_JJ position_NN at_IN King_NNP 's_POS College_NNP London_NNP ._.
+The_DT Arabist_NNP Anthony_NNP Ashley_NNP Bevan_NNP was_VBD his_PRP$ brother_NN ,_, the_DT conspiracy_NN theorist_NN Nesta_NNP Helen_NNP Webster_NNP was_VBD his_PRP$ youngest_JJS sister_NN and_CC the_DT artist_NN Robert_NNP Polhill_NNP Bevan_NNP a_DT cousin_NN ._.
+He_PRP married_VBD Daisy_NNP Waldegrave_NNP ,_, daughter_NN of_IN Granville_NNP Waldegrave_NNP ,_, 3rd_CD Baron_NNP Radstock_NNP in_IN 1896_CD and_CC they_PRP had_VBD two_CD daughters_NNS ,_, Christina_NNP and_CC Anne_NNP ._.
+Bevan_NNP was_VBD awarded_VBN an_DT honorary_JJ doctorate_NN from_IN St._NNP Andrews_NNP in_IN 1922_CD and_CC an_DT honorary_JJ D._NNP Litt_NNP ._.
+from_IN Oxford_NNP in_IN 1923_CD ._.
+In_IN 1942_CD he_PRP became_VBD a_DT Fellow_NNP of_IN the_DT British_JJ Academy_NNP ._.

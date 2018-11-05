@@ -1,0 +1,11 @@
+John_NNP Chalkhill_NNP -LRB-_-LRB- fl_NN ._.
+1600_CD ?_. -RRB-_-RRB-
+was_VBD an_DT English_JJ poet_NN ._.
+Two_CD songs_NNS by_IN him_PRP are_VBP included_VBN in_IN Izaak_NNP Walton_NNP 's_POS Compleat_NNP Angler_NNP ,_, and_CC in_IN 1683_CD appeared_VBD Thealma_NNP and_CC Clearchus_NNP ._.
+A_DT Pastoral_NNP History_NN in_IN smooth_JJ and_CC easie_JJ Verse_NNP ._.
+Written_VBN long_RB since_IN by_IN John_NNP Chalkhill_NNP ,_, Esq._NNP ,_, an_DT Acquaintant_NNP and_CC Friend_NNP of_IN Edmund_NNP Spencer_NNP -LRB-_-LRB- 1683_CD -RRB-_-RRB- ,_, with_IN a_DT preface_NN written_VBN five_CD years_NNS earlier_RBR by_IN Walton_NNP ._.
+Another_DT poem_NN ,_, Aldilia_NNP ,_, Philoparthens_NNP Loving_NNP Follie_NNP -LRB-_-LRB- 1595_CD ,_, reprinted_VBN in_IN vol_NN ._.
+X_NNP of_IN the_DT Jahrbuch_NNP des_FW deutschen_FW Shakespeare-Vereins_NNP -RRB-_-RRB- ,_, was_VBD at_IN one_CD time_NN attributed_VBN to_TO him_PRP ._.
+Nothing_NN further_RBR is_VBZ known_VBN of_IN the_DT poet_NN ,_, but_CC a_DT person_NN with_IN the_DT same_JJ name_NN is_VBZ recorded_VBN as_IN one_CD of_IN the_DT coroners_NNS for_IN Middlesex_NNP in_IN the_DT later_JJ years_NNS of_IN Elizabeth_NNP I_PRP 's_POS reign_NN ._.
+George_NNP Saintsbury_NNP ,_, who_WP included_VBD Thealma_NNP and_CC Clearchus_NNP in_IN vol_NN ._.
+II_NNP of_IN his_PRP$ Minor_NNP Poets_NNP of_IN the_DT Caroline_NNP Period_NNP -LRB-_-LRB- Oxford_NNP ,_, 1906_CD -RRB-_-RRB- ,_, points_VBZ out_RP a_DT marked_JJ resemblance_NN between_IN Chalkhill_NNP 's_POS work_NN and_CC that_IN of_IN William_NNP Chamberlayne_NNP ._.

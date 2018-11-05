@@ -1,0 +1,18 @@
+Sir_NNP Edward_NNP Shepherd_NNP Creasy_NNP -LRB-_-LRB- 12_CD September_NNP 1812_CD ''_'' 17_CD January_NNP 1878_CD -RRB-_-RRB- was_VBD an_DT English_JJ historian_NN and_CC jurist_NN ._.
+He_PRP was_VBD born_VBN the_DT son_NN of_IN a_DT Land_NNP Agent_NNP in_IN Bexley_NNP ,_, Kent_NNP ,_, England_NNP and_CC educated_VBN at_IN Eton_NNP College_NNP -LRB-_-LRB- where_WRB he_PRP won_VBD the_DT Newcastle_NNP Scholarship_NN in_IN 1831_CD -RRB-_-RRB- and_CC King_NNP 's_POS College_NNP ,_, Cambridge_NNP ._.
+He_PRP was_VBD called_VBN to_TO the_DT Bar_NN in_IN 1837_CD -LRB-_-LRB- 1_CD -RRB-_-RRB- and_CC appointed_VBN assistant_JJ judge_NN at_IN the_DT Westminster_NNP sessions_NNS court_NN ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- In_IN 1840_CD ,_, he_PRP began_VBD teaching_VBG history_NN at_IN the_DT University_NNP of_IN London_NNP and_CC wrote_VBD a_DT number_NN of_IN historical_JJ books_NNS including_VBG The_DT Fifteen_CD Decisive_JJ Battles_NNS of_IN the_DT World_NNP -LRB-_-LRB- 1851_CD -RRB-_-RRB- ._.
+Creasy_NNP was_VBD knighted_VBN in_IN 1860_CD ,_, and_CC spent_VBD the_DT next_JJ decade_NN and_CC a_DT half_NN in_IN Ceylon_NNP as_IN Chief_NNP Justice_NNP of_IN Ceylon_NNP -LRB-_-LRB- 1860_CD to_TO 1875_CD -RRB-_-RRB- ._.
+He_PRP then_RB returned_VBD in_IN poor_JJ health_NN to_TO England_NNP and_CC died_VBD in_IN London_NNP on_IN 17_CD January_NNP 1878_CD ._.
+Whilst_NNP in_IN Ceylon_NNP he_PRP served_VBD as_IN President_NNP of_IN the_DT Ceylon_NNP Branch_NNP of_IN the_DT Royal_NNP Asiatic_NNP Society_NNP from_IN 1861_CD to_TO 1864_CD ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB- In_IN July_NNP ,_, 1864_CD Creasy_NNP founded_VBD the_DT Colombo_NNP Rowing_NNP Club_NNP ._.
+Creasy_NNP 's_POS best_JJS known_VBN contribution_NN to_TO literature_NN is_VBZ his_PRP$ Fifteen_CD Decisive_JJ Battles_NNS of_IN the_DT World_NNP -LRB-_-LRB- 1851_CD -RRB-_-RRB- ._.
+It_PRP is_VBZ typical_JJ of_IN 19th_JJ century_NN European_JJ sentiment_NN ,_, highly_RB Eurocentric_NNP ,_, with_IN references_NNS to_TO the_DT barbarism_NN and_CC immorality_NN of_IN non-Europeans_JJ ._.
+-LRB-_-LRB- 4_LS -RRB-_-RRB- The_DT reason_NN Creasy_NNP gives_VBZ for_IN the_DT significance_NN of_IN many_JJ of_IN the_DT fifteen_JJ battles_NNS ,_, is_VBZ that_IN they_PRP denied_VBD Eastern_NNP peoples_NNS access_NN to_TO European_JJ soil_NN ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- Other_JJ battles_NNS are_VBP seen_VBN as_IN ``_`` decisive_JJ ''_'' because_IN they_PRP shaped_VBD the_DT development_NN of_IN Britain_NNP ,_, which_WDT was_VBD the_DT world_NN 's_POS leading_VBG power_NN at_IN the_DT time_NN of_IN writing_VBG ._.
+-LRB-_-LRB- citation_NN needed_VBN -RRB-_-RRB- Other_JJ works_NNS included_VBD are_VBP :_: Old_NNP Love_NNP and_CC the_DT New_NNP -LRB-_-LRB- 1870_CD -RRB-_-RRB- was_VBD a_DT novel_NN ._.
+With_IN John_NNP Sheehan_NNP and_CC Robert_NNP Gordon_NNP Latham_NNP ,_, Creasy_NNP took_VBD part_NN in_IN contributing_VBG to_TO Bentley_NNP 's_POS Miscellany_NNP the_DT political_JJ squibs_NNS in_IN verse_JJ known_VBN as_IN the_DT Tipperary_NNP Papers_NNP ._.
+-LRB-_-LRB- 5_CD -RRB-_-RRB- This_DT article_NN incorporates_VBZ text_NN from_IN a_DT publication_NN now_RB in_IN the_DT public_JJ domain_NN :_: Cousin_NN ,_, John_NNP William_NNP -LRB-_-LRB- 1910_CD -RRB-_-RRB- ._.
+A_DT Short_JJ Biographical_NNP Dictionary_NNP of_IN English_NNP Literature_NNP ._.
+London_NNP :_: J._NNP M._NNP Dent_NNP &_CC Sons_NNP ._.
+Wikisource_NNP

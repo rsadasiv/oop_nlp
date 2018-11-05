@@ -1,0 +1,10 @@
+Ralph_NNP Nixon_NNP ``_`` R.N._NNP ''_'' Currey_NNP -LRB-_-LRB- 14_CD December_NNP 1907_CD ''_'' 18_CD November_NNP 2001_CD -RRB-_-RRB- was_VBD a_DT South_JJ African_JJ born_VBN poet_NN ,_, who_WP wrote_VBD in_IN English_NNP ._.
+He_PRP was_VBD born_VBN in_IN Mafeking_NNP ,_, South_NNP Africa_NNP ._.
+His_PRP$ father_NN was_VBD an_DT English_JJ Methodist_NNP minister_NN who_WP had_VBD come_VBN out_RP with_IN the_DT British_JJ troops_NNS at_IN the_DT end_NN of_IN the_DT Boer_NNP War_NNP ._.
+He_PRP attended_VBD Kingswood_NNP School_NNP ,_, Bath_NNP and_CC Wadham_NNP College_NNP ,_, Oxford_NNP ._.
+-LRB-_-LRB- 1_LS -RRB-_-RRB- Currey_NNP married_JJ Stella_NNP Martin_NNP in_IN 1932_CD ._.
+He_PRP taught_VBD at_IN Colchester_NNP Royal_NNP Grammar_NNP School_NNP from_IN 1934_CD to_TO 1973_CD ._.
+He_PRP was_VBD called_VBN up_RP in_IN 1941_CD to_TO the_DT Royal_NNP Corps_NNP of_IN Signals_NNPS before_IN transferring_VBG to_TO the_DT Royal_NNP Artillery_NNP where_WRB he_PRP received_VBD his_PRP$ commission_NN ._.
+In_IN 1945_CD T._NNP S._NNP Eliot_NNP wrote_VBD to_TO him_PRP about_IN his_PRP$ work_NN This_DT Other_JJ Planet_NN ,_, telling_VBG him_PRP that_IN he_PRP though_IN it_PRP was_VBD ``_`` the_DT best_JJS war_NN poetry_NN in_IN the_DT correct_JJ sense_NN of_IN the_DT term_NN that_IN I_PRP have_VBP seen_VBN in_IN these_DT past_JJ years_NNS ''_'' ._.
+-LRB-_-LRB- 2_LS -RRB-_-RRB- He_PRP died_VBD at_IN home_NN in_IN Colchester_NNP ,_, England_NNP ._.
+-LRB-_-LRB- 3_LS -RRB-_-RRB-

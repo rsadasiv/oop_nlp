@@ -1,0 +1,573 @@
+Six_CD
+years_NN
+and_CC
+nearly_DWNT
+a_DT
+dozen_NN
+films_NN
+later_TIME
+,_,
+Ayushmann_NN
+Khurrana_NN
+says_VPRT [PUBV] [THATD]
+his_TPP3
+aim_NN
+is_VPRT
+to_TO
+be_VB [BEMA]
+consistent_PRED
+with_PIN
+his_TPP3
+choices_NN
+by_PIN
+retaining_VBG
+his_TPP3
+innocence_NN
+towards_PIN
+the_DT
+craft_NN
+._.
+Ayushmann_NN
+,_,
+who_WP
+made_VBD
+his_TPP3
+debut_NN
+with_PIN
+``_``
+Vicky_NN
+Donor_NN
+''_''
+in_PIN
+2012_CD
+,_,
+has_VPRT [PEAS]
+featured_VBN
+in_PIN
+several_QUAN
+slice-of-life_JJ
+films_NN
+,_,
+including_VBG
+``_``
+Dum_NN
+Laga_NN
+Ke_NN
+Haisha_NN
+''_''
+and_ANDC
+``_``
+Shubh_NN
+Mangal_NN
+Savdhan_NN
+''_''
+._.
+His_TPP3
+first_JJ
+thriller_NN
+``_``
+Andhadhun_NN
+''_''
+,_,
+directed_VBN [PASTP]
+by_PIN
+Sriram_NN
+Raghavan_NN
+,_,
+is_VPRT [BEMA]
+the_DT
+best_JJ
+reviewed_VBN
+film_NN
+of_PIN
+the_DT
+year_NN
+._.
+He_TPP3
+has_VPRT [PEAS]
+followed_VBN
+it_PIT
+up_RP
+with_PIN
+``_``
+Badhaai_NN
+Ho_NN
+''_''
+,_,
+which_WDT [SERE]
+is_VPRT
+garnering_VBG
+positive_JJ
+response_NN
+._.
+``_``
+I_FPP1
+approach_VPRT
+all_QUAN
+my_FPP1
+films_NN
+as_IN
+my_FPP1
+first_JJ
+._.
+If_COND
+you_SPP2
+carry_VPRT
+that_DEMO
+innocence_NN
+,_,
+it_PIT
+reflects_VPRT [PRIV]
+in_PIN
+the_DT
+camera_NN
+._.
+I_FPP1
+know_VPRT [PRIV] [THATD]
+I_FPP1
+have_VPRT [PEAS]
+become_VBN
+a_DT
+star_NN
+but_CC
+I_FPP1
+do_VPRT
+n't_XX0 [CONT]
+want_VB
+to_TO
+believe_VB [PRIV]
+it_PIT
+._.
+I_FPP1
+want_VPRT
+to_TO
+be_VB
+that_DEMO
+simple_JJ
+,_,
+no_SYNE
+fuss_NN
+guy_NN
+who_WP [WHSUB]
+approaches_VPRT
+a_DT
+film_NN
+as_IN
+if_COND
+it_PIT
+is_VPRT [BEMA]
+my_FPP1
+first_JJ
+movie_NN
+,_,
+''_''
+Ayushmann_NN
+told_VBD
+PTI_NN
+._.
+The_DT
+34-year-old_JJ
+actor_NN
+believes_VPRT [PRIV] [THATD]
+he_TPP3
+has_VPRT [PEAS]
+learned_VBN [PRIV]
+to_TO
+trust_VB
+his_TPP3
+intuition_NOMZ
+when_RB
+it_PIT
+comes_VPRT
+to_TO
+selecting_VBG
+films_NN
+._.
+``_``
+My_FPP1
+acting_VBG
+career_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+quite_RB
+a_DT
+ride_NN
+._.
+After_IN
+`_``
+Vicky_NN
+Donor_NN
+'_POS
+,_,
+I_FPP1
+gave_VBD
+two-three_JJ
+unsuccessful_JJ
+films_NN
+and_CC
+that_DEMP
+was_VBD [BEMA]
+a_DT
+great_JJ
+learning_GER
+curve_NN
+._.
+But_CC
+`_``
+Dum_NN
+Laga_NN
+Ke_NN
+Haisha_NN
+'_POS
+onwards_NN
+it_PIT
+was_VBD [BEMA]
+cool_PRED
+._.
+I_FPP1
+learned_VBD [PRIV]
+so_RB
+much_QUAN
+from_PIN
+all_QUAN
+my_FPP1
+films_NN
+,_,
+successful_JJ
+or_CC
+unsuccessful_JJ
+._.
+``_``
+You_SPP2
+start_VPRT
+believing_VBG [PRIV]
+in_PIN
+your_SPP2
+intuition_NOMZ
+,_,
+your_SPP2
+gut_NN
+feeling_GER
+._.
+It_PIT
+ultimately_RB
+depends_VPRT
+on_PIN
+the_DT
+choices_NN
+you_SPP2
+'re_VPRT [CONT]
+taking_VBG
+._.
+Everyone_QUPR
+is_VPRT [PASS]
+talented_VBN
+today_TIME
+._.
+Your_SPP2
+career_NN
+graph_NN
+depends_VPRT
+on_PIN
+the_DT
+choice_NN
+of_PIN
+scripts_NN
+,_,
+nothing_INPR
+else_RB
+._.
+''_''
+Ayushmann_NN
+says_VPRT [PUBV]
+the_DT
+key_NN
+to_TO
+being_VBG [PASS]
+grounded_VBN
+is_VPRT
+to_TO
+surround_VB
+oneself_NN
+with_PIN
+people_NN
+who_WP [WHSUB]
+keep_VPRT
+things_NN
+real_JJ
+._.
+``_``
+To_TO
+maintain_VB [PUBV] [THATD]
+the_DT
+innocence_NN
+depends_VPRT
+on_PIN
+the_DT
+kind_NN
+of_PIN
+people_NN
+you_SPP2
+hang_VPRT
+out_PIN
+with_PIN [STPR]
+._.
+I_FPP1
+have_VPRT [PEAS]
+made_VBN
+friends_NN
+from_PIN
+the_DT
+industry_NN
+but_CC
+I_FPP1
+still_RB
+hang_VPRT
+out_PIN
+with_PIN
+my_FPP1
+Chandigarh_NN
+friends_NN
+._.
+Your_SPP2
+family_NN
+can_POMD
+keep_VB
+you_SPP2
+grounded_VBN
+,_,
+make_VB
+you_SPP2
+keep_VB
+things_NN
+real_RB
+,_,
+''_''
+he_TPP3
+says_VPRT [PUBV]
+._.
+The_DT
+``_``
+Meri_NN
+Pyaari_NN
+Bindu_NN
+''_''
+actor_NN
+says_VPRT [PUBV] [THATD]
+he_TPP3
+is_VPRT [BEMA]
+always_RB
+on_PIN
+the_DT
+look_NN
+out_PIN
+for_PIN
+different_JJ
+subjects_NN
+._.
+``_``
+My_FPP1
+first_JJ
+aspiration_NOMZ
+is_VPRT
+to_TO
+be_VB [BEMA]
+consistent_PRED
+._.
+Atul_NN
+Kasbekar_NN
+-LRB-_-LRB-
+producer_NN
+-RRB-_-RRB-
+once_TIME
+said_VBD [PUBV] [THATD]
+I_FPP1
+'m_VPRT [CONT]
+like_IN
+Rahul_NN
+Dravid_NN
+of_PIN
+Bollywood_NN
+,_,
+I_FPP1
+pick_VPRT
+up_RP
+the_DT
+right_NN
+deliveries_NN
+and_CC
+hit_VBD
+the_DT
+sweet_JJ
+spot_NN
+,_,
+but_CC
+otherwise_CONJ
+I_FPP1
+am_VPRT
+chill_NN
+and_CC
+never_RB
+try_VB
+too_RB
+hard_JJ
+._.
+That_DEMP
+'s_VPRT [CONT] [BEMA]
+a_DT
+great_JJ
+analogy_NN
+,_,
+I_FPP1
+love_VPRT
+it_PIT
+._.
+``_``
+The_DT
+running_VBG
+thread_NN
+of_PIN
+my_FPP1
+career_NN
+has_VPRT [PEAS]
+been_VBN [BEMA]
+different_JJ
+scripts_NN
+._.
+There_EX
+is_VPRT
+n't_XX0 [CONT]
+any_QUAN
+reference_NN
+point_NN
+for_PIN
+any_QUAN
+of_PIN
+the_DT
+films_NN
+--_:
+`_``
+Vicky_NN
+Donor_NN
+'_POS
+,_,
+`_``
+Andhadhun_NN
+'_''
+or_CC
+`_``
+Badhaai_NN
+Ho_NN
+'_POS
+so_IN
+people_NN
+find_VPRT [PRIV]
+it_PIT
+exciting_JJ
+because_CAUS
+they_TPP3
+have_VPRT [PEAS]
+n't_XX0 [CONT]
+seen_VBN [PRIV]
+anything_QUPR
+like_IN
+this_DEMP
+._.
+I_FPP1
+'m_VPRT [CONT] [BEMA]
+quite_RB
+proud_PRED
+of_PIN
+it_PIT
+._.
+''_''
+``_``
+Badhaai_NN
+Ho_NN
+''_''
+,_,
+which_WDT [SERE]
+released_VBD
+on_PIN
+Thursday_NN
+,_,
+features_VPRT
+him_TPP3
+as_IN
+the_DT
+son_NN
+of_PIN
+an_DT
+elderly_JJ
+couple_NN
+who_WP [WHSUB]
+find_VPRT [PRIV]
+out_PIN
+they_TPP3
+would_PRMD
+be_VB
+turning_VBG
+parents_NN
+for_PIN
+the_DT
+third_JJ
+time_NN
+._.
+``_``
+It_PIT
+was_VBD
+n't_XX0 [CONT]
+just_EMPH
+that_DEMO
+one_CD
+quirky_JJ
+line_NN
+`_``
+what_WP
+to_TO
+expect_VB [PRIV]
+when_RB [WHCL]
+your_SPP2
+mother_NN
+is_VPRT
+expecting_VBG [PRIV]
+'_''
+but_CC
+the_DT
+whole_JJ
+script_NN
+won_VBD
+me_FPP1
+over_IN
+._.
+Everyone_QUPR
+is_VPRT [BEMA]
+a_DT
+hero_NN
+in_PIN
+the_DT
+film_NN
+from_PIN
+Gajraj_NN
+Rao_NN
+,_,
+Neena_NN
+Gupta_NN
+to_PIN
+everyone_QUPR
+._.
+It_PIT
+'s_VPRT [CONT] [BEMA]
+such_EMPH
+a_NULL
+balanced_JJ
+film_NN
+which_WDT [WHSUB]
+focuses_VPRT
+on_PIN
+everyone_QUPR
+,_,
+''_''
+he_TPP3
+says_VPRT [PUBV]
+._.
